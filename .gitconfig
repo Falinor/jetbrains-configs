@@ -1,0 +1,22 @@
+[user]
+	name = Gueugnaut Andrea
+	email = gueugn_a@epita.fr
+[core]
+  ui = true
+  interactive = true
+  status = auto
+  branch = true
+  diff = true
+	editor = vim
+[merge]
+	tool = vimdiff
+[push]
+	default = current
+[alias]
+	civ = commit
+	lg = log --decorate --branches --graph
+	lgo = log --decorate --branches --graph --oneline
+	b = branch
+	cmi = commit -m
+	co = checkout
+	cl = clone
