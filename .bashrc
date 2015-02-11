@@ -119,12 +119,16 @@ export NNTPSERVER='news.epita.fr'
 export pager=most
 
 ####### General aliases #######
-#alias lock='i3lock -d -e -i ~/Pictures/Wallpapers/arthas.jpg'
+alias lock="i3lock -d -i ~/wallpaper.png"
 alias us='setxkbmap us && echo Changed to us keymap successfully'
 alias fr='setxkbmap fr && echo Changed to fr keymap successfully'
 alias c='clear'
 alias t='tree'
 alias logout='i3-msg exit'
 
-####### Background #######
-eval $(cat ~/.fehbg)
+####### Brightness #######
+alias lumiless='xrandr --output eDP1 --brightness 0.7'
+alias lumimore='xrandr --output eDP1 --brightness 1'
+
+eval 'feh --bg-center wallpaper.png'
+eval lumiless
