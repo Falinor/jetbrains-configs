@@ -402,12 +402,12 @@ hi CursorLine cterm=None ctermfg=None
 hi lineNr gui=None ctermfg=black ctermbg=None 
 set cursorline
 set t_Co=256
+set colorcolumn=80
+highlight OverLength ctermbg=red ctermfg=white guibg=#592929
+match OverLength /\%81v.\+/
 
+" NEOCOMPLCACHE - AUTOCOMPLETION !!
 
-
-" AUTOCOMPLETE SETTINGS
-
-"Note: This option must set it in .vimrc(_vimrc).  NOT IN .gvimrc(_gvimrc)!
 " Disable AutoComplPop.
 let g:acp_enableAtStartup = 0
 " Use neocomplcache.
@@ -496,7 +496,3 @@ let g:neocomplcache_force_omni_patterns.cpp = '[^.[:digit:] *\t]\%(\.\|->\)\|\h\
 " For perlomni.vim setting.
 " https://github.com/c9s/perlomni.vim
 let g:neocomplcache_force_omni_patterns.perl = '\h\w*->\h\w*\|\h\w*::'
-
-set colorcolumn=80
-highlight OverLength ctermbg=red ctermfg=white guibg=#592929
-match OverLength /\%81v.\+/
