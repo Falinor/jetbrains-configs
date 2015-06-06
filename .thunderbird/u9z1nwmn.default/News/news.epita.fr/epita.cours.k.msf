@@ -1,0 +1,81 @@
+// <!-- <mdb:mork:z v="1.4"/> -->
+< <(a=c)> // (f=iso-8859-1)
+  (B8=cleanupBodies)(B9=applyToFlaggedMessages)(BA=useServerRetention)
+  (BB=knownArts)(BC=ProtoThreadFlags)(BD=lastMissingCheck)
+  (80=ns:msg:db:row:scope:msgs:all)(81=subject)(82=sender)(83=message-id)
+  (84=references)(85=recipients)(86=date)(87=size)(88=flags)(89=priority)
+  (8A=label)(8B=statusOfset)(8C=numLines)(8D=ccList)(8E=bccList)
+  (8F=msgThreadId)(90=threadId)(91=threadFlags)(92=threadNewestMsgDate)
+  (93=children)(94=unreadChildren)(95=threadSubject)(96=msgCharSet)
+  (97=ns:msg:db:table:kind:msgs)(98=ns:msg:db:table:kind:thread)
+  (99=ns:msg:db:table:kind:allthreads)
+  (9A=ns:msg:db:row:scope:threads:all)(9B=threadParent)(9C=threadRoot)
+  (9D=msgOffset)(9E=offlineMsgSize)
+  (9F=ns:msg:db:row:scope:dbfolderinfo:all)
+  (A0=ns:msg:db:table:kind:dbfolderinfo)(A1=numMsgs)(A2=numNewMsgs)
+  (A3=folderSize)(A4=expungedBytes)(A5=folderDate)(A6=highWaterKey)
+  (A7=mailboxName)(A8=UIDValidity)(A9=totPendingMsgs)
+  (AA=unreadPendingMsgs)(AB=expiredMark)(AC=version)
+  (AD=fixedBadRefThreading)(AE=readSet)(AF=folderName)
+  (B0=charSetOverride)(B1=charSet)(B2=retainBy)(B3=daysToKeepHdrs)
+  (B4=numHdrsToKeep)(B5=daysToKeepBodies)(B6=keepUnreadOnly)
+  (B7=useServerDefaults)>
+<(98=69)(89=553f6878)(86=0)(80=1)>
+[1:m(^9C=69)(^90=69)(^92^89)(^91=0)(^93=1)(^94=1)]
+<(99=6a)(92=55468ac1)(9A=2)>[2:m(^9C=6a)(^90=6a)(^92^92)(^91=0)(^93=2)
+    (^94=2)]
+
+<(87=Soutenances =?UTF-8?B?aW50ZXJtw6lkaWFpcmVz?=)(88
+    =Pierre Surply <surply@lse.epita.fr>)(8A=553F6878.7050600@lse.epita.fr)
+  (81=)(8B=13)(97=ffffffff)(8C=[K][MALLOC] - Undefined reference to malloc)
+  (8D=Anne-Claire Berthet <berthe_d@epita.fr>)(8E=5546291f)(8F
+    =mi59f0\$dtm\$1@news.ig-iit.com)(90=a)(91=10)(93
+    =55468AC1.30605@lse.epita.fr)(94=<mi59f0\$dtm\$1@news.ig-iit.com>)
+  (95=1d)>
+{1:^80 {(k^97:c)(s=9)} 
+  [69(^88=0)(^81^87)(^82^88)(^86^89)(^83^8A)(^84=)(^87=0)(^8C=13)(^9B^97)
+    (^8F=69)(^BC=0)]
+  [6A(^88=0)(^81^8C)(^82^8D)(^86^8E)(^83^8F)(^84=)(^87=0)(^8C=a)(^9B^97)
+    (^8F=6a)(^BC=0)]
+  [6B(^88=10)(^81^8C)(^82^88)(^86^92)(^83^93)(^84^94)(^87=0)(^8C=1d)
+    (^9B=6a)(^8F=6a)(^BC=0)]}
+{69:^80 {(k^98:c)(s=9)1:m } 69 }
+{6A:^80 {(k^98:c)(s=9)2:m } 6A 6B }
+{FFFFFFFD:^9A {(k^99:c)(s=9)} [69(^95^87)]
+  [6A(^95^8C)]}
+
+<(9C=1-104)(82=ISO-8859-1)(83=4)(84=6b)(96=104-107)(9B=3)>
+{1:^9F {(k^A0:c)(s=9u)} 
+  [1(^AC=1)(^AD=1)(^88=1)(^AE^9C)(^B1^82)(^BA=1)(^AA=4)(^A9=6b)(^BB^96)
+    (^A1=3)(^A2=3)(^A6=6b)(^BD=6a)]}
+
+@$${8{@
+@$$}8}@
+
+@$${9{@
+[-1:^9F(^AC=1)(^AD=1)(^88=1)(^AE^9C)(^B1^82)(^BA=1)(^AA=0)(^A9=0)(^BB^96)
+    (^A1=3)(^A2=3)(^A6=6b)(^BD=6a)]
+@$$}9}@
+
+@$${A{@
+<(9D=68)>[1:^9F(^A9=68)]
+@$$}A}@
+
+@$${B{@
+@$$}B}@
+
+@$${C{@
+@$$}C}@
+
+@$${D{@
+[1:^9F(^A9=0)]
+@$$}D}@
+
+@$${F{@
+[1:m(^94=0)]
+[2:m(^94=0)]
+[69:^80(^88=1)]
+[6A:^80(^88=1)]
+<(9E=11)>[6B:^80(^88=11)]
+[1:^9F(^A2=0)]
+@$$}F}@
