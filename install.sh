@@ -2,18 +2,18 @@
 
 # TODO: INSTALL MYSQL AND POSTGRESQL
 
-sudo apt-get update
+sudo apt-get -y update
 
 # Oh my zsh
-sudo apt-get install zsh
+sudo apt-get -y install zsh
 chsh -s /usr/bin/zsh
 sh -c "$(wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
 zsh --version > setup.log
 
 # Java
 sudo add-apt-repository ppa:webupd8team/java
-sudo apt-get update
-sudo apt-get install oracle-java8-installer
+sudo apt-get -y update
+sudo apt-get -y install oracle-java8-installer
 java -version >> setup.log
 
 ### Install hidden files and directories ###
