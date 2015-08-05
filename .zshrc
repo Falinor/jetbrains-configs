@@ -84,7 +84,7 @@ export NNTPSERVER='news.epita.fr'
 export pager=most
 
 ####### General aliases #######
-alias lock="i3lock -d -i ~/wallpaper.png"
+alias lock="i3lock -d -i ~/cat-wp.png"
 alias us='setxkbmap us && echo Changed to us keymap successfully'
 alias fr='setxkbmap fr && echo Changed to fr keymap successfully'
 alias c='clear'
@@ -110,9 +110,11 @@ xset s noblank
 xset -dpms
 
 ####### Background image #######
-feh --bg-center wallpaper.png
+#feh --bg-center wallpaper.png
+feh --bg-center lake-wp.png
 
+# Bind escape to capslock
+setxkbmap -layout us -option caps:escape
+
+# gcc and g++ compilers colors
 export GCC_COLORS='error=01;31:warning=01;35:note=01;36:caret=01;32:locus=01:quote=01'
-export JAVA_HOME='/usr/lib/jvm/jdk1.8.0_45'
-export JDK_HOME='/usr/lib/jvm/jdk1.8.0_45'
-#### !Aliases #####

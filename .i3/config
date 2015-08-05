@@ -153,7 +153,9 @@ bar {
         mode dock
 }
 
-# Bind escape to capslock
-setxkbmap -layout us -option caps:escape
 # New windows get a pixel border
 new_window pixel
+# Wifi
+exec --no-startup-id nm-applet
+# Theme
+exec --no-startup-id gnome-settings-daemon
