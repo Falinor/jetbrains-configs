@@ -67,7 +67,6 @@ nmap <leader>w :w!<cr>
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => VIM user interface
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-execute pathogen#infect()
 
 " Set 7 lines to the cursor - when moving vertically using j/k
 set so=7

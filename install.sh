@@ -19,6 +19,9 @@ sudo apt-get -y update
 sudo apt-get -y install oracle-java8-installer
 java -version >> setup.log
 
+# Neobundle -> neocomplete, vim-airline
+curl https://raw.githubusercontent.com/Shougo/neobundle.vim/master/bin/install.sh | sh
+
 ### Install hidden files and directories ###
 
 cd $HOME && echo "Going to $HOME..." >> setup.log
