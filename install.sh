@@ -21,6 +21,8 @@ java -version >> setup.log
 # Composer (for PHP and Laravel framework)
 curl -sS https://getcomposer.org/installer | php
 cd /usr/bin && sudo ln -s $OLDPWD/composer.phar composer
+# GO back to install directory
+cd $OLDPWD
 
 cd $HOME && echo "Going to $HOME..." >> setup.log
 # Loop over files
@@ -30,7 +32,7 @@ for file in $(ls -a $OLDPWD); do
     ".gitignore")   echo "Ignoring .gitignore";;
     "$0")           echo "Ignoring $0";;
     # Make symlinks from git repository to $HOME
-    *)              ln -s "$OLDPWD/$file";;
+    *)              ln -sf "$OLDPWD/$file";;
   esac
 done
 
