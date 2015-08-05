@@ -21,12 +21,6 @@ java -version >> setup.log
 
 ### Install hidden files and directories ###
 
-# Composer (for PHP and Laravel framework)
-curl -sS https://getcomposer.org/installer | php
-cd /usr/bin && sudo ln -s $OLDPWD/composer.phar composer
-# GO back to install directory
-cd $OLDPWD
-
 cd $HOME && echo "Going to $HOME..." >> setup.log
 # Loop over files
 for file in $(ls -a $OLDPWD); do
