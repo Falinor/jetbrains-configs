@@ -10,6 +10,9 @@ chsh -s /usr/bin/zsh
 sh -c "$(wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
 zsh --version > setup.log
 
+# Feh
+sudo apt-get -y install feh
+
 # Java
 sudo add-apt-repository ppa:webupd8team/java
 sudo apt-get -y update
@@ -36,7 +39,10 @@ for file in $(ls -a $OLDPWD); do
   esac
 done
 
-echo "----- TODO -----\n"
+source ~/.bashrc
+source ~/.zshrc
+
+echo "\n----- TODO -----\n"
 
 echo "Install IntelliJIdea"
 echo "Install Gimp"
