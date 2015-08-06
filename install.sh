@@ -33,6 +33,8 @@ for file in $(ls -a $OLDPWD); do
   esac
 done
 
+# Install vim and its components before bundles
+sudo apt-get -y install vim vim-nox vim-gtk vim-gnome vim-athena
 # Neobundle -> neocomplete, vim-airline
 curl https://raw.githubusercontent.com/Shougo/neobundle.vim/master/bin/install.sh | sh
 
