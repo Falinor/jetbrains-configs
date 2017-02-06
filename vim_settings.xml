@@ -1545,11 +1545,11 @@
         <mark key="." line="3" column="29" />
         <mark key="^" line="3" column="29" />
       </file>
-      <file name="$USER_HOME$/Dev/status-checker/client/src/status-checker/StatusChecker.js" timestamp="1486417233545">
-        <mark key="[" line="16" column="21" />
-        <mark key="]" line="17" column="3" />
+      <file name="$USER_HOME$/Dev/status-checker/client/src/status-checker/StatusChecker.js" timestamp="1486418289261">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
         <mark key="^" line="17" column="3" />
-        <mark key="." line="17" column="3" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/apps-status/server/src/constants.js" timestamp="1486242538763">
         <mark key="[" line="5" column="0" />
@@ -1716,6 +1716,12 @@
         <mark key="]" line="0" column="6" />
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="6" />
+      </file>
+      <file name="$USER_HOME$/Dev/status-checker/server/src/index.js" timestamp="1486419605254">
+        <mark key="[" line="50" column="4" />
+        <mark key="]" line="48" column="44" />
+        <mark key="." line="48" column="44" />
+        <mark key="^" line="48" column="44" />
       </file>
       <file name="$USER_HOME$/Dev/content-square/parser/drinks/coffee.js" timestamp="1477014911555">
         <mark key="[" line="3" column="17" />
@@ -1947,6 +1953,12 @@
         <mark key="]" line="19" column="102" />
         <mark key="^" line="19" column="102" />
         <mark key="." line="19" column="102" />
+      </file>
+      <file name="$USER_HOME$/Dev/status-checker/server/src/config.js" timestamp="1486418931478">
+        <mark key="[" line="7" column="64" />
+        <mark key="]" line="7" column="64" />
+        <mark key="^" line="7" column="64" />
+        <mark key="." line="7" column="64" />
       </file>
       <file name="$USER_HOME$/Dev/Javascript/musicus-client/src/client/app/+tools/note/note-form.component.ts" timestamp="1470701582941">
         <mark key="[" line="18" column="32" />
@@ -3234,7 +3246,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="$USER_HOME$/Dev/dj-socket/client/src/client/index.html" />
       <jump line="1" column="0" filename="$USER_HOME$/Dev/dj-socket/client/tsconfig.json" />
       <jump line="10" column="21" filename="$USER_HOME$/Dev/dj-socket/client/src/client/tsconfig.json" />
       <jump line="18" column="14" filename="$USER_HOME$/Dev/dj-socket/client/tools/README.md" />
@@ -3334,6 +3345,7 @@
       <jump line="27" column="2" filename="$USER_HOME$/Dev/apps-status/server/src/index.js" />
       <jump line="16" column="1" filename="$USER_HOME$/Dev/apps-status/server/src/refresher.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Dev/apps-status/server/src/refresher.js" />
+      <jump line="19" column="0" filename="$USER_HOME$/Dev/status-checker/server/src/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3342,8 +3354,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJlcG9ydC5hZGRyZXNzCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cGluZyA=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -3406,7 +3418,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGl2IA==</text>
+        <text encoding="base64">cGluZyA=</text>
       </register>
       <register name="/" type="4">
         <text>short</text>
@@ -3415,7 +3427,7 @@
         <text encoding="base64">ICAgIHsKICAgICAgIm5hbWUiOiAiU3RhdHVzIGNoZWNrZXIiLAogICAgICAidXJsIjogInN0YXR1cy5mYWxpbm9yLmNvbSIKICAgIH0sCiAgICB7CiAgICAgICJuYW1lIjogIlBvcnRmb2xpbyIsCiAgICAgICJ1cmwiOiAiZmFsaW5vci5jb20iCiAgICB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlcG9ydC5hZGRyZXNzCg==</text>
+        <text encoding="base64">ICAgICAgc29ja2V0LmVtaXQoY29uZmlnLkVWRU5UUy5TRU5EX1NUQVRVU19SRVBPUlQsIHsgcmVzdWx0OiBkYXRhIH0pOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3425,22 +3437,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcG9ydCk7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICJ1c2Ugc3RyaWN0IjsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">dGNwcC5waW5nKG9wdHMsIChlcnIsIGRhdGEpID0+IHsKICAgIGlmIChlcnIpIHRocm93IGVycjsKCiAgICAvLyBBZGQgdGhlIGlkIGFuZCBuYW1lIHJlbGF0ZWQgdG8gdGhlIGdpdmVuIGFkZHJlc3MKICAgIGRhdGEuaWQgPSBsaW5rLmlkOwogICAgZGF0YS5uYW1lID0gbGluay5uYW1lOwogICAgLy8gRW1pdCBkYXRhIHRvIGxpc3RlbmluZyBjbGllbnRzCiAgICBzb2NrZXQuZW1pdChjb25maWcuRVZFTlRTLlNFTkRfU1RBVFVTX1JFUE9SVCwgeyByZXN1bHQ6IGRhdGEgfSk7CiAgfSk7</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICByZXR1cm4gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxsaT48L2xpPgo=</text>
+        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSB7IHJlZnJlc2hTdGF0dXMgfTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3450,10 +3462,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdHIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">OndoaWxlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
