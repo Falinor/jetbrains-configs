@@ -1,6 +1,6 @@
 [user]
-	name = Gueugnaut Andrea
-	email = gueugn_a@epita.fr
+	name = Andrea Gueugnaut
+	email = andrea.gueugnaut@gmail.com
 [core]
   ui = true
   interactive = true
@@ -16,7 +16,12 @@
 	civ = commit
 	lg = log --decorate --branches --graph
 	lgo = log --decorate --branches --graph --oneline
+  slog = shortlog
 	b = branch
 	cmi = commit -m
 	co = checkout
 	cl = clone
+[filter "lfs"]
+	clean = git-lfs clean %f
+	smudge = git-lfs smudge %f
+	required = true
