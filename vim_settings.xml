@@ -141,6 +141,13 @@
         <mark key="." line="1" column="1" />
         <mark key="^" line="1" column="1" />
       </file>
+      <file name="$USER_HOME$/Dev/status-checker/server/src/model.js" timestamp="1486423466612">
+        <mark key="'" line="3" column="1" />
+        <mark key="[" line="10" column="3" />
+        <mark key="]" line="11" column="10" />
+        <mark key="." line="11" column="10" />
+        <mark key="^" line="11" column="10" />
+      </file>
       <file name="$USER_HOME$/Dev/Javascript/musicus-client/src/client/app/shared/list/list-item/list-item.component.scss" timestamp="1468165071821">
         <mark key="[" line="1" column="44" />
         <mark key="]" line="1" column="43" />
@@ -1717,11 +1724,11 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/Dev/status-checker/server/src/index.js" timestamp="1486420898222">
-        <mark key="[" line="50" column="4" />
-        <mark key="]" line="25" column="32" />
-        <mark key="." line="25" column="32" />
-        <mark key="^" line="25" column="32" />
+      <file name="$USER_HOME$/Dev/status-checker/server/src/index.js" timestamp="1486424043404">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="63" column="10" />
       </file>
       <file name="$USER_HOME$/Dev/content-square/parser/drinks/coffee.js" timestamp="1477014911555">
         <mark key="[" line="3" column="17" />
@@ -1955,11 +1962,11 @@
         <mark key="^" line="19" column="102" />
         <mark key="." line="19" column="102" />
       </file>
-      <file name="$USER_HOME$/Dev/status-checker/server/src/config.js" timestamp="1486418931478">
-        <mark key="[" line="7" column="64" />
-        <mark key="]" line="7" column="64" />
-        <mark key="^" line="7" column="64" />
-        <mark key="." line="7" column="64" />
+      <file name="$USER_HOME$/Dev/status-checker/server/src/config.js" timestamp="1486422393436">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="7" column="8" />
       </file>
       <file name="$USER_HOME$/Dev/Javascript/musicus-client/src/client/app/+tools/note/note-form.component.ts" timestamp="1470701582941">
         <mark key="[" line="18" column="32" />
@@ -3247,7 +3254,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/Dev/dj-socket/client/tsconfig.json" />
       <jump line="10" column="21" filename="$USER_HOME$/Dev/dj-socket/client/src/client/tsconfig.json" />
       <jump line="18" column="14" filename="$USER_HOME$/Dev/dj-socket/client/tools/README.md" />
       <jump line="50" column="0" filename="$USER_HOME$/Dev/dj-socket/client/tools/README.md" />
@@ -3347,6 +3353,7 @@
       <jump line="16" column="1" filename="$USER_HOME$/Dev/apps-status/server/src/refresher.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Dev/apps-status/server/src/refresher.js" />
       <jump line="19" column="0" filename="$USER_HOME$/Dev/status-checker/server/src/index.js" />
+      <jump line="3" column="1" filename="$USER_HOME$/Dev/status-checker/server/src/model.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3355,8 +3362,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cGluZyA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAidXNlIHN0cmljdCI7Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -3419,7 +3426,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cGluZyA=</text>
+        <text>ping</text>
       </register>
       <register name="/" type="4">
         <text>short</text>
@@ -3428,7 +3435,7 @@
         <text encoding="base64">ICAgIHsKICAgICAgIm5hbWUiOiAiU3RhdHVzIGNoZWNrZXIiLAogICAgICAidXJsIjogInN0YXR1cy5mYWxpbm9yLmNvbSIKICAgIH0sCiAgICB7CiAgICAgICJuYW1lIjogIlBvcnRmb2xpbyIsCiAgICAgICJ1cmwiOiAiZmFsaW5vci5jb20iCiAgICB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgc29ja2V0LmVtaXQoY29uZmlnLkVWRU5UUy5TRU5EX1NUQVRVU19SRVBPUlQsIHsgcmVzdWx0OiBkYXRhIH0pOwo=</text>
+        <text encoding="base64">ICAidXNlIHN0cmljdCI7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3438,22 +3445,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICJ1c2Ugc3RyaWN0IjsK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">dGNwcC5waW5nKG9wdHMsIChlcnIsIGRhdGEpID0+IHsKICAgIGlmIChlcnIpIHRocm93IGVycjsKCiAgICAvLyBBZGQgdGhlIGlkIGFuZCBuYW1lIHJlbGF0ZWQgdG8gdGhlIGdpdmVuIGFkZHJlc3MKICAgIGRhdGEuaWQgPSBsaW5rLmlkOwogICAgZGF0YS5uYW1lID0gbGluay5uYW1lOwogICAgLy8gRW1pdCBkYXRhIHRvIGxpc3RlbmluZyBjbGllbnRzCiAgICBzb2NrZXQuZW1pdChjb25maWcuRVZFTlRTLlNFTkRfU1RBVFVTX1JFUE9SVCwgeyByZXN1bHQ6IGRhdGEgfSk7CiAgfSk7</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJlc29sdmUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICBwaW5nKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAidXNlIHN0cmljdCI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSB7IHJlZnJlc2hTdGF0dXMgfTsK</text>
+        <text encoding="base64">ICB0aGlzLmxpbmtzCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3462,14 +3469,14 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICBMSU5LUzogWwogICAgeyBpZDogMSwgbmFtZTogJ1BvcnRmb2xpbycsIHVybDogJ2ZhbGlub3IuY29tJyB9LAogICAgeyBpZDogMiwgbmFtZTogJ1N0YXR1cyBjaGVja2VyJywgdXJsOiAnc3RhdHVzLmZhbGlub3IuY29tJyB9LAogIF0s</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBmaW5kCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -3523,8 +3530,8 @@
         <entry encoding="base64">JzwsJz5zL149ezd9Lis+ezd9LittYXN0ZXIkLy9n</entry>
         <entry>q!</entry>
         <entry>q</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
