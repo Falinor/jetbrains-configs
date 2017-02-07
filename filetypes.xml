@@ -1,12 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="eot" type="PLAIN_TEXT" />
-      <mapping ext="ttf" type="PLAIN_TEXT" />
-      <mapping ext="" type="TypeScript" />
-      <mapping ext="java" type="TypeScript" />
-      <mapping ext="mei" type="XML" />
+      <mapping pattern="photo1" type="PLAIN_TEXT" />
+      <mapping pattern="META-INF" type="PLAIN_TEXT" />
+      <mapping pattern="instrument-select.ts" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
