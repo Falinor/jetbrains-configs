@@ -667,11 +667,11 @@
         <mark key="^" line="7" column="73" />
         <mark key="." line="7" column="73" />
       </file>
-      <file name="$USER_HOME$/Dev/status-checker/front/src/status/Status.css" timestamp="1486830327734">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="14" column="17" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Dev/status-checker/front/src/status/Status.css" timestamp="1486901217358">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="11" column="28" />
+        <mark key="^" line="11" column="28" />
+        <mark key="." line="11" column="28" />
       </file>
       <file name="$USER_HOME$/Dev/MusicUs/src/client/src/app/shared/autocomplete/index.ts" timestamp="1464737777226">
         <mark key="[" line="0" column="0" />
@@ -954,11 +954,11 @@
         <mark key="^" line="1" column="13" />
         <mark key="." line="1" column="13" />
       </file>
-      <file name="$USER_HOME$/Dev/status-checker/front/src/status-checker/StatusChecker.css" timestamp="1486827357587">
+      <file name="$USER_HOME$/Dev/status-checker/front/src/status-checker/StatusChecker.css" timestamp="1486830359667">
         <mark key="[" line="3" column="18" />
-        <mark key="]" line="3" column="17" />
-        <mark key="^" line="3" column="17" />
-        <mark key="." line="3" column="17" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/Java/Mediatheque/src/main/java/com/mti/services/ServiceResult.java" timestamp="1460204638505">
         <mark key="[" line="7" column="7" />
@@ -1156,11 +1156,12 @@
         <mark key="." line="20" column="27" />
         <mark key="^" line="20" column="27" />
       </file>
-      <file name="$USER_HOME$/Dev/status-checker/front/src/index.css" timestamp="1486827291173">
-        <mark key="[" line="8" column="1" />
-        <mark key="]" line="11" column="23" />
-        <mark key="." line="11" column="23" />
-        <mark key="^" line="11" column="23" />
+      <file name="$USER_HOME$/Dev/status-checker/front/src/index.css" timestamp="1486901306421">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="3" column="21" />
+        <mark key="]" line="3" column="20" />
+        <mark key="." line="3" column="20" />
+        <mark key="^" line="3" column="20" />
       </file>
       <file name="$USER_HOME$/Dev/MusicUs/src/client/src/app/shared/footer/footer.component.html" timestamp="1464365847816">
         <mark key="[" line="10" column="48" />
@@ -1442,12 +1443,12 @@
         <mark key="." line="2" column="34" />
         <mark key="^" line="2" column="34" />
       </file>
-      <file name="$USER_HOME$/Dev/status-checker/front/src/status/Status.js" timestamp="1486829800703">
+      <file name="$USER_HOME$/Dev/status-checker/front/src/status/Status.js" timestamp="1486900608338">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="15" column="15" />
+        <mark key="[" line="16" column="29" />
+        <mark key="]" line="16" column="16" />
+        <mark key="." line="16" column="16" />
+        <mark key="^" line="16" column="16" />
       </file>
       <file name="$USER_HOME$/Dev/MusicUs/src/client/src/app/+instruments/instrument-chooser/index.ts" timestamp="1464732585260">
         <mark key="[" line="0" column="0" />
@@ -1599,7 +1600,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="0" filename="$USER_HOME$/Dev/Java/exam/src/main/kotlin/com/inad/units/UnitVerticle.kt" />
       <jump line="75" column="29" filename="$USER_HOME$/Dev/Java/exam/src/main/kotlin/com/inad/units/UnitVerticle.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/Dev/Java/exam/src/main/kotlin/com/inad/units/UnitVerticle.kt" />
       <jump line="177" column="13" filename="$MAVEN_REPOSITORY$/io/reactivex/rxjava/1.1.9/rxjava-1.1.9.jar!/rx/Observable.class" />
@@ -1699,6 +1699,7 @@
       <jump line="46" column="29" filename="$USER_HOME$/Dev/status-checker/front/src/status-checker/StatusChecker.js" />
       <jump line="6" column="2" filename="$USER_HOME$/Dev/status-checker/front/src/status/Status.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Dev/status-checker/front/src/status/Status.js" />
+      <jump line="11" column="0" filename="$USER_HOME$/Dev/status-checker/front/src/index.css" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1708,10 +1709,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBmb250LXNpemU6IDE0cHg7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>margin</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1726,35 +1727,45 @@
         <text encoding="base64">ICAgICAgICAgICAgc2VuZENvbW1hbmQoY21kKS5zdWJzY3JpYmUoeyByZXBvcnQgLT4KICAgICAgICAgICAgICAgIGxvZy5kZWJ1ZygiR290IHJlcG9ydCAke3JlcG9ydC5pZH0iKQogICAgICAgICAgICAgICAgZXhlY3V0ZUNvbW1hbmRSZWMoY21kLmNtZE9uU3VjY2Vzcz8uYXBwbHkocmVwb3J0KSkKICAgICAgICAgICAgfSwgeyBlcnIgLT4KICAgICAgICAgICAgICAgIGxvZy5lcnJvcigiRmFpbGVkIGdldHRpbmcgcmVwb3J0ICR7ZXJyLmNhdXNlfSIpCiAgICAgICAgICAgICAgICBleGVjdXRlQ29tbWFuZFJlYyhjbWQuY21kT25FcnJvcj8uYXBwbHkoZXJyKSkKICAgICAgICAgICAgfSk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBmb250LXNpemU6IDE0cHg7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>padding-top: 24px;
-  padding-bottom: 16px;</text>
+        <text>button {
+  display: inline-block;
+  box-sizing: border-box;
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  margin: 0;
+  padding: 16px;
+  border: none;
+  border-radius: 2px;
+}</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwYWQK</text>
+        <text encoding="base64">ICB0ZXh0LWRlY29yYXRpb246IDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBmb250LXNpemU6IDI0cHg7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxwPnt0aGlzLnByb3BzLnN0YXR1cy51cmx9PC9wPgo=</text>
+        <text encoding="base64">ICBjdXJzb3I6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICA8cCBjbGFzc05hbWU9IkFwcC1pbnRybyI+CiAgICAgICAgICBUbyBnZXQgc3RhcnRlZCwgZWRpdCA8Y29kZT5zcmMvQXBwLmpzPC9jb2RlPiBhbmQgc2F2ZSB0byByZWxvYWQuCiAgICAgICAgPC9wPg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">QGltcG9ydCAiIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
