@@ -27,7 +27,7 @@
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="/a.dummy" timestamp="1485290369052">
+      <file name="/a.dummy" timestamp="1487001470631">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/Java/search-engine/src/main/kotlin/com/inad/indexer/LocalIndex.kt" timestamp="1484389801287">
@@ -350,6 +350,12 @@
         <mark key="^" line="22" column="38" />
         <mark key="." line="22" column="19" />
       </file>
+      <file name="$USER_HOME$/Dev/iot-api/coap/server/.docker/Dockerfile" timestamp="1487001407090">
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Dev/musicus/src/client/tools/tasks/seed/build.assets.dev.ts" timestamp="1465999579078">
         <mark key="[" line="13" column="37" />
         <mark key="]" line="13" column="37" />
@@ -643,6 +649,12 @@
         <mark key="]" line="0" column="37" />
         <mark key="^" line="0" column="37" />
         <mark key="." line="0" column="37" />
+      </file>
+      <file name="$USER_HOME$/Dev/iot-api/coap/.env" timestamp="1487000624907">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="15" />
       </file>
       <file name="$USER_HOME$/Dev/C#/projet-c-front-end/src/client/index.html" timestamp="1466170099284">
         <mark key="[" line="14" column="11" />
@@ -1398,8 +1410,12 @@
         <mark key="^" line="2" column="33" />
         <mark key="." line="2" column="33" />
       </file>
-      <file name="$USER_HOME$/Dev/iot-api/coap/docker-compose.yml" timestamp="1486997687641">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Dev/iot-api/coap/docker-compose.yml" timestamp="1487001979387">
+        <mark key="'" line="2" column="8" />
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+        <mark key="^" line="0" column="10" />
       </file>
       <file name="$USER_HOME$/Dev/PFEE/color-thief-java/src/main/java/fr/epita/mti/interpreter/BaseInterpreter.java" timestamp="1470128325859">
         <mark key="[" line="2" column="34" />
@@ -1663,7 +1679,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="17" filename="$USER_HOME$/Dev/PFEE/development/backend/rest-api/src/main/resources/config/application-dev.properties" />
       <jump line="68" column="17" filename="$USER_HOME$/Dev/PFEE/development/backend/rest-api/src/main/resources/config/application-dev.properties" />
       <jump line="74" column="19" filename="$USER_HOME$/Dev/PFEE/development/backend/rest-api/src/main/resources/config/application-dev.properties" />
       <jump line="32" column="71" filename="$USER_HOME$/Dev/PFEE/development/backend/rest-api/src/main/resources/config/application-dev.properties" />
@@ -1763,6 +1778,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Dev/iot-api/coap/server/routes/devices.js" />
       <jump line="8" column="23" filename="$USER_HOME$/Dev/iot-api/coap/server/models/devices/devices-router.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Dev/iot-api/coap/server/models/devices/devices-router.js" />
+      <jump line="2" column="8" filename="$USER_HOME$/Dev/iot-api/coap/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1772,10 +1788,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>start</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>start</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1795,29 +1811,29 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICJib2R5LXBhcnNlciI6ICJ+MS4xNi4wIiwKICAgICJjb29raWUtcGFyc2VyIjogIn4xLjQuMyIsCiAgICAiZGVidWciOiAifjIuNi4wIiwKICAgICJleHByZXNzIjogIn40LjE0LjEiLAogICAgImphZGUiOiAifjEuMTEuMCIsCiAgICAibW9yZ2FuIjogIn4xLjcuMCIsCiAgICAic2VydmUtZmF2aWNvbiI6ICJ+Mi4zLjIi</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cm91dGVyLnVzZSgnLycsIGluZGV4KTsK</text>
+        <text encoding="base64">ICAgICAgZG9ja2VyZmlsZTogCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJ1aWxkOiAuL3NlcnZlci8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgaW5kZXggPSByZXF1aXJlKCcuL21vZGVscy9pbmRleCcpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZvbHVtZXM6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgaW5kZXggPSByZXF1aXJlKCcuL21vZGVscy9pbmRleCcpOwo=</text>
+        <text encoding="base64">ICAgIGVudmlyb25tZW50Ogo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMuU2NoZW1hLmZpbmRBbmRDb3VudEFsbCgpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cm91dGVyLnVzZSgnL3VzZXJzJywgdXNlcnMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
