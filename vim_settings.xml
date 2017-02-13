@@ -59,6 +59,13 @@
         <mark key="." line="11" column="31" />
         <mark key="^" line="11" column="31" />
       </file>
+      <file name="$USER_HOME$/Dev/iot-api/coap/server/models/devices/devices-router.js" timestamp="1486992543565">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="8" column="24" />
+        <mark key="]" line="8" column="24" />
+        <mark key="^" line="8" column="24" />
+        <mark key="." line="8" column="24" />
+      </file>
       <file name="$USER_HOME$/Dev/C#/projet-c-front-end/src/client/app/shared/navbar/navbar.component.scss" timestamp="1466175855739">
         <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="17" />
@@ -252,9 +259,10 @@
         <mark key="." line="0" column="30" />
         <mark key="^" line="0" column="30" />
       </file>
-      <file name="$USER_HOME$/Dev/iot-api/coap/server/routes/devices.js" timestamp="1486991735399">
-        <mark key="[" line="1" column="32" />
-        <mark key="]" line="3" column="49" />
+      <file name="$USER_HOME$/Dev/iot-api/coap/server/routes/devices.js" timestamp="1486992539784">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="8" column="23" />
         <mark key="." line="3" column="49" />
         <mark key="^" line="3" column="49" />
       </file>
@@ -696,6 +704,9 @@
         <mark key="]" line="0" column="35" />
         <mark key="^" line="0" column="35" />
         <mark key="." line="0" column="35" />
+      </file>
+      <file name="$USER_HOME$/Dev/iot-api/coap/server/utils/schema.js" timestamp="1486992677743">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/Java/exam/src/main/kotlin/com/inad/strategies/Strategy.kt" timestamp="1484809483861">
         <mark key="[" line="6" column="29" />
@@ -1644,10 +1655,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="17" filename="$USER_HOME$/Dev/PFEE/development/backend/rest-api/src/main/resources/config/application-dev.properties" />
-      <jump line="72" column="17" filename="$USER_HOME$/Dev/PFEE/development/backend/rest-api/src/main/resources/config/application-dev.properties" />
-      <jump line="71" column="17" filename="$USER_HOME$/Dev/PFEE/development/backend/rest-api/src/main/resources/config/application-dev.properties" />
-      <jump line="70" column="17" filename="$USER_HOME$/Dev/PFEE/development/backend/rest-api/src/main/resources/config/application-dev.properties" />
       <jump line="69" column="17" filename="$USER_HOME$/Dev/PFEE/development/backend/rest-api/src/main/resources/config/application-dev.properties" />
       <jump line="68" column="17" filename="$USER_HOME$/Dev/PFEE/development/backend/rest-api/src/main/resources/config/application-dev.properties" />
       <jump line="74" column="19" filename="$USER_HOME$/Dev/PFEE/development/backend/rest-api/src/main/resources/config/application-dev.properties" />
@@ -1744,6 +1751,10 @@
       <jump line="22" column="3" filename="$USER_HOME$/Dev/iot-api/coap/server/utils/controller.js" />
       <jump line="13" column="3" filename="$USER_HOME$/Dev/iot-api/coap/server/utils/controller.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Dev/iot-api/coap/server/utils/controller.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/Dev/iot-api/coap/server/routes/devices.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dev/iot-api/coap/server/routes/devices.js" />
+      <jump line="8" column="23" filename="$USER_HOME$/Dev/iot-api/coap/server/models/devices/devices-router.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dev/iot-api/coap/server/models/devices/devices-router.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1752,8 +1763,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRoaXMuU2NoZW1hLmZpbmRBbmRDb3VudEFsbCgpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Y29uc3QgZXhwcmVzcyA9IHJlcXVpcmUoJ2V4cHJlc3MnKTsKY29uc3Qgcm91dGVyID0gZXhwcmVzcy5Sb3V0ZXIoKTsKCmNvbnN0IGNvbnRyb2xsZXIgPSByZXF1aXJlKCcuLi91dGlscy9jb250cm9sbGVyJyk7Cgpyb3V0ZXIucm91dGUoJy8nKQogIC5nZXQoKC4uLmFyZ3MpID0+IGNvbnRyb2xsZXIuZmluZEFsbCguLi5hcmdzKSk7Cgptb2R1bGUuZXhwb3J0cyA9IHJvdXRlcjs=</text>
       </register>
       <register name="-" type="4">
         <text>routes</text>
@@ -1768,7 +1779,7 @@
         <text>var</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgc2VuZENvbW1hbmQoY21kKS5zdWJzY3JpYmUoeyByZXBvcnQgLT4KICAgICAgICAgICAgICAgIGxvZy5kZWJ1ZygiR290IHJlcG9ydCAke3JlcG9ydC5pZH0iKQogICAgICAgICAgICAgICAgZXhlY3V0ZUNvbW1hbmRSZWMoY21kLmNtZE9uU3VjY2Vzcz8uYXBwbHkocmVwb3J0KSkKICAgICAgICAgICAgfSwgeyBlcnIgLT4KICAgICAgICAgICAgICAgIGxvZy5lcnJvcigiRmFpbGVkIGdldHRpbmcgcmVwb3J0ICR7ZXJyLmNhdXNlfSIpCiAgICAgICAgICAgICAgICBleGVjdXRlQ29tbWFuZFJlYyhjbWQuY21kT25FcnJvcj8uYXBwbHkoZXJyKSkKICAgICAgICAgICAgfSk=</text>
+        <text encoding="base64">Y29uc3QgZXhwcmVzcyA9IHJlcXVpcmUoJ2V4cHJlc3MnKTsKY29uc3Qgcm91dGVyID0gZXhwcmVzcy5Sb3V0ZXIoKTsKCmNvbnN0IGNvbnRyb2xsZXIgPSByZXF1aXJlKCcuLi91dGlscy9jb250cm9sbGVyJyk7Cgpyb3V0ZXIucm91dGUoJy8nKQogIC5nZXQoKC4uLmFyZ3MpID0+IGNvbnRyb2xsZXIuZmluZEFsbCguLi5hcmdzKSk7Cgptb2R1bGUuZXhwb3J0cyA9IHJvdXRlcjs=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHRoaXMuU2NoZW1hLmZpbmRBbmRDb3VudEFsbCgpCg==</text>
@@ -1837,10 +1848,6 @@
         <entry>var</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
-        <entry encoding="base64">JzwsJz5zLyc7Jy8nLCcvZw==</entry>
-        <entry encoding="base64">JzwsJz5x</entry>
-        <entry encoding="base64">JzwsJz5zL0ZlZWRDb25maWd1cmF0aW9uLlByb2R1Y3RBdHRyaWJ1dGVzL01hcHBpbmdBdHRyaWJ1dGVz</entry>
         <entry encoding="base64">JzwsJz5zL3Byb2R1Y3RBdHRyaWJ1dGUvYXR0cmlidXRlL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3B1dC9hZGQoTWFwcGluZ0F0dHJpYnV0ZXMuYnVpbGQoKS5hdHRyaWJ1dGU=</entry>
         <entry encoding="base64">JzwsJz5zL2J1aWxkL2J1aWxkZXIvZw==</entry>
@@ -1856,6 +1863,10 @@
         <entry encoding="base64">JzwsJz5zL3Zhci9jb25zdC9n</entry>
         <entry>q</entry>
         <entry>wq</entry>
+        <entry>e ../routes/devices.js</entry>
+        <entry>r ../routes/devices.js</entry>
+        <entry>r ../../routes/devices.js</entry>
+        <entry>e ../../routes/devices.js</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
