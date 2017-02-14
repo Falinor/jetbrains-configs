@@ -345,6 +345,12 @@
         <mark key="^" line="29" column="10" />
         <mark key="." line="29" column="10" />
       </file>
+      <file name="$USER_HOME$/Dev/iot-api/coap/smart-objects/constants.js" timestamp="1487092209007">
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="2" column="8" />
+        <mark key="^" line="2" column="8" />
+        <mark key="." line="2" column="8" />
+      </file>
       <file name="$USER_HOME$/Dev/Java/Mediadb/pom.xml" timestamp="1473431715103">
         <mark key="[" line="60" column="47" />
         <mark key="]" line="61" column="23" />
@@ -1652,6 +1658,12 @@
         <mark key="^" line="87" column="13" />
         <mark key="." line="87" column="13" />
       </file>
+      <file name="$USER_HOME$/Dev/iot-api/coap/smart-objects/index.js" timestamp="1487092506534">
+        <mark key="[" line="6" column="2" />
+        <mark key="]" line="7" column="3" />
+        <mark key="." line="7" column="3" />
+        <mark key="^" line="7" column="3" />
+      </file>
       <file name="$USER_HOME$/Dev/iot-api/coap/server/routes.js" timestamp="1486993650313">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -1816,7 +1828,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">YmFieUZvb3QuY3JlYXRlKCkK</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -1834,41 +1846,39 @@
         <text encoding="base64">Y29uc3QgZXhwcmVzcyA9IHJlcXVpcmUoJ2V4cHJlc3MnKTsKY29uc3Qgcm91dGVyID0gZXhwcmVzcy5Sb3V0ZXIoKTsKCmNvbnN0IGNvbnRyb2xsZXIgPSByZXF1aXJlKCcuLi91dGlscy9jb250cm9sbGVyJyk7Cgpyb3V0ZXIucm91dGUoJy8nKQogIC5nZXQoKC4uLmFyZ3MpID0+IGNvbnRyb2xsZXIuZmluZEFsbCguLi5hcmdzKSk7Cgptb2R1bGUuZXhwb3J0cyA9IHJvdXRlcjs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">YmFieUZvb3QuY3JlYXRlKCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJjb2FwLW5vZGUiOiAiXjAuMS41Igo=</text>
+        <text encoding="base64">YmFieUZvb3QuaW5pdCgpCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">cmVxdWlyZXJlcXVpcmUK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">cmVxdWlyZQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICJjb2FwLW5vZGUiOiAiXjAuMS41Igo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICBjb25zdHJ1Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text>ctor(facade) {
     super(facade);
   }</text>
       </register>
-      <register name="5" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3RvcigK</text>
-      </register>
-      <register name="7" type="4">
-        <text>props) {
-    super(props);
-  }</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Y29uc3QK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">cm91dGVyLnJvdXRlKCcvOmlkJykK</text>
-      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -1922,8 +1932,8 @@
         <entry>e ../../routes/devices.js</entry>
         <entry>q</entry>
         <entry>Wq</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
