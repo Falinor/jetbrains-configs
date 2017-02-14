@@ -309,6 +309,12 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="0" column="33" />
       </file>
+      <file name="$USER_HOME$/Dev/iot-api/coap/smart-objects/package.json" timestamp="1487091447551">
+        <mark key="[" line="22" column="19" />
+        <mark key="]" line="22" column="18" />
+        <mark key="." line="22" column="18" />
+        <mark key="^" line="22" column="18" />
+      </file>
       <file name="$USER_HOME$/Dev/musicus/src/client/src/app/+account/login/shared/login-response.model.ts" timestamp="1466007690046">
         <mark key="[" line="3" column="6" />
         <mark key="]" line="3" column="5" />
@@ -1809,8 +1815,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -1828,41 +1834,41 @@
         <text encoding="base64">Y29uc3QgZXhwcmVzcyA9IHJlcXVpcmUoJ2V4cHJlc3MnKTsKY29uc3Qgcm91dGVyID0gZXhwcmVzcy5Sb3V0ZXIoKTsKCmNvbnN0IGNvbnRyb2xsZXIgPSByZXF1aXJlKCcuLi91dGlscy9jb250cm9sbGVyJyk7Cgpyb3V0ZXIucm91dGUoJy8nKQogIC5nZXQoKC4uLmFyZ3MpID0+IGNvbnRyb2xsZXIuZmluZEFsbCguLi5hcmdzKSk7Cgptb2R1bGUuZXhwb3J0cyA9IHJvdXRlcjs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICJjb2FwLW5vZGUiOiAiXjAuMS41Igo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBjb25zdHJ1Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text>ctor(facade) {
     super(facade);
   }</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICBjb25zdHJ1Y3RvcigK</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>props) {
     super(props);
   }</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Y29uc3QK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">cm91dGVyLnJvdXRlKCcvOmlkJykK</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC5wb3N0KCguLi5hcmdzKSA9PiBjb250cm9sbGVyLnVwZGF0ZSkK</text>
+        <text encoding="base64">Y29uc3QK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QK</text>
+        <text encoding="base64">cm91dGVyLnJvdXRlKCcvOmlkJykK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1916,8 +1922,8 @@
         <entry>e ../../routes/devices.js</entry>
         <entry>q</entry>
         <entry>Wq</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
