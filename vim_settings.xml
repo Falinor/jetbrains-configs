@@ -1658,11 +1658,11 @@
         <mark key="^" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot-api/model/game/game.spec.js" timestamp="1487255628298">
-        <mark key="[" line="7" column="3" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Dev/baby-foot-api/model/game/game.spec.js" timestamp="1487257261795">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/status-checker/back/.dockerignore" timestamp="1486688080050">
         <mark key="[" line="1" column="0" />
@@ -1750,8 +1750,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="151" column="41" filename="$USER_HOME$/Dev/PFEE/development/backend/rest-api/src/main/resources/config/application-dev.properties" />
-      <jump line="150" column="41" filename="$USER_HOME$/Dev/PFEE/development/backend/rest-api/src/main/resources/config/application-dev.properties" />
       <jump line="148" column="44" filename="$USER_HOME$/Dev/PFEE/development/backend/rest-api/src/main/resources/config/application-dev.properties" />
       <jump line="147" column="44" filename="$USER_HOME$/Dev/PFEE/development/backend/rest-api/src/main/resources/config/application-dev.properties" />
       <jump line="146" column="34" filename="$USER_HOME$/Dev/PFEE/development/backend/rest-api/src/main/resources/config/application-dev.properties" />
@@ -1850,6 +1848,8 @@
       <jump line="570" column="17" filename="$USER_HOME$/Dev/iot-api/coap/api/node_modules/express/lib/application.js" />
       <jump line="10" column="48" filename="$USER_HOME$/Dev/baby-foot-api/model/game/game-schema.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Dev/baby-foot-api/model/game/game-schema.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/Dev/baby-foot-api/model/game/game.spec.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dev/baby-foot-api/model/game/game.spec.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1859,7 +1859,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">dGhpcy5mYWNhZGUuZmluZE9uZShyZXEucXVlcnkpCiAgICAgICAgLnRoZW4oZG9jID0+ICk=</text>
+        <text encoding="base64">Y29uc3QgcmVxdWVzdCA9IHJlcXVpcmUoJ3N1cGVydGVzdCcpOwpjb25zdCBleHByZXNzID0gcmVxdWlyZSgnZXhwcmVzcycpOwoKY29uc3QgYXBwID0gZXhwcmVzcygpOwoKYXBwLmdldCgnL2dhbWVzJywgZnVuY3Rpb24ocmVxLCByZXMpIHsKICByZXMuc3RhdHVzKDIwMCkuanNvbih7IG5hbWU6ICd0b2JpJyB9KTsKfSk7Cgo=</text>
       </register>
       <register name="-" type="4">
         <text>user</text>
@@ -1887,35 +1887,35 @@ const gameSchema = new Schema({
 module.exports = mongoose.model('Game', gameSchema);</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">dGhpcy5mYWNhZGUuZmluZE9uZShyZXEucXVlcnkpCiAgICAgICAgLnRoZW4oZG9jID0+ICk=</text>
+        <text encoding="base64">Y29uc3QgcmVxdWVzdCA9IHJlcXVpcmUoJ3N1cGVydGVzdCcpOwpjb25zdCBleHByZXNzID0gcmVxdWlyZSgnZXhwcmVzcycpOwoKY29uc3QgYXBwID0gZXhwcmVzcygpOwoKYXBwLmdldCgnL2dhbWVzJywgZnVuY3Rpb24ocmVxLCByZXMpIHsKICByZXMuc3RhdHVzKDIwMCkuanNvbih7IG5hbWU6ICd0b2JpJyB9KTsKfSk7Cgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAudGhlbihjb2xsZWN0aW9uKQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">dGhpcy5mYWNhZGUuZmluZE9uZShyZXEucXVlcnkpCiAgICAgICAgLnRoZW4oZG9jID0+ICk=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAudGhlbihjb2xsZWN0aW9uKQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CmNvbnN0IHBsYXllcnNTY2hlbWEgPSBuZXcgU2NoZW1hKHsKICAKfSk7</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
+        <text encoding="base64">CmNvbnN0IHBsYXllcnNTY2hlbWEgPSBuZXcgU2NoZW1hKHsKICAKfSk7</text>
+      </register>
+      <register name="7" type="4">
         <text>red: { type: Number, required: true, default: 0 },
   blue: { type: Number, required: true, default: 0 }</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICByZWQ6IAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBwbGF5ZXJzOiBwbGF5ZXJzU2NoZW1hCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBwbGF5ZXJzOiBwbGF5ZXJzU2NoZW1hCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
