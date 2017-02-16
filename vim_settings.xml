@@ -30,6 +30,12 @@
         <mark key="." line="3" column="36" />
         <mark key="^" line="3" column="36" />
       </file>
+      <file name="$USER_HOME$/Dev/status-checker/back/src/index.js" timestamp="1487283180696">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+      </file>
       <file name="$USER_HOME$/Dev/musicus/src/client/src/app/+account/login/shared/loggable.ts" timestamp="1466007569307">
         <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="8" />
@@ -216,9 +222,9 @@
         <mark key="." line="10" column="29" />
         <mark key="^" line="10" column="29" />
       </file>
-      <file name="$USER_HOME$/Dev/status-checker/back/src/config.js" timestamp="1486764574937">
+      <file name="$USER_HOME$/Dev/status-checker/back/src/config.js" timestamp="1487283211135">
         <mark key="'" line="0" column="17" />
-        <mark key="[" line="16" column="31" />
+        <mark key="[" line="10" column="15" />
         <mark key="]" line="17" column="32" />
         <mark key="^" line="17" column="32" />
         <mark key="." line="17" column="32" />
@@ -1921,8 +1927,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Y29uc3QgcmVxdWVzdCA9IHJlcXVpcmUoJ3N1cGVydGVzdCcpOwpjb25zdCBleHByZXNzID0gcmVxdWlyZSgnZXhwcmVzcycpOwoKY29uc3QgYXBwID0gZXhwcmVzcygpOwoKYXBwLmdldCgnL2dhbWVzJywgZnVuY3Rpb24ocmVxLCByZXMpIHsKICByZXMuc3RhdHVzKDIwMCkuanNvbih7IG5hbWU6ICd0b2JpJyB9KTsKfSk7Cgo=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>user</text>
@@ -1949,36 +1955,35 @@ const gameSchema = new Schema({
 
 module.exports = mongoose.model('Game', gameSchema);</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Y29uc3QgcmVxdWVzdCA9IHJlcXVpcmUoJ3N1cGVydGVzdCcpOwpjb25zdCBleHByZXNzID0gcmVxdWlyZSgnZXhwcmVzcycpOwoKY29uc3QgYXBwID0gZXhwcmVzcygpOwoKYXBwLmdldCgnL2dhbWVzJywgZnVuY3Rpb24ocmVxLCByZXMpIHsKICByZXMuc3RhdHVzKDIwMCkuanNvbih7IG5hbWU6ICd0b2JpJyB9KTsKfSk7Cgo=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">dGhpcy5mYWNhZGUuZmluZE9uZShyZXEucXVlcnkpCiAgICAgICAgLnRoZW4oZG9jID0+ICk=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGlvCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAudGhlbihjb2xsZWN0aW9uKQo=</text>
+        <text encoding="base64">ICByZWZyZXNoKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZWZyZQo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">cmVxdWlyZSgpCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CmNvbnN0IHBsYXllcnNTY2hlbWEgPSBuZXcgU2NoZW1hKHsKICAKfSk7</text>
+      <register name="7" type="2">
+        <text encoding="base64">bW9kZWwgPSByZXF1aXJlKCcnKQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>red: { type: Number, required: true, default: 0 },
-  blue: { type: Number, required: true, default: 0 }</text>
+      <register name="8" type="4">
+        <text encoding="base64">Y29uc3QgcmVxdWVzdCA9IHJlcXVpcmUoJ3N1cGVydGVzdCcpOwpjb25zdCBleHByZXNzID0gcmVxdWlyZSgnZXhwcmVzcycpOwoKY29uc3QgYXBwID0gZXhwcmVzcygpOwoKYXBwLmdldCgnL2dhbWVzJywgZnVuY3Rpb24ocmVxLCByZXMpIHsKICByZXMuc3RhdHVzKDIwMCkuanNvbih7IG5hbWU6ICd0b2JpJyB9KTsKfSk7Cgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICByZWQ6IAo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBwbGF5ZXJzOiBwbGF5ZXJzU2NoZW1hCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">dGhpcy5mYWNhZGUuZmluZE9uZShyZXEucXVlcnkpCiAgICAgICAgLnRoZW4oZG9jID0+ICk=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
