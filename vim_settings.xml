@@ -717,11 +717,11 @@
         <mark key="^" line="0" column="37" />
         <mark key="." line="0" column="37" />
       </file>
-      <file name="$USER_HOME$/Dev/dj-socket/front/Dockerfile" timestamp="1487684842380">
-        <mark key="[" line="14" column="20" />
-        <mark key="]" line="15" column="14" />
-        <mark key="." line="15" column="14" />
-        <mark key="^" line="15" column="14" />
+      <file name="$USER_HOME$/Dev/dj-socket/front/Dockerfile" timestamp="1487687121137">
+        <mark key="[" line="10" column="23" />
+        <mark key="]" line="10" column="30" />
+        <mark key="." line="10" column="30" />
+        <mark key="^" line="10" column="30" />
       </file>
       <file name="$USER_HOME$/Dev/dj-socket/docker-compose.override.yml" timestamp="1487684484400">
         <mark key="[" line="10" column="8" />
@@ -769,6 +769,12 @@
         <mark key="]" line="78" column="76" />
         <mark key="." line="78" column="76" />
         <mark key="^" line="78" column="76" />
+      </file>
+      <file name="$USER_HOME$/Dev/dj-socket/back/Dockerfile" timestamp="1487686858929">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="22" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/PFEE/pfee-color-thief-java/src/main/java/fr/epita/mti/extractor/Extractor.java" timestamp="1473752763778">
         <mark key="[" line="23" column="6" />
@@ -2002,11 +2008,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">bnBtIA==</text>
       </register>
       <register name="-" type="4">
-        <text>STAGING</text>
+        <text encoding="base64">bnBtIA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2021,40 +2027,37 @@
         <text encoding="base64">ICAgICAgLSBOT0RFX0VOVj1kZXZlbG9wbWVudAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UlVOIG5wbSBpbnN0YWxsIC1nIHlhcm4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">V09SS0RJUiAkRFNUCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">V09SS0RJUiAkRFNUCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">V09SS0RJUiAkRFNUCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">YmVmb3JlX2luc3RhbGw6Cg==</text>
+        <text encoding="base64">V09SS0RJUiAkRFNUCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAtIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAtIHNkbyBhcHQtZ2V0IGluc3RhbGwgLXkgLXFxIHlhcm49MC4yMC4zLTEK</text>
+        <text encoding="base64">YmVmb3JlX2luc3RhbGw6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAjIFJlcG8gZm9yIHlhcm4K</text>
+        <text encoding="base64">ICAtIAo=</text>
       </register>
-      <register name="9" type="4">
-        <text>udo apt-key adv --fetch-keys http://dl.yarnpkg.com/debian/pubkey.gpg
-  - echo &quot;deb http://dl.yarnpkg.com/debian/ stable main&quot; | sudo tee /etc/apt/sources.list.d/yarn.list
-  - sudo apt-get update -qq
-  - su</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAtIHNkbyBhcHQtZ2V0IGluc3RhbGwgLXkgLXFxIHlhcm49MC4yMC4zLTEK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -2106,10 +2109,10 @@
         <entry>e ../../routes/devices.js</entry>
         <entry>Wq</entry>
         <entry>q!</entry>
-        <entry>wq</entry>
-        <entry>q</entry>
         <entry>W</entry>
+        <entry>q</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
