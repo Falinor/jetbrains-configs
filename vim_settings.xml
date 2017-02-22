@@ -647,6 +647,11 @@
         <mark key="." line="0" column="10" />
         <mark key="^" line="0" column="10" />
       </file>
+      <file name="$USER_HOME$/Dev/PFEE/development/.env" timestamp="1487725513182">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Dev/Java/Exo/src/test/java/com/mti/StudentTest.java" timestamp="1459583714337">
         <mark key="[" line="12" column="45" />
         <mark key="]" line="13" column="32" />
@@ -914,12 +919,11 @@
         <mark key="." line="0" column="46" />
         <mark key="^" line="0" column="46" />
       </file>
-      <file name="$USER_HOME$/Dev/PFEE/development/docker-compose.yml" timestamp="1487723339665">
-        <mark key="'" line="97" column="8" />
-        <mark key="[" line="18" column="18" />
-        <mark key="]" line="18" column="18" />
-        <mark key="." line="18" column="18" />
-        <mark key="^" line="9" column="16" />
+      <file name="$USER_HOME$/Dev/PFEE/development/docker-compose.yml" timestamp="1487725160024">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/Java/Mediatheque/src/main/java/MediaMetadata.java" timestamp="1459594832760">
         <mark key="[" line="23" column="4" />
@@ -1277,11 +1281,12 @@
         <mark key="^" line="8" column="1" />
         <mark key="." line="8" column="1" />
       </file>
-      <file name="$USER_HOME$/Dev/PFEE/development/docker-compose.override.yml" timestamp="1487722968240">
-        <mark key="[" line="11" column="2" />
-        <mark key="]" line="13" column="11" />
-        <mark key="^" line="13" column="11" />
-        <mark key="." line="13" column="11" />
+      <file name="$USER_HOME$/Dev/PFEE/development/docker-compose.override.yml" timestamp="1487725149386">
+        <mark key="'" line="22" column="5" />
+        <mark key="[" line="32" column="16" />
+        <mark key="]" line="16" column="43" />
+        <mark key="^" line="16" column="43" />
+        <mark key="." line="16" column="43" />
       </file>
       <file name="$USER_HOME$/Dev/MusicUs/src/client/src/app/+note/shared/notes-handler.ts" timestamp="1464701907011">
         <mark key="[" line="0" column="24" />
@@ -1913,8 +1918,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="136" column="48" filename="$USER_HOME$/Dev/PFEE/development/backend/rest-api/src/main/resources/config/application-dev.properties" />
-      <jump line="135" column="48" filename="$USER_HOME$/Dev/PFEE/development/backend/rest-api/src/main/resources/config/application-dev.properties" />
       <jump line="134" column="48" filename="$USER_HOME$/Dev/PFEE/development/backend/rest-api/src/main/resources/config/application-dev.properties" />
       <jump line="132" column="51" filename="$USER_HOME$/Dev/PFEE/development/backend/rest-api/src/main/resources/config/application-dev.properties" />
       <jump line="131" column="51" filename="$USER_HOME$/Dev/PFEE/development/backend/rest-api/src/main/resources/config/application-dev.properties" />
@@ -2013,6 +2016,8 @@
       <jump line="44" column="6" filename="$USER_HOME$/Dev/PFEE/development/docker-compose.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/Dev/PFEE/development/docker-compose.yml" />
       <jump line="97" column="8" filename="$USER_HOME$/Dev/PFEE/development/docker-compose.yml" />
+      <jump line="22" column="5" filename="$USER_HOME$/Dev/PFEE/development/docker-compose.override.yml" />
+      <jump line="41" column="0" filename="$USER_HOME$/Dev/PFEE/development/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2022,10 +2027,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>K</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>K</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2040,34 +2045,37 @@
         <text encoding="base64">ICAgICAgLSBOT0RFX0VOVj1kZXZlbG9wbWVudAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLSAiLi9mcm9udGVuZC9hcHA6L2NvZGUvYXBwIgo=</text>
+        <text encoding="base64">ICAgICAgVklSVFVBTF9IT1NUOiAkQVBJX1ZJUlRVQUxfSE9TVAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLSAiLi9mcm9udGVuZC9jb21tb25zOi9jb2RlL2Jvd2VyX2NvbXBvbmVudHMvd2F0c2l6ZS1jb21tb25zOnJvIgo=</text>
+        <text encoding="base64">ICAgIGVudmlyb25tZW50OiAjIFJldHJpZXZlIHRoZSBkYXRhYmFzZSBob3N0IGJ5IHVzaW5nIHRoZSBzZXJ2aWNlIG5hbWUuICMgU2VlIGRvY2tlci1jb21wb3NlIHJlZmVyZW5jZSwgYGxpbmtzYCBzZWN0aW9uLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVudmlyb25tZW50Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGJ1aWwK</text>
+      <register name="4" type="4">
+        <text>:
+      - VIRTUAL_HOST=$BACKOFFICE_VIRTUAL_HOST</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBuZ2lueC1wcm94eQo=</text>
+        <text encoding="base64">ICAgICAgIyBVbmNvbW1lbnQgaWYgeW91IHdhCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>nt to expose the database to the host
+      # ports:
+        # - &quot;YOUR_PORT:3306&quot;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZW50cnlwb2ludDogbXZuIC12Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgbmdpbng6CiAgICBpbWFnZTogbmdpbng6bGF0ZXN0CiAgICBjb250YWluZXJfbmFtZTogc3JzLW5naW54CiAgICBwb3J0czoKICAgICAgLSAiODA6ODAiCiAgICAgIC0gIjQ0Mzo0NDMiCiAgICB2b2x1bWVzOg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAtICIuL2JhY2svaW5kZXhlci9zcmM6L2NvZGUvc3JjIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UlVOIG5wbSBpbnN0YWxsIC1nIHlhcm4K</text>
+        <text encoding="base64">ICAgICAgIyBPdmVycmlkZSB0aGUgZGVmCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
