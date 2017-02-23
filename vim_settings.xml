@@ -1462,6 +1462,9 @@
         <mark key="^" line="11" column="20" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/Dev/tests/server-side-player/node_modules/audio-play/index.js" timestamp="1487847057912">
+        <mark key="'" line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Dev/dj-socket/docker-compose.staging.yml" timestamp="1487684459922">
         <mark key="[" line="12" column="7" />
         <mark key="]" line="12" column="5" />
@@ -1644,11 +1647,10 @@
         <mark key="." line="6" column="7" />
         <mark key="^" line="6" column="6" />
       </file>
-      <file name="$USER_HOME$/Dev/tests/server-side-player/api/services/PlayerService.js" timestamp="1487784048399">
-        <mark key="[" line="5" column="2" />
-        <mark key="]" line="6" column="1" />
-        <mark key="^" line="6" column="1" />
-        <mark key="." line="6" column="1" />
+      <file name="$USER_HOME$/Dev/tests/server-side-player/api/services/PlayerService.js" timestamp="1487847119235">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/C#/projet-c-front-end/src/client/app/app.component.html" timestamp="1465543171492">
         <mark key="[" line="0" column="11" />
@@ -1930,8 +1932,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="134" column="48" filename="$USER_HOME$/Dev/PFEE/development/backend/rest-api/src/main/resources/config/application-dev.properties" />
-      <jump line="132" column="51" filename="$USER_HOME$/Dev/PFEE/development/backend/rest-api/src/main/resources/config/application-dev.properties" />
       <jump line="131" column="51" filename="$USER_HOME$/Dev/PFEE/development/backend/rest-api/src/main/resources/config/application-dev.properties" />
       <jump line="129" column="41" filename="$USER_HOME$/Dev/PFEE/development/backend/rest-api/src/main/resources/config/application-dev.properties" />
       <jump line="128" column="41" filename="$USER_HOME$/Dev/PFEE/development/backend/rest-api/src/main/resources/config/application-dev.properties" />
@@ -2030,6 +2030,8 @@
       <jump line="97" column="8" filename="$USER_HOME$/Dev/PFEE/development/docker-compose.yml" />
       <jump line="22" column="5" filename="$USER_HOME$/Dev/PFEE/development/docker-compose.override.yml" />
       <jump line="41" column="0" filename="$USER_HOME$/Dev/PFEE/development/docker-compose.yml" />
+      <jump line="44" column="18" filename="$USER_HOME$/Dev/tests/server-side-player/node_modules/audio-play/index.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/Dev/tests/server-side-player/node_modules/audio-play/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2038,11 +2040,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">dGVzdCA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGVzdCA=</text>
+        <text>args</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2051,62 +2053,56 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>backend</text>
+        <text>autoplay</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgLSBOT0RFX0VOVj1kZXZlbG9wbWVudAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgVklSVFVBTF9IT1NUOiAkQVBJX1ZJUlRVQUxfSE9TVAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVudmlyb25tZW50OiAjIFJldHJpZXZlIHRoZSBkYXRhYmFzZSBob3N0IGJ5IHVzaW5nIHRoZSBzZXJ2aWNlIG5hbWUuICMgU2VlIGRvY2tlci1jb21wb3NlIHJlZmVyZW5jZSwgYGxpbmtzYCBzZWN0aW9uLgo=</text>
+        <text encoding="base64">cGxheShudWxsKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVudmlyb25tZW50Cg==</text>
+        <text encoding="base64">dGhpcy5wbGF5KCkK</text>
       </register>
-      <register name="4" type="4">
-        <text>:
-      - VIRTUAL_HOST=$BACKOFFICE_VIRTUAL_HOST</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIyBVbmNvbW1lbnQgaWYgeW91IHdhCg==</text>
+        <text encoding="base64">cGxheSgpCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>nt to expose the database to the host
-      # ports:
-        # - &quot;YOUR_PORT:3306&quot;</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZW50cnlwb2ludDogbXZuIC12Cg==</text>
+        <text encoding="base64">ICBwbGF5KCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAtICIuL2JhY2svaW5kZXhlci9zcmM6L2NvZGUvc3JjIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIyBPdmVycmlkZSB0aGUgZGVmCg==</text>
+        <text encoding="base64">ICBnZXQgY3VycmVudAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>backend</last-search>
+      <last-search>autoplay</last-search>
       <last-offset />
-      <last-pattern>backend</last-pattern>
+      <last-pattern>autoplay</last-pattern>
       <last-replace>back</last-replace>
       <last-substitute>backend</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>toObser</entry>
-        <entry>?</entry>
-        <entry>,</entry>
         <entry>val</entry>
         <entry>onComplete</entry>
         <entry>host</entry>
@@ -2124,6 +2120,9 @@
         <entry>module.exports</entry>
         <entry>get</entry>
         <entry encoding="base64">XDxnZXRcPg==</entry>
+        <entry>how.rate</entry>
+        <entry>how.detune</entry>
+        <entry>autoplay</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3Byb2R1Y3RBdHRyaWJ1dGUvYXR0cmlidXRlL2c=</entry>
