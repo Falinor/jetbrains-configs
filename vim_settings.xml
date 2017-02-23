@@ -288,11 +288,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/dj-socket/front/src/app/app.module.ts" timestamp="1487795057634">
-        <mark key="[" line="25" column="24" />
-        <mark key="]" line="25" column="24" />
-        <mark key="." line="25" column="24" />
-        <mark key="^" line="11" column="15" />
+      <file name="$USER_HOME$/Dev/dj-socket/front/src/app/app.module.ts" timestamp="1487798482626">
+        <mark key="'" line="23" column="14" />
+        <mark key="[" line="9" column="20" />
+        <mark key="]" line="9" column="19" />
+        <mark key="." line="9" column="19" />
+        <mark key="^" line="9" column="19" />
       </file>
       <file name="$USER_HOME$/Dev/Java/Mediatheque/src/main/java/MediaAccess.java" timestamp="1459599303517">
         <mark key="[" line="5" column="26" />
@@ -359,6 +360,12 @@
         <mark key="[" line="5" column="25" />
         <mark key="]" line="5" column="25" />
         <mark key="." line="5" column="25" />
+      </file>
+      <file name="$USER_HOME$/Dev/dj-socket/front/src/app/account/account.module.ts" timestamp="1487798180843">
+        <mark key="[" line="1" column="47" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/MusicUs/src/client/src/app/shared/list/list/list.component.html" timestamp="1464789157905">
         <mark key="[" line="0" column="19" />
@@ -2016,8 +2023,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="51" filename="$USER_HOME$/Dev/PFEE/development/backend/rest-api/src/main/resources/config/application-dev.properties" />
-      <jump line="129" column="41" filename="$USER_HOME$/Dev/PFEE/development/backend/rest-api/src/main/resources/config/application-dev.properties" />
       <jump line="128" column="41" filename="$USER_HOME$/Dev/PFEE/development/backend/rest-api/src/main/resources/config/application-dev.properties" />
       <jump line="127" column="41" filename="$USER_HOME$/Dev/PFEE/development/backend/rest-api/src/main/resources/config/application-dev.properties" />
       <jump line="124" column="53" filename="$USER_HOME$/Dev/PFEE/development/backend/rest-api/src/main/resources/config/application-dev.properties" />
@@ -2116,6 +2121,8 @@
       <jump line="41" column="0" filename="$USER_HOME$/Dev/PFEE/development/docker-compose.yml" />
       <jump line="40" column="5" filename="$USER_HOME$/Dev/dj-socket/front/.angular-cli.json" />
       <jump line="6" column="3" filename="$USER_HOME$/Dev/dj-socket/front/.angular-cli.json" />
+      <jump line="20" column="17" filename="$USER_HOME$/Dev/dj-socket/front/src/app/app.module.ts" />
+      <jump line="22" column="14" filename="$USER_HOME$/Dev/dj-socket/front/src/app/app.module.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2124,8 +2131,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHsgQWNjb3VudE1vZHVsZSB9IGZyb20gJy4vYWNjb3VudC9hY2NvdW50Lm1vZHVsZSc7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -2143,38 +2150,37 @@
         <text encoding="base64">ICAgICAgLSBOT0RFX0VOVj1kZXZlbG9wbWVudAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IH0K</text>
+        <text encoding="base64">aW1wb3J0IHsgQWNjb3VudE1vZHVsZSB9IGZyb20gJy4vYWNjb3VudC9hY2NvdW50Lm1vZHVsZSc7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICB7CiA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIEhvbWVSb3V0aW5nTW9kdWxlLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhdGgK</text>
+        <text encoding="base64">ICAgIEFjY291bnRSb3V0aW5nTW9kdWxlLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbXBvbmVudAo=</text>
+        <text encoding="base64">IH0K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgVklSVFVBTF9IT1NUOiAkQVBJX1ZJUlRVQUxfSE9TVAo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICB7CiA=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVudmlyb25tZW50OiAjIFJldHJpZXZlIHRoZSBkYXRhYmFzZSBob3N0IGJ5IHVzaW5nIHRoZSBzZXJ2aWNlIG5hbWUuICMgU2VlIGRvY2tlci1jb21wb3NlIHJlZmVyZW5jZSwgYGxpbmtzYCBzZWN0aW9uLgo=</text>
+        <text encoding="base64">ICAgIHBhdGgK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVudmlyb25tZW50Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBvbmVudAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>:
-      - VIRTUAL_HOST=$BACKOFFICE_VIRTUAL_HOST</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgVklSVFVBTF9IT1NUOiAkQVBJX1ZJUlRVQUxfSE9TVAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIyBVbmNvbW1lbnQgaWYgeW91IHdhCg==</text>
+        <text encoding="base64">ICAgIGVudmlyb25tZW50OiAjIFJldHJpZXZlIHRoZSBkYXRhYmFzZSBob3N0IGJ5IHVzaW5nIHRoZSBzZXJ2aWNlIG5hbWUuICMgU2VlIGRvY2tlci1jb21wb3NlIHJlZmVyZW5jZSwgYGxpbmtzYCBzZWN0aW9uLgo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2228,8 +2234,8 @@
         <entry>W</entry>
         <entry>Wq</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
