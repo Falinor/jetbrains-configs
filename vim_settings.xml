@@ -2,14 +2,98 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
-    <jumps />
-    <registers />
+    <filemarks>
+      <file name="$USER_HOME$/Dev/PFEE/development/backend/rest-api/pom.xml" timestamp="1488243160393">
+        <mark key="'" line="122" column="58" />
+      </file>
+      <file name="$USER_HOME$/Dev/PFEE/development/backend/rest-api/Dockerfile" timestamp="1488242993517">
+        <mark key="[" line="8" column="21" />
+      </file>
+      <file name="$USER_HOME$/Dev/PFEE/development/frontend/commons/Dockerfile" timestamp="1488243879716">
+        <mark key="[" line="9" column="28" />
+        <mark key="]" line="9" column="22" />
+        <mark key="." line="9" column="22" />
+        <mark key="^" line="9" column="22" />
+      </file>
+      <file name="$USER_HOME$/Dev/PFEE/development/backend/indexer/Dockerfile" timestamp="1488243021201">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/PFEE/development/docker-compose.yml" timestamp="1488243460123">
+        <mark key="[" line="48" column="24" />
+        <mark key="]" line="48" column="27" />
+        <mark key="." line="48" column="27" />
+        <mark key="^" line="48" column="27" />
+      </file>
+      <file name="$USER_HOME$/Dev/PFEE/development/backend/batch/Dockerfile" timestamp="1488242965203">
+        <mark key="[" line="9" column="44" />
+      </file>
+      <file name="$USER_HOME$/Dev/PFEE/development/.env" timestamp="1488243458254">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="13" column="9" />
+        <mark key="^" line="13" column="9" />
+        <mark key="." line="13" column="9" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="122" column="58" filename="$USER_HOME$/Dev/PFEE/development/backend/rest-api/pom.xml" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGJvd2VyIGluc3RhbGwgLS1xdWlldAo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGJvd2VyIGluc3RhbGwgLS1xdWlldAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHlhcm4gaW5zdGFsbAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">UlVOIG5wbSBpbnN0YWxsIC1nIHlhcm4gJiYK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">RU5UUllQT0lOVAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGJvd2VyIFwK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">TUFJTlRBSU5FUiBBbmRyZWEgR3VldWduYXV0IDwK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">IyBUT0RPOiByZXBsYWNlIGJ5IHRydWUgY29tbWFuZAo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">RU5UUllQT0lOVCA=</text>
+      </register>
+      <register name="/" type="4">
+        <text>batch</text>
+      </register>
+    </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>batch</last-search>
+      <last-offset />
+      <last-pattern>batch</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search>
+        <entry>vatch</entry>
+        <entry>batch</entry>
+      </history-search>
+      <history-cmd>
+        <entry>wq</entry>
+        <entry>w</entry>
+      </history-cmd>
+    </history>
     <shortcut-conflicts />
     <editor>
       <key-repeat enabled="true" />
