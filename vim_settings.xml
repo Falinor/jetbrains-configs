@@ -6,25 +6,45 @@
       <file name="$USER_HOME$/Dev/PFEE/development/backend/rest-api/pom.xml" timestamp="1488243160393">
         <mark key="'" line="122" column="58" />
       </file>
+      <file name="$USER_HOME$/Dev/PFEE/development/frontend/commons-web/Dockerfile" timestamp="1488266091128">
+        <mark key="[" line="17" column="14" />
+        <mark key="]" line="17" column="15" />
+        <mark key="^" line="17" column="15" />
+        <mark key="." line="17" column="15" />
+      </file>
       <file name="$USER_HOME$/Dev/PFEE/development/backend/rest-api/Dockerfile" timestamp="1488242993517">
         <mark key="[" line="8" column="21" />
       </file>
-      <file name="$USER_HOME$/Dev/PFEE/development/frontend/commons/Dockerfile" timestamp="1488265094855">
-        <mark key="[" line="10" column="4" />
-        <mark key="]" line="10" column="4" />
-        <mark key="." line="10" column="4" />
-        <mark key="^" line="10" column="23" />
+      <file name="$USER_HOME$/Dev/PFEE/development/docker-compose.override.yml" timestamp="1488266858579">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="12" column="16" />
+        <mark key="]" line="12" column="16" />
+        <mark key="." line="12" column="16" />
+        <mark key="^" line="22" column="25" />
+      </file>
+      <file name="$USER_HOME$/Dev/PFEE/development/frontend/commons/Dockerfile" timestamp="1488267734357">
+        <mark key="[" line="9" column="36" />
+        <mark key="]" line="9" column="22" />
+        <mark key="." line="9" column="22" />
+        <mark key="^" line="9" column="22" />
       </file>
       <file name="$USER_HOME$/Dev/PFEE/development/backend/indexer/Dockerfile" timestamp="1488243021201">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PFEE/development/docker-compose.yml" timestamp="1488243460123">
-        <mark key="[" line="48" column="24" />
-        <mark key="]" line="48" column="27" />
-        <mark key="." line="48" column="27" />
-        <mark key="^" line="48" column="27" />
+      <file name="$USER_HOME$/Dev/PFEE/development/docker-compose.yml" timestamp="1488266841910">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="5" column="30" />
+        <mark key="]" line="3" column="36" />
+        <mark key="." line="3" column="36" />
+        <mark key="^" line="3" column="36" />
+      </file>
+      <file name="$USER_HOME$/Dev/PFEE/development/frontend/backoffice-web/Dockerfile" timestamp="1488266099929">
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="11" column="5" />
+        <mark key="^" line="11" column="5" />
+        <mark key="." line="11" column="5" />
       </file>
       <file name="$USER_HOME$/Dev/PFEE/development/backend/batch/Dockerfile" timestamp="1488242965203">
         <mark key="[" line="9" column="44" />
@@ -35,76 +55,114 @@
         <mark key="^" line="13" column="9" />
         <mark key="." line="13" column="9" />
       </file>
-      <file name="$USER_HOME$/Dev/PFEE/development/.dockerignore" timestamp="1488265434411">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
+      <file name="$USER_HOME$/Dev/PFEE/development/README.md" timestamp="1488268126366">
+        <mark key="[" line="26" column="28" />
+        <mark key="]" line="26" column="28" />
+        <mark key="." line="26" column="28" />
+        <mark key="^" line="24" column="14" />
+      </file>
+      <file name="$USER_HOME$/Dev/PFEE/development/.dockerignore" timestamp="1488265477045">
+        <mark key="'" line="61" column="0" />
+        <mark key="[" line="64" column="3" />
+        <mark key="]" line="64" column="2" />
+        <mark key="." line="64" column="2" />
+        <mark key="^" line="64" column="2" />
       </file>
     </filemarks>
     <jumps>
       <jump line="122" column="58" filename="$USER_HOME$/Dev/PFEE/development/backend/rest-api/pom.xml" />
+      <jump line="60" column="0" filename="$USER_HOME$/Dev/PFEE/development/.dockerignore" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dev/PFEE/development/.dockerignore" />
+      <jump line="61" column="0" filename="$USER_HOME$/Dev/PFEE/development/.dockerignore" />
+      <jump line="45" column="10" filename="$USER_HOME$/Dev/PFEE/development/docker-compose.yml" />
+      <jump line="44" column="4" filename="$USER_HOME$/Dev/PFEE/development/docker-compose.yml" />
+      <jump line="3" column="36" filename="$USER_HOME$/Dev/PFEE/development/docker-compose.yml" />
+      <jump line="61" column="6" filename="$USER_HOME$/Dev/PFEE/development/docker-compose.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dev/PFEE/development/docker-compose.yml" />
+      <jump line="8" column="12" filename="$USER_HOME$/Dev/PFEE/development/docker-compose.override.yml" />
+      <jump line="37" column="22" filename="$USER_HOME$/Dev/PFEE/development/docker-compose.override.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dev/PFEE/development/docker-compose.override.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>__git submodules__</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>__git submodules__</text>
       </register>
       <register name="/" type="4">
-        <text>batch</text>
+        <text>backendend</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyMjIEV4YW1wbGUgdXNlciB0ZW1wbGF0ZQo=</text>
+        <text encoding="base64">WyFbVGVzdF0odGVzdCldCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyMjIEV4YW1wbGUgdXNlciB0ZW1wbGF0ZSB0ZW1wbGF0ZQo=</text>
+        <text encoding="base64">ICAgIGxzIC1hbCAuL25vZGVfbW9kdWxlcy8uYmluICYmIFwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
+        <text encoding="base64">ICAgIGxzIC1hbCAuL25vZGVfbW9kdWxlcyAmJiBcCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJvd2VyIGluc3RhbGwgLS1xdWlldAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHlhcm4gaW5zdGFsbAo=</text>
+      <register name="6" type="4">
+        <text>entrypoint:
+      - mvn
+      - clean
+      - spring-boot:run
+      - -Drun.profiles=$API_PROFILES</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UlVOIG5wbSBpbnN0YWxsIC1nIHlhcm4gJiYK</text>
+        <text encoding="base64">ICAgIHBvcnRzCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>:
+      - &quot;$API_PORT:8080&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">RU5UUllQT0lOVAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>batch</last-search>
+      <last-search>backendend</last-search>
       <last-offset />
-      <last-pattern>batch</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern>backendend</last-pattern>
+      <last-replace>backend</last-replace>
+      <last-substitute>backendend</last-substitute>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>vatch</entry>
         <entry>batch</entry>
+        <entry>.idea</entry>
+        <entry>entrypoint</entry>
+        <entry encoding="base64">XDxlbnRyeXBvaW50XD4=</entry>
+        <entry>frontendend</entry>
+        <entry>backendend</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JzwsJz5zL2JhY2tlbmRlbmQvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL2Zyb250ZW5kZW5kL2Zyb250ZW5kL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL2JhY2tlbmRlbmQvYmFja2VuZC9n</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
     <editor>
       <key-repeat enabled="true" />
     </editor>
