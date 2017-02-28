@@ -9,11 +9,11 @@
       <file name="$USER_HOME$/Dev/PFEE/development/backend/rest-api/Dockerfile" timestamp="1488242993517">
         <mark key="[" line="8" column="21" />
       </file>
-      <file name="$USER_HOME$/Dev/PFEE/development/frontend/commons/Dockerfile" timestamp="1488243879716">
-        <mark key="[" line="9" column="28" />
-        <mark key="]" line="9" column="22" />
-        <mark key="." line="9" column="22" />
-        <mark key="^" line="9" column="22" />
+      <file name="$USER_HOME$/Dev/PFEE/development/frontend/commons/Dockerfile" timestamp="1488265094855">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="10" column="4" />
+        <mark key="." line="10" column="4" />
+        <mark key="^" line="10" column="23" />
       </file>
       <file name="$USER_HOME$/Dev/PFEE/development/backend/indexer/Dockerfile" timestamp="1488243021201">
         <mark key="[" line="13" column="0" />
@@ -43,8 +43,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgIGJvd2VyIGluc3RhbGwgLS1xdWlldAo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJvd2VyIGluc3RhbGwgLS1xdWlldAo=</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHlhcm4gaW5zdGFsbAo=</text>
@@ -68,10 +68,10 @@
         <text encoding="base64">IyBUT0RPOiByZXBsYWNlIGJ5IHRydWUgY29tbWFuZAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">RU5UUllQT0lOVCA=</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>batch</text>
@@ -90,8 +90,8 @@
         <entry>batch</entry>
       </history-search>
       <history-cmd>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts />
