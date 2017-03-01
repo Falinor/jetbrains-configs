@@ -55,11 +55,11 @@
         <mark key="^" line="13" column="9" />
         <mark key="." line="13" column="9" />
       </file>
-      <file name="$USER_HOME$/Dev/PFEE/development/README.md" timestamp="1488268126366">
-        <mark key="[" line="26" column="28" />
-        <mark key="]" line="26" column="28" />
-        <mark key="." line="26" column="28" />
-        <mark key="^" line="24" column="14" />
+      <file name="$USER_HOME$/Dev/PFEE/development/README.md" timestamp="1488314328870">
+        <mark key="[" line="41" column="68" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/PFEE/development/.dockerignore" timestamp="1488265477045">
         <mark key="'" line="61" column="0" />
@@ -85,45 +85,44 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>__git submodules__</text>
+        <text encoding="base64">aW4g</text>
       </register>
       <register name="-" type="4">
-        <text>__git submodules__</text>
+        <text encoding="base64">aW4g</text>
       </register>
       <register name="/" type="4">
         <text>backendend</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VE9ETzogRG9ja2VyZmlsZXMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">WyFbVGVzdF0odGVzdCldCg==</text>
+        <text encoding="base64">VE9ETwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxzIC1hbCAuL25vZGVfbW9kdWxlcy8uYmluICYmIFwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxzIC1hbCAuL25vZGVfbW9kdWxlcyAmJiBcCg==</text>
+        <text encoding="base64">WyFbVGVzdF0odGVzdCldCg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIGxzIC1hbCAuL25vZGVfbW9kdWxlcy8uYmluICYmIFwK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGxzIC1hbCAuL25vZGVfbW9kdWxlcyAmJiBcCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>entrypoint:
       - mvn
       - clean
       - spring-boot:run
       - -Drun.profiles=$API_PROFILES</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHBvcnRzCg==</text>
-      </register>
-      <register name="8" type="4">
-        <text>:
-      - &quot;$API_PORT:8080&quot;</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBvcnRzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
