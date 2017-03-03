@@ -547,6 +547,11 @@
         <mark key="^" line="25" column="55" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="$USER_HOME$/Dev/wot-scripting-api/src/server/exposed-thing.ts" timestamp="1488536733962">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Dev/iot-api/coap/server/package.json" timestamp="1486996707904">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="5" column="14" />
@@ -877,10 +882,10 @@
         <mark key="^" line="0" column="35" />
         <mark key="." line="0" column="35" />
       </file>
-      <file name="$USER_HOME$/Dev/wot-scripting-api/src/client/consumed-thing.ts" timestamp="1488472073339">
+      <file name="$USER_HOME$/Dev/wot-scripting-api/src/client/consumed-thing.ts" timestamp="1488536655653">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="15" />
+        <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/Java/exam/src/main/kotlin/com/inad/strategies/Strategy.kt" timestamp="1484809483861">
@@ -1375,6 +1380,12 @@
         <mark key="]" line="12" column="18" />
         <mark key="^" line="12" column="18" />
         <mark key="." line="12" column="18" />
+      </file>
+      <file name="$USER_HOME$/Dev/wot-scripting-api/src/wot.ts" timestamp="1488536782692">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="8" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/Java/Mediatheque/src/main/java/com/mti/dao/MediaDao.java" timestamp="1460199199438">
         <mark key="[" line="21" column="39" />
@@ -2077,8 +2088,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Object</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW50ZXJmYWNlCg==</text>
       </register>
       <register name="-" type="4">
         <text>Object</text>
@@ -2097,28 +2108,28 @@
       name: 'Foo',</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJiYW4tdHlwZXMiOiAK</text>
+        <text encoding="base64">aW50ZXJmYWNlCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJhbgo=</text>
+        <text encoding="base64">aW50ZXJmYWNlIFdvdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHRoaW5nID0gVGhpbmcgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW50ZXJmYWNlIENvbnN1bWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaW5nLm5hbWUgPSAnVGVzdCc7Cg==</text>
+        <text encoding="base64">ICAgICJiYW4tdHlwZXMiOiAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJhbgo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CmRlc2NyaWJlKCdUZXN0JywgKCkgPT4gewogIGl0KCdzaG91bGQgZmFpbCcsICgpID0+IHsKICAgIGV4cGVjdChudWxsKS50by5iZShudWxsKTsKICB9KTsKfSk7</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHRoaW5nID0gVGhpbmcgfQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2127,13 +2138,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBleHBlY3QoJ3Rlc3QnKS50by5lcXVhbCgnbnVsbCcpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaW5nLm5hbWUgPSAndGVzdCc7Cg==</text>
+        <text encoding="base64">ICAgIHRoaW5nLm5hbWUgPSAnVGVzdCc7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -2186,9 +2197,9 @@
         <entry>W</entry>
         <entry>q</entry>
         <entry>Ww</entry>
-        <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
