@@ -559,11 +559,11 @@
         <mark key="^" line="5" column="26" />
         <mark key="." line="5" column="26" />
       </file>
-      <file name="$USER_HOME$/Dev/wot-scripting-api/src/thing.ts" timestamp="1488535913874">
-        <mark key="[" line="2" column="25" />
-        <mark key="]" line="2" column="24" />
-        <mark key="." line="2" column="24" />
-        <mark key="^" line="2" column="24" />
+      <file name="$USER_HOME$/Dev/wot-scripting-api/src/thing.ts" timestamp="1488537653856">
+        <mark key="[" line="2" column="32" />
+        <mark key="]" line="2" column="38" />
+        <mark key="." line="2" column="38" />
+        <mark key="^" line="2" column="38" />
       </file>
       <file name="$USER_HOME$/Dev/Java/exam/src/main/kotlin/com/inad/models/Player.kt" timestamp="1484822249679">
         <mark key="'" line="2" column="17" />
@@ -882,11 +882,11 @@
         <mark key="^" line="0" column="35" />
         <mark key="." line="0" column="35" />
       </file>
-      <file name="$USER_HOME$/Dev/wot-scripting-api/src/client/consumed-thing.ts" timestamp="1488536655653">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="16" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Dev/wot-scripting-api/src/client/consumed-thing.ts" timestamp="1488537983840">
+        <mark key="[" line="3" column="2" />
+        <mark key="]" line="3" column="1" />
+        <mark key="^" line="3" column="1" />
+        <mark key="." line="3" column="1" />
       </file>
       <file name="$USER_HOME$/Dev/Java/exam/src/main/kotlin/com/inad/strategies/Strategy.kt" timestamp="1484809483861">
         <mark key="[" line="6" column="29" />
@@ -2088,11 +2088,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW50ZXJmYWNlCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>Object</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2108,28 +2108,28 @@
       name: 'Foo',</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW50ZXJmYWNlCg==</text>
+        <text encoding="base64">ICAvLyAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW50ZXJmYWNlIFdvdAo=</text>
+        <text encoding="base64">aW50ZXJmYWNlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW50ZXJmYWNlIFdvdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW50ZXJmYWNlIENvbnN1bWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJiYW4tdHlwZXMiOiAK</text>
+        <text encoding="base64">aW50ZXJmYWNlIENvbnN1bWUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJhbgo=</text>
+        <text encoding="base64">ICAgICJiYW4tdHlwZXMiOiAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHRoaW5nID0gVGhpbmcgfQo=</text>
+        <text encoding="base64">ICAgIGJhbgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2138,13 +2138,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHRoaW5nID0gVGhpbmcgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaW5nLm5hbWUgPSAnVGVzdCc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2198,8 +2198,8 @@
         <entry>q</entry>
         <entry>Ww</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -2213,6 +2213,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
