@@ -1223,11 +1223,11 @@
         <mark key="^" line="1" column="13" />
         <mark key="." line="1" column="13" />
       </file>
-      <file name="$USER_HOME$/Dev/PFEE/development/frontend/commons/Dockerfile" timestamp="1489003800174">
-        <mark key="[" line="10" column="8" />
-        <mark key="]" line="10" column="12" />
-        <mark key="." line="10" column="12" />
-        <mark key="^" line="10" column="12" />
+      <file name="$USER_HOME$/Dev/PFEE/development/frontend/commons/Dockerfile" timestamp="1489005554321">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="7" column="10" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/wot-scripting-api/tsconfig.json" timestamp="1488550385824">
         <mark key="[" line="3" column="0" />
@@ -2100,7 +2100,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJsaWIiOiBbImVzNiJdLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>ConsumedThing</text>
@@ -2119,21 +2119,39 @@
       name: 'Foo',</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJsaWIiOiBbImVzNiJdLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q09QWSAuICREU1QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgdGhyb3dzfSBmcm9tICdhc3NlcnQnOwo=</text>
+        <text encoding="base64">Q09QWSBib3dlci5qc29uICREU1QK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Q09QWSBwYWNrYWdlLmpzb24gJERTVAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICJsaWIiOiBbImVzNiJdLAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IHsgdGhyb3dzfSBmcm9tICdhc3NlcnQnOwo=</text>
+      </register>
+      <register name="w" type="4">
+        <keys>
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ZXQgdCA9IG5ldyBDb25zdW1lZFRoaW5nKCk7Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="9" type="4">
         <text>interface ConsumedThing {
   name: string;
 }
@@ -2144,24 +2162,6 @@ interface ConsumedThingConstructor {
 declare var ConsumedThing: ConsumedThingConstructor;
 
 l</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">dC5uYW1lCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">dC4K</text>
-      </register>
-      <register name="w" type="4">
-        <keys>
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="27" mods="0" />
-        </keys>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">bGV0IHQgPSBuZXcgU2V0KCk7Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">bGV0IHRlc3QgPSBuZXcgQ29uc3VtZWRUaGluZygpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
