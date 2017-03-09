@@ -335,10 +335,12 @@
         <mark key="^" line="66" column="34" />
         <mark key="." line="66" column="34" />
       </file>
-      <file name="$USER_HOME$/Dev/wot-model/src/links.ts" timestamp="1488989196507">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/Dev/wot-model/src/links.ts" timestamp="1489053859355">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="22" column="18" />
+        <mark key="]" line="22" column="17" />
+        <mark key="." line="22" column="17" />
+        <mark key="^" line="22" column="17" />
       </file>
       <file name="$USER_HOME$/Dev/MusicUs/src/client/src/app/shared/navbar/navbar.component.scss" timestamp="1464787722729">
         <mark key="[" line="28" column="5" />
@@ -2183,6 +2185,14 @@
       <jump line="4" column="7" filename="$USER_HOME$/Dev/wot-model/src/index.ts" />
       <jump line="8" column="0" filename="$USER_HOME$/Dev/wot-model/test/web-thing-spec.ts" />
       <jump line="10" column="47" filename="$USER_HOME$/Dev/wot-model/test/web-thing-spec.ts" />
+      <jump line="3" column="21" filename="$USER_HOME$/Dev/wot-model/src/links.ts" />
+      <jump line="1" column="1" filename="$USER_HOME$/Dev/wot-model/src/links.ts" />
+      <jump line="16" column="0" filename="$USER_HOME$/Dev/wot-model/src/links.ts" />
+      <jump line="9" column="0" filename="$USER_HOME$/Dev/wot-model/src/links.ts" />
+      <jump line="8" column="0" filename="$USER_HOME$/Dev/wot-model/src/links.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dev/wot-model/src/links.ts" />
+      <jump line="17" column="0" filename="$USER_HOME$/Dev/wot-model/src/links.ts" />
+      <jump line="11" column="0" filename="$USER_HOME$/Dev/wot-model/src/links.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2215,23 +2225,23 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CmFwcC5nZXQoJy8nLCAocmVxICwgcmVzKSA9PiB7CiAgCn0pOw==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICByZXEuCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CmV4cG9ydCBpbnRlcmZhY2UgTGluayB7CiAgbGluazogc3RyaW5nOwogIHRpdGxlOiBzdHJpbmc7CiAgcmVzb3VyY2VzPzogUmVzb3VyY2U7Cn0=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICByZXEuYWNjZXB0ZWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICByZXEuYWNjZXB0ZWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IEV4cHJlc3MgPSBlLkV4cHJlc3M7Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CmV4cG9ydCBpbnRlcmZhY2UgTGlua3MgewogIG1vZGVsPzogTGluazsKICBwcm9wZXJ0aWVzPzogTGluazsKICBhY3Rpb25zPzogTGluazsKICB0aGluZ3M/OiBMaW5rOwogIHN1YnNjcmlwdGlvbnM/OiBMaW5rOwogIHR5cGU/OiBMaW5rOwogIHByb2R1Y3Q/OiBMaW5rOwogIGhlbHA/OiBMaW5rOwogIHVpPzogTGluazsKfQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRXhwcmVzcyBFeHByZXNzfSBmcm9tICdleHByZXNzJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2239,11 +2249,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHt9IAo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">CmFwcC5nZXQoJy8nLCAocmVxICwgcmVzKSA9PiB7CiAgCn0pOw==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHtSZXF1ZXN0fSBmcm9tICdleHByZXNzLXNlcnZlLXN0YXRpYy1jb3JlJzsK</text>
+        <text encoding="base64">ICByZXEuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
