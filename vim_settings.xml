@@ -117,6 +117,12 @@
         <mark key="^" line="1" column="32" />
         <mark key="." line="1" column="32" />
       </file>
+      <file name="$USER_HOME$/Dev/wot-scripting-api/src/wot.ts" timestamp="1488549150640">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Dev/Java/search-engine/src/main/kotlin/com/inad/shared/Document.kt" timestamp="1484642886615">
         <mark key="[" line="5" column="13" />
         <mark key="]" line="5" column="28" />
@@ -1051,12 +1057,11 @@
         <mark key="^" line="3" column="22" />
         <mark key="." line="3" column="22" />
       </file>
-      <file name="$USER_HOME$/Dev/PFEE/development/docker-compose.yml" timestamp="1489229242921">
+      <file name="$USER_HOME$/Dev/PFEE/development/docker-compose.yml" timestamp="1489231415420">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="^" line="5" column="36" />
-        <mark key="." line="43" column="0" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/SEO/seo-link/src/main/resources/pages.txt" timestamp="1473261992947">
         <mark key="[" line="0" column="0" />
@@ -1368,6 +1373,12 @@
         <mark key="." line="1" column="1" />
         <mark key="^" line="1" column="1" />
       </file>
+      <file name="$USER_HOME$/Dev/wot-model/src/web-thing.ts" timestamp="1488990296444">
+        <mark key="'" line="0" column="9" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/Dev/dj-socket/front/src/app/app.component.ts" timestamp="1487612009539">
         <mark key="[" line="3" column="13" />
         <mark key="]" line="3" column="14" />
@@ -1483,12 +1494,12 @@
         <mark key="^" line="8" column="1" />
         <mark key="." line="8" column="1" />
       </file>
-      <file name="$USER_HOME$/Dev/PFEE/development/docker-compose.override.yml" timestamp="1489229489237">
+      <file name="$USER_HOME$/Dev/PFEE/development/docker-compose.override.yml" timestamp="1489231705622">
         <mark key="'" line="44" column="9" />
-        <mark key="[" line="21" column="52" />
-        <mark key="]" line="21" column="52" />
-        <mark key="^" line="21" column="52" />
-        <mark key="." line="21" column="52" />
+        <mark key="[" line="9" column="20" />
+        <mark key="]" line="9" column="56" />
+        <mark key="^" line="9" column="56" />
+        <mark key="." line="9" column="56" />
       </file>
       <file name="$USER_HOME$/Dev/MusicUs/src/client/src/app/+note/shared/notes-handler.ts" timestamp="1464701907011">
         <mark key="[" line="0" column="24" />
@@ -2213,11 +2224,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>configuration</text>
       </register>
       <register name="-" type="4">
-        <text>mysql</text>
+        <text>configuration</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2232,32 +2243,28 @@
         <text encoding="base64">IyAkIGRvY2tlci1jb21wb3NlIC1mIGRvY2tlci1jb21wb3NlLnltbCAtZiBkb2NrZXItY29tcG9zZS5zdGFnaW5nLnltbCB1cCAtZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLSAiLi9mcm9udGVuZC9iYWNrb2ZmaWNlCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgIyBteXNxbCBkYXRhYmFzZQogIGRiOgogICAgaW1hZ2U6IG15c3FsOmxhdGVzdAogICAgZW52aXJvbm1lbnQ6CiAgICAgICMgRW52IHZhcnMgZGVmaW5lZCBpbiAuZW52IGZpbGUsIGF0IHRoZSByb290IG9mIHRoZSByZXBvc2l0b3J5LgogICAgICAjIFRoZSBmb2xsb3dpbmcgc2VuZHMgZW52IHZhcnMgdG8gdGhlIGNvbnRhaW5lcgogICAgICAtIE1ZU1FMX0RBVEFCQVNFCiAgICAgIC0gTVlTUUxfUk9PVF9QQVNTV09SRAogICAgICAtIE1ZU1FMX1VTRVIKICAgICAgLSBNWVNRTF9QQVNTV09SRAogICAgICAtIE1ZU1FMX0FMTE9XX0VNUFRZX1BBU1NXT1JE</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgLSAiLi9mcm9udGVuZC9jb21tb25zLXdlYi9kaXN0Oi8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBvcnRzCg==</text>
+        <text encoding="base64">ICAgIHZvbHVtZXM6Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>:
-      # Get port used by the backoffice from the host's shell env.
-      # Note that shell env vars take precedence on .env file.
-      - &quot;$FRONT_PORT:8080&quot;</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgIyBNdWx0aS12YWx1ZXMgZmllbGRzIG1lcmdlIHdpdGggZXhpc3RpbmcgdmFsdWVzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBvcnRzCg==</text>
+        <text encoding="base64">ICAgICAgLSBkYgo=</text>
       </register>
-      <register name="6" type="4">
-        <text>:
-      - &quot;$FRONT_PORT:</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGxpbmtzOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxpbmtzCg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2266,12 +2273,10 @@
         </keys>
       </register>
       <register name="8" type="4">
-        <text>:
-      - commons
-      - commonsweb</text>
+        <text encoding="base64">ICMgdm9sdW1lczoKICAgICAgIyAtICIuL2JhY2tlbmQvaW5kZXhlci9kaXN0Oi9yb290Ly5tMi9yZXBvc2l0b3J5L2NvbS93YXRzaXplL2FwaS93YXRzaXplLWluZGV4ZXI6cm8iCiAgICAgICMgLSAiLi9iYWNrZW5kL2JhdGNoL2Rpc3Q6L3Jvb3QvLm0yL3JlcG9zaXRvcnkvY29tL3dhdHNpemUvYXBpL3dhdHNpemUtYmF0Y2gtcHJvY2Vzc2luZzpybyI=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLSAiLi9mcmluCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
