@@ -1524,12 +1524,12 @@
         <mark key="." line="19" column="13" />
         <mark key="^" line="19" column="13" />
       </file>
-      <file name="$USER_HOME$/Dev/status-checker/status-checker/docker-compose.prod.yml" timestamp="1489440251164">
+      <file name="$USER_HOME$/Dev/status-checker/status-checker/docker-compose.prod.yml" timestamp="1489442857290">
         <mark key="'" line="30" column="16" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="30" column="16" />
-        <mark key="^" line="30" column="16" />
-        <mark key="." line="30" column="16" />
+        <mark key="[" line="25" column="9" />
+        <mark key="]" line="25" column="12" />
+        <mark key="^" line="25" column="12" />
+        <mark key="." line="25" column="12" />
       </file>
       <file name="$USER_HOME$/Dev/Java/search-engine/src/main/kotlin/com/inad/managers/SearchManager.kt" timestamp="1484649562190">
         <mark key="[" line="13" column="67" />
@@ -1714,6 +1714,13 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
         <mark key="^" line="42" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/status-checker/status-checker/back/src/servers/https.js" timestamp="1489443938262">
+        <mark key="'" line="7" column="29" />
+        <mark key="[" line="7" column="30" />
+        <mark key="]" line="8" column="45" />
+        <mark key="." line="8" column="45" />
+        <mark key="^" line="8" column="45" />
       </file>
       <file name="$USER_HOME$/Dev/wot-model/tsconfig.json" timestamp="1488992462828">
         <mark key="[" line="10" column="15" />
@@ -2040,6 +2047,12 @@
         <mark key="." line="3" column="20" />
         <mark key="^" line="3" column="20" />
       </file>
+      <file name="$USER_HOME$/Dev/status-checker/status-checker/Caddyfile" timestamp="1489443355952">
+        <mark key="[" line="1" column="35" />
+        <mark key="]" line="2" column="41" />
+        <mark key="^" line="2" column="41" />
+        <mark key="." line="2" column="41" />
+      </file>
       <file name="$USER_HOME$/Dev/MusicUs/src/client/src/app/shared/footer/footer.component.html" timestamp="1464365847816">
         <mark key="[" line="10" column="48" />
         <mark key="]" line="10" column="58" />
@@ -2093,6 +2106,12 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/status-checker/status-checker/back/src/config.js" timestamp="1489443956267">
+        <mark key="[" line="4" column="42" />
+        <mark key="]" line="4" column="46" />
+        <mark key="^" line="4" column="46" />
+        <mark key="." line="4" column="46" />
       </file>
       <file name="$USER_HOME$/Dev/PFEE/rest-api/src/main/java/com/watsize/api/users/colors/colorname/controllers/ColorNameController.java" timestamp="1478702026048">
         <mark key="[" line="195" column="17" />
@@ -2382,8 +2401,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="12" filename="$USER_HOME$/Dev/PFEE/development/docker-compose.override.yml" />
-      <jump line="37" column="22" filename="$USER_HOME$/Dev/PFEE/development/docker-compose.override.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/Dev/PFEE/development/docker-compose.override.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/Dev/wot-scripting-api/.gitignore" />
       <jump line="38" column="0" filename="$USER_HOME$/Dev/wot-scripting-api/.gitignore" />
@@ -2482,6 +2499,8 @@
       <jump line="38" column="46" filename="$USER_HOME$/Dev/wot-api/src/routes.ts" />
       <jump line="30" column="16" filename="$USER_HOME$/Dev/status-checker/status-checker/docker-compose.prod.yml" />
       <jump line="4" column="12" filename="$USER_HOME$/Dev/status-checker/status-checker/.env" />
+      <jump line="4" column="9" filename="$USER_HOME$/Dev/status-checker/status-checker/back/src/servers/https.js" />
+      <jump line="5" column="29" filename="$USER_HOME$/Dev/status-checker/status-checker/back/src/servers/https.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2490,11 +2509,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>BACK_PORT</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc3QgY29uZmlnID0gcmVxdWlyZSgnLi4vY29uZmlnJyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>BACK_PORT</text>
+        <text>8080</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2509,28 +2528,28 @@
         <text encoding="base64">ICAgICAgZXhwZWN0KHRoaW5nLmNyZWF0ZWRBdCkudG8uZXF1YWwoJycpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFjdGlvbnM6ICcvYWN0aW9ucy8nLAo=</text>
+        <text encoding="base64">Y29uc3QgY29uZmlnID0gcmVxdWlyZSgnLi4vY29uZmlnJyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8K</text>
+        <text encoding="base64">Y29uc3QgZnMgPSByZXF1aXJlKCdmcycpOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">KgogICAgLmdldCgocmVxLCByZXMpID0+IHsKICAgICAgcmVzLnN0YXR1cygyMDApLmpzb24oJ0hlbGxvLCB3b3JsZCEnKTsKICAgIH0pOwogICAgKi8=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBjYTogdW5kZWZpbmVkCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIC5nZXQoPT4gY29udHJvbGxlci5nZXRSb290KHJlcSwgcmVzLCBuZXh0KSk7Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">LAogIGNlcnQ6IHVuZGVmaW5lZCwKICBjaXBoZXJzOiB1bmRlZmluZWQsCiAga2V5OiB1bmRlZmluZWQsCiAgcGZ4OiB1bmRlZmluZWQsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICByZXR1cm4gcm91dGVyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGFjdGlvbnM6ICcvYWN0aW9ucy8nLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyb3V0ZXIpOwo=</text>
+        <text encoding="base64">ICAgIC8K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJvdXRlcyk7Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">KgogICAgLmdldCgocmVxLCByZXMpID0+IHsKICAgICAgcmVzLnN0YXR1cygyMDApLmpzb24oJ0hlbGxvLCB3b3JsZCEnKTsKICAgIH0pOwogICAgKi8=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2539,13 +2558,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJvdXRlcy5zdGFjayk7Cg==</text>
+        <text encoding="base64">ICAgIC5nZXQoPT4gY29udHJvbGxlci5nZXRSb290KHJlcSwgcmVzLCBuZXh0KSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyb3V0ZXMpOwo=</text>
+        <text encoding="base64">ICByZXR1cm4gcm91dGVyOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2575,9 +2594,9 @@
         <entry encoding="base64">JzwsJz5zL2JhY2tlbmRlbmQvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2Zyb250ZW5kZW5kL2Zyb250ZW5kL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2JhY2tlbmRlbmQvYmFja2VuZC9n</entry>
-        <entry>w</entry>
         <entry>q</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
