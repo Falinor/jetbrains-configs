@@ -74,12 +74,12 @@
         <mark key="." line="21" column="53" />
         <mark key="^" line="21" column="53" />
       </file>
-      <file name="$USER_HOME$/Dev/status-checker/back/src/app.js" timestamp="1489510291469">
-        <mark key="'" line="38" column="10" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="^" line="53" column="8" />
-        <mark key="." line="54" column="0" />
+      <file name="$USER_HOME$/Dev/status-checker/back/src/app.js" timestamp="1489575062447">
+        <mark key="'" line="42" column="7" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="52" column="8" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/wot-api/src/utils/base-routes.ts" timestamp="1489153837547">
         <mark key="[" line="2" column="37" />
@@ -2100,12 +2100,12 @@
         <mark key="^" line="3" column="36" />
         <mark key="." line="3" column="36" />
       </file>
-      <file name="$USER_HOME$/Dev/status-checker/front/src/status-checker/StatusChecker.js" timestamp="1489573944981">
+      <file name="$USER_HOME$/Dev/status-checker/front/src/status-checker/StatusChecker.js" timestamp="1489574965624">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="26" column="6" />
-        <mark key="]" line="26" column="26" />
-        <mark key="." line="26" column="26" />
-        <mark key="^" line="26" column="26" />
+        <mark key="[" line="39" column="29" />
+        <mark key="]" line="39" column="29" />
+        <mark key="." line="39" column="29" />
+        <mark key="^" line="39" column="29" />
       </file>
       <file name="$USER_HOME$/Dev/Java/search-engine/src/main/kotlin/com/inad/shared/Document.kt" timestamp="1484642886615">
         <mark key="[" line="5" column="13" />
@@ -2367,7 +2367,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="3" filename="$USER_HOME$/Dev/wot-api/src/app.ts" />
       <jump line="21" column="18" filename="$USER_HOME$/Dev/wot-api/src/app.ts" />
       <jump line="4" column="13" filename="$USER_HOME$/Dev/wot-api/src/routes.ts" />
       <jump line="0" column="51" filename="$USER_HOME$/Dev/wot-api/src/actions/routes.ts" />
@@ -2467,6 +2466,7 @@
       <jump line="43" column="2" filename="$USER_HOME$/Dev/status-checker/back/src/controller.js" />
       <jump line="38" column="10" filename="$USER_HOME$/Dev/status-checker/back/src/app.js" />
       <jump line="12" column="44" filename="$USER_HOME$/Dev/status-checker/front/src/status-checker/StatusCheckerService.js" />
+      <jump line="43" column="7" filename="$USER_HOME$/Dev/status-checker/back/src/app.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2475,8 +2475,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>API</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICByZXEuc29ja2V0LnNldFRpbWVvdXQoSW5maW5pdHkpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>API</text>
@@ -2496,30 +2496,30 @@
     'Connection': 'keep-alive'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICByZXEuc29ja2V0LnNldFRpbWVvdXQoSW5maW5pdHkpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhsaW5rcyk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="4" type="4">
         <text>for (let client of clients) {
         client.send(data);
       }</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBjbGllbnRzLmZvckVhY2goY2xpZW50ID0+IHsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCBtc2cgPSBNYXRoLnJhbmRvbSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2528,10 +2528,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gVE9ETzogb3B0aW1pemUgc3RyaW5nIGNvbmNhdGVuYXRpb24K</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbGlua3MgPSBKU09OLnN0cmluZ2lmeShsaW5rcyk7Cg==</text>
+        <text encoding="base64">ICBjb25zdCBtc2cgPSBNYXRoLnJhbmRvbSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
