@@ -728,11 +728,12 @@
         <mark key="." line="1" column="24" />
         <mark key="^" line="1" column="24" />
       </file>
-      <file name="$USER_HOME$/Dev/status-checker/front/src/status-checker/StatusCheckerService.js" timestamp="1489590565518">
-        <mark key="'" line="27" column="3" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/Dev/status-checker/front/src/status-checker/StatusCheckerService.js" timestamp="1489597498575">
+        <mark key="'" line="34" column="3" />
+        <mark key="[" line="23" column="3" />
+        <mark key="]" line="29" column="27" />
+        <mark key="." line="29" column="27" />
+        <mark key="^" line="29" column="27" />
       </file>
       <file name="$USER_HOME$/Dev/Java/Mediadb/src/main/resources/META-INF/persistence.xml" timestamp="1473432749290">
         <mark key="[" line="3" column="31" />
@@ -2097,12 +2098,12 @@
         <mark key="^" line="3" column="36" />
         <mark key="." line="3" column="36" />
       </file>
-      <file name="$USER_HOME$/Dev/status-checker/front/src/status-checker/StatusChecker.js" timestamp="1489590548865">
+      <file name="$USER_HOME$/Dev/status-checker/front/src/status-checker/StatusChecker.js" timestamp="1489597562843">
         <mark key="'" line="36" column="17" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="35" column="26" />
-        <mark key="." line="36" column="0" />
+        <mark key="[" line="16" column="17" />
+        <mark key="]" line="16" column="28" />
+        <mark key="." line="16" column="28" />
+        <mark key="^" line="16" column="28" />
       </file>
       <file name="$USER_HOME$/Dev/Java/search-engine/src/main/kotlin/com/inad/shared/Document.kt" timestamp="1484642886615">
         <mark key="[" line="5" column="13" />
@@ -2471,8 +2472,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>getLinks</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -3996,7 +3997,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>getLinks</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -4013,28 +4014,28 @@
     'Connection': 'keep-alive'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuc2VyKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CiAgb25SZWZyZXNoKGV2ZW50KSB7CiAgICAvLyBUT0RPCiAgfQ==</text>
+        <text encoding="base64">dmljZS5yZWZyZXNoTGlua3MoKQogICAgICAudGhlbigobGlua3MpID0+IHsKICAgICAgCiAgICAgIH0pCiAgICAgIC5jYXRjaCg=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBBUEk6ICdodHRwOi8vbG9jYWxob3N0OjgwODAnCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHByZXZTdGF0ZSk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHByZXZTdGF0ZS5yZXN1bHRzKTsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgb25SZWZyZXNoKHJlcG9ydCkgewogICAgY29uc29sZS5sb2cocmVwb3J0KTsKICAgIHRoaXMuc2V0U3RhdGUoKHByZXZTdGF0ZSkgPT4gewogICAgICBjb25zdCBpID0gcHJldlN0YXRlLnJlc3VsdHMuZmluZEluZGV4KGVsdCA9PiBlbHQuaWQgPT09IHJlcG9ydC5pZCk7CiAgICAgIHByZXZTdGF0ZS5yZXN1bHRzW2ldID0gcmVwb3J0OwogICAgICBjb25zb2xlLmxvZyhwcmV2U3RhdGUpOwogICAgICByZXR1cm4gewogICAgICAgIHJlc3VsdHM6IHByZXZTdGF0ZS5yZXN1bHRzCiAgICAgIH0KICAgIH0pOwogIH0=</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgb25SZWZyZXNoKGV2ZW50KSB7CiAgICAvLyBUT0RPCiAgfQ==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBBUEk6ICdodHRwOi8vbG9jYWxob3N0OjgwODAnCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHByZXZTdGF0ZSk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHByZXZTdGF0ZS5yZXN1bHRzKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4043,10 +4044,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBpID0gcHJldlN0YXRlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIC8K</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgb25SZWZyZXNoKHJlcG9ydCkgewogICAgY29uc29sZS5sb2cocmVwb3J0KTsKICAgIHRoaXMuc2V0U3RhdGUoKHByZXZTdGF0ZSkgPT4gewogICAgICBjb25zdCBpID0gcHJldlN0YXRlLnJlc3VsdHMuZmluZEluZGV4KGVsdCA9PiBlbHQuaWQgPT09IHJlcG9ydC5pZCk7CiAgICAgIHByZXZTdGF0ZS5yZXN1bHRzW2ldID0gcmVwb3J0OwogICAgICBjb25zb2xlLmxvZyhwcmV2U3RhdGUpOwogICAgICByZXR1cm4gewogICAgICAgIHJlc3VsdHM6IHByZXZTdGF0ZS5yZXN1bHRzCiAgICAgIH0KICAgIH0pOwogIH0=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
