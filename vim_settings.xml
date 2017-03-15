@@ -21,7 +21,7 @@
         <mark key="." line="4" column="26" />
         <mark key="^" line="4" column="26" />
       </file>
-      <file name="/a.dummy" timestamp="1489164546076">
+      <file name="/a.dummy" timestamp="1489619855795">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/coding-interview/dev/data-structures/src/test/java/linkedlists/LinkedListTest.java" timestamp="1478006509405">
@@ -1353,11 +1353,12 @@
         <mark key="^" line="1" column="13" />
         <mark key="." line="1" column="13" />
       </file>
-      <file name="$USER_HOME$/Dev/PFEE/development/frontend/commons/Dockerfile" timestamp="1489614986565">
-        <mark key="[" line="10" column="59" />
-        <mark key="]" line="10" column="60" />
-        <mark key="." line="10" column="60" />
-        <mark key="^" line="10" column="60" />
+      <file name="$USER_HOME$/Dev/PFEE/development/frontend/commons/Dockerfile" timestamp="1489621727988">
+        <mark key="'" line="10" column="19" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="3" column="15" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/wot-scripting-api/tsconfig.json" timestamp="1488550385824">
         <mark key="[" line="3" column="0" />
@@ -1487,11 +1488,11 @@
         <mark key="^" line="6" column="36" />
         <mark key="." line="6" column="36" />
       </file>
-      <file name="$USER_HOME$/Dev/PFEE/development/frontend/backoffice-web/Dockerfile" timestamp="1489613851054">
-        <mark key="[" line="10" column="37" />
-        <mark key="]" line="10" column="49" />
-        <mark key="^" line="10" column="49" />
-        <mark key="." line="10" column="49" />
+      <file name="$USER_HOME$/Dev/PFEE/development/frontend/backoffice-web/Dockerfile" timestamp="1489621765986">
+        <mark key="[" line="10" column="53" />
+        <mark key="]" line="10" column="59" />
+        <mark key="^" line="10" column="59" />
+        <mark key="." line="10" column="59" />
       </file>
       <file name="$USER_HOME$/Dev/Java/search-engine/src/test/kotlin/com/inad/shared/DocumentTest.kt" timestamp="1484567199631">
         <mark key="[" line="11" column="5" />
@@ -1560,11 +1561,11 @@
         <mark key="^" line="3" column="24" />
         <mark key="." line="3" column="24" />
       </file>
-      <file name="$USER_HOME$/Dev/PFEE/development/frontend/commons-web/Dockerfile" timestamp="1489613859426">
-        <mark key="[" line="10" column="37" />
-        <mark key="]" line="10" column="49" />
-        <mark key="^" line="10" column="49" />
-        <mark key="." line="10" column="49" />
+      <file name="$USER_HOME$/Dev/PFEE/development/frontend/commons-web/Dockerfile" timestamp="1489621735107">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="10" column="12" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/musicus/src/client/src/app/shared/notification/index.ts" timestamp="1465922481505">
         <mark key="[" line="0" column="41" />
@@ -2300,7 +2301,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="6" filename="$USER_HOME$/Dev/PFEE/development/docker-compose.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/Dev/PFEE/development/docker-compose.yml" />
       <jump line="8" column="12" filename="$USER_HOME$/Dev/PFEE/development/docker-compose.override.yml" />
       <jump line="37" column="22" filename="$USER_HOME$/Dev/PFEE/development/docker-compose.override.yml" />
@@ -2400,6 +2400,7 @@
       <jump line="22" column="3" filename="$USER_HOME$/Dev/wot-api/test/utils/extractor-spec.ts" />
       <jump line="11" column="4" filename="$USER_HOME$/Dev/wot-api/src/routes.ts" />
       <jump line="38" column="46" filename="$USER_HOME$/Dev/wot-api/src/routes.ts" />
+      <jump line="10" column="19" filename="$USER_HOME$/Dev/PFEE/development/frontend/commons/Dockerfile" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2408,11 +2409,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFjdGlvbnM6ICcvYWN0aW9ucy8nLAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cXVpZXQg</text>
       </register>
       <register name="-" type="4">
-        <text>getRoot</text>
+        <text encoding="base64">cXVpZXQg</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2427,28 +2428,28 @@
         <text encoding="base64">ICAgICAgZXhwZWN0KHRoaW5nLmNyZWF0ZWRBdCkudG8uZXF1YWwoJycpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFjdGlvbnM6ICcvYWN0aW9ucy8nLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIC8K</text>
+      <register name="2" type="4">
+        <text encoding="base64">CkVOVFJZUE9JTlQgWyAiLi9ub2RlX21vZHVsZXMvLmJpbi9ndWxwIiBdCkNNRCBbICJ3YXRjaCIgXQ==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">KgogICAgLmdldCgocmVxLCByZXMpID0+IHsKICAgICAgcmVzLnN0YXR1cygyMDApLmpzb24oJ0hlbGxvLCB3b3JsZCEnKTsKICAgIH0pOwogICAgKi8=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIC5nZXQoPT4gY29udHJvbGxlci5nZXRSb290KHJlcSwgcmVzLCBuZXh0KSk7Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CkVOVFJZUE9JTlQgWyAiLi9ub2RlX21vZHVsZXMvLmJpbi9ndWxwIiBdCkNNRCBbICJ3YXRjaCIgXQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICByZXR1cm4gcm91dGVyOwo=</text>
+        <text encoding="base64">ICAgIHlhcm4gJiYgXAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyb3V0ZXIpOwo=</text>
+        <text encoding="base64">UlVOIG5wbSBpbnN0YWxsIC15IHlhcm4gLS1xdWlldCAmJiBcCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJvdXRlcyk7Cg==</text>
+        <text encoding="base64">ICAgICYmIFwK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2457,10 +2458,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJvdXRlcy5zdGFjayk7Cg==</text>
+        <text encoding="base64">UlVOIG5wbSBpbnN0YWxsIC1nIHlhcm4gLS1xdWlldCAmJiBcCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyb3V0ZXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGFjdGlvbnM6ICcvYWN0aW9ucy8nLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
