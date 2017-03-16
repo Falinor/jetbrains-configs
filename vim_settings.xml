@@ -40,6 +40,13 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Dev/api-security/api/src/model/user/user-schema.js" timestamp="1489659968259">
+        <mark key="'" line="25" column="35" />
+        <mark key="[" line="26" column="1" />
+        <mark key="]" line="27" column="17" />
+        <mark key="." line="27" column="17" />
+        <mark key="^" line="27" column="17" />
+      </file>
       <file name="$USER_HOME$/Dev/Java/Exo/src/main/java/com/mti/Person.java" timestamp="1459584072765">
         <mark key="[" line="5" column="30" />
         <mark key="]" line="5" column="15" />
@@ -2465,7 +2472,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="4" filename="$USER_HOME$/Dev/wot-api/src/utils/base-schema.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Dev/wot-api/src/utils/base-schema.ts" />
       <jump line="13" column="7" filename="$USER_HOME$/Dev/wot-api/src/utils/base-schema.ts" />
       <jump line="3" column="0" filename="$USER_HOME$/Dev/wot-api/src/utils/base-schema.ts" />
@@ -2565,6 +2571,7 @@
       <jump line="28" column="2" filename="$USER_HOME$/Dev/status-checker/front/src/status-checker/StatusChecker.js" />
       <jump line="47" column="17" filename="$USER_HOME$/Dev/status-checker/front/src/status-checker/StatusChecker.js" />
       <jump line="35" column="17" filename="$USER_HOME$/Dev/status-checker/front/src/status-checker/StatusChecker.js" />
+      <jump line="25" column="35" filename="$USER_HOME$/Dev/api-security/api/src/model/user/user-schema.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2574,7 +2581,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAibGljZW5zZSIK</text>
+        <text encoding="base64">ICBib2R5OiAgeyB0eXBlOiBTdHJpbmcgfQo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -4115,28 +4122,28 @@
     'Connection': 'keep-alive'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAibGljZW5zZSIK</text>
+        <text encoding="base64">ICBib2R5OiAgeyB0eXBlOiBTdHJpbmcgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBTZWUgaHR0cHM6Ly9naXRodWIuY29tL3NwZjEzL2h1Z29UaGVtZXMjdGhlbWV0b21sIGZvciBhbiBleGFtcGxlCg==</text>
+        <text encoding="base64">ICB0aXRsZTogeyB0eXBlOiBTdHJpbmcsIHJlcXVpcmVkOiB0cnVlIH0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgcGV0ICA9IHJlcXVpcmUoJy4vbW9kZWwvcGV0L3BldC1yb3V0ZXInKTsK</text>
+        <text encoding="base64">ICAibGljZW5zZSIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cm91dGVyLnVzZSgnL3BldCcsIHBldCk7Cg==</text>
+        <text encoding="base64">IyBTZWUgaHR0cHM6Ly9naXRodWIuY29tL3NwZjEzL2h1Z29UaGVtZXMjdGhlbWV0b21sIGZvciBhbiBleGFtcGxlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2VyKQo=</text>
+        <text encoding="base64">Y29uc3QgcGV0ICA9IHJlcXVpcmUoJy4vbW9kZWwvcGV0L3BldC1yb3V0ZXInKTsK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">dmljZS5yZWZyZXNoTGlua3MoKQogICAgICAudGhlbigobGlua3MpID0+IHsKICAgICAgCiAgICAgIH0pCiAgICAgIC5jYXRjaCg=</text>
+      <register name="6" type="2">
+        <text encoding="base64">cm91dGVyLnVzZSgnL3BldCcsIHBldCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuc2VyKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4145,13 +4152,13 @@
         </keys>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">CiAgb25SZWZyZXNoKGV2ZW50KSB7CiAgICAvLyBUT0RPCiAgfQ==</text>
+        <text encoding="base64">dmljZS5yZWZyZXNoTGlua3MoKQogICAgICAudGhlbigobGlua3MpID0+IHsKICAgICAgCiAgICAgIH0pCiAgICAgIC5jYXRjaCg=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBBUEk6ICdodHRwOi8vbG9jYWxob3N0OjgwODAnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -4204,9 +4211,9 @@
         <entry encoding="base64">JzwsJz5zL3RoaW5nL21vZGVsL2c=</entry>
         <entry>.,.+3w</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
