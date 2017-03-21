@@ -1933,11 +1933,11 @@
         <mark key="^" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/api-security/api/test/user/user-facade.spec.js" timestamp="1490107206874">
-        <mark key="[" line="8" column="27" />
-        <mark key="]" line="8" column="23" />
-        <mark key="." line="8" column="23" />
-        <mark key="^" line="8" column="23" />
+      <file name="$USER_HOME$/Dev/api-security/api/test/user/user-facade.spec.js" timestamp="1490108090621">
+        <mark key="[" line="23" column="53" />
+        <mark key="]" line="23" column="57" />
+        <mark key="." line="23" column="53" />
+        <mark key="^" line="15" column="47" />
       </file>
       <file name="$USER_HOME$/Dev/MusicUs/src/client/src/app/shared/models/index.ts" timestamp="1464365405092">
         <mark key="[" line="0" column="30" />
@@ -2673,8 +2673,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdkYXRhJywgZGF0YSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>data</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -4198,7 +4198,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>removeAlq</text>
+        <text>data</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -4215,28 +4215,28 @@
     'Connection': 'keep-alive'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdkYXRhJywgZGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdmaW5kT3JDcmVhdGUnLCBkYXRhKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdkYXRhJywgZGF0YSk7Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">CiAgcmVtb3ZlQWxsKCkgewogICAgcmV0dXJuIHRoaXMuU2NoZW1hCiAgICAgIC5yZW1vdmVBbGwoKQogICAgICAuZXhlYygpOwogIH0=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IAogICAgYWZ0ZXJBbGwoKSB7CiAgICAgIHJldHVybiBVc2VyCiAgICB9</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAudGhlbigpCg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbW9uZ29vc2UuCg==</text>
+        <text encoding="base64">ICAgICAgICAudGhlbigpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4245,10 +4245,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgVXNlci5yZW1vdmVBbGwK</text>
+        <text encoding="base64">ICAgICAgbW9uZ29vc2UuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbW9uZ29vc2UK</text>
+        <text encoding="base64">ICAgICAgVXNlci5yZW1vdmVBbGwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
