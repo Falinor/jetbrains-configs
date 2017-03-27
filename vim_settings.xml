@@ -1258,12 +1258,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/tests/angular/front/src/app/app.module.ts" timestamp="1490609126306">
-        <mark key="'" line="24" column="14" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="2" />
-        <mark key="." line="9" column="2" />
-        <mark key="^" line="9" column="2" />
+      <file name="$USER_HOME$/Dev/tests/angular/front/src/app/app.module.ts" timestamp="1490615479128">
+        <mark key="'" line="26" column="14" />
+        <mark key="[" line="18" column="4" />
+        <mark key="]" line="18" column="4" />
+        <mark key="." line="18" column="4" />
+        <mark key="^" line="18" column="10" />
       </file>
       <file name="$USER_HOME$/Dev/PFEE/rest-api/src/main/java/com/watsize/api/products/search/controllers/ProductForUserController.java" timestamp="1483995125562">
         <mark key="[" line="37" column="14" />
@@ -2108,6 +2108,13 @@
         <mark key="^" line="1" column="31" />
         <mark key="." line="1" column="31" />
       </file>
+      <file name="$USER_HOME$/Dev/tests/angular/front/package.json" timestamp="1490615715026">
+        <mark key="'" line="23" column="31" />
+        <mark key="[" line="21" column="34" />
+        <mark key="]" line="21" column="34" />
+        <mark key="^" line="21" column="34" />
+        <mark key="." line="21" column="34" />
+      </file>
       <file name="$USER_HOME$/Dev/PFEE/color-thief-java/src/main/java/fr/epita/mti/interpreter/commands/VersionCommand.java" timestamp="1470130661713">
         <mark key="[" line="5" column="24" />
         <mark key="]" line="5" column="24" />
@@ -2672,7 +2679,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="1" filename="$USER_HOME$/Dev/status-checker/front/src/status-checker/StatusCheckerService.js" />
       <jump line="80" column="3" filename="$USER_HOME$/Dev/status-checker/front/config/webpack.config.dev.js" />
       <jump line="29" column="0" filename="$USER_HOME$/Dev/status-checker/back/src/controller.js" />
       <jump line="37" column="0" filename="$USER_HOME$/Dev/status-checker/back/src/controller.js" />
@@ -2772,6 +2778,7 @@
       <jump line="16" column="25" filename="$USER_HOME$/Dev/tests/angular/front/src/app/core/core.module.ts" />
       <jump line="11" column="3" filename="$USER_HOME$/Dev/tests/angular/front/src/app/album/list/album-list.component.html" />
       <jump line="0" column="3" filename="$USER_HOME$/Dev/tests/angular/front/src/app/album/list/album-list.component.ts" />
+      <jump line="22" column="31" filename="$USER_HOME$/Dev/tests/angular/front/package.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2781,7 +2788,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">PG1kLWNhcmQtdGl0bGU+e3sgdGl0bGUgfX08L21kLWNhcmQtdGl0bGU+CiAgICA8bWQtY2FyZC1zdWJ0aXRsZT48L21kLWNhcmQtc3VidGl0bGU+</text>
+        <text>BrowserAnimationsModule</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -4305,7 +4312,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>header</text>
+        <text>BrowserAnimationsModule</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -4314,36 +4321,36 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>authenticate</text>
+        <text>^</text>
       </register>
       <register name="0" type="4">
         <text>'Content-Type': 'text/event-stream',
     'Cache-Control': 'no-cache',
     'Connection': 'keep-alive'</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">PG1kLWNhcmQtdGl0bGU+e3sgdGl0bGUgfX08L21kLWNhcmQtdGl0bGU+CiAgICA8bWQtY2FyZC1zdWJ0aXRsZT48L21kLWNhcmQtc3VidGl0bGU+</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIEJyb3dzZXJBbmltYXRpb25zTW9kdWxlCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxtZC1jYXJkLXRpdGxlPnt7IHRpdGxlIH19PC9tZC1jYXJkLXRpdGxlPgo=</text>
+        <text encoding="base64">aW1wb3J0IHsgfSBmcm9tICdAYW5ndWxhci9wbGF0Zm9ybS1icm93c2VyLWR5bmFtaWMnOwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIEh0dHBNb2R1bGUsCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICA8bWQtY2FyZC1jb250ZW50Cg==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">PgogICAgCiAgPC9tZC1jYXJkLWNvbnRlbnQ+</text>
-      </register>
-      <register name="6" type="4">
+      <register name="3" type="4">
         <text encoding="base64">PG1kLWNhcmQtdGl0bGU+e3sgdGl0bGUgfX08L21kLWNhcmQtdGl0bGU+CiAgICA8bWQtY2FyZC1zdWJ0aXRsZT48L21kLWNhcmQtc3VidGl0bGU+</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICA8bWQtY2FyZC1oZWFkZXIgY2xhc3M9Im9jdG8tYWxidW1fX2NhcmQtaGVhZGVyIj4K</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIDxtZC1jYXJkLXRpdGxlPnt7IHRpdGxlIH19PC9tZC1jYXJkLXRpdGxlPgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEh0dHBNb2R1bGUsCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICA8bWQtY2FyZC1jb250ZW50Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">PgogICAgCiAgPC9tZC1jYXJkLWNvbnRlbnQ+</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4351,28 +4358,27 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICA8L21kLWNhcmQtaGVhZGVyPgo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">PG1kLWNhcmQtdGl0bGU+e3sgdGl0bGUgfX08L21kLWNhcmQtdGl0bGU+CiAgICA8bWQtY2FyZC1zdWJ0aXRsZT48L21kLWNhcmQtc3VidGl0bGU+</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICA8bWQtY2FyZC1oZWFkZXIgY2xhc3M9Im9jdG8tYWxidW1fX2NhcmQtaGVhZGVyIj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>authenticate</last-search>
+      <last-search>^</last-search>
       <last-offset />
-      <last-pattern>authenticate</last-pattern>
-      <last-replace>model</last-replace>
-      <last-substitute>thing</last-substitute>
+      <last-pattern>^</last-pattern>
+      <last-replace />
+      <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>any</entry>
         <entry>git</entry>
         <entry encoding="base64">XDxnaXRcPg==</entry>
         <entry>PORT</entry>
@@ -4392,9 +4398,9 @@
         <entry>refreshLink</entry>
         <entry>service</entry>
         <entry>authenticate</entry>
+        <entry>^</entry>
       </history-search>
       <history-cmd>
-        <entry>e ../routes/devices.js</entry>
         <entry>r ../routes/devices.js</entry>
         <entry>r ../../routes/devices.js</entry>
         <entry>e ../../routes/devices.js</entry>
@@ -4413,6 +4419,7 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
         <entry>q</entry>
+        <entry encoding="base64">JzwsJz5zL14vL2c=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
