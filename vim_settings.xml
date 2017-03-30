@@ -456,6 +456,13 @@
         <mark key="." line="95" column="34" />
         <mark key="^" line="95" column="34" />
       </file>
+      <file name="$USER_HOME$/Dev/tests/angular/front/src/app/post/shared/post.service.ts" timestamp="1490878525012">
+        <mark key="'" line="11" column="28" />
+        <mark key="[" line="18" column="41" />
+        <mark key="]" line="18" column="38" />
+        <mark key="." line="18" column="38" />
+        <mark key="^" line="18" column="38" />
+      </file>
       <file name="$USER_HOME$/Dev/Java/Mediatheque/src/main/java/User.java" timestamp="1459598481448">
         <mark key="[" line="13" column="22" />
         <mark key="]" line="14" column="16" />
@@ -597,7 +604,7 @@
         <mark key="." line="42" column="0" />
         <mark key="^" line="42" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490716727344">
+      <file name="/Dummy.txt" timestamp="1490877440412">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/PFEE/pfee-color-thief-java/src/main/java/fr/epita/mti/extractor/Extractor.java" timestamp="1473752763778">
@@ -728,6 +735,12 @@
         <mark key="]" line="12" column="3" />
         <mark key="." line="12" column="3" />
         <mark key="^" line="12" column="3" />
+      </file>
+      <file name="$USER_HOME$/Dev/tests/angular/front/src/app/post/shared/post.model.ts" timestamp="1490877632246">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="4" column="14" />
+        <mark key="^" line="4" column="14" />
+        <mark key="." line="4" column="14" />
       </file>
       <file name="$USER_HOME$/Dev/Java/Mediatheque/src/main/java/com/mti/bean/File.java" timestamp="1473436385770">
         <mark key="[" line="49" column="32" />
@@ -1089,7 +1102,6 @@
         <mark key="^" line="4" column="16" />
         <mark key="." line="4" column="16" />
       </file>
-      <file name="$USER_HOME$/Dev/tests/angular/front/tsconfig.json" timestamp="1490800738289" />
       <file name="$USER_HOME$/Dev/SEO/seo-link/src/main/java/interpreter/BaseInterpreter.java" timestamp="1468851684143">
         <mark key="[" line="7" column="26" />
         <mark key="]" line="4" column="33" />
@@ -1320,12 +1332,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/tests/angular/front/src/app/app.module.ts" timestamp="1490619308751">
-        <mark key="'" line="26" column="14" />
-        <mark key="[" line="25" column="6" />
-        <mark key="]" line="10" column="2" />
-        <mark key="." line="10" column="2" />
-        <mark key="^" line="23" column="20" />
+      <file name="$USER_HOME$/Dev/tests/angular/front/src/app/app.module.ts" timestamp="1490877154978">
+        <mark key="'" line="25" column="14" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/wot-api/test/utils/extractor-spec.ts" timestamp="1489164112533">
         <mark key="'" line="22" column="3" />
@@ -2806,8 +2818,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="10" filename="$USER_HOME$/Dev/status-checker/back/src/app.js" />
-      <jump line="43" column="7" filename="$USER_HOME$/Dev/status-checker/back/src/app.js" />
       <jump line="13" column="15" filename="$USER_HOME$/Dev/status-checker/front/src/status/Status.js" />
       <jump line="23" column="15" filename="$USER_HOME$/Dev/status-checker/front/src/status/Status.js" />
       <jump line="21" column="9" filename="$USER_HOME$/Dev/status-checker/front/src/status-checker/StatusChecker.js" />
@@ -2906,6 +2916,8 @@
       <jump line="13" column="34" filename="$USER_HOME$/Dev/portal/app/styles/components/_navbar.scss" />
       <jump line="48" column="23" filename="$USER_HOME$/Dev/portal/app/styles/partials/_reset.scss" />
       <jump line="13" column="49" filename="$USER_HOME$/Dev/tests/angular/front/src/app/album/list/album-list.component.ts" />
+      <jump line="1" column="36" filename="$USER_HOME$/Dev/tests/angular/front/src/app/post/shared/post.service.ts" />
+      <jump line="9" column="28" filename="$USER_HOME$/Dev/tests/angular/front/src/app/post/shared/post.service.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2914,8 +2926,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIHRoaXMuc3Vicy5wdXNoKHRoaXMuZ2V0QWxidW1zKCkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>]</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -4439,7 +4451,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">T25EZXN0cm95IA==</text>
+        <text>]</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -4454,28 +4466,28 @@
         <text encoding="base64">ICBmb250LXdlaWdodDogNDAwOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIHRoaXMuc3Vicy5wdXNoKHRoaXMuZ2V0QWxidW1zKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgT2JzZXJ2YWJsZSB9IGZyb20gJ3J4anMvT2JzZXJ2YWJsZSc7Cg==</text>
+        <text encoding="base64">ICAgIGlmICghcmVzLm9rKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU3Vic2NyaXB0aW9uIH0gZnJvbSAncnhqcy9TdWJzY3JpcHRpb24nOwo=</text>
+        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQWxidW0gfSBmcm9tICcuLi9zaGFyZWQvYWxidW0ubW9kZWwnOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgQWxidW1Nb2R1bGUgfSBmcm9tICcuL2FsYnVtL2FsYnVtLm1vZHVsZSc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEFsYnVtTW9kdWxlLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN1YnM6IFN1YnNjcmlwdGlvbltdID0gW107Cg==</text>
+        <text encoding="base64">ICAgIC8vIHRoaXMuc3Vicy5wdXNoKHRoaXMuZ2V0QWxidW1zKCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgT2JzZXJ2YWJsZSB9IGZyb20gJ3J4anMvT2JzZXJ2YWJsZSc7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4483,11 +4495,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgbmdPbkRlc3Ryb3koKTogdm9pZCB7CiAgICB0aGlzLnN1YnMuZm9yRWFjaChzdWIgPT4gc3ViLnVuc3Vic2NyaWJlKCkpOwogIH0=</text>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IHsgU3Vic2NyaXB0aW9uIH0gZnJvbSAncnhqcy9TdWJzY3JpcHRpb24nOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgQWxidW0gfSBmcm9tICcuLi9zaGFyZWQvYWxidW0ubW9kZWwnOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -4568,6 +4580,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
