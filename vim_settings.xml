@@ -1495,6 +1495,13 @@
         <mark key="^" line="0" column="35" />
         <mark key="." line="0" column="35" />
       </file>
+      <file name="$USER_HOME$/Dev/web-of-things/wot-dashboard/front/src/app/auth/login/login.component.html" timestamp="1491312187608">
+        <mark key="'" line="2" column="5" />
+        <mark key="[" line="4" column="9" />
+        <mark key="]" line="4" column="16" />
+        <mark key="." line="4" column="16" />
+        <mark key="^" line="4" column="16" />
+      </file>
       <file name="$USER_HOME$/Dev/musicus/src/client/src/app/+account/signup/signup-form/signup-form.component.html" timestamp="1465918665265">
         <mark key="[" line="0" column="31" />
         <mark key="]" line="0" column="29" />
@@ -2552,7 +2559,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="3" filename="$USER_HOME$/Dev/tests/angular/front/src/app/album/list/album-list.component.html" />
       <jump line="22" column="31" filename="$USER_HOME$/Dev/tests/angular/front/package.json" />
       <jump line="1" column="0" filename="$USER_HOME$/Dev/tests/angular/front/src/app/album/list/album-list.component.html" />
       <jump line="13" column="0" filename="$USER_HOME$/Dev/tests/angular/front/src/app/album/list/album-list.component.html" />
@@ -2652,6 +2658,7 @@
       <jump line="19" column="3" filename="$USER_HOME$/Dev/bbl-angular/hexrgb-converter/src/app/color/color.component.ts" />
       <jump line="23" column="21" filename="$USER_HOME$/Dev/bbl-angular/hexrgb-converter/src/app/color/color.component.ts" />
       <jump line="9" column="18" filename="$USER_HOME$/Dev/web-of-things/wot-dashboard/front/src/app/auth/auth.module.ts" />
+      <jump line="2" column="5" filename="$USER_HOME$/Dev/web-of-things/wot-dashboard/front/src/app/auth/login/login.component.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2661,7 +2668,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">PGNvbnRlbnQK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -4185,7 +4192,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29sb3Ig</text>
+        <text>Header</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -4200,32 +4207,28 @@
         <text encoding="base64">ICAgICAgICBWYWxpZGF0b3JzLnJlcXVpcmVkLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">PGNvbnRlbnQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>{
-    path: '',
-    children: []
-  }</text>
+      <register name="2" type="2">
+        <text encoding="base64">PG1kLWNhcmQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuY29sb3IpOwo=</text>
+        <text encoding="base64">PG1hdC1jYXJkPjwvbWF0LWNhcmQ+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpZiAoaGV4LmxgCg==</text>
+        <text encoding="base64">PGhlYWQK</text>
       </register>
       <register name="5" type="4">
-        <text>ength === 1)
-    hex = `0</text>
+        <text encoding="base64">PGZvYm8+CiAgICAKICA8L2ZvYm8+</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByZXR1cm4gcmdiIDwgMTAgPyByZXMuCg==</text>
+        <text encoding="base64">ICA8aGVhZDwvaGVhZGVyPgo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuY29sb3IpOwo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">PGhlYWRlcj4KICAKPC9oZWFkZXI+</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4234,10 +4237,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndGVzdCcpOwo=</text>
+        <text encoding="base64">PGhlYWRlcj48L2hlYWRlcj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PHNlY3Rpb24K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
