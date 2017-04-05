@@ -97,12 +97,12 @@
         <mark key="." line="1" column="42" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/web-of-things/wot-dashboard/front/src/app/auth/login/login.component.ts" timestamp="1491403891206">
+      <file name="$USER_HOME$/Dev/web-of-things/wot-dashboard/front/src/app/auth/login/login.component.ts" timestamp="1491405312669">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="29" column="28" />
-        <mark key="]" line="30" column="26" />
-        <mark key="." line="30" column="26" />
-        <mark key="^" line="30" column="26" />
+        <mark key="[" line="21" column="17" />
+        <mark key="]" line="21" column="17" />
+        <mark key="." line="21" column="17" />
+        <mark key="^" line="21" column="17" />
       </file>
       <file name="$USER_HOME$/Dev/wot-model/test/web-thing-spec.ts" timestamp="1488988051095">
         <mark key="[" line="20" column="42" />
@@ -597,11 +597,11 @@
         <mark key="." line="6" column="28" />
         <mark key="^" line="6" column="28" />
       </file>
-      <file name="$USER_HOME$/Dev/web-of-things/wot-dashboard/front/src/app/auth/shared/user.model.ts" timestamp="1491319484104">
+      <file name="$USER_HOME$/Dev/web-of-things/wot-dashboard/front/src/app/auth/shared/user.model.ts" timestamp="1491405325463">
         <mark key="[" line="2" column="18" />
-        <mark key="]" line="2" column="22" />
-        <mark key="^" line="2" column="22" />
-        <mark key="." line="2" column="22" />
+        <mark key="]" line="2" column="18" />
+        <mark key="^" line="2" column="18" />
+        <mark key="." line="2" column="18" />
       </file>
       <file name="$USER_HOME$/Dev/tests/angular/posts/src/assets/scss/_body.scss" timestamp="1490886703433">
         <mark key="[" line="0" column="0" />
@@ -1578,12 +1578,12 @@
         <mark key="^" line="0" column="35" />
         <mark key="." line="0" column="35" />
       </file>
-      <file name="$USER_HOME$/Dev/web-of-things/wot-dashboard/front/src/app/auth/login/login.component.html" timestamp="1491323728096">
+      <file name="$USER_HOME$/Dev/web-of-things/wot-dashboard/front/src/app/auth/login/login.component.html" timestamp="1491405050775">
         <mark key="'" line="2" column="5" />
-        <mark key="[" line="13" column="77" />
-        <mark key="]" line="14" column="43" />
-        <mark key="." line="14" column="43" />
-        <mark key="^" line="14" column="43" />
+        <mark key="[" line="4" column="66" />
+        <mark key="]" line="4" column="70" />
+        <mark key="." line="4" column="70" />
+        <mark key="^" line="4" column="70" />
       </file>
       <file name="$USER_HOME$/Dev/musicus/src/client/src/app/+account/signup/signup-form/signup-form.component.html" timestamp="1465918665265">
         <mark key="[" line="0" column="31" />
@@ -2797,8 +2797,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRoaXMubG9naW5Gb3JtLgo=</text>
+      <register name="&quot;" type="4">
+        <text>'';</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -4322,7 +4322,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>'';</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -4337,28 +4337,28 @@
         <text>est</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMubG9naW5Gb3JtLgo=</text>
+        <text encoding="base64">ICB1c2VyOiBVc2VyOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHtBbm90aGVyU2VydmljZX0gZnJvbSAnLi9hbm90aGVyLnNlcnZpY2UnOwo=</text>
+        <text encoding="base64">ICAgIHRoaXMudXNlciA9IG5ldyBVc2VyKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQW5vdGhlclNlcnZpY2V9IGZyb20gJy4uL2Fub3RoZXIuc2VydmljZSc7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMubG9naW5Gb3JtLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcm92aWRlcnM6IFtBbm90aGVyU2VydmljZV0K</text>
+        <text encoding="base64">aW1wb3J0IHtBbm90aGVyU2VydmljZX0gZnJvbSAnLi9hbm90aGVyLnNlcnZpY2UnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcm92aWRlcnM6IFtdCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgQW5vdGhlclNlcnZpY2V9IGZyb20gJy4uL2Fub3RoZXIuc2VydmljZSc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzdHlsZVVybHM6IFsnLi9hcHAuY29tcG9uZW50LnNjc3MnXQo=</text>
+        <text encoding="base64">ICBwcm92aWRlcnM6IFtBbm90aGVyU2VydmljZV0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzdHlsZVVybHM6IFsnLi9lYWdlci5jb21wb25lbnQuc2NzcyddCg==</text>
+        <text encoding="base64">ICBwcm92aWRlcnM6IFtdCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4367,10 +4367,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzdHlsZVVybHM6IFsnLi9sYXp5LmNvbXBvbmVudC5zY3NzJ10sCg==</text>
+        <text encoding="base64">ICBzdHlsZVVybHM6IFsnLi9hcHAuY29tcG9uZW50LnNjc3MnXQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgbmdPbkluaXQoKSA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBzdHlsZVVybHM6IFsnLi9lYWdlci5jb21wb25lbnQuc2NzcyddCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
