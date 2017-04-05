@@ -97,12 +97,12 @@
         <mark key="." line="1" column="42" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/web-of-things/wot-dashboard/front/src/app/auth/login/login.component.ts" timestamp="1491323744198">
+      <file name="$USER_HOME$/Dev/web-of-things/wot-dashboard/front/src/app/auth/login/login.component.ts" timestamp="1491403891206">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="28" column="26" />
-        <mark key="]" line="29" column="27" />
-        <mark key="." line="29" column="27" />
-        <mark key="^" line="29" column="27" />
+        <mark key="[" line="29" column="28" />
+        <mark key="]" line="30" column="26" />
+        <mark key="." line="30" column="26" />
+        <mark key="^" line="30" column="26" />
       </file>
       <file name="$USER_HOME$/Dev/wot-model/test/web-thing-spec.ts" timestamp="1488988051095">
         <mark key="[" line="20" column="42" />
@@ -2798,7 +2798,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHtBbm90aGVyU2VydmljZX0gZnJvbSAnLi9hbm90aGVyLnNlcnZpY2UnOwo=</text>
+        <text encoding="base64">ICAgIHRoaXMubG9naW5Gb3JtLgo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -4337,28 +4337,28 @@
         <text>est</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHtBbm90aGVyU2VydmljZX0gZnJvbSAnLi9hbm90aGVyLnNlcnZpY2UnOwo=</text>
+        <text encoding="base64">ICAgIHRoaXMubG9naW5Gb3JtLgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQW5vdGhlclNlcnZpY2V9IGZyb20gJy4uL2Fub3RoZXIuc2VydmljZSc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtBbm90aGVyU2VydmljZX0gZnJvbSAnLi9hbm90aGVyLnNlcnZpY2UnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcm92aWRlcnM6IFtBbm90aGVyU2VydmljZV0K</text>
+        <text encoding="base64">aW1wb3J0IHsgQW5vdGhlclNlcnZpY2V9IGZyb20gJy4uL2Fub3RoZXIuc2VydmljZSc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcm92aWRlcnM6IFtdCg==</text>
+        <text encoding="base64">ICBwcm92aWRlcnM6IFtBbm90aGVyU2VydmljZV0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzdHlsZVVybHM6IFsnLi9hcHAuY29tcG9uZW50LnNjc3MnXQo=</text>
+        <text encoding="base64">ICBwcm92aWRlcnM6IFtdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzdHlsZVVybHM6IFsnLi9lYWdlci5jb21wb25lbnQuc2NzcyddCg==</text>
+        <text encoding="base64">ICBzdHlsZVVybHM6IFsnLi9hcHAuY29tcG9uZW50LnNjc3MnXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzdHlsZVVybHM6IFsnLi9sYXp5LmNvbXBvbmVudC5zY3NzJ10sCg==</text>
+        <text encoding="base64">ICBzdHlsZVVybHM6IFsnLi9lYWdlci5jb21wb25lbnQuc2NzcyddCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4366,14 +4366,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgbmdPbkluaXQoKSA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBzdHlsZVVybHM6IFsnLi9sYXp5LmNvbXBvbmVudC5zY3NzJ10sCg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ewogIH0K</text>
+        <text encoding="base64">CiAgbmdPbkluaXQoKSA=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -4426,9 +4426,9 @@
         <entry>qwq</entry>
         <entry>W</entry>
         <entry>weq</entry>
-        <entry>q</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
