@@ -1364,13 +1364,6 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/bbl-angular/dependency-injection/src/app/test/test.component.html" timestamp="1491394592012">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="1" column="16" />
-        <mark key="]" line="1" column="30" />
-        <mark key="." line="1" column="30" />
-        <mark key="^" line="1" column="30" />
-      </file>
       <file name="$USER_HOME$/Dev/wot-model/package.json" timestamp="1489080804610">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="4" />
@@ -1618,6 +1611,12 @@
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="12" />
+      </file>
+      <file name="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/greeter.ts" timestamp="1491409629307">
+        <mark key="'" line="9" column="4" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/musicus/src/client/src/app/+account/login/shared/login-response.model.ts" timestamp="1466007690046">
         <mark key="[" line="3" column="6" />
@@ -1980,6 +1979,12 @@
         <mark key="^" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/tslint.json" timestamp="1491409591183">
+        <mark key="[" line="1" column="28" />
+        <mark key="]" line="3" column="30" />
+        <mark key="^" line="3" column="30" />
+        <mark key="." line="3" column="30" />
+      </file>
       <file name="$USER_HOME$/Dev/api-security/api/test/user/user-facade.spec.js" timestamp="1490714575339">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -2195,6 +2200,12 @@
         <mark key="]" line="33" column="37" />
         <mark key="." line="33" column="37" />
         <mark key="^" line="33" column="30" />
+      </file>
+      <file name="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/config.ts" timestamp="1491409738610">
+        <mark key="[" line="5" column="44" />
+        <mark key="]" line="5" column="44" />
+        <mark key="." line="5" column="44" />
+        <mark key="^" line="5" column="44" />
       </file>
       <file name="$USER_HOME$/Dev/Java/exam/src/main/kotlin/com/inad/Main.kt" timestamp="1484827109269">
         <mark key="[" line="8" column="18" />
@@ -2702,8 +2713,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/Dev/tests/angular/front/src/app/app.component.scss" />
-      <jump line="0" column="0" filename="$USER_HOME$/Dev/tests/angular/front/src/app/app.component.scss" />
       <jump line="16" column="1" filename="$USER_HOME$/Dev/tests/angular/front/src/app/app.component.scss" />
       <jump line="26" column="0" filename="$USER_HOME$/Dev/portal/app/styles/main.css" />
       <jump line="0" column="0" filename="$USER_HOME$/Dev/portal/app/styles/partials/_reset.scss" />
@@ -2802,6 +2811,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Dev/bbl-angular/dependency-injection/src/app/test/test.component.html" />
       <jump line="0" column="26" filename="$USER_HOME$/Dev/web-of-things/wot-gateway/src/index.ts" />
       <jump line="8" column="45" filename="$USER_HOME$/Dev/web-of-things/wot-gateway/src/greeter.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/greeter.ts" />
+      <jump line="8" column="4" filename="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/greeter.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2811,7 +2822,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>'';</text>
+        <text encoding="base64">CmV4cG9ydCBjb25zdCBjb25maWcgPSB7CiAgZW52OiBwcm9jZXNzLmVudi5OT0RFX0VOViB8fCAnZGV2ZWxvcG1lbnQnLAp9Ow==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -4335,7 +4346,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'';</text>
+        <text>Configuration</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -4349,29 +4360,29 @@
       <register name="0" type="4">
         <text>est</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICB1c2VyOiBVc2VyOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CmV4cG9ydCBjb25zdCBjb25maWcgPSB7CiAgZW52OiBwcm9jZXNzLmVudi5OT0RFX0VOViB8fCAnZGV2ZWxvcG1lbnQnLAp9Ow==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMudXNlciA9IG5ldyBVc2VyKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMubG9naW5Gb3JtLgo=</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IGNsYXNzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHtBbm90aGVyU2VydmljZX0gZnJvbSAnLi9hbm90aGVyLnNlcnZpY2UnOwo=</text>
+        <text encoding="base64">ICAgIGNvbmZpZy5lbnYK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQW5vdGhlclNlcnZpY2V9IGZyb20gJy4uL2Fub3RoZXIuc2VydmljZSc7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcm92aWRlcnM6IFtBbm90aGVyU2VydmljZV0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcm92aWRlcnM6IFtdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4380,13 +4391,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzdHlsZVVybHM6IFsnLi9hcHAuY29tcG9uZW50LnNjc3MnXQo=</text>
+        <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzdHlsZVVybHM6IFsnLi9lYWdlci5jb21wb25lbnQuc2NzcyddCg==</text>
+        <text encoding="base64">ZXhwb3J0IGNsCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -4439,9 +4450,9 @@
         <entry>weq</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zLyIvJ2cvZw==</entry>
+        <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>w</entry>
-        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
