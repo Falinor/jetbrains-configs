@@ -591,6 +591,9 @@
         <mark key="]" line="3" column="13" />
         <mark key="." line="3" column="13" />
       </file>
+      <file name="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/node_modules/methods/index.js" timestamp="1491580378100">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Dev/Java/search-engine/src/main/kotlin/com/inad/utils/String.kt" timestamp="1484642822912">
         <mark key="[" line="6" column="10" />
         <mark key="]" line="6" column="10" />
@@ -1171,6 +1174,9 @@
         <mark key="]" line="86" column="0" />
         <mark key="." line="86" column="0" />
       </file>
+      <file name="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/node_modules/express/lib/express.js" timestamp="1491580362645">
+        <mark key="'" line="70" column="0" />
+      </file>
       <file name="$USER_HOME$/Dev/MusicUs/src/client/src/app/shared/list/list-item/list-item.component.scss" timestamp="1464774660767">
         <mark key="[" line="8" column="56" />
         <mark key="]" line="8" column="55" />
@@ -1628,6 +1634,9 @@
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
         <mark key="." line="0" column="17" />
+      </file>
+      <file name="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/node_modules/express/lib/router/index.js" timestamp="1491580372197">
+        <mark key="'" line="141" column="18" />
       </file>
       <file name="$USER_HOME$/Dev/bbl-angular/hexrgb-converter/src/app/shared/utils.ts" timestamp="1491223601122">
         <mark key="[" line="7" column="64" />
@@ -2353,6 +2362,9 @@
         <mark key="." line="7" column="14" />
         <mark key="^" line="7" column="14" />
       </file>
+      <file name="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/services/google/index.js" timestamp="1491579771281">
+        <mark key="[" line="4" column="50" />
+      </file>
       <file name="$USER_HOME$/Dev/api-security/api/src/auth/github/github.js" timestamp="1490091808637">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -2628,6 +2640,9 @@
         <mark key="]" line="11" column="0" />
         <mark key="^" line="11" column="20" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/wot-authorization-server/api/node_modules/@types/express-serve-static-core/index.d.ts" timestamp="1491473471526">
+        <mark key="'" line="479" column="14" />
       </file>
       <file name="$USER_HOME$/Dev/bbl-angular/dependency-injection/src/app/app.component.ts" timestamp="1491394878181">
         <mark key="[" line="6" column="0" />
@@ -3017,10 +3032,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="13" filename="$USER_HOME$/Dev/bbl-angular/posts/src/app/post/post/post.component.ts" />
-      <jump line="2" column="26" filename="$USER_HOME$/Dev/bbl-angular/posts/src/app/post/post/post.component.ts" />
-      <jump line="3" column="0" filename="$USER_HOME$/Dev/bbl-angular/posts/src/app/post/post/post.component.ts" />
-      <jump line="8" column="0" filename="$USER_HOME$/Dev/bbl-angular/posts/src/app/post/post/post.component.html" />
       <jump line="12" column="12" filename="$USER_HOME$/Dev/bbl-angular/posts/src/app/post/post/post.component.ts" />
       <jump line="31" column="2" filename="$USER_HOME$/Dev/bbl-angular/posts/src/app/post/post/post.component.ts" />
       <jump line="15" column="34" filename="$USER_HOME$/Dev/bbl-angular/posts/src/app/post/post/post.component.ts" />
@@ -3117,6 +3128,10 @@
       <jump line="1" column="0" filename="$USER_HOME$/Dev/wot-authorization-server/api/src/routes/user/user-model.ts" />
       <jump line="25" column="32" filename="$USER_HOME$/Dev/wot-authorization-server/api/src/routes/user/user-model.ts" />
       <jump line="15" column="15" filename="$USER_HOME$/Dev/wot-authorization-server/api/src/app.ts" />
+      <jump line="70" column="0" filename="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/node_modules/express/lib/express.js" />
+      <jump line="42" column="12" filename="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/node_modules/express/lib/router/index.js" />
+      <jump line="141" column="18" filename="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/node_modules/express/lib/router/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/node_modules/methods/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4659,7 +4674,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdGF0dXNcPg==</text>
+        <text>post</text>
       </register>
       <register name="0" type="4">
         <text>est</text>
@@ -4705,18 +4720,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdGF0dXNcPg==</last-search>
+      <last-search>post</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdGF0dXNcPg==</last-pattern>
+      <last-pattern>post</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>actions</entry>
-        <entry>thing</entry>
         <entry>package</entry>
         <entry>entry</entry>
         <entry>write</entry>
@@ -4735,6 +4748,8 @@
         <entry>&quot;</entry>
         <entry>ResponseHandler</entry>
         <entry encoding="base64">XDxnZXRcPg==</entry>
+        <entry>get</entry>
+        <entry>post</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1BPUlQvSFRUUFNfUE9SVC9n</entry>
