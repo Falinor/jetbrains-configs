@@ -1147,6 +1147,11 @@
         <mark key="." line="7" column="23" />
         <mark key="^" line="7" column="23" />
       </file>
+      <file name="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/db/db.ts" timestamp="1491496055577">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Dev/PFEE/color-thief-java/src/main/java/fr/epita/mti/interpreter/BaseInterpreter.java" timestamp="1470128325859">
         <mark key="[" line="2" column="34" />
         <mark key="]" line="3" column="38" />
@@ -2923,8 +2928,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>RequestHandler</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0ICogYXMgQmx1ZWJpcmQgZnJvbSAnYmx1ZWJpcmQnOwo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -4448,7 +4453,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>RequestHandler</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -4463,30 +4468,30 @@
         <text encoding="base64">aW1wb3J0IHsgTmV4dEZ1bmN0aW9uLCBSZXF1ZXN0LCBSZXF1ZXN0SGFuZGxlciwgUmVzcG9uc2UgfSBmcm9tICdleHByZXNzJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgQmx1ZWJpcmQgZnJvbSAnYmx1ZWJpcmQnOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAvKgogICAgfSBlbHNlIHsKICAgICAgbmV4dChlcnIpOwogICAgfQogICAgKi8=</text>
+      <register name="2" type="2">
+        <text encoding="base64">KG1vbmdvb3NlIGFzIGFueSkuUHJvbWlzZSA9IEJsdWViaXJkOwo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICAvKgogICAgfSBlbHNlIHsKICAgICAgbmV4dChlcnIpOwogICAgfQogICAgKi8=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIC8vIGlmIChyZXEueGhyKSB7Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIC8vIGlmIChyZXEueGhyKSB7Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>{
       next(err);
     }</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIG5leHQoZXJyKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4495,10 +4500,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmVzLnN0YXR1cyg1MDApLmpzb24oeyBlcnJvcjogZXJyLm1lc3NhZ2UgfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGVyci5zdGF0dXMpCg==</text>
+        <text encoding="base64">ICAgIG5leHQoZXJyKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
