@@ -752,6 +752,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/api/user/model.js" timestamp="1491578036451">
+        <mark key="[" line="60" column="45" />
+        <mark key="]" line="60" column="45" />
+        <mark key="^" line="60" column="56" />
+        <mark key="." line="60" column="45" />
+      </file>
       <file name="$USER_HOME$/Dev/MusicUs/src/client/src/app/shared/collapser/collapser.component.ts" timestamp="1464625881806">
         <mark key="[" line="5" column="26" />
         <mark key="]" line="5" column="35" />
@@ -3118,8 +3124,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">dGhlIA==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -4643,7 +4649,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>index</text>
+        <text encoding="base64">dGhlIA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -4658,28 +4664,28 @@
         <text>est</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1hdGNoOiAvXlxTK0BcUytcLlxTKyQvLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgfSBmcm9tICdmcycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgZnMgPSByZXF1aXJlKCdmcycpCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IHsgfSBmcm9tICdmcycK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Y29uc3QgZnMgPSByZXF1aXJlKCdmcycpCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9ncmVldGVyJzsK</text>
+        <text encoding="base64">aW1wb3J0IHsgfSBmcm9tICdmcycK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZmF1bHQ6Cg==</text>
+        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9ncmVldGVyJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxvd2VyY2FzZQo=</text>
+        <text encoding="base64">ICAgIGRlZmF1bHQ6Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4688,10 +4694,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlcXVpcmVkOiB0cnVlCg==</text>
+        <text encoding="base64">ICAgIGxvd2VyY2FzZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxvd2VyY2FzZTogdHJ1ZQo=</text>
+        <text encoding="base64">ICAgIHJlcXVpcmVkOiB0cnVlCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
