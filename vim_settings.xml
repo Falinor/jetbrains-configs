@@ -361,11 +361,12 @@
         <mark key="^" line="11" column="22" />
         <mark key="." line="11" column="22" />
       </file>
-      <file name="$USER_HOME$/Dev/web-of-things/wot-authorization-server/dashboard/src/app/user/shared/user.service.ts" timestamp="1491830147889">
-        <mark key="[" line="10" column="14" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Dev/web-of-things/wot-authorization-server/dashboard/src/app/user/shared/user.service.ts" timestamp="1491830833431">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="6" column="68" />
+        <mark key="." line="6" column="68" />
+        <mark key="^" line="6" column="68" />
       </file>
       <file name="$USER_HOME$/Dev/MusicUs/src/client/src/app/+sound-board/index.ts" timestamp="1464103850442">
         <mark key="[" line="0" column="28" />
@@ -518,11 +519,12 @@
         <mark key="." line="6" column="20" />
         <mark key="^" line="6" column="20" />
       </file>
-      <file name="$USER_HOME$/Dev/web-of-things/wot-authorization-server/dashboard/src/app/shared/service.ts" timestamp="1491830029136">
+      <file name="$USER_HOME$/Dev/web-of-things/wot-authorization-server/dashboard/src/app/shared/service.ts" timestamp="1491831057493">
         <mark key="'" line="0" column="23" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+        <mark key="[" line="13" column="10" />
+        <mark key="]" line="13" column="9" />
+        <mark key="." line="13" column="9" />
+        <mark key="^" line="13" column="9" />
       </file>
       <file name="$USER_HOME$/Dev/MusicUs/src/client/src/app/+instruments/instrument-list/instrument-list.component.scss" timestamp="1464763545813">
         <mark key="[" line="9" column="22" />
@@ -3135,7 +3137,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="42" filename="$USER_HOME$/Dev/bbl-angular/hexrgb-converter/src/app/color/color-display/color-display.component.ts" />
       <jump line="14" column="63" filename="$USER_HOME$/Dev/bbl-angular/hexrgb-converter/src/app/color/color-display/color-display.component.ts" />
       <jump line="5" column="11" filename="$USER_HOME$/Dev/bbl-angular/hexrgb-converter/src/app/color/color-display/color-display.component.ts" />
       <jump line="24" column="23" filename="$USER_HOME$/Dev/bbl-angular/hexrgb-converter/src/app/color/color-display/color-display.component.ts" />
@@ -3235,6 +3236,7 @@
       <jump line="1" column="42" filename="$USER_HOME$/Dev/web-of-things/wot-authorization-server/dashboard/src/app/shared/service.ts" />
       <jump line="16" column="17" filename="$USER_HOME$/Dev/web-of-things/wot-authorization-server/dashboard/src/app/shared/service.ts" />
       <jump line="0" column="23" filename="$USER_HOME$/Dev/web-of-things/wot-authorization-server/dashboard/src/app/shared/service.ts" />
+      <jump line="6" column="0" filename="$USER_HOME$/Dev/web-of-things/wot-authorization-server/dashboard/src/app/user/shared/user.service.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3243,8 +3245,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFVzZXJTZXJ2aWNlLmZvclJvb3QoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>Endpoint</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -4768,7 +4770,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>UserService</text>
+        <text>Endpoint</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -4777,34 +4779,34 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx7XD4=</text>
+        <text>operators</text>
       </register>
       <register name="0" type="4">
         <text>est</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFVzZXJTZXJ2aWNlLmZvclJvb3QoKQo=</text>
+        <text encoding="base64">ICBjb25zdCBlbmRwb2ludCA9ICcvdXNlcnMnOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHsgcHJvdmlkZTogVXNlclNlcnZpY2UsIHVzZUNsYXNzOiAgfQo=</text>
+        <text encoding="base64">ICAgIFVzZXJTZXJ2aWNlLmZvclJvb3QoKQo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIHsgcHJvdmlkZTogVXNlclNlcnZpY2UsIHVzZUNsYXNzOiAgfQo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">IAo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IAogIGZpbmQoKTogT2JzZXJ2YWJsZTxUPiB7CiAgICAKICB9</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGVyci5tZXNzYWdlCg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRocm93IE9ic2VydmFibGUudAo=</text>
+        <text encoding="base64">ICAgIGVyci5tZXNzYWdlCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4813,28 +4815,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLm1hcCh0aGlzLmRhdGEpCg==</text>
+        <text encoding="base64">ICAgIHRocm93IE9ic2VydmFibGUudAo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgcHJpdmF0ZSBkYXRhKG9iajogYW55KSB7CiAgICByZXR1cm4gb2JqOwogIH0K</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgLm1hcCh0aGlzLmRhdGEpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx7XD4=</last-search>
+      <last-search>operators</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx7XD4=</last-pattern>
+      <last-pattern>operators</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>entry</entry>
-        <entry>write</entry>
         <entry>send</entry>
         <entry>socke</entry>
         <entry>socket</entry>
@@ -4853,6 +4853,8 @@
         <entry>post</entry>
         <entry>&quot;</entry>
         <entry encoding="base64">XDx7XD4=</entry>
+        <entry>map</entry>
+        <entry>operators</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLycvYC9n</entry>
