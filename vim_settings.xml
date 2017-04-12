@@ -178,6 +178,13 @@
         <mark key="." line="2" column="3" />
         <mark key="^" line="2" column="3" />
       </file>
+      <file name="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/services/passport/passport-facebook.js" timestamp="1492011271934">
+        <mark key="'" line="6" column="40" />
+        <mark key="[" line="1" column="10" />
+        <mark key="]" line="1" column="10" />
+        <mark key="^" line="1" column="8" />
+        <mark key="." line="1" column="10" />
+      </file>
       <file name="$USER_HOME$/Dev/portal/app/styles/main.scss" timestamp="1490661128799">
         <mark key="[" line="5" column="30" />
         <mark key="]" line="6" column="29" />
@@ -2352,6 +2359,11 @@
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="28" />
       </file>
+      <file name="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/services/facebook/index.js" timestamp="1492011398314">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Dev/musicus/src/client/src/app/shared/notification/notification.component.html" timestamp="1465922353383">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -3115,6 +3127,12 @@
         <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="20" />
       </file>
+      <file name="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/services/passport/index.js" timestamp="1492011087736">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="2" />
+        <mark key="^" line="61" column="2" />
+        <mark key="." line="61" column="2" />
+      </file>
       <file name="$USER_HOME$/Dev/MusicUs/src/client/src/app/shared/autocomplete/index.ts" timestamp="1464737777226">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="40" />
@@ -3273,8 +3291,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="491" column="55" filename="$USER_HOME$/Dev/wot-authorization-server/api/node_modules/@types/express-serve-static-core/index.d.ts" />
-      <jump line="486" column="32" filename="$USER_HOME$/Dev/wot-authorization-server/api/node_modules/@types/express-serve-static-core/index.d.ts" />
       <jump line="483" column="4" filename="$USER_HOME$/Dev/wot-authorization-server/api/node_modules/@types/express-serve-static-core/index.d.ts" />
       <jump line="479" column="14" filename="$USER_HOME$/Dev/wot-authorization-server/api/node_modules/@types/express-serve-static-core/index.d.ts" />
       <jump line="9" column="32" filename="$USER_HOME$/Dev/wot-authorization-server/api/src/routes/routes.ts" />
@@ -3373,6 +3389,8 @@
       <jump line="7" column="36" filename="$USER_HOME$/Dev/web-of-things/wot-authorization-server/dashboard/src/app/shared/handlers.ts" />
       <jump line="13" column="7" filename="$USER_HOME$/Dev/web-of-things/wot-authorization-server/dashboard/src/app/core/core.module.ts" />
       <jump line="14" column="31" filename="$USER_HOME$/Dev/web-of-things/wot-authorization-server/dashboard/src/app/core/core.module.ts" />
+      <jump line="2" column="25" filename="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/services/passport/passport-facebook.js" />
+      <jump line="6" column="40" filename="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/services/passport/passport-facebook.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3381,8 +3399,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>access_t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJycK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -4906,7 +4924,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>access_t</text>
+        <text encoding="base64">QmVhcmVyU3RyYXRlZ3kg</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -4921,30 +4939,28 @@
         <text>est</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxvY2FsU3RvcmFnZS5zZXRJdGVtKCdhY2Nlc3NfdG9rZW4iJykK</text>
+        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJycK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMubG9jYWxTdAo=</text>
+        <text encoding="base64">ZmV0Y2gK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG1hc3RlcktleSA9ICd5aEp5czVXMVlNR0dya0prUDZSM2hFVWN5UnF2ZHo1Qic7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJjaGFuZ2VPcmlnaW4iOiB0cnVlLAo=</text>
+        <text encoding="base64">ZXhwb3N0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByb3ZpZGVBdXRoKAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>{
-      tokenName: 'access_token'
-    }),</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBwYXNzcG9ydC5hdXRoZW50aWNhdGUoJ2ZhY2Vib29rJywgeyBzZXNzaW9uOiBmYWxzZSB9KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJjaGFuZ2VPcmlnaW4iOiB0cnVlLAo=</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IGZhY2Vib29rID0gZnVuY3Rpb24oKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4953,10 +4969,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">ICAgIGxvY2FsU3RvcmFnZS5zZXRJdGVtKCdhY2Nlc3NfdG9rZW4iJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgIHRoaXMubG9jYWxTdAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
