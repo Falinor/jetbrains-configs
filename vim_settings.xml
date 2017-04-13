@@ -119,12 +119,12 @@
         <mark key="." line="4" column="25" />
         <mark key="^" line="4" column="25" />
       </file>
-      <file name="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/api/auth/index.js" timestamp="1492074410523">
-        <mark key="'" line="26" column="8" />
-        <mark key="[" line="10" column="27" />
-        <mark key="]" line="10" column="27" />
-        <mark key="." line="10" column="27" />
-        <mark key="^" line="10" column="27" />
+      <file name="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/api/auth/index.js" timestamp="1492075485492">
+        <mark key="'" line="28" column="8" />
+        <mark key="[" line="6" column="9" />
+        <mark key="]" line="7" column="3" />
+        <mark key="." line="7" column="3" />
+        <mark key="^" line="7" column="3" />
       </file>
       <file name="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/config.js" timestamp="1492072972308">
         <mark key="[" line="7" column="73" />
@@ -300,12 +300,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/services/passport/passport-master.js" timestamp="1492014017224">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="0" column="32" />
-        <mark key="]" line="1" column="65" />
-        <mark key="^" line="1" column="65" />
-        <mark key="." line="1" column="65" />
+      <file name="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/services/passport/passport-master.js" timestamp="1492075551750">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="1" column="66" />
+        <mark key="]" line="2" column="33" />
+        <mark key="^" line="2" column="33" />
+        <mark key="." line="2" column="33" />
       </file>
       <file name="$USER_HOME$/Dev/wot-scripting-api/src/index.ts" timestamp="1488548649353">
         <mark key="[" line="0" column="0" />
@@ -2694,11 +2694,11 @@
         <mark key="^" line="4" column="60" />
         <mark key="." line="4" column="60" />
       </file>
-      <file name="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/services/mongoose/index.js" timestamp="1492013266906">
-        <mark key="[" line="20" column="23" />
-        <mark key="]" line="20" column="23" />
-        <mark key="^" line="20" column="23" />
-        <mark key="." line="20" column="23" />
+      <file name="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/services/mongoose/index.js" timestamp="1492075065717">
+        <mark key="[" line="5" column="20" />
+        <mark key="]" line="5" column="26" />
+        <mark key="^" line="5" column="26" />
+        <mark key="." line="5" column="26" />
       </file>
       <file name="$USER_HOME$/Dev/MusicUs/src/client/src/app/+sheet-board/renderer/renderer.component.scss" timestamp="1464345663734">
         <mark key="[" line="2" column="0" />
@@ -3206,11 +3206,11 @@
         <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/services/passport/index.js" timestamp="1492073270677">
-        <mark key="[" line="5" column="31" />
-        <mark key="]" line="6" column="33" />
-        <mark key="^" line="6" column="33" />
-        <mark key="." line="6" column="33" />
+      <file name="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/services/passport/index.js" timestamp="1492075438442">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="1" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/MusicUs/src/client/src/app/shared/autocomplete/index.ts" timestamp="1464737777226">
         <mark key="[" line="0" column="0" />
@@ -3479,7 +3479,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBwYXNzd29yZCwK</text>
+        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9wYXNzcG9ydC1nb29nbGUnOwo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -5003,7 +5003,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>env</text>
+        <text>}</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -5018,15 +5018,18 @@
         <text>est</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwYXNzd29yZCwK</text>
+        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9wYXNzcG9ydC1nb29nbGUnOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICBwYXNzd29yZCwK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICBtYXN0ZXIsCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>import passport from 'passport'
 import { Schema } from 'bodymen'
 import { BasicStrategy } from 'passport-http'
@@ -5035,17 +5038,14 @@ import { Strategy as JwtStrategy, ExtractJwt } from 'passport-jwt'
 import { jwtSecret, masterKey } from '../../config'
 import User, { schema } from '../../api/user/model'</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Y29uZmlnLgo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IHsgIH0gZnJvbSAnLi9jb25maWcnOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgKi8K</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvKioK</text>
+        <text encoding="base64">ICAgKi8K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5054,10 +5054,10 @@ import User, { schema } from '../../api/user/model'</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgKiAK</text>
+        <text encoding="base64">ICAvKioK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CgpwYXNzcG9ydC51c2UoJ3Rva2VuJywgbmV3IEp3dFN0cmF0ZWd5KHsKICBzZWNyZXRPcktleTogand0U2VjcmV0LAogIGp3dEZyb21SZXF1ZXN0OiBFeHRyYWN0Snd0LmZyb21FeHRyYWN0b3JzKFsKICAgIEV4dHJhY3RKd3QuZnJvbVVybFF1ZXJ5UGFyYW1ldGVyKCdhY2Nlc3NfdG9rZW4nKSwKICAgIEV4dHJhY3RKd3QuZnJvbUJvZHlGaWVsZCgnYWNjZXNzX3Rva2VuJyksCiAgICBFeHRyYWN0Snd0LmZyb21BdXRoSGVhZGVyV2l0aFNjaGVtZSgnQmVhcmVyJykKICBdKQp9LCAoeyBpZCB9LCBkb25lKSA9PiB7CiAgVXNlci5maW5kQnlJZChpZCkudGhlbigodXNlcikgPT4gewogICAgZG9uZShudWxsLCB1c2VyKQogICAgcmV0dXJuIG51bGwKICB9KS5jYXRjaChkb25lKQp9KSk=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgKiAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
