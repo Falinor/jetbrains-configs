@@ -444,6 +444,11 @@
         <mark key="." line="8" column="15" />
         <mark key="^" line="8" column="15" />
       </file>
+      <file name="$USER_HOME$/Dev/wot-authorization-server/dashboard/src/app/auth/login/login.component.spec.ts" timestamp="1492422691164">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Dev/PFEE/color-thief-java/src/main/java/fr/epita/mti/interpreter/BaseCommand.java" timestamp="1470128476242">
         <mark key="[" line="2" column="30" />
         <mark key="]" line="4" column="1" />
@@ -3244,7 +3249,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbXBvbmVudDogU2lkZWJhckNvbXBvbmVudCwK</text>
+        <text encoding="base64">aW1wb3J0IHsgfQo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -4783,31 +4788,28 @@
         <text>est</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbXBvbmVudDogU2lkZWJhckNvbXBvbmVudCwK</text>
+        <text encoding="base64">aW1wb3J0IHsgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgeyBwYXRoOiAnJywgY29tcG9uZW50OiBEYXNoYm9hcmRDb21wb25lbnQgfSwK</text>
+        <text encoding="base64">ICAgIGNvbXBvbmVudDogU2lkZWJhckNvbXBvbmVudCwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB0aXRsZSA9ICdvY3RvIHdvcmtzISc7Cg==</text>
+        <text encoding="base64">ICAgICAgeyBwYXRoOiAnJywgY29tcG9uZW50OiBEYXNoYm9hcmRDb21wb25lbnQgfSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzdHlsZVVybHM6IFsnLi9hcHAuY29tcG9uZW50LnNjc3MnXQo=</text>
+        <text encoding="base64">ICB0aXRsZSA9ICdvY3RvIHdvcmtzISc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fSkK</text>
+        <text encoding="base64">ICBzdHlsZVVybHM6IFsnLi9hcHAuY29tcG9uZW50LnNjc3MnXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">fSkK</text>
       </register>
-      <register name="7" type="4">
-        <text>{
-    path: 'users',
-    loadChildren: 'app/user/user.module#UserModule'
-  }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4815,11 +4817,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbXBvbmVudDogRGFzaGJvYXJkQ29tcG9uZW50LAo=</text>
+      <register name="8" type="4">
+        <text>{
+    path: 'users',
+    loadChildren: 'app/user/user.module#UserModule'
+  }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxvYWRDaGlsZHJlbjogJ2FwcC91c2VyL3VzZXIubW9kdWxlI1VzZXJNb2R1bGUnCg==</text>
+        <text encoding="base64">ICAgIGNvbXBvbmVudDogRGFzaGJvYXJkQ29tcG9uZW50LAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
