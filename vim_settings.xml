@@ -1233,11 +1233,10 @@
         <mark key="^" line="1" column="29" />
         <mark key="." line="1" column="29" />
       </file>
-      <file name="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/services/passport/passport-basic.js" timestamp="1492528371974">
-        <mark key="'" line="9" column="25" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/services/passport/passport-basic.js" timestamp="1492532582222">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/bbl-angular/dependency-injection/src/app/test/test.module.ts" timestamp="1491394306319">
         <mark key="[" line="5" column="0" />
@@ -2239,12 +2238,12 @@
         <mark key="." line="126" column="31" />
         <mark key="^" line="126" column="31" />
       </file>
-      <file name="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/api/auth/index.test.js" timestamp="1492528049019">
-        <mark key="'" line="48" column="12" />
-        <mark key="[" line="34" column="28" />
-        <mark key="]" line="37" column="34" />
-        <mark key="." line="37" column="34" />
-        <mark key="^" line="37" column="34" />
+      <file name="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/api/auth/index.test.js" timestamp="1492533251466">
+        <mark key="'" line="32" column="13" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="38" column="24" />
       </file>
       <file name="$USER_HOME$/Dev/tests/angular/posts/src/app/app.component.html" timestamp="1490886462060">
         <mark key="[" line="3" column="56" />
@@ -3433,8 +3432,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="5" filename="$USER_HOME$/Dev/web-of-things/wot-dashboard/front/src/app/auth/login/login.component.html" />
-      <jump line="9" column="41" filename="$USER_HOME$/Dev/web-of-things/wot-dashboard/front/src/app/auth/login/login.component.ts" />
       <jump line="2" column="44" filename="$USER_HOME$/Dev/web-of-things/wot-dashboard/front/src/app/auth/login/login.component.ts" />
       <jump line="13" column="26" filename="$USER_HOME$/Dev/web-of-things/wot-dashboard/front/src/app/auth/login/login.component.ts" />
       <jump line="12" column="26" filename="$USER_HOME$/Dev/web-of-things/wot-dashboard/front/src/app/auth/login/login.component.ts" />
@@ -3533,6 +3530,8 @@
       <jump line="9" column="2" filename="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/services/response/index.test.js" />
       <jump line="0" column="1" filename="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/services/response/index.test.js" />
       <jump line="48" column="12" filename="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/api/auth/index.test.js" />
+      <jump line="36" column="19" filename="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/api/auth/index.test.js" />
+      <jump line="32" column="13" filename="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/api/auth/index.test.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3541,8 +3540,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">aXMg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBleHBlY3QoYm9keS5lcnJvcnMuZW1haWwua2luZCkudG9CZSgnbWF0Y2gnKTsK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -5066,7 +5065,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aXMg</text>
+        <text>.</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -5081,28 +5080,28 @@
         <text>est</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAqLwo=</text>
+        <text encoding="base64">ICBleHBlY3QoYm9keS5lcnJvcnMuZW1haWwua2luZCkudG9CZSgnbWF0Y2gnKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvZAo=</text>
+        <text encoding="base64">ICBleHBlY3QoYm9keS5lcnJvcnMucGFzc3dvcmQua2luZCkudG9CZU51bGwoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVycik7Cg==</text>
+        <text encoding="base64">ICBleHBlY3QoYm9keS5lcnJvcnMucGFzc3dvcmQubmFtZSkudG9CZSgnVmFsaWRhdGlvbkVycm9yJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICovCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICB1c2VyLnBhdGgoJycpCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVycik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgIGVycgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5110,11 +5109,12 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZGVzY3JpYmUoKQo=</text>
+      <register name="8" type="4">
+        <text>.
+        };</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVzY3JpYmUoCg==</text>
+        <text encoding="base64">ICAgICAgICBlcnIuZXJyb3JzW2tleV0uCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
