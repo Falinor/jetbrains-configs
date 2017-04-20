@@ -1618,12 +1618,12 @@
         <mark key="." line="2" column="34" />
         <mark key="^" line="2" column="34" />
       </file>
-      <file name="$USER_HOME$/Dev/web-of-things/wot-authorization-server/dashboard/src/app/core/auth/auth.service.ts" timestamp="1492009023445">
-        <mark key="'" line="3" column="19" />
-        <mark key="[" line="28" column="11" />
-        <mark key="]" line="28" column="19" />
-        <mark key="." line="28" column="19" />
-        <mark key="^" line="28" column="19" />
+      <file name="$USER_HOME$/Dev/web-of-things/wot-authorization-server/dashboard/src/app/core/auth/auth.service.ts" timestamp="1492682979284">
+        <mark key="'" line="13" column="71" />
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="1" column="30" />
+        <mark key="^" line="1" column="30" />
+        <mark key="." line="1" column="30" />
       </file>
       <file name="$USER_HOME$/Dev/status-checker/Caddyfile" timestamp="1489494969346">
         <mark key="[" line="8" column="13" />
@@ -2690,6 +2690,12 @@
         <mark key="." line="1" column="43" />
         <mark key="^" line="1" column="43" />
       </file>
+      <file name="$USER_HOME$/Dev/web-of-things/wot-authorization-server/dashboard/src/app/core/auth/basic/basic-auth.ts" timestamp="1492682825907">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="22" />
+      </file>
       <file name="$USER_HOME$/Dev/SEO/seo-link/src/main/java/com/mti/seo/interpreter/BaseInterpreter.java" timestamp="1472735371250">
         <mark key="[" line="0" column="21" />
         <mark key="]" line="0" column="19" />
@@ -3466,9 +3472,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="515" column="25" filename="$USER_HOME$/Dev/wot-authorization-server/api/node_modules/@types/express-serve-static-core/index.d.ts" />
-      <jump line="707" column="19" filename="$USER_HOME$/Dev/wot-authorization-server/api/node_modules/@types/express-serve-static-core/index.d.ts" />
-      <jump line="494" column="55" filename="$USER_HOME$/Dev/wot-authorization-server/api/node_modules/@types/express-serve-static-core/index.d.ts" />
       <jump line="493" column="55" filename="$USER_HOME$/Dev/wot-authorization-server/api/node_modules/@types/express-serve-static-core/index.d.ts" />
       <jump line="492" column="55" filename="$USER_HOME$/Dev/wot-authorization-server/api/node_modules/@types/express-serve-static-core/index.d.ts" />
       <jump line="491" column="55" filename="$USER_HOME$/Dev/wot-authorization-server/api/node_modules/@types/express-serve-static-core/index.d.ts" />
@@ -3566,6 +3569,9 @@
       <jump line="115" column="0" filename="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/api/user/model.test.js" />
       <jump line="62" column="43" filename="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/api/user/model.test.js" />
       <jump line="40" column="13" filename="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/services/passport/passport-basic.js" />
+      <jump line="14" column="71" filename="$USER_HOME$/Dev/web-of-things/wot-authorization-server/dashboard/src/app/core/auth/auth.service.ts" />
+      <jump line="7" column="0" filename="$USER_HOME$/Dev/web-of-things/wot-authorization-server/dashboard/src/app/core/auth/auth.service.ts" />
+      <jump line="13" column="71" filename="$USER_HOME$/Dev/web-of-things/wot-authorization-server/dashboard/src/app/core/auth/auth.service.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3575,7 +3581,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">fSA=</text>
+        <text encoding="base64">QmFzZVJlcXVlc3RPcHRpb25zIA==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -5099,7 +5105,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">fSA=</text>
+        <text encoding="base64">QmFzZVJlcXVlc3RPcHRpb25zIA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -5114,28 +5120,28 @@
         <text encoding="base64">ICBleHBlY3QodHlwZW9mIGJvZHkuZXJyb3JzKS50b0JlKCdvYmplY3QnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gVE9ETyhpbXBvcnRzKQo=</text>
+        <text encoding="base64">aW1wb3J0IHtSZXF1ZXN0T3B0aW9uc30gZnJvbSAnaHR0cCc7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtSZXF1ZXN0T3B0aW9uc30gZnJvbSAnaHR0cCc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIGVuY29kZSgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">ICAgIHRoaXMuYmFzaWNBdXRoLmVuY29kZShlbWFpbCwgcGFzc3dvcmQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoK</text>
+        <text encoding="base64">ICAgIHRoaXMuaHR0cC5vcHRpb25zKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBleHBlY3QoYm9keS5wYXJhbSkudG9CZSgncGFzc3dvcmQnKTsK</text>
+        <text encoding="base64">ICAgIHRoaXMuaHR0cAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBleHBlY3QoYm9keS5uYW1lKS50b0JlKCcnKQo=</text>
+        <text encoding="base64">ZXhwb3J0IGNsYXNzIEJhc2ljQXV0aCgpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5144,10 +5150,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBleHBlY3QoYm9keS4pCg==</text>
+        <text encoding="base64">ICAgIG5ldyBCYXNpY0F1dGgoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuYmFzaWNBdXRoKGVtYWlsLCBwYXNzd29yZCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
