@@ -2201,11 +2201,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/web-of-things/wot-authorization-server/dashboard/src/app/app.component.scss" timestamp="1491902041398">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Dev/web-of-things/wot-authorization-server/dashboard/src/app/app.component.scss" timestamp="1492789261662">
+        <mark key="'" line="7" column="21" />
+        <mark key="[" line="0" column="25" />
+        <mark key="]" line="1" column="19" />
+        <mark key="^" line="1" column="19" />
+        <mark key="." line="1" column="19" />
       </file>
       <file name="$USER_HOME$/Dev/MusicUs/src/client/src/app/+note/index.ts" timestamp="1464103789186">
         <mark key="[" line="1" column="23" />
@@ -3086,6 +3087,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Dev/web-of-things/wot-authorization-server/dashboard/src/app/app.component.html" timestamp="1492789214859">
+        <mark key="[" line="14" column="8" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/Dev/web-of-things/wot-authorization-server/dashboard/src/app/dashboard/dashboard.component.html" timestamp="1491901908989">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -3347,12 +3353,6 @@
         <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/services/passport/index.js" timestamp="1492697957483">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Dev/MusicUs/src/client/src/app/shared/autocomplete/index.ts" timestamp="1464737777226">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="40" />
@@ -3517,7 +3517,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Dev/octoboard/client-ng2/src/app/recent-arrivals/recent-arrivals.component.ts" />
       <jump line="11" column="11" filename="$USER_HOME$/Dev/octoboard/client-ng2/src/app/dashboard/dashboard.service.ts" />
       <jump line="3" column="34" filename="$USER_HOME$/Dev/octoboard/client-ng2/src/app/recent-arrivals/recent-arrivals.service.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Dev/octoboard/client-ng2/src/app/recent-arrivals/recent-arrivals.service.ts" />
@@ -3617,6 +3616,7 @@
       <jump line="10" column="1" filename="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/api/user/user.js" />
       <jump line="11" column="3" filename="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/api/user/user.js" />
       <jump line="15" column="4" filename="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/api/user/user.js" />
+      <jump line="6" column="21" filename="$USER_HOME$/Dev/web-of-things/wot-authorization-server/dashboard/src/app/app.component.scss" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3625,8 +3625,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>64px</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -5150,7 +5150,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text>64px</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -5171,22 +5171,22 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBVc2VyLmZpbmQoeyBlbWFpbCB9KS50aGVuKCh1c2VycykgPT4gdXNlcnMuZm9yRWFjaChjb25zb2xlLmxvZykpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVtYWlsLCB1c2VyKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBzdGF0aWMgY3JlYXRlRnJvbVNlcnZpY2VzCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="6" type="2">
+      <register name="3" type="2">
+        <text encoding="base64">PC9zZWN0aW9uPgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">PGRpdj48L2Rpdj4K</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBVc2VyLmZpbmQoeyBlbWFpbCB9KS50aGVuKCh1c2VycykgPT4gdXNlcnMuZm9yRWFjaChjb25zb2xlLmxvZykpOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cgo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVtYWlsLCB1c2VyKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5195,10 +5195,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBzdGF0aWMgY3JlYXRlRnJvbVNlcnZpY2VzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
