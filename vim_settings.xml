@@ -2128,11 +2128,12 @@
         <mark key="." line="126" column="31" />
         <mark key="^" line="126" column="31" />
       </file>
-      <file name="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/api/auth/index.test.js" timestamp="1493218566277">
-        <mark key="'" line="149" column="7" />
-        <mark key="[" line="150" column="0" />
-        <mark key="]" line="150" column="0" />
-        <mark key="." line="150" column="0" />
+      <file name="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/api/auth/index.test.js" timestamp="1493220858898">
+        <mark key="'" line="144" column="21" />
+        <mark key="[" line="141" column="37" />
+        <mark key="]" line="142" column="20" />
+        <mark key="." line="142" column="20" />
+        <mark key="^" line="142" column="20" />
       </file>
       <file name="$USER_HOME$/Dev/tests/angular/posts/src/app/app.component.html" timestamp="1490886462060">
         <mark key="[" line="3" column="56" />
@@ -3135,10 +3136,10 @@
         <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/services/passport/index.js" timestamp="1493041920159">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/services/passport/index.js" timestamp="1493219933501">
+        <mark key="[" line="0" column="32" />
+        <mark key="]" line="0" column="32" />
+        <mark key="." line="0" column="32" />
       </file>
       <file name="$USER_HOME$/Dev/MusicUs/src/client/src/app/shared/autocomplete/index.ts" timestamp="1464737777226">
         <mark key="[" line="0" column="0" />
@@ -3299,9 +3300,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/api/auth/index.test.js" />
-      <jump line="93" column="1" filename="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/api/auth/index.test.js" />
-      <jump line="4" column="33" filename="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/api/user/index.test.js" />
       <jump line="11" column="0" filename="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/services/facebook/index.test.js" />
       <jump line="0" column="1" filename="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/services/facebook/index.test.js" />
       <jump line="0" column="1" filename="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/services/github/index.test.js" />
@@ -3399,6 +3397,9 @@
       <jump line="139" column="23" filename="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/api/auth/index.test.js" />
       <jump line="4" column="14" filename="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/api/auth/index.test.js" />
       <jump line="149" column="7" filename="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/api/auth/index.test.js" />
+      <jump line="145" column="3" filename="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/api/auth/index.test.js" />
+      <jump line="5" column="12" filename="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/api/auth/index.test.js" />
+      <jump line="142" column="21" filename="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/api/auth/index.test.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3408,7 +3409,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Y29uc3Qg</text>
+        <text>googlePassport</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -4932,7 +4933,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29uc3Qg</text>
+        <text>googlePassport</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -4947,7 +4948,7 @@
         <text encoding="base64">ICAgICAgICA8YnV0dG9uIG1kLWJ1dHRvbj5FRElUPC9idXR0b24+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBzdHViKGdvb2dsZSwgJ2dldFVzZXInLCAoKSA9PiBQcm9taXNlLnJlc29sdmUoewo=</text>
+        <text encoding="base64">ICBwYXNzcG9ydC5nb29nbGUgPSBqZXN0LmZuKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -4955,24 +4956,20 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICBnb29nbGUgPSBqZXN0LmZuKCgpID0+IFByb21pc2UucmVzb2x2ZSh7CgogIH0pKTs=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzcHkuCg==</text>
+        <text encoding="base64">ICBwYXNzcG9ydC5nb29nbGUgPSBqZXN0LmZuKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwYXNzcG9ydC5nb29nbGUoKSk7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>provider: 'google',
-    id: '123',
-    name: 'user',
-    emails: ['b@b.com'],
-    picture: 'test.jpg',</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBqZXN0Lm1vY2soJy4uLy4uL3NlcnZpY2VzL3Bhc3Nwb3J0Jyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIC5tb2NrSW1wbGVtZW50YXRpb24oKCkgPT4gUHJvbWlzZS5yZXNvbHZlKHsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4981,13 +4978,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9KSk7Cg==</text>
+        <text encoding="base64">ICAgIC5zcHlPbihwYXNzcG9ydCwgJ2dvb2dsZScpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBjb25zdCBzcHkgPSBqZXN0Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -5041,8 +5038,8 @@
         <entry encoding="base64">JzwsJz5zL3B1dC9wYXRjaC9n</entry>
         <entry encoding="base64">JzwsJz5zL1BVVC9QQVRDSC9n</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
