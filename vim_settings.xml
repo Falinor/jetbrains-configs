@@ -735,7 +735,7 @@
         <mark key="." line="42" column="0" />
         <mark key="^" line="42" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492775311002">
+      <file name="/Dummy.txt" timestamp="1493214270671">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/PFEE/pfee-color-thief-java/src/main/java/fr/epita/mti/extractor/Extractor.java" timestamp="1473752763778">
@@ -861,7 +861,7 @@
         <mark key="." line="0" column="17" />
         <mark key="^" line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/api/user/model.js" timestamp="1493041196453">
+      <file name="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/api/user/model.js" timestamp="1493214266271">
         <mark key="'" line="67" column="24" />
         <mark key="[" line="110" column="12" />
         <mark key="]" line="110" column="12" />
@@ -2128,12 +2128,12 @@
         <mark key="." line="126" column="31" />
         <mark key="^" line="126" column="31" />
       </file>
-      <file name="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/api/auth/index.test.js" timestamp="1493210972429">
+      <file name="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/api/auth/index.test.js" timestamp="1493214039605">
         <mark key="'" line="150" column="2" />
-        <mark key="[" line="161" column="20" />
-        <mark key="]" line="161" column="20" />
-        <mark key="." line="161" column="20" />
-        <mark key="^" line="161" column="20" />
+        <mark key="[" line="159" column="4" />
+        <mark key="]" line="144" column="22" />
+        <mark key="^" line="144" column="22" />
+        <mark key="." line="144" column="22" />
       </file>
       <file name="$USER_HOME$/Dev/tests/angular/posts/src/app/app.component.html" timestamp="1490886462060">
         <mark key="[" line="3" column="56" />
@@ -3408,8 +3408,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ki8K</text>
+      <register name="&quot;" type="4">
+        <text>service</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -4933,7 +4933,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>service</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -4948,29 +4948,32 @@
         <text encoding="base64">ICAgICAgICA8YnV0dG9uIG1kLWJ1dHRvbj5FRElUPC9idXR0b24+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">ICB9KSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9KTsK</text>
+        <text encoding="base64">ICBzdHViKGdvb2dsZSwgJ2dldFVzZXInLCAoKSA9PiBQcm9taXNlLnJlc29sdmUoewogICAgCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHNlc3Npb246IGZhbHNlCg==</text>
+      <register name="4" type="4">
+        <text>service: 'google',
+    id: '123',
+    name: 'user',
+    email: 'b@b.com',
+    picture: 'test.jpg',</text>
       </register>
-      <register name="5" type="4">
-        <text>,
-    scope: ['openid profile email'],</text>
+      <register name="5" type="2">
+        <text encoding="base64">Ki8K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICB9KTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4979,10 +4982,11 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHNlc3Npb246IGZhbHNlCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>,
+    scope: ['openid profile email'],</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
