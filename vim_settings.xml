@@ -1375,6 +1375,13 @@
         <mark key="." line="7" column="28" />
         <mark key="^" line="7" column="28" />
       </file>
+      <file name="$USER_HOME$/Dev/wot-gateway/src/api/index.test.js" timestamp="1493361234720">
+        <mark key="'" line="1" column="31" />
+        <mark key="[" line="13" column="14" />
+        <mark key="]" line="13" column="19" />
+        <mark key="." line="13" column="19" />
+        <mark key="^" line="13" column="19" />
+      </file>
       <file name="$USER_HOME$/Dev/Java/search-engine/src/test/kotlin/com/inad/indexer/StopWordsRemoverTest.kt" timestamp="1484327934808">
         <mark key="[" line="8" column="22" />
         <mark key="]" line="10" column="52" />
@@ -1959,11 +1966,11 @@
         <mark key="." line="128" column="13" />
         <mark key="^" line="110" column="21" />
       </file>
-      <file name="$USER_HOME$/Dev/wot-gateway/src/api/pi/index.test.js" timestamp="1493310275211">
+      <file name="$USER_HOME$/Dev/wot-gateway/src/api/pi/index.test.js" timestamp="1493361113764">
         <mark key="'" line="31" column="19" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="8" column="40" />
-        <mark key="." line="8" column="40" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="40" />
       </file>
       <file name="$USER_HOME$/Dev/MusicUs/src/client/src/app/shared/select/select/select.component.ts" timestamp="1464712581754">
@@ -2077,12 +2084,12 @@
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/Dev/wot-gateway/src/api/pi/controller.js" timestamp="1493326321376">
-        <mark key="'" line="15" column="2" />
-        <mark key="[" line="13" column="25" />
-        <mark key="]" line="13" column="25" />
-        <mark key="." line="13" column="25" />
-        <mark key="^" line="13" column="25" />
+      <file name="$USER_HOME$/Dev/wot-gateway/src/api/pi/controller.js" timestamp="1493360823118">
+        <mark key="'" line="0" column="32" />
+        <mark key="[" line="16" column="34" />
+        <mark key="]" line="16" column="34" />
+        <mark key="." line="16" column="34" />
+        <mark key="^" line="16" column="34" />
       </file>
       <file name="$USER_HOME$/Dev/bbl-angular/posts/src/app/post/post/post.component.scss" timestamp="1490969879923">
         <mark key="[" line="19" column="0" />
@@ -2943,14 +2950,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="38" filename="$USER_HOME$/Dev/wot-authorization-server/api/test/user/user-spec.ts" />
-      <jump line="4" column="24" filename="$USER_HOME$/Dev/wot-authorization-server/api/test/user/user-spec.ts" />
-      <jump line="15" column="15" filename="$USER_HOME$/Dev/wot-authorization-server/api/test/user/user-spec.ts" />
-      <jump line="8" column="38" filename="$USER_HOME$/Dev/wot-authorization-server/api/test/index-spec.ts" />
-      <jump line="0" column="26" filename="$USER_HOME$/Dev/wot-authorization-server/api/src/index.ts" />
-      <jump line="9" column="13" filename="$USER_HOME$/Dev/wot-authorization-server/api/src/app.ts" />
-      <jump line="4" column="22" filename="$USER_HOME$/Dev/wot-authorization-server/api/src/config/config.ts" />
-      <jump line="8" column="31" filename="$USER_HOME$/Dev/wot-authorization-server/api/src/config/config.ts" />
       <jump line="10" column="2" filename="$USER_HOME$/Dev/wot-authorization-server/api/src/config/config.ts" />
       <jump line="13" column="26" filename="$USER_HOME$/Dev/wot-authorization-server/api/src/config/config.ts" />
       <jump line="5" column="26" filename="$USER_HOME$/Dev/wot-authorization-server/api/tslint.json" />
@@ -3043,6 +3042,14 @@
       <jump line="11" column="2" filename="$USER_HOME$/Dev/wot-gateway/src/api/pi/controller.js" />
       <jump line="593" column="4" filename="$USER_HOME$/Dev/wot-gateway/node_modules/lodash/lodash.js" />
       <jump line="17072" column="16" filename="$USER_HOME$/Dev/wot-gateway/node_modules/lodash/lodash.js" />
+      <jump line="14" column="3" filename="$USER_HOME$/Dev/wot-gateway/src/api/pi/controller.js" />
+      <jump line="17" column="28" filename="$USER_HOME$/Dev/wot-gateway/src/api/pi/controller.js" />
+      <jump line="0" column="32" filename="$USER_HOME$/Dev/wot-gateway/src/api/pi/controller.js" />
+      <jump line="5" column="1" filename="$USER_HOME$/Dev/wot-gateway/src/api/index.test.js" />
+      <jump line="3" column="37" filename="$USER_HOME$/Dev/wot-gateway/src/api/index.test.js" />
+      <jump line="7" column="39" filename="$USER_HOME$/Dev/wot-gateway/src/api/index.test.js" />
+      <jump line="12" column="20" filename="$USER_HOME$/Dev/wot-gateway/src/api/index.test.js" />
+      <jump line="1" column="31" filename="$USER_HOME$/Dev/wot-gateway/src/api/index.test.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3051,8 +3058,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>value</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBhcHAgPSBlCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -4576,7 +4583,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>value</text>
+        <text encoding="base64">YXN5bmMg</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -4591,28 +4598,28 @@
         <text encoding="base64">ICB0LmlzKHR5cGVvZiBib2R5Lm5hbWUsICdzdHJpbmcnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGtleQo=</text>
+        <text encoding="base64">ICBhcHAgPSBlCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBfLmZvckVhY2goKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gVE9ETzogd29uZGVyIHdoeSB0aGUgdGVzdCBkb2VzIG5vdCBlbmQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Xy5waWNrKCkK</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcm9wcy5yZXNvdXJjZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcm9wcy50aGVuKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzdXBlcnRlc3QoKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4621,10 +4628,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICB0LnRydXRoeSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBibwo=</text>
+        <text encoding="base64">ICAvLyBUT0RPCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
