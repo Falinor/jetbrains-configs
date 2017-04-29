@@ -2836,12 +2836,11 @@
         <mark key="^" line="5" column="14" />
         <mark key="." line="5" column="14" />
       </file>
-      <file name="$USER_HOME$/Dev/web-of-things/wot-authorization-server/dashboard/src/app/user/new-user/new-user.component.ts" timestamp="1493466038244">
-        <mark key="'" line="15" column="41" />
-        <mark key="[" line="26" column="44" />
-        <mark key="]" line="27" column="22" />
-        <mark key="." line="27" column="22" />
-        <mark key="^" line="27" column="22" />
+      <file name="$USER_HOME$/Dev/web-of-things/wot-authorization-server/dashboard/src/app/user/new-user/new-user.component.ts" timestamp="1493495788575">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/PFEE/color-thief-java/src/main/java/fr/epita/mti/interpreter/commands/VersionCommand.java" timestamp="1470130661713">
         <mark key="[" line="5" column="24" />
@@ -3358,8 +3357,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="483" column="4" filename="$USER_HOME$/Dev/wot-authorization-server/api/node_modules/@types/express-serve-static-core/index.d.ts" />
-      <jump line="479" column="14" filename="$USER_HOME$/Dev/wot-authorization-server/api/node_modules/@types/express-serve-static-core/index.d.ts" />
       <jump line="9" column="32" filename="$USER_HOME$/Dev/wot-authorization-server/api/src/routes/routes.ts" />
       <jump line="2" column="24" filename="$USER_HOME$/Dev/wot-authorization-server/api/src/routes/user/user-schema.ts" />
       <jump line="5" column="27" filename="$USER_HOME$/Dev/wot-authorization-server/api/src/routes/user/user-routes.ts" />
@@ -3458,6 +3455,8 @@
       <jump line="8" column="44" filename="$USER_HOME$/Dev/web-of-things/wot-authorization-server/dashboard/src/app/user/user-routing.module.ts" />
       <jump line="1" column="3" filename="$USER_HOME$/Dev/web-of-things/wot-authorization-server/dashboard/src/app/user/new-user/new-user.component.html" />
       <jump line="15" column="41" filename="$USER_HOME$/Dev/web-of-things/wot-authorization-server/dashboard/src/app/user/new-user/new-user.component.ts" />
+      <jump line="33" column="32" filename="$USER_HOME$/Dev/web-of-things/wot-authorization-server/dashboard/src/app/user/new-user/new-user.component.ts" />
+      <jump line="2" column="0" filename="$USER_HOME$/Dev/web-of-things/wot-authorization-server/dashboard/src/app/user/new-user/new-user.component.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3467,7 +3466,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMuCg==</text>
+        <text encoding="base64">ICAgICAgaWYgKHRoaXMuKQo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -4991,7 +4990,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>2500</text>
+        <text>log</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -5006,28 +5005,28 @@
         <text encoding="base64">ICB0LmlzKHR5cGVvZiBib2R5Lm5hbWUsICdzdHJpbmcnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMuCg==</text>
+        <text encoding="base64">ICAgICAgaWYgKHRoaXMuKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMuCg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5mYi4K</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMuZ2V0RnJpZW5kcygpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnRoZW4pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxidXR0b24gbWQtbWVudS1pdGVtPkdvb2dsZTwvYnV0dG9uPgo=</text>
+        <text encoding="base64">ICAgICAgfSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxidXR0b24gbWQtbWVudS1pdGVtPkZhY2Vib29rPC9idXR0b24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBuZXR3b3Jrczogc3RyaW5nW107Cg==</text>
+        <text encoding="base64">ICAgICAgLnRoZW4ocmVzID0+IHsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5036,10 +5035,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXMuYXV0aFJlc3BvbnNlLiAvL1RPRE8K</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgb25DbG9zZVNOKHRlc3Q6IGFueSkgewogICAgY29uc29sZS5sb2codGVzdCk7CiAgfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICByZXMuYXV0aFJlc3BvbnNlLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
