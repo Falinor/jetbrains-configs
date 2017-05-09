@@ -524,7 +524,6 @@
         <mark key="." line="7" column="20" />
         <mark key="^" line="7" column="20" />
       </file>
-      <file name="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/api/user/controller.js" timestamp="1493915027787" />
       <file name="$USER_HOME$/Dev/wot-authorization-server/api/src/config/config.ts" timestamp="1491478765265">
         <mark key="'" line="16" column="0" />
         <mark key="[" line="3" column="30" />
@@ -1867,6 +1866,13 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
+      <file name="$USER_HOME$/Dev/web-of-things/wot-gateway/src/services/express/index.js" timestamp="1494322408481">
+        <mark key="'" line="25" column="16" />
+        <mark key="[" line="8" column="34" />
+        <mark key="]" line="9" column="28" />
+        <mark key="^" line="9" column="28" />
+        <mark key="." line="9" column="28" />
+      </file>
       <file name="$USER_HOME$/Dev/iot-api/coap/server/routes/routes.js" timestamp="1486991353694">
         <mark key="[" line="7" column="28" />
         <mark key="]" line="9" column="23" />
@@ -1983,6 +1989,12 @@
         <mark key="]" line="15" column="29" />
         <mark key="." line="15" column="29" />
         <mark key="^" line="15" column="29" />
+      </file>
+      <file name="$USER_HOME$/Dev/web-of-things/wot-gateway/src/app.js" timestamp="1494322235151">
+        <mark key="[" line="18" column="18" />
+        <mark key="]" line="18" column="18" />
+        <mark key="^" line="18" column="18" />
+        <mark key="." line="18" column="18" />
       </file>
       <file name="$USER_HOME$/Dev/MusicUs/src/client/src/app/shared/navbar/navbar.component.scss" timestamp="1464787722729">
         <mark key="[" line="28" column="5" />
@@ -3379,7 +3391,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="32" filename="$USER_HOME$/Dev/wot-authorization-server/api/src/routes/user/user-model.ts" />
       <jump line="15" column="15" filename="$USER_HOME$/Dev/wot-authorization-server/api/src/app.ts" />
       <jump line="70" column="0" filename="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/node_modules/express/lib/express.js" />
       <jump line="42" column="12" filename="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/node_modules/express/lib/router/index.js" />
@@ -3479,6 +3490,7 @@
       <jump line="1" column="1" filename="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/api/access/controller.js" />
       <jump line="5" column="16" filename="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/api/access/controller.js" />
       <jump line="0" column="59" filename="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/api/access/controller.js" />
+      <jump line="24" column="16" filename="$USER_HOME$/Dev/web-of-things/wot-gateway/src/services/express/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3488,7 +3500,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgZXJyb3JIYW5kbGVyIGFzIHF1ZXJ5RXJyb3JIYW5kbGVyIH0gZnJvbSAncXVlcnltZW4nOwo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -5027,28 +5039,28 @@
         <text encoding="base64">ICB0LmlzKHR5cGVvZiBib2R5Lm5hbWUsICdzdHJpbmcnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgZXJyb3JIYW5kbGVyIGFzIHF1ZXJ5RXJyb3JIYW5kbGVyIH0gZnJvbSAncXVlcnltZW4nOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">IAo=</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">IAogIHVzZXJIYXNBY2Nlc3ModWlkLCBwYXRoKSB7CiAgICAKICB9LA==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHJldHVybiAK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIC50aGVuKGFjY2Vzc2VzID0+IGFjY2Vzc2VzLm1hcChhY2Nlc3MgPT4gKQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIC50aGVuKCh1c2VycykgPT4gdXNlcnMubWFwKCh1c2VyKSA9PiB1c2VyLnZpZXcodHJ1ZSkpCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">YWNjZXNzU2NoZW1hLnBsdWdpbihtb25nb29zZUtlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5057,10 +5069,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">YWNjZXNzU2NoZW1hLnBsdWdpbihtb25nb29zZUtlKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgYWNsU2NoZW1hID0gbmV3IAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
