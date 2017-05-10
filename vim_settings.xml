@@ -1625,12 +1625,12 @@
         <mark key="." line="2" column="34" />
         <mark key="^" line="2" column="34" />
       </file>
-      <file name="$USER_HOME$/Dev/web-of-things/baby-foot/api/src/services/validators/index.test.js" timestamp="1494421186867">
-        <mark key="'" line="16" column="13" />
-        <mark key="[" line="4" column="25" />
-        <mark key="]" line="5" column="17" />
-        <mark key="^" line="5" column="17" />
-        <mark key="." line="5" column="17" />
+      <file name="$USER_HOME$/Dev/web-of-things/baby-foot/api/src/services/validators/index.test.js" timestamp="1494422929947">
+        <mark key="'" line="30" column="25" />
+        <mark key="[" line="49" column="42" />
+        <mark key="]" line="50" column="1" />
+        <mark key="^" line="50" column="1" />
+        <mark key="." line="50" column="1" />
       </file>
       <file name="$USER_HOME$/Dev/status-checker/Caddyfile" timestamp="1489494969346">
         <mark key="[" line="8" column="13" />
@@ -2279,12 +2279,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/web-of-things/baby-foot/api/src/services/validators/index.js" timestamp="1494421704768">
+      <file name="$USER_HOME$/Dev/web-of-things/baby-foot/api/src/services/validators/index.js" timestamp="1494422520317">
         <mark key="'" line="4" column="27" />
-        <mark key="[" line="23" column="50" />
-        <mark key="]" line="23" column="49" />
-        <mark key="." line="23" column="49" />
-        <mark key="^" line="23" column="49" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="24" column="8" />
       </file>
       <file name="$USER_HOME$/Dev/C#/projet-c-front-end/package.json" timestamp="1466173803317">
         <mark key="[" line="125" column="35" />
@@ -3511,7 +3511,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="23" filename="$USER_HOME$/Dev/wot-gateway/src/config.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Dev/wot-gateway/.eslintrc" />
       <jump line="6" column="0" filename="$USER_HOME$/Dev/wot-gateway/.eslintrc" />
       <jump line="3" column="0" filename="$USER_HOME$/Dev/wot-gateway/src/config.js" />
@@ -3611,6 +3610,7 @@
       <jump line="27" column="20" filename="$USER_HOME$/Dev/web-of-things/baby-foot/api/package.json" />
       <jump line="4" column="1" filename="$USER_HOME$/Dev/web-of-things/baby-foot/api/src/services/validators/index.test.js" />
       <jump line="16" column="13" filename="$USER_HOME$/Dev/web-of-things/baby-foot/api/src/services/validators/index.test.js" />
+      <jump line="30" column="25" filename="$USER_HOME$/Dev/web-of-things/baby-foot/api/src/services/validators/index.test.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3620,7 +3620,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZAo=</text>
+        <text encoding="base64">ICAvLyBUT0RPCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -5144,7 +5144,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>values</text>
+        <text encoding="base64">Y2FwcyA=</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -5159,28 +5159,28 @@
         <text encoding="base64">ICB0LmlzKHR5cGVvZiBib2R5Lm5hbWUsICdzdHJpbmcnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZAo=</text>
+        <text encoding="base64">ICAvLyBUT0RPCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB2Lmxlbmd0aAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLm1hcCgpCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">dGVzdC50b2RvKCd0cmlncmFtVmFsaWRhdG9yIG1peGVkIE9LJyk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">fSk7Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHYubWFwKHRyaWdyYW1WYWxpZGF0b3IoKSk7Cg==</text>
+        <text encoding="base64">ICB0LnRvZG8oKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBtYXhBcnJheUxlbmd0aFZhbGlkYXRvcgo=</text>
+        <text encoding="base64">ICB0ZXN0LnRvZG8oKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdmFsaWRhdG9yCg==</text>
+        <text encoding="base64">ICB0LnRvZG8oKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5189,11 +5189,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbGlkYXRlOiB7Cg==</text>
+        <text encoding="base64">ICB0LmZhaWwoKTsK</text>
       </register>
-      <register name="9" type="4">
-        <text>:
-    }</text>
+      <register name="9" type="2">
+        <text encoding="base64">bAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
