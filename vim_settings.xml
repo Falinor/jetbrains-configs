@@ -2815,12 +2815,12 @@
         <mark key="." line="1" column="46" />
         <mark key="^" line="1" column="46" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/web/src/app/match/shared/match.service.ts" timestamp="1494449599009">
-        <mark key="'" line="4" column="26" />
-        <mark key="[" line="8" column="11" />
-        <mark key="]" line="9" column="3" />
-        <mark key="." line="9" column="3" />
-        <mark key="^" line="9" column="3" />
+      <file name="$USER_HOME$/Dev/baby-foot/web/src/app/match/shared/match.service.ts" timestamp="1494453425083">
+        <mark key="'" line="22" column="17" />
+        <mark key="[" line="30" column="4" />
+        <mark key="]" line="30" column="10" />
+        <mark key="." line="30" column="10" />
+        <mark key="^" line="30" column="10" />
       </file>
       <file name="$USER_HOME$/Dev/dj-socket/front/src/index.html" timestamp="1487612015263">
         <mark key="[" line="11" column="3" />
@@ -3415,12 +3415,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/Dev/wot-authorization-server/api/src/routes/user/user-model.ts" />
-      <jump line="25" column="32" filename="$USER_HOME$/Dev/wot-authorization-server/api/src/routes/user/user-model.ts" />
-      <jump line="15" column="15" filename="$USER_HOME$/Dev/wot-authorization-server/api/src/app.ts" />
-      <jump line="70" column="0" filename="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/node_modules/express/lib/express.js" />
-      <jump line="42" column="12" filename="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/node_modules/express/lib/router/index.js" />
-      <jump line="141" column="18" filename="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/node_modules/express/lib/router/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/node_modules/methods/index.js" />
       <jump line="7" column="14" filename="$USER_HOME$/Dev/octoboard/client-ng2/src/app/core/core.module.ts" />
       <jump line="8" column="21" filename="$USER_HOME$/Dev/octoboard/client-ng2/src/app/core/core.module.ts" />
@@ -3511,10 +3505,16 @@
       <jump line="7" column="0" filename="$USER_HOME$/Dev/baby-foot/web/src/app/app.module.ts" />
       <jump line="19" column="15" filename="$USER_HOME$/Dev/baby-foot/web/src/app/match/match.module.ts" />
       <jump line="5" column="31" filename="$USER_HOME$/Dev/baby-foot/web/src/app/match/shared/match.service.ts" />
-      <jump line="1" column="36" filename="$USER_HOME$/Dev/baby-foot/web/src/app/match/shared/match.service.ts" />
       <jump line="7" column="1" filename="$USER_HOME$/Dev/baby-foot/web/src/app/match/shared/match.service.ts" />
       <jump line="0" column="19" filename="$USER_HOME$/Dev/baby-foot/web/src/app/match/shared/match.service.ts" />
       <jump line="4" column="26" filename="$USER_HOME$/Dev/baby-foot/web/src/app/match/shared/match.service.ts" />
+      <jump line="10" column="47" filename="$USER_HOME$/Dev/baby-foot/web/src/app/match/shared/match.service.ts" />
+      <jump line="14" column="20" filename="$USER_HOME$/Dev/baby-foot/web/src/app/match/shared/match.service.ts" />
+      <jump line="18" column="2" filename="$USER_HOME$/Dev/baby-foot/web/src/app/match/shared/match.service.ts" />
+      <jump line="2" column="44" filename="$USER_HOME$/Dev/baby-foot/web/src/app/match/shared/match.service.ts" />
+      <jump line="23" column="28" filename="$USER_HOME$/Dev/baby-foot/web/src/app/match/shared/match.service.ts" />
+      <jump line="1" column="23" filename="$USER_HOME$/Dev/baby-foot/web/src/app/match/shared/match.service.ts" />
+      <jump line="22" column="17" filename="$USER_HOME$/Dev/baby-foot/web/src/app/match/shared/match.service.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3523,8 +3523,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>number</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLm1hcChqc29uKQo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -5048,7 +5048,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>number</text>
+        <text>)</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -5063,28 +5063,28 @@
         <text encoding="base64">ICB0LmlzKHR5cGVvZiBib2R5Lm5hbWUsICdzdHJpbmcnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLm1hcChqc29uKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgbmdPbkluaXQoKTogdm9pZCB7CiAgICB0aGlzLmh0dHAuCiAgfQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgLnRoZW4oKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLnRvUHJvbWlzZSgpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3RvcigpIHt9Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgbmdPbkluaXQoKTogdm9pZCB7CiAgICB0aGlzLmh0dHAuCiAgfQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByZWQ6IFRlYW0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3Rvcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5093,13 +5093,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkaXNwbGF5OiBmbGV4Owo=</text>
+        <text encoding="base64">ICBjb25zdHJ1Y3RvcigpIHt9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICByZWQ6IFRlYW0K</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -5153,8 +5153,8 @@
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>x</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
