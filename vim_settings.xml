@@ -3200,6 +3200,12 @@
         <mark key="." line="5" column="46" />
         <mark key="^" line="5" column="46" />
       </file>
+      <file name="$USER_HOME$/Dev/baby-foot/web/README.md" timestamp="1494493651977">
+        <mark key="'" line="0" column="20" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/Dev/MusicUs/src/client/src/app/+instruments/instrument-list/instrument-list.component.html" timestamp="1464789406177">
         <mark key="[" line="1" column="55" />
         <mark key="]" line="2" column="36" />
@@ -3441,8 +3447,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="18" filename="$USER_HOME$/Dev/octoboard/client-ng2/src/app/core/value-stream.service.spec.ts" />
-      <jump line="7" column="42" filename="$USER_HOME$/Dev/wot-authorization-server/dashboard/src/app/dashboard/dashboard-routing.module.ts" />
       <jump line="11" column="19" filename="$USER_HOME$/Dev/wot-authorization-server/dashboard/src/app/dashboard/dashboard-routing.module.ts" />
       <jump line="17" column="1" filename="$USER_HOME$/Dev/wot-authorization-server/dashboard/src/app/dashboard/dashboard-routing.module.ts" />
       <jump line="1" column="0" filename="$USER_HOME$/Dev/wot-authorization-server/dashboard/src/app/dashboard/dashboard-routing.module.ts" />
@@ -3541,6 +3545,8 @@
       <jump line="13" column="0" filename="$USER_HOME$/Dev/baby-foot/web/src/app/match/shared/match.service.ts" />
       <jump line="34" column="25" filename="$USER_HOME$/Dev/baby-foot/web/src/app/match/latest-matches/latest-matches.component.ts" />
       <jump line="20" column="41" filename="$USER_HOME$/Dev/baby-foot/web/src/app/match/latest-matches/latest-matches.component.ts" />
+      <jump line="6" column="7" filename="$USER_HOME$/Dev/baby-foot/web/README.md" />
+      <jump line="0" column="20" filename="$USER_HOME$/Dev/baby-foot/web/README.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3549,8 +3555,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZGVzaWduIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAtIC4uLgo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -5074,7 +5080,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGVzaWduIA==</text>
+        <text>dashboard</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -5089,28 +5095,28 @@
         <text encoding="base64">ICB0LmlzKHR5cGVvZiBib2R5Lm5hbWUsICdzdHJpbmcnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PGxpbmsgaHJlZj0iaHR0cHM6Ly9mb250cy5nb29nbGVhcGlzLmNvbS9pY29uP2ZhbWlseT1NYXRlcmlhbCtJY29ucyIgcmVsPSJzdHlsZXNoZWV0Ij4K</text>
+        <text encoding="base64">ICAtIC4uLgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQnJvd3NlckFuaW1hdGlvbnNNb2R1bGUgfSBmcm9tICdAYW5ndWxhci9wbGF0Zm9ybS1icm93c2VyL2FuaW1hdGlvbnMnOwo=</text>
+        <text encoding="base64">LSBMaW5rIHRvIEFza0JvYiBBUEkgZm9yIHBsYXllcnMgKHRvb2x0aXApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEJyb3dzZXJNb2R1bGUsCg==</text>
+        <text encoding="base64">VGhpcyBzZWN0aW9uIGRlc2NyaWJlcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PG9jdG8tc2VsZWN0ZWQK</text>
+        <text encoding="base64">PGxpbmsgaHJlZj0iaHR0cHM6Ly9mb250cy5nb29nbGVhcGlzLmNvbS9pY29uP2ZhbWlseT1NYXRlcmlhbCtJY29ucyIgcmVsPSJzdHlsZXNoZWV0Ij4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PG9jdG8tbWF0Y2gtcGxheWVkPjwvb2N0by1tYXRjaC1wbGF5ZWQ+Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgQnJvd3NlckFuaW1hdGlvbnNNb2R1bGUgfSBmcm9tICdAYW5ndWxhci9wbGF0Zm9ybS1icm93c2VyL2FuaW1hdGlvbnMnOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PG9jdG8tbGF0ZXN0LW1hdGNoZXMgKG1hdGNoQ2hhbmdlKT0ibnVsbCI+PC9vY3RvLWxhdGVzdC1tYXRjaGVzPgo=</text>
+        <text encoding="base64">ICAgIEJyb3dzZXJNb2R1bGUsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PG9jdG8tbGF0ZXN0LW1hdGNoZXMgKG1hdGNoQ2hhbmdlKT0ibnVsbCI+PC9vY3RvLWxhdGVzdC1tYXRjaGVzPgo=</text>
+        <text encoding="base64">PG9jdG8tc2VsZWN0ZWQK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5119,10 +5125,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">T2JzZXJ2YWJsZS5tYXAoKQo=</text>
+        <text encoding="base64">PG9jdG8tbWF0Y2gtcGxheWVkPjwvb2N0by1tYXRjaC1wbGF5ZWQ+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bWFwKCkK</text>
+        <text encoding="base64">PG9jdG8tbGF0ZXN0LW1hdGNoZXMgKG1hdGNoQ2hhbmdlKT0ibnVsbCI+PC9vY3RvLWxhdGVzdC1tYXRjaGVzPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
