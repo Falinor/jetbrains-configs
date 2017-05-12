@@ -280,11 +280,11 @@
         <mark key="." line="8" column="27" />
         <mark key="^" line="8" column="27" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/src/index.js" timestamp="1494597613956">
-        <mark key="[" line="0" column="24" />
-        <mark key="]" line="0" column="13" />
-        <mark key="^" line="0" column="13" />
-        <mark key="." line="0" column="13" />
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/index.js" timestamp="1494604610689">
+        <mark key="[" line="1" column="7" />
+        <mark key="]" line="1" column="7" />
+        <mark key="." line="1" column="7" />
+        <mark key="^" line="1" column="14" />
       </file>
       <file name="$USER_HOME$/Dev/web-of-things/babyfoot/web/src/app/app.component.html" timestamp="1494338298636">
         <mark key="[" line="0" column="0" />
@@ -1378,11 +1378,11 @@
         <mark key="^" line="2" column="28" />
         <mark key="." line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/package.json" timestamp="1494597666214">
-        <mark key="[" line="13" column="49" />
-        <mark key="]" line="13" column="48" />
-        <mark key="." line="13" column="48" />
-        <mark key="^" line="13" column="48" />
+      <file name="$USER_HOME$/Dev/baby-foot/api/package.json" timestamp="1494604366637">
+        <mark key="[" line="8" column="24" />
+        <mark key="]" line="8" column="24" />
+        <mark key="." line="8" column="24" />
+        <mark key="^" line="8" column="33" />
       </file>
       <file name="$USER_HOME$/Dev/wot-gateway/src/api/index.js" timestamp="1493367661206">
         <mark key="'" line="15" column="0" />
@@ -1586,11 +1586,12 @@
         <mark key="^" line="11" column="53" />
         <mark key="." line="11" column="53" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/.babelrc" timestamp="1494596725554">
-        <mark key="[" line="5" column="14" />
-        <mark key="]" line="6" column="22" />
-        <mark key="^" line="6" column="22" />
-        <mark key="." line="6" column="22" />
+      <file name="$USER_HOME$/Dev/baby-foot/api/.babelrc" timestamp="1494604358919">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="9" column="11" />
+        <mark key="." line="9" column="11" />
+        <mark key="^" line="9" column="11" />
       </file>
       <file name="$USER_HOME$/Dev/bbl-angular/posts/src/app/post/shared/index.ts" timestamp="1490954833196">
         <mark key="[" line="1" column="0" />
@@ -3576,7 +3577,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="1" filename="$USER_HOME$/Dev/wot-gateway/src/api/index.test.js" />
       <jump line="3" column="37" filename="$USER_HOME$/Dev/wot-gateway/src/api/index.test.js" />
       <jump line="7" column="39" filename="$USER_HOME$/Dev/wot-gateway/src/api/index.test.js" />
       <jump line="12" column="20" filename="$USER_HOME$/Dev/wot-gateway/src/api/index.test.js" />
@@ -3676,6 +3676,7 @@
       <jump line="11" column="4" filename="$USER_HOME$/Dev/baby-foot/api/src/app.js" />
       <jump line="14" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/api/match/controller.js" />
       <jump line="4" column="9" filename="$USER_HOME$/Dev/baby-foot/api/Dockerfile" />
+      <jump line="1" column="0" filename="$USER_HOME$/Dev/baby-foot/api/.babelrc" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3684,8 +3685,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aHR0cC5jcmUK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZGVmYXVsdCA=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -5209,7 +5210,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text encoding="base64">ZGVmYXVsdCA=</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -5224,32 +5225,28 @@
         <text encoding="base64">aW1wb3J0IGRiIGZyb20gJy4uLy4uL3NlcnZpY2VzL29yaWVudGpzJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aHR0cC5jcmUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Ci8vIENsZWFuIHVwIGJlZm9yZSBleGl0aW5nCnByb2Nlc3Mub24oJ2V4aXQnLCAoKSA9PiB7CiAgZGIuY2xvc2UoKTsKICBwcm9jZXNzLmV4aXQoMCk7Cn0pOwo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ZXhwb3J0IGFwcDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJ0cmFuc2Zvcm0tcnVudGltZSIK</text>
+        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9hcHAnOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJhZGQtbW9kdWxlLWV4cG9ydHMiLAo=</text>
+        <text encoding="base64">aW1wb3J0IGFwcCBmcm9tICcuL2FwcCc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFsiZW52IiwgCg==</text>
+        <text encoding="base64">ZXhwb3J0IGFwcCBmcm9tICcuL2FwcCc7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>{
-      &quot;targets&quot;: {
-        &quot;node&quot;: &quot;current&quot;
-      }
-    }]</text>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJy4vYXBwJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ZXhwb3J0cyA9IG1vZHVsZS5leHBvcnRzID0gcmVxdWlyZSgnLi9hcHAnKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5257,17 +5254,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text>&quot;plugins&quot;: [
-    &quot;add-module-exports&quot;,
-    &quot;transform-runtime&quot;
-  ]</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJzdGFnZS0xIgo=</text>
+        <text encoding="base64">cmVxdWlyZSgnYmFiZWwtcmVnaXN0ZXInKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -5321,8 +5315,8 @@
         <entry>x</entry>
         <entry>q</entry>
         <entry>Wq</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
