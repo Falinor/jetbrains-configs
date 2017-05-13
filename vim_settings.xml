@@ -103,14 +103,14 @@
         <mark key="^" line="2" column="35" />
         <mark key="." line="2" column="35" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/src/services/arango/index.js" timestamp="1494697710556">
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/services/arango/index.js" timestamp="1494702227754">
         <mark key="'" line="26" column="0" />
         <mark key="k" line="27" column="1" />
-        <mark key="[" line="55" column="27" />
+        <mark key="[" line="48" column="27" />
         <mark key="m" line="12" column="2" />
-        <mark key="]" line="55" column="18" />
-        <mark key="." line="55" column="18" />
-        <mark key="^" line="55" column="18" />
+        <mark key="]" line="48" column="25" />
+        <mark key="." line="48" column="25" />
+        <mark key="^" line="48" column="25" />
       </file>
       <file name="$USER_HOME$/Dev/Java/search-engine/src/main/kotlin/com/inad/commands/Command.kt" timestamp="1484580665693">
         <mark key="[" line="2" column="11" />
@@ -759,11 +759,11 @@
         <mark key="^" line="52" column="35" />
         <mark key="." line="52" column="35" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/src/app.js" timestamp="1494695394446">
-        <mark key="[" line="14" column="21" />
-        <mark key="]" line="14" column="18" />
-        <mark key="." line="14" column="18" />
-        <mark key="^" line="14" column="18" />
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/app.js" timestamp="1494701398166">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
+        <mark key="^" line="0" column="7" />
       </file>
       <file name="$USER_HOME$/Dev/musicus/src/client/src/app/+sheet-board/sheet-board.component.html" timestamp="1466099279547">
         <mark key="[" line="7" column="77" />
@@ -1790,12 +1790,11 @@
         <mark key="." line="7" column="35" />
         <mark key="^" line="7" column="35" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/src/api/match/model.js" timestamp="1494695868060">
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/api/match/model.js" timestamp="1494701308653">
         <mark key="'" line="11" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="6" column="1" />
-        <mark key="." line="5" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/routes/user/index.ts" timestamp="1491483345886">
         <mark key="[" line="1" column="34" />
@@ -2909,6 +2908,12 @@
         <mark key="^" line="1" column="13" />
         <mark key="." line="1" column="13" />
       </file>
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/services/arango/emitter.js" timestamp="1494701592348">
+        <mark key="[" line="4" column="29" />
+        <mark key="]" line="4" column="29" />
+        <mark key="^" line="4" column="29" />
+        <mark key="." line="4" column="29" />
+      </file>
       <file name="$USER_HOME$/Dev/tests/angular/front/src/app/album/shared/index.ts" timestamp="1490716762869">
         <mark key="[" line="0" column="30" />
         <mark key="]" line="1" column="31" />
@@ -3050,12 +3055,12 @@
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/src/api/player/model.js" timestamp="1494674390337">
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/api/player/model.js" timestamp="1494701262254">
         <mark key="'" line="2" column="31" />
-        <mark key="[" line="9" column="38" />
-        <mark key="]" line="9" column="54" />
-        <mark key="." line="9" column="54" />
-        <mark key="^" line="9" column="54" />
+        <mark key="[" line="2" column="43" />
+        <mark key="]" line="4" column="32" />
+        <mark key="." line="4" column="32" />
+        <mark key="^" line="4" column="32" />
       </file>
       <file name="$USER_HOME$/Dev/MusicUs/src/client/src/app/shared/autocomplete/autocomplete.component.ts" timestamp="1464772721457">
         <mark key="[" line="27" column="0" />
@@ -3736,8 +3741,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -5261,7 +5266,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bmV3IA==</text>
+        <text>;</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -5276,31 +5281,28 @@
         <text encoding="base64">aW1wb3J0IHsgTUFUQ0hfQ09MTEVDVElPTiB9IGZyb20gJy4uLy4uL21hdGNoL21vZGVsJzsKaW1wb3J0IHsgVEVBTV9DT0xMRUNUSU9OIH0gZnJvbSAnLi4vLi4vdGVhbS9tb2RlbCc7CmltcG9ydCBncmFwaCBmcm9tICcuLi8uLi8uLi9zZXJ2aWNlcy9hcmFuZ28nOwoKY29uc3Qgd29uRWRnZXMgPSBncmFwaC5lZGdlQ29sbGVjdGlvbignd29uJyk7CmlmICghd29uRWRnZXMpIHsKICBncmFwaC5hZGRFZGdlRGVmaW5pdGlvbih7CiAgICBjb2xsZWN0aW9uOiAnd29uJywKICAgIGZyb206IFtURUFNX0NPTExFQ1RJT05dLAogICAgdG86IFtNQVRDSF9DT0xMRUNUSU9OXQogIH0pLnRoZW4oKCkgPT4gY29uc29sZS5sb2coYEVkZ2UgZGVmaW5pdGlvbiAnd29uJyBhZGRlZC5gKSkKICAgIC5jYXRjaChjb25zb2xlLmVycm9yKTsKfQoKZXhwb3J0IGRlZmF1bHQgd29uRWRnZXM7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ZW1pdHRlci5vbignJywgKCkgPT4gewogICAgcmV0dXJuIFByb21pc2UucmVzb2x2ZSgpOwogIH0pOw==</text>
       </register>
-      <register name="3" type="4">
-        <text>t.emit('')
-class Emitter extends EventEmitter {
-  
-}</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgdCA9IEV2ZW50RW1pdHRlcigpOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dC5lbWl0KCd0ZXN0Jyk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgRXZlbnRFbWl0dGVyIH0gZnJvbSAnZXZlbnRzJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgdCA9IG5ldyBUZXN0KCk7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5309,13 +5311,13 @@ class Emitter extends EventEmitter {
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dC5lbWl0KGQpCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ0luaXQgbWF0Y2ggbW9kZWwnKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -5368,9 +5370,9 @@ class Emitter extends EventEmitter {
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>x</entry>
         <entry>Wq</entry>
+        <entry>wq</entry>
         <entry>q</entry>
         <entry>w</entry>
-        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
