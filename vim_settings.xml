@@ -51,11 +51,11 @@
         <mark key="." line="35" column="22" />
         <mark key="^" line="35" column="22" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/src/api/match/index.js" timestamp="1494883976716">
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/api/match/index.js" timestamp="1494888286410">
         <mark key="[" line="20" column="9" />
-        <mark key="]" line="20" column="18" />
-        <mark key="." line="20" column="18" />
-        <mark key="^" line="20" column="18" />
+        <mark key="]" line="20" column="17" />
+        <mark key="." line="20" column="17" />
+        <mark key="^" line="20" column="17" />
       </file>
       <file name="$USER_HOME$/Dev/musicus/src/client/tools/tasks/seed/build.assets.dev.ts" timestamp="1465999579078">
         <mark key="[" line="13" column="37" />
@@ -1631,12 +1631,11 @@
         <mark key="." line="7" column="35" />
         <mark key="^" line="7" column="35" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/src/api/match/model.js" timestamp="1494765449150">
-        <mark key="'" line="96" column="0" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="15" column="8" />
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/api/match/model.js" timestamp="1494888387038">
+        <mark key="'" line="46" column="0" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="66" column="1" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/routes/user/index.ts" timestamp="1491483345886">
         <mark key="[" line="1" column="34" />
@@ -3029,6 +3028,12 @@
         <mark key="." line="8" column="21" />
         <mark key="^" line="8" column="21" />
       </file>
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/api/player/schema.js" timestamp="1494888429717">
+        <mark key="[" line="1" column="2" />
+        <mark key="]" line="0" column="24" />
+        <mark key="^" line="0" column="24" />
+        <mark key="." line="0" column="24" />
+      </file>
       <file name="$USER_HOME$/Dev/MusicUs/src/client/src/app/+middleware/index.ts" timestamp="1464103731547">
         <mark key="[" line="0" column="21" />
         <mark key="]" line="0" column="26" />
@@ -3330,7 +3335,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="53" filename="$USER_HOME$/Dev/web-of-things/wot-gateway/src/services/token/index.js" />
       <jump line="2" column="27" filename="$USER_HOME$/Dev/web-of-things/baby-foot/api/src/api/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Dev/web-of-things/baby-foot/api/.eslintrc" />
       <jump line="20" column="15" filename="$USER_HOME$/Dev/web-of-things/baby-foot/api/src/config.js" />
@@ -3430,6 +3434,7 @@
       <jump line="20" column="27" filename="$APPLICATION_CONFIG_DIR$/javascript/nodejs/7.9.0/core-modules/events.js" />
       <jump line="1" column="13" filename="$USER_HOME$/Dev/baby-foot/api/src/api/match/model.js" />
       <jump line="92" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/api/match/model.js" />
+      <jump line="46" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/api/match/model.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3439,7 +3444,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Ymx1ZSA=</text>
+        <text encoding="base64">TUFUQ0hfU0NIRU1BIA==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -4963,7 +4968,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Ymx1ZSA=</text>
+        <text encoding="base64">TUFUQ0hfU0NIRU1BIA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -4974,32 +4979,34 @@
       <register name="/" type="4">
         <text>domain</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBlbWl0dGVyLmVtaXQoJ2VuZEluaXRNb2RlbHMnKTsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">Y29uc3QgdGVhbVNjaGVtYSA9IHsKICB0cmlncmFtczogewogICAgdHlwZTogW1N0cmluZ10sCiAgICByZXF1aXJlZDogW3RydWUsICdUcmlncmFtcyBhcmUgcmVxdWlyZWQnXSwKICAgIHRyaW06IHRydWUsCiAgICB1cHBlcmNhc2U6IHRydWUsCiAgICB2YWxpZGF0ZTogWwogICAgICB7CiAgICAgICAgdmFsaWRhdG9yOiBtaW5BcnJheUxlbmd0aFZhbGlkYXRvcigxKSwKICAgICAgICBtZXNzYWdlOiAnQSB0ZWFtIGNhbm5vdCBoYXZlIG1vcmUgdGhhbiAyIG1lbWJlcnMnCiAgICAgIH0sCiAgICAgIHsKICAgICAgICB2YWxpZGF0b3I6IG1heEFycmF5TGVuZ3RoVmFsaWRhdG9yKDIpLAogICAgICAgIG1lc3NhZ2U6ICdBIHRlYW0gY2Fubm90IGhhdmUgbW9yZSB0aGFuIDIgbWVtYmVycycKICAgICAgfSwKICAgICAgewogICAgICAgIHZhbGlkYXRvcjogYXN5bmMgKHYpID0+IHsKICAgICAgICAgIGNvbnN0IHByb21pc2VzID0gdi5tYXAodHJpZ3JhbVZhbGlkYXRvcigpKTsKICAgICAgICAgIHJldHVybiBQcm9taXNlLmFsbChwcm9taXNlcykKICAgICAgICAgICAgLnRoZW4odmFsaWRhdGlvbnMgPT4gdmFsaWRhdGlvbnMuZXZlcnkodmFsID0+IHZhbCA9PT0gdHJ1ZSkpCiAgICAgICAgICAgIC5jYXRjaChjb25zb2xlLmVycm9yKTsKICAgICAgICB9LAogICAgICAgIG1lc3NhZ2U6ICdCYWQgdHJpZ3JhbSB2YWx1ZScKICAgICAgfQogICAgXQogIH0sCiAgcG9pbnRzOiB7CiAgICB0eXBlOiBOdW1iZXIsCiAgICByZXF1aXJlZDogW3RydWUsICdQb2ludHMgYXJlIHJlcXVpcmVkJ10sCiAgICBtaW46IFstMTAsICdBIHRlYW0gY2Fubm90IGhhdmUgbGVzcyB0aGFuIC0xMCBwb2ludHMnXSwKICAgIG1heDogWzEwLCAnQSB0ZWFtIGNhbm5vdCBoYXZlIG1vcmUgdGhhbiAxMCBwb2ludHMnXQogIH0KfTs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobWF0Y2gpOwo=</text>
+        <text encoding="base64">ZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZWVzd2Flc2R4enN3enhzd3plc3dld3NhcXdzZGVzd3dhc3dlZHN3c2VlZWVlZGR3c3hxYXN6eAo=</text>
+      <register name="2" type="4">
+        <text>xport const MATCH_SCHEMA = {
+  
+};</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbWF0Y2guCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCBNYXRjaAo=</text>
+        <text encoding="base64">Y29uc3QgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBhd2FpdCAoKQo=</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBNYXRjaC5zYXZlKCkK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobWF0Y2gpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgZWVzd2Flc2R4enN3enhzd3plc3dld3NhcXdzZGVzd3dhc3dlZHN3c2VlZWVlZGR3c3hxYXN6eAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5008,10 +5015,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGJvZHltZW4gZnJvbSAnYm9keW1lbic7Cg==</text>
+        <text encoding="base64">ICAgICAgbWF0Y2guCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAqLwo=</text>
+        <text encoding="base64">ICBjb25zdCBNYXRjaAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
