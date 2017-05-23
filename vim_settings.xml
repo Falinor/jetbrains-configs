@@ -1835,12 +1835,11 @@
         <mark key="." line="11" column="24" />
         <mark key="^" line="11" column="24" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/src/api/match/controller.js" timestamp="1495496345588">
-        <mark key="'" line="67" column="12" />
-        <mark key="[" line="72" column="34" />
-        <mark key="]" line="72" column="12" />
-        <mark key="^" line="72" column="12" />
-        <mark key="." line="72" column="12" />
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/api/match/controller.js" timestamp="1495521171304">
+        <mark key="[" line="73" column="15" />
+        <mark key="]" line="73" column="19" />
+        <mark key="." line="73" column="19" />
+        <mark key="^" line="73" column="19" />
       </file>
       <file name="$USER_HOME$/Dev/web-of-things/wot-dashboard/front/src/app/auth/login/login.component.html" timestamp="1491405050775">
         <mark key="'" line="2" column="5" />
@@ -3735,7 +3734,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>vertex</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -5259,7 +5258,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>vertex</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -5271,31 +5270,36 @@
         <text encoding="base64">XDxtZFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cm91dGVyLnVzZSgnL3BsYXllcnMnLCBwbGF5ZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHsgdmVydGV4LCB3aW5uZXJzWzBdLCBsb3NlcnNbMF0gfTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0cmF2ZXJzZWQpOwo=</text>
+        <text encoding="base64">ICAgICAgd2lubmVyc1swXQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCBMb3N0ID0gYXdhaXQgbG9zdENvbGxlY3Rpb24oKTsKICBjb25zdCBXb24gPSBhd2FpdCB3b25Db2xsZWN0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgdHJhdmVyc2VkID0gYXdhaXQgZ3JhcGguCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qCg==</text>
+      <register name="3" type="4">
+        <text>traversal(vertex['_id'], {
+        direction: 'inbound',
+        visitor: 'result.vertices.push(vertex)',
+        init: 'result.vertices = []'
+      });
+      return traversed['vertices'];</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0cmF2ZXJzZWQpOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIC50aGVuKG1hdGNoZXMgPT4gewogICAgICByZXR1cm4gbWF0Y2hlcy5tYXAobWF0Y2ggPT4gKAogICAgICAgIHsKICAgICAgICAgIG1hdGNoLAogICAgICAgICAgd2lubmVyczogYXdhaXQgV29uLmVkZ2VzKG1hdGNoWydfaWQnXSksCiAgICAgICAgICBsb3NlcnM6IGF3YWl0IExvc3QuZWRnZXMobWF0Y2hbJ19pZCddKQogICAgICAgIH0KICAgICAgKSk7CiAgICB9KQogICAgKi8=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBjb25zdCBMb3N0ID0gYXdhaXQgbG9zdENvbGxlY3Rpb24oKTsKICBjb25zdCBXb24gPSBhd2FpdCB3b25Db2xsZWN0aW9uKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0KTsK</text>
+        <text encoding="base64">ICAgIC8qCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC50aGVuKHJlc3VsdCA9PiByZXN1bHRbJ3ZlcnRpY2VzJ10pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5303,11 +5307,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdmVydGljZXM7Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIC50aGVuKG1hdGNoZXMgPT4gewogICAgICByZXR1cm4gbWF0Y2hlcy5tYXAobWF0Y2ggPT4gKAogICAgICAgIHsKICAgICAgICAgIG1hdGNoLAogICAgICAgICAgd2lubmVyczogYXdhaXQgV29uLmVkZ2VzKG1hdGNoWydfaWQnXSksCiAgICAgICAgICBsb3NlcnM6IGF3YWl0IExvc3QuZWRnZXMobWF0Y2hbJ19pZCddKQogICAgICAgIH0KICAgICAgKSk7CiAgICB9KQogICAgKi8=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh2ZXJ0aWNlcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
