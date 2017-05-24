@@ -1741,11 +1741,11 @@
         <mark key="." line="7" column="28" />
         <mark key="^" line="7" column="28" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/web/src/app/match/latest-matches/latest-matches.component.html" timestamp="1495532015465">
+      <file name="$USER_HOME$/Dev/baby-foot/web/src/app/match/latest-matches/latest-matches.component.html" timestamp="1495570428134">
         <mark key="[" line="2" column="21" />
-        <mark key="]" line="2" column="11" />
-        <mark key="." line="2" column="11" />
-        <mark key="^" line="2" column="11" />
+        <mark key="]" line="2" column="27" />
+        <mark key="." line="2" column="27" />
+        <mark key="^" line="2" column="27" />
       </file>
       <file name="$USER_HOME$/Dev/wot-gateway/src/api/index.test.js" timestamp="1493368075137">
         <mark key="'" line="11" column="0" />
@@ -1960,6 +1960,13 @@
         <mark key="]" line="2" column="67" />
         <mark key="^" line="2" column="67" />
         <mark key="." line="2" column="67" />
+      </file>
+      <file name="$USER_HOME$/Dev/baby-foot/web/src/app/player/shared/player.service.ts" timestamp="1495607387004">
+        <mark key="'" line="1" column="36" />
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="10" />
+        <mark key="." line="9" column="10" />
+        <mark key="^" line="9" column="10" />
       </file>
       <file name="$USER_HOME$/Dev/tests/angular/front/src/app/auth/auth.module.ts" timestamp="1490369648102">
         <mark key="[" line="3" column="58" />
@@ -3662,8 +3669,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="0" filename="$USER_HOME$/Dev/wot-gateway/package.json" />
-      <jump line="11" column="2" filename="$USER_HOME$/Dev/wot-gateway/src/api/pi/controller.js" />
       <jump line="593" column="4" filename="$USER_HOME$/Dev/wot-gateway/node_modules/lodash/lodash.js" />
       <jump line="17072" column="16" filename="$USER_HOME$/Dev/wot-gateway/node_modules/lodash/lodash.js" />
       <jump line="14" column="3" filename="$USER_HOME$/Dev/wot-gateway/src/api/pi/controller.js" />
@@ -3762,6 +3767,8 @@
       <jump line="8" column="34" filename="$USER_HOME$/Dev/baby-foot/api/src/api/match/model.js" />
       <jump line="18" column="19" filename="$USER_HOME$/Dev/baby-foot/api/src/api/match/model.js" />
       <jump line="16" column="24" filename="$USER_HOME$/Dev/baby-foot/web/src/app/match/shared/match.service.ts" />
+      <jump line="4" column="1" filename="$USER_HOME$/Dev/baby-foot/web/src/app/player/shared/player.service.ts" />
+      <jump line="1" column="36" filename="$USER_HOME$/Dev/baby-foot/web/src/app/player/shared/player.service.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3770,8 +3777,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>number</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -5295,7 +5302,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>number</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -5310,28 +5317,28 @@
         <text encoding="base64">ICAgICAgcmV0dXJuIHsgdmVydGV4LCB3aW5uZXJzWzBdLCBsb3NlcnNbMF0gfTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHt7IG1hdGNoLl9pZCB9fQo=</text>
+        <text encoding="base64">ICBmaW5kCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwb2ludHM6IG51bWJlcjsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBwbGF0Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBfa2V5OiBzdHJpbmc7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHt7IG1hdGNoLl9pZCB9fQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBwb2ludHM6IG51bWJlcjsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBibHVlOiBUZWFtOwo=</text>
+        <text encoding="base64">ICBwbGF0Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5340,10 +5347,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbmV3IE1hdGNoKCkK</text>
+        <text encoding="base64">ICBfa2V5OiBzdHJpbmc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
