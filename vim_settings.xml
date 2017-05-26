@@ -2199,6 +2199,9 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/api/src/middlewares/swagger.js" timestamp="1495808361114">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Dev/api-security/api/src/model/user/user-router.js" timestamp="1490018667459">
         <mark key="[" line="6" column="34" />
         <mark key="]" line="6" column="49" />
@@ -2687,6 +2690,13 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/api/package.json" timestamp="1495808026146">
+        <mark key="[" line="6" column="2" />
+        <mark key="k" line="6" column="0" />
+        <mark key="]" line="7" column="1" />
+        <mark key="." line="7" column="1" />
+        <mark key="^" line="7" column="1" />
       </file>
       <file name="$USER_HOME$/Dev/tests/angular/front/src/app/auth/auth-routing.module.ts" timestamp="1490369854401">
         <mark key="[" line="3" column="52" />
@@ -3937,7 +3947,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyMjIE5vZGUgdGVtcGxhdGUK</text>
+        <text encoding="base64">ICAgICJ5YXJuIjogIj49IDAuMTguMCIK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -5476,28 +5486,28 @@
         <text encoding="base64">ICAgICAgcmVzLnNldCgnUmVzdWx0LUNvdW50JywgZWRnZXMubGVuZ3RoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyMjIE5vZGUgdGVtcGxhdGUK</text>
+        <text encoding="base64">ICAgICJ5YXJuIjogIj49IDAuMTguMCIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiYXV0aG9yIjogIkFuZHJlYSBHdWV1Z25hdXQgPGFndWV1Z25hdXRAb2N0by5jb20+IiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyMjIEV4YW1wbGUgdXNlciB0ZW1wbGF0ZSB0ZW1wbGF0ZQo=</text>
+        <text encoding="base64">IyMjIE5vZGUgdGVtcGxhdGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyMjIEV4YW1wbGUgdXNlciB0ZW1wbGF0ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
+        <text encoding="base64">IyMjIEV4YW1wbGUgdXNlciB0ZW1wbGF0ZSB0ZW1wbGF0ZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY29uZmlnIH0gZnJvbSAnLi4vLi4vY29uZmlnJzsK</text>
+        <text encoding="base64">IyMjIEV4YW1wbGUgdXNlciB0ZW1wbGF0ZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5505,16 +5515,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text>server: {
-    h
-  }</text>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IHsgY29uZmlnIH0gZnJvbSAnLi4vLi4vY29uZmlnJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25maQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -5568,8 +5576,8 @@
         <entry>W</entry>
         <entry>Wq</entry>
         <entry>q</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
