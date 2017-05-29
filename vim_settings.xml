@@ -463,12 +463,12 @@
         <mark key="^" line="3" column="31" />
         <mark key="." line="3" column="31" />
       </file>
-      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/api/Dockerfile" timestamp="1496076732487">
+      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/api/Dockerfile" timestamp="1496078562769">
         <mark key="'" line="12" column="11" />
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="3" column="13" />
-        <mark key="." line="3" column="13" />
-        <mark key="^" line="3" column="13" />
+        <mark key="[" line="12" column="11" />
+        <mark key="]" line="12" column="14" />
+        <mark key="." line="12" column="14" />
+        <mark key="^" line="12" column="14" />
       </file>
       <file name="$USER_HOME$/Dev/SEO/seo-link/src/main/java/com/mti/seo/types/StringArrayType.java" timestamp="1473691785961">
         <mark key="[" line="60" column="0" />
@@ -2831,13 +2831,13 @@
         <mark key="^" line="1" column="23" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/api/README.md" timestamp="1496074979751">
-        <mark key="'" line="83" column="2" />
-        <mark key="[" line="43" column="32" />
-        <mark key="m" line="23" column="0" />
-        <mark key="]" line="43" column="30" />
-        <mark key="." line="43" column="30" />
-        <mark key="^" line="43" column="30" />
+      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/api/README.md" timestamp="1496078413284">
+        <mark key="'" line="85" column="2" />
+        <mark key="[" line="2" column="15" />
+        <mark key="m" line="25" column="0" />
+        <mark key="]" line="45" column="30" />
+        <mark key="." line="45" column="30" />
+        <mark key="^" line="45" column="30" />
       </file>
       <file name="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/config/config.ts" timestamp="1491553558309">
         <mark key="[" line="6" column="27" />
@@ -3468,12 +3468,12 @@
         <mark key="^" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
-      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/api/docker-compose.yml" timestamp="1496077036172">
-        <mark key="'" line="11" column="9" />
-        <mark key="[" line="22" column="4" />
-        <mark key="]" line="11" column="9" />
-        <mark key="." line="11" column="9" />
-        <mark key="^" line="11" column="9" />
+      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/api/docker-compose.yml" timestamp="1496078489238">
+        <mark key="'" line="12" column="9" />
+        <mark key="[" line="8" column="9" />
+        <mark key="]" line="8" column="11" />
+        <mark key="." line="8" column="11" />
+        <mark key="^" line="8" column="11" />
       </file>
       <file name="$USER_HOME$/Dev/SEO/seo-link/src/main/java/com/mti/seo/crawler/AbstractCrawler.java" timestamp="1472735342983">
         <mark key="[" line="0" column="8" />
@@ -3695,8 +3695,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBhcGkudXNlKCcvZmxvb3JzLzpmbG9vcklkL2FyZWFzJywgbWVtb3J5KCkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>APP</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -5220,7 +5220,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>install</text>
+        <text>APP</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -5235,28 +5235,28 @@
         <text encoding="base64">ICAgICAgcmVzLnNldCgnUmVzdWx0LUNvdW50JywgZWRnZXMubGVuZ3RoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBhcGkudXNlKCcvZmxvb3JzLzpmbG9vcklkL2FyZWFzJywgbWVtb3J5KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgLSAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkOiAK</text>
+        <text encoding="base64">ICAgIGVudmlyb25tZW50Ogo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhcGkudXNlKCcvZmxvb3JzLzpmbG9vcklkL2FyZWFzJywgbWVtb3J5KCkpOwo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIGJ1aWxkOiAK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">Ck1vbmdvQ2xpZW50LmNvbm5lY3QoY29uZmlnLmRiLnVybCkKICAudGhlbihkYiA9PiB7CiAgICAvLyBDb25uZWN0IHRvIHRoZSBkYiwgY3JlYXRlIGFuZCByZWdpc3RlciBhIEZlYXRoZXJzIHNlcnZpY2UuCiAgICBhcHAudXNlKCcvbWVzc2FnZXMnLCBzZXJ2aWNlKHsKICAgICAgTW9kZWw6IGRiLmNvbGxlY3Rpb24oJ21lc3NhZ2VzJyksCiAgICAgIHBhZ2luYXRlOiB7CiAgICAgICAgZGVmYXVsdDogMiwKICAgICAgICBtYXg6IDQKICAgICAgfQogICAgfSkpOwogIH0pCiAgLmNhdGNoKGNvbnNvbGUubG9nKTs=</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">cmVjb3JkcygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">cAo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">Ck1vbmdvQ2xpZW50LmNvbm5lY3QoY29uZmlnLmRiLnVybCkKICAudGhlbihkYiA9PiB7CiAgICAvLyBDb25uZWN0IHRvIHRoZSBkYiwgY3JlYXRlIGFuZCByZWdpc3RlciBhIEZlYXRoZXJzIHNlcnZpY2UuCiAgICBhcHAudXNlKCcvbWVzc2FnZXMnLCBzZXJ2aWNlKHsKICAgICAgTW9kZWw6IGRiLmNvbGxlY3Rpb24oJ21lc3NhZ2VzJyksCiAgICAgIHBhZ2luYXRlOiB7CiAgICAgICAgZGVmYXVsdDogMiwKICAgICAgICBtYXg6IDQKICAgICAgfQogICAgfSkpOwogIH0pCiAgLmNhdGNoKGNvbnNvbGUubG9nKTs=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5265,10 +5265,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJ21vbmdvZGInOwo=</text>
+        <text encoding="base64">cmVjb3JkcygpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3Qgc2VydmljZSA9IHJlCg==</text>
+        <text encoding="base64">cAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -5324,8 +5324,8 @@
         <entry>x</entry>
         <entry>W</entry>
         <entry>Wq</entry>
-        <entry>wq</entry>
         <entry>q</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
