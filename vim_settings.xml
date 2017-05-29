@@ -2819,12 +2819,13 @@
         <mark key="^" line="1" column="23" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/api/README.md" timestamp="1496072730381">
-        <mark key="'" line="55" column="2" />
-        <mark key="[" line="48" column="0" />
-        <mark key="m" line="9" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
+      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/api/README.md" timestamp="1496074979751">
+        <mark key="'" line="83" column="2" />
+        <mark key="[" line="43" column="32" />
+        <mark key="m" line="23" column="0" />
+        <mark key="]" line="43" column="30" />
+        <mark key="." line="43" column="30" />
+        <mark key="^" line="43" column="30" />
       </file>
       <file name="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/config/config.ts" timestamp="1491553558309">
         <mark key="[" line="6" column="27" />
@@ -3674,8 +3675,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -5199,7 +5200,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Device</text>
+        <text>=</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -5214,32 +5215,28 @@
         <text encoding="base64">ICAgICAgcmVzLnNldCgnUmVzdWx0LUNvdW50JywgZWRnZXMubGVuZ3RoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">TkI6IHlvdSBjYW4gYWRkIHNvbWUgcXVlcnkgcGFyYW1ldGVycyB0byBmaXQgeW91ciBuZWVkcywgZm9yIGV4YW1wbGU6Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2xhc3MgRGV2aWNlIAo=</text>
+        <text encoding="base64">YGBgCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>{
-  id: string;
-  floor: number;
-  area?: number;
-}</text>
+      <register name="3" type="2">
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFyZWE/OiBudW1iZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyMjIyMjIEdldHRpbmcgYWxsIHJlY29yZHMgd2l0aCBmaWx0ZXJzIChwYWdpbmF0ZWQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CmBgYHR5cGVzY3JpcHQKCmBgYAo=</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5247,15 +5244,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text>class Device {
-  id: string;
-  floor: number;
-  area?: number;
-}</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CmBgYHR5cGVzY3JpcHQKY2xhc3MgRGV2aWNlIHsKICBpZDogc3RyaW5nOwogIGZsb29yOiBudW1iZXI7CiAgYXJlYT86IG51bWJlcjsKfQpgYGA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
