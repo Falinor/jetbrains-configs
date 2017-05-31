@@ -1987,12 +1987,10 @@
         <mark key="." line="27" column="30" />
         <mark key="^" line="27" column="30" />
       </file>
-      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/api/src/services/index.js" timestamp="1496217776404">
-        <mark key="'" line="6" column="5" />
-        <mark key="[" line="6" column="5" />
-        <mark key="]" line="6" column="26" />
-        <mark key="^" line="6" column="26" />
-        <mark key="." line="6" column="26" />
+      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/api/src/services/index.js" timestamp="1496219420171">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/web-of-things/iot-poc/api/.babelrc" timestamp="1496159159261">
         <mark key="[" line="4" column="4" />
@@ -2207,12 +2205,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/api/src/middlewares/swagger.js" timestamp="1496218646953">
+      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/api/src/middlewares/swagger.js" timestamp="1496219483001">
         <mark key="'" line="6" column="12" />
-        <mark key="[" line="16" column="17" />
-        <mark key="]" line="16" column="17" />
-        <mark key="." line="16" column="17" />
-        <mark key="^" line="16" column="18" />
+        <mark key="[" line="15" column="12" />
+        <mark key="]" line="15" column="15" />
+        <mark key="." line="15" column="15" />
+        <mark key="^" line="15" column="15" />
       </file>
       <file name="$USER_HOME$/Dev/api-security/api/src/model/user/user-router.js" timestamp="1490018667459">
         <mark key="[" line="6" column="34" />
@@ -3944,7 +3942,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>/</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -5468,7 +5466,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>/</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -5483,27 +5481,25 @@
         <text encoding="base64">ICAgICAgcmVzLnNldCgnUmVzdWx0LUNvdW50JywgZWRnZXMubGVuZ3RoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdmVyc2lvbjogJwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgbWlkZGxld2FyZSBhcyBzd2FnZ2VyIH0gZnJvbSAnLi4vbWlkZGxld2FyZXMvc3dhZ2dlcic7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZlcnNpb25QcmVmaXg6IC92XGRcLy8sCg==</text>
+        <text encoding="base64">ICBhcGkuY29uZmlndXJlKHN3YWdnZXIoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZlcnNpb25QcmVmaXg6IC92XGRcLy8sCg==</text>
+        <text encoding="base64">ICAgICAgdmVyc2lvbjogJwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIHZlcnNpb25QcmVmaXg6IC92XGRcLy8sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByZWZpeDogL3ZcZFwvLywK</text>
+        <text encoding="base64">ICAgIHZlcnNpb25QcmVmaXg6IC92XGRcLy8sCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>.configure(swagger({
-
-  }));</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHZlcnNpb25QcmVmaXg6IC92XGRcLy8sCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIHByZWZpeDogL3ZcZFwvLywK</text>
@@ -5514,11 +5510,13 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHByZWZpeDogL3ZcZFwvLywK</text>
+      <register name="8" type="4">
+        <text>.configure(swagger({
+
+  }));</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByZWZpeDogL3ZcZFwvLywK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -5574,8 +5572,8 @@
         <entry>x</entry>
         <entry>W</entry>
         <entry>Wq</entry>
-        <entry>wq</entry>
         <entry>q</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
