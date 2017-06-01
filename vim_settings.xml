@@ -2198,6 +2198,12 @@
         <mark key="." line="7" column="10" />
         <mark key="^" line="7" column="10" />
       </file>
+      <file name="$USER_HOME$/Dev/iot-poc-broker/.gitignore" timestamp="1496307351518">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+      </file>
       <file name="$USER_HOME$/Dev/web-of-things/wot-dashboard/front/src/app/app.component.html" timestamp="1491313052615">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -3949,7 +3955,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/Dev/web-of-things/baby-foot/api/src/services/validators/index.js" />
       <jump line="7" column="2" filename="$USER_HOME$/Dev/web-of-things/baby-foot/api/src/services/validators/index.js" />
       <jump line="4" column="27" filename="$USER_HOME$/Dev/web-of-things/baby-foot/api/src/services/validators/index.js" />
       <jump line="15" column="64" filename="$USER_HOME$/Dev/web-of-things/baby-foot/api/package.json" />
@@ -4049,6 +4054,7 @@
       <jump line="1" column="15" filename="$USER_HOME$/Dev/baby-foot/api/src/resources/team/schema.js" />
       <jump line="4" column="16" filename="$USER_HOME$/Dev/baby-foot/api/src/resources/team/index.js" />
       <jump line="5" column="27" filename="$USER_HOME$/Dev/baby-foot/api/src/resources/team/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dev/iot-poc-broker/.gitignore" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4057,8 +4063,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>errorsText</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -5582,7 +5588,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>errorsText</text>
+        <text>o</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -5601,28 +5607,28 @@
       required: ['points']</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGVycm9ycyA9IGFqdi4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9IGNhdGNoIChlKSB7Cg==</text>
+        <text encoding="base64">IyMjIEV4YW1wbGUgdXNlciB0ZW1wbGF0ZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB0cnkgewo=</text>
+        <text encoding="base64">IyMjIEV4YW1wbGUgdXNlciB0ZW1wbGF0ZSB0ZW1wbGF0ZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAkYXN5bmM6IHRydWUsCg==</text>
+        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcHJ0IHBsdWdpbiAoaHN6Lm1vYmkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGVycm9ycyA9IGFqdi4K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5631,13 +5637,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhd2FpdCBhanYudmFsaWRhdGUoc2NoZW1hUmVmKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGUpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -5691,8 +5697,8 @@
         <entry>W</entry>
         <entry>Wq</entry>
         <entry>q</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
