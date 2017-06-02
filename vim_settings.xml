@@ -249,11 +249,11 @@
         <mark key="^" line="1" column="23" />
         <mark key="." line="1" column="23" />
       </file>
-      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/broker/README.md" timestamp="1496397259361">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/broker/README.md" timestamp="1496398869727">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="49" />
+        <mark key="^" line="2" column="49" />
+        <mark key="." line="2" column="49" />
       </file>
       <file name="$USER_HOME$/Dev/dj-socket/front/src/app/app.module.ts" timestamp="1487611260498">
         <mark key="[" line="11" column="17" />
@@ -1018,9 +1018,9 @@
       </file>
       <file name="$USER_HOME$/Dev/web-of-things/iot-poc/broker/package.json" timestamp="1496395825043">
         <mark key="[" line="10" column="31" />
-        <mark key="]" line="11" column="26" />
-        <mark key="^" line="11" column="26" />
-        <mark key="." line="11" column="26" />
+        <mark key="]" line="10" column="26" />
+        <mark key="^" line="10" column="26" />
+        <mark key="." line="10" column="26" />
       </file>
       <file name="$USER_HOME$/Dev/web-of-things/baby-foot/api/src/services/mongoose/index.js" timestamp="1494345473644">
         <mark key="'" line="12" column="1" />
@@ -2681,12 +2681,11 @@
         <mark key="." line="25" column="12" />
         <mark key="^" line="25" column="12" />
       </file>
-      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/broker/circle.yml" timestamp="1496397390211">
-        <mark key="'" line="4" column="71" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="14" />
-        <mark key="^" line="21" column="14" />
-        <mark key="." line="21" column="14" />
+      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/broker/circle.yml" timestamp="1496399061108">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/Java/Mediatheque/src/main/resources/META-INF/persistence.xml" timestamp="1473492947638">
         <mark key="[" line="3" column="31" />
@@ -4078,7 +4077,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="1" filename="$USER_HOME$/Dev/baby-foot/api/src/api/player/controller.js" />
       <jump line="5" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/api/player/controller.js" />
       <jump line="20" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/api/player/controller.js" />
       <jump line="4" column="8" filename="$USER_HOME$/Dev/baby-foot/api/src/api/player/index.js" />
@@ -4178,6 +4176,7 @@
       <jump line="7" column="9" filename="$USER_HOME$/Dev/web-of-things/iot-poc/broker/circle.yml" />
       <jump line="8" column="0" filename="$USER_HOME$/Dev/web-of-things/iot-poc/broker/circle.yml" />
       <jump line="4" column="71" filename="$USER_HOME$/Dev/web-of-things/iot-poc/broker/circle.yml" />
+      <jump line="5" column="0" filename="$USER_HOME$/Dev/web-of-things/iot-poc/broker/circle.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4186,8 +4185,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>install</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -5731,23 +5730,23 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVXNlciwgdXNlcnMgfSBmcm9tICcuL3VzZXInOwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">Cm5vdGlmeToKICB3ZWJob29rczoKICAgIC0gdXJsOiAkU0xBQ0tfV0VCSE9PS19VUkw=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwb3J0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCBwb3J0ID0gTWF0aC5mbG9vcihNYXRoLnJhbmRvbSgpICogMTAwMDApOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgVXNlciwgdXNlcnMgfSBmcm9tICcuL3VzZXInOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB3aGlsZSAocG9ydCApCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwb3J0KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB3aGlsZSAocG9ydCkK</text>
+        <text encoding="base64">ICBjb25zdCBwb3J0ID0gTWF0aC5mbG9vcihNYXRoLnJhbmRvbSgpICogMTAwMDApOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjYihudWxsdXNlcm5hbWUsIHBhc3N3b3JkKSkpOwo=</text>
+        <text encoding="base64">ICB3aGlsZSAocG9ydCApCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5756,13 +5755,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhuZXcgVXNlcih1c2VybmFtZSwgcGFzc3dvcmQpKTsK</text>
+        <text encoding="base64">ICB3aGlsZSAocG9ydCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh1c2Vycy5oYXMobmV3IFVzZXIodXNlcm5hbWUsIHBhc3N3b3JkKSkpOwo=</text>
+        <text encoding="base64">ICBjYihudWxsdXNlcm5hbWUsIHBhc3N3b3JkKSkpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -5815,9 +5814,9 @@
         <entry>x</entry>
         <entry>W</entry>
         <entry>Wq</entry>
-        <entry>q</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
