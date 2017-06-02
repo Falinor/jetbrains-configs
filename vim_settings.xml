@@ -2313,6 +2313,11 @@
         <mark key="." line="9" column="22" />
         <mark key="^" line="9" column="22" />
       </file>
+      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/mqtt.js" timestamp="1496418964327">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Dev/web-of-things/iot-poc/api/src/services/device/index.test.js" timestamp="1496070814948">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="3" column="0" />
@@ -2398,12 +2403,12 @@
         <mark key="." line="2" column="6" />
         <mark key="^" line="2" column="6" />
       </file>
-      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/index.js" timestamp="1496411969539">
+      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/index.js" timestamp="1496418160194">
         <mark key="'" line="13" column="21" />
-        <mark key="[" line="7" column="44" />
-        <mark key="]" line="7" column="44" />
-        <mark key="." line="7" column="44" />
-        <mark key="^" line="7" column="44" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="8" column="10" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/api-security/api/src/model/user/user-router.js" timestamp="1490018667459">
         <mark key="[" line="6" column="34" />
@@ -2716,12 +2721,12 @@
         <mark key="." line="25" column="12" />
         <mark key="^" line="25" column="12" />
       </file>
-      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/broker/circle.yml" timestamp="1496407214724">
+      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/broker/circle.yml" timestamp="1496419268981">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="2" column="20" />
-        <mark key="]" line="2" column="18" />
-        <mark key="." line="2" column="18" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
         <mark key="^" line="2" column="18" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/Java/Mediatheque/src/main/resources/META-INF/persistence.xml" timestamp="1473492947638">
         <mark key="[" line="3" column="31" />
@@ -4242,8 +4247,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>envVar</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -5767,7 +5772,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>envVar</text>
+        <text>)</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -5782,28 +5787,28 @@
         <text encoding="base64">ICBjbGllbnQucHVibGlzaCgnL3JlY29yZHMnLCAnTWVzc2FnZSBjb250ZW50Jyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CmRlcGxveW1lbnQ6CiAgc3RhZ2luZzoKICAgIGJyYW5jaDogbWFzdGVyCiAgICBoZXJva3U6CiAgICAgIGFwcG5hbWU6IHdvYXBpLWlvdC1wb2MtYXBp</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBQcml2YXRlIAo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhjbGllbnQsIHVzZXJuYW1lLCBwYXNzd29yZCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyBQcml2YXRlIGtleQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwYXNzd29yZC50b1N0cmluZygpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyBQcml2YXRlIGtleQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgbmV0U2VydmVyID0gbmV0LmNyZWF0ZVNlcnZlcihzZXJ2ZXIuaGFuZGxlKTsK</text>
+        <text encoding="base64">ICBuZXcgQnVmZmVyKCkuaW5zcGVjdCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG5ldCBmcm9tICduZXQnOwo=</text>
+        <text encoding="base64">ICBwYXNzd29yZC4K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5812,10 +5817,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgdGxzIAo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhuZXcgQnVmZmVyKCdwYXNzd29yZCcpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBCdWZmZXIuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
