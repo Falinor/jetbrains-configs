@@ -429,12 +429,11 @@
         <mark key="^" line="7" column="19" />
         <mark key="." line="7" column="19" />
       </file>
-      <file name="$USER_HOME$/Dev/iot-poc-broker/src/mqtt.test.js" timestamp="1496388548213">
+      <file name="$USER_HOME$/Dev/iot-poc-broker/src/mqtt.test.js" timestamp="1496393323897">
         <mark key="'" line="6" column="19" />
-        <mark key="[" line="73" column="21" />
-        <mark key="]" line="73" column="19" />
-        <mark key="." line="73" column="19" />
-        <mark key="^" line="73" column="19" />
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="9" column="21" />
+        <mark key="." line="9" column="21" />
       </file>
       <file name="$USER_HOME$/Dev/tests/angular/posts/src/app/post/post.module.spec.ts" timestamp="1490885023217">
         <mark key="[" line="0" column="7" />
@@ -1297,12 +1296,12 @@
         <mark key="." line="21" column="53" />
         <mark key="^" line="21" column="53" />
       </file>
-      <file name="$USER_HOME$/Dev/iot-poc-broker/src/mqtt.js" timestamp="1496388499725">
-        <mark key="'" line="8" column="4" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="16" column="64" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Dev/iot-poc-broker/src/mqtt.js" timestamp="1496393438882">
+        <mark key="'" line="11" column="26" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="11" column="59" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/SEO/seo-link/src/test/java/crawler/CrawlerTest.java" timestamp="1473154338704">
         <mark key="[" line="22" column="11" />
@@ -2886,10 +2885,11 @@
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/Dev/iot-poc-broker/src/user.js" timestamp="1496391546949">
-        <mark key="[" line="20" column="2" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/Dev/iot-poc-broker/src/user.js" timestamp="1496392880071">
+        <mark key="'" line="3" column="17" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/wot-gateway/src/api/pi/controller.js" timestamp="1493371548815">
         <mark key="[" line="21" column="0" />
@@ -4019,11 +4019,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="23" filename="$USER_HOME$/Dev/baby-foot/api/README.md" />
-      <jump line="42" column="6" filename="$USER_HOME$/Dev/baby-foot/api/README.md" />
-      <jump line="10" column="2" filename="$USER_HOME$/Dev/baby-foot/api/README.md" />
-      <jump line="4" column="2" filename="$USER_HOME$/Dev/baby-foot/api/README.md" />
-      <jump line="56" column="1" filename="$USER_HOME$/Dev/baby-foot/api/src/api/match/controller.js" />
       <jump line="0" column="18" filename="$USER_HOME$/Dev/baby-foot/api/src/api/match/controller.js" />
       <jump line="1" column="24" filename="$USER_HOME$/Dev/baby-foot/api/src/api/player/controller.js" />
       <jump line="13" column="16" filename="$USER_HOME$/Dev/baby-foot/api/src/api/player/controller.js" />
@@ -4119,6 +4114,11 @@
       <jump line="6" column="17" filename="$USER_HOME$/Dev/iot-poc-broker/src/mqtt.test.js" />
       <jump line="60" column="18" filename="$USER_HOME$/Dev/iot-poc-broker/src/mqtt.test.js" />
       <jump line="7" column="19" filename="$USER_HOME$/Dev/iot-poc-broker/src/mqtt.test.js" />
+      <jump line="9" column="22" filename="$USER_HOME$/Dev/iot-poc-broker/src/user.js" />
+      <jump line="11" column="48" filename="$USER_HOME$/Dev/iot-poc-broker/src/user.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/Dev/iot-poc-broker/src/mqtt.js" />
+      <jump line="11" column="26" filename="$USER_HOME$/Dev/iot-poc-broker/src/mqtt.js" />
+      <jump line="3" column="17" filename="$USER_HOME$/Dev/iot-poc-broker/src/user.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4128,7 +4128,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB1c2Vycy5yZW1vdmUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -5652,7 +5652,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">YXN5bmMg</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -5667,28 +5667,28 @@
         <text encoding="base64">ICBjbGllbnQucHVibGlzaCgnL3JlY29yZHMnLCAnTWVzc2FnZSBjb250ZW50Jyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB1c2Vycy5yZW1vdmUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByZXR1cm4gdXNlcnMucHVzaCh1c2VycykK</text>
+        <text encoding="base64">aW1wb3J0IHsgVXNlciwgdXNlcnMgfSBmcm9tICcuL3VzZXInOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwb3J0KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRocm93IG5ldyAK</text>
+        <text encoding="base64">ICBjb25zdCBwb3J0ID0gTWF0aC5mbG9vcihNYXRoLnJhbmRvbSgpICogMTAwMDApOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRocm93Cg==</text>
+        <text encoding="base64">ICB3aGlsZSAocG9ydCApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRocm93IG5ldyBFcnJvcignU2hvdWxkIGJlIGFuIHVzZXIgb2JqZWN0Jyk7Cg==</text>
+        <text encoding="base64">ICB3aGlsZSAocG9ydCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpZiAoIXVzZXIgaW5zdGFuY2VvZiBVc2VyKQo=</text>
+        <text encoding="base64">ICBjYihudWxsdXNlcm5hbWUsIHBhc3N3b3JkKSkpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5697,10 +5697,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhuZXcgVXNlcih1c2VybmFtZSwgcGFzc3dvcmQpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh1c2Vycy5oYXMobmV3IFVzZXIodXNlcm5hbWUsIHBhc3N3b3JkKSkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
