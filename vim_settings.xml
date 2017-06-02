@@ -249,6 +249,12 @@
         <mark key="^" line="1" column="23" />
         <mark key="." line="1" column="23" />
       </file>
+      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/broker/README.md" timestamp="1496397259361">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Dev/dj-socket/front/src/app/app.module.ts" timestamp="1487611260498">
         <mark key="[" line="11" column="17" />
         <mark key="]" line="11" column="15" />
@@ -2675,6 +2681,13 @@
         <mark key="." line="25" column="12" />
         <mark key="^" line="25" column="12" />
       </file>
+      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/broker/circle.yml" timestamp="1496397390211">
+        <mark key="'" line="4" column="71" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="14" />
+        <mark key="^" line="21" column="14" />
+        <mark key="." line="21" column="14" />
+      </file>
       <file name="$USER_HOME$/Dev/Java/Mediatheque/src/main/resources/META-INF/persistence.xml" timestamp="1473492947638">
         <mark key="[" line="3" column="31" />
         <mark key="]" line="3" column="36" />
@@ -4065,9 +4078,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="18" filename="$USER_HOME$/Dev/baby-foot/api/src/api/match/controller.js" />
-      <jump line="1" column="24" filename="$USER_HOME$/Dev/baby-foot/api/src/api/player/controller.js" />
-      <jump line="13" column="16" filename="$USER_HOME$/Dev/baby-foot/api/src/api/player/controller.js" />
       <jump line="9" column="1" filename="$USER_HOME$/Dev/baby-foot/api/src/api/player/controller.js" />
       <jump line="5" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/api/player/controller.js" />
       <jump line="20" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/api/player/controller.js" />
@@ -4165,6 +4175,9 @@
       <jump line="9" column="0" filename="$USER_HOME$/Dev/iot-poc-broker/src/mqtt.js" />
       <jump line="11" column="26" filename="$USER_HOME$/Dev/iot-poc-broker/src/mqtt.js" />
       <jump line="3" column="17" filename="$USER_HOME$/Dev/iot-poc-broker/src/user.js" />
+      <jump line="7" column="9" filename="$USER_HOME$/Dev/web-of-things/iot-poc/broker/circle.yml" />
+      <jump line="8" column="0" filename="$USER_HOME$/Dev/web-of-things/iot-poc/broker/circle.yml" />
+      <jump line="4" column="71" filename="$USER_HOME$/Dev/web-of-things/iot-poc/broker/circle.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4173,8 +4186,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>install</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -5698,7 +5711,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXN5bmMg</text>
+        <text>install</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -5802,8 +5815,8 @@
         <entry>x</entry>
         <entry>W</entry>
         <entry>Wq</entry>
-        <entry>wq</entry>
         <entry>q</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
