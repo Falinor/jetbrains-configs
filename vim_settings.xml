@@ -2377,12 +2377,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/index.js" timestamp="1496409163681">
-        <mark key="'" line="6" column="27" />
-        <mark key="[" line="2" column="21" />
-        <mark key="]" line="2" column="16" />
-        <mark key="." line="2" column="16" />
-        <mark key="^" line="2" column="16" />
+      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/index.js" timestamp="1496410952203">
+        <mark key="'" line="7" column="27" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/api-security/api/src/model/user/user-router.js" timestamp="1490018667459">
         <mark key="[" line="6" column="34" />
@@ -2826,11 +2825,11 @@
         <mark key="." line="2" column="30" />
         <mark key="^" line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/config.js" timestamp="1496407754024">
-        <mark key="[" line="3" column="36" />
-        <mark key="]" line="3" column="32" />
-        <mark key="." line="3" column="32" />
-        <mark key="^" line="3" column="32" />
+      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/config.js" timestamp="1496411008786">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="7" column="34" />
+        <mark key="." line="7" column="34" />
+        <mark key="^" line="7" column="34" />
       </file>
       <file name="$USER_HOME$/Dev/api-security/api/docker-compose.override.yml" timestamp="1490029368687">
         <mark key="[" line="13" column="51" />
@@ -4199,8 +4198,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>TLS</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -5739,28 +5738,28 @@
         <text encoding="base64">ICBjbGllbnQucHVibGlzaCgnL3JlY29yZHMnLCAnTWVzc2FnZSBjb250ZW50Jyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBhdXRoZW50aWNhdGUsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBhdXRob3JpemVQdWJsaXNoLAogIGF1dGhvcml6ZVN1YnNjcmliZQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">CmNvbnN0IG9wdGlvbnMgPSB7CiAga2V5OiBmcwp9Ow==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CmltcG9ydCBtcXR0U2VydmVyLCB7CiAgYXV0aGVudGljYXRlLAogIGF1dGhvcml6ZVB1Ymxpc2gsCiAgYXV0aG9yaXplU3Vic2NyaWJlCn0gZnJvbSAnLi9tcXR0Jzs=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhdXRoZW50aWNhdGUsCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">Cm5vdGlmeToKICB3ZWJob29rczoKICAgIC0gdXJsOiAkU0xBQ0tfV0VCSE9PS19VUkw=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBhdXRob3JpemVQdWJsaXNoLAogIGF1dGhvcml6ZVN1YnNjcmliZQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CmltcG9ydCBtcXR0U2VydmVyLCB7CiAgYXV0aGVudGljYXRlLAogIGF1dGhvcml6ZVB1Ymxpc2gsCiAgYXV0aG9yaXplU3Vic2NyaWJlCn0gZnJvbSAnLi9tcXR0Jzs=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVXNlciwgdXNlcnMgfSBmcm9tICcuL3VzZXInOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5768,11 +5767,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwb3J0KTsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">Cm5vdGlmeToKICB3ZWJob29rczoKICAgIC0gdXJsOiAkU0xBQ0tfV0VCSE9PS19VUkw=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCBwb3J0ID0gTWF0aC5mbG9vcihNYXRoLnJhbmRvbSgpICogMTAwMDApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
