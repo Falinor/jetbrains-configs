@@ -743,11 +743,12 @@
         <mark key="." line="9" column="8" />
         <mark key="^" line="9" column="8" />
       </file>
-      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/api/src/services/record/index.test.js" timestamp="1496837333201">
-        <mark key="[" line="4" column="41" />
-        <mark key="]" line="5" column="36" />
-        <mark key="." line="5" column="36" />
-        <mark key="^" line="5" column="36" />
+      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/api/src/services/record/index.test.js" timestamp="1496847373538">
+        <mark key="'" line="10" column="6" />
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="13" column="3" />
+        <mark key="." line="13" column="3" />
+        <mark key="^" line="13" column="3" />
       </file>
       <file name="$USER_HOME$/Dev/bbl-angular/playground/.angular-cli.json" timestamp="1491382937783">
         <mark key="[" line="3" column="13" />
@@ -3874,12 +3875,12 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/api/src/services/record/index.js" timestamp="1496829908014">
+      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/api/src/services/record/index.js" timestamp="1496847266112">
         <mark key="'" line="25" column="29" />
-        <mark key="[" line="14" column="22" />
-        <mark key="]" line="14" column="22" />
-        <mark key="." line="14" column="22" />
-        <mark key="^" line="14" column="27" />
+        <mark key="[" line="30" column="26" />
+        <mark key="]" line="30" column="24" />
+        <mark key="." line="30" column="24" />
+        <mark key="^" line="30" column="24" />
       </file>
       <file name="$USER_HOME$/Dev/tests/angular/front/src/index.html" timestamp="1490608376060">
         <mark key="[" line="10" column="6" />
@@ -4071,8 +4072,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="12" filename="$USER_HOME$/Dev/baby-foot/web/src/app/match/latest-matches/latest-matches.component.html" />
-      <jump line="4" column="1" filename="$USER_HOME$/Dev/baby-foot/web/src/app/shared/shared.module.ts" />
       <jump line="18" column="15" filename="$USER_HOME$/Dev/baby-foot/web/src/app/app.module.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Dev/baby-foot/web/src/app/match/latest-matches/latest-matches.component.html" />
       <jump line="18" column="2" filename="$USER_HOME$/Dev/baby-foot/web/src/app/match/latest-matches/latest-matches.component.ts" />
@@ -4171,6 +4170,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Dev/web-of-things/iot-poc/api/src/services/floor/index.test.js" />
       <jump line="25" column="29" filename="$USER_HOME$/Dev/web-of-things/iot-poc/api/src/services/record/index.js" />
       <jump line="11" column="0" filename="$USER_HOME$/Dev/web-of-things/iot-poc/api/src/config/index.js" />
+      <jump line="8" column="1" filename="$USER_HOME$/Dev/web-of-things/iot-poc/api/src/services/record/index.test.js" />
+      <jump line="9" column="6" filename="$USER_HOME$/Dev/web-of-things/iot-poc/api/src/services/record/index.test.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4179,8 +4180,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -5704,7 +5705,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>db</text>
+        <text>(</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -5719,30 +5720,28 @@
         <text encoding="base64">ICBjbGllbnQucHVibGlzaCgnL3JlY29yZHMnLCAnTWVzc2FnZSBjb250ZW50Jyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFwaS5zZXJ2aWNlKCdyZWNvcmRzJyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>export const FLOORS = [
-  { floor: 0 }
-]</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBpbmRleC4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpbmRleC5nZXQKICAK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CmNvbnN0IGYgPSB7CiAgZmxvb3I6IDAsCiAgYXJlYXM6IFsKICAgIHsgYXJlYTogMCB9CiAgXQp9</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBpbmRleC5yZWNvcmRzKCkK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CnsKICBmbG9vcjogMCwKICAgIGFyZWFzOiB7CiAgICAKfQp9</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW5kZXgucmVjb3Jkcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0Cg==</text>
+        <text encoding="base64">ICBpbmRleC4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBhcGkuc2VydmljZSgncmVjb3JkcycpID0gOwo=</text>
+        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJ3Npbm9uJzsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5751,10 +5750,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBzdHViKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBhcGkudXNlKCcvcmVjb3JkcycsIG1lbW9yeSgpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
