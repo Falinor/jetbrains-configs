@@ -743,12 +743,11 @@
         <mark key="." line="9" column="8" />
         <mark key="^" line="9" column="8" />
       </file>
-      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/api/src/services/record/index.test.js" timestamp="1496847373538">
-        <mark key="'" line="10" column="6" />
-        <mark key="[" line="13" column="4" />
-        <mark key="]" line="13" column="3" />
-        <mark key="." line="13" column="3" />
-        <mark key="^" line="13" column="3" />
+      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/api/src/services/record/index.test.js" timestamp="1496849486789">
+        <mark key="[" line="11" column="34" />
+        <mark key="]" line="11" column="40" />
+        <mark key="^" line="11" column="40" />
+        <mark key="." line="11" column="40" />
       </file>
       <file name="$USER_HOME$/Dev/bbl-angular/playground/.angular-cli.json" timestamp="1491382937783">
         <mark key="[" line="3" column="13" />
@@ -766,9 +765,6 @@
         <mark key="]" line="98" column="39" />
         <mark key="^" line="98" column="71" />
         <mark key="." line="98" column="39" />
-      </file>
-      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/api/node_modules/feathers-swagger/lib/index.js" timestamp="1496214421334">
-        <mark key="'" line="103" column="33" />
       </file>
       <file name="$USER_HOME$/Dev/iot-api/coap/api/models/game/game-facade.js" timestamp="1487067310569">
         <mark key="[" line="3" column="10" />
@@ -1245,9 +1241,6 @@
         <mark key="." line="9" column="17" />
         <mark key="^" line="9" column="17" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/javascript/nodejs/7.9.0/core-modules/net.js" timestamp="1496318970534">
-        <mark key="'" line="197" column="9" />
-      </file>
       <file name="$USER_HOME$/Dev/Java/search-engine/src/main/kotlin/com/inad/indexer/StopWordsRemover.kt" timestamp="1484388109060">
         <mark key="[" line="9" column="25" />
         <mark key="]" line="9" column="25" />
@@ -1586,9 +1579,6 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/api/node_modules/swagger-jsdoc/lib/index.js" timestamp="1495788006182">
-        <mark key="'" line="13" column="38" />
       </file>
       <file name="$USER_HOME$/Dev/SEO/seo-link/src/main/java/interpreter/BaseInterpreter.java" timestamp="1468851684143">
         <mark key="[" line="7" column="26" />
@@ -2795,9 +2785,6 @@
         <mark key="." line="2" column="30" />
         <mark key="^" line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/config.js" timestamp="1496420068959">
-        <mark key="'" line="14" column="46" />
-      </file>
       <file name="$USER_HOME$/Dev/api-security/api/docker-compose.override.yml" timestamp="1490029368687">
         <mark key="[" line="13" column="51" />
         <mark key="]" line="15" column="27" />
@@ -2876,6 +2863,12 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/api/package.json" timestamp="1496849352225">
+        <mark key="[" line="19" column="28" />
+        <mark key="]" line="19" column="28" />
+        <mark key="^" line="19" column="27" />
+        <mark key="." line="19" column="28" />
       </file>
       <file name="$USER_HOME$/Dev/tests/angular/front/src/app/auth/auth-routing.module.ts" timestamp="1490369854401">
         <mark key="[" line="3" column="52" />
@@ -4181,7 +4174,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>Service</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -5705,7 +5698,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>Service</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -5720,28 +5713,31 @@
         <text encoding="base64">ICBjbGllbnQucHVibGlzaCgnL3JlY29yZHMnLCAnTWVzc2FnZSBjb250ZW50Jyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFwaS5zZXJ2aWNlKCdyZWNvcmRzJyk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgaW5pdCB9IGZyb20gJy4uLy4uL2FwaSc7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpbmRleC4K</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdHViKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpbmRleC5nZXQKICAK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhtb25nbyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpbmRleC5yZWNvcmRzKCkK</text>
+        <text encoding="base64">aW1wb3J0IGluZGV4IGZyb20gJy4vaW5kZXgnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW5kZXgucmVjb3Jkcwo=</text>
+        <text encoding="base64">ICBzdHViKGluCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBpbmRleC4K</text>
+      <register name="6" type="4">
+        <text>dex, 'records', function() {
+    const api = this;
+    api.use('/records', memory());
+  });</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJ3Npbm9uJzsK</text>
+        <text encoding="base64">aW1wb3J0IGluZGV4IGZyb20gJy4vaW5kZXgnOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5750,10 +5746,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzdHViKCkK</text>
+        <text encoding="base64">aW1wb3J0IGluZGV4IGZyb20gJy4vaW5kZXgnOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhcGkudXNlKCcvcmVjb3JkcycsIG1lbW9yeSgpKTsK</text>
+        <text encoding="base64">ICAgIGFwaS5zZXJ2aWNlKCdyZWNvcmRzJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
