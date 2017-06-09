@@ -1009,10 +1009,11 @@
         <mark key="^" line="18" column="5" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/src/services/arango/db.js" timestamp="1496918747676">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/services/arango/db.js" timestamp="1497042669301">
+        <mark key="[" line="20" column="14" />
+        <mark key="]" line="20" column="21" />
+        <mark key="." line="20" column="21" />
+        <mark key="^" line="20" column="21" />
       </file>
       <file name="$USER_HOME$/Dev/Java/Mediatheque/src/main/java/com/mti/command/CommandManager.java" timestamp="1460192501397">
         <mark key="[" line="37" column="35" />
@@ -1074,6 +1075,13 @@
         <mark key="]" line="23" column="41" />
         <mark key="." line="23" column="41" />
         <mark key="^" line="23" column="41" />
+      </file>
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/services/arango/db.test.js" timestamp="1497042757740">
+        <mark key="'" line="11" column="1" />
+        <mark key="[" line="0" column="23" />
+        <mark key="]" line="1" column="35" />
+        <mark key="^" line="1" column="35" />
+        <mark key="." line="1" column="35" />
       </file>
       <file name="$USER_HOME$/Dev/dj-socket/docker-compose.override.yml" timestamp="1487684484400">
         <mark key="[" line="10" column="8" />
@@ -1525,11 +1533,11 @@
         <mark key="^" line="2" column="28" />
         <mark key="." line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/package.json" timestamp="1496881957095">
+      <file name="$USER_HOME$/Dev/baby-foot/api/package.json" timestamp="1497043614660">
         <mark key="[" line="24" column="11" />
-        <mark key="]" line="24" column="11" />
-        <mark key="." line="24" column="11" />
-        <mark key="^" line="24" column="19" />
+        <mark key="]" line="24" column="14" />
+        <mark key="." line="24" column="14" />
+        <mark key="^" line="24" column="14" />
       </file>
       <file name="$USER_HOME$/Dev/baby-foot/api/example.json" timestamp="1495275550178">
         <mark key="[" line="17" column="19" />
@@ -3929,7 +3937,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="37" filename="$USER_HOME$/Dev/baby-foot/api/src/resources/team/controller.js" />
       <jump line="1" column="24" filename="$USER_HOME$/Dev/baby-foot/api/src/resources/team/controller.js" />
       <jump line="18" column="1" filename="$USER_HOME$/Dev/baby-foot/api/src/resources/team/index.js" />
       <jump line="3" column="23" filename="$USER_HOME$/Dev/baby-foot/api/src/resources/team/index.js" />
@@ -4029,6 +4036,7 @@
       <jump line="62" column="0" filename="$USER_HOME$/Dev/baby-foot/api/scripts/db.js" />
       <jump line="11" column="16" filename="$USER_HOME$/Dev/baby-foot/api/scripts/db.js" />
       <jump line="9" column="12" filename="$USER_HOME$/Dev/baby-foot/api/src/resources/player/model.test.js" />
+      <jump line="10" column="1" filename="$USER_HOME$/Dev/baby-foot/api/src/services/arango/db.test.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4037,8 +4045,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBncmFwaE5hbWU6IHByb2Nlcy4K</text>
+      <register name="&quot;" type="4">
+        <text>db</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -5562,7 +5570,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>db</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -5577,28 +5585,32 @@
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhgVmVydGV4IGNvbGxlY3Rpb24gJyR7bmFtZX0nIGV4aXN0cy4gU2tpcHBpbmcuLi5gKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBncmFwaE5hbWU6IHByb2Nlcy4K</text>
+        <text encoding="base64">ICBjb25zdCBkYiA9IG5ldyBEYigK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>{
+    url: 
+    databaseName: 
+    retryConnection: true
+  });</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9KSk7Cg==</text>
+        <text encoding="base64">ICAgIGRhdGFiYXNlOiAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGIuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRhdGFiYXNlOiBEQl9OQU1FCg==</text>
+        <text encoding="base64">dW5vaXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG9wdHMgPSBPYmplY3QuYXNzaWduKHt9LCBjb25maWcuZGIsIG9wdGlvbnMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBncmFwaE5hbWU6IHByb2Nlcy4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdvcHRpb25zJywgb3B0aW9ucyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5607,10 +5619,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjb25maWcuZGInLCBjb25maWcpOwo=</text>
+        <text encoding="base64">ICB9KSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdvcHRzJywgb3B0cyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -5666,8 +5678,8 @@
         <entry>x</entry>
         <entry>Wq</entry>
         <entry>W</entry>
-        <entry>wq</entry>
         <entry>q</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
