@@ -1081,10 +1081,11 @@
         <mark key="^" line="18" column="5" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/src/services/arango/db.js" timestamp="1497105378224">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/services/arango/db.js" timestamp="1497107193337">
+        <mark key="[" line="17" column="23" />
+        <mark key="]" line="18" column="24" />
+        <mark key="." line="18" column="24" />
+        <mark key="^" line="18" column="24" />
       </file>
       <file name="$USER_HOME$/Dev/web-of-things/iot-poc/api/src/services/device/index.test.js" timestamp="1496070814948">
         <mark key="[" line="1" column="0" />
@@ -1159,12 +1160,12 @@
         <mark key="." line="23" column="41" />
         <mark key="^" line="23" column="41" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/src/services/arango/db.test.js" timestamp="1497105673909">
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/services/arango/db.test.js" timestamp="1497107169027">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="5" column="5" />
-        <mark key="]" line="5" column="3" />
-        <mark key="." line="5" column="3" />
-        <mark key="^" line="5" column="3" />
+        <mark key="[" line="13" column="38" />
+        <mark key="]" line="14" column="21" />
+        <mark key="." line="14" column="21" />
+        <mark key="^" line="14" column="21" />
       </file>
       <file name="$USER_HOME$/Dev/dj-socket/docker-compose.override.yml" timestamp="1487684484400">
         <mark key="[" line="10" column="8" />
@@ -4227,8 +4228,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>only</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHRoaXMuc2Vydgo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -5767,7 +5768,7 @@
         <text encoding="base64">aW1wb3J0IGhvb2tzIGZyb20gJ2ZlYXRoZXJzLWhvb2tzJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuc2Vydgo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -5776,19 +5777,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Y29uc3QgREJfTkFNRSA9ICdQbGF5ZXJEYXRhYmFzZVRlc3QnOwo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">aW1wb3J0IGNvbnN0aXR1dGUsIHsgQ29udGFpbmVyIH0gZnJvbSAnY29uc3RpdHV0ZSc7CgppbXBvcnQgeyBjb25maWcgfSBmcm9tICcuLi8uLi9jb25maWcnOwppbXBvcnQgeyBEYiB9IGZyb20gJy4uLy4uL3NlcnZpY2VzL2FyYW5nby9kYic7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">bGV0IGRiOwo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CmNvbnN0IERCX05BTUUgPSAnUGxheWVyRGF0YWJhc2VUZXN0JzsKbGV0IGRiOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5796,14 +5797,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
         <text encoding="base64">dGVzdC5iZWZvcmUoJ0NyZWF0ZSBQbGF5ZXIgY29sbGVjdGlvbicsIGFzeW5jICgpID0+IHsKICBjb25zdCBjb250YWluZXIgPSBuZXcgQ29udGFpbmVyKCk7CiAgY29udGFpbmVyLmJpbmRNZXRob2QoY29uZmlnLCAoKSA9PiB7CiAgICByZXR1cm4gewogICAgICBkYjogewogICAgICAgIGRhdGFiYXNlOiBEQl9OQU1FLAogICAgICAgIGhvc3Q6IHByb2Nlc3MuZW52LkRCX0hPU1QgfHwgJ2xvY2FsaG9zdCcsCiAgICAgICAgcG9ydDogcHJvY2Vzcy5lbnYuREJfUE9SVCwKICAgICAgICB1c2VybmFtZTogcHJvY2Vzcy5lbnYuREJfVVNFUk5BTUUsCiAgICAgICAgcGFzc3dvcmQ6IHByb2Nlc3MuZW52LkRCX1BBU1NXT1JELAogICAgICAgIGdyYXBoTmFtZTogcHJvY2Vzcy5lbnYuREJfR1JBUEhfTkFNRSB8fCAnQmFieUZvb3RHcmFwaCcKICAgICAgfQogICAgfTsKICB9KTsKICBjb25zdCBkYiA9IGNvbnRhaW5lci5jb25zdGl0dXRlKERiKTsKICBjb25zb2xlLmxvZyhkYik7CiAgLy8gY29uc3QgZ3JhcGggPSBhd2FpdCBkYi5pbml0KCk7Cn0pOwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">KTsK</text>
-      </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -5857,8 +5858,8 @@
         <entry>Wq</entry>
         <entry>W</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
