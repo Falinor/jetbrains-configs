@@ -2649,11 +2649,10 @@
         <mark key="." line="9" column="57" />
         <mark key="^" line="9" column="57" />
       </file>
-      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/api/src/services/record/api.test.js" timestamp="1496928506031">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="^" line="50" column="40" />
-        <mark key="." line="50" column="0" />
+      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/api/src/services/record/api.test.js" timestamp="1497286255680">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/wot-gateway/Dockerfile" timestamp="1493286357598">
         <mark key="[" line="5" column="0" />
@@ -4238,8 +4237,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Y2xpZW50IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBkYi5jb2xsZWN0aW9uKCcnKQo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -5778,30 +5777,30 @@
         <text encoding="base64">aW1wb3J0IGhvb2tzIGZyb20gJ2ZlYXRoZXJzLWhvb2tzJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coY29uZmlnLnVuc2VjdXJlKTsK</text>
+        <text encoding="base64">ICBkYi5jb2xsZWN0aW9uKCcnKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cocG9ydCk7Cg==</text>
+        <text encoding="base64">ICBjb25zdCAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwb3J0LCBjb25maWcucG9ydCk7Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coY29uZmlnLnVuc2VjdXJlKTsK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2cocG9ydCk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwb3J0LCBjb25maWcucG9ydCk7Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>netServer = net.createServer(server.handle);
   port = 1883;
   console.log(port, config.port);</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBuZXRTZXJ2ZXIgPSB0bHMuY3JlYXRlU2VydmVyKG9wdGlvbnMsIHNlcnZlci5oYW5kbGUpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwb3J0LCBjb25maWcucG9ydCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5810,10 +5809,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwb3J0LCBjb25maWcucG9ydCk7Cg==</text>
+        <text encoding="base64">ICBuZXRTZXJ2ZXIgPSB0bHMuY3JlYXRlU2VydmVyKG9wdGlvbnMsIHNlcnZlci5oYW5kbGUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coY29uZmlnLnNlY3VyZSwgcG9ydCk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwb3J0LCBjb25maWcucG9ydCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
