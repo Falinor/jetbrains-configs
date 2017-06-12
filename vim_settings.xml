@@ -3020,10 +3020,10 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="16" column="21" />
       </file>
-      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/user.js" timestamp="1496744346834">
+      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/user.js" timestamp="1497260687565">
         <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="2" />
-        <mark key="." line="22" column="2" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="2" />
       </file>
       <file name="$USER_HOME$/Dev/tests/angular/posts/src/app/post/shared/index.ts" timestamp="1490885245722">
@@ -3144,12 +3144,12 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="53" />
       </file>
-      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/mqtt/mqtt.js" timestamp="1497259704584">
+      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/mqtt/mqtt.js" timestamp="1497260999388">
         <mark key="'" line="9" column="0" />
-        <mark key="[" line="19" column="24" />
-        <mark key="]" line="19" column="24" />
-        <mark key="." line="19" column="24" />
-        <mark key="^" line="16" column="23" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="11" column="18" />
       </file>
       <file name="$USER_HOME$/Dev/wot-gateway/src/app.js" timestamp="1493306900686">
         <mark key="'" line="10" column="2" />
@@ -4232,8 +4232,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwYXNzd29yZC50b1N0cmluZygpKTsK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -5757,7 +5757,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">dGhpcyA=</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -5772,28 +5772,28 @@
         <text encoding="base64">aW1wb3J0IGhvb2tzIGZyb20gJ2ZlYXRoZXJzLWhvb2tzJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMub3B0cyA9IGNvbmZpZzsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwYXNzd29yZC50b1N0cmluZygpKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICovCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhjbGllbnQuaWQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjb25maWcnLCBjb25maWcpOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qCg==</text>
+        <text encoding="base64">ICAgIHRoaXMub3B0cyA9IGNvbmZpZzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICovCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjb25maWcnLCBjb25maWcpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbgo=</text>
+        <text encoding="base64">ICAgIC8qCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5808,7 +5808,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -5862,8 +5862,8 @@
         <entry>Wq</entry>
         <entry>W</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
