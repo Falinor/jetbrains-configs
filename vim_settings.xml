@@ -2366,12 +2366,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/index.js" timestamp="1497262808722">
-        <mark key="'" line="13" column="21" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="1" column="21" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/index.js" timestamp="1497272160589">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/api-security/api/src/model/user/user-router.js" timestamp="1490018667459">
         <mark key="[" line="6" column="34" />
@@ -2826,6 +2825,12 @@
         <mark key="]" line="2" column="30" />
         <mark key="." line="2" column="30" />
         <mark key="^" line="2" column="30" />
+      </file>
+      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/config.js" timestamp="1497272199211">
+        <mark key="[" line="9" column="25" />
+        <mark key="]" line="9" column="3" />
+        <mark key="." line="9" column="3" />
+        <mark key="^" line="9" column="3" />
       </file>
       <file name="$USER_HOME$/Dev/api-security/api/docker-compose.override.yml" timestamp="1490029368687">
         <mark key="[" line="13" column="51" />
@@ -4124,7 +4129,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="11" filename="$USER_HOME$/Dev/baby-foot/api/src/resources/match/model.js" />
       <jump line="1" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/resources/player/model.js" />
       <jump line="4" column="8" filename="$USER_HOME$/Dev/baby-foot/api/src/resources/edges/lost/model.js" />
       <jump line="2" column="68" filename="$USER_HOME$/Dev/baby-foot/api/src/resources/edges/lost/model.js" />
@@ -4224,6 +4228,7 @@
       <jump line="13" column="1" filename="$USER_HOME$/Dev/baby-foot/api/src/services/arango/db.test.js" />
       <jump line="2" column="27" filename="$USER_HOME$/Dev/baby-foot/api/src/services/arango/db.test.js" />
       <jump line="23" column="2" filename="$USER_HOME$/Dev/baby-foot/api/src/config/index.js" />
+      <jump line="16" column="0" filename="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4233,7 +4238,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3Qgc2VydiA9IAo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coY29uZmlnLnVuc2VjdXJlKTsK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -5757,7 +5762,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGhpcyA=</text>
+        <text>.</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -5772,28 +5777,30 @@
         <text encoding="base64">aW1wb3J0IGhvb2tzIGZyb20gJ2ZlYXRoZXJzLWhvb2tzJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3Qgc2VydiA9IAo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coY29uZmlnLnVuc2VjdXJlKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwYXNzd29yZC50b1N0cmluZygpKTsK</text>
+        <text encoding="base64">Y29uc29sZS5sb2cocG9ydCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhjbGllbnQuaWQpOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwb3J0LCBjb25maWcucG9ydCk7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMub3B0cyA9IGNvbmZpZzsK</text>
+      <register name="5" type="4">
+        <text>netServer = net.createServer(server.handle);
+  port = 1883;
+  console.log(port, config.port);</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICovCg==</text>
+        <text encoding="base64">ICBuZXRTZXJ2ZXIgPSB0bHMuY3JlYXRlU2VydmVyKG9wdGlvbnMsIHNlcnZlci5oYW5kbGUpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjb25maWcnLCBjb25maWcpOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwb3J0LCBjb25maWcucG9ydCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5802,10 +5809,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwb3J0LCBjb25maWcucG9ydCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coY29uZmlnLnNlY3VyZSwgcG9ydCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
