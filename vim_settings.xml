@@ -3061,12 +3061,12 @@
         <mark key="^" line="14" column="13" />
         <mark key="." line="14" column="13" />
       </file>
-      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/mqtt/mqtt.test.js" timestamp="1497442565775">
-        <mark key="'" line="48" column="30" />
-        <mark key="[" line="81" column="19" />
-        <mark key="]" line="81" column="34" />
-        <mark key="." line="81" column="34" />
-        <mark key="^" line="81" column="34" />
+      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/mqtt/mqtt.test.js" timestamp="1497537164723">
+        <mark key="'" line="47" column="30" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="80" column="34" />
       </file>
       <file name="$USER_HOME$/Dev/baby-foot/api/src/api/match/model.js" timestamp="1495524510729">
         <mark key="'" line="18" column="19" />
@@ -4249,8 +4249,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gVE9ETzogbW92ZSB0aGF0IGluIGludGVncmF0aW9uIHRlc3RzICh0byBiZSBhZGRlZC4uLikK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -5789,28 +5789,28 @@
         <text encoding="base64">aW1wb3J0IGhvb2tzIGZyb20gJ2ZlYXRoZXJzLWhvb2tzJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Ly8gVE9ETzogbW92ZSB0aGF0IGluIGludGVncmF0aW9uIHRlc3RzICh0byBiZSBhZGRlZC4uLikK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dGVzdC50b2RvKCcnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCBzdHViID0gc2lub24uY3JlYXRlU3R1Ykluc3RhbmNlKFNlcnZlcik7Cg==</text>
+        <text encoding="base64">dGVzdC50b2RvKCcnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB0LnRydWUoc3R1Yi5jYWxsZWQpOwo=</text>
+        <text encoding="base64">ICBjb25zdCBzdHViID0gc2lub24uY3JlYXRlU3R1Ykluc3RhbmNlKFNlcnZlcik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coY29uZmlnLnVuc2VjdXJlKTsK</text>
+        <text encoding="base64">ICB0LnRydWUoc3R1Yi5jYWxsZWQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cocG9ydCk7Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coY29uZmlnLnVuc2VjdXJlKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5819,10 +5819,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwb3J0LCBjb25maWcucG9ydCk7Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2cocG9ydCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwb3J0LCBjb25maWcucG9ydCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
