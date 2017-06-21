@@ -1093,11 +1093,11 @@
         <mark key="^" line="18" column="5" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/src/services/arango/db.js" timestamp="1498001564103">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="26" column="24" />
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/services/arango/db.js" timestamp="1498024219819">
+        <mark key="[" line="12" column="30" />
+        <mark key="]" line="12" column="32" />
+        <mark key="." line="12" column="32" />
+        <mark key="^" line="12" column="32" />
       </file>
       <file name="$USER_HOME$/Dev/web-of-things/iot-poc/api/src/services/device/index.test.js" timestamp="1496070814948">
         <mark key="[" line="1" column="0" />
@@ -1172,12 +1172,12 @@
         <mark key="." line="23" column="41" />
         <mark key="^" line="23" column="41" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/src/services/arango/db.test.js" timestamp="1498002181227">
-        <mark key="'" line="8" column="24" />
-        <mark key="[" line="9" column="20" />
-        <mark key="]" line="4" column="33" />
-        <mark key="^" line="4" column="33" />
-        <mark key="." line="4" column="33" />
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/services/arango/db.test.js" timestamp="1498024424180">
+        <mark key="'" line="13" column="47" />
+        <mark key="[" line="4" column="14" />
+        <mark key="]" line="4" column="12" />
+        <mark key="." line="4" column="12" />
+        <mark key="^" line="4" column="12" />
       </file>
       <file name="$USER_HOME$/Dev/dj-socket/docker-compose.override.yml" timestamp="1487684484400">
         <mark key="[" line="10" column="8" />
@@ -1528,11 +1528,11 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/src/config/index.js" timestamp="1498002160011">
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/config/index.js" timestamp="1498024414046">
         <mark key="'" line="22" column="2" />
-        <mark key="[" line="19" column="41" />
-        <mark key="]" line="19" column="41" />
-        <mark key="." line="19" column="41" />
+        <mark key="[" line="28" column="17" />
+        <mark key="]" line="28" column="17" />
+        <mark key="." line="28" column="17" />
         <mark key="^" line="19" column="15" />
       </file>
       <file name="$USER_HOME$/Dev/Java/exam/src/main/kotlin/com/inad/BlockValues.kt" timestamp="1484735920916">
@@ -4184,7 +4184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="8" filename="$USER_HOME$/Dev/web-of-things/iot-poc/api/src/services/record/hooks.js" />
       <jump line="22" column="2" filename="$USER_HOME$/Dev/web-of-things/iot-poc/api/src/services/record/hooks.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Dev/web-of-things/iot-poc/api/src/services/record/hooks.js" />
       <jump line="23" column="0" filename="$USER_HOME$/Dev/web-of-things/iot-poc/api/src/services/record/hooks.js" />
@@ -4284,6 +4283,7 @@
       <jump line="7" column="12" filename="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/stores/memory/index.js" />
       <jump line="23" column="2" filename="$USER_HOME$/Dev/baby-foot/api/src/services/arango/db.test.js" />
       <jump line="7" column="24" filename="$USER_HOME$/Dev/baby-foot/api/src/services/arango/db.test.js" />
+      <jump line="12" column="47" filename="$USER_HOME$/Dev/baby-foot/api/src/services/arango/db.test.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4293,7 +4293,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>localhost</text>
+        <text>}</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -5817,7 +5817,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>localhost</text>
+        <text>}</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -5837,12 +5837,21 @@
   };</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdCBvcHRpb25zID0gCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhjb25maWcpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICBkCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBjb25zdCBvcHRpb25zID0gY29uZmlnOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBjb25zdCBvcHRpb25zID0gCg==</text>
+      </register>
+      <register name="5" type="4">
         <text>{
     host: 'http://localhost',
     port: 8529,
@@ -5850,20 +5859,11 @@
     retryConnection: true
   };</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICBjb25zdCBvcHRpb25zID0K</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IHsKICAgIGhvc3Q6ICdodHRwOi8vbG9jYWxob3N0JywKICAgIHBvcnQ6IDg1MjksCiAgICBkYXRhYmFzZU5hbWU6ICdkYicsCiAgICByZXRyeUNvbm5lY3Rpb246IHRydWUKICB9Ow==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICB0LnRydWUoc3R1Yi5jYWxsZWQpOwo=</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">CmNsYXNzIEZha2VEYXRhYmFzZSB7CiAgY29uc3RydWN0b3IoY29uZmlnKSB7CiAgICB0aGlzLmNvbmZpZyA9IGNvbmZpZzsKICB9Cn0K</text>
-      </register>
       <register name="7" type="4">
-        <text encoding="base64">CnRlc3QuYWZ0ZXIuYWx3YXlzKCdDbGVhbiBkYXRhYmFzZScsIGFzeW5jIHQgPT4gewogIHN0dWIucmVzdG9yZSgpOwp9KTsK</text>
+        <text encoding="base64">IHsKICAgIGhvc3Q6ICdodHRwOi8vbG9jYWxob3N0JywKICAgIHBvcnQ6IDg1MjksCiAgICBkYXRhYmFzZU5hbWU6ICdkYicsCiAgICByZXRyeUNvbm5lY3Rpb246IHRydWUKICB9Ow==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5872,10 +5872,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0LnRydWUoc3R1Yi5jYWxsZWQpOwo=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">CmxldCBzdHViOwp0ZXN0LmJlZm9yZSgnU3R1YiBkYXRhYmFzZScsIGFzeW5jIHQgPT4gewogIHN0dWIgPSBzaW5vbi5zdHViKGFyYW5nbywgJ0RhdGFiYXNlJykuY2FsbHNGYWtlKCgpID0+IG5ldyBGYWtlRGF0YWJhc2UoKSk7Cn0pOw==</text>
+        <text encoding="base64">CmNsYXNzIEZha2VEYXRhYmFzZSB7CiAgY29uc3RydWN0b3IoY29uZmlnKSB7CiAgICB0aGlzLmNvbmZpZyA9IGNvbmZpZzsKICB9Cn0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
