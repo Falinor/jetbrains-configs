@@ -1248,11 +1248,11 @@
         <mark key="." line="19" column="25" />
         <mark key="^" line="19" column="25" />
       </file>
-      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/stores/memory/index.js" timestamp="1498141401688">
-        <mark key="[" line="22" column="33" />
-        <mark key="]" line="22" column="33" />
-        <mark key="." line="22" column="33" />
-        <mark key="^" line="23" column="7" />
+      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/stores/memory/index.js" timestamp="1498143821010">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="22" column="12" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/status-checker/back/.eslintrc.json" timestamp="1489224803224">
         <mark key="[" line="10" column="0" />
@@ -2765,12 +2765,12 @@
         <mark key="." line="7" column="61" />
         <mark key="^" line="7" column="61" />
       </file>
-      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/stores/memory/index.test.js" timestamp="1498140682747">
-        <mark key="'" line="20" column="27" />
-        <mark key="[" line="51" column="32" />
-        <mark key="]" line="52" column="31" />
-        <mark key="." line="52" column="31" />
-        <mark key="^" line="52" column="31" />
+      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/stores/memory/index.test.js" timestamp="1498143976724">
+        <mark key="'" line="73" column="0" />
+        <mark key="[" line="62" column="62" />
+        <mark key="]" line="63" column="31" />
+        <mark key="^" line="63" column="31" />
+        <mark key="." line="63" column="31" />
       </file>
       <file name="$USER_HOME$/Dev/web-of-things/iot-poc/api/src/services/floor/service.js" timestamp="1496940923543">
         <mark key="[" line="18" column="27" />
@@ -4359,12 +4359,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="0" filename="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/mqtt/listeners.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/mqtt/listeners.js" />
-      <jump line="62" column="6" filename="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/mqtt/listeners.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/stores/memory/index.js" />
-      <jump line="10" column="30" filename="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/stores/memory/index.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/stores/memory/index.js" />
       <jump line="11" column="0" filename="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/stores/memory/index.js" />
       <jump line="3" column="9" filename="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/stores/memory/index.js" />
       <jump line="8" column="18" filename="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/stores/memory/index.test.js" />
@@ -4459,6 +4453,12 @@
       <jump line="22" column="0" filename="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/stores/memory/index.test.js" />
       <jump line="3" column="0" filename="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/stores/memory/index.test.js" />
       <jump line="10" column="27" filename="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/stores/memory/index.test.js" />
+      <jump line="5" column="46" filename="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/stores/memory/index.test.js" />
+      <jump line="21" column="26" filename="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/stores/memory/index.test.js" />
+      <jump line="28" column="30" filename="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/stores/memory/index.test.js" />
+      <jump line="41" column="31" filename="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/stores/memory/index.test.js" />
+      <jump line="50" column="31" filename="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/stores/memory/index.test.js" />
+      <jump line="73" column="0" filename="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/stores/memory/index.test.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4467,8 +4467,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZWx0IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb25zdCBzdG9yZSA9IGRiLmNvbGxlY3Rpb24oJ3JlY29yZHMnKTsK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -5992,7 +5992,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZWx0IA==</text>
+        <text>sotre</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -6007,28 +6007,28 @@
         <text encoding="base64">ICB0LnRydXRoeShzdG9yZS5zYXZlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB0LmlzKGFjdHVhbC5faWQsIGV4cGVjdGVkLl9pZCk7Cg==</text>
+        <text encoding="base64">ICBjb25zdCBzdG9yZSA9IGRiLmNvbGxlY3Rpb24oJ3JlY29yZHMnKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCBzdG9yZSA9IGRiLmNvbGxlY3Rpb24oJ3JlY29yZHMnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdGVkCg==</text>
+        <text encoding="base64">ICBjb25zdCBzdG9yZSA9IGRiLmNvbGxlY3Rpb24oJ3JlY29yZHMnKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjCg==</text>
+        <text encoding="base64">ICBjb25zdCBzdG9yZSA9IGRiLmNvbGxlY3Rpb24oJ3JlY29yZHMnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBjb25zdCBzdG9yZSA9IGRiLmNvbGxlY3Rpb24oJ3JlY29yZHMnKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCBzdG9yZSA9Cg==</text>
+        <text encoding="base64">cmV0dXJuIG9iamVjdDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCAK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIG9iamVjdDsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -6037,10 +6037,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cob2JqZWN0KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCAK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZWx0KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
