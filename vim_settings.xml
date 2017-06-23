@@ -2545,12 +2545,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/index.js" timestamp="1498146220787">
-        <mark key="'" line="7" column="13" />
-        <mark key="[" line="24" column="13" />
-        <mark key="]" line="24" column="16" />
-        <mark key="." line="24" column="16" />
-        <mark key="^" line="24" column="16" />
+      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/index.js" timestamp="1498231465621">
+        <mark key="'" line="24" column="25" />
+        <mark key="[" line="36" column="9" />
+        <mark key="]" line="36" column="20" />
+        <mark key="." line="36" column="20" />
+        <mark key="^" line="36" column="20" />
       </file>
       <file name="$USER_HOME$/Dev/api-security/api/src/model/user/user-router.js" timestamp="1490018667459">
         <mark key="[" line="6" column="34" />
@@ -4418,7 +4418,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Dev/web-of-things/iot-poc/api/src/services/floor/index.js" />
       <jump line="0" column="36" filename="$USER_HOME$/Dev/web-of-things/iot-poc/api/src/app.js" />
       <jump line="3" column="0" filename="$USER_HOME$/Dev/web-of-things/iot-poc/api/swagger-spec.json" />
       <jump line="5" column="1" filename="$USER_HOME$/Dev/web-of-things/iot-poc/api/swagger-spec.json" />
@@ -4518,6 +4517,7 @@
       <jump line="137" column="44" filename="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/services/device/index.test.js" />
       <jump line="148" column="1" filename="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/services/device/index.test.js" />
       <jump line="54" column="0" filename="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/services/device/controller.js" />
+      <jump line="22" column="25" filename="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4526,8 +4526,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXMuYm9keSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>error</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -6051,7 +6051,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>status</text>
+        <text>error</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -6066,28 +6066,28 @@
         <text encoding="base64">ICByZXMuc3RhdHVzKDUwMCkuanNvbignTm90IGltcGxlbWVudGVkJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXMuYm9keSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbmZpZyBmcm9tICcuL2NvbmZpZy9pbmRleCc7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhlbnRpdHkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVudGl0eSk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhlbnRpdHkpOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXMuYm9keSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdCBzdG9yZSA9IHQuY29udGV4dC5zdG9yZTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhlbnRpdHkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVudGl0eSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0LmRlZXBFcXVhbChyZXMuYm9keSkK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhlbnRpdHkpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -6096,10 +6096,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC50aGVuKCgpID0+IHJlcy5zdGF0dXMoMjA0KS5qc29uKG51bGwpKQo=</text>
+        <text encoding="base64">ICBjb25zdCBzdG9yZSA9IHQuY29udGV4dC5zdG9yZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXMuYm9keSk7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
