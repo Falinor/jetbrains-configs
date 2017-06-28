@@ -253,11 +253,11 @@
         <mark key="^" line="4" column="37" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/stores/mongodb/index.js" timestamp="1498216845911">
-        <mark key="[" line="6" column="38" />
-        <mark key="]" line="6" column="37" />
-        <mark key="." line="6" column="37" />
-        <mark key="^" line="6" column="37" />
+      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/stores/mongodb/index.js" timestamp="1498633760591">
+        <mark key="'" line="11" column="35" />
+        <mark key="[" line="4" column="31" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/wot-authorization-server/api/src/routes/user/index.ts" timestamp="1491473672528">
         <mark key="[" line="0" column="0" />
@@ -2304,12 +2304,12 @@
         <mark key="." line="6" column="24" />
         <mark key="^" line="6" column="24" />
       </file>
-      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/index.js" timestamp="1498495331605">
-        <mark key="'" line="26" column="25" />
-        <mark key="[" line="35" column="58" />
-        <mark key="]" line="35" column="58" />
-        <mark key="." line="35" column="58" />
-        <mark key="^" line="29" column="29" />
+      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/index.js" timestamp="1498633740749">
+        <mark key="'" line="27" column="25" />
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="6" column="23" />
+        <mark key="." line="6" column="23" />
+        <mark key="^" line="6" column="23" />
       </file>
       <file name="$USER_HOME$/Dev/api-security/api/src/model/user/user-router.js" timestamp="1490018667459">
         <mark key="[" line="6" column="34" />
@@ -4055,7 +4055,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="2" filename="$USER_HOME$/Dev/web-of-things/iot-poc/api/src/config/db.test.js" />
       <jump line="9" column="78" filename="$USER_HOME$/Dev/web-of-things/iot-poc/api/package.json" />
       <jump line="49" column="7" filename="$USER_HOME$/Dev/web-of-things/iot-poc/api/package.json" />
       <jump line="15" column="15" filename="$USER_HOME$/Dev/web-of-things/iot-poc/api/src/services/floor/index.test.js" />
@@ -4155,6 +4154,7 @@
       <jump line="0" column="6" filename="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/errors/index.js" />
       <jump line="6" column="53" filename="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/middlewares/auth.js" />
       <jump line="8" column="0" filename="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/middlewares/auth.js" />
+      <jump line="7" column="35" filename="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/stores/mongodb/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4163,8 +4163,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>[</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBkYi5jb2xsZWN0aW9uKCkK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -5688,7 +5688,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text encoding="base64">YXdhaXQg</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -5703,33 +5703,28 @@
         <text encoding="base64">ICAgIC5zZXQoJ0FjY2VwdCcsICdhcHBsaWNhdGlvbi9qc29uJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBSZW1vdmUgdGhlIHF1ZXJ5IHBhcmFtZXRlciBzbyB0aGF0IGl0IGRvZXMgbm90IGJyZWFrIGRhdGFiYXNlIHNlYXJjaAo=</text>
+        <text encoding="base64">ICBkYi5jb2xsZWN0aW9uKCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZWxldGUgcmVxLgo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBSZW1vdmUgdGhlIHF1ZXJ5IHBhcmFtZXRlciBzbyB0aGF0IGl0IGRvZXMgbm90IGJyZWFrIGRhdGFiYXNlIHNlYXJjaAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBodHRwCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWxldGUgcmVxLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzZWN1cmU6IChwcm9jZXNzLmVudi5TRUNVUkUgPT09ICd0cnVlJykgfHwgZmFsc2UsCg==</text>
+        <text encoding="base64">ICBodHRwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXMuYm9keSk7Cg==</text>
+        <text encoding="base64">ICBzZWN1cmU6IChwcm9jZXNzLmVudi5TRUNVUkUgPT09ICd0cnVlJykgfHwgZmFsc2UsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXMuYm9keSk7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>new Device({
-    floor: 5,
-    area: 2,
-    username: 'adminadmin',
-    password: 'passwordpassword'
-  });</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5737,11 +5732,16 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCByZXMgPSBhd2FpdCByZXF1ZXN0Cg==</text>
+      <register name="8" type="4">
+        <text>new Device({
+    floor: 5,
+    area: 2,
+    username: 'adminadmin',
+    password: 'passwordpassword'
+  });</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCAK</text>
+        <text encoding="base64">ICBjb25zdCByZXMgPSBhd2FpdCByZXF1ZXN0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
