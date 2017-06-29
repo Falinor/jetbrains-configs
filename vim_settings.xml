@@ -100,12 +100,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/auth/src/services/index.js" timestamp="1498739866504">
+      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/auth/src/services/index.js" timestamp="1498740924183">
         <mark key="'" line="8" column="4" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="16" column="16" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="23" column="3" />
       </file>
       <file name="$USER_HOME$/Dev/portal/app/styles/main.scss" timestamp="1493242318831">
         <mark key="'" line="3" column="0" />
@@ -3236,11 +3236,11 @@
         <mark key="^" line="8" column="30" />
         <mark key="." line="8" column="30" />
       </file>
-      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/auth/src/services/index.test.js" timestamp="1498739941796">
-        <mark key="[" line="4" column="12" />
-        <mark key="]" line="4" column="26" />
-        <mark key="^" line="4" column="26" />
-        <mark key="." line="4" column="26" />
+      <file name="$USER_HOME$/Dev/web-of-things/iot-poc/auth/src/services/index.test.js" timestamp="1498740879703">
+        <mark key="[" line="6" column="31" />
+        <mark key="]" line="6" column="31" />
+        <mark key="^" line="6" column="31" />
+        <mark key="." line="6" column="31" />
       </file>
       <file name="$USER_HOME$/Dev/iot-poc-broker/.babelrc" timestamp="1496312751307">
         <mark key="[" line="4" column="5" />
@@ -4737,7 +4737,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIC4uLgo=</text>
+        <text encoding="base64">ICAgIG9hdXRoLmF1dGhvcml6ZSgpLAo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -6276,28 +6276,28 @@
         <text encoding="base64">ICAgIGltYWdlOiByZWRpczpsYXRlc3QK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIC4uLgo=</text>
+        <text encoding="base64">ICAgIG9hdXRoLmF1dGhvcml6ZSgpLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyBDaGVjayBjbGllbnQgYXNzb2NpYXRlZCB3aXRoIHRoYXQgdG9rZW4K</text>
+        <text encoding="base64">ICAgIC8vIC4uLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyBDaGVjayBhY2Nlc3MgdG9rZW4K</text>
+        <text encoding="base64">ICAvLyBDaGVjayBjbGllbnQgYXNzb2NpYXRlZCB3aXRoIHRoYXQgdG9rZW4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXN1bHQpOwoK</text>
+        <text encoding="base64">ICAvLyBDaGVjayBhY2Nlc3MgdG9rZW4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmICghdG9rZW4pCiAgICAgIHRocm93IG5ldyBFcnJvcignTm8gdG9rZW4nKTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXN1bHQpOwoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmICghdG9rZW4pCiAgICAgIHRocm93IG5ldyBFcnJvcignTm8gdG9rZW4nKTsK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICBjb25zdCB7IGFjY2Vzc1Rva2VuLCBjbGllbnRJZCwgYWNjZXNzVG9rZW5FeHBpcmVzQXQsIHVzZXJJZCB9ID0gdG9rZW47CiAgICByZXR1cm4gewogICAgICBhY2Nlc3NUb2tlbiwKICAgICAgY2xpZW50SWQsCiAgICAgIHVzZXJJZCwKICAgICAgZXhwaXJlczogYWNjZXNzVG9rZW5FeHBpcmVzQXQKICAgIH0=</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -6305,11 +6305,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBkCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICBjb25zdCB7IGFjY2Vzc1Rva2VuLCBjbGllbnRJZCwgYWNjZXNzVG9rZW5FeHBpcmVzQXQsIHVzZXJJZCB9ID0gdG9rZW47CiAgICByZXR1cm4gewogICAgICBhY2Nlc3NUb2tlbiwKICAgICAgY2xpZW50SWQsCiAgICAgIHVzZXJJZCwKICAgICAgZXhwaXJlczogYWNjZXNzVG9rZW5FeHBpcmVzQXQKICAgIH0=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZXhwaXJlczoK</text>
+        <text encoding="base64">ICBkCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
