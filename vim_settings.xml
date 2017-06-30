@@ -1412,11 +1412,11 @@
         <mark key="." line="17" column="28" />
         <mark key="^" line="17" column="28" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/docker-compose.override.yml" timestamp="1498777817559">
-        <mark key="[" line="17" column="5" />
-        <mark key="]" line="22" column="23" />
-        <mark key="^" line="22" column="23" />
-        <mark key="." line="22" column="23" />
+      <file name="$USER_HOME$/Dev/baby-foot/api/docker-compose.override.yml" timestamp="1498780413266">
+        <mark key="[" line="21" column="11" />
+        <mark key="]" line="21" column="14" />
+        <mark key="^" line="21" column="14" />
+        <mark key="." line="21" column="14" />
       </file>
       <file name="$USER_HOME$/Dev/wot-gateway/.env" timestamp="1493372364044">
         <mark key="[" line="2" column="0" />
@@ -2979,12 +2979,11 @@
         <mark key="." line="14" column="12" />
         <mark key="^" line="14" column="12" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/src/services/player/controller.js" timestamp="1498776641233">
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/services/player/controller.js" timestamp="1498780429043">
         <mark key="'" line="3" column="24" />
-        <mark key="[" line="35" column="17" />
-        <mark key="]" line="35" column="17" />
-        <mark key="." line="35" column="17" />
-        <mark key="^" line="35" column="16" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/web-of-things/iot-poc/api/src/services/floor/index.js" timestamp="1498060278119">
         <mark key="[" line="27" column="55" />
@@ -4586,7 +4585,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLSBEQl9VU0VSTkFNRT0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -6110,7 +6109,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>8529</text>
+        <text>emnt</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -6125,27 +6124,36 @@
         <text encoding="base64">ICB0LmlzKHR5cGVvZiByZXMsICdvYmplY3QnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLSBEQl9VU0VSTkFNRT0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgLSBEQl9VU0VSTkFNRT0K</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CiAgZGI6CiAgICBpbWFnZTogYXJhbmdvZGIKICAgICMgdm9sdW1lczoKICAgIHBvcnRzOgogICAgICAtICIkREJfUE9SVDo4NTI5IgogICAgZW52aXJvbm1lbnQ6CiAgICAgIC0gQVJBTkdPX05PX0FVVEg9MQ==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHBvcnRzOgo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgLSAiJEFQSV9QT1JUOiRBUElfUE9SVCIKICAgIGVudmlyb25tZW50OgogICAgICAtIFBPUlQ9JEFQSV9QT1JUCiAgICAgIC0gREJfREFUQUJBU0U9QmFieUZvb3REYgogICAgICAtIERCX0hPU1Q9aHR0cDovL2RiCiAgICAgIC0gREJfUE9SVD04NTI5</text>
       </register>
-      <register name="7" type="4">
+      <register name="w" type="4">
+        <keys>
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="8" type="4">
         <text>ports:
       - &quot;$API_PORT:$API_PORT&quot;
     environment:
@@ -6154,17 +6162,8 @@
       - DB_HOST=http://db
       - DB_PORT=8529</text>
       </register>
-      <register name="w" type="4">
-        <keys>
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="27" mods="0" />
-        </keys>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLSAK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBvcnRzOgo=</text>
+        <text encoding="base64">ICAgICAgLSAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
