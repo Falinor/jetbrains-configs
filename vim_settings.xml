@@ -3205,6 +3205,13 @@
         <mark key="." line="11" column="46" />
         <mark key="^" line="11" column="46" />
       </file>
+      <file name="$USER_HOME$/Dev/web-of-things/iot-poc-device/mock/package.json" timestamp="1499273231136">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="6" column="7" />
+        <mark key="^" line="6" column="7" />
+        <mark key="." line="6" column="7" />
+      </file>
       <file name="$USER_HOME$/Dev/Java/exam/src/main/kotlin/com/inad/units/agents/ProbeAgent.kt" timestamp="1484756552065">
         <mark key="[" line="4" column="21" />
         <mark key="]" line="4" column="26" />
@@ -4343,6 +4350,13 @@
         <mark key="." line="7" column="3" />
         <mark key="^" line="7" column="3" />
       </file>
+      <file name="$USER_HOME$/Dev/web-of-things/iot-poc-device/mock/src/index.js" timestamp="1499274188134">
+        <mark key="'" line="15" column="50" />
+        <mark key="[" line="13" column="25" />
+        <mark key="]" line="13" column="24" />
+        <mark key="." line="13" column="24" />
+        <mark key="^" line="13" column="24" />
+      </file>
       <file name="$USER_HOME$/Dev/baby-foot/web/src/app/match/shared/match.service.ts" timestamp="1495710718611">
         <mark key="'" line="17" column="24" />
         <mark key="[" line="20" column="8" />
@@ -4415,11 +4429,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="2" filename="$USER_HOME$/Dev/web-of-things/iot-poc/auth/src/services/auth/api-key/index.test.js" />
-      <jump line="33" column="2" filename="$USER_HOME$/Dev/web-of-things/iot-poc/auth/src/services/auth/api-key/index.test.js" />
-      <jump line="26" column="0" filename="$USER_HOME$/Dev/web-of-things/iot-poc/auth/src/services/auth/api-key/index.test.js" />
-      <jump line="3" column="15" filename="$USER_HOME$/Dev/web-of-things/iot-poc/auth/src/services/auth/api-key/index.js" />
-      <jump line="2" column="26" filename="$USER_HOME$/Dev/web-of-things/iot-poc/auth/src/services/auth/api-key/index.js" />
       <jump line="1" column="0" filename="$USER_HOME$/Dev/web-of-things/iot-poc/auth/src/services/auth/api-key/index.js" />
       <jump line="6" column="41" filename="$USER_HOME$/Dev/web-of-things/iot-poc/auth/src/services/auth/api-key/index.js" />
       <jump line="9" column="55" filename="$USER_HOME$/Dev/web-of-things/iot-poc/auth/src/services/auth/api-key/index.js" />
@@ -4515,6 +4524,11 @@
       <jump line="124" column="2" filename="$USER_HOME$/Dev/web-of-things/iot-poc-broker/README.md" />
       <jump line="113" column="0" filename="$USER_HOME$/Dev/web-of-things/iot-poc-broker/README.md" />
       <jump line="76" column="53" filename="$USER_HOME$/Dev/web-of-things/iot-poc-broker/README.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dev/web-of-things/iot-poc-device/mock/package.json" />
+      <jump line="4" column="1" filename="$USER_HOME$/Dev/web-of-things/iot-poc-device/mock/src/index.js" />
+      <jump line="11" column="11" filename="$USER_HOME$/Dev/web-of-things/iot-poc-device/mock/src/index.js" />
+      <jump line="5" column="23" filename="$USER_HOME$/Dev/web-of-things/iot-poc-device/mock/src/index.js" />
+      <jump line="12" column="50" filename="$USER_HOME$/Dev/web-of-things/iot-poc-device/mock/src/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4524,7 +4538,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>3000</text>
+        <text encoding="base64">YnJva2VyVVJMIA==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -6048,7 +6062,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>3000</text>
+        <text encoding="base64">YnJva2VyVVJMIA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -6063,35 +6077,28 @@
         <text encoding="base64">ICAgIGFwcC51c2UobWlkZGxld2FyZXMuc3dhZ2dlclNlY3VyaXR5KCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">e30K</text>
+        <text encoding="base64">ICAgIHRlbXBlcmF0dXJlOiByYW5kb20uY3JlYXRlKCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZsb29yOgo=</text>
       </register>
-      <register name="3" type="4">
-        <text>{
-  _id: string,
-  clientId: string,
-  floor: number,
-  area: number,
-  username: string,
-  created
-}</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHRlbXBlcmF0dXJlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBfaWQ6IHN0cmluZwo=</text>
+        <text encoding="base64">ICByZXR1cm4gcmFuZG9tCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBfaWQ6IAo=</text>
+        <text encoding="base64">ICByZXR1cm4gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNsaWVudElkOiBzdHJpbmcsCg==</text>
+        <text encoding="base64">ICByYW5kb20K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBwYXNzd29yZDogc3RyaW5nCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">CmNsaWVudC5vbignY29ubmVjdCcsICgpID0+IHsKICBzZXRJbnRlcnZhbChpZCA9PiB7CiAgICBwdWJsaXNoKCk7CiAgfSwgcHJvY2Vzcy5lbnYuUFVCX0lOVEVSVkFMIHx8IDMwMDAwKTsKfSk7</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -6100,13 +6107,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhc3N3b3JkOiBzdHJpbmcK</text>
+        <text encoding="base64">ICAgICJtb25pdG9yIjogInBtMiBsb2ciCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjcmVhdGVkQXQ6IERhdGUgYXMgc3RyaW5nCg==</text>
+        <text encoding="base64">ICBjbGllbnQucHVibGlzaCgnL3JlY29yZHMnLCkK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -6159,9 +6166,9 @@
         <entry encoding="base64">JzwsJz5zL2RiLmNvbGxlY3Rpb24oJ2RldmVsb3BlcnMnKS9kZXZlbG9wZXJzL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3N0b3JlL2Zsb29yU3RvcmUvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3N0b3JlL3JlY29yZFN0b3JlL2c=</entry>
+        <entry>wq</entry>
         <entry>q</entry>
         <entry>w</entry>
-        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
