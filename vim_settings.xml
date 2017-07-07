@@ -2756,6 +2756,13 @@
         <mark key="^" line="57" column="1" />
         <mark key="." line="57" column="1" />
       </file>
+      <file name="$USER_HOME$/Dev/baby-foot/api/docs/paths/match/match.yml" timestamp="1499440647415">
+        <mark key="'" line="39" column="26" />
+        <mark key="[" line="39" column="6" />
+        <mark key="]" line="39" column="27" />
+        <mark key="." line="39" column="27" />
+        <mark key="^" line="39" column="27" />
+      </file>
       <file name="$USER_HOME$/Dev/PFEE/development/frontend/commons/Dockerfile" timestamp="1488267734357">
         <mark key="[" line="9" column="36" />
         <mark key="]" line="9" column="22" />
@@ -3208,12 +3215,12 @@
         <mark key="." line="7" column="35" />
         <mark key="^" line="7" column="35" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/docs/paths/match/team.yml" timestamp="1499436635540">
-        <mark key="'" line="4" column="30" />
-        <mark key="[" line="18" column="34" />
-        <mark key="]" line="26" column="29" />
-        <mark key="^" line="26" column="29" />
-        <mark key="." line="26" column="29" />
+      <file name="$USER_HOME$/Dev/baby-foot/api/docs/paths/match/team.yml" timestamp="1499441252384">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="14" column="24" />
+        <mark key="]" line="14" column="36" />
+        <mark key="^" line="14" column="36" />
+        <mark key="." line="14" column="36" />
       </file>
       <file name="$USER_HOME$/Dev/web-of-things/wot-dashboard/front/src/app/auth/shared/user.model.ts" timestamp="1491405325463">
         <mark key="[" line="2" column="18" />
@@ -4210,11 +4217,11 @@
         <mark key="^" line="5" column="16" />
         <mark key="." line="5" column="16" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/docs/paths/index.yml" timestamp="1499436487421">
+      <file name="$USER_HOME$/Dev/baby-foot/api/docs/paths/index.yml" timestamp="1499441164049">
         <mark key="'" line="20" column="0" />
-        <mark key="[" line="7" column="24" />
-        <mark key="]" line="10" column="23" />
-        <mark key="." line="10" column="23" />
+        <mark key="[" line="6" column="1" />
+        <mark key="]" line="6" column="1" />
+        <mark key="." line="6" column="1" />
         <mark key="^" line="10" column="23" />
       </file>
       <file name="$USER_HOME$/Dev/web-of-things/baby-foot/api/src/api/match/model.test.js" timestamp="1494432843887">
@@ -4225,12 +4232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="1" filename="$USER_HOME$/Dev/baby-foot/api/src/services/match/model.test.js" />
-      <jump line="2" column="9" filename="$USER_HOME$/Dev/baby-foot/api/src/services/match/model.test.js" />
-      <jump line="7" column="21" filename="$USER_HOME$/Dev/baby-foot/api/src/services/match/model.test.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/services/match/model.test.js" />
-      <jump line="19" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/services/match/model.test.js" />
-      <jump line="45" column="41" filename="$USER_HOME$/Dev/baby-foot/api/src/services/match/model.test.js" />
       <jump line="47" column="71" filename="$USER_HOME$/Dev/baby-foot/api/src/services/match/model.test.js" />
       <jump line="5" column="14" filename="$USER_HOME$/Dev/baby-foot/api/src/components/model/index.test.js" />
       <jump line="11" column="24" filename="$USER_HOME$/Dev/baby-foot/api/src/services/match/model.test.js" />
@@ -4325,6 +4326,12 @@
       <jump line="3" column="36" filename="$USER_HOME$/Dev/baby-foot/api/docs/paths/match/team.yml" />
       <jump line="18" column="33" filename="$USER_HOME$/Dev/baby-foot/api/docs/paths/match/team.yml" />
       <jump line="4" column="30" filename="$USER_HOME$/Dev/baby-foot/api/docs/paths/match/team.yml" />
+      <jump line="9" column="12" filename="$USER_HOME$/Dev/baby-foot/api/docs/paths/match/team.yml" />
+      <jump line="19" column="16" filename="$USER_HOME$/Dev/baby-foot/api/docs/paths/match/team.yml" />
+      <jump line="6" column="16" filename="$USER_HOME$/Dev/baby-foot/api/docs/paths/match/team.yml" />
+      <jump line="24" column="6" filename="$USER_HOME$/Dev/baby-foot/api/docs/paths/match/team.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dev/baby-foot/api/docs/paths/match/team.yml" />
+      <jump line="39" column="26" filename="$USER_HOME$/Dev/baby-foot/api/docs/paths/match/match.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4334,7 +4341,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>getRedTeamFromMatch</text>
+        <text>/</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -5858,7 +5865,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>getRedTeamFromMatch</text>
+        <text>/</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -5873,28 +5880,28 @@
         <text encoding="base64">ICB0LnRydWUocmVzU3R1Yi5zdGF0dXMuY2FsbGVkV2l0aEV4YWN0bHkoMjAxKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ci90ZWFtcy97aWR9L3JlZDoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAkcmVmOiAuL3RlYW0vdGVhbS55bWwK</text>
+      <register name="2" type="4">
+        <text encoding="base64">Ci9yZWQ6CiAgZ2V0OgogICAgc3VtbWFyeTogR2V0IHRoZSByZWQgdGVhbQogICAgZGVzY3JpcHRpb246ID4KICAgICAgUmV0cmlldmVzIHRoZSByZWQgdGVhbSBhc3NvY2lhdGVkIHdpdGgKICAgICAgdGhpcyBtYXRjaC4KICAgIG9wZXJhdGlvbklkOiBnZXRSZWRUZWFtRnJvbU1hdGNoCiAgICB0YWdzOgogICAgICAtIG1hdGNoZXMKICAgICAgLSBlZGdlcwogICAgcmVzcG9uc2VzOgogICAgICAyMDA6CiAgICAgICAgZGVzY3JpcHRpb246IE9LCiAgICAgIDQwNDoKICAgICAgICBkZXNjcmlwdGlvbjogTm90IGZvdW5k</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmVkOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAkcmVmOiAuL3BhdGhzL21hdGNoLWVkZ2VzLnltbAo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">CmRlbGV0ZToKICBzdW1tYXJ5OiBEZWxldGUgYSBtYXRjaAogIGRlc2NyaXB0aW9uOiA+CiAgICBEZXNjcmlwdGlvbgogIG9wZXJhdGlvbklkOiBkZWxldGVNYXRjaAogIHRhZ3M6CiAgICAtIG1hdGNoZXMKICByZXNwb25zZXM6CiAgICAyMDQ6CiAgICAgIGRlc2NyaXB0aW9uOiBObyBjb250ZW50CiAgICA0MDQ6CiAgICAgIGRlc2NyaXB0aW9uOiBOb3QgZm91bmQ=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAkcmVmOiAuL3BhdGhzL21hdGNoLWVkZ2VzLnltbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiRyZWY6IC4vbWF0Y2gtZWRnZXMueW1sCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CnB1dDoKICBzdW1tYXJ5OiBSZXBsYWNlIG9yIGNyZWF0ZSBhIG1hdGNoCiAgZGVzY3JpcHRpb246ID4KICAgIERlc2NyaXB0aW9uCiAgb3BlcmF0aW9uSWQ6IHJlcGxhY2VPckNyZWF0ZU1hdGNoCiAgdGFnczoKICAgIC0gbWF0Y2hlcwogIHJlc3BvbnNlczoKICAgIDIwMDoKICAgICAgZGVzY3JpcHRpb246IE9LCiAgICAyMDE6CiAgICAgIGRlc2NyaXB0aW9uOiBDcmVhdGVkCiAgICA0MDQ6CiAgICAgIGRlc2NyaXB0aW9uOiBOb3QgZm91bmQ=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgRWRnZQo=</text>
+        <text encoding="base64">ICAgIC0gTWF0Y2hlcwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5903,10 +5910,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">JHJlZjogLi90ZWFtLWVkZ2VzLnltbAo=</text>
+        <text encoding="base64">ICAgIC0gTWF0Y2hlcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIC0gZWRnZXMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
