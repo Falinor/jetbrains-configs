@@ -92,10 +92,11 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/src/services/match/controller.js" timestamp="1499601477122">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/services/match/controller.js" timestamp="1499626677447">
+        <mark key="[" line="25" column="57" />
+        <mark key="]" line="25" column="54" />
+        <mark key="." line="25" column="54" />
+        <mark key="^" line="25" column="54" />
       </file>
       <file name="$USER_HOME$/Dev/musicus/src/client/tools/tasks/seed/build.assets.dev.ts" timestamp="1465999579078">
         <mark key="[" line="13" column="37" />
@@ -3043,11 +3044,12 @@
         <mark key="^" line="68" column="23" />
         <mark key="." line="50" column="7" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/src/services/match/controller.test.js" timestamp="1499609785077">
-        <mark key="[" line="67" column="51" />
-        <mark key="]" line="67" column="50" />
-        <mark key="^" line="67" column="50" />
-        <mark key="." line="67" column="50" />
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/services/match/controller.test.js" timestamp="1499663651819">
+        <mark key="'" line="69" column="0" />
+        <mark key="[" line="71" column="2" />
+        <mark key="]" line="71" column="4" />
+        <mark key="." line="71" column="4" />
+        <mark key="^" line="71" column="4" />
       </file>
       <file name="$USER_HOME$/Dev/web-of-things/iot-poc/api/.babelrc" timestamp="1495809684650">
         <mark key="[" line="1" column="14" />
@@ -4467,8 +4469,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="2" filename="$USER_HOME$/Dev/web-of-things/iot-poc/auth/src/services/auth/api-key/middlewares.js" />
-      <jump line="5" column="3" filename="$USER_HOME$/Dev/web-of-things/iot-poc/auth/src/services/auth/api-key/middlewares.js" />
       <jump line="9" column="14" filename="$USER_HOME$/Dev/web-of-things/iot-poc/auth/src/services/auth/api-key/middlewares.js" />
       <jump line="0" column="35" filename="$USER_HOME$/Dev/web-of-things/iot-poc/auth/src/services/auth/api-key/middlewares.js" />
       <jump line="33" column="3" filename="$USER_HOME$/Dev/web-of-things/iot-poc/auth/src/services/auth/api-key/controller.js" />
@@ -4567,6 +4567,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Dev/web-of-things/iot-poc-broker/src/services/device/model.js" />
       <jump line="16" column="15" filename="$USER_HOME$/Dev/baby-foot/api/docs/definitions/match.yml" />
       <jump line="14" column="26" filename="$USER_HOME$/Dev/baby-foot/api/docs/definitions/match.yml" />
+      <jump line="54" column="13" filename="$USER_HOME$/Dev/baby-foot/api/src/services/match/controller.test.js" />
+      <jump line="69" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/services/match/controller.test.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4576,7 +4578,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>calledOnce</text>
+        <text>todo</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -6100,7 +6102,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>calledOnce</text>
+        <text>todo</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -6115,28 +6117,28 @@
         <text encoding="base64">ICB0LnRydWUocmVzLnN0YXR1cy5jYWxsZWRPbmNlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByZXMuc3RhdHVzID0gc2lub24uc3R1YigpLnJldHVybnMocmVzKTsK</text>
+        <text encoding="base64">dGVzdC50b2RvKCdTaG91bGQgJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZXMuanNvbiA9IHNpbm9uLnN0dWIoKS5yZXR1cm5zKHJlcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICByZXMuc3RhdHVzID0gc2lub24uc3R1YigpLnJldHVybnMocmVzKTsK</text>
+        <text encoding="base64">dGVzdCgnU2hvdWxkICcpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICByZXMuanNvbiA9IHNpbm9uLnN0dWIoKS5yZXR1cm5zKHJlcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBycy4K</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnMK</text>
+        <text encoding="base64">ICByZXMuc3RhdHVzKDUwMCkuanNvbignTm90IGltcGxlbWVudGVkJyk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -6145,10 +6147,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCBzdHViID0gc2lub24uc3R1Yihtb2RlbCkK</text>
+        <text encoding="base64">ICBjb25zb2xlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICByZXMuc3RhdHVzID0gc2lub24uc3R1YigpLnJldHVybnMocmVzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
