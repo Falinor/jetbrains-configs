@@ -4159,6 +4159,13 @@
         <mark key="." line="1" column="43" />
         <mark key="^" line="1" column="43" />
       </file>
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/components/model/index.test.js" timestamp="1499718470615">
+        <mark key="'" line="2" column="36" />
+        <mark key="[" line="2" column="24" />
+        <mark key="]" line="2" column="32" />
+        <mark key="^" line="2" column="32" />
+        <mark key="." line="2" column="32" />
+      </file>
       <file name="$USER_HOME$/Dev/Java/my-blogger/src/main/java/com/mti/examjee/controllers/AuthController.java" timestamp="1473516582227">
         <mark key="[" line="29" column="4" />
         <mark key="]" line="29" column="10" />
@@ -4495,9 +4502,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="30" filename="$USER_HOME$/Dev/web-of-things/iot-poc/api/src/services/floor/index.js" />
-      <jump line="1" column="7" filename="$USER_HOME$/Dev/web-of-things/iot-poc/api/src/components/mongo/index.js" />
-      <jump line="3" column="19" filename="$USER_HOME$/Dev/web-of-things/iot-poc/api/src/components/mongo/index.js" />
       <jump line="29" column="26" filename="$USER_HOME$/Dev/web-of-things/iot-poc/api/src/services/record/index.test.js" />
       <jump line="46" column="4" filename="$USER_HOME$/Dev/web-of-things/iot-poc/api/src/services/record/index.test.js" />
       <jump line="39" column="4" filename="$USER_HOME$/Dev/web-of-things/iot-poc/api/src/services/record/index.test.js" />
@@ -4595,6 +4599,9 @@
       <jump line="1" column="23" filename="$USER_HOME$/Dev/baby-foot/api/src/components/arango/index.test.js" />
       <jump line="17" column="22" filename="$USER_HOME$/Dev/baby-foot/api/package.json" />
       <jump line="11" column="9" filename="$USER_HOME$/Dev/baby-foot/api/src/services/match/index.test.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/components/model/index.test.js" />
+      <jump line="12" column="1" filename="$USER_HOME$/Dev/baby-foot/api/src/components/model/index.test.js" />
+      <jump line="2" column="36" filename="$USER_HOME$/Dev/baby-foot/api/src/components/model/index.test.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4604,7 +4611,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">dHlwZW9mIA==</text>
+        <text>model</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -6128,7 +6135,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dHlwZW9mIA==</text>
+        <text>model</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -6179,7 +6186,7 @@
         <text encoding="base64">ICAgIHN0b3JlOiBncmFwaC52ZXJ0ZXhDb2xsZWN0aW9uKHN0b3JlTmFtZSksCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qall</text>
       </register>
     </registers>
     <search>
@@ -6215,7 +6222,6 @@
         <entry>store</entry>
       </history-search>
       <history-cmd>
-        <entry>qwq</entry>
         <entry>weq</entry>
         <entry encoding="base64">JzwsJz5zLyIvJ2cvZw==</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy8gZw==</entry>
@@ -6235,6 +6241,7 @@
         <entry>wq</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>qall</entry>
       </history-cmd>
       <history-expr />
       <history-input />
