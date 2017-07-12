@@ -4417,12 +4417,12 @@
         <mark key="^" line="1" column="17" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/src/services/match/index.test.js" timestamp="1499887680234">
-        <mark key="'" line="57" column="23" />
-        <mark key="[" line="79" column="2" />
-        <mark key="]" line="80" column="1" />
-        <mark key="^" line="80" column="1" />
-        <mark key="." line="80" column="1" />
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/services/match/index.test.js" timestamp="1499890506457">
+        <mark key="'" line="65" column="2" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="38" />
+        <mark key="." line="67" column="0" />
+        <mark key="^" line="65" column="1" />
       </file>
       <file name="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/mqtt/mqtt.test.js" timestamp="1498133246996">
         <mark key="'" line="53" column="30" />
@@ -4544,8 +4544,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="2" filename="$USER_HOME$/Dev/web-of-things/iot-poc/api/src/index.js" />
-      <jump line="14" column="2" filename="$USER_HOME$/Dev/web-of-things/iot-poc/api/src/index.js" />
       <jump line="11" column="4" filename="$USER_HOME$/Dev/web-of-things/iot-poc/api/src/index.js" />
       <jump line="4" column="0" filename="$USER_HOME$/Dev/web-of-things/iot-poc/api/src/components/swagger/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Dev/web-of-things/iot-poc/api/src/components/swagger/index.js" />
@@ -4644,6 +4642,8 @@
       <jump line="58" column="21" filename="$USER_HOME$/Dev/baby-foot/api/src/services/match/index.test.js" />
       <jump line="45" column="15" filename="$USER_HOME$/Dev/baby-foot/api/src/services/match/index.test.js" />
       <jump line="57" column="23" filename="$USER_HOME$/Dev/baby-foot/api/src/services/match/index.test.js" />
+      <jump line="82" column="14" filename="$USER_HOME$/Dev/baby-foot/api/src/services/match/index.test.js" />
+      <jump line="66" column="2" filename="$USER_HOME$/Dev/baby-foot/api/src/services/match/index.test.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4652,8 +4652,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>todo</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB0LmlzKHR5cGVvZiBzYXZlZC52ZXJ0ZXgsICdvYmplY3QnKTsK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -6188,35 +6188,32 @@
       <register name="/" type="4">
         <text>store</text>
       </register>
-      <register name="0" type="4">
-        <text>t.true(res.status.calledOnce);
-  t.true(res.status.calledWithExactly(200));
-  t.true(res.json.calledOnce);
-  t.true(res.json.calledWithExactly({}));</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICB0LmlzKHR5cGVvZiBzYXZlZC52ZXJ0ZXgsICdvYmplY3QnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0LmlzKHR5cGVvZiBzYXZlZC52ZXJ0ZXgsICdvYmplY3QnKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzYXZlZCk7Cg==</text>
+        <text encoding="base64">ICB0LmlzKHNhdmVkLmVycm9yLCBmYWxzZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0LmlzKHR5cGVvZiBzYXZlZC52ZXJ0ZXgsICdvYmplY3QnKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dGVzdC50b2RvKCdHRVQgL21hdGNoZXMgLSA0MDAgQmFkIHJlcXVlc3QnKTsK</text>
+        <text encoding="base64">ICB0LmlzKHR5cGVvZiBzYXZlZC52ZXJ0ZXgsICdvYmplY3QnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXMuYm9keSk7CiAgCg==</text>
+        <text encoding="base64">ICB0LmlzKHR5cGVvZiBzYXZlZC52ZXJ0ZXgsICdvYmplY3QnKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB0LmlzKHR5cGVvZiByZXMuYm9keSwgJycpOwo=</text>
+        <text encoding="base64">ICB0LmlzKHJlcy5ib2R5LikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0LmlzKHJlcy5ib2R5LikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -6225,10 +6222,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzYXZlZCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dGVzdC50b2RvKCdQT1NUIC9tYXRjaGVzIC0gNDA0IE5vdCBmb3VuZCcpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
