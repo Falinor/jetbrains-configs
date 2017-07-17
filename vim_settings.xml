@@ -4492,11 +4492,12 @@
         <mark key="^" line="1" column="17" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/src/services/match/index.test.js" timestamp="1500319898551">
-        <mark key="'" line="102" column="6" />
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="0" />
-        <mark key="." line="110" column="0" />
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/services/match/index.test.js" timestamp="1500332582784">
+        <mark key="'" line="60" column="2" />
+        <mark key="[" line="119" column="11" />
+        <mark key="]" line="119" column="15" />
+        <mark key="." line="119" column="15" />
+        <mark key="^" line="119" column="15" />
       </file>
       <file name="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/mqtt/mqtt.test.js" timestamp="1498133246996">
         <mark key="'" line="53" column="30" />
@@ -4625,7 +4626,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="19" filename="$USER_HOME$/Dev/web-of-things/iot-poc/api/.env" />
       <jump line="29" column="0" filename="$USER_HOME$/Dev/web-of-things/iot-poc-broker/README.md" />
       <jump line="30" column="0" filename="$USER_HOME$/Dev/web-of-things/iot-poc-broker/README.md" />
       <jump line="1" column="0" filename="$USER_HOME$/Dev/web-of-things/iot-poc-broker/README.md" />
@@ -4725,6 +4725,7 @@
       <jump line="2" column="19" filename="$USER_HOME$/Dev/baby-foot/api/src/services/player/model.test.js" />
       <jump line="6" column="28" filename="$USER_HOME$/Dev/baby-foot/api/src/services/index.test.js" />
       <jump line="1" column="25" filename="$USER_HOME$/Dev/baby-foot/api/src/services/index.test.js" />
+      <jump line="59" column="2" filename="$USER_HOME$/Dev/baby-foot/api/src/services/match/index.test.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4734,7 +4735,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>object</text>
+        <text encoding="base64">R0VUIA==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -6258,7 +6259,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>object</text>
+        <text encoding="base64">R0VUIA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -6270,31 +6271,31 @@
         <text>aran</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB0LmlzKHR5cGVvZiBtb2RlbC5maW5kLCAnZnVuY3Rpb24nKTsK</text>
+        <text encoding="base64">dGVzdC50b2RvKCdHRVQgL21hdGNoZXMvOmlkL3JlZCAtIDQwNCBOb3QgZm91bmQnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnRyb2xsZXIubG9zZXJzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnRyb2xsZXIud2lubmVycwo=</text>
+        <text encoding="base64">dGVzdC50b2RvKCdHRVQgL21hdGNoZXMvOmlkL3JlZCAtIDQwMCBCYWQgcmVxdWVzdCcpOwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICB0LmlzKHR5cGVvZiByb3V0ZXIsICdvYmplY3QnKTsK</text>
+      <register name="3" type="4">
+        <text encoding="base64">dGVzdCgnR0VUIC9tYXRjaGVzIC0gMjAwIE9LJywgYXN5bmMgdCA9PiB7CiAgY29uc3Qgc2F2ZWQgPSBhd2FpdCB0LmNvbnRleHQuc3RvcmUuc2F2ZShtYXRjaCk7CiAgdC5pcyhzYXZlZC5lcnJvciwgZmFsc2UpOwogIHQuaXMoc2F2ZWQuY29kZSwgMjAyKTsKICB0LmlzKHR5cGVvZiBzYXZlZC52ZXJ0ZXgsICdvYmplY3QnKTsKICBjb25zdCByZXMgPSBhd2FpdCByZXF1ZXN0KHQuY29udGV4dC5hcGkpCiAgICAuZ2V0KCcvbWF0Y2hlcycpCiAgICAuc2V0KCdBY2NlcHQnLCAnYXBwbGljYXRpb24vanNvbicpCiAgICAuc2V0KCdDb250ZW50LVR5cGUnLCAnYXBwbGljYXRpb24vanNvbicpOwogIHQuaXModHlwZW9mIHJlcywgJ29iamVjdCcpOwogIHQuaXMocmVzLnN0YXR1cywgMjAwKTsKICB0LnRydWUoQXJyYXkuaXNBcnJheShyZXMuYm9keSkpOwogIHQudHJ1ZShyZXMuYm9keS5sZW5ndGggPj0gMCk7Cn0pOw==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCBhcmFuZ28gPSAK</text>
+        <text encoding="base64">dGVzdC50b2RvKCdHRVQgL21hdGNoZXMvOmlkIC0gNDAwIEJhZCByZXF1ZXN0Jyk7Cgo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ewogICAgZ3JhcGg6IHsKICAgICAgdmVydGV4Q29sbGVjdGlvbjogKG5hbWUpID0+IHt9LAogICAgICBlZGdlQ29sbGVjdGlvbjogKG5hbWUpID0+IHt9CiAgICB9CiAgfTs=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHBsYXllciBmcm9tICcuL3BsYXllcic7CmltcG9ydCB0ZWFtIGZyb20gJy4vdGVhbSc7Cg==</text>
+        <text encoding="base64">dGVzdC50b2RvKCdQT1NUIC9tYXRjaGVzIC0gNDAwIEJhZCByZXF1ZXN0Jyk7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgcm91dGVyLmdldCgnL21hdGNoZXMnLAogICAgY29udHJvbGxlci5maW5kCiAgKTs=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbnRyb2xsZXIubG9zZXJzCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -6303,10 +6304,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVkZ2VDb2xsZWN0aW9uKCdwbGF5ZWQnKSwKICAgIGdyYXBoLmVkZ2VDb2xsZWN0aW9uKCdtZW1iZXJPZicpCg==</text>
+        <text encoding="base64">ICAgIGNvbnRyb2xsZXIud2lubmVycwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVkZ2VDb2xsZWN0aW9uKCdwbGF5ZWQnKSwKICAgIGdyYXBoLmVkZ2VDb2xsZWN0aW9uKCdtZW1iZXJPZicpCg==</text>
+        <text encoding="base64">ICB0LmlzKHR5cGVvZiByb3V0ZXIsICdvYmplY3QnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
