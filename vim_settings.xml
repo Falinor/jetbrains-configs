@@ -4492,12 +4492,12 @@
         <mark key="^" line="1" column="17" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/src/services/match/index.test.js" timestamp="1500333961230">
-        <mark key="'" line="60" column="2" />
-        <mark key="[" line="31" column="27" />
-        <mark key="]" line="31" column="26" />
-        <mark key="." line="31" column="26" />
-        <mark key="^" line="31" column="26" />
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/services/match/index.test.js" timestamp="1500335316349">
+        <mark key="'" line="126" column="0" />
+        <mark key="[" line="34" column="27" />
+        <mark key="]" line="43" column="27" />
+        <mark key="." line="43" column="27" />
+        <mark key="^" line="43" column="27" />
       </file>
       <file name="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/mqtt/mqtt.test.js" timestamp="1498133246996">
         <mark key="'" line="53" column="30" />
@@ -4626,7 +4626,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="0" filename="$USER_HOME$/Dev/web-of-things/iot-poc-broker/README.md" />
       <jump line="30" column="0" filename="$USER_HOME$/Dev/web-of-things/iot-poc-broker/README.md" />
       <jump line="1" column="0" filename="$USER_HOME$/Dev/web-of-things/iot-poc-broker/README.md" />
       <jump line="10" column="8" filename="$USER_HOME$/Dev/web-of-things/iot-poc-broker/README.md" />
@@ -4698,7 +4697,6 @@
       <jump line="10" column="15" filename="$USER_HOME$/Dev/baby-foot/api/src/services/match/controller.js" />
       <jump line="8" column="21" filename="$USER_HOME$/Dev/baby-foot/api/src/services/match/index.js" />
       <jump line="58" column="21" filename="$USER_HOME$/Dev/baby-foot/api/src/services/match/index.test.js" />
-      <jump line="45" column="15" filename="$USER_HOME$/Dev/baby-foot/api/src/services/match/index.test.js" />
       <jump line="57" column="23" filename="$USER_HOME$/Dev/baby-foot/api/src/services/match/index.test.js" />
       <jump line="82" column="14" filename="$USER_HOME$/Dev/baby-foot/api/src/services/match/index.test.js" />
       <jump line="66" column="2" filename="$USER_HOME$/Dev/baby-foot/api/src/services/match/index.test.js" />
@@ -4726,6 +4724,8 @@
       <jump line="6" column="28" filename="$USER_HOME$/Dev/baby-foot/api/src/services/index.test.js" />
       <jump line="1" column="25" filename="$USER_HOME$/Dev/baby-foot/api/src/services/index.test.js" />
       <jump line="59" column="2" filename="$USER_HOME$/Dev/baby-foot/api/src/services/match/index.test.js" />
+      <jump line="45" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/services/match/index.test.js" />
+      <jump line="126" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/services/match/index.test.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4734,8 +4734,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>teamStore</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -6259,7 +6259,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>teamStore</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -6268,7 +6268,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>aran</text>
+        <text>t.context.store</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dGVzdC50b2RvKCdHRVQgL21hdGNoZXMvOmlkL3JlZCAtIDQwNCBOb3QgZm91bmQnKTsK</text>
@@ -6314,17 +6314,16 @@
       </register>
     </registers>
     <search>
-      <last-search>aran</last-search>
+      <last-search>t.context.store</last-search>
       <last-offset />
-      <last-pattern>aran</last-pattern>
-      <last-replace>blue</last-replace>
-      <last-substitute>red</last-substitute>
+      <last-pattern>t.context.store</last-pattern>
+      <last-replace>t.context.matchStore</last-replace>
+      <last-substitute>t.context.store</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>lodas</entry>
         <entry>export default</entry>
         <entry>export</entry>
         <entry encoding="base64">XDxtZFw+</entry>
@@ -6344,9 +6343,9 @@
         <entry>ctrl</entry>
         <entry>red</entry>
         <entry>aran</entry>
+        <entry>t.context.store</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2lkL19pZC9n</entry>
         <entry encoding="base64">JzwsJz5zL2Zsb2F0L251bWJlci9n</entry>
         <entry encoding="base64">JzwsJz5zL3VzZXIvZGV2aWNlLw==</entry>
         <entry encoding="base64">JzwsJz5zL2RhdGEvZGV2aWNlL2c=</entry>
@@ -6365,6 +6364,7 @@
         <entry>qall</entry>
         <entry>q</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JzwsJz5zL3QuY29udGV4dC5zdG9yZS90LmNvbnRleHQubWF0Y2hTdG9yZS9n</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
