@@ -4494,11 +4494,12 @@
         <mark key="^" line="1" column="17" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/src/services/match/index.test.js" timestamp="1500575026312">
-        <mark key="'" line="147" column="30" />
-        <mark key="[" line="170" column="32" />
-        <mark key="]" line="166" column="0" />
-        <mark key="." line="166" column="0" />
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/services/match/index.test.js" timestamp="1500581384365">
+        <mark key="'" line="152" column="3" />
+        <mark key="[" line="174" column="0" />
+        <mark key="]" line="174" column="2" />
+        <mark key="." line="174" column="2" />
+        <mark key="^" line="173" column="38" />
       </file>
       <file name="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/mqtt/mqtt.test.js" timestamp="1498133246996">
         <mark key="'" line="53" column="30" />
@@ -4628,7 +4629,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="1" filename="$USER_HOME$/Dev/web-of-things/iot-poc-device/mock/src/index.js" />
       <jump line="11" column="11" filename="$USER_HOME$/Dev/web-of-things/iot-poc-device/mock/src/index.js" />
       <jump line="5" column="23" filename="$USER_HOME$/Dev/web-of-things/iot-poc-device/mock/src/index.js" />
       <jump line="12" column="50" filename="$USER_HOME$/Dev/web-of-things/iot-poc-device/mock/src/index.js" />
@@ -4728,6 +4728,7 @@
       <jump line="8" column="21" filename="$USER_HOME$/Dev/baby-foot/api/src/services/match/controller.js" />
       <jump line="24" column="29" filename="$USER_HOME$/Dev/baby-foot/api/src/services/match/controller.test.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/services/match/controller.test.js" />
+      <jump line="152" column="3" filename="$USER_HOME$/Dev/baby-foot/api/src/services/match/index.test.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4737,7 +4738,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0Lgo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -6261,7 +6262,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>teams</text>
+        <text>is</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -6276,28 +6277,35 @@
         <text encoding="base64">ICBjb25zb2xlLmxvZygnbWF0Y2hTdG9yZScsIGF3YWl0IChhd2FpdCB0LmNvbnRleHQubWF0Y2hTdG9yZS5hbGwoKSkuYWxsKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0Lgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>deepEqual(res.body, {
+    red: {},
+    blue: {}
+  });</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZXMuc3RhdHVzKDUwMSkuanNvbignTm90IGltcGxlbWVudGVkJyk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXMudGV4dCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBtb2RlbC5nZXRUZWFtcygpCg==</text>
+        <text encoding="base64">ICBjb25zdCByZWRUZWFtID0gYXdhaXQgCiAgY29uc3QgYmx1ZVRlYW0gPSBhd2FpdCAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICByZXMuc3RhdHVzKDUwMCkuanNvbignTm90IGltcGxlbWVudGVkJyk7Cg==</text>
+      <register name="6" type="4">
+        <text>t.context.playedStore.save(
+    { color: 'red' },
+    redTeam.vertex._id,
+    savedMatch.vertex._id
+  );</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJsdWVUZWFtLnZlcnRlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -6306,10 +6314,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZWRUZWFtLCBibHVlVGVhbSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICByZXMuc3RhdHVzKDUwMSkuanNvbignTm90IGltcGxlbWVudGVkJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
