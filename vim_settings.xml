@@ -92,11 +92,12 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/src/services/match/controller.js" timestamp="1500600413105">
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/services/match/controller.js" timestamp="1501550094811">
         <mark key="'" line="8" column="21" />
-        <mark key="[" line="20" column="7" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+        <mark key="[" line="21" column="9" />
+        <mark key="]" line="22" column="31" />
+        <mark key="." line="22" column="31" />
+        <mark key="^" line="22" column="31" />
       </file>
       <file name="$USER_HOME$/Dev/musicus/src/client/tools/tasks/seed/build.assets.dev.ts" timestamp="1465999579078">
         <mark key="[" line="13" column="37" />
@@ -1762,7 +1763,7 @@
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/src/services/match/index.js" timestamp="1501494291696">
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/services/match/index.js" timestamp="1501550757243">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
@@ -2794,6 +2795,12 @@
         <mark key="^" line="0" column="38" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Dev/baby-foot/api/.travis.yml" timestamp="1501550989914">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="4" column="3" />
+      </file>
       <file name="$USER_HOME$/Dev/portal/app/basic.html" timestamp="1490654004025">
         <mark key="[" line="39" column="46" />
         <mark key="]" line="42" column="11" />
@@ -3352,12 +3359,12 @@
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/src/services/match/model.js" timestamp="1501509792212">
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/services/match/model.js" timestamp="1501549924131">
         <mark key="'" line="17" column="27" />
-        <mark key="[" line="8" column="22" />
-        <mark key="]" line="8" column="20" />
-        <mark key="." line="8" column="20" />
-        <mark key="^" line="8" column="20" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="34" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="19" column="48" />
       </file>
       <file name="$USER_HOME$/Dev/Java/search-engine/src/main/kotlin/com/inad/shared/AppThread.kt" timestamp="1484658763025">
         <mark key="[" line="5" column="0" />
@@ -4493,12 +4500,11 @@
         <mark key="^" line="1" column="17" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/src/services/match/index.test.js" timestamp="1501545430031">
-        <mark key="'" line="65" column="0" />
-        <mark key="[" line="70" column="44" />
-        <mark key="]" line="70" column="44" />
-        <mark key="." line="70" column="44" />
-        <mark key="^" line="63" column="15" />
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/services/match/index.test.js" timestamp="1501550839187">
+        <mark key="'" line="59" column="0" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/mqtt/mqtt.test.js" timestamp="1498133246996">
         <mark key="'" line="53" column="30" />
@@ -4736,8 +4742,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>dbName</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAtIENYWD1nKystNC44Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -6261,7 +6267,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>dbName</text>
+        <text>matchStore</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -6280,28 +6286,34 @@
   t.is(typeof res.body.red._to, 'string');</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRhdGFiYXNlTmFtZTogYGRhdGFiYXNlLW1hdGNoLSR7dXVpZCgpfWAsCg==</text>
+        <text encoding="base64">ICAtIENYWD1nKystNC44Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBhd2FpdCBkYi5pbml0KCk7Cg==</text>
+        <text encoding="base64">LSB2NQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpbXBvcnQgc2xlZXAgZnJvbSAnc2xlZXAnOwo=</text>
+        <text encoding="base64">LSB2NAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHNsZWVwIGZyb20gJ3NsZWVwJzsK</text>
+      <register name="5" type="4">
+        <text>addons:
+  apt:
+    sources:
+    - ubuntu-toolchain-r-test
+    packages:
+    - gcc-4.8
+    - g++-4.8</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGRhdGFiYXNlTmFtZTogJ2RhdGFiYXNlLW1hdGNoLXRlc3QnLAogICAgLy8gZ3JhcGhOYW1lOiAnZ3JhcGgtbWF0Y2gtaW5kZXgnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzbGVlcC5tc2xlZXAoMTAwMCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -6309,11 +6321,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBzbGVlcC5zbGVlcCgzKTsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">CnRlc3QuYmVmb3JlKCdDcmVhdGUgYSBtYXRjaCBpbnN0YW5jZScsIGFzeW5jICgpID0+IHsKCn0pOw==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhd2FpdCBwbGF5ZWRTdG9yZS5jcmVhdGUoKTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXN1bHQuX3Jlc3VsdCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
