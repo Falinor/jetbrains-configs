@@ -4493,11 +4493,12 @@
         <mark key="^" line="1" column="17" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/src/services/match/index.test.js" timestamp="1501544750948">
-        <mark key="'" line="63" column="0" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/services/match/index.test.js" timestamp="1501545430031">
+        <mark key="'" line="65" column="0" />
+        <mark key="[" line="70" column="44" />
+        <mark key="]" line="70" column="44" />
+        <mark key="." line="70" column="44" />
+        <mark key="^" line="63" column="15" />
       </file>
       <file name="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/mqtt/mqtt.test.js" timestamp="1498133246996">
         <mark key="'" line="53" column="30" />
@@ -4735,8 +4736,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBhd2FpdCBkYi5pbml0KCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>dbName</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -6260,7 +6261,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>res</text>
+        <text>dbName</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -6279,28 +6280,28 @@
   t.is(typeof res.body.red._to, 'string');</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBhd2FpdCBkYi5pbml0KCk7Cg==</text>
+        <text encoding="base64">ICAgIGRhdGFiYXNlTmFtZTogYGRhdGFiYXNlLW1hdGNoLSR7dXVpZCgpfWAsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpbXBvcnQgc2xlZXAgZnJvbSAnc2xlZXAnOwo=</text>
+        <text encoding="base64">ICBhd2FpdCBkYi5pbml0KCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpbXBvcnQgc2xlZXAgZnJvbSAnc2xlZXAnOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHNsZWVwIGZyb20gJ3NsZWVwJzsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IHNsZWVwIGZyb20gJ3NsZWVwJzsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzbGVlcC5tc2xlZXAoMTAwMCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzbGVlcC5zbGVlcCgzKTsK</text>
+        <text encoding="base64">ICBzbGVlcC5tc2xlZXAoMTAwMCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -6309,10 +6310,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhd2FpdCBwbGF5ZWRTdG9yZS5jcmVhdGUoKTsK</text>
+        <text encoding="base64">ICBzbGVlcC5zbGVlcCgzKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhd2FpdCB0ZWFtU3RvcmUuY3JlYXRlKCk7Cg==</text>
+        <text encoding="base64">ICBhd2FpdCBwbGF5ZWRTdG9yZS5jcmVhdGUoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
