@@ -3641,11 +3641,12 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/web/index.js" timestamp="1501794637802">
+      <file name="$USER_HOME$/Dev/baby-foot/web/index.js" timestamp="1501798203676">
+        <mark key="'" line="5" column="2" />
         <mark key="[" line="1" column="2" />
-        <mark key="]" line="3" column="26" />
-        <mark key="^" line="3" column="26" />
-        <mark key="." line="3" column="26" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/dj-socket/back/.dockerignore" timestamp="1487680060927">
         <mark key="[" line="6" column="13" />
@@ -4662,7 +4663,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="27" filename="$USER_HOME$/Dev/baby-foot/api/src/services/match/model.js" />
       <jump line="7" column="6" filename="$USER_HOME$/Dev/baby-foot/api/src/services/match/model.test.js" />
       <jump line="17" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/services/match/model.test.js" />
       <jump line="16" column="2" filename="$USER_HOME$/Dev/baby-foot/api/src/services/match/model.test.js" />
@@ -4762,6 +4762,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Dev/baby-foot/api/node_modules/arangojs/lib/collection.js" />
       <jump line="77" column="39" filename="$USER_HOME$/Dev/baby-foot/api/src/services/team/index.test.js" />
       <jump line="97" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/services/team/index.test.js" />
+      <jump line="5" column="2" filename="$USER_HOME$/Dev/baby-foot/web/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4771,7 +4772,12 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">dGl0bGUg</text>
+        <text>var app = new Vue({
+  el: '#app',
+  data: {
+    message: 'Hello, World!'
+  }
+});</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -6309,26 +6315,31 @@
       <register name="0" type="2">
         <text encoding="base64">ICB0LmlzKHR5cGVvZiBnZXRNYXRjaGVzLCAnZnVuY3Rpb24nKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">dmFyIGFwcCA9IAo=</text>
+      <register name="1" type="4">
+        <text>var app = new Vue({
+  el: '#app',
+  data: {
+    message: 'Hello, World!'
+  }
+});</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmFyIGFwcCA9IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy8gUmV0cmlldmUgb3V0Z29pbmcgZWRnZXMK</text>
+        <text encoding="base64">ICB9KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXMuYm9keSk7Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gUmV0cmlldmUgb3V0Z29pbmcgZWRnZXMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXMuYm9keSk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -6340,10 +6351,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmVkOiB7IHBvaW50czogMTAgfSwgYmx1ZTogeyBwb2ludHM6IDYgfSwgY3JlYXRlZEF0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgcmVkOiB7IHBvaW50czogMTAgfSwgYmx1ZTogeyBwb2ludHM6IDYgfSwgY3JlYXRlZEF0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
