@@ -39,10 +39,10 @@
         <mark key="." line="19" column="1" />
         <mark key="^" line="19" column="1" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/web/src/router/index.js" timestamp="1501855192821">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Dev/baby-foot/web/src/router/index.js" timestamp="1501856758950">
+        <mark key="[" line="2" column="32" />
+        <mark key="]" line="2" column="33" />
+        <mark key="." line="2" column="33" />
       </file>
       <file name="$USER_HOME$/Dev/dj-socket/front/src/app/home/index.ts" timestamp="1487611305664">
         <mark key="[" line="0" column="0" />
@@ -391,6 +391,12 @@
         <mark key="." line="8" column="27" />
         <mark key="^" line="8" column="27" />
       </file>
+      <file name="$USER_HOME$/Dev/baby-foot/web/src/components/hello.css" timestamp="1501856842118">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/Dev/web-of-things/iot-poc/api/src/mongodb.js" timestamp="1496925904547">
         <mark key="'" line="3" column="27" />
         <mark key="[" line="3" column="0" />
@@ -536,6 +542,12 @@
         <mark key="]" line="8" column="20" />
         <mark key="." line="8" column="20" />
         <mark key="^" line="8" column="20" />
+      </file>
+      <file name="$USER_HOME$/Dev/baby-foot/web/src/components/Hello.vue" timestamp="1501856742939">
+        <mark key="[" line="22" column="13" />
+        <mark key="]" line="22" column="14" />
+        <mark key="^" line="22" column="14" />
+        <mark key="." line="22" column="14" />
       </file>
       <file name="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/services/controller.js" timestamp="1498135361745">
         <mark key="[" line="0" column="34" />
@@ -4113,6 +4125,13 @@
         <mark key="." line="23" column="42" />
         <mark key="^" line="23" column="42" />
       </file>
+      <file name="$USER_HOME$/Dev/baby-foot/web/src/components/Hello.js" timestamp="1501856731702">
+        <mark key="'" line="7" column="1" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="7" column="1" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/Dockerfile" timestamp="1491581427204">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -4411,6 +4430,12 @@
         <mark key="." line="3" column="55" />
         <mark key="^" line="3" column="55" />
       </file>
+      <file name="$USER_HOME$/Dev/baby-foot/web/src/components/hello.vue" timestamp="1501856835409">
+        <mark key="[" line="25" column="34" />
+        <mark key="]" line="25" column="32" />
+        <mark key="." line="25" column="32" />
+        <mark key="^" line="25" column="32" />
+      </file>
       <file name="$USER_HOME$/Dev/octoboard/client-ng2/src/app/dashboard/dashboard.component.ts" timestamp="1491815809782">
         <mark key="'" line="7" column="29" />
         <mark key="[" line="7" column="41" />
@@ -4668,8 +4693,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="6" filename="$USER_HOME$/Dev/baby-foot/api/src/services/match/model.test.js" />
-      <jump line="17" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/services/match/model.test.js" />
       <jump line="16" column="2" filename="$USER_HOME$/Dev/baby-foot/api/src/services/match/model.test.js" />
       <jump line="32" column="19" filename="$USER_HOME$/Dev/baby-foot/api/src/services/match/model.test.js" />
       <jump line="1" column="25" filename="$USER_HOME$/Dev/baby-foot/api/src/services/match/model.test.js" />
@@ -4768,6 +4791,8 @@
       <jump line="77" column="39" filename="$USER_HOME$/Dev/baby-foot/api/src/services/team/index.test.js" />
       <jump line="97" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/services/team/index.test.js" />
       <jump line="5" column="2" filename="$USER_HOME$/Dev/baby-foot/web/index.js" />
+      <jump line="8" column="1" filename="$USER_HOME$/Dev/baby-foot/web/src/components/Hello.js" />
+      <jump line="28" column="0" filename="$USER_HOME$/Dev/baby-foot/web/src/components/hello.vue" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4776,8 +4801,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IEhlbGxvIGZyb20gJy4uL2NvbXBvbmVudHMvSGVsbG8udnVlJzsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CmgxLCBoMiB7CiAgZm9udC13ZWlnaHQ6IG5vcm1hbDsKfQoKdWwgewogIGxpc3Qtc3R5bGUtdHlwZTogbm9uZTsKICBwYWRkaW5nOiAwOwp9CgpsaSB7CiAgZGlzcGxheTogaW5saW5lLWJsb2NrOwogIG1hcmdpbjogMCAxMHB4Owp9CgphIHsKICBjb2xvcjogIzQyYjk4MzsKfQ==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -6301,7 +6326,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGl0bGUg</text>
+        <text>Hello</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -6315,16 +6340,25 @@
       <register name="0" type="2">
         <text encoding="base64">ICB0LmlzKHR5cGVvZiBnZXRNYXRjaGVzLCAnZnVuY3Rpb24nKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IEhlbGxvIGZyb20gJy4uL2NvbXBvbmVudHMvSGVsbG8udnVlJzsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CmgxLCBoMiB7CiAgZm9udC13ZWlnaHQ6IG5vcm1hbDsKfQoKdWwgewogIGxpc3Qtc3R5bGUtdHlwZTogbm9uZTsKICBwYWRkaW5nOiAwOwp9CgpsaSB7CiAgZGlzcGxheTogaW5saW5lLWJsb2NrOwogIG1hcmdpbjogMCAxMHB4Owp9CgphIHsKICBjb2xvcjogIzQyYjk4MzsKfQ==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text encoding="base64">CmgxLCBoMiB7CiAgZm9udC13ZWlnaHQ6IG5vcm1hbDsKfQoKdWwgewogIGxpc3Qtc3R5bGUtdHlwZTogbm9uZTsKICBwYWRkaW5nOiAwOwp9CgpsaSB7CiAgZGlzcGxheTogaW5saW5lLWJsb2NrOwogIG1hcmdpbjogMCAxMHB4Owp9CgphIHsKICBjb2xvcjogIzQyYjk4MzsKfQ==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IEhlbGxvIGZyb20gJy4uL2NvbXBvbmVudHMvSGVsbG8udnVlJzsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text>var app = new Vue({
   el: '#app',
   data: {
@@ -6332,17 +6366,8 @@
   }
 });</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">dmFyIGFwcCA9IAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICB9KTsK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8gUmV0cmlldmUgb3V0Z29pbmcgZWRnZXMK</text>
+        <text encoding="base64">dmFyIGFwcCA9IAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -6351,13 +6376,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXMuYm9keSk7Cg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICB9KTsK</text>
+      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qall</text>
       </register>
     </registers>
     <search>
@@ -6402,7 +6427,6 @@
         <entry>next</entry>
         <entry encoding="base64">JzwsJz5zL3N0b3JlL21vZGVsL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2N0cmwvY29udHJvbGxlci9n</entry>
-        <entry>qall</entry>
         <entry encoding="base64">JzwsJz5zL3QuY29udGV4dC5zdG9yZS90LmNvbnRleHQubWF0Y2hTdG9yZS9n</entry>
         <entry encoding="base64">JzwsJz5zL3NhdmVkL3NhdmVkTWF0Y2gvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3JlZC9ibHVlL2c=</entry>
@@ -6410,9 +6434,10 @@
         <entry encoding="base64">JzwsJz5zL3JlZC4vL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3N0b3JlL3BsYXllclN0b3JlL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2ZpbmRPbmUvZmluZE9uZUJ5VHJpZ3JhbS9n</entry>
-        <entry>q</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>q</entry>
+        <entry>qall</entry>
       </history-cmd>
       <history-expr />
       <history-input />
