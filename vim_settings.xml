@@ -39,6 +39,11 @@
         <mark key="." line="19" column="1" />
         <mark key="^" line="19" column="1" />
       </file>
+      <file name="$USER_HOME$/Dev/baby-foot/web/src/router/index.js" timestamp="1501855192821">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Dev/dj-socket/front/src/app/home/index.ts" timestamp="1487611305664">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="32" />
@@ -4771,13 +4776,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>var app = new Vue({
-  el: '#app',
-  data: {
-    message: 'Hello, World!'
-  }
-});</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IEhlbGxvIGZyb20gJy4uL2NvbXBvbmVudHMvSGVsbG8udnVlJzsK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -6315,7 +6315,16 @@
       <register name="0" type="2">
         <text encoding="base64">ICB0LmlzKHR5cGVvZiBnZXRNYXRjaGVzLCAnZnVuY3Rpb24nKTsK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IEhlbGxvIGZyb20gJy4uL2NvbXBvbmVudHMvSGVsbG8udnVlJzsK</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text>var app = new Vue({
   el: '#app',
   data: {
@@ -6323,26 +6332,17 @@
   }
 });</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">dmFyIGFwcCA9IAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICB9KTsK</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLy8gUmV0cmlldmUgb3V0Z29pbmcgZWRnZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXMuYm9keSk7Cg==</text>
+        <text encoding="base64">ICB9KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gUmV0cmlldmUgb3V0Z29pbmcgZWRnZXMK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -6351,10 +6351,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXMuYm9keSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmVkOiB7IHBvaW50czogMTAgfSwgYmx1ZTogeyBwb2ludHM6IDYgfSwgY3JlYXRlZEF0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
