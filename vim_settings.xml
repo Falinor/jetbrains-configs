@@ -1350,6 +1350,13 @@
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="24" />
       </file>
+      <file name="$USER_HOME$/Dev/baby-foot/api/docs/paths/player/teams.yml" timestamp="1502783117108">
+        <mark key="'" line="1" column="24" />
+        <mark key="[" line="11" column="28" />
+        <mark key="]" line="1" column="24" />
+        <mark key="." line="1" column="24" />
+        <mark key="^" line="1" column="24" />
+      </file>
       <file name="$USER_HOME$/Dev/MusicUs/src/client/src/app/+sheet-board/sheet-board.component.scss" timestamp="1464788074613">
         <mark key="[" line="5" column="20" />
         <mark key="]" line="5" column="20" />
@@ -2374,6 +2381,11 @@
         <mark key="]" line="2" column="28" />
         <mark key="^" line="2" column="28" />
         <mark key="." line="2" column="28" />
+      </file>
+      <file name="$USER_HOME$/Dev/baby-foot/api/docs/paths/match/team.yml" timestamp="1502783082498">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/Java/Mediatheque/src/main/resources/META-INF/persistence.xml" timestamp="1473492947638">
         <mark key="[" line="3" column="31" />
@@ -4143,6 +4155,11 @@
         <mark key="." line="0" column="24" />
         <mark key="^" line="0" column="24" />
       </file>
+      <file name="$USER_HOME$/Dev/baby-foot/api/docs/paths/match/matches.yml" timestamp="1502783074724">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/Dev/bbl-angular/dependency-injection/src/app/eager/eager-routing.module.ts" timestamp="1491394487663">
         <mark key="'" line="6" column="44" />
         <mark key="[" line="1" column="55" />
@@ -4675,7 +4692,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="23" filename="$USER_HOME$/Dev/baby-foot/api/src/components/model/vertex.js" />
       <jump line="147" column="30" filename="$USER_HOME$/Dev/baby-foot/api/src/services/match/index.test.js" />
       <jump line="28" column="23" filename="$USER_HOME$/Dev/baby-foot/api/src/services/match/model.test.js" />
       <jump line="8" column="21" filename="$USER_HOME$/Dev/baby-foot/api/src/services/match/controller.js" />
@@ -4775,6 +4791,7 @@
       <jump line="44" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/services/team/model.test.js" />
       <jump line="3" column="49" filename="$USER_HOME$/Dev/baby-foot/api/src/services/team/model.test.js" />
       <jump line="16" column="20" filename="$USER_HOME$/Dev/baby-foot/api/src/services/index.js" />
+      <jump line="1" column="24" filename="$USER_HOME$/Dev/baby-foot/api/docs/paths/player/teams.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4784,7 +4801,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text encoding="base64">Z2V0VGVhbXMg</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -6308,7 +6325,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">Z2V0VGVhbXMg</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -6323,28 +6340,28 @@
         <text encoding="base64">ICB0LmlzKHR5cGVvZiBtb2RlbC5nZXRUZWFtcywgJ2Z1bmN0aW9uJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjcmVhdGVUZWFtLAogIGxpbmtUZWFtc1RvTWF0Y2gK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB0LmlzKHR5cGVvZiBjcmVhdGVUZWFtLCAnZnVuY3Rpb24nKTsKICB0LmlzKHR5cGVvZiBsaW5rVGVhbXNUb01hdGNoLCAnZnVuY3Rpb24nKTsK</text>
+        <text encoding="base64">cAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICB0LmlzKHR5cGVvZiBtb2RlbC5jcmVhdGVUZWFtLCAnZnVuY3Rpb24nKTsK</text>
+      <register name="3" type="4">
+        <text encoding="base64">b3N0OgogIHN1bW1hcnk6IENyZWF0ZSBhIHRlYW0gZnJvbSBhIG1hdGNoCiAgZGVzY3JpcHRpb246ID4KICAgIENyZWF0ZXMgYSB0ZWFtIGFzc29jaWF0ZWQgd2l0aCB0aGlzIG1hdGNoLgogIG9wZXJhdGlvbklkOiBjcmVhdGVUZWFtRnJvbU1hdGNoCiAgdGFnczoKICAgIC0gTWF0Y2ggZWRnZXMKICByZXNwb25zZXM6CiAgICAyMDE6CiAgICAgIGRlc2NyaXB0aW9uOiBDcmVhdGVkCiAgICA0MDA6CiAgICAgIGRlc2NyaXB0aW9uOiBCYWQgcmVxdWVzdA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB0LmlzKHR5cGVvZiBtb2RlbC5saW5rVGVhbXNUb01hdGNoLCAnZnVuY3Rpb24nKTsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="4">
+        <text encoding="base64">CnBvc3Q6CiAgc3VtbWFyeTogQ3JlYXRlIGEgbWF0Y2gKICBkZXNjcmlwdGlvbjogPgogICAgQSBkZXRhaWxlZCBkZXNjcmlwdGlvbgogIG9wZXJhdGlvbklkOiBjcmVhdGVNYXRjaAogIHRhZ3M6CiAgICAtIE1hdGNoZXMKICByZXNwb25zZXM6CiAgICAyMDE6CiAgICAgIGRlc2NyaXB0aW9uOiBDcmVhdGVkCiAgICA0MDA6CiAgICAgIGRlc2NyaXB0aW9uOiBCYWQgcmVxdWVzdA==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBjcmVhdGVUZWFtLAogIGxpbmtUZWFtc1RvTWF0Y2gK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0aHJvdyBuZXcgRXJyb3IoKTsK</text>
+        <text encoding="base64">ICB0LmlzKHR5cGVvZiBjcmVhdGVUZWFtLCAnZnVuY3Rpb24nKTsKICB0LmlzKHR5cGVvZiBsaW5rVGVhbXNUb01hdGNoLCAnZnVuY3Rpb24nKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -6353,11 +6370,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwbGF5ZXJTdG9yZS5pbkVkZ2VzKHRlYW1IYW5kbGUK</text>
+        <text encoding="base64">ICB0LmlzKHR5cGVvZiBtb2RlbC5jcmVhdGVUZWFtLCAnZnVuY3Rpb24nKTsK</text>
       </register>
-      <register name="9" type="4">
-        <text>)
-    .then()</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICB0LmlzKHR5cGVvZiBtb2RlbC5saW5rVGVhbXNUb01hdGNoLCAnZnVuY3Rpb24nKTsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
