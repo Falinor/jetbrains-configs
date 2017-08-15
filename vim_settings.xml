@@ -149,6 +149,12 @@
         <mark key="^" line="13" column="7" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Dev/baby-foot/api/docs/paths/team/players.yml" timestamp="1502783874578">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="27" />
+        <mark key="." line="11" column="27" />
+        <mark key="^" line="11" column="27" />
+      </file>
       <file name="$USER_HOME$/Dev/web-of-things/iot-poc/api/docker-compose.yml" timestamp="1499245860069">
         <mark key="'" line="9" column="9" />
         <mark key="[" line="9" column="10" />
@@ -1105,6 +1111,12 @@
         <mark key="." line="7" column="62" />
         <mark key="^" line="7" column="62" />
       </file>
+      <file name="$USER_HOME$/Dev/baby-foot/api/docs/paths/team/teams.yml" timestamp="1502783904238">
+        <mark key="[" line="1" column="16" />
+        <mark key="]" line="1" column="20" />
+        <mark key="." line="1" column="20" />
+        <mark key="^" line="1" column="20" />
+      </file>
       <file name="$USER_HOME$/Dev/C#/projet-c-front-end/src/client/app/shared/navbar/index.ts" timestamp="1465543418661">
         <mark key="[" line="2" column="3" />
         <mark key="]" line="3" column="22" />
@@ -1350,12 +1362,12 @@
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/docs/paths/player/teams.yml" timestamp="1502783117108">
+      <file name="$USER_HOME$/Dev/baby-foot/api/docs/paths/player/teams.yml" timestamp="1502783892109">
         <mark key="'" line="1" column="24" />
-        <mark key="[" line="11" column="28" />
-        <mark key="]" line="1" column="24" />
-        <mark key="." line="1" column="24" />
-        <mark key="^" line="1" column="24" />
+        <mark key="[" line="26" column="26" />
+        <mark key="]" line="26" column="25" />
+        <mark key="." line="26" column="25" />
+        <mark key="^" line="26" column="25" />
       </file>
       <file name="$USER_HOME$/Dev/MusicUs/src/client/src/app/+sheet-board/sheet-board.component.scss" timestamp="1464788074613">
         <mark key="[" line="5" column="20" />
@@ -1939,6 +1951,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/baby-foot/api/docs/paths/team/matches.yml" timestamp="1502783915040">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="11" column="28" />
       </file>
       <file name="$USER_HOME$/Dev/bbl-angular/hexrgb-converter/src/app/app.component.ts" timestamp="1491212117022">
         <mark key="[" line="7" column="28" />
@@ -4692,7 +4708,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="147" column="30" filename="$USER_HOME$/Dev/baby-foot/api/src/services/match/index.test.js" />
       <jump line="28" column="23" filename="$USER_HOME$/Dev/baby-foot/api/src/services/match/model.test.js" />
       <jump line="8" column="21" filename="$USER_HOME$/Dev/baby-foot/api/src/services/match/controller.js" />
       <jump line="24" column="29" filename="$USER_HOME$/Dev/baby-foot/api/src/services/match/controller.test.js" />
@@ -4792,6 +4807,7 @@
       <jump line="3" column="49" filename="$USER_HOME$/Dev/baby-foot/api/src/services/team/model.test.js" />
       <jump line="16" column="20" filename="$USER_HOME$/Dev/baby-foot/api/src/services/index.js" />
       <jump line="1" column="24" filename="$USER_HOME$/Dev/baby-foot/api/docs/paths/player/teams.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dev/baby-foot/api/docs/paths/team/matches.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4801,7 +4817,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Z2V0VGVhbXMg</text>
+        <text>getTeams</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -6325,7 +6341,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Z2V0VGVhbXMg</text>
+        <text>getTeams</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -6339,29 +6355,30 @@
       <register name="0" type="2">
         <text encoding="base64">ICB0LmlzKHR5cGVvZiBtb2RlbC5nZXRUZWFtcywgJ2Z1bmN0aW9uJyk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CnBvc3Q6CiAgc3VtbWFyeTogQ3JlYXRlIHRoZSBtZW1iZXJzIG9mIGEgdGVhbS4KICBkZXNjcmlwdGlvbjogPgogICAgQ3JlYXRlIHRoZSBwbGF5ZXJzIGFzc29jaWF0ZWQgd2l0aCBhIHRlYW0uIFRoaXMgZW5kcG9pbnQgd2lsbAogICAgY3JlYXRlIG9uZSBvciB0d28gcGxheWVycyBmcm9tIGEgZ2l2ZW4gYXJyYXkgb2YgcGxheWVycyBpbiB0aGUKICAgIHJlcXVlc3QgYm9keS4KICBvcGVyYXRpb25JZDogY3JlYXRlUGxheWVyc0J5VGVhbQogIHRhZ3M6CiAgICAtIFRlYW0gZWRnZXMKICByZXNwb25zZXM6CiAgICAyMDE6CiAgICAgIGRlc2NyaXB0aW9uOiBPSwogICAgNDAwOgogICAgICBkZXNjcmlwdGlvbjogQmFkIHJlcXVlc3QKICAgIDQwNDoKICAgICAgZGVzY3JpcHRpb246IE5vdCBmb3VuZA==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">cAo=</text>
+      <register name="2" type="4">
+        <text>creates a team
+    associated with a player</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">b3N0OgogIHN1bW1hcnk6IENyZWF0ZSBhIHRlYW0gZnJvbSBhIG1hdGNoCiAgZGVzY3JpcHRpb246ID4KICAgIENyZWF0ZXMgYSB0ZWFtIGFzc29jaWF0ZWQgd2l0aCB0aGlzIG1hdGNoLgogIG9wZXJhdGlvbklkOiBjcmVhdGVUZWFtRnJvbU1hdGNoCiAgdGFnczoKICAgIC0gTWF0Y2ggZWRnZXMKICByZXNwb25zZXM6CiAgICAyMDE6CiAgICAgIGRlc2NyaXB0aW9uOiBDcmVhdGVkCiAgICA0MDA6CiAgICAgIGRlc2NyaXB0aW9uOiBCYWQgcmVxdWVzdA==</text>
-      </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">cAo=</text>
+      </register>
       <register name="5" type="4">
-        <text encoding="base64">CnBvc3Q6CiAgc3VtbWFyeTogQ3JlYXRlIGEgbWF0Y2gKICBkZXNjcmlwdGlvbjogPgogICAgQSBkZXRhaWxlZCBkZXNjcmlwdGlvbgogIG9wZXJhdGlvbklkOiBjcmVhdGVNYXRjaAogIHRhZ3M6CiAgICAtIE1hdGNoZXMKICByZXNwb25zZXM6CiAgICAyMDE6CiAgICAgIGRlc2NyaXB0aW9uOiBDcmVhdGVkCiAgICA0MDA6CiAgICAgIGRlc2NyaXB0aW9uOiBCYWQgcmVxdWVzdA==</text>
+        <text encoding="base64">b3N0OgogIHN1bW1hcnk6IENyZWF0ZSBhIHRlYW0gZnJvbSBhIG1hdGNoCiAgZGVzY3JpcHRpb246ID4KICAgIENyZWF0ZXMgYSB0ZWFtIGFzc29jaWF0ZWQgd2l0aCB0aGlzIG1hdGNoLgogIG9wZXJhdGlvbklkOiBjcmVhdGVUZWFtRnJvbU1hdGNoCiAgdGFnczoKICAgIC0gTWF0Y2ggZWRnZXMKICByZXNwb25zZXM6CiAgICAyMDE6CiAgICAgIGRlc2NyaXB0aW9uOiBDcmVhdGVkCiAgICA0MDA6CiAgICAgIGRlc2NyaXB0aW9uOiBCYWQgcmVxdWVzdA==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjcmVhdGVUZWFtLAogIGxpbmtUZWFtc1RvTWF0Y2gK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICB0LmlzKHR5cGVvZiBjcmVhdGVUZWFtLCAnZnVuY3Rpb24nKTsKICB0LmlzKHR5cGVvZiBsaW5rVGVhbXNUb01hdGNoLCAnZnVuY3Rpb24nKTsK</text>
+      <register name="7" type="4">
+        <text encoding="base64">CnBvc3Q6CiAgc3VtbWFyeTogQ3JlYXRlIGEgbWF0Y2gKICBkZXNjcmlwdGlvbjogPgogICAgQSBkZXRhaWxlZCBkZXNjcmlwdGlvbgogIG9wZXJhdGlvbklkOiBjcmVhdGVNYXRjaAogIHRhZ3M6CiAgICAtIE1hdGNoZXMKICByZXNwb25zZXM6CiAgICAyMDE6CiAgICAgIGRlc2NyaXB0aW9uOiBDcmVhdGVkCiAgICA0MDA6CiAgICAgIGRlc2NyaXB0aW9uOiBCYWQgcmVxdWVzdA==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -6370,13 +6387,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB0LmlzKHR5cGVvZiBtb2RlbC5jcmVhdGVUZWFtLCAnZnVuY3Rpb24nKTsK</text>
+        <text encoding="base64">ICBjcmVhdGVUZWFtLAogIGxpbmtUZWFtc1RvTWF0Y2gK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB0LmlzKHR5cGVvZiBtb2RlbC5saW5rVGVhbXNUb01hdGNoLCAnZnVuY3Rpb24nKTsK</text>
+        <text encoding="base64">ICB0LmlzKHR5cGVvZiBjcmVhdGVUZWFtLCAnZnVuY3Rpb24nKTsKICB0LmlzKHR5cGVvZiBsaW5rVGVhbXNUb01hdGNoLCAnZnVuY3Rpb24nKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -6430,8 +6447,8 @@
         <entry encoding="base64">JzwsJz5zL2ZpbmRPbmUvZmluZE9uZUJ5VHJpZ3JhbS9n</entry>
         <entry>q</entry>
         <entry>qall</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
