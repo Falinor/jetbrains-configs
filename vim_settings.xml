@@ -1401,6 +1401,11 @@
         <mark key="." line="9" column="22" />
         <mark key="^" line="9" column="22" />
       </file>
+      <file name="$USER_HOME$/Dev/unsplash/script/package.json" timestamp="1505408090773">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/test/index-spec.ts" timestamp="1491481994577">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="8" column="3" />
@@ -4822,8 +4827,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>getTeams</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJmaWxlcyI6IAo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -6361,30 +6366,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICB0LmlzKHR5cGVvZiBtb2RlbC5nZXRUZWFtcywgJ2Z1bmN0aW9uJyk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CnBvc3Q6CiAgc3VtbWFyeTogQ3JlYXRlIHRoZSBtZW1iZXJzIG9mIGEgdGVhbS4KICBkZXNjcmlwdGlvbjogPgogICAgQ3JlYXRlIHRoZSBwbGF5ZXJzIGFzc29jaWF0ZWQgd2l0aCBhIHRlYW0uIFRoaXMgZW5kcG9pbnQgd2lsbAogICAgY3JlYXRlIG9uZSBvciB0d28gcGxheWVycyBmcm9tIGEgZ2l2ZW4gYXJyYXkgb2YgcGxheWVycyBpbiB0aGUKICAgIHJlcXVlc3QgYm9keS4KICBvcGVyYXRpb25JZDogY3JlYXRlUGxheWVyc0J5VGVhbQogIHRhZ3M6CiAgICAtIFRlYW0gZWRnZXMKICByZXNwb25zZXM6CiAgICAyMDE6CiAgICAgIGRlc2NyaXB0aW9uOiBPSwogICAgNDAwOgogICAgICBkZXNjcmlwdGlvbjogQmFkIHJlcXVlc3QKICAgIDQwNDoKICAgICAgZGVzY3JpcHRpb246IE5vdCBmb3VuZA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICJmaWxlcyI6IAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
+        <text>[
+      &quot;src/**/*.test.js&quot;
+    ],
+    &quot;source&quot;: [
+      &quot;src/**/*.js&quot;
+    ],</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIF0sCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICJyZXF1aXJlIjogWwo=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CnBvc3Q6CiAgc3VtbWFyeTogQ3JlYXRlIHRoZSBtZW1iZXJzIG9mIGEgdGVhbS4KICBkZXNjcmlwdGlvbjogPgogICAgQ3JlYXRlIHRoZSBwbGF5ZXJzIGFzc29jaWF0ZWQgd2l0aCBhIHRlYW0uIFRoaXMgZW5kcG9pbnQgd2lsbAogICAgY3JlYXRlIG9uZSBvciB0d28gcGxheWVycyBmcm9tIGEgZ2l2ZW4gYXJyYXkgb2YgcGxheWVycyBpbiB0aGUKICAgIHJlcXVlc3QgYm9keS4KICBvcGVyYXRpb25JZDogY3JlYXRlUGxheWVyc0J5VGVhbQogIHRhZ3M6CiAgICAtIFRlYW0gZWRnZXMKICByZXNwb25zZXM6CiAgICAyMDE6CiAgICAgIGRlc2NyaXB0aW9uOiBPSwogICAgNDAwOgogICAgICBkZXNjcmlwdGlvbjogQmFkIHJlcXVlc3QKICAgIDQwNDoKICAgICAgZGVzY3JpcHRpb246IE5vdCBmb3VuZA==</text>
+      </register>
+      <register name="6" type="4">
         <text>creates a team
     associated with a player</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">cAo=</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">b3N0OgogIHN1bW1hcnk6IENyZWF0ZSBhIHRlYW0gZnJvbSBhIG1hdGNoCiAgZGVzY3JpcHRpb246ID4KICAgIENyZWF0ZXMgYSB0ZWFtIGFzc29jaWF0ZWQgd2l0aCB0aGlzIG1hdGNoLgogIG9wZXJhdGlvbklkOiBjcmVhdGVUZWFtRnJvbU1hdGNoCiAgdGFnczoKICAgIC0gTWF0Y2ggZWRnZXMKICByZXNwb25zZXM6CiAgICAyMDE6CiAgICAgIGRlc2NyaXB0aW9uOiBDcmVhdGVkCiAgICA0MDA6CiAgICAgIGRlc2NyaXB0aW9uOiBCYWQgcmVxdWVzdA==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">CnBvc3Q6CiAgc3VtbWFyeTogQ3JlYXRlIGEgbWF0Y2gKICBkZXNjcmlwdGlvbjogPgogICAgQSBkZXRhaWxlZCBkZXNjcmlwdGlvbgogIG9wZXJhdGlvbklkOiBjcmVhdGVNYXRjaAogIHRhZ3M6CiAgICAtIE1hdGNoZXMKICByZXNwb25zZXM6CiAgICAyMDE6CiAgICAgIGRlc2NyaXB0aW9uOiBDcmVhdGVkCiAgICA0MDA6CiAgICAgIGRlc2NyaXB0aW9uOiBCYWQgcmVxdWVzdA==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -6393,10 +6403,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjcmVhdGVUZWFtLAogIGxpbmtUZWFtc1RvTWF0Y2gK</text>
+        <text encoding="base64">cAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICB0LmlzKHR5cGVvZiBjcmVhdGVUZWFtLCAnZnVuY3Rpb24nKTsKICB0LmlzKHR5cGVvZiBsaW5rVGVhbXNUb01hdGNoLCAnZnVuY3Rpb24nKTsK</text>
+      <register name="9" type="4">
+        <text encoding="base64">b3N0OgogIHN1bW1hcnk6IENyZWF0ZSBhIHRlYW0gZnJvbSBhIG1hdGNoCiAgZGVzY3JpcHRpb246ID4KICAgIENyZWF0ZXMgYSB0ZWFtIGFzc29jaWF0ZWQgd2l0aCB0aGlzIG1hdGNoLgogIG9wZXJhdGlvbklkOiBjcmVhdGVUZWFtRnJvbU1hdGNoCiAgdGFnczoKICAgIC0gTWF0Y2ggZWRnZXMKICByZXNwb25zZXM6CiAgICAyMDE6CiAgICAgIGRlc2NyaXB0aW9uOiBDcmVhdGVkCiAgICA0MDA6CiAgICAgIGRlc2NyaXB0aW9uOiBCYWQgcmVxdWVzdA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -6451,8 +6461,8 @@
         <entry encoding="base64">JzwsJz5zL3JlZC4vL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3N0b3JlL3BsYXllclN0b3JlL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2ZpbmRPbmUvZmluZE9uZUJ5VHJpZ3JhbS9n</entry>
-        <entry>q</entry>
         <entry>qall</entry>
+        <entry>q</entry>
         <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
