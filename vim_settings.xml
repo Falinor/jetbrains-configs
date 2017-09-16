@@ -2692,6 +2692,13 @@
         <mark key="^" line="1" column="13" />
         <mark key="." line="1" column="13" />
       </file>
+      <file name="$USER_HOME$/Dev/wallpaper-switcher/src/renderer/components/LandingPage/CurrentWallpaper.vue" timestamp="1505516182528">
+        <mark key="'" line="6" column="11" />
+        <mark key="[" line="15" column="17" />
+        <mark key="]" line="11" column="1" />
+        <mark key="^" line="11" column="1" />
+        <mark key="." line="11" column="1" />
+      </file>
       <file name="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/middlewares/index.ts" timestamp="1491490728020">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="27" />
@@ -4757,8 +4764,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/services/match/controller.test.js" />
-      <jump line="152" column="3" filename="$USER_HOME$/Dev/baby-foot/api/src/services/match/index.test.js" />
       <jump line="178" column="4" filename="$USER_HOME$/Dev/baby-foot/api/src/services/match/index.test.js" />
       <jump line="179" column="40" filename="$USER_HOME$/Dev/baby-foot/api/src/services/match/index.test.js" />
       <jump line="192" column="19" filename="$USER_HOME$/Dev/baby-foot/api/src/services/match/index.test.js" />
@@ -4857,6 +4862,8 @@
       <jump line="3" column="14" filename="$USER_HOME$/Dev/unsplash/script/src/index.test.js" />
       <jump line="0" column="21" filename="$USER_HOME$/Dev/unsplash/script/src/index.test.js" />
       <jump line="1" column="0" filename="$USER_HOME$/Dev/unsplash/script/src/config/index.test.js" />
+      <jump line="5" column="9" filename="$USER_HOME$/Dev/wallpaper-switcher/src/renderer/components/LandingPage/CurrentWallpaper.vue" />
+      <jump line="6" column="11" filename="$USER_HOME$/Dev/wallpaper-switcher/src/renderer/components/LandingPage/CurrentWallpaper.vue" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4865,8 +4872,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">d2luZG8K</text>
+      <register name="&quot;" type="4">
+        <text>wallpaper</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -6390,7 +6397,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>config</text>
+        <text>wallpaper</text>
       </register>
       <register name="m" type="4">
         <keys>
