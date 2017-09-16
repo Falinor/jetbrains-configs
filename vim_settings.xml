@@ -2527,6 +2527,12 @@
         <mark key="." line="18" column="13" />
         <mark key="^" line="18" column="13" />
       </file>
+      <file name="$USER_HOME$/Dev/wallpaper-switcher/src/renderer/components/LandingPage.vue" timestamp="1505553374571">
+        <mark key="[" line="32" column="8" />
+        <mark key="]" line="38" column="35" />
+        <mark key="^" line="38" column="35" />
+        <mark key="." line="38" column="35" />
+      </file>
       <file name="$USER_HOME$/Dev/MusicUs/src/client/src/app/+login/index.ts" timestamp="1464103773704">
         <mark key="[" line="1" column="27" />
         <mark key="]" line="1" column="32" />
@@ -2692,12 +2698,12 @@
         <mark key="^" line="1" column="13" />
         <mark key="." line="1" column="13" />
       </file>
-      <file name="$USER_HOME$/Dev/wallpaper-switcher/src/renderer/components/LandingPage/CurrentWallpaper.vue" timestamp="1505516182528">
-        <mark key="'" line="6" column="11" />
-        <mark key="[" line="15" column="17" />
-        <mark key="]" line="11" column="1" />
-        <mark key="^" line="11" column="1" />
-        <mark key="." line="11" column="1" />
+      <file name="$USER_HOME$/Dev/wallpaper-switcher/src/renderer/components/LandingPage/CurrentWallpaper.vue" timestamp="1505553492395">
+        <mark key="'" line="3" column="8" />
+        <mark key="[" line="25" column="30" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="25" column="14" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/middlewares/index.ts" timestamp="1491490728020">
         <mark key="[" line="0" column="0" />
@@ -3450,12 +3456,6 @@
         <mark key="]" line="0" column="28" />
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="28" />
-      </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/src/services/match/model.js" timestamp="1502131717350">
-        <mark key="'" line="17" column="27" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/Java/search-engine/src/main/kotlin/com/inad/shared/AppThread.kt" timestamp="1484658763025">
         <mark key="[" line="5" column="0" />
@@ -4764,8 +4764,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="178" column="4" filename="$USER_HOME$/Dev/baby-foot/api/src/services/match/index.test.js" />
-      <jump line="179" column="40" filename="$USER_HOME$/Dev/baby-foot/api/src/services/match/index.test.js" />
       <jump line="192" column="19" filename="$USER_HOME$/Dev/baby-foot/api/src/services/match/index.test.js" />
       <jump line="61" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/services/match/index.test.js" />
       <jump line="191" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/services/match/index.test.js" />
@@ -4864,6 +4862,8 @@
       <jump line="1" column="0" filename="$USER_HOME$/Dev/unsplash/script/src/config/index.test.js" />
       <jump line="5" column="9" filename="$USER_HOME$/Dev/wallpaper-switcher/src/renderer/components/LandingPage/CurrentWallpaper.vue" />
       <jump line="6" column="11" filename="$USER_HOME$/Dev/wallpaper-switcher/src/renderer/components/LandingPage/CurrentWallpaper.vue" />
+      <jump line="16" column="18" filename="$USER_HOME$/Dev/wallpaper-switcher/src/renderer/components/LandingPage/CurrentWallpaper.vue" />
+      <jump line="3" column="8" filename="$USER_HOME$/Dev/wallpaper-switcher/src/renderer/components/LandingPage/CurrentWallpaper.vue" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4872,8 +4872,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>wallpaper</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIHNsYXNoCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -6397,7 +6397,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>wallpaper</text>
+        <text>scss</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -6412,28 +6412,28 @@
         <text encoding="base64">ICB0LmlzKHR5cGVvZiBtb2RlbC5nZXRUZWFtcywgJ2Z1bmN0aW9uJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">d2luZG8K</text>
+        <text encoding="base64">ICAgICAgICAgIHNsYXNoCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHdhbGxwYXBlciBmcm9tICd3YWxscGFwZXInCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy53cFNyYyA9ICgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">d2luZG8K</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">d2FsbHBhcGVyLmdldCgpCiAgLnRoZW4ocGF0aCA9PiBjb25zb2xlLmxvZyhwYXRoKSkKICAuY2F0Y2goY29uc29sZS5lcnJvcik=</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IHdhbGxwYXBlciBmcm9tICd3YWxscGFwZXInCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhjb25maWcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJyZXF1aXJlIjogWyJiYWJlbC1yZWdpc3RlciJdLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -6441,11 +6441,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">d2FsbHBhcGVyLmdldCgpCiAgLnRoZW4ocGF0aCA9PiBjb25zb2xlLmxvZyhwYXRoKSkKICAuY2F0Y2goY29uc29sZS5lcnJvcik=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhjb25maWcpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
