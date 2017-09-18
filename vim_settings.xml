@@ -2703,11 +2703,12 @@
         <mark key="^" line="1" column="13" />
         <mark key="." line="1" column="13" />
       </file>
-      <file name="$USER_HOME$/Dev/wallpaper-switcher/src/renderer/components/LandingPage/CurrentWallpaper.vue" timestamp="1505679666524">
-        <mark key="'" line="3" column="8" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Dev/wallpaper-switcher/src/renderer/components/LandingPage/CurrentWallpaper.vue" timestamp="1505727439100">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="30" column="24" />
+        <mark key="]" line="30" column="24" />
+        <mark key="." line="30" column="24" />
+        <mark key="^" line="30" column="24" />
       </file>
       <file name="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/middlewares/index.ts" timestamp="1491490728020">
         <mark key="[" line="0" column="0" />
@@ -2914,11 +2915,12 @@
         <mark key="." line="6" column="28" />
         <mark key="^" line="6" column="28" />
       </file>
-      <file name="$USER_HOME$/Dev/wallpaper-switcher/src/renderer/components/Card.vue" timestamp="1505679588034">
-        <mark key="'" line="25" column="3" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Dev/wallpaper-switcher/src/renderer/components/Card.vue" timestamp="1505726945190">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="14" column="16" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/tests/angular/posts/src/assets/scss/_typography.scss" timestamp="1490887591837">
         <mark key="[" line="10" column="1" />
@@ -4779,9 +4781,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="15" filename="$USER_HOME$/Dev/baby-foot/api/src/services/player/index.js" />
-      <jump line="48" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/services/player/index.js" />
-      <jump line="18" column="23" filename="$USER_HOME$/Dev/baby-foot/api/src/services/player/controller.test.js" />
       <jump line="1" column="25" filename="$USER_HOME$/Dev/baby-foot/api/src/services/player/controller.test.js" />
       <jump line="22" column="29" filename="$USER_HOME$/Dev/baby-foot/api/src/services/player/controller.test.js" />
       <jump line="28" column="19" filename="$USER_HOME$/Dev/baby-foot/api/src/services/player/controller.test.js" />
@@ -4872,13 +4871,16 @@
       <jump line="1" column="0" filename="$USER_HOME$/Dev/unsplash/script/src/config/index.test.js" />
       <jump line="5" column="9" filename="$USER_HOME$/Dev/wallpaper-switcher/src/renderer/components/LandingPage/CurrentWallpaper.vue" />
       <jump line="6" column="11" filename="$USER_HOME$/Dev/wallpaper-switcher/src/renderer/components/LandingPage/CurrentWallpaper.vue" />
-      <jump line="16" column="18" filename="$USER_HOME$/Dev/wallpaper-switcher/src/renderer/components/LandingPage/CurrentWallpaper.vue" />
       <jump line="3" column="8" filename="$USER_HOME$/Dev/wallpaper-switcher/src/renderer/components/LandingPage/CurrentWallpaper.vue" />
       <jump line="42" column="0" filename="$USER_HOME$/Dev/wallpaper-switcher/src/renderer/components/LandingPage.vue" />
       <jump line="1" column="17" filename="$USER_HOME$/Dev/wallpaper-switcher/src/renderer/components/Card.vue" />
       <jump line="17" column="2" filename="$USER_HOME$/Dev/wallpaper-switcher/src/renderer/components/Card.vue" />
       <jump line="3" column="2" filename="$USER_HOME$/Dev/wallpaper-switcher/src/renderer/components/Card.vue" />
       <jump line="20" column="3" filename="$USER_HOME$/Dev/wallpaper-switcher/src/renderer/components/Card.vue" />
+      <jump line="15" column="13" filename="$USER_HOME$/Dev/wallpaper-switcher/src/renderer/components/Card.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dev/wallpaper-switcher/src/renderer/components/Card.vue" />
+      <jump line="16" column="7" filename="$USER_HOME$/Dev/wallpaper-switcher/src/renderer/components/LandingPage/CurrentWallpaper.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dev/wallpaper-switcher/src/renderer/components/LandingPage/CurrentWallpaper.vue" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4887,8 +4889,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>div</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -6412,7 +6414,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGl2IA==</text>
+        <text>div</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -6433,22 +6435,22 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICBpbXBvcnQgQ2FyZCBmcm9tICcuL0NhcmQnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPGltZyBzcmM9Cg==</text>
+        <text encoding="base64">ICAgIDxwIGNsYXNzPSJ0aXRsZSI+Q3VycmVudCB3YWxscGFwZXI8L3A+Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IAogIC5jYXJkX19pbWFnZSB7CiAgICAKICB9</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpbWdQYXRoOiBudWxsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CmRkCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ICAubmF2YmFyIHsKICAgIGRpc3BsYXk6IGZsZXg7CiAgICBmbGV4LWZsb3c6IHJvdyBub3dyYXA7CiAgICB3aWR0aDogMTAwJTsKICB9CgogIC5uYXZiYXJfX2xpbmsgewoKICB9</text>
+        <text encoding="base64">Z2V0V2FsbHBhcGVyICgpIHsKICAgICAgICB3YWxscGFwZXIuZ2V0KCkudGhlbihpbWcgPT4gewogICAgICAgICAgdGhpcy5pbWdQYXRoID0gZmlsZVVybChpbWcpCiAgICAgICAgfSkKICAgICAgfQ==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -6457,10 +6459,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgPGltZyBpZD0iY3VycmVudC13cCIgOnNyYz0iaW1nUGF0aCIgYWx0PSJ3YWxscGFwZXIiPgo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PG5hdiBjbGFzcz0ibmF2YmFyIj4KICAgICAgPGEgY2xhc3M9Im5hdmJhcl9fbGluayIgaHJlZj0iLyI+Q3VycmVudCB3YWxscGFwZXI8L2E+CiAgICA8L25hdj4=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -6516,8 +6518,8 @@
         <entry encoding="base64">JzwsJz5zL3N0b3JlL3BsYXllclN0b3JlL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2ZpbmRPbmUvZmluZE9uZUJ5VHJpZ3JhbS9n</entry>
         <entry>qall</entry>
-        <entry>wq</entry>
         <entry>q</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
