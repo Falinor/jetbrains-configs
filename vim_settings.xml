@@ -1439,12 +1439,12 @@
         <mark key="^" line="1" column="13" />
         <mark key="." line="1" column="13" />
       </file>
-      <file name="$USER_HOME$/Dev/wallpaper-switcher/src/renderer/components/LandingPage/CurrentWallpaper.vue" timestamp="1505777961212">
+      <file name="$USER_HOME$/Dev/wallpaper-switcher/src/renderer/components/LandingPage/CurrentWallpaper.vue" timestamp="1505779225305">
         <mark key="'" line="1" column="20" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
-        <mark key="^" line="78" column="10" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
+        <mark key="^" line="80" column="19" />
       </file>
       <file name="$USER_HOME$/Dev/wot-api/package.json" timestamp="1489164203196">
         <mark key="[" line="19" column="14" />
@@ -4899,8 +4899,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -6424,7 +6424,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -6439,28 +6439,28 @@
         <text encoding="base64">ICB0LmlzKHR5cGVvZiBtb2RlbC5nZXRUZWFtcywgJ2Z1bmN0aW9uJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGp1c3RpZnktY29udGVudDo7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAuY2FyZF9faSB9Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">bWFnZSB7CiA=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHdpZHRoOiAK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLmRkCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBiYXNlUGF0aCA9ICcvVXNlcnMvaW5hZC9QaWN0dXJlcycKICAgICAgICB0aGlzLmN1cnJlbnRGb2xkZXIgPSBiYXNlUGF0aAo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZmlsZVVybDoK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBiYXNlUGF0aCA9ICcvVXNlcnMvaW5hZC9QaWN0dXJlcycKICAgICAgICB0aGlzLmN1cnJlbnRGb2xkZXIgPSBiYXNlUGF0aAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -6469,10 +6469,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy4K</text>
+        <text encoding="base64">ICAgICAgZmlsZVVybDoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy4K</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
