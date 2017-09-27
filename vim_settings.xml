@@ -735,6 +735,12 @@
         <mark key="^" line="8" column="30" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Dev/wallpaper-switcher/test/unit/index.js" timestamp="1506545748325">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="29" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Dev/wot-authorization-server/api/README.md" timestamp="1491461090478">
         <mark key="[" line="3" column="13" />
         <mark key="]" line="3" column="13" />
@@ -2750,6 +2756,13 @@
         <mark key="]" line="7" column="16" />
         <mark key="." line="7" column="16" />
         <mark key="^" line="7" column="16" />
+      </file>
+      <file name="$USER_HOME$/Dev/wallpaper-switcher/test/unit/config/index.test.js" timestamp="1506546005460">
+        <mark key="'" line="9" column="51" />
+        <mark key="[" line="8" column="50" />
+        <mark key="]" line="9" column="51" />
+        <mark key="." line="9" column="51" />
+        <mark key="^" line="9" column="51" />
       </file>
       <file name="$USER_HOME$/Dev/baby-foot/web/src/app/app.module.ts" timestamp="1495665647590">
         <mark key="[" line="18" column="16" />
@@ -4816,9 +4829,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/services/team/index.test.js" />
-      <jump line="5" column="46" filename="$USER_HOME$/Dev/baby-foot/api/src/services/team/index.test.js" />
-      <jump line="20" column="20" filename="$USER_HOME$/Dev/baby-foot/api/src/services/team/index.test.js" />
       <jump line="59" column="1" filename="$USER_HOME$/Dev/baby-foot/api/src/services/team/index.test.js" />
       <jump line="62" column="14" filename="$USER_HOME$/Dev/baby-foot/api/src/services/team/index.test.js" />
       <jump line="10" column="33" filename="$USER_HOME$/Dev/baby-foot/api/src/services/index.js" />
@@ -4916,6 +4926,9 @@
       <jump line="5" column="0" filename="$USER_HOME$/Dev/wallpaper-switcher/src/renderer/config/index.js" />
       <jump line="0" column="1" filename="$USER_HOME$/Dev/wallpaper-switcher/src/renderer/config/index.js" />
       <jump line="27" column="19" filename="$USER_HOME$/Dev/wallpaper-switcher/src/renderer/components/Search.vue" />
+      <jump line="3" column="1" filename="$USER_HOME$/Dev/wallpaper-switcher/test/unit/config/index.test.js" />
+      <jump line="2" column="47" filename="$USER_HOME$/Dev/wallpaper-switcher/test/unit/config/index.test.js" />
+      <jump line="9" column="51" filename="$USER_HOME$/Dev/wallpaper-switcher/test/unit/config/index.test.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4925,7 +4938,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>folders</text>
+        <text>object</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -6449,7 +6462,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>folders</text>
+        <text>object</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -6464,30 +6477,30 @@
         <text encoding="base64">ICAgICAgICAgIDxtZC10YWIgbWRMYWJlbD0iTXkgd2FsbHBhcGVycyIgbWRJY29uPSJ3YWxscGFwZXIiPjwvbWQtdGFiPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG0K</text>
+        <text encoding="base64">ICBjb25maWcuCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">cHJvY2Vzcy5lbnYuQkFCRUxfRU5WID0gJ3Rlc3QnCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIG0K</text>
+      </register>
+      <register name="4" type="4">
         <text>ounted () {
       
     },</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgdGhpcy5nZXRQaG90b3MoKQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICA8aW1nIDpzcmM9IiIK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8bWQtCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICA8bWQtCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -6496,13 +6509,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -6555,9 +6568,9 @@
         <entry encoding="base64">JzwsJz5zL3N0b3JlL3BsYXllclN0b3JlL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2ZpbmRPbmUvZmluZE9uZUJ5VHJpZ3JhbS9n</entry>
         <entry>qall</entry>
-        <entry>q</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
