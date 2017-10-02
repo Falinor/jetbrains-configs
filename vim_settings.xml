@@ -3696,12 +3696,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/src/services/player/model.test.js" timestamp="1506861440551">
-        <mark key="'" line="11" column="27" />
-        <mark key="[" line="13" column="32" />
-        <mark key="]" line="8" column="12" />
-        <mark key="^" line="8" column="12" />
-        <mark key="." line="8" column="12" />
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/services/player/model.test.js" timestamp="1506986202191">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="31" column="24" />
+        <mark key="]" line="31" column="24" />
+        <mark key="^" line="31" column="24" />
+        <mark key="." line="31" column="24" />
       </file>
       <file name="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/src/models/user/user-controller.ts" timestamp="1491573887312">
         <mark key="'" line="4" column="0" />
@@ -4844,7 +4844,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="2" filename="$USER_HOME$/Dev/baby-foot/api/src/test/utils.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/test/utils.js" />
       <jump line="14" column="1" filename="$USER_HOME$/Dev/baby-foot/api/src/test/utils.js" />
       <jump line="15" column="41" filename="$USER_HOME$/Dev/baby-foot/api/src/services/team/index.test.js" />
@@ -4944,13 +4943,14 @@
       <jump line="7" column="36" filename="$USER_HOME$/Dev/baby-foot/api/src/services/player/model.test.js" />
       <jump line="2" column="46" filename="$USER_HOME$/Dev/baby-foot/api/src/services/player/model.test.js" />
       <jump line="11" column="27" filename="$USER_HOME$/Dev/baby-foot/api/src/services/player/model.test.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/services/player/model.test.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>player</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB0LnRydWUoc3R1Yi5xdWVyeS5jYWxsZWQpOwo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -6474,7 +6474,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>player</text>
+        <text>returns</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -6489,29 +6489,28 @@
         <text encoding="base64">ICAgICAgICAgIDxtZC10YWIgbWRMYWJlbD0iTXkgd2FsbHBhcGVycyIgbWRJY29uPSJ3YWxscGFwZXIiPjwvbWQtdGFiPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBUT0RPCg==</text>
+        <text encoding="base64">ICB0LnRydWUoc3R1Yi5xdWVyeS5jYWxsZWQpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkYi5xdWVyeShgCiAgKQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh0ZWFtcygpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBjb24K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGAsCg==</text>
+        <text encoding="base64">ICB0Lgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBjb25zdCBtb2RlbCA9Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>FOR p IN 1..1 OUTBOUND @playerId GRAPH 
-    RETURN p</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBwcm9taXNlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHvCp30gZnJvbSAnYXJhbmdvanMnCg==</text>
+        <text encoding="base64">ICBjb25zdCAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -6520,10 +6519,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHFiIGZyb20gJ2FxYic7Cg==</text>
+        <text encoding="base64">ICAgIHNpbm8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
