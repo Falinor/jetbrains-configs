@@ -4060,11 +4060,12 @@
         <mark key="." line="11" column="41" />
         <mark key="^" line="11" column="41" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/src/services/player/model.js" timestamp="1506883415727">
-        <mark key="'" line="15" column="74" />
-        <mark key="[" line="8" column="9" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/services/player/model.js" timestamp="1506959333826">
+        <mark key="'" line="25" column="74" />
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="7" column="21" />
+        <mark key="^" line="7" column="21" />
+        <mark key="." line="7" column="21" />
       </file>
       <file name="$USER_HOME$/Dev/Java/search-engine/src/main/kotlin/com/inad/managers/SearchManager.kt" timestamp="1484649562190">
         <mark key="[" line="13" column="67" />
@@ -4948,8 +4949,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBxYi5mb3IoJ3AnKS5pbihDT0xMRUNUSU9OKS5maWx0ZXIoKS5yZXR1cm4oJ3AnKQo=</text>
+      <register name="&quot;" type="4">
+        <text>player</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -6473,7 +6474,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>players</text>
+        <text>player</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -6488,28 +6489,29 @@
         <text encoding="base64">ICAgICAgICAgIDxtZC10YWIgbWRMYWJlbD0iTXkgd2FsbHBhcGVycyIgbWRJY29uPSJ3YWxscGFwZXIiPjwvbWQtdGFiPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBxYi5mb3IoJ3AnKS5pbihDT0xMRUNUSU9OKS5maWx0ZXIoKS5yZXR1cm4oJ3AnKQo=</text>
+        <text encoding="base64">ICAvLyBUT0RPCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCBxdWVyeSA9IHFiLmZvcigncCcpLmluKCdwbGF5ZXJzJykucmV0dXJuKCdwJyk7Cg==</text>
+        <text encoding="base64">ICBkYi5xdWVyeShgCiAgKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNpbm9uLgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9LnN0dWIoKTsK</text>
+        <text encoding="base64">ICAgIGAsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbmZpZyBmcm9tICcuLi8uLi9jb25maWcnOwo=</text>
+      <register name="6" type="4">
+        <text>FOR p IN 1..1 OUTBOUND @playerId GRAPH 
+    RETURN p</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbmZpZyBmcm9tICcuLi8uLi9jb25maWcnOwo=</text>
+        <text encoding="base64">aW1wb3J0IHvCp30gZnJvbSAnYXJhbmdvanMnCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -6518,10 +6520,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBmaW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGdldFRlYW1zOiAK</text>
+        <text encoding="base64">aW1wb3J0IHFiIGZyb20gJ2FxYic7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
