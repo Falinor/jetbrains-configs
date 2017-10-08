@@ -744,12 +744,12 @@
         <mark key="^" line="9" column="20" />
         <mark key="." line="9" column="20" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/docs/paths/player/teams.yml" timestamp="1507460496746">
+      <file name="$USER_HOME$/Dev/baby-foot/api/docs/paths/player/teams.yml" timestamp="1507483757473">
         <mark key="'" line="28" column="6" />
-        <mark key="[" line="1" column="11" />
-        <mark key="]" line="1" column="15" />
-        <mark key="." line="1" column="15" />
-        <mark key="^" line="1" column="15" />
+        <mark key="[" line="17" column="32" />
+        <mark key="]" line="17" column="30" />
+        <mark key="." line="17" column="30" />
+        <mark key="^" line="17" column="30" />
       </file>
       <file name="$USER_HOME$/Dev/PFEE/rest-api/src/main/java/com/watsize/api/users/colors/biography/repositories/ColorBiographyRepository.java" timestamp="1478093689258">
         <mark key="[" line="2" column="0" />
@@ -4985,7 +4985,8 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">R2V0IA==</text>
+        <text>A team cannot exist without players, that is why
+    it must be saved using a player, it cannot be standalone.</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -6509,7 +6510,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">R2V0IA==</text>
+        <text encoding="base64">Zm9vdCA=</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -6526,29 +6527,30 @@
   t.true(res.json.calledOnce);
   t.true(res.json.calledWithExactly(teams));</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIEZpbmQgcGxheWVycyB3aXRoIHBhZ2luYXRpb24uIC4uLgo=</text>
+      <register name="1" type="4">
+        <text>A team cannot exist without players, that is why
+    it must be saved using a player, it cannot be standalone.</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAiIy8K</text>
+        <text encoding="base64">ICAgIEZpbmQgcGxheWVycyB3aXRoIHBhZ2luYXRpb24uIC4uLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMvUmVzcG9uc2VzOiAK</text>
+        <text encoding="base64">ICAiIy8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAtIHBsYXllcnMK</text>
+        <text encoding="base64">ICAgICMvUmVzcG9uc2VzOiAK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAtIHBsYXllcnMK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICBwbGF5ZXJzOgogICAgdHlwZTogYXJyYXkKICAgIGl0ZW1zOgogICAgICB0eXBlOiBzdHJpbmcKICAgICAgcGF0dGVybjogL15bQS1aXXszfSQvCiAgICAgIG1pbkl0ZW1zOiAxCiAgICAgIG1heEl0ZW1zOiAyCiAgICAgIHVuaXF1ZUl0ZW1zOiB0cnVl</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICByZXMuc3RhdHVzKDUwMSkuanNvbignTm90IGltcGxlbWVudGVkJyk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -6557,13 +6559,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB0LnRydWUK</text>
+        <text encoding="base64">ICByZXMuc3RhdHVzKDUwMSkuanNvbignTm90IGltcGxlbWVudGVkJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHsgY3JlYXRlZEF0OiBuZXcgRGF0ZSgpIH0sCiAgICAK</text>
+        <text encoding="base64">ICB0LnRydWUK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -6616,9 +6618,9 @@
         <entry encoding="base64">JzwsJz5zL2RiL21hdGNoU3RvcmUvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2ZpbmRPbmVCeVRyaWdyYW0vZmluZE9uZS9n</entry>
         <entry>qall</entry>
+        <entry>wq</entry>
         <entry>q</entry>
         <entry>w</entry>
-        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
