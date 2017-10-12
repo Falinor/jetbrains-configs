@@ -3327,12 +3327,12 @@
         <mark key="." line="17" column="28" />
         <mark key="^" line="17" column="28" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/src/services/team/controller.test.js" timestamp="1507794437938">
-        <mark key="'" line="29" column="34" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="50" column="7" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/services/team/controller.test.js" timestamp="1507821679981">
+        <mark key="'" line="32" column="39" />
+        <mark key="[" line="45" column="30" />
+        <mark key="]" line="45" column="28" />
+        <mark key="^" line="45" column="28" />
+        <mark key="." line="45" column="28" />
       </file>
       <file name="$USER_HOME$/Dev/baby-foot/web/src/app/shared/shared.module.ts" timestamp="1495665293774">
         <mark key="[" line="10" column="28" />
@@ -4694,11 +4694,12 @@
         <mark key="^" line="29" column="10" />
         <mark key="." line="29" column="10" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/src/services/team/controller.js" timestamp="1507794340873">
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/services/team/controller.js" timestamp="1507821672000">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+        <mark key="[" line="8" column="17" />
+        <mark key="]" line="11" column="16" />
+        <mark key="." line="11" column="16" />
+        <mark key="^" line="11" column="16" />
       </file>
       <file name="$USER_HOME$/Dev/web-of-things/iot-poc/api/src/index.js" timestamp="1499185238710">
         <mark key="'" line="24" column="16" />
@@ -4857,7 +4858,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="2" filename="$USER_HOME$/Dev/baby-foot/api/src/services/player/model.js" />
       <jump line="3" column="40" filename="$USER_HOME$/Dev/baby-foot/api/src/services/player/controller.test.js" />
       <jump line="25" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/services/match/model.test.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/services/match/model.test.js" />
@@ -4957,13 +4957,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/services/team/controller.js" />
       <jump line="45" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/services/team/controller.test.js" />
       <jump line="29" column="34" filename="$USER_HOME$/Dev/baby-foot/api/src/services/team/controller.test.js" />
+      <jump line="32" column="39" filename="$USER_HOME$/Dev/baby-foot/api/src/services/team/controller.test.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -6487,7 +6488,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGhhdCA=</text>
+        <text>)</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -6502,30 +6503,30 @@
         <text encoding="base64">ICB0LmlzKHR5cGVvZiBtb2RlbC5maW5kTWF0Y2hlcywgJ2Z1bmN0aW9uJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgeyByZWQ6IHsgcG9pbnRzOiAxMCB9LCBibHVlOiB7IHBvaW50czogNiB9LCBjcmVhdGVkQXQ6IG5ldyBEYXRlKCkgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="4">
         <text>vertex: sinon.stub().resolves({
       _id: '1234'
     }),</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ZXhwb3J0IAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICoK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gVE9ETzogZmluZFBsYXllcnMK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0Lgo=</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -6534,10 +6535,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Ly8gVE9ETzogZmluZFBsYXllcnMK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IGNvbnN0IHF1ZXJ5ID0gYAogIGA7CiAgY29uc3QgYmluZFZhcnMgPSB7CgogIH07CiAg</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICB0Lgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
