@@ -2260,7 +2260,7 @@
         <mark key="." line="0" column="24" />
         <mark key="^" line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/docs/paths/match/matches.yml" timestamp="1507850786911">
+      <file name="$USER_HOME$/Dev/baby-foot/api/docs/paths/match/matches.yml" timestamp="1507896968992">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -3478,12 +3478,12 @@
         <mark key="^" line="24" column="17" />
         <mark key="." line="28" column="16" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/package.json" timestamp="1507882408603">
+      <file name="$USER_HOME$/Dev/baby-foot/api/package.json" timestamp="1507896874666">
         <mark key="'" line="16" column="23" />
-        <mark key="[" line="19" column="33" />
-        <mark key="]" line="19" column="25" />
-        <mark key="." line="19" column="25" />
-        <mark key="^" line="19" column="25" />
+        <mark key="[" line="19" column="40" />
+        <mark key="]" line="19" column="39" />
+        <mark key="." line="19" column="39" />
+        <mark key="^" line="19" column="39" />
       </file>
       <file name="$USER_HOME$/Dev/web-of-things/iot-poc/api/src/api.hooks.js" timestamp="1496754425508">
         <mark key="[" line="3" column="7" />
@@ -4872,7 +4872,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="3" filename="$USER_HOME$/Dev/baby-foot/api/src/services/player/model.js" />
       <jump line="14" column="4" filename="$USER_HOME$/Dev/baby-foot/api/src/services/player/model.js" />
       <jump line="45" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/services/player/model.js" />
       <jump line="7" column="2" filename="$USER_HOME$/Dev/baby-foot/api/src/services/player/model.js" />
@@ -4972,13 +4971,14 @@
       <jump line="3" column="6" filename="$USER_HOME$/Dev/baby-foot/api/docs/paths/index.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/Dev/baby-foot/api/docs/swagger.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/Dev/baby-foot/api/docs/paths/team/teams.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dev/baby-foot/api/docs/paths/match/matches.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">dy1pIGRvY3Mvc3dhZ2dlci5qc29uIA==</text>
+        <text encoding="base64">Z2V0OgogIHN1bW1hcnk6IEZpbmQgbWF0Y2hlcwogIGRlc2NyaXB0aW9uOiA+CiAgICBBIGRldGFpbGVkIGRlc2NyaXB0aW9uIG9mIHRoZSBvcGVyYXRpb24KICAgIHVzaW5nIEdpdEh1YiBmbGF2b3VyZWQgbWFya2Rvd24KICBvcGVyYXRpb25JZDogZmluZE1hdGNoZXMKICB0YWdzOgogICAgLSBNYXRjaGVzCiAgcmVzcG9uc2VzOgogICAgMjAwOgogICAgICBkZXNjcmlwdGlvbjogT0s=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -6502,7 +6502,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dy1pIGRvY3Mvc3dhZ2dlci5qc29uIA==</text>
+        <text />
       </register>
       <register name="m" type="4">
         <keys>
@@ -6522,19 +6522,31 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Z2V0Ogo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICBzdW1tYXJ5OiBGaW5kIG1hdGNoZXMKICBkZXNjcmlwdGlvbjogPgogICAgQSBkZXRhaWxlZCBkZXNjcmlwdGlvbiBvZiB0aGUgb3BlcmF0aW9uCiAgICB1c2luZyBHaXRIdWIgZmxhdm91cmVkIG1hcmtkb3duCiAgb3BlcmF0aW9uSWQ6IGZpbmRNYXRjaGVzCiAgdGFnczoKICAgIC0gTWF0Y2hlcwogIHJlc3BvbnNlczoKICAgIDIwMDoKICAgICAgZGVzY3JpcHRpb246IE9L</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">Z2V0OgogIHN1bW1hcnk6IEZpbmQgdGhlIG1lbWJlcnMgb2YgYSB0ZWFtLgogIGRlc2NyaXB0aW9uOiA+CiAgICBGaW5kIHRoZSBwbGF5ZXJzIGFzc29jaWF0ZWQgd2l0aCBhIHRlYW0uCiAgb3BlcmF0aW9uSWQ6IGZpbmRQbGF5ZXJzQnlUZWFtCiAgdGFnczoKICAgIC0gVGVhbSBlZGdlcwogIHJlc3BvbnNlczoKICAgIDIwMDoKICAgICAgZGVzY3JpcHRpb246IE9LCiAgICA0MDQ6CiAgICAgIGRlc2NyaXB0aW9uOiBOb3QgZm91bmQ=</text>
+        <text encoding="base64">Z2V0OgogIHN1bW1hcnk6IEZpbmQgbWF0Y2hlcwogIGRlc2NyaXB0aW9uOiA+CiAgICBBIGRldGFpbGVkIGRlc2NyaXB0aW9uIG9mIHRoZSBvcGVyYXRpb24KICAgIHVzaW5nIEdpdEh1YiBmbGF2b3VyZWQgbWFya2Rvd24KICBvcGVyYXRpb25JZDogZmluZE1hdGNoZXMKICB0YWdzOgogICAgLSBNYXRjaGVzCiAgcmVzcG9uc2VzOgogICAgMjAwOgogICAgICBkZXNjcmlwdGlvbjogT0s=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzdW1tYXJ5OiBGaW5kIHRoZSBtZW1iZXJzIG9mIGEgdGVhbS4K</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Z2V0Ogo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="5" type="4">
+        <text encoding="base64">Z2V0OgogIHN1bW1hcnk6IEZpbmQgdGhlIG1lbWJlcnMgb2YgYSB0ZWFtLgogIGRlc2NyaXB0aW9uOiA+CiAgICBGaW5kIHRoZSBwbGF5ZXJzIGFzc29jaWF0ZWQgd2l0aCBhIHRlYW0uCiAgb3BlcmF0aW9uSWQ6IGZpbmRQbGF5ZXJzQnlUZWFtCiAgdGFnczoKICAgIC0gVGVhbSBlZGdlcwogIHJlc3BvbnNlczoKICAgIDIwMDoKICAgICAgZGVzY3JpcHRpb246IE9LCiAgICA0MDQ6CiAgICAgIGRlc2NyaXB0aW9uOiBOb3QgZm91bmQ=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBzdW1tYXJ5OiBGaW5kIHRoZSBtZW1iZXJzIG9mIGEgdGVhbS4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Z2V0Ogo=</text>
+      </register>
+      <register name="w" type="4">
+        <keys>
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="8" type="4">
         <text>consumes:
   - application/json
 produces:
@@ -6548,20 +6560,8 @@ parameters:
 responses:
   $ref: ./responses/index.yml</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgc3VtbWFyeTogRmluZCB0aGUgbWVtYmVycyBvZiBhIHRlYW0uCiAgZGVzY3JpcHRpb246ID4KICAgIEZpbmQgdGhlIHBsYXllcnMgYXNzb2NpYXRlZCB3aXRoIGEgdGVhbS4KICBvcGVyYXRpb25JZDogZmluZFBsYXllcnNCeVRlYW0KICB0YWdzOgogICAgLSBUZWFtIGVkZ2VzCiAgcmVzcG9uc2VzOgogICAgMjAwOgogICAgICBkZXNjcmlwdGlvbjogT0sKICAgIDQwNDoKICAgICAgZGVzY3JpcHRpb246IE5vdCBmb3VuZA==</text>
-      </register>
-      <register name="w" type="4">
-        <keys>
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="27" mods="0" />
-        </keys>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICB2ZXJzaW9uOiAnMC4wLjEnCg==</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">Z2V0OgogIHN1bW1hcnk6IEZpbmQgdGVhbXMKICBkZXNjcmlwdGlvbjogPgogICAgRmluZCB0ZWFtcyB3aXRoIHBhZ2luYXRpb24uIE9uZSBjYW4gcGFzcyBxdWVyeSBwYXJhbWV0ZXJzCiAgICBpbiBvcmRlciB0byBmaWx0ZXIsIHNvcnQgb3IgbGltaXQgdGhlIGVudGl0aWVzLgogIG9wZXJhdGlvbklkOiBmaW5kVGVhbXMKICB0YWdzOgogICAgLSBUZWFtcwogIHJlc3BvbnNlczoKICAgIDIwMDoKICAgICAgZGVzY3JpcHRpb246IE9L</text>
+        <text encoding="base64">CiAgc3VtbWFyeTogRmluZCB0aGUgbWVtYmVycyBvZiBhIHRlYW0uCiAgZGVzY3JpcHRpb246ID4KICAgIEZpbmQgdGhlIHBsYXllcnMgYXNzb2NpYXRlZCB3aXRoIGEgdGVhbS4KICBvcGVyYXRpb25JZDogZmluZFBsYXllcnNCeVRlYW0KICB0YWdzOgogICAgLSBUZWFtIGVkZ2VzCiAgcmVzcG9uc2VzOgogICAgMjAwOgogICAgICBkZXNjcmlwdGlvbjogT0sKICAgIDQwNDoKICAgICAgZGVzY3JpcHRpb246IE5vdCBmb3VuZA==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
