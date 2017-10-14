@@ -1726,6 +1726,13 @@
         <mark key="^" line="15" column="11" />
         <mark key="." line="15" column="11" />
       </file>
+      <file name="$USER_HOME$/Dev/baby-foot/api/docs/parameters/index.yml" timestamp="1507984767367">
+        <mark key="'" line="14" column="6" />
+        <mark key="[" line="14" column="6" />
+        <mark key="]" line="14" column="6" />
+        <mark key="^" line="7" column="4" />
+        <mark key="." line="14" column="6" />
+      </file>
       <file name="$USER_HOME$/Dev/MusicUs/src/client/src/app/shared/select/select/select.component.ts" timestamp="1464712581754">
         <mark key="[" line="3" column="21" />
         <mark key="]" line="3" column="21" />
@@ -4887,7 +4894,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="23" filename="$USER_HOME$/Dev/baby-foot/api/src/services/player/model.js" />
       <jump line="5" column="23" filename="$USER_HOME$/Dev/baby-foot/api/src/services/player/model.js" />
       <jump line="30" column="3" filename="$USER_HOME$/Dev/baby-foot/api/src/services/player/model.js" />
       <jump line="47" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/services/player/model.js" />
@@ -4987,14 +4993,14 @@
       <jump line="7" column="19" filename="$USER_HOME$/Dev/baby-foot/api/doc/components/index.yml" />
       <jump line="8" column="0" filename="$USER_HOME$/Dev/baby-foot/api/doc/components/index.yml" />
       <jump line="3" column="18" filename="$USER_HOME$/Dev/baby-foot/api/doc/components/index.yml" />
+      <jump line="14" column="6" filename="$USER_HOME$/Dev/baby-foot/api/docs/parameters/index.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>schemas:
-  $ref: schemas.yml</text>
+        <text>Param</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -6518,7 +6524,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>basePath</text>
+        <text>Param</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -6572,7 +6578,7 @@
         <text encoding="base64">ZXh0ZXIK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -6626,8 +6632,8 @@
         <entry>qall</entry>
         <entry encoding="base64">JzwsJz5x</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
