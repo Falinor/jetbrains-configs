@@ -1565,7 +1565,6 @@
         <mark key="." line="6" column="14" />
         <mark key="^" line="6" column="14" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/.eslintrc" timestamp="1507803323733" />
       <file name="$USER_HOME$/Dev/tests/angular/posts/src/assets/scss/_typography.scss" timestamp="1490887591837">
         <mark key="[" line="10" column="1" />
         <mark key="]" line="13" column="17" />
@@ -1900,12 +1899,6 @@
         <mark key="]" line="27" column="30" />
         <mark key="." line="27" column="30" />
         <mark key="^" line="27" column="30" />
-      </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/src/services/team/model.js" timestamp="1507794298936">
-        <mark key="'" line="51" column="0" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/unsplash/script/src/config/index.test.js" timestamp="1505410737359">
         <mark key="'" line="1" column="0" />
@@ -2863,10 +2856,11 @@
         <mark key="." line="1" column="26" />
         <mark key="^" line="1" column="23" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/doc/openapi.yml" timestamp="1507978303504">
-        <mark key="[" line="21" column="6" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/Dev/baby-foot/api/doc/openapi.yml" timestamp="1507980818670">
+        <mark key="[" line="25" column="1" />
+        <mark key="]" line="26" column="6" />
+        <mark key="." line="26" column="6" />
+        <mark key="^" line="26" column="6" />
       </file>
       <file name="$USER_HOME$/Dev/Java/search-engine/src/main/kotlin/com/inad/crawler/CrawlerThread.kt" timestamp="1484659575597">
         <mark key="[" line="7" column="13" />
@@ -3122,6 +3116,13 @@
         <mark key="]" line="0" column="39" />
         <mark key="^" line="0" column="39" />
         <mark key="." line="0" column="39" />
+      </file>
+      <file name="$USER_HOME$/Dev/baby-foot/api/doc/components/index.yml" timestamp="1507980781479">
+        <mark key="'" line="5" column="18" />
+        <mark key="[" line="1" column="16" />
+        <mark key="]" line="1" column="16" />
+        <mark key="^" line="1" column="16" />
+        <mark key="." line="1" column="16" />
       </file>
       <file name="$USER_HOME$/Dev/C#/projet-c-front-end/src/client/app/shared/navbar/index.ts" timestamp="1465543418661">
         <mark key="[" line="2" column="3" />
@@ -4369,6 +4370,9 @@
         <mark key="." line="19" column="7" />
         <mark key="^" line="19" column="7" />
       </file>
+      <file name="$USER_HOME$/Dev/baby-foot/api/doc/components/parameters.yml" timestamp="1507980856307">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Dev/baby-foot/api/src/services/ajv/index.js" timestamp="1496306180958">
         <mark key="[" line="6" column="6" />
         <mark key="]" line="6" column="6" />
@@ -4883,9 +4887,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="4" filename="$USER_HOME$/Dev/baby-foot/api/src/services/player/model.js" />
-      <jump line="45" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/services/player/model.js" />
-      <jump line="7" column="2" filename="$USER_HOME$/Dev/baby-foot/api/src/services/player/model.js" />
       <jump line="23" column="23" filename="$USER_HOME$/Dev/baby-foot/api/src/services/player/model.js" />
       <jump line="5" column="23" filename="$USER_HOME$/Dev/baby-foot/api/src/services/player/model.js" />
       <jump line="30" column="3" filename="$USER_HOME$/Dev/baby-foot/api/src/services/player/model.js" />
@@ -4983,13 +4984,17 @@
       <jump line="0" column="0" filename="$USER_HOME$/Dev/baby-foot/api/docs/swagger.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/Dev/baby-foot/api/docs/paths/team/teams.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/Dev/baby-foot/api/docs/paths/match/matches.yml" />
+      <jump line="7" column="19" filename="$USER_HOME$/Dev/baby-foot/api/doc/components/index.yml" />
+      <jump line="8" column="0" filename="$USER_HOME$/Dev/baby-foot/api/doc/components/index.yml" />
+      <jump line="3" column="18" filename="$USER_HOME$/Dev/baby-foot/api/doc/components/index.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAkcmVmOiAnIy8K</text>
+      <register name="&quot;" type="4">
+        <text>schemas:
+  $ref: schemas.yml</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -6527,43 +6532,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICB0LmlzKHR5cGVvZiBtb2RlbC5maW5kTWF0Y2hlcywgJ2Z1bmN0aW9uJyk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAkcmVmOiAnIy8K</text>
+      <register name="1" type="4">
+        <text>schemas:
+  $ref: schemas.yml</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB0aXRsZTogT0NUTydzIGJhYnktZm9vdCBBUEkK</text>
+        <text encoding="base64">ICAkcmVmOiByZXEtYm9kaWVzLnltbAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXh0ZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>schemes:
-  - http
-  - https
-consumes:
-  - application/json
-produces:
-  - application/json
-paths:
-  $ref: ./paths/index.yml
-definitions:
-  $ref: ./definitions/index.yml
-parameters:
-  $ref: ./parameters/index.yml
-responses:
-  $ref: ./responses/index.yml</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">Z2V0OgogIHN1bW1hcnk6IEZpbmQgbWF0Y2hlcwogIGRlc2NyaXB0aW9uOiA+CiAgICBBIGRldGFpbGVkIGRlc2NyaXB0aW9uIG9mIHRoZSBvcGVyYXRpb24KICAgIHVzaW5nIEdpdEh1YiBmbGF2b3VyZWQgbWFya2Rvd24KICBvcGVyYXRpb25JZDogZmluZE1hdGNoZXMKICB0YWdzOgogICAgLSBNYXRjaGVzCiAgcmVzcG9uc2VzOgogICAgMjAwOgogICAgICBkZXNjcmlwdGlvbjogT0s=</text>
+        <text>headers:
+  $ref: headers.yml</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICBzdW1tYXJ5OiBGaW5kIG1hdGNoZXMKICBkZXNjcmlwdGlvbjogPgogICAgQSBkZXRhaWxlZCBkZXNjcmlwdGlvbiBvZiB0aGUgb3BlcmF0aW9uCiAgICB1c2luZyBHaXRIdWIgZmxhdm91cmVkIG1hcmtkb3duCiAgb3BlcmF0aW9uSWQ6IGZpbmRNYXRjaGVzCiAgdGFnczoKICAgIC0gTWF0Y2hlcwogIHJlc3BvbnNlczoKICAgIDIwMDoKICAgICAgZGVzY3JpcHRpb246IE9L</text>
+        <text>examples:
+  $ref: examples.yml</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">Z2V0OgogIHN1bW1hcnk6IEZpbmQgbWF0Y2hlcwogIGRlc2NyaXB0aW9uOiA+CiAgICBBIGRldGFpbGVkIGRlc2NyaXB0aW9uIG9mIHRoZSBvcGVyYXRpb24KICAgIHVzaW5nIEdpdEh1YiBmbGF2b3VyZWQgbWFya2Rvd24KICBvcGVyYXRpb25JZDogZmluZE1hdGNoZXMKICB0YWdzOgogICAgLSBNYXRjaGVzCiAgcmVzcG9uc2VzOgogICAgMjAwOgogICAgICBkZXNjcmlwdGlvbjogT0s=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAkcmVmOiAnIy8K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -6572,13 +6566,13 @@ responses:
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Z2V0Ogo=</text>
+        <text encoding="base64">ICB0aXRsZTogT0NUTydzIGJhYnktZm9vdCBBUEkK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Z2V0OgogIHN1bW1hcnk6IEZpbmQgdGhlIG1lbWJlcnMgb2YgYSB0ZWFtLgogIGRlc2NyaXB0aW9uOiA+CiAgICBGaW5kIHRoZSBwbGF5ZXJzIGFzc29jaWF0ZWQgd2l0aCBhIHRlYW0uCiAgb3BlcmF0aW9uSWQ6IGZpbmRQbGF5ZXJzQnlUZWFtCiAgdGFnczoKICAgIC0gVGVhbSBlZGdlcwogIHJlc3BvbnNlczoKICAgIDIwMDoKICAgICAgZGVzY3JpcHRpb246IE9LCiAgICA0MDQ6CiAgICAgIGRlc2NyaXB0aW9uOiBOb3QgZm91bmQ=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ZXh0ZXIK</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -6631,9 +6625,9 @@ responses:
         <entry encoding="base64">JzwsJz5zL2ZpbmRPbmVCeVRyaWdyYW0vZmluZE9uZS9n</entry>
         <entry>qall</entry>
         <entry encoding="base64">JzwsJz5x</entry>
-        <entry>wq</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
