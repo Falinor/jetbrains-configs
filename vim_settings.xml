@@ -2863,6 +2863,11 @@
         <mark key="." line="1" column="26" />
         <mark key="^" line="1" column="23" />
       </file>
+      <file name="$USER_HOME$/Dev/baby-foot/api/doc/openapi.yml" timestamp="1507978303504">
+        <mark key="[" line="21" column="6" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/Dev/Java/search-engine/src/main/kotlin/com/inad/crawler/CrawlerThread.kt" timestamp="1484659575597">
         <mark key="[" line="7" column="13" />
         <mark key="]" line="7" column="10" />
@@ -4983,8 +4988,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>basePath</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAkcmVmOiAnIy8K</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -6523,15 +6528,18 @@
         <text encoding="base64">ICB0LmlzKHR5cGVvZiBtb2RlbC5maW5kTWF0Y2hlcywgJ2Z1bmN0aW9uJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB0aXRsZTogT0NUTydzIGJhYnktZm9vdCBBUEkK</text>
+        <text encoding="base64">ICAkcmVmOiAnIy8K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICB0aXRsZTogT0NUTydzIGJhYnktZm9vdCBBUEkK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ZXh0ZXIK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>schemes:
   - http
   - https
@@ -6548,17 +6556,14 @@ parameters:
 responses:
   $ref: ./responses/index.yml</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Z2V0OgogIHN1bW1hcnk6IEZpbmQgbWF0Y2hlcwogIGRlc2NyaXB0aW9uOiA+CiAgICBBIGRldGFpbGVkIGRlc2NyaXB0aW9uIG9mIHRoZSBvcGVyYXRpb24KICAgIHVzaW5nIEdpdEh1YiBmbGF2b3VyZWQgbWFya2Rvd24KICBvcGVyYXRpb25JZDogZmluZE1hdGNoZXMKICB0YWdzOgogICAgLSBNYXRjaGVzCiAgcmVzcG9uc2VzOgogICAgMjAwOgogICAgICBkZXNjcmlwdGlvbjogT0s=</text>
-      </register>
       <register name="5" type="4">
-        <text encoding="base64">ICBzdW1tYXJ5OiBGaW5kIG1hdGNoZXMKICBkZXNjcmlwdGlvbjogPgogICAgQSBkZXRhaWxlZCBkZXNjcmlwdGlvbiBvZiB0aGUgb3BlcmF0aW9uCiAgICB1c2luZyBHaXRIdWIgZmxhdm91cmVkIG1hcmtkb3duCiAgb3BlcmF0aW9uSWQ6IGZpbmRNYXRjaGVzCiAgdGFnczoKICAgIC0gTWF0Y2hlcwogIHJlc3BvbnNlczoKICAgIDIwMDoKICAgICAgZGVzY3JpcHRpb246IE9L</text>
+        <text encoding="base64">Z2V0OgogIHN1bW1hcnk6IEZpbmQgbWF0Y2hlcwogIGRlc2NyaXB0aW9uOiA+CiAgICBBIGRldGFpbGVkIGRlc2NyaXB0aW9uIG9mIHRoZSBvcGVyYXRpb24KICAgIHVzaW5nIEdpdEh1YiBmbGF2b3VyZWQgbWFya2Rvd24KICBvcGVyYXRpb25JZDogZmluZE1hdGNoZXMKICB0YWdzOgogICAgLSBNYXRjaGVzCiAgcmVzcG9uc2VzOgogICAgMjAwOgogICAgICBkZXNjcmlwdGlvbjogT0s=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">Z2V0OgogIHN1bW1hcnk6IEZpbmQgbWF0Y2hlcwogIGRlc2NyaXB0aW9uOiA+CiAgICBBIGRldGFpbGVkIGRlc2NyaXB0aW9uIG9mIHRoZSBvcGVyYXRpb24KICAgIHVzaW5nIEdpdEh1YiBmbGF2b3VyZWQgbWFya2Rvd24KICBvcGVyYXRpb25JZDogZmluZE1hdGNoZXMKICB0YWdzOgogICAgLSBNYXRjaGVzCiAgcmVzcG9uc2VzOgogICAgMjAwOgogICAgICBkZXNjcmlwdGlvbjogT0s=</text>
+        <text encoding="base64">ICBzdW1tYXJ5OiBGaW5kIG1hdGNoZXMKICBkZXNjcmlwdGlvbjogPgogICAgQSBkZXRhaWxlZCBkZXNjcmlwdGlvbiBvZiB0aGUgb3BlcmF0aW9uCiAgICB1c2luZyBHaXRIdWIgZmxhdm91cmVkIG1hcmtkb3duCiAgb3BlcmF0aW9uSWQ6IGZpbmRNYXRjaGVzCiAgdGFnczoKICAgIC0gTWF0Y2hlcwogIHJlc3BvbnNlczoKICAgIDIwMDoKICAgICAgZGVzY3JpcHRpb246IE9L</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Z2V0Ogo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">Z2V0OgogIHN1bW1hcnk6IEZpbmQgbWF0Y2hlcwogIGRlc2NyaXB0aW9uOiA+CiAgICBBIGRldGFpbGVkIGRlc2NyaXB0aW9uIG9mIHRoZSBvcGVyYXRpb24KICAgIHVzaW5nIEdpdEh1YiBmbGF2b3VyZWQgbWFya2Rvd24KICBvcGVyYXRpb25JZDogZmluZE1hdGNoZXMKICB0YWdzOgogICAgLSBNYXRjaGVzCiAgcmVzcG9uc2VzOgogICAgMjAwOgogICAgICBkZXNjcmlwdGlvbjogT0s=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -6566,11 +6571,11 @@ responses:
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Z2V0OgogIHN1bW1hcnk6IEZpbmQgdGhlIG1lbWJlcnMgb2YgYSB0ZWFtLgogIGRlc2NyaXB0aW9uOiA+CiAgICBGaW5kIHRoZSBwbGF5ZXJzIGFzc29jaWF0ZWQgd2l0aCBhIHRlYW0uCiAgb3BlcmF0aW9uSWQ6IGZpbmRQbGF5ZXJzQnlUZWFtCiAgdGFnczoKICAgIC0gVGVhbSBlZGdlcwogIHJlc3BvbnNlczoKICAgIDIwMDoKICAgICAgZGVzY3JpcHRpb246IE9LCiAgICA0MDQ6CiAgICAgIGRlc2NyaXB0aW9uOiBOb3QgZm91bmQ=</text>
+      <register name="8" type="2">
+        <text encoding="base64">Z2V0Ogo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBzdW1tYXJ5OiBGaW5kIHRoZSBtZW1iZXJzIG9mIGEgdGVhbS4K</text>
+      <register name="9" type="4">
+        <text encoding="base64">Z2V0OgogIHN1bW1hcnk6IEZpbmQgdGhlIG1lbWJlcnMgb2YgYSB0ZWFtLgogIGRlc2NyaXB0aW9uOiA+CiAgICBGaW5kIHRoZSBwbGF5ZXJzIGFzc29jaWF0ZWQgd2l0aCBhIHRlYW0uCiAgb3BlcmF0aW9uSWQ6IGZpbmRQbGF5ZXJzQnlUZWFtCiAgdGFnczoKICAgIC0gVGVhbSBlZGdlcwogIHJlc3BvbnNlczoKICAgIDIwMDoKICAgICAgZGVzY3JpcHRpb246IE9LCiAgICA0MDQ6CiAgICAgIGRlc2NyaXB0aW9uOiBOb3QgZm91bmQ=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
