@@ -21,8 +21,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/doc/components/headers.yml" timestamp="1508092346077">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Dev/baby-foot/api/doc/components/headers.yml" timestamp="1508094665417">
+        <mark key="'" line="9" column="9" />
+        <mark key="[" line="14" column="6" />
+        <mark key="]" line="14" column="3" />
+        <mark key="." line="14" column="3" />
+        <mark key="^" line="14" column="3" />
       </file>
       <file name="$USER_HOME$/Dev/web-of-things/iot-poc/auth/schema.json" timestamp="1498827692078">
         <mark key="[" line="11" column="1" />
@@ -4905,7 +4909,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/services/player/model.js" />
       <jump line="1" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/services/player/model.js" />
       <jump line="49" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/services/player/model.js" />
       <jump line="37" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/services/player/controller.test.js" />
@@ -5005,13 +5008,14 @@
       <jump line="14" column="6" filename="$USER_HOME$/Dev/baby-foot/api/docs/parameters/index.yml" />
       <jump line="4" column="1" filename="$USER_HOME$/Dev/baby-foot/api/doc/paths/player/players.yml" />
       <jump line="1" column="0" filename="$USER_HOME$/Dev/baby-foot/api/doc/paths/player/players.yml" />
+      <jump line="9" column="9" filename="$USER_HOME$/Dev/baby-foot/api/doc/components/headers.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBoZWFkZXJzOgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cmVzcG9uc2Ug</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -6535,7 +6539,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>skip</text>
+        <text encoding="base64">cmVzcG9uc2Ug</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -6550,33 +6554,33 @@
         <text encoding="base64">ICB0LmlzKHR5cGVvZiBtb2RlbC5maW5kTWF0Y2hlcywgJ2Z1bmN0aW9uJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBoZWFkZXJzOgo=</text>
+        <text encoding="base64">ICAgIC0gCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBoZWFkZXJzOgo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICB0YWdzOiAtCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>/matches:
   $ref: match/matches.yml
 
 /matches/{id}:
   $ref: match/match.yml</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>schemas:
   $ref: schemas.yml</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAkcmVmOiByZXEtYm9kaWVzLnltbAo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAkcmVmOiByZXEtYm9kaWVzLnltbAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -6587,12 +6591,11 @@
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>headers:
-  $ref: headers.yml</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -6646,8 +6649,8 @@
         <entry>qall</entry>
         <entry encoding="base64">JzwsJz5x</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
