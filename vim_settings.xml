@@ -21,6 +21,9 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Dev/baby-foot/api/doc/components/headers.yml" timestamp="1508092346077">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Dev/web-of-things/iot-poc/auth/schema.json" timestamp="1498827692078">
         <mark key="[" line="11" column="1" />
         <mark key="]" line="8" column="19" />
@@ -1850,14 +1853,6 @@
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/src/services/match/model.js" timestamp="1507834140915">
-        <mark key="a" line="6" column="15" />
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="8" column="1" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/index.js" timestamp="1498231465621">
         <mark key="'" line="24" column="25" />
         <mark key="[" line="36" column="9" />
@@ -2776,12 +2771,12 @@
         <mark key="." line="19" column="16" />
         <mark key="^" line="19" column="16" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/doc/paths/player/players.yml" timestamp="1508064286070">
+      <file name="$USER_HOME$/Dev/baby-foot/api/doc/paths/player/players.yml" timestamp="1508092369463">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="7" column="11" />
-        <mark key="]" line="7" column="1" />
-        <mark key="^" line="7" column="1" />
-        <mark key="." line="7" column="1" />
+        <mark key="[" line="11" column="9" />
+        <mark key="]" line="11" column="8" />
+        <mark key="^" line="11" column="8" />
+        <mark key="." line="11" column="8" />
       </file>
       <file name="$USER_HOME$/Dev/web-of-things/wot-dashboard/front/src/app/app-routing.module.ts" timestamp="1491383242269">
         <mark key="[" line="4" column="28" />
@@ -3856,7 +3851,7 @@
         <mark key="^" line="4" column="37" />
         <mark key="." line="4" column="37" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/doc/paths/index.yml" timestamp="1508063991260">
+      <file name="$USER_HOME$/Dev/baby-foot/api/doc/paths/index.yml" timestamp="1508092377853">
         <mark key="[" line="0" column="9" />
         <mark key="]" line="1" column="25" />
         <mark key="^" line="1" column="25" />
@@ -5015,8 +5010,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>swagger</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBoZWFkZXJzOgo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -6540,7 +6535,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>swagger</text>
+        <text>skip</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -6555,30 +6550,30 @@
         <text encoding="base64">ICB0LmlzKHR5cGVvZiBtb2RlbC5maW5kTWF0Y2hlcywgJ2Z1bmN0aW9uJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBoZWFkZXJzOgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICB0YWdzOiAtCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>/matches:
   $ref: match/matches.yml
 
 /matches/{id}:
   $ref: match/match.yml</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>schemas:
   $ref: schemas.yml</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAkcmVmOiByZXEtYm9kaWVzLnltbAo=</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAkcmVmOiByZXEtYm9kaWVzLnltbAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -6589,16 +6584,15 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
         <text>headers:
   $ref: headers.yml</text>
       </register>
-      <register name="9" type="4">
-        <text>examples:
-  $ref: examples.yml</text>
-      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -6652,8 +6646,8 @@
         <entry>qall</entry>
         <entry encoding="base64">JzwsJz5x</entry>
         <entry>q</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
