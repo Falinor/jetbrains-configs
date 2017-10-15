@@ -21,11 +21,11 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/doc/components/headers.yml" timestamp="1508095645332">
+      <file name="$USER_HOME$/Dev/baby-foot/api/doc/components/headers.yml" timestamp="1508097919292">
         <mark key="'" line="6" column="6" />
-        <mark key="[" line="6" column="4" />
-        <mark key="]" line="6" column="5" />
-        <mark key="." line="6" column="5" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="5" />
       </file>
       <file name="$USER_HOME$/Dev/web-of-things/iot-poc/auth/schema.json" timestamp="1498827692078">
@@ -2781,12 +2781,12 @@
         <mark key="." line="19" column="16" />
         <mark key="^" line="19" column="16" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/doc/paths/player/players.yml" timestamp="1508097113339">
+      <file name="$USER_HOME$/Dev/baby-foot/api/doc/paths/player/players.yml" timestamp="1508098731503">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="10" column="38" />
-        <mark key="]" line="10" column="42" />
-        <mark key="^" line="10" column="42" />
-        <mark key="." line="10" column="42" />
+        <mark key="[" line="10" column="6" />
+        <mark key="]" line="10" column="3" />
+        <mark key="^" line="10" column="3" />
+        <mark key="." line="10" column="3" />
       </file>
       <file name="$USER_HOME$/Dev/web-of-things/wot-dashboard/front/src/app/app-routing.module.ts" timestamp="1491383242269">
         <mark key="[" line="4" column="28" />
@@ -2875,11 +2875,11 @@
         <mark key="." line="1" column="26" />
         <mark key="^" line="1" column="23" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/doc/openapi.yml" timestamp="1508096691318">
-        <mark key="[" line="19" column="21" />
-        <mark key="]" line="21" column="7" />
-        <mark key="." line="21" column="7" />
-        <mark key="^" line="21" column="7" />
+      <file name="$USER_HOME$/Dev/baby-foot/api/doc/openapi.yml" timestamp="1508097887000">
+        <mark key="[" line="24" column="2" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/Java/search-engine/src/main/kotlin/com/inad/crawler/CrawlerThread.kt" timestamp="1484659575597">
         <mark key="[" line="7" column="13" />
@@ -5026,7 +5026,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFsbE9mOgo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -6550,7 +6550,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">LSA=</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -6565,31 +6565,29 @@
         <text encoding="base64">ICB0LmlzKHR5cGVvZiBtb2RlbC5maW5kTWF0Y2hlcywgJ2Z1bmN0aW9uJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFsbE9mOgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2VjdXJpdHlTY2hlbWVzOgogICRyZWY6IHNlY3VyaXR5LXNjaGVtZXMueW1sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAkcmVmOiBzY2hlbWFzLnltbAo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICByZXNwb25zZXM6CiAgICAnMjAwJw==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CnNjaGVtYXM6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
-        <text>requestBodies:
-  $ref: request-bodies.yml
-responses:
-  $ref: responses.yml</text>
+        <text>paths:
+  $ref: paths/index.yml</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bGlua3M6CiAgJHJlZjogbGlua3MueW1sCg==</text>
+        <text encoding="base64">ICAgICAgLSAkcmVmOiAnIy9jb21wb25lbnRzL2hlYWRlcnMnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICRyZWY6ICcjL2NvbXBvbmVudHMvcGFyYW1ldGVycycKICAgICAgLSAkcmVmOiAnIy9jb21wb25lbnRzL2hlYWRlcnMnCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -6597,14 +6595,11 @@ responses:
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text>callbacks:
-  $ref: callbacks.yml
-examples:
-  $ref: examples.yml</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGFsbE9mOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
