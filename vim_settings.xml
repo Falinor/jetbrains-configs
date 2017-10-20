@@ -77,12 +77,12 @@
         <mark key="." line="12" column="21" />
         <mark key="^" line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/bootcamp/package.json" timestamp="1508492012075">
+      <file name="$USER_HOME$/dev/bootcamp/package.json" timestamp="1508493611589">
         <mark key="'" line="4" column="20" />
-        <mark key="[" line="7" column="27" />
-        <mark key="]" line="7" column="25" />
-        <mark key="^" line="7" column="25" />
-        <mark key="." line="7" column="25" />
+        <mark key="[" line="6" column="14" />
+        <mark key="]" line="6" column="26" />
+        <mark key="^" line="6" column="26" />
+        <mark key="." line="6" column="26" />
       </file>
       <file name="$USER_HOME$/Dev/web-of-things/wot-authorization-server/api/tslint.json" timestamp="1491569772133">
         <mark key="'" line="4" column="28" />
@@ -1177,6 +1177,13 @@
         <mark key="." line="34" column="27" />
         <mark key="^" line="34" column="27" />
       </file>
+      <file name="$USER_HOME$/dev/bootcamp/index.e2e.js" timestamp="1508495070431">
+        <mark key="'" line="13" column="11" />
+        <mark key="[" line="20" column="9" />
+        <mark key="]" line="20" column="10" />
+        <mark key="^" line="20" column="10" />
+        <mark key="." line="20" column="10" />
+      </file>
       <file name="$USER_HOME$/Dev/iot-api/coap/api/models/games/games-routes.js" timestamp="1487066951460">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="1" />
@@ -1929,13 +1936,12 @@
         <mark key="." line="9" column="12" />
         <mark key="^" line="9" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/bootcamp/index.js" timestamp="1508334893671">
-        <mark key="'" line="14" column="2" />
-        <mark key="k" line="30" column="0" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="29" column="21" />
-        <mark key="." line="29" column="21" />
-        <mark key="^" line="29" column="21" />
+      <file name="$USER_HOME$/dev/bootcamp/index.js" timestamp="1508494783120">
+        <mark key="'" line="0" column="0" />
+        <mark key="k" line="31" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/web-of-things/iot-poc/broker/package.json" timestamp="1498216950697">
         <mark key="'" line="0" column="0" />
@@ -4989,10 +4995,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="2" filename="$USER_HOME$/Dev/baby-foot/api/src/services/team/controller.test.js" />
-      <jump line="22" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/services/team/model.test.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/services/team/model.test.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/services/team/model.test.js" />
       <jump line="10" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/services/team/model.test.js" />
       <jump line="7" column="38" filename="$USER_HOME$/Dev/baby-foot/api/src/services/team/model.test.js" />
       <jump line="14" column="8" filename="$USER_HOME$/Dev/baby-foot/api/src/services/team/index.js" />
@@ -5083,19 +5085,23 @@
       <jump line="9" column="4" filename="$USER_HOME$/dev/bootcamp/model.test.js" />
       <jump line="4" column="2" filename="$USER_HOME$/dev/bootcamp/model.js" />
       <jump line="31" column="0" filename="$USER_HOME$/dev/bootcamp/model.js" />
-      <jump line="4" column="0" filename="$USER_HOME$/dev/bootcamp/index.js" />
       <jump line="17" column="1" filename="$USER_HOME$/dev/bootcamp/index.js" />
       <jump line="10" column="2" filename="$USER_HOME$/dev/bootcamp/index.js" />
       <jump line="19" column="4" filename="$USER_HOME$/dev/bootcamp/model.js" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/bootcamp/model.js" />
       <jump line="4" column="20" filename="$USER_HOME$/dev/bootcamp/package.json" />
+      <jump line="6" column="31" filename="$USER_HOME$/dev/bootcamp/package.json" />
+      <jump line="3" column="17" filename="$USER_HOME$/dev/bootcamp/index.e2e.js" />
+      <jump line="4" column="23" filename="$USER_HOME$/dev/bootcamp/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/bootcamp/index.js" />
+      <jump line="13" column="11" filename="$USER_HOME$/dev/bootcamp/index.e2e.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>serial</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -6619,7 +6625,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Ly8g</text>
+        <text>serial</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -6634,28 +6640,28 @@
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYFJlc29sdmluZyB0byAke2lkfWApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">CiAgYXBwLnVzZShyb3V0ZXMpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">cmV0dXJuIGNhbGN1bGF0b3IucHJvbWlzZVN1bSgzMCwgMjApCiAgICAudGhlbihyZXN1bHQgPT4gewogICAgICB0LmlzKHJlc3VsdCwgNTApCiAgICB9KQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICB0LmNvbnRleHQuYXBpID0gY3JlYXRlQXBpKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzKQo=</text>
+        <text encoding="base64">ICB0LmNvbnRleHQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmVzID0gcmVzdWx0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBsZXQgcmVzCg==</text>
+        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSAoKSA9PiAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXMpCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXMudGV4dCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRvZG8pCg==</text>
+        <text encoding="base64">ICAgIC5zZXQoJ0FjY2VwdCcsICdhcHBsaWNhdGlvbi9qc29uJykK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -6664,13 +6670,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZmV0Y2goKQo=</text>
+        <text encoding="base64">ICAgIC5zZXQoJ0FjY2VwdCcsICdhcHBsaWNhdGlvbi9qc29uJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UHJvbWlzZS5yZXNvbHZlKCkKbmV3IFByb21pc2UoKHJlc29sdmUpID0+IHsgfSkK</text>
+        <text encoding="base64">ZXhwb3J0IGFwcAo=</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -6722,10 +6728,10 @@
         <entry>&quot;q</entry>
         <entry encoding="base64">JzwsJz5zLzsvL2g=</entry>
         <entry encoding="base64">JzwsJz5zLzsvL2c=</entry>
-        <entry>wq</entry>
-        <entry>w</entry>
         <entry>qall</entry>
         <entry>q</entry>
+        <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -6751,6 +6757,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
