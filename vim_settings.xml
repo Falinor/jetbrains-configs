@@ -2045,6 +2045,12 @@
         <mark key="." line="3" column="34" />
         <mark key="^" line="3" column="56" />
       </file>
+      <file name="$USER_HOME$/Dev/baby-foot/api/docs/v3/paths/player/player.yml" timestamp="1508670035220">
+        <mark key="[" line="14" column="14" />
+        <mark key="]" line="14" column="14" />
+        <mark key="^" line="13" column="17" />
+        <mark key="." line="14" column="14" />
+      </file>
       <file name="$USER_HOME$/Dev/wot-authorization-server/dashboard/src/app/dashboard/dashboard.component.html" timestamp="1491847909939">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="14" column="15" />
@@ -5085,8 +5091,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAvcGxheWVycy97aWR9OgogICAgJHJlZjogJwo=</text>
+      <register name="&quot;" type="4">
+        <text>string</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -6610,7 +6616,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>type</text>
+        <text>string</text>
       </register>
       <register name="m" type="4">
         <keys>
