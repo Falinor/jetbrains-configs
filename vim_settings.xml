@@ -2125,11 +2125,12 @@
         <mark key="^" line="8" column="14" />
         <mark key="." line="8" column="14" />
       </file>
-      <file name="$USER_HOME$/Dev/generator-openapi-repo/generators/app/index.js" timestamp="1508774041316">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="31" column="26" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/Dev/generator-openapi-repo/generators/app/index.js" timestamp="1508800154273">
+        <mark key="'" line="234" column="3" />
+        <mark key="[" line="57" column="4" />
+        <mark key="]" line="57" column="7" />
+        <mark key="^" line="57" column="7" />
+        <mark key="." line="57" column="7" />
       </file>
       <file name="$USER_HOME$/Dev/wallpaper-switcher/src/renderer/components/Search.vue" timestamp="1506377539827">
         <mark key="'" line="27" column="19" />
@@ -5004,8 +5005,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="30" filename="$USER_HOME$/Dev/baby-foot/api/src/services/team/model.test.js" />
-      <jump line="44" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/services/team/model.test.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/services/team/model.test.js" />
       <jump line="1" column="59" filename="$USER_HOME$/Dev/baby-foot/api/src/services/team/model.js" />
       <jump line="46" column="5" filename="$USER_HOME$/Dev/baby-foot/api/src/services/team/model.test.js" />
@@ -5104,13 +5103,15 @@
       <jump line="10" column="0" filename="$USER_HOME$/Dev/generator-openapi-repo/generators/app/index.js" />
       <jump line="8" column="7" filename="$USER_HOME$/Dev/generator-openapi-repo/.eslintrc" />
       <jump line="2" column="2" filename="$USER_HOME$/Dev/generator-openapi-repo/.eslintrc" />
+      <jump line="57" column="7" filename="$USER_HOME$/Dev/generator-openapi-repo/generators/app/index.js" />
+      <jump line="234" column="3" filename="$USER_HOME$/Dev/generator-openapi-repo/generators/app/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICByZXR1cm4gJ2h0dHBzOi8vJyArIHVybCArICcvJzsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">dmFyIA==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -6634,7 +6635,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text encoding="base64">dmFyIA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -6643,7 +6644,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWZcPg==</text>
+        <text>var</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICRyZWY6ICcuL2NvbXBvbmVudHMvaGVhZGVycy55bWwjL0FjY2VwdCcK</text>
@@ -6695,17 +6696,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZWZcPg==</last-search>
+      <last-search>var</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWZcPg==</last-pattern>
-      <last-replace />
-      <last-substitute>;</last-substitute>
+      <last-pattern>var</last-pattern>
+      <last-replace>let</last-replace>
+      <last-substitute>var</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>findOne</entry>
         <entry>import</entry>
         <entry>export</entry>
         <entry>list</entry>
@@ -6725,9 +6725,9 @@
         <entry>graph</entry>
         <entry>findOneByTrigram</entry>
         <entry encoding="base64">XDxyZWZcPg==</entry>
+        <entry>var</entry>
       </history-search>
       <history-cmd>
-        <entry>next</entry>
         <entry encoding="base64">JzwsJz5zL3N0b3JlL21vZGVsL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2N0cmwvY29udHJvbGxlci9n</entry>
         <entry encoding="base64">JzwsJz5zL3QuY29udGV4dC5zdG9yZS90LmNvbnRleHQubWF0Y2hTdG9yZS9n</entry>
@@ -6746,6 +6746,7 @@
         <entry>q</entry>
         <entry>qall</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JzwsJz5zL3Zhci9sZXQvZw==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
