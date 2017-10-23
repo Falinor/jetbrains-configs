@@ -2125,6 +2125,11 @@
         <mark key="^" line="8" column="14" />
         <mark key="." line="8" column="14" />
       </file>
+      <file name="$USER_HOME$/Dev/generator-openapi-repo/generators/app/index.js" timestamp="1508771868990">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/Dev/wallpaper-switcher/src/renderer/components/Search.vue" timestamp="1506377539827">
         <mark key="'" line="27" column="19" />
         <mark key="[" line="11" column="14" />
@@ -3503,6 +3508,13 @@
         <mark key="." line="14" column="73" />
         <mark key="^" line="14" column="43" />
       </file>
+      <file name="$USER_HOME$/Dev/generator-openapi-repo/.eslintrc" timestamp="1508772196339">
+        <mark key="'" line="2" column="2" />
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+        <mark key="^" line="4" column="1" />
+      </file>
       <file name="$USER_HOME$/Dev/bbl-angular/dependency-injection/src/app/lazy/lazy.module.ts" timestamp="1491394991042">
         <mark key="[" line="15" column="18" />
         <mark key="]" line="12" column="19" />
@@ -3572,6 +3584,13 @@
         <mark key="]" line="9" column="0" />
         <mark key="^" line="4" column="37" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/generator-openapi-repo/package.json" timestamp="1508772172667">
+        <mark key="'" line="9" column="16" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="^" line="50" column="31" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/baby-foot-api/model/user/user-schema.js" timestamp="1487253943188">
         <mark key="[" line="4" column="6" />
@@ -4984,11 +5003,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="30" filename="$USER_HOME$/Dev/baby-foot/api/src/services/team/model.test.js" />
-      <jump line="9" column="4" filename="$USER_HOME$/Dev/baby-foot/api/src/services/team/model.js" />
-      <jump line="3" column="38" filename="$USER_HOME$/Dev/baby-foot/api/src/services/team/model.test.js" />
-      <jump line="24" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/services/team/model.test.js" />
-      <jump line="19" column="4" filename="$USER_HOME$/Dev/baby-foot/api/src/services/team/model.js" />
       <jump line="29" column="30" filename="$USER_HOME$/Dev/baby-foot/api/src/services/team/model.test.js" />
       <jump line="44" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/services/team/model.test.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/services/team/model.test.js" />
@@ -5084,13 +5098,18 @@
       <jump line="9" column="15" filename="$USER_HOME$/Dev/baby-foot/api/docs/v3/components/schemas/player.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/Dev/baby-foot/api/docs/v3/components/schemas/player.yml" />
       <jump line="11" column="18" filename="$USER_HOME$/Dev/baby-foot/api/docs/v3/components/schemas/player.yml" />
+      <jump line="9" column="16" filename="$USER_HOME$/Dev/generator-openapi-repo/package.json" />
+      <jump line="8" column="0" filename="$USER_HOME$/Dev/generator-openapi-repo/generators/app/index.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/Dev/generator-openapi-repo/generators/app/index.js" />
+      <jump line="8" column="7" filename="$USER_HOME$/Dev/generator-openapi-repo/.eslintrc" />
+      <jump line="2" column="2" filename="$USER_HOME$/Dev/generator-openapi-repo/.eslintrc" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>format</text>
+        <text>recommended</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -6614,7 +6633,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>format</text>
+        <text>recommended</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -6629,29 +6648,34 @@
         <text encoding="base64">ICAgICRyZWY6ICcuL2NvbXBvbmVudHMvaGVhZGVycy55bWwjL0FjY2VwdCcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAvcGxheWVycy97aWR9OgogICAgJHJlZjogJwo=</text>
+      <register name="2" type="4">
+        <text>rules:
+  no-warning-comments: 0
+  no-empty:
+    - &quot;error&quot;
+    - allowEmptyCatch: true</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmVxdWlyZWQ6IFttZXNzYWdlLCBkZXNjcmlwdGlvbl0K</text>
+        <text encoding="base64">ICAiZXNsaW50Q29uZmlnIgo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="4" type="4">
+        <text>: {
+    &quot;extends&quot;: &quot;xo-space&quot;
+  },</text>
       </register>
-      <register name="5" type="4">
-        <text>description:
-    type: string</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2NoZW1hCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UGxheWVyOgo=</text>
+        <text encoding="base64">Y29udHMgZ2V0Q3VycmVudEdpdEh1YlJlcG8gPSAoKSA9PiB7fQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -6660,13 +6684,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3Qgc2x1ZyA9IHJlcXVpcmUoJ3NsdWcnKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3Qgc3dhZ2dlclJlcG8gPSByZXF1aXJlKCdzd2FnZ2VyLXJlcG8nKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>qall</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -6719,9 +6743,9 @@
         <entry encoding="base64">JzwsJz5zL2ZpbmRPbmVCeVRyaWdyYW0vZmluZE9uZS9n</entry>
         <entry encoding="base64">JzwsJz5x</entry>
         <entry>q</entry>
+        <entry>qall</entry>
         <entry>wq</entry>
         <entry>w</entry>
-        <entry>qall</entry>
       </history-cmd>
       <history-expr />
       <history-input />
