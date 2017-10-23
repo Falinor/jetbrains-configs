@@ -2045,11 +2045,11 @@
         <mark key="." line="3" column="34" />
         <mark key="^" line="3" column="56" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/docs/v3/paths/player/player.yml" timestamp="1508670035220">
-        <mark key="[" line="14" column="14" />
-        <mark key="]" line="14" column="14" />
-        <mark key="^" line="13" column="17" />
-        <mark key="." line="14" column="14" />
+      <file name="$USER_HOME$/Dev/baby-foot/api/docs/v3/paths/player/player.yml" timestamp="1508761714689">
+        <mark key="[" line="15" column="8" />
+        <mark key="]" line="15" column="14" />
+        <mark key="^" line="15" column="14" />
+        <mark key="." line="15" column="14" />
       </file>
       <file name="$USER_HOME$/Dev/wot-authorization-server/dashboard/src/app/dashboard/dashboard.component.html" timestamp="1491847909939">
         <mark key="'" line="3" column="0" />
@@ -5092,7 +5092,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>string</text>
+        <text>format</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -6616,7 +6616,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text>format</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -6631,29 +6631,29 @@
         <text encoding="base64">ICAgICRyZWY6ICcuL2NvbXBvbmVudHMvaGVhZGVycy55bWwjL0FjY2VwdCcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvcGxheWVycy97aWR9OgogICAgJHJlZjogJwo=</text>
+        <text encoding="base64">ICAgIGRkCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cmVxdWlyZWQ6IFttZXNzYWdlLCBkZXNjcmlwdGlvbl0K</text>
+        <text encoding="base64">ICAvcGxheWVycy97aWR9OgogICAgJHJlZjogJwo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">cmVxdWlyZWQ6IFttZXNzYWdlLCBkZXNjcmlwdGlvbl0K</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>description:
     type: string</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">c2NoZW1hCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">UGxheWVyOgo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UGxheWVyOgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -6665,10 +6665,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UGxheWVyczoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -6722,8 +6722,8 @@
         <entry>qall</entry>
         <entry encoding="base64">JzwsJz5x</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
