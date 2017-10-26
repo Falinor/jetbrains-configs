@@ -583,6 +583,13 @@
         <mark key="." line="67" column="14" />
         <mark key="^" line="67" column="14" />
       </file>
+      <file name="$USER_HOME$/dev/swagger/hello-world/app.js" timestamp="1509032865562">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="11" column="35" />
+        <mark key="]" line="11" column="41" />
+        <mark key="^" line="11" column="41" />
+        <mark key="." line="11" column="41" />
+      </file>
       <file name="$USER_HOME$/Dev/iot-api/coap/node/package.json" timestamp="1487005472286">
         <mark key="[" line="4" column="14" />
         <mark key="]" line="5" column="28" />
@@ -2953,8 +2960,12 @@
         <mark key="." line="11" column="10" />
         <mark key="^" line="11" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/swagger/hello-world/package.json" timestamp="1509031789502">
-        <mark key="'" line="23" column="26" />
+      <file name="$USER_HOME$/dev/swagger/hello-world/package.json" timestamp="1509033280960">
+        <mark key="'" line="10" column="26" />
+        <mark key="[" line="10" column="19" />
+        <mark key="]" line="10" column="23" />
+        <mark key="." line="10" column="23" />
+        <mark key="^" line="10" column="23" />
       </file>
       <file name="$USER_HOME$/Dev/wot-authorization-server/api/tsconfig.json" timestamp="1491471413181">
         <mark key="[" line="6" column="18" />
@@ -4987,12 +4998,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="4" filename="$USER_HOME$/Dev/baby-foot/api/src/services/team/model.js" />
-      <jump line="3" column="38" filename="$USER_HOME$/Dev/baby-foot/api/src/services/team/model.test.js" />
-      <jump line="24" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/services/team/model.test.js" />
-      <jump line="19" column="4" filename="$USER_HOME$/Dev/baby-foot/api/src/services/team/model.js" />
-      <jump line="29" column="30" filename="$USER_HOME$/Dev/baby-foot/api/src/services/team/model.test.js" />
-      <jump line="44" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/services/team/model.test.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/services/team/model.test.js" />
       <jump line="1" column="59" filename="$USER_HOME$/Dev/baby-foot/api/src/services/team/model.js" />
       <jump line="46" column="5" filename="$USER_HOME$/Dev/baby-foot/api/src/services/team/model.test.js" />
@@ -5087,13 +5092,19 @@
       <jump line="0" column="0" filename="$USER_HOME$/Dev/baby-foot/api/docs/v3/components/schemas/player.yml" />
       <jump line="11" column="18" filename="$USER_HOME$/Dev/baby-foot/api/docs/v3/components/schemas/player.yml" />
       <jump line="23" column="26" filename="$USER_HOME$/dev/swagger/hello-world/package.json" />
+      <jump line="10" column="6" filename="$USER_HOME$/dev/swagger/hello-world/app.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/swagger/hello-world/app.js" />
+      <jump line="11" column="0" filename="$USER_HOME$/dev/swagger/hello-world/app.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/dev/swagger/hello-world/app.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/swagger/hello-world/app.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/dev/swagger/hello-world/app.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>format</text>
+        <text>app</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -6617,7 +6628,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>format</text>
+        <text>app</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -6626,35 +6637,34 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWZcPg==</text>
+        <text>var</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICRyZWY6ICcuL2NvbXBvbmVudHMvaGVhZGVycy55bWwjL0FjY2VwdCcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRkCg==</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvcGxheWVycy97aWR9OgogICAgJHJlZjogJwo=</text>
+        <text encoding="base64">ICAiZGVwZW5kZW5jaWVzIjogeyAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmVxdWlyZWQ6IFttZXNzYWdlLCBkZXNjcmlwdGlvbl0K</text>
+        <text encoding="base64">ICAgICJleHByZXNzIjogIl40LjEyLjMiLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICJzd2FnZ2VyLWV4cHJlc3MtbXciOiAiXjAuMS4wIgo=</text>
       </register>
-      <register name="5" type="4">
-        <text>description:
-    type: string</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAiZGV2RGVwZW5kZW5jaWVzIjoge30sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2NoZW1hCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">UGxheWVyOgo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICJzaG91bGQiOiAiXjcuMS4wIiwKICAgICJzdXBlcnRlc3QiOiAiXjEuMC4wIiwKICAgICJ6LXNjaGVtYSI6ICJeMy4xMi4wIiwKICAgICJyZXF1ZXN0IjogIl4yLjU4LjAiLAogICAgImNoYWkiOiAiXjMuMC4wIiwKICAgICJtb2NoYSI6ICJeMi4yLjUiLAogICAgImRvdGVudiI6ICJeMS4yLjAi</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -6663,27 +6673,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgcG9ydCA9IHByb2Nlc3MuZW52LlBPUlQgfHwgMTAwMTA7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSBhcHA7IC8vIGZvciB0ZXN0aW5nCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZWZcPg==</last-search>
+      <last-search>var</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWZcPg==</last-pattern>
-      <last-replace />
-      <last-substitute>;</last-substitute>
+      <last-pattern>var</last-pattern>
+      <last-replace>const</last-replace>
+      <last-substitute>var</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>findOne</entry>
         <entry>import</entry>
         <entry>export</entry>
         <entry>list</entry>
@@ -6703,9 +6712,9 @@
         <entry>graph</entry>
         <entry>findOneByTrigram</entry>
         <entry encoding="base64">XDxyZWZcPg==</entry>
+        <entry>var</entry>
       </history-search>
       <history-cmd>
-        <entry>next</entry>
         <entry encoding="base64">JzwsJz5zL3N0b3JlL21vZGVsL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2N0cmwvY29udHJvbGxlci9n</entry>
         <entry encoding="base64">JzwsJz5zL3QuY29udGV4dC5zdG9yZS90LmNvbnRleHQubWF0Y2hTdG9yZS9n</entry>
@@ -6724,6 +6733,7 @@
         <entry encoding="base64">JzwsJz5x</entry>
         <entry>q</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JzwsJz5zL3Zhci9jb25zdC9n</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
