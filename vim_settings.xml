@@ -1299,6 +1299,9 @@
         <mark key="^" line="7" column="16" />
         <mark key="." line="7" column="16" />
       </file>
+      <file name="$USER_HOME$/dev/swagger/hello-world/node_modules/swagger-editor-dist/swagger-editor.js" timestamp="1509357519202">
+        <mark key="'" line="2" column="99" />
+      </file>
       <file name="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/stores/mongodb/index.js" timestamp="1498216845911">
         <mark key="'" line="19" column="35" />
         <mark key="[" line="6" column="38" />
@@ -1921,14 +1924,6 @@
         <mark key="]" line="9" column="12" />
         <mark key="." line="9" column="12" />
         <mark key="^" line="9" column="12" />
-      </file>
-      <file name="$USER_HOME$/dev/bootcamp/index.js" timestamp="1508334893671">
-        <mark key="'" line="14" column="2" />
-        <mark key="k" line="30" column="0" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="29" column="21" />
-        <mark key="." line="29" column="21" />
-        <mark key="^" line="29" column="21" />
       </file>
       <file name="$USER_HOME$/Dev/web-of-things/iot-poc/broker/package.json" timestamp="1498216950697">
         <mark key="'" line="0" column="0" />
@@ -2966,11 +2961,11 @@
         <mark key="." line="11" column="10" />
         <mark key="^" line="11" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/swagger/hello-world/package.json" timestamp="1509356332066">
-        <mark key="[" line="10" column="45" />
-        <mark key="]" line="10" column="38" />
-        <mark key="." line="10" column="38" />
-        <mark key="^" line="10" column="38" />
+      <file name="$USER_HOME$/dev/swagger/hello-world/package.json" timestamp="1509358284292">
+        <mark key="[" line="12" column="42" />
+        <mark key="]" line="12" column="40" />
+        <mark key="." line="12" column="40" />
+        <mark key="^" line="12" column="40" />
       </file>
       <file name="$USER_HOME$/Dev/wot-authorization-server/api/tsconfig.json" timestamp="1491471413181">
         <mark key="[" line="6" column="18" />
@@ -5030,8 +5025,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/services/team/controller.test.js" />
-      <jump line="8" column="27" filename="$USER_HOME$/Dev/baby-foot/api/src/services/team/controller.js" />
       <jump line="1" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/services/team/controller.js" />
       <jump line="15" column="2" filename="$USER_HOME$/Dev/baby-foot/api/src/services/team/controller.js" />
       <jump line="45" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/services/team/controller.test.js" />
@@ -5130,13 +5123,15 @@
       <jump line="8" column="6" filename="$USER_HOME$/Dev/generator-openapi-repo/generators/app/templates/_gulpfile.js" />
       <jump line="0" column="5" filename="$USER_HOME$/Dev/generator-openapi-repo/gulpfile.js" />
       <jump line="23" column="0" filename="$USER_HOME$/Dev/generator-openapi-repo/gulpfile.js" />
+      <jump line="1" column="1015" filename="$USER_HOME$/dev/swagger/hello-world/node_modules/swagger-editor-dist/swagger-editor.js" />
+      <jump line="2" column="99" filename="$USER_HOME$/dev/swagger/hello-world/node_modules/swagger-editor-dist/swagger-editor.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -6660,7 +6655,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -6669,22 +6664,22 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>var</text>
+        <text>store</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICRyZWY6ICcuL2NvbXBvbmVudHMvaGVhZGVycy55bWwjL0FjY2VwdCcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJ1aSI6ICJodHRwLXNlcnZlciAtZD1mYWxzZSAtbyAtLWNvcnMgLi9ub2RlX21vZHVsZXMvc3dhZ2dlci11aS1kaXN0IiwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJ1aSI6ICJodHRwLXNlcnZlciAtZD1mYWxzZSAtbz0iCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICIiCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -6696,7 +6691,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHVwZGF0ZU5vdGlmaWVyKHtwa2d9KS5ub3RpZnkoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -6705,27 +6700,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgcGF0aCA9IHJlcXVpcmUoJ3BhdGgnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">J3VzZSBzdHJpY3QnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>var</last-search>
+      <last-search>store</last-search>
       <last-offset />
-      <last-pattern>var</last-pattern>
+      <last-pattern>store</last-pattern>
       <last-replace>const</last-replace>
       <last-substitute>var</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>import</entry>
         <entry>export</entry>
         <entry>list</entry>
         <entry>inEdges</entry>
@@ -6736,7 +6730,6 @@
         <entry>console</entry>
         <entry>data</entry>
         <entry>t.context.teamStore</entry>
-        <entry>store</entry>
         <entry>test(</entry>
         <entry>test</entry>
         <entry encoding="base64">XDxuZXh0XD4=</entry>
@@ -6745,6 +6738,8 @@
         <entry>findOneByTrigram</entry>
         <entry encoding="base64">XDxyZWZcPg==</entry>
         <entry>var</entry>
+        <entry>pet</entry>
+        <entry>store</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2N0cmwvY29udHJvbGxlci9n</entry>
