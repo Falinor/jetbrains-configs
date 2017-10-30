@@ -2978,6 +2978,12 @@
         <mark key="." line="11" column="10" />
         <mark key="^" line="11" column="10" />
       </file>
+      <file name="$USER_HOME$/dev/swagger/hello-world/package.json" timestamp="1509378894505">
+        <mark key="[" line="14" column="23" />
+        <mark key="]" line="14" column="25" />
+        <mark key="." line="14" column="25" />
+        <mark key="^" line="14" column="25" />
+      </file>
       <file name="$USER_HOME$/Dev/wot-authorization-server/api/tsconfig.json" timestamp="1491471413181">
         <mark key="[" line="6" column="18" />
         <mark key="]" line="6" column="20" />
@@ -3437,6 +3443,11 @@
         <mark key="]" line="8" column="42" />
         <mark key="." line="8" column="42" />
         <mark key="^" line="8" column="42" />
+      </file>
+      <file name="$USER_HOME$/dev/swagger/hello-world/spec/swagger.yaml" timestamp="1509379169744">
+        <mark key="[" line="16" column="20" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/Java/search-engine/src/main/kotlin/com/inad/shared/Token.kt" timestamp="1484565217446">
         <mark key="[" line="2" column="46" />
@@ -5134,8 +5145,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>yaml</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cGF0aHM6Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -6659,7 +6670,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>yaml</text>
+        <text>/</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -6674,28 +6685,28 @@
         <text encoding="base64">ICAgICRyZWY6ICcuL2NvbXBvbmVudHMvaGVhZGVycy55bWwjL0FjY2VwdCcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJzdGFydCI6ICJub2RlbW9uIC13IC4vYXBpIC0tZXhlYyAnaHR0cC1zZXJ2ZXIgLWQ9ZmFsc2UgLWk9ZmFsc2UgLXAgODA4MCAtbyAtLWNvcnMgLi9wdWJsaWMnIiwK</text>
+        <text encoding="base64">cGF0aHM6Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHR5cGU6IHN0cmluZwo=</text>
+        <text encoding="base64">ICAvdXNlcnM6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb2xvcjoK</text>
+        <text encoding="base64">ICAgICRyZWY6ICJwYXRocy91c2Vycy55YW1sIgo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgY29sb3I6CiAgICAgICAgICAgICAgICB0eXBlOiBzdHJpbmc=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICJzdGFydCI6ICJub2RlbW9uIC13IC4vYXBpIC0tZXhlYyAnaHR0cC1zZXJ2ZXIgLWQ9ZmFsc2UgLWk9ZmFsc2UgLXAgODA4MCAtbyAtLWNvcnMgLi9wdWJsaWMnIiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHR5cGU6IHN0cmluZwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJzd2FnZ2VyIjogIm0iLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb2xvcjoK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHR5cGU6IHN0cmluZwo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgY29sb3I6CiAgICAgICAgICAgICAgICB0eXBlOiBzdHJpbmc=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -6704,10 +6715,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJidWlsZCI6ICIiCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0IjogInN3YWdnZXIgcHJvamVjdCB0ZXN0Igo=</text>
+        <text encoding="base64">ICAgICJzd2FnZ2VyIjogIm0iLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -6761,10 +6772,10 @@
         <entry encoding="base64">JzwsJz5zL2ZpbmRPbmVCeVRyaWdyYW0vZmluZE9uZS9n</entry>
         <entry encoding="base64">JzwsJz5x</entry>
         <entry encoding="base64">JzwsJz5zL3Zhci9sZXQvZw==</entry>
-        <entry>qall</entry>
         <entry encoding="base64">JzwsJz5zL3Zhci9jb25zdC9n</entry>
         <entry>q</entry>
         <entry>wq</entry>
+        <entry>qall</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
