@@ -1953,8 +1953,11 @@
         <mark key="." line="10" column="29" />
         <mark key="^" line="10" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/docs/paths/equipments.yaml" timestamp="1509629735659">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/dev/part-edge/api/docs/paths/equipments.yaml" timestamp="1509635632895">
+        <mark key="[" line="11" column="16" />
+        <mark key="]" line="11" column="15" />
+        <mark key="^" line="11" column="15" />
+        <mark key="." line="11" column="15" />
       </file>
       <file name="$USER_HOME$/Dev/wot-gateway/src/api/index.js" timestamp="1493367661206">
         <mark key="'" line="15" column="0" />
@@ -2055,12 +2058,13 @@
         <mark key="." line="15" column="29" />
         <mark key="^" line="15" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/docs/definitions/user.yaml" timestamp="1509632746619">
-        <mark key="b" line="8" column="3" />
-        <mark key="[" line="8" column="4" />
-        <mark key="]" line="7" column="6" />
-        <mark key="." line="7" column="6" />
-        <mark key="^" line="7" column="6" />
+      <file name="$USER_HOME$/dev/part-edge/api/docs/definitions/user.yaml" timestamp="1509635083761">
+        <mark key="b" line="10" column="3" />
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="7" column="16" />
+        <mark key="]" line="8" column="17" />
+        <mark key="." line="8" column="17" />
+        <mark key="^" line="8" column="17" />
       </file>
       <file name="$USER_HOME$/Dev/Java/search-engine/src/main/kotlin/com/inad/managers/SearchManager.kt" timestamp="1484649562190">
         <mark key="[" line="13" column="67" />
@@ -2862,6 +2866,13 @@
         <mark key="^" line="27" column="56" />
         <mark key="." line="27" column="59" />
       </file>
+      <file name="$USER_HOME$/dev/part-edge/api/docs/paths/equipment.yaml" timestamp="1509635729357">
+        <mark key="'" line="5" column="27" />
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="5" column="27" />
+        <mark key="^" line="5" column="27" />
+        <mark key="." line="5" column="27" />
+      </file>
       <file name="$USER_HOME$/Dev/web-of-things/wot-gateway/src/app.js" timestamp="1494322235151">
         <mark key="[" line="18" column="18" />
         <mark key="]" line="18" column="18" />
@@ -3484,12 +3495,12 @@
         <mark key="." line="6" column="15" />
         <mark key="^" line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/docs/swagger.yaml" timestamp="1509629711618">
+      <file name="$USER_HOME$/dev/part-edge/api/docs/swagger.yaml" timestamp="1509635656798">
         <mark key="'" line="15" column="0" />
         <mark key="[" line="28" column="33" />
-        <mark key="]" line="28" column="32" />
-        <mark key="." line="28" column="32" />
-        <mark key="^" line="28" column="32" />
+        <mark key="]" line="30" column="31" />
+        <mark key="." line="30" column="31" />
+        <mark key="^" line="30" column="31" />
       </file>
       <file name="$USER_HOME$/Dev/wallpaper-switcher/.env" timestamp="1506376616825">
         <mark key="[" line="0" column="0" />
@@ -3529,7 +3540,7 @@
         <mark key="." line="9" column="17" />
         <mark key="^" line="9" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/docs/paths/users.yaml" timestamp="1509468830587">
+      <file name="$USER_HOME$/dev/part-edge/api/docs/paths/users.yaml" timestamp="1509635161497">
         <mark key="[" line="1" column="22" />
         <mark key="]" line="1" column="22" />
         <mark key="." line="1" column="22" />
@@ -3859,6 +3870,11 @@
         <mark key="]" line="9" column="4" />
         <mark key="." line="9" column="4" />
         <mark key="^" line="9" column="3" />
+      </file>
+      <file name="$USER_HOME$/dev/part-edge/api/docs/definitions/equipment.yaml" timestamp="1509635536779">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/baby-foot/api/docs/paths/match/teams.yml" timestamp="1507415553220">
         <mark key="[" line="4" column="24" />
@@ -5170,8 +5186,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="6" filename="$USER_HOME$/Dev/baby-foot/api/docs/parameters/index.yml" />
-      <jump line="1" column="0" filename="$USER_HOME$/Dev/baby-foot/api/doc/paths/player/players.yml" />
       <jump line="9" column="9" filename="$USER_HOME$/Dev/baby-foot/api/doc/components/headers.yml" />
       <jump line="0" column="5" filename="$USER_HOME$/Dev/baby-foot/api/doc/components/headers.yml" />
       <jump line="14" column="5" filename="$USER_HOME$/Dev/baby-foot/api/doc/components/headers.yml" />
@@ -5270,13 +5284,15 @@
       <jump line="3" column="21" filename="$USER_HOME$/dev/part-edge/api/src/server.js" />
       <jump line="24" column="49" filename="$USER_HOME$/dev/part-edge/api/package.json" />
       <jump line="15" column="0" filename="$USER_HOME$/dev/part-edge/api/docs/swagger.yaml" />
+      <jump line="8" column="0" filename="$USER_HOME$/dev/part-edge/api/docs/definitions/user.yaml" />
+      <jump line="5" column="27" filename="$USER_HOME$/dev/part-edge/api/docs/paths/equipment.yaml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>name</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dHlwZTogb2JqZWN0CnByb3BlcnRpZXMK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -6800,7 +6816,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text encoding="base64">dGhlIA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -6815,37 +6831,37 @@
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGBBUEkgbmFtZTogJHthcGkuaW5mby50aXRsZX1gKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGQK</text>
+        <text encoding="base64">dHlwZTogb2JqZWN0CnByb3BlcnRpZXMK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAtIHRvb2xzIHVzZWQgZm9yIHRlc3RzLAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICB0YWdzOgogICAgLSBFcXVpcG1lbnRz</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CmFzZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmFzZAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LS0tLS0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LS0tLS0tLS0tLQo=</text>
+        <text encoding="base64">cmVxdWlyZWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LS0tLS0tLS0tLS0tCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <text>wwb</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0K</text>
+        <text encoding="base64">ICAgIGQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PT09PT09PT09PT09PQo=</text>
+        <text encoding="base64">ICAtIHRvb2xzIHVzZWQgZm9yIHRlc3RzLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
