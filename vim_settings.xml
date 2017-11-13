@@ -1801,12 +1801,12 @@
         <mark key="." line="64" column="16" />
         <mark key="^" line="64" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/src/components/db/index.js" timestamp="1510225196309">
-        <mark key="'" line="4" column="42" />
-        <mark key="[" line="5" column="35" />
-        <mark key="]" line="5" column="46" />
-        <mark key="." line="5" column="46" />
-        <mark key="^" line="5" column="46" />
+      <file name="$USER_HOME$/dev/part-edge/api/src/components/db/index.js" timestamp="1510610734041">
+        <mark key="'" line="13" column="6" />
+        <mark key="[" line="10" column="28" />
+        <mark key="]" line="10" column="28" />
+        <mark key="." line="10" column="28" />
+        <mark key="^" line="10" column="28" />
       </file>
       <file name="$USER_HOME$/Dev/PFEE/rest-api/src/main/java/com/watsize/api/products/category/entities/ProductCategory.java" timestamp="1483709432204">
         <mark key="[" line="53" column="15" />
@@ -3260,12 +3260,12 @@
         <mark key="^" line="2" column="30" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/src/routes/equipments/index.js" timestamp="1510610089158">
+      <file name="$USER_HOME$/dev/part-edge/api/src/routes/equipments/index.js" timestamp="1510611116700">
         <mark key="'" line="10" column="29" />
-        <mark key="[" line="15" column="4" />
-        <mark key="]" line="16" column="1" />
-        <mark key="." line="16" column="1" />
-        <mark key="^" line="16" column="1" />
+        <mark key="[" line="14" column="39" />
+        <mark key="]" line="14" column="36" />
+        <mark key="." line="14" column="36" />
+        <mark key="^" line="14" column="36" />
       </file>
       <file name="$USER_HOME$/Dev/Java/exam/src/main/resources/log4j2.xml" timestamp="1484839229623">
         <mark key="[" line="4" column="46" />
@@ -4108,12 +4108,12 @@
         <mark key="." line="3" column="2" />
         <mark key="^" line="3" column="2" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/src/index.js" timestamp="1510594593574">
-        <mark key="'" line="1" column="40" />
-        <mark key="[" line="6" column="37" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="7" column="0" />
+      <file name="$USER_HOME$/dev/part-edge/api/src/index.js" timestamp="1510610761999">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="7" column="8" />
+        <mark key="]" line="7" column="12" />
+        <mark key="^" line="7" column="12" />
+        <mark key="." line="7" column="12" />
       </file>
       <file name="$USER_HOME$/Dev/baby-foot/api/src/resources/match/model.js" timestamp="1496276146604">
         <mark key="[" line="7" column="0" />
@@ -5416,11 +5416,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/dev/part-edge/api/.nycrc" />
-      <jump line="3" column="21" filename="$USER_HOME$/dev/part-edge/api/src/server.js" />
-      <jump line="24" column="49" filename="$USER_HOME$/dev/part-edge/api/package.json" />
-      <jump line="15" column="0" filename="$USER_HOME$/dev/part-edge/api/docs/swagger.yaml" />
-      <jump line="8" column="0" filename="$USER_HOME$/dev/part-edge/api/docs/definitions/user.yaml" />
       <jump line="5" column="6" filename="$USER_HOME$/dev/part-edge/api/docs/paths/equipment.yaml" />
       <jump line="8" column="1" filename="$USER_HOME$/dev/part-edge/api/docs/paths/equipment.yaml" />
       <jump line="4" column="1" filename="$USER_HOME$/dev/part-edge/api/docs/paths/equipment.yaml" />
@@ -5516,6 +5511,11 @@
       <jump line="0" column="22" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/index.apitest.js" />
       <jump line="7" column="41" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/index.apitest.js" />
       <jump line="6" column="1" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/index.apitest.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/dev/part-edge/api/src/index.js" />
+      <jump line="11" column="0" filename="$USER_HOME$/dev/part-edge/api/src/index.js" />
+      <jump line="13" column="2" filename="$USER_HOME$/dev/part-edge/api/src/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/api/src/index.js" />
+      <jump line="11" column="6" filename="$USER_HOME$/dev/part-edge/api/src/components/db/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5530,8 +5530,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhkYik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZGIg</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -7055,7 +7055,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>implemented</text>
+        <text encoding="base64">ZGIg</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -7069,41 +7069,41 @@
       <register name="0" type="2">
         <text encoding="base64">ICB0LmlzKHR5cGVvZiBjb25maWcuZGIubG9nZ2luZywgJ2Z1bmN0aW9uJyk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhkYik7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">Y29uc3Qgcm91dGVzID0gY3JlYXRlUm91dGVzKGRiKTsKY29uc3QgYXBwID0gY3JlYXRlRXhwcmVzc0FwcChyb3V0ZXMpOwoKYXBwLmxpc3Rlbihjb25maWcucG9ydCwgKCkgPT4gewogIGxvZ2dlci5pbmZvKGBMaXN0ZW5pbmcgb24gcG9ydCAke2NvbmZpZy5wb3J0fS5gKTsKfSk7</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB0LmlzKHJlcy5zdGF0dXMsIDIwMCk7Cg==</text>
+        <text encoding="base64">Y29ubmVjdCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB0LmlzKHR5cGVvZiByZXMuYm9keSwgJycpCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhkYik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC5zZXQoJ0NvbnRlbnQtVHlwZScsICkK</text>
+        <text encoding="base64">ICB0LmlzKHJlcy5zdGF0dXMsIDIwMCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC5zCg==</text>
+        <text encoding="base64">ICB0LmlzKHR5cGVvZiByZXMuYm9keSwgJycpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA7Cg==</text>
+        <text encoding="base64">ICAgIC5zZXQoJ0NvbnRlbnQtVHlwZScsICkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dGVzdC5iZWZvcmVFYWNoKCkK</text>
+        <text encoding="base64">ICAgIC5zCg==</text>
       </register>
       <register name="w" type="4">
         <text>wwb</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkYi4K</text>
+        <text encoding="base64">ICA7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkYi4K</text>
+        <text encoding="base64">dGVzdC5iZWZvcmVFYWNoKCkK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -7156,9 +7156,9 @@
         <entry>s</entry>
         <entry>qall</entry>
         <entry encoding="base64">JzwsJz5zL01vZGVsL1JlcG9zaXRvcnkvZw==</entry>
-        <entry>wq</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
