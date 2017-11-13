@@ -46,6 +46,11 @@
         <mark key="^" line="4" column="52" />
         <mark key="." line="4" column="52" />
       </file>
+      <file name="$USER_HOME$/dev/swagger/hello-world/web/swagger.yaml" timestamp="1509380583495">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/mqtt/mqtt.test.js" timestamp="1498133246996">
         <mark key="'" line="53" column="30" />
         <mark key="[" line="34" column="4" />
@@ -861,6 +866,11 @@
         <mark key="." line="25" column="35" />
         <mark key="^" line="25" column="35" />
       </file>
+      <file name="$USER_HOME$/dev/part-edge/api/dist/docs/swagger.yaml" timestamp="1509467478019">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/Dev/MusicUs/src/client/src/app/shared/select/select.component.ts" timestamp="1464701402998">
         <mark key="[" line="5" column="38" />
         <mark key="]" line="5" column="37" />
@@ -1463,11 +1473,10 @@
         <mark key="^" line="2" column="35" />
         <mark key="." line="2" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/.vcmrc" timestamp="1510579393694">
-        <mark key="'" line="2" column="11" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/dev/part-edge/api/.vcmrc" timestamp="1510580051867">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/musicus/src/client/src/app/+account/login/login-form/login-form.ts" timestamp="1465894006936">
         <mark key="[" line="3" column="29" />
@@ -2538,6 +2547,11 @@
         <mark key="." line="11" column="110" />
         <mark key="^" line="11" column="110" />
       </file>
+      <file name="$USER_HOME$/dev/swagger/hello-world/api/swagger.yaml" timestamp="1509373357345">
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/server.js" timestamp="1510241488122">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="8" column="7" />
@@ -2931,7 +2945,7 @@
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/package.json" timestamp="1510223007402">
+      <file name="$USER_HOME$/dev/part-edge/api/package.json" timestamp="1510579776584">
         <mark key="'" line="25" column="49" />
         <mark key="[" line="35" column="13" />
         <mark key="]" line="35" column="36" />
@@ -2962,12 +2976,6 @@
         <mark key="]" line="4" column="14" />
         <mark key="^" line="4" column="14" />
         <mark key="." line="4" column="14" />
-      </file>
-      <file name="$USER_HOME$/dev/part-edge/api/docs/parameters/limit.yaml" timestamp="1509638104155">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="1" column="13" />
-        <mark key="]" line="1" column="14" />
-        <mark key="." line="1" column="14" />
       </file>
       <file name="$USER_HOME$/Dev/Java/search-engine/src/main/kotlin/com/inad/commands/Command.kt" timestamp="1484580665693">
         <mark key="[" line="2" column="11" />
@@ -5375,7 +5383,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="56" filename="$USER_HOME$/Dev/generator-openapi-repo/generators/app/templates/_gulpfile.js" />
       <jump line="49" column="3" filename="$USER_HOME$/Dev/generator-openapi-repo/generators/app/templates/_gulpfile.js" />
       <jump line="29" column="4" filename="$USER_HOME$/Dev/generator-openapi-repo/generators/app/templates/_gulpfile.js" />
       <jump line="8" column="6" filename="$USER_HOME$/Dev/generator-openapi-repo/generators/app/templates/_gulpfile.js" />
@@ -5475,6 +5482,7 @@
       <jump line="2" column="0" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/controller.js" />
       <jump line="0" column="30" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/controller.js" />
       <jump line="2" column="11" filename="$USER_HOME$/dev/part-edge/api/.vcmrc" />
+      <jump line="15" column="0" filename="$USER_HOME$/dev/part-edge/api/.vcmrc" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -7034,32 +7042,32 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">bnBtIHJ1biBjaGFuZ2Vsb2cK</text>
+      <register name="2" type="4">
+        <text encoding="base64">CjAuMS4xMCBucG0gdmVyc2lvbiBtaW5vciAtPgowLjIuMCBucG0gdmVyc2lvbiBtYWpvciAtPgoxLjAuMA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZmVhdChjb25maWcpCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CmZlYXQobWlkZGxld2FyZXMpOiBhZGQgcGFnaW5hdGlvbiBtaWRkbGV3YXJlCgpBZGQgbWlkZGxld2FyZSB0aGF0IHBhZ2luYXRlcyBmcm9tIDAgdG8gNTAgaXRlbXMgYnkgZGVmYXVsdC4KCkZpeGVzICMxMjM0</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZmVhdChsb2dnZXIpOiBhZGQgbG9nZ2VyIGxldmVsCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CgpmZWF0KG1pZGRsZXdhcmVzKTogYWRkIHBhZ2luYXRpb24gbWlkZGxld2FyZQoKQWRkIG1pZGRsZXdhcmUgdGhhdCBwYWdpbmF0ZXMgZnJvbSAwIHRvIDUwIGl0ZW1zIGJ5IGRlZmF1bHQuCgpGaXhlcyAjMTIzNA==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZG9jcyhyZWFkbWUpOiBhZGQgdGFibGUgb2YgY29udGVudHMgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">bnBtIHJ1biBjaGFuZ2Vsb2cK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">ZmVhdChjb25maWcpCg==</text>
       </register>
       <register name="w" type="4">
         <text>wwb</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyBUT0RPCg==</text>
+        <text encoding="base64">ZmVhdChsb2dnZXIpOiBhZGQgbG9nZ2VyIGxldmVsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBnZXRFcXVpcG1lbnQK</text>
+        <text encoding="base64">ZG9jcyhyZWFkbWUpOiBhZGQgdGFibGUgb2YgY29udGVudHMgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -7114,9 +7122,9 @@
         <entry>Wq</entry>
         <entry>q!</entry>
         <entry>s</entry>
-        <entry>q</entry>
         <entry>wq</entry>
         <entry>qall</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
