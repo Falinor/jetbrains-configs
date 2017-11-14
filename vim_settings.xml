@@ -5280,6 +5280,13 @@
         <mark key="^" line="3" column="57" />
         <mark key="." line="3" column="57" />
       </file>
+      <file name="$USER_HOME$/dev/part-edge/api/.eslintrc" timestamp="1510659359638">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="13" column="16" />
+        <mark key="]" line="14" column="49" />
+        <mark key="^" line="14" column="49" />
+        <mark key="." line="14" column="49" />
+      </file>
       <file name="$USER_HOME$/Dev/baby-foot/web/src/app/app.component.html" timestamp="1495666250622">
         <mark key="[" line="1" column="3" />
         <mark key="]" line="1" column="44" />
@@ -5414,7 +5421,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="1" filename="$USER_HOME$/dev/part-edge/api/docs/paths/equipment.yaml" />
       <jump line="3" column="15" filename="$USER_HOME$/dev/part-edge/api/docs/paths/equipments.yaml" />
       <jump line="16" column="0" filename="$USER_HOME$/dev/part-edge/api/docs/paths/documents.yaml" />
       <jump line="24" column="6" filename="$USER_HOME$/dev/part-edge/api/docs/paths/documents.yaml" />
@@ -5514,6 +5520,7 @@
       <jump line="21" column="0" filename="$USER_HOME$/dev/part-edge/api/src/components/db/index.test.js" />
       <jump line="4" column="0" filename="$USER_HOME$/dev/part-edge/api/src/components/db/index.test.js" />
       <jump line="14" column="30" filename="$USER_HOME$/dev/part-edge/api/src/components/db/index.test.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/api/.eslintrc" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5528,8 +5535,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>testConnection</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAicXVvdGVzIjogWyAyLCAic2luZ2xlIiBdCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -7053,7 +7060,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>testConnection</text>
+        <text>s</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -7068,40 +7075,40 @@
         <text encoding="base64">ICB0LmlzKHR5cGVvZiBjb25maWcuZGIubG9nZ2luZywgJ2Z1bmN0aW9uJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdCBkYiA9IHsK</text>
+        <text encoding="base64">ICAgICAgICAicXVvdGVzIjogWyAyLCAic2luZ2xlIiBdCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGF1dGhlbnRpY2F0ZTogc2lub24uc3R1YigpLAogIH07Cg==</text>
+        <text encoding="base64">ICAgICAgImV4Y2x1ZGVkRmlsZXMiOiAiKi50ZXN0LmpzIiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCBkYiA9IHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB0ZXN0Q29ubmVjdGlvbiwK</text>
+        <text encoding="base64">ICAgIGF1dGhlbnRpY2F0ZTogc2lub24uc3R1YigpLAogIH07Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdCBwcm9taXNlID0gdGVzdENvbm5lY3Rpb24oKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCB0ZXN0Q29ubmVjdGlvbiA9Cg==</text>
+        <text encoding="base64">ICB0ZXN0Q29ubmVjdGlvbiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCBwcm9taXNlID0gdGVzdENvbm5lY3Rpb24oKTsK</text>
       </register>
       <register name="w" type="4">
         <text>wwb</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CnRlc3QuYmVmb3JlRWFjaCgnQ3JlYXRlIHN0dWInLCBhc3luYyAodCkgPT4gewogIC8vIGVzbGludC1kaXNhYmxlLW5leHQtbGluZQogIHQuY29udGV4dCA9IHsKICB9Owp9KTs=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBjb25zdCB0ZXN0Q29ubmVjdGlvbiA9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCB7IGNvbm5lY3Rpb25GblN0dWIgfSA9IHQuY29udGV4dDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>qall</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -7155,8 +7162,8 @@
         <entry encoding="base64">JzwsJz5zL01vZGVsL1JlcG9zaXRvcnkvZw==</entry>
         <entry>q</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>qall</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
