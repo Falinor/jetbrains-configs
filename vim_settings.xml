@@ -3859,10 +3859,10 @@
         <mark key="^" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/Jenkinsfile" timestamp="1510244218024">
-        <mark key="[" line="77" column="25" />
-        <mark key="]" line="77" column="25" />
-        <mark key="^" line="77" column="25" />
-        <mark key="." line="77" column="25" />
+        <mark key="[" line="79" column="25" />
+        <mark key="]" line="79" column="25" />
+        <mark key="^" line="79" column="25" />
+        <mark key="." line="79" column="25" />
       </file>
       <file name="$USER_HOME$/Dev/iot-poc-broker/src/app.test.js" timestamp="1496316786947">
         <mark key="[" line="3" column="7" />
@@ -4111,12 +4111,12 @@
         <mark key="." line="3" column="2" />
         <mark key="^" line="3" column="2" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/src/index.js" timestamp="1510676865758">
-        <mark key="'" line="28" column="6" />
-        <mark key="[" line="17" column="4" />
-        <mark key="]" line="28" column="7" />
-        <mark key="^" line="17" column="3" />
-        <mark key="." line="17" column="4" />
+      <file name="$USER_HOME$/dev/part-edge/api/src/index.js" timestamp="1510735805389">
+        <mark key="'" line="11" column="3" />
+        <mark key="[" line="34" column="59" />
+        <mark key="]" line="34" column="57" />
+        <mark key="." line="34" column="57" />
+        <mark key="^" line="34" column="57" />
       </file>
       <file name="$USER_HOME$/Dev/baby-foot/api/src/resources/match/model.js" timestamp="1496276146604">
         <mark key="[" line="7" column="0" />
@@ -5509,7 +5509,6 @@
       <jump line="7" column="41" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/index.apitest.js" />
       <jump line="6" column="1" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/index.apitest.js" />
       <jump line="4" column="0" filename="$USER_HOME$/dev/part-edge/api/src/index.js" />
-      <jump line="11" column="0" filename="$USER_HOME$/dev/part-edge/api/src/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/api/src/index.js" />
       <jump line="11" column="6" filename="$USER_HOME$/dev/part-edge/api/src/components/db/index.js" />
       <jump line="21" column="0" filename="$USER_HOME$/dev/part-edge/api/src/components/db/index.test.js" />
@@ -5525,6 +5524,7 @@
       <jump line="13" column="0" filename="$USER_HOME$/dev/part-edge/api/src/index.js" />
       <jump line="7" column="0" filename="$USER_HOME$/dev/part-edge/api/src/index.js" />
       <jump line="28" column="6" filename="$USER_HOME$/dev/part-edge/api/src/index.js" />
+      <jump line="11" column="3" filename="$USER_HOME$/dev/part-edge/api/src/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5540,7 +5540,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZGV2ZWxvcG1lbnQg</text>
+        <text>message</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -7064,7 +7064,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGV2ZWxvcG1lbnQg</text>
+        <text>message</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -7079,37 +7079,37 @@
         <text encoding="base64">ICBjZXJ0aWZpY2F0aW9uIFZBUkNIQVIoMjU1KSBQUklNQVJZIEtFWSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh0eXBlb2YgZXJyKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIE5PREVfRU5WOiBkZXZlbG9wbWVudAo=</text>
+        <text encoding="base64">ICAuY2F0Ywo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">bGRjbGllbnQub25jZSgncmVhZHknLCAoKSA9PiB7CiAgICAgIGxkY2xpZW50LnZhcmlhdGlvbigKICAgICAgICAndXMtMC1kaXNwbGF5LWxpc3Qtb2YtZXF1aXBtZW50JywgeyBrZXk6ICd1c2VyQHRlc3QuY29tJyB9LCBmYWxzZSwKICAgICAgICAoZXJyLCBzaG93RmVhdHVyZSkgPT4gewogICAgICAgICAgaWYgKHNob3dGZWF0dXJlKSB7CiAgICAgICAgICAgIGxvZ2dlci5pbmZvKCdBY3RpdmF0ZWQnKTsKICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIGxvZ2dlci5pbmZvKCdEZWFjdGl2YXRlZCcpOwogICAgICAgICAgfQogICAgICAgIH0sCiAgICAgICk7CiAgICB9KTs=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBmZWF0KGluZGV4KTogYWRkIGdsdWUgY29kZSB0byBlbnRyeXBvaW50Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
-      </register>
-      <register name="6" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">PDw8PDw8PCBIRUFECmFwcC5saXN0ZW4oY29uZmlnLnBvcnQsICgpID0+IHsKICBsb2dnZXIuaW5mbyhgTGlzdGVuaW5nIG9uIHBvcnQgJHtjb25maWcucG9ydH0uYCk7Cn0pOwo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIE5PREVfRU5WOiBkZXZlbG9wbWVudAo=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">bGRjbGllbnQub25jZSgncmVhZHknLCAoKSA9PiB7CiAgICAgIGxkY2xpZW50LnZhcmlhdGlvbigKICAgICAgICAndXMtMC1kaXNwbGF5LWxpc3Qtb2YtZXF1aXBtZW50JywgeyBrZXk6ICd1c2VyQHRlc3QuY29tJyB9LCBmYWxzZSwKICAgICAgICAoZXJyLCBzaG93RmVhdHVyZSkgPT4gewogICAgICAgICAgaWYgKHNob3dGZWF0dXJlKSB7CiAgICAgICAgICAgIGxvZ2dlci5pbmZvKCdBY3RpdmF0ZWQnKTsKICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIGxvZ2dlci5pbmZvKCdEZWFjdGl2YXRlZCcpOwogICAgICAgICAgfQogICAgICAgIH0sCiAgICAgICk7CiAgICB9KTs=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBmZWF0KGluZGV4KTogYWRkIGdsdWUgY29kZSB0byBlbnRyeXBvaW50Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="w" type="4">
         <text>wwb</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAicXVvdGVzIjogWyAyLCAic2luZ2xlIiBdCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">PDw8PDw8PCBIRUFECmFwcC5saXN0ZW4oY29uZmlnLnBvcnQsICgpID0+IHsKICBsb2dnZXIuaW5mbyhgTGlzdGVuaW5nIG9uIHBvcnQgJHtjb25maWcucG9ydH0uYCk7Cn0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
