@@ -5386,11 +5386,12 @@
         <mark key="." line="30" column="48" />
         <mark key="^" line="30" column="48" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/src/config/index.js" timestamp="1510764655826">
-        <mark key="[" line="32" column="1" />
-        <mark key="]" line="33" column="1" />
-        <mark key="." line="33" column="1" />
-        <mark key="^" line="33" column="1" />
+      <file name="$USER_HOME$/dev/part-edge/api/src/config/index.js" timestamp="1510910745978">
+        <mark key="'" line="37" column="2" />
+        <mark key="[" line="34" column="19" />
+        <mark key="]" line="35" column="34" />
+        <mark key="." line="35" column="34" />
+        <mark key="^" line="35" column="34" />
       </file>
       <file name="$USER_HOME$/dev/bootcamp/model.test.js" timestamp="1508314018478">
         <mark key="'" line="9" column="4" />
@@ -5426,7 +5427,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="18" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/index.test.js" />
       <jump line="0" column="36" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.js" />
       <jump line="3" column="15" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/index.js" />
       <jump line="11" column="0" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/index.js" />
@@ -5526,6 +5526,7 @@
       <jump line="2" column="41" filename="$USER_HOME$/dev/part-edge/api/src/config/index.js" />
       <jump line="32" column="8" filename="$USER_HOME$/dev/part-edge/api/src/config/index.js" />
       <jump line="6" column="17" filename="$USER_HOME$/dev/part-edge/api/src/components/express/index.js" />
+      <jump line="29" column="2" filename="$USER_HOME$/dev/part-edge/api/src/config/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5540,8 +5541,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -7065,7 +7066,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>port</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -7074,56 +7075,54 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">ICw=</text>
+        <text encoding="base64">XDxjb25zb2xlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBjZXJ0aWZpY2F0aW9uIFZBUkNIQVIoMjU1KSBQUklNQVJZIEtFWSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwcm9jZXNzLmVudi5WQ0FQX1NFUlZJQ0VTKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmluZm8oJ0Nhbm5vdCBnZXQgVkNBUF9TRVJWSUNFUyBjb25maWd1cmF0aW9uLiBTa2lwcGluZy4uLicpOwo=</text>
+      <register name="2" type="4">
+        <text>port,
+    username,
+    password,</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CmltcG9ydCBsb2dnZXIgZnJvbSAnLi4vY29tcG9uZW50cy9sb2dnZXInOwo=</text>
+        <text encoding="base64">ICAgIHBvcnQsCiAgICB1c2VybmFtZSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhlcnIpOwo=</text>
+        <text encoding="base64">ICAgIGRhdGFiYXNlOiBuYW1lLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aG9zdDogYm91bmREYi5ob3N0bmFtZSB8fCAnbG9jCg==</text>
+        <text encoding="base64">ICAgIHBvcnQsCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>alhost',
-  port: boundDb.port || 3306,
-  username: boundDb.username || '',
-  password: boundDb.password || '',
-  database: boundDb.name || '',</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHBvcnQ6IHBvcnQsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uZmlnLmRiID0gewo=</text>
+        <text encoding="base64">ICAgIGhvc3Q6IGJvdW5kRGIuaG9zdG5hbWUsCg==</text>
       </register>
       <register name="w" type="4">
         <text>wwb</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gQWRkIGNvbmZpZ3VyYXRpb24K</text>
+        <text encoding="base64">ICBjb25maWcuZGIgPSB7IC4uLmNvbmZpZy5kYiwgLi4uYm91bmREYiB9Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBiZW5jaG1hcms6ICEhcHJvY2Vzcy5lbnYuREJfQkVOQ0hNQVJLIHx8IGZhbHNlLAp9Owo=</text>
+        <text encoding="base64">ICBjb25maWcuZGIgPSBPYmplY3QuYXNzaWduKGNvbmZpZy5kYiwgYm91bmREYikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">ICw=</last-search>
+      <last-search encoding="base64">XDxjb25zb2xlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">ICw=</last-pattern>
+      <last-pattern encoding="base64">XDxjb25zb2xlXD4=</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute encoding="base64">ICw=</last-substitute>
       <last-dir>-1</last-dir>
@@ -7131,7 +7130,6 @@
     </search>
     <history>
       <history-search>
-        <entry>data</entry>
         <entry>t.context.teamStore</entry>
         <entry>test(</entry>
         <entry>test</entry>
@@ -7151,6 +7149,7 @@
         <entry>Model</entry>
         <entry>PRIMARY KEY</entry>
         <entry encoding="base64">ICw=</entry>
+        <entry encoding="base64">XDxjb25zb2xlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3N0b3JlL3BsYXllclN0b3JlL2c=</entry>
