@@ -315,7 +315,7 @@
         <mark key="." line="13" column="3" />
         <mark key="^" line="13" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/importer/models/equipment.js" timestamp="1511435617424">
+      <file name="$USER_HOME$/dev/part-edge/importer/models/equipment.js" timestamp="1511437326068">
         <mark key="'" line="65" column="0" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -808,12 +808,12 @@
         <mark key="^" line="0" column="34" />
         <mark key="." line="0" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/importer/models/index.js" timestamp="1511362804336">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="8" column="38" />
-        <mark key="]" line="8" column="38" />
-        <mark key="." line="8" column="38" />
-        <mark key="^" line="4" column="32" />
+      <file name="$USER_HOME$/dev/part-edge/importer/models/index.js" timestamp="1511437723592">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="4" column="36" />
+        <mark key="]" line="6" column="32" />
+        <mark key="." line="6" column="32" />
+        <mark key="^" line="6" column="32" />
       </file>
       <file name="$USER_HOME$/Dev/wallpaper-switcher/test/unit/index.js" timestamp="1506545748325">
         <mark key="[" line="0" column="0" />
@@ -1665,6 +1665,12 @@
         <mark key="." line="5" column="65" />
         <mark key="^" line="5" column="65" />
       </file>
+      <file name="$USER_HOME$/dev/part-edge/importer/models/test.js" timestamp="1511437287267">
+        <mark key="[" line="2" column="2" />
+        <mark key="]" line="6" column="34" />
+        <mark key="." line="6" column="34" />
+        <mark key="^" line="6" column="34" />
+      </file>
       <file name="$USER_HOME$/Dev/tests/angular/front/src/app/auth/shared/auth.service.ts" timestamp="1490371433451">
         <mark key="[" line="5" column="14" />
         <mark key="]" line="5" column="13" />
@@ -1929,12 +1935,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/importer/config/index.js" timestamp="1511362798028">
+      <file name="$USER_HOME$/dev/part-edge/importer/config/index.js" timestamp="1511437653685">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="2" column="41" />
-        <mark key="." line="8" column="0" />
+        <mark key="[" line="2" column="40" />
+        <mark key="]" line="2" column="40" />
+        <mark key="^" line="2" column="47" />
+        <mark key="." line="2" column="40" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/docs/definitions/document.yaml" timestamp="1509639214192">
         <mark key="[" line="0" column="12" />
@@ -3518,11 +3524,12 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/importer/migrations/20171123101346-create-equipment.js" timestamp="1511435553655">
-        <mark key="[" line="20" column="17" />
-        <mark key="]" line="20" column="7" />
-        <mark key="." line="20" column="7" />
-        <mark key="^" line="20" column="7" />
+      <file name="$USER_HOME$/dev/part-edge/importer/migrations/20171123101346-create-equipment.js" timestamp="1511437345563">
+        <mark key="'" line="84" column="6" />
+        <mark key="[" line="19" column="8" />
+        <mark key="]" line="84" column="32" />
+        <mark key="." line="84" column="32" />
+        <mark key="^" line="84" column="32" />
       </file>
       <file name="$USER_HOME$/Dev/Java/search-engine/src/main/kotlin/com/inad/shared/SearchResult.kt" timestamp="1484644025719">
         <mark key="[" line="2" column="40" />
@@ -3863,8 +3870,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="6" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/controller.test.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/controller.test.js" />
       <jump line="13" column="0" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/controller.test.js" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/controller.test.js" />
       <jump line="12" column="14" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/controller.test.js" />
@@ -3963,6 +3968,8 @@
       <jump line="19" column="37" filename="$USER_HOME$/dev/part-edge/importer/seeders/20171122152817-equipments.js" />
       <jump line="16" column="25" filename="$USER_HOME$/dev/part-edge/importer/seeders/20171122152817-equipments.js" />
       <jump line="0" column="11" filename="$USER_HOME$/dev/part-edge/importer/seeders/20171122152817-equipments.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/dev/part-edge/importer/migrations/20171123101346-create-equipment.js" />
+      <jump line="84" column="6" filename="$USER_HOME$/dev/part-edge/importer/migrations/20171123101346-create-equipment.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3978,7 +3985,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>DATEONLY</text>
+        <text>username</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -5502,7 +5509,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>DATEONLY</text>
+        <text>username</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -5511,7 +5518,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>var</text>
+        <text>DataTypes</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGNvbnN0IHNuID0gdGhpcy5nZXREYXRhVmFsdWUoJ1NlcmlhbE51bWJlcicpOwo=</text>
@@ -5554,17 +5561,16 @@
       </register>
     </registers>
     <search>
-      <last-search>var</last-search>
+      <last-search>DataTypes</last-search>
       <last-offset />
-      <last-pattern>var</last-pattern>
-      <last-replace>const</last-replace>
-      <last-substitute>var</last-substitute>
+      <last-pattern>DataTypes</last-pattern>
+      <last-replace>Sequelize</last-replace>
+      <last-substitute>DataTypes</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>test</entry>
         <entry encoding="base64">XDxuZXh0XD4=</entry>
         <entry>db</entry>
         <entry>graph</entry>
@@ -5584,9 +5590,9 @@
         <entry>mountpath</entry>
         <entry>mount</entry>
         <entry>var</entry>
+        <entry>DataTypes</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2RiL21hdGNoU3RvcmUvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2ZpbmRPbmVCeVRyaWdyYW0vZmluZE9uZS9n</entry>
         <entry encoding="base64">JzwsJz5x</entry>
         <entry encoding="base64">JzwsJz5zL3Zhci9sZXQvZw==</entry>
@@ -5605,6 +5611,7 @@
         <entry>10</entry>
         <entry>17fa</entry>
         <entry>q</entry>
+        <entry encoding="base64">JzwsJz5zL0RhdGFUeXBlcy9TZXF1ZWxpemUvZw==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
