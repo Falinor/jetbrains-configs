@@ -1935,12 +1935,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/importer/config/index.js" timestamp="1511437653685">
+      <file name="$USER_HOME$/dev/part-edge/importer/config/index.js" timestamp="1511442850542">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="2" column="40" />
-        <mark key="]" line="2" column="40" />
-        <mark key="^" line="2" column="47" />
-        <mark key="." line="2" column="40" />
+        <mark key="[" line="13" column="20" />
+        <mark key="]" line="13" column="19" />
+        <mark key="." line="13" column="19" />
+        <mark key="^" line="13" column="19" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/docs/definitions/document.yaml" timestamp="1509639214192">
         <mark key="[" line="0" column="12" />
@@ -3951,8 +3951,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/importer/models/index.js" />
       <jump line="29" column="0" filename="$USER_HOME$/dev/part-edge/importer/models/index.js" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/part-edge/importer/config/index.js" />
-      <jump line="7" column="0" filename="$USER_HOME$/dev/part-edge/importer/config/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/importer/config/index.js" />
       <jump line="1" column="17" filename="$USER_HOME$/dev/part-edge/importer/models/equipment.js" />
       <jump line="73" column="0" filename="$USER_HOME$/dev/part-edge/importer/models/equipment.js" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/part-edge/importer/seeders/20171122152817-equipments.js" />
@@ -3970,6 +3968,8 @@
       <jump line="0" column="11" filename="$USER_HOME$/dev/part-edge/importer/seeders/20171122152817-equipments.js" />
       <jump line="4" column="0" filename="$USER_HOME$/dev/part-edge/importer/migrations/20171123101346-create-equipment.js" />
       <jump line="84" column="6" filename="$USER_HOME$/dev/part-edge/importer/migrations/20171123101346-create-equipment.js" />
+      <jump line="7" column="43" filename="$USER_HOME$/dev/part-edge/importer/config/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/importer/config/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3985,7 +3985,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>username</text>
+        <text encoding="base64">ICBlbnY6IHByb2Nlc3MuZW52Lk5PREVfRU5WIHx8ICdkZXZlbG9wbWVudCcsCiAgdXNlcm5hbWU6IHByb2Nlc3MuZW52LkRCX1VTRVJOQU1FIHx8ICdyb290JywKICBwYXNzd29yZDogcHJvY2Vzcy5lbnYuREJfUEFTU1dPUkQgfHwgJ2V4YW1wbGUnLAogIGRhdGFiYXNlOiBwcm9jZXNzLmVudi5EQl9OQU1FIHx8ICdleGFtcGxlJywKICBob3N0OiBwcm9jZXNzLmVudi5EQl9IT1NUIHx8ICcxMjcuMC4wLjEnLAogIHBvcnQ6IHByb2Nlc3MuZW52LkRCX1BPUlQgfHwgMzMwNiwKICBkaWFsZWN0OiBwcm9jZXNzLmVudi5EQl9ESUFMRUNUIHx8ICdteXNxbCc=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -5523,38 +5523,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGNvbnN0IHNuID0gdGhpcy5nZXREYXRhVmFsdWUoJ1NlcmlhbE51bWJlcicpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICBlbnY6IHByb2Nlc3MuZW52Lk5PREVfRU5WIHx8ICdkZXZlbG9wbWVudCcsCiAgdXNlcm5hbWU6IHByb2Nlc3MuZW52LkRCX1VTRVJOQU1FIHx8ICdyb290JywKICBwYXNzd29yZDogcHJvY2Vzcy5lbnYuREJfUEFTU1dPUkQgfHwgJ2V4YW1wbGUnLAogIGRhdGFiYXNlOiBwcm9jZXNzLmVudi5EQl9OQU1FIHx8ICdleGFtcGxlJywKICBob3N0OiBwcm9jZXNzLmVudi5EQl9IT1NUIHx8ICcxMjcuMC4wLjEnLAogIHBvcnQ6IHByb2Nlc3MuZW52LkRCX1BPUlQgfHwgMzMwNiwKICBkaWFsZWN0OiBwcm9jZXNzLmVudi5EQl9ESUFMRUNUIHx8ICdteXNxbCc=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">ICAgIGlkOiB7CiAgICAgIHR5cGU6IERhdGFUeXBlcy5TVFJJTkcsCiAgICAgIGdldCgpIHsKICAgICAgICBjb25zdCBwbiA9IHRoaXMuZ2V0RGF0YVZhbHVlKCdQYXJ0TnVtYmVyJyk7CiAgICAgICAgY29uc3Qgc24gPSB0aGlzLmdldERhdGFWYWx1ZSgnU2VyaWFsTnVtYmVyJyk7CiAgICAgICAgcmV0dXJuIGAke3BuLnRvTG93ZXJDYXNlKCl9OiR7c24udG9Mb3dlckNhc2UoKX1gOwogICAgICB9CiAgICB9LA==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgbmFtZTogewo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgfQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB0eXBlOiBTZXF1ZWxpemUK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0eXBlOiBTZXF1ZWxpemUuU1RSSU5HCg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <text>wwb</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">J3VzZSBzdHJpY3QnOwoK</text>
+        <text encoding="base64">ICAgICAgICB0eXBlOiBTZXF1ZWxpemUuU1RSSU5HCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByZXR1cm4gRXF1aXBtZW50Owo=</text>
+        <text encoding="base64">J3VzZSBzdHJpY3QnOwoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
