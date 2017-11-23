@@ -315,12 +315,12 @@
         <mark key="." line="13" column="3" />
         <mark key="^" line="13" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/importer/models/equipment.js" timestamp="1511370935690">
-        <mark key="'" line="73" column="0" />
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
+      <file name="$USER_HOME$/dev/part-edge/importer/models/equipment.js" timestamp="1511432952923">
+        <mark key="'" line="65" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
         <mark key="^" line="1" column="17" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/web-of-things/wot-authorization-server/dashboard/src/app/user/new-user/index.ts" timestamp="1493459769419">
         <mark key="[" line="0" column="0" />
@@ -3518,6 +3518,12 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
+      <file name="$USER_HOME$/dev/part-edge/importer/migrations/20171123101346-create-equipment.js" timestamp="1511433164715">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="32" column="49" />
+        <mark key="." line="32" column="49" />
+        <mark key="^" line="32" column="49" />
+      </file>
       <file name="$USER_HOME$/Dev/Java/search-engine/src/main/kotlin/com/inad/shared/SearchResult.kt" timestamp="1484644025719">
         <mark key="[" line="2" column="40" />
         <mark key="]" line="2" column="59" />
@@ -3972,7 +3978,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICByZXR1cm4gRXF1aXBtZW50Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -5496,7 +5502,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>sequelize</text>
+        <text>SerialNumber</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -5508,48 +5514,43 @@
         <text>var</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjZXJ0aWZpY2F0aW9uIFZBUkNIQVIoMjU1KSBQUklNQVJZIEtFWSwK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnN0IHNuID0gdGhpcy5nZXREYXRhVmFsdWUoJ1NlcmlhbE51bWJlcicpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICByZXR1cm4gRXF1aXBtZW50Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIGlkOiB7CiAgICAgIHR5cGU6IERhdGFUeXBlcy5TVFJJTkcsCiAgICAgIGdldCgpIHsKICAgICAgICBjb25zdCBwbiA9IHRoaXMuZ2V0RGF0YVZhbHVlKCdQYXJ0TnVtYmVyJyk7CiAgICAgICAgY29uc3Qgc24gPSB0aGlzLmdldERhdGFWYWx1ZSgnU2VyaWFsTnVtYmVyJyk7CiAgICAgICAgcmV0dXJuIGAke3BuLnRvTG93ZXJDYXNlKCl9OiR7c24udG9Mb3dlckNhc2UoKX1gOwogICAgICB9CiAgICB9LA==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkYjogewo=</text>
+        <text encoding="base64">ICAgICAgbmFtZTogewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">REJfUEFTU1dPUkQ9Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICB0eXBlOiBTZXF1ZWxpemUK</text>
       </register>
-      <register name="6" type="4">
-        <text>username: process.env.DB_USERNAME || 'username',
-  password: process.env.DB_PASSWORD || 'password',
-  database: process.env.DB_NAME || 'example',
-  host: process.env.DB_HOST || '127.0.0.1',
-  port: process.env.DB_PORT || 3306,
-  dialect: process.env.DB_DIALECT || 'mysql'</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0eXBlOiBTZXF1ZWxpemUuU1RSSU5HCg==</text>
       </register>
       <register name="w" type="4">
         <text>wwb</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgZGIgPSB7fTsK</text>
+        <text encoding="base64">J3VzZSBzdHJpY3QnOwoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gRXF1aXBtZW50Owo=</text>
       </register>
       <register name=":" type="4">
-        <text>10</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -5598,13 +5599,13 @@
         <entry encoding="base64">JzwsJz5zL1BSSU1BUlkgS0VZLy9n</entry>
         <entry encoding="base64">JzwsJz5zLyAsLywvZw==</entry>
         <entry>qall</entry>
-        <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL3Zhci9jb25zdC9n</entry>
-        <entry>w</entry>
         <entry>wq</entry>
         <entry>20</entry>
         <entry>10</entry>
         <entry>17fa</entry>
+        <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
