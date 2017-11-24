@@ -2348,12 +2348,12 @@
         <mark key="^" line="3" column="31" />
         <mark key="." line="3" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/importer/index.js" timestamp="1511474285777">
-        <mark key="'" line="4" column="38" />
-        <mark key="[" line="8" column="77" />
-        <mark key="]" line="10" column="45" />
-        <mark key="." line="10" column="45" />
-        <mark key="^" line="10" column="45" />
+      <file name="$USER_HOME$/dev/part-edge/importer/index.js" timestamp="1511509122589">
+        <mark key="'" line="10" column="45" />
+        <mark key="[" line="13" column="25" />
+        <mark key="]" line="13" column="24" />
+        <mark key="." line="13" column="24" />
+        <mark key="^" line="13" column="24" />
       </file>
       <file name="$USER_HOME$/Dev/wot-api/src/utils/index.ts" timestamp="1489158279958">
         <mark key="[" line="0" column="0" />
@@ -3224,11 +3224,10 @@
         <mark key="^" line="2" column="35" />
         <mark key="." line="2" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/importer/importer.js" timestamp="1511473341237">
-        <mark key="[" line="2" column="27" />
-        <mark key="]" line="2" column="27" />
-        <mark key="." line="2" column="27" />
-        <mark key="^" line="2" column="8" />
+      <file name="$USER_HOME$/dev/part-edge/importer/importer.js" timestamp="1511509206451">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/web-of-things/iot-poc/api/src/config/index.js" timestamp="1499245044252">
         <mark key="[" line="20" column="11" />
@@ -3609,12 +3608,12 @@
         <mark key="." line="2" column="59" />
         <mark key="^" line="2" column="59" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/importer/converter.js" timestamp="1511473826099">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="6" column="20" />
+      <file name="$USER_HOME$/dev/part-edge/importer/converter.js" timestamp="1511509827925">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="13" column="14" />
       </file>
       <file name="$USER_HOME$/Dev/Java/Mediatheque/src/main/java/com/mti/command/ListCommand.java" timestamp="1473433612905">
         <mark key="[" line="23" column="17" />
@@ -3949,10 +3948,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="41" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/index.apitest.js" />
-      <jump line="6" column="1" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/index.apitest.js" />
-      <jump line="4" column="0" filename="$USER_HOME$/dev/part-edge/api/src/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/api/src/index.js" />
       <jump line="11" column="6" filename="$USER_HOME$/dev/part-edge/api/src/components/db/index.js" />
       <jump line="21" column="0" filename="$USER_HOME$/dev/part-edge/api/src/components/db/index.test.js" />
       <jump line="4" column="0" filename="$USER_HOME$/dev/part-edge/api/src/components/db/index.test.js" />
@@ -4049,6 +4044,10 @@
       <jump line="5" column="9" filename="$USER_HOME$/dev/part-edge/importer/exporter.js" />
       <jump line="3" column="0" filename="$USER_HOME$/dev/part-edge/importer/converter.js" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/importer/converter.js" />
+      <jump line="10" column="45" filename="$USER_HOME$/dev/part-edge/importer/index.js" />
+      <jump line="34" column="1" filename="$USER_HOME$/dev/part-edge/importer/converter.js" />
+      <jump line="4" column="17" filename="$USER_HOME$/dev/part-edge/importer/converter.js" />
+      <jump line="38" column="0" filename="$USER_HOME$/dev/part-edge/importer/converter.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4064,7 +4063,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>export</text>
+        <text encoding="base64">ICAvKgogIC5vbignanNvbicsIChvYmopID0+IHsKICAgIGNvbnN0IHN0ciA9IEpTT04uc3RyaW5naWZ5KG9iaik7CiAgICAvLyBJZiB3ZSBhcmUgb24gdGhlIGZpcnN0IG9iamVjdCwgZG8gbm90IHByaW50IGEgY29tbWEgKCcsJykgYmVmb3JlIGl0CiAgICBpZiAoZmlyc3QpIHsKICAgICAgLy8gQmVnZ2lubmluZyBvZiBpdGVtcwogICAgICBzb3V0LndyaXRlKCdbJyk7CiAgICAgIHNvdXQud3JpdGUoc3RyKTsKICAgICAgZmlyc3QgPSAhZmlyc3Q7CiAgICAgIHJldHVybjsKICAgIH0KICAgIHNvdXQud3JpdGUoYCwke3N0cn1gKTsKICB9KQogIC5vbignZG9uZScsIChlcnIpID0+IHsKICAgIGlmIChlcnIpIHJlamVjdChlcnIpOwoKICAgIC8vIEVuZCBvZiBpdGVtcwogICAgc291dC53cml0ZSgnXScpOwogICAgY29uc29sZS5sb2coJ0VuZC4nKTsKICAgIHJlc29sdmUoKTsKICB9KTsKICAqLw==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -5588,7 +5587,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>export</text>
+        <text encoding="base64">OiA=</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -5600,31 +5599,31 @@
         <text>Sequelize</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgbGFiZWw6IFNlcXVlbGl6ZS5TVFJJTkcsCg==</text>
+        <text encoding="base64">ICBzb3V0LndyaXRlKCdbJyk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBzZXF1ZWxpemUuCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAvKgogIC5vbignanNvbicsIChvYmopID0+IHsKICAgIGNvbnN0IHN0ciA9IEpTT04uc3RyaW5naWZ5KG9iaik7CiAgICAvLyBJZiB3ZSBhcmUgb24gdGhlIGZpcnN0IG9iamVjdCwgZG8gbm90IHByaW50IGEgY29tbWEgKCcsJykgYmVmb3JlIGl0CiAgICBpZiAoZmlyc3QpIHsKICAgICAgLy8gQmVnZ2lubmluZyBvZiBpdGVtcwogICAgICBzb3V0LndyaXRlKCdbJyk7CiAgICAgIHNvdXQud3JpdGUoc3RyKTsKICAgICAgZmlyc3QgPSAhZmlyc3Q7CiAgICAgIHJldHVybjsKICAgIH0KICAgIHNvdXQud3JpdGUoYCwke3N0cn1gKTsKICB9KQogIC5vbignZG9uZScsIChlcnIpID0+IHsKICAgIGlmIChlcnIpIHJlamVjdChlcnIpOwoKICAgIC8vIEVuZCBvZiBpdGVtcwogICAgc291dC53cml0ZSgnXScpOwogICAgY29uc29sZS5sb2coJ0VuZC4nKTsKICAgIHJlc29sdmUoKTsKICB9KTsKICAqLw==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBzdHJlYW1PdXQuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC5waXBlKCkK</text>
+        <text encoding="base64">fSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29udmVydGVyLmNvbnZlcnQoc3JjUGF0aCwgZHN0UGF0aCk7Cg==</text>
+        <text encoding="base64">ICByZWFkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCBmc2NvbnN0IGZzY29uc3QgZnNjb25zdCBmcwo=</text>
+        <text encoding="base64">Owo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0ZXIK</text>
+      <register name="7" type="4">
+        <text encoding="base64">Y29uc3QgcmVhZCA9IChmaWxlKSA9PiB7CiAgcmV0dXJuIG5ldyBQcm9taXNlKChyZXNvbHZlLCByZWplY3QpID0+IHsKICAgIGZzLnJlYWRGaWxlKGZpbGUsICd1dGY4JywgKGVyciwgZGF0YSkgPT4gewogICAgICBpZiAoZXJyKSByZXR1cm4gcmVqZWN0KGVycik7CgogICAgICByZXNvbHZlKEpTT04ucGFyc2UoZGF0YSkpOwogICAgfSk7CiAgfSkKfQ==</text>
       </register>
       <register name="w" type="4">
         <text>wwb</text>
@@ -5633,7 +5632,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIGxldCBmaXJzdCA9IHRydWU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
