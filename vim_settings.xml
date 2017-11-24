@@ -249,11 +249,12 @@
         <mark key="^" line="22" column="3" />
         <mark key="." line="22" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/importer/src/converter.js" timestamp="1511527101652">
-        <mark key="[" line="4" column="14" />
-        <mark key="]" line="2" column="21" />
-        <mark key="." line="2" column="21" />
-        <mark key="^" line="2" column="17" />
+      <file name="$USER_HOME$/dev/part-edge/importer/src/converter.js" timestamp="1511531280425">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="2" column="22" />
+        <mark key="^" line="2" column="22" />
+        <mark key="." line="2" column="22" />
       </file>
       <file name="$USER_HOME$/Dev/Java/exam/src/main/kotlin/com/inad/units/commands/ConvertCommand.kt" timestamp="1484837396500">
         <mark key="[" line="8" column="59" />
@@ -2367,11 +2368,10 @@
         <mark key="^" line="3" column="31" />
         <mark key="." line="3" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/importer/index.js" timestamp="1511526955077">
-        <mark key="[" line="12" column="25" />
-        <mark key="]" line="11" column="28" />
-        <mark key="^" line="11" column="28" />
-        <mark key="." line="11" column="28" />
+      <file name="$USER_HOME$/dev/part-edge/importer/index.js" timestamp="1511531144126">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/wot-api/src/utils/index.ts" timestamp="1489158279958">
         <mark key="[" line="0" column="0" />
@@ -3965,11 +3965,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="30" filename="$USER_HOME$/dev/part-edge/api/src/components/db/index.test.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/api/.eslintrc" />
-      <jump line="9" column="22" filename="$USER_HOME$/dev/part-edge/api/test/init.sql" />
-      <jump line="20" column="14" filename="$USER_HOME$/dev/part-edge/api/test/init.sql" />
-      <jump line="12" column="22" filename="$USER_HOME$/dev/part-edge/api/test/init.sql" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/part-edge/api/test/init.sql" />
       <jump line="13" column="26" filename="$USER_HOME$/dev/part-edge/api/test/init.sql" />
       <jump line="35" column="0" filename="$USER_HOME$/dev/part-edge/api/src/index.js" />
@@ -4065,6 +4060,11 @@
       <jump line="3" column="1" filename="$USER_HOME$/dev/part-edge/importer/test/converter.test.js" />
       <jump line="5" column="25" filename="$USER_HOME$/dev/part-edge/importer/test/converter.test.js" />
       <jump line="4" column="2" filename="$USER_HOME$/dev/part-edge/importer/src/converter.js" />
+      <jump line="3" column="29" filename="$USER_HOME$/dev/part-edge/importer/src/converter.js" />
+      <jump line="31" column="1" filename="$USER_HOME$/dev/part-edge/importer/src/converter.js" />
+      <jump line="8" column="6" filename="$USER_HOME$/dev/part-edge/importer/src/converter.js" />
+      <jump line="9" column="8" filename="$USER_HOME$/dev/part-edge/importer/src/converter.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/importer/src/converter.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4080,7 +4080,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">PT4g</text>
+        <text encoding="base64">ZnVuY3Rpb24g</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -5604,7 +5604,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PT4g</text>
+        <text encoding="base64">ZnVuY3Rpb24g</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -5619,7 +5619,7 @@
         <text encoding="base64">ICBzb3V0LndyaXRlKCdbJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgZnMgPSByZXF1aXJlKCdmcycpOwo=</text>
+        <text encoding="base64">ICBsZXQgZmlyc3QgPSB0cnVlOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -5628,28 +5628,29 @@
         <text encoding="base64">Y29uc3Qgc3RyZWFtID0gcmVxdWlyZSgnc3RyZWFtJyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBzb3V0Lm9uKCcnKcKnCg==</text>
+        <text encoding="base64">ICAgIHRyYW5zZm9ybShjaHVuaywgZW5jLCBjYikgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmaXJzdCA9ICFmaXJzdDsK</text>
+        <text encoding="base64">ICBjb25zdCB0cmFuc2Zvcm1TdHJlYW0gPSBuZXcgc3RyZWFtLlRyYW5zZm9ybSh7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy53cml0ZShKU09OLnN0cmluZ2lmeShvYmopKTsK</text>
+        <text encoding="base64">ICAucGlwZSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLndyaXRlKEpTT04uc3RyaW5naWZ5KCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="7" type="4">
+        <text>let first = true;
+  // Actually convert to JSON</text>
       </register>
       <register name="w" type="4">
         <text>wwb</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">cmV0dXJuIGNzdih7CiAgICBkZWxpbWl0ZXI6ICc7JwogIH0pLmZyb21TdHJlYW0oc3RyZWFtKQogICAgLm9uKCdqc29uJywgKG9iaikgPT4gewogICAgICBjb25zdCB0b1dyaXRlID0gSlNPTi5zdHJpbmdpZnkob2JqKTsKICAgICAgaWYgKGZpcnN0KSB7CiAgICAgICAgLy8gV3JpdGUgdGhlIGJlZ2dpbm5pbmcgb2YgdGhlIGFycmF5IHBsdXMgdGhlIGZpcnN0IG9iamVjdAogICAgICAgIHRoaXMud3JpdGUoYFske3RvV3JpdGV9YCk7CiAgICAgICAgY29uc29sZS5sb2codGhpcyk7CiAgICAgICAgLy8gTm8gbW9yZSB0aGUgZmlyc3QgdGltZQogICAgICAgIGZpcnN0ID0gIWZpcnN0OwogICAgICAgIHJldHVybjsKICAgICAgfQogICAgICAvLyBXcml0ZSBvdGhlciBvYmplY3RzCiAgICAgIHRoaXMud3JpdGUoYCwke3RvV3JpdGV9YCk7CiAgICB9KQogICAgLm9uKCdlbmQnLCAoKSA9PiB7CiAgICAgIC8vIFdyaXRlIHRoZSBlbmQgb2YgdGhlIGFycmF5CiAgICAgIHRoaXMud3JpdGUoJ10nKTsKICAgIH0pOw==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzb3V0LndyaXRlKCdbJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5wdXNoKGNodW5rKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
