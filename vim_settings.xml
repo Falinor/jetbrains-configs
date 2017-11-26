@@ -3511,6 +3511,12 @@
         <mark key="^" line="0" column="35" />
         <mark key="." line="0" column="35" />
       </file>
+      <file name="$USER_HOME$/dev/part-edge/api/src/routes/equipments/repository.test.js" timestamp="1511726962458">
+        <mark key="[" line="10" column="35" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="25" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/routes/locations/model.js" timestamp="1511539959472">
         <mark key="[" line="7" column="15" />
         <mark key="]" line="7" column="15" />
@@ -4116,7 +4122,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0LnRydWUobW9kZWwuZmluZEFsbC5hcmcoKSkK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -5640,7 +5646,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>hasMany(</text>
+        <text>calledWithExactly</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -5655,33 +5661,36 @@
         <text encoding="base64">dHJhbnNmb3JtKGNodW5rLCBlbmMsIGNiKSB7CiAgICAgIGNvbnN0IHN0ciA9IEpTT04ucGFyc2UoY2h1bmsudG9TdHJpbmcoKSk7CiAgICAgIHNlcXVlbGl6ZS5xdWVyeUludGVyZmFjZS5idWxrSW5zZXJ0KCdFcXVpcG1lbnRzJywgW3N0cl0pCiAgICAgICAgLnRoZW4oKCkgPT4gY2IobnVsbCwgY2h1bmspKQogICAgICAgIC5jYXRjaChlcnIgPT4gY2IoZXJyKSk7CiAgICB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0LnRydWUobW9kZWwuZmluZEFsbC5hcmcoKSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">CiAgLy8gR0VUIC9lcXVpcG1lbnRzLzppZCAtPiBnZXQgb25lIGVxdWlwbWVudCBieSBJRAogIHJvdXRlci5nZXQoJy86aWQnLCAocmVxLCByZXMpID0+IHJlcy5zdGF0dXMoNTAxKS5qc29uKCdOb3QgaW1wbGVtZW50ZWQnKSk7</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHRhYmxlTmFtZQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBbT3AuXQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBPcC4K</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNyZWF0ZU1vZGVscyA9Cg==</text>
+        <text encoding="base64">ICAgICAgICBPcC4K</text>
       </register>
       <register name="w" type="4">
         <text>wwb</text>
       </register>
-      <register name="8" type="4">
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGNyZWF0ZU1vZGVscyA9Cg==</text>
+      </register>
+      <register name="9" type="4">
         <text>, {
     classMethods: {
       associate(models) {
@@ -5689,9 +5698,6 @@
       },
     },
   }</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICBjbGFzc01ldGhvZHM6IHsKICAgICAgYXNzb2NpYXRlKG1vZGVscykgewogICAgICAgIC8vIGFzc29jaWF0aW9ucyBjYW4gYmUgZGVmaW5lZCBoZXJlCiAgICAgIH0sCiAgICB9LA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
