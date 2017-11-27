@@ -1553,6 +1553,12 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
+      <file name="$USER_HOME$/dev/part-edge/api/src/routes/equipments/controller.js" timestamp="1511774170122">
+        <mark key="[" line="3" column="29" />
+        <mark key="]" line="4" column="26" />
+        <mark key="." line="4" column="26" />
+        <mark key="^" line="4" column="26" />
+      </file>
       <file name="$USER_HOME$/Dev/web-of-things/iot-poc/api/.babelrc" timestamp="1495809684650">
         <mark key="[" line="1" column="14" />
         <mark key="]" line="2" column="12" />
@@ -1703,12 +1709,12 @@
         <mark key="." line="9" column="21" />
         <mark key="^" line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/src/routes/equipments/controller.test.js" timestamp="1511730407791">
+      <file name="$USER_HOME$/dev/part-edge/api/src/routes/equipments/controller.test.js" timestamp="1511774406195">
         <mark key="'" line="47" column="40" />
-        <mark key="[" line="52" column="43" />
-        <mark key="]" line="52" column="43" />
-        <mark key="^" line="52" column="43" />
-        <mark key="." line="52" column="43" />
+        <mark key="[" line="43" column="4" />
+        <mark key="]" line="44" column="11" />
+        <mark key="^" line="44" column="11" />
+        <mark key="." line="44" column="11" />
       </file>
       <file name="$USER_HOME$/Dev/web-of-things/iot-poc-broker/src/services/device/index.js" timestamp="1499328384234">
         <mark key="[" line="5" column="14" />
@@ -4123,7 +4129,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZXF1aXBtZW50IA==</text>
+        <text>log</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -5647,7 +5653,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZXF1aXBtZW50IA==</text>
+        <text>log</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -5662,37 +5668,37 @@
         <text encoding="base64">dHJhbnNmb3JtKGNodW5rLCBlbmMsIGNiKSB7CiAgICAgIGNvbnN0IHN0ciA9IEpTT04ucGFyc2UoY2h1bmsudG9TdHJpbmcoKSk7CiAgICAgIHNlcXVlbGl6ZS5xdWVyeUludGVyZmFjZS5idWxrSW5zZXJ0KCdFcXVpcG1lbnRzJywgW3N0cl0pCiAgICAgICAgLnRoZW4oKCkgPT4gY2IobnVsbCwgY2h1bmspKQogICAgICAgIC5jYXRjaChlcnIgPT4gY2IoZXJyKSk7CiAgICB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkZAo=</text>
+        <text encoding="base64">ICAgIGxpbWl0OiB1bmRlZmluZWQsCiAgICBza2lwOiB1bmRlZmluZWQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB0Lm5vdFRocm93cygoKSA9PiBjcmVhdGVNb2RlbChkYikpOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXEucXVlcnkubGltaXQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCByZXN1bHQgPSBjcmVhdGVNb2RlbChkYik7Cg==</text>
+        <text encoding="base64">ICB0LnRydWUocmVxLnF1ZXJ5LmxpbWl0KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdCBlcnIgPSB0LnRocm93cygoKSA9PiB7CiAgICBjcmVhdGVNb2RlbChkYik7Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IGltcGxlbWVudCBsaW1pdAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCByZXN1bHQgPSBjcmVhdGVNb2RlbChkYik7Cg==</text>
+        <text encoding="base64">ICBkZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0LnRydWUoKQo=</text>
+        <text encoding="base64">ICB0Lm5vdFRocm93cygoKSA9PiBjcmVhdGVNb2RlbChkYikpOwo=</text>
       </register>
       <register name="w" type="4">
         <text>wwb</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB0LnRydWUoZGIubW9kZWwuY2FsbGVkT25jZSk7Cg==</text>
+        <text encoding="base64">ICBjb25zdCByZXN1bHQgPSBjcmVhdGVNb2RlbChkYik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICB9KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -5747,9 +5753,9 @@
         <entry>ew</entry>
         <entry encoding="base64">JzwsJz5zL1NlcXVlbGl6ZS9EYXRhVHlwZXMvZw==</entry>
         <entry>w]</entry>
-        <entry>qall</entry>
-        <entry>q</entry>
         <entry>wq</entry>
+        <entry>q</entry>
+        <entry>qall</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
