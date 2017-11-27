@@ -339,12 +339,12 @@
         <mark key="." line="13" column="3" />
         <mark key="^" line="13" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/importer/models/equipment.js" timestamp="1511775067673">
-        <mark key="'" line="78" column="4" />
-        <mark key="[" line="1" column="27" />
-        <mark key="]" line="1" column="28" />
-        <mark key="." line="1" column="28" />
-        <mark key="^" line="58" column="7" />
+      <file name="$USER_HOME$/dev/part-edge/importer/models/equipment.js" timestamp="1511795420033">
+        <mark key="'" line="98" column="4" />
+        <mark key="[" line="8" column="13" />
+        <mark key="]" line="8" column="17" />
+        <mark key="." line="8" column="17" />
+        <mark key="^" line="8" column="17" />
       </file>
       <file name="$USER_HOME$/Dev/web-of-things/wot-authorization-server/dashboard/src/app/user/new-user/index.ts" timestamp="1493459769419">
         <mark key="[" line="0" column="0" />
@@ -3644,12 +3644,11 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/importer/migrations/20171123101346-create-equipment.js" timestamp="1511775054212">
+      <file name="$USER_HOME$/dev/part-edge/importer/migrations/20171123101346-create-equipment.js" timestamp="1511795750710">
         <mark key="'" line="96" column="6" />
-        <mark key="[" line="67" column="11" />
-        <mark key="]" line="68" column="30" />
-        <mark key="." line="68" column="30" />
-        <mark key="^" line="68" column="30" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="39" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/Java/search-engine/src/main/kotlin/com/inad/shared/SearchResult.kt" timestamp="1484644025719">
         <mark key="[" line="2" column="40" />
@@ -3996,7 +3995,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="0" filename="$USER_HOME$/dev/part-edge/importer/models/index.js" />
       <jump line="73" column="0" filename="$USER_HOME$/dev/part-edge/importer/models/equipment.js" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/part-edge/importer/seeders/20171122152817-equipments.js" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/part-edge/importer/seeders/20171122152817-equipments.js" />
@@ -4024,7 +4022,6 @@
       <jump line="3" column="3" filename="$USER_HOME$/dev/part-edge/importer/config/index.js" />
       <jump line="0" column="26" filename="$USER_HOME$/dev/part-edge/importer/config/index.js" />
       <jump line="9" column="0" filename="$USER_HOME$/dev/part-edge/importer/config/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/importer/models/equipment.js" />
       <jump line="87" column="0" filename="$USER_HOME$/dev/part-edge/importer/models/equipment.js" />
       <jump line="75" column="4" filename="$USER_HOME$/dev/part-edge/importer/models/equipment.js" />
       <jump line="14" column="21" filename="$USER_HOME$/dev/part-edge/importer/seeders/20171122152817-equipments.js" />
@@ -4096,6 +4093,8 @@
       <jump line="3" column="43" filename="$USER_HOME$/dev/part-edge/api/src/components/db/index.test.js" />
       <jump line="44" column="0" filename="$USER_HOME$/dev/part-edge/api/src/components/db/index.test.js" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/part-edge/api/src/components/db/index.test.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/importer/models/equipment.js" />
+      <jump line="98" column="4" filename="$USER_HOME$/dev/part-edge/importer/models/equipment.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4105,8 +4104,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>location</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkZWZhdWx0VmFsdWU6IFNlcXVlbGl6ZS5VVUlEVjQsCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -5630,7 +5629,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>location</text>
+        <text />
       </register>
       <register name="m" type="4">
         <keys>
@@ -5639,54 +5638,54 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>auto</text>
+        <text>Sequelize</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGxvZ2dlci5lcnJvcihgQ291bGQgbm90IGNvbm5lY3QgdG8gdGhlIGRhdGFiYXNlOiAke2Vycn1gKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICBkZWZhdWx0VmFsdWU6IFNlcXVlbGl6ZS5VVUlEVjQsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvKgo=</text>
+        <text encoding="base64">ICAgIGRlbGV0ZWRBdDogU2VxdWVsaXplLkRBVEVHCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICApOwo=</text>
+        <text encoding="base64">ICAgIHZhbGlkaXR5OiBTZXF1ZWxpemUuU1RSSU5HLAogICAgZGVsZXRlZEF0OiBTZXF1ZWxpemUuREFURUcK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">IHsKICAgICAgaG9va3M6IHsKICAgICAgICBiZWZvcmVDcmVhdGU6IChlcXVpcG1lbnQsIG9wdHMpID0+IHsKICAgICAgICAgIHJldHVybiBQcm9taXNlLnJlc29sdmUoKCkgPT4gewogICAgICAgICAgICBlcXVpcG1lbnQuaWQgPSBnZW5lcmF0ZUlEKGVxdWlwbWVudC5wbiwgZXF1aXBtZW50LnNuKTsKICAgICAgICAgIH0pOwogICAgICAgIH0sCiAgICAgIH0sCiAgICA=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICByZXR1cm4gUHJvbWlzZS5hbGwoCg==</text>
+        <text encoding="base64">ICAqLwo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">T2JqZWN0LmVudHJpZXModGFibGVzKQogICAgICAubWFwKGFzeW5jIChbbW9kZWxOYW1lLCBmaWVsZHNdKSA9PiB7CiAgICAgICAgZGIuZGVmaW5lKG1vZGVsTmFtZSwgZmllbGRzKTsKICAgICAgfSk=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAvKgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbW9kZWxOYW1lLgo=</text>
+        <text encoding="base64">ICApOwo=</text>
       </register>
       <register name="w" type="4">
         <text>wwb</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coa2V5LCB2YWwpOwo=</text>
+        <text encoding="base64">ICByZXR1cm4gUHJvbWlzZS5hbGwoCg==</text>
       </register>
       <register name=":" type="4">
-        <text>qall</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>auto</last-search>
+      <last-search>Sequelize</last-search>
       <last-offset />
-      <last-pattern>auto</last-pattern>
-      <last-replace>importer</last-replace>
-      <last-substitute>auto</last-substitute>
+      <last-pattern>Sequelize</last-pattern>
+      <last-replace>DataTypes</last-replace>
+      <last-substitute>Sequelize</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -5708,10 +5707,10 @@
         <entry>var</entry>
         <entry>DataTypes</entry>
         <entry>toString</entry>
-        <entry>Sequelize</entry>
         <entry>QueryInterface</entry>
         <entry>opn</entry>
         <entry>auto</entry>
+        <entry>Sequelize</entry>
       </history-search>
       <history-cmd>
         <entry>q!</entry>
@@ -5725,15 +5724,15 @@
         <entry>17fa</entry>
         <entry encoding="base64">JzwsJz5zL0RhdGFUeXBlcy9TZXF1ZWxpemUvZw==</entry>
         <entry>ew</entry>
-        <entry encoding="base64">JzwsJz5zL1NlcXVlbGl6ZS9EYXRhVHlwZXMvZw==</entry>
         <entry>w]</entry>
         <entry>q</entry>
         <entry>13</entry>
         <entry>16</entry>
         <entry encoding="base64">JzwsJz5zL2F1dG8vaW1wb3J0ZXIvZw==</entry>
+        <entry>qall</entry>
+        <entry encoding="base64">JzwsJz5zL1NlcXVlbGl6ZS9EYXRhVHlwZXMvZw==</entry>
         <entry>wq</entry>
         <entry>w</entry>
-        <entry>qall</entry>
       </history-cmd>
       <history-expr />
       <history-input />
