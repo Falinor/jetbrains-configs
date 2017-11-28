@@ -896,12 +896,12 @@
         <mark key="." line="7" column="3" />
         <mark key="^" line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/src/routes/equipments/repository.js" timestamp="1511876195241">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="13" column="8" />
-        <mark key="]" line="13" column="5" />
-        <mark key="." line="13" column="5" />
-        <mark key="^" line="13" column="5" />
+      <file name="$USER_HOME$/dev/part-edge/api/src/routes/equipments/repository.js" timestamp="1511885561217">
+        <mark key="'" line="26" column="6" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="44" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="35" column="25" />
       </file>
       <file name="$USER_HOME$/Dev/PFEE/batch/src/main/java/com/watsize/api/batch/colors/entities/ColorSample.java" timestamp="1475054619343">
         <mark key="[" line="11" column="4" />
@@ -1054,12 +1054,10 @@
         <mark key="^" line="13" column="17" />
         <mark key="." line="13" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/src/routes/equipments/index.js" timestamp="1511875801673">
-        <mark key="'" line="26" column="27" />
-        <mark key="[" line="36" column="63" />
-        <mark key="]" line="36" column="49" />
-        <mark key="." line="36" column="49" />
-        <mark key="^" line="12" column="15" />
+      <file name="$USER_HOME$/dev/part-edge/api/src/routes/equipments/index.js" timestamp="1511885536421">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/MusicUs/src/client/src/app/shared/index.ts" timestamp="1464738038717">
         <mark key="[" line="0" column="0" />
@@ -4009,8 +4007,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/dev/part-edge/importer/config/index.js" />
-      <jump line="3" column="3" filename="$USER_HOME$/dev/part-edge/importer/config/index.js" />
       <jump line="0" column="26" filename="$USER_HOME$/dev/part-edge/importer/config/index.js" />
       <jump line="9" column="0" filename="$USER_HOME$/dev/part-edge/importer/config/index.js" />
       <jump line="87" column="0" filename="$USER_HOME$/dev/part-edge/importer/models/equipment.js" />
@@ -4109,6 +4105,8 @@
       <jump line="24" column="27" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/index.js" />
       <jump line="55" column="0" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/repository.js" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/repository.js" />
+      <jump line="32" column="7" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/repository.js" />
+      <jump line="26" column="6" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/repository.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4118,8 +4116,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgU2VxdWVsaXplLmNvbCgnZnJvbUFyZWEnKSwK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -5643,7 +5641,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>.</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -5655,40 +5653,40 @@
         <text>DataTypes</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBlcXVpcG1lbnRzTW9kZWwuYmVsb25nc1RvKGxvY2F0aW9uc01vZGVsLCB7IGNvbnN0cmFpbnRzOiBmYWxzZSwgZm9yZWlnbktleTogJ2RpdmlzaW9uJywgfSk7Cg==</text>
+        <text encoding="base64">ICAgIGFzOiAnZGl2aXNpb24nLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdCBtb2RlbCA9IHNpbm9uLnN0dWIoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgU2VxdWVsaXplLmNvbCgnZnJvbUFyZWEnKSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBmaW5kQWxsV2l0aERlbGF5c0FuZE9yZGVyczogZmluZEFsbFdpdGhEZWxheXNBbmRPcmRlcnMoZXF1aXBtZW50c01vZGVsLCBkZWxheXNNb2RlbCwgbG9jYXRpb25zTW9kZWwpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgU2VxdWVsaXplLmNvbCgnTG9jYXRpb24uYXJlYScpLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dWlwbWVudHNNb2RlbC5maW5kQWxsKG9wdHMpOwo=</text>
+        <text encoding="base64">ICAgIGFzOiAnRGVsYXknLAo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CmV4cG9ydCBjb25zdCBmaW5kQWxsID0gZXF1aXBtZW50c01vZGVsID0+CiAgYXN5bmMgb3B0cyA9PiBlcQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBhczogJ0RlbGF5JywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGFsbDogdHJ1ZSwK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CmV4cG9ydCBjb25zdCBmaW5kRXF1aXBtZW50c1dpdGhEZWxheXNBbmRPcmRlcnMgPSBlcXVpcG1lbnRzUmVwb3NpdG9yeSA9PgogIChyZXEsIHJlcywgbmV4dCkgPT4KICAgIGVxdWlwbWVudHNSZXBvc2l0b3J5LmZpbmRBbGxXaXRoRGVsYXlzQW5kT3JkZXJzKA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIHJlcXVpcmVkOiBmYWxzZSwK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgIHdoZXJlOiB7CiAgICAgICAgcGFydE51bWJlcjogewogICAgICAgICAgW09wLmxpa2VdOiAnMjA2NjIlJywKICAgICAgICB9LAogICAgICB9LA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBhbGw6IHRydWUsCg==</text>
       </register>
       <register name="w" type="4">
         <text>wwb</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWxheXNNb2RlbC5oYXNNYW55KGxvY2F0aW9uc01vZGVsLCB7IGNvbnN0cmFpbnRzOiBmYWxzZSwgZm9yZWlnbktleTogJ2FyZWEnLCB0YXJnZXRLZXk6ICdmcm9tQXJlYScgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICByZXF1aXJlZDogZmFsc2UsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWxheXNNb2RlbC5oYXNNYW55KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBhczogJ0RlbGF5JywK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
