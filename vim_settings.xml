@@ -896,11 +896,12 @@
         <mark key="." line="7" column="3" />
         <mark key="^" line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/src/routes/equipments/repository.js" timestamp="1511861591120">
-        <mark key="[" line="6" column="2" />
-        <mark key="]" line="6" column="3" />
-        <mark key="." line="6" column="3" />
-        <mark key="^" line="6" column="3" />
+      <file name="$USER_HOME$/dev/part-edge/api/src/routes/equipments/repository.js" timestamp="1511863998881">
+        <mark key="'" line="16" column="1" />
+        <mark key="[" line="54" column="7" />
+        <mark key="]" line="54" column="7" />
+        <mark key="." line="54" column="7" />
+        <mark key="^" line="52" column="60" />
       </file>
       <file name="$USER_HOME$/Dev/PFEE/batch/src/main/java/com/watsize/api/batch/colors/entities/ColorSample.java" timestamp="1475054619343">
         <mark key="[" line="11" column="4" />
@@ -1053,12 +1054,12 @@
         <mark key="^" line="13" column="17" />
         <mark key="." line="13" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/src/routes/equipments/index.js" timestamp="1511781109907">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="16" column="28" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/dev/part-edge/api/src/routes/equipments/index.js" timestamp="1511863872038">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="16" column="47" />
+        <mark key="]" line="13" column="49" />
+        <mark key="^" line="13" column="49" />
+        <mark key="." line="13" column="49" />
       </file>
       <file name="$USER_HOME$/Dev/MusicUs/src/client/src/app/shared/index.ts" timestamp="1464738038717">
         <mark key="[" line="0" column="0" />
@@ -1544,11 +1545,11 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/src/routes/equipments/controller.js" timestamp="1511802003170">
-        <mark key="[" line="3" column="67" />
-        <mark key="]" line="3" column="66" />
-        <mark key="." line="3" column="66" />
-        <mark key="^" line="3" column="66" />
+      <file name="$USER_HOME$/dev/part-edge/api/src/routes/equipments/controller.js" timestamp="1511863982283">
+        <mark key="[" line="2" column="32" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="20" />
+        <mark key="^" line="0" column="20" />
       </file>
       <file name="$USER_HOME$/Dev/web-of-things/iot-poc/api/.babelrc" timestamp="1495809684650">
         <mark key="[" line="1" column="14" />
@@ -4010,8 +4011,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="0" filename="$USER_HOME$/dev/part-edge/importer/config/index.js" />
-      <jump line="16" column="0" filename="$USER_HOME$/dev/part-edge/importer/config/index.js" />
       <jump line="2" column="4" filename="$USER_HOME$/dev/part-edge/importer/models/equipment.js" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/part-edge/importer/models/equipment.js" />
       <jump line="13" column="1" filename="$USER_HOME$/dev/part-edge/importer/config/db.js" />
@@ -4110,6 +4109,8 @@
       <jump line="21" column="5" filename="$USER_HOME$/dev/part-edge/importer/migrations/20171127173543-create-delay.js" />
       <jump line="12" column="21" filename="$USER_HOME$/dev/part-edge/api/test/api/equipments.test.js" />
       <jump line="19" column="53" filename="$USER_HOME$/dev/part-edge/api/test/api/equipments.test.js" />
+      <jump line="18" column="28" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/repository.js" />
+      <jump line="16" column="1" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/repository.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4119,8 +4120,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmhhc01hbnkobW9kZWxzLkxvY2F0aW9ucyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>A</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -5644,7 +5645,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Sequelize</text>
+        <text>A</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -5659,40 +5660,40 @@
         <text encoding="base64">ICAgIGxvZ2dlci5lcnJvcihgQ291bGQgbm90IGNvbm5lY3QgdG8gdGhlIGRhdGFiYXNlOiAke2Vycn1gKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmhhc01hbnkobW9kZWxzLkxvY2F0aW9ucyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgbQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBtb2RlbDogZGVsYXlzTW9kZWwsCiAgICAgICAgd2hlcmU6IHsgZnJvbUFyZWE6IH0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ki8K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICovCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmhhc01hbnkobW9kZWxzLkxvY2F0aW9ucyk7Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLmhhc01hbnkobW9kZWxzLkRlbGF5cyk7Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="w" type="4">
+        <text>wwb</text>
+      </register>
+      <register name="8" type="4">
         <text>,
       fromArea: DataTypes.STRING,
       toArea: DataTypes.STRING,
       delay: DataTypes.INTEGER</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICByZXR1cm4gRGVsYXk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICByZXR1cm4gVkJGOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICByZXR1cm4gTG9jYXRpb247Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbHMuCg==</text>
-      </register>
-      <register name="w" type="4">
-        <text>wwb</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhkYi5kZWZpbmUuYXJncyk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB0LnRydWUoZGIuZGVmaW5lLmNhbGxlZE9uY2UpOwo=</text>
+        <text encoding="base64">ICByZXR1cm4gRGVsYXk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
