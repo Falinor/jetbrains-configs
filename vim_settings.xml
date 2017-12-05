@@ -1332,6 +1332,12 @@
         <mark key="^" line="3" column="22" />
         <mark key="." line="3" column="22" />
       </file>
+      <file name="$USER_HOME$/dev/part-edge/client/src/components/EqStock.vue" timestamp="1512486484737">
+        <mark key="[" line="21" column="90" />
+        <mark key="]" line="21" column="103" />
+        <mark key="." line="21" column="103" />
+        <mark key="^" line="21" column="103" />
+      </file>
       <file name="$USER_HOME$/Dev/MusicUs/src/client/src/app/shared/footer/footer.component.html" timestamp="1464365847816">
         <mark key="[" line="10" column="48" />
         <mark key="]" line="10" column="58" />
@@ -2413,6 +2419,12 @@
         <mark key="]" line="2" column="15" />
         <mark key="^" line="2" column="15" />
         <mark key="." line="2" column="15" />
+      </file>
+      <file name="$USER_HOME$/dev/part-edge/client/.gitignore" timestamp="1512486424646">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/dj-socket/back/Dockerfile" timestamp="1487686858929">
         <mark key="[" line="10" column="0" />
@@ -4199,7 +4211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="23" filename="$USER_HOME$/dev/part-edge/importer/seeds/equipments.js" />
       <jump line="0" column="32" filename="$USER_HOME$/dev/part-edge/importer/seeds/equipments.js" />
       <jump line="121" column="26" filename="$USER_HOME$/dev/part-edge/importer/node_modules/knex/src/query/builder.js" />
       <jump line="152" column="12" filename="$USER_HOME$/dev/part-edge/importer/node_modules/knex/src/query/builder.js" />
@@ -4299,6 +4310,7 @@
       <jump line="3" column="30" filename="$USER_HOME$/dev/part-edge/api/src/middlewares/query.test.js" />
       <jump line="32" column="2" filename="$USER_HOME$/dev/part-edge/api/src/middlewares/query.js" />
       <jump line="18" column="3" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/client/.gitignore" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4309,7 +4321,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>created</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -5833,7 +5845,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>created</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -5848,40 +5860,40 @@
         <text encoding="base64">ICAgIC0gJHJlZjogJyMvcGFyYW1ldGVycy9saW1pdCcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXEucXVlcnkuZmllbGRzKTsK</text>
+        <text encoding="base64">Pj4+Pj4+PiBjaG9yZShnaXQpOiBhZGQgLmlkZWEgdG8gLmdpdGlnbm9yZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXEucXVlcnkuZmllbGRzKTsK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXEucXVlcnkuZmllbGRzKTsK</text>
+        <text encoding="base64">dGVzdC91bml0L2NvdmVyYWdlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB0LnRydWUoKQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC5xdWVyeSh7IGZpZWxkczogJ2lkLHBhcnROdW1iZXIsc2VyaWFsTnVtYmVyJyB9KQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXEucXVlcnkuZmllbGRzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCBvcHRpb25zID0gCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXEucXVlcnkuZmllbGRzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXMuZXJyb3IpOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXEucXVlcnkuZmllbGRzKTsK</text>
       </register>
       <register name="w" type="4">
         <text>wwb</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0LnRydWUoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIC5xdWVyeSh7IGZpZWxkczogJ2lkLHBhcnROdW1iZXIsc2VyaWFsTnVtYmVyJyB9KQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -5933,10 +5945,10 @@
         <entry>qall</entry>
         <entry encoding="base64">JzwsJz5zL2wvTG9jYXRpb24vZw==</entry>
         <entry encoding="base64">JzwsJz5zL2wuL0xvY2F0aW9ucy4vZw==</entry>
-        <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL2xpbWl0L29mZnNldC9n</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
