@@ -177,6 +177,12 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="18" />
       </file>
+      <file name="$USER_HOME$/dev/part-edge/client/src/components/AuthCallback.vue" timestamp="1512571763340">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="22" />
+        <mark key="^" line="2" column="22" />
+        <mark key="." line="2" column="22" />
+      </file>
       <file name="$USER_HOME$/Dev/Java/exam/src/main/kotlin/com/inad/units/commands/Command.kt" timestamp="1484837407142">
         <mark key="[" line="8" column="22" />
         <mark key="]" line="8" column="21" />
@@ -857,6 +863,9 @@
         <mark key="^" line="23" column="14" />
         <mark key="." line="23" column="14" />
       </file>
+      <file name="/Dummy.txt" timestamp="1512573267336">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/swagger/hello-world/public/swagger.yaml" timestamp="1509370682377">
         <mark key="[" line="8" column="8" />
         <mark key="]" line="8" column="7" />
@@ -1258,6 +1267,13 @@
         <mark key="]" line="0" column="17" />
         <mark key="." line="0" column="17" />
         <mark key="^" line="0" column="17" />
+      </file>
+      <file name="$USER_HOME$/dev/part-edge/client/src/components/Auth.vue" timestamp="1512573478561">
+        <mark key="'" line="7" column="25" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="191" />
+        <mark key="^" line="25" column="5" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/MusicUs/src/client/src/app/+login/login/login.component.ts" timestamp="1464169960355">
         <mark key="[" line="12" column="10" />
@@ -2154,11 +2170,11 @@
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/router.js" timestamp="1512570611260">
-        <mark key="[" line="41" column="5" />
-        <mark key="]" line="41" column="5" />
-        <mark key="." line="41" column="5" />
-        <mark key="^" line="41" column="5" />
+      <file name="$USER_HOME$/dev/part-edge/client/src/router.js" timestamp="1512571674322">
+        <mark key="[" line="40" column="29" />
+        <mark key="]" line="41" column="37" />
+        <mark key="." line="41" column="37" />
+        <mark key="^" line="41" column="37" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/docs/definitions/document.yaml" timestamp="1509639214192">
         <mark key="[" line="0" column="12" />
@@ -4221,10 +4237,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="0" filename="$USER_HOME$/dev/part-edge/importer/migrations/20171130163931_create-equipments.js" />
-      <jump line="1" column="1" filename="$USER_HOME$/dev/part-edge/importer/src/equipments.js" />
-      <jump line="8" column="5" filename="$USER_HOME$/dev/part-edge/importer/src/equipments.js" />
-      <jump line="4" column="6" filename="$USER_HOME$/dev/part-edge/importer/src/equipments.js" />
       <jump line="11" column="1" filename="$USER_HOME$/dev/part-edge/importer/src/equipments.js" />
       <jump line="6" column="18" filename="$USER_HOME$/dev/part-edge/importer/src/equipments.js" />
       <jump line="5" column="0" filename="$USER_HOME$/dev/part-edge/importer/src/equipments.js" />
@@ -4321,6 +4333,10 @@
       <jump line="6" column="37" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/repository.test.js" />
       <jump line="35" column="2" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/repository.js" />
       <jump line="9" column="0" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/repository.js" />
+      <jump line="22" column="6" filename="$USER_HOME$/dev/part-edge/client/src/components/Auth.vue" />
+      <jump line="13" column="31" filename="$USER_HOME$/dev/part-edge/client/src/components/Auth.vue" />
+      <jump line="24" column="32" filename="$USER_HOME$/dev/part-edge/client/src/components/Auth.vue" />
+      <jump line="7" column="25" filename="$USER_HOME$/dev/part-edge/client/src/components/Auth.vue" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4331,7 +4347,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29tcG9uZW50OiBsb2FkKCkK</text>
+        <text encoding="base64">Y29uc3QgZW5kcG9pbnQgPSBgJHttaWNyb3NvZnR9P2NsaWVudF9pZD0ke2NsaWVudElkfSZyZXNwb25zZV90eXBlPSR7cmVzcG9uc2VUeXBlfSZyZWRpcmVjdF91cmk9JHtyZWRpcmVjdFVSSX0mcmVzcG9uc2VfbW9kZT0ke3Jlc3BvbnNlTW9kZX0mc2NvcGU9JHtzY29wZX0mc3RhdGU9JHtzdGF0ZX0mbm9uY2U9JHtub25jZX1gOwo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -5855,7 +5871,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>LogIn</text>
+        <text>routerLink</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -5866,41 +5882,41 @@
       <register name="/" type="4">
         <text>ordersModel</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICB0LmlzKHR5cGVvZiByZXBvLmNyZWF0ZU9yZGVyLCAnZnVuY3Rpb24nKTsK</text>
+      <register name="0" type="4">
+        <text>7362CAEA-9CA5-4B43-9BA3-34D7C303EBA7)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29tcG9uZW50OiBsb2FkKCkK</text>
+        <text encoding="base64">Y29uc3QgZW5kcG9pbnQgPSBgJHttaWNyb3NvZnR9P2NsaWVudF9pZD0ke2NsaWVudElkfSZyZXNwb25zZV90eXBlPSR7cmVzcG9uc2VUeXBlfSZyZWRpcmVjdF91cmk9JHtyZWRpcmVjdFVSSX0mcmVzcG9uc2VfbW9kZT0ke3Jlc3BvbnNlTW9kZX0mc2NvcGU9JHtzY29wZX0mc3RhdGU9JHtzdGF0ZX0mbm9uY2U9JHtub25jZX1gOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UXVhc2FyLlEK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVuZHBvaW50LAo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICBjb21wb25lbnRzOiB7fSwKICBkYXRhKCkgewogICAgCiAgfSw=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIH0sCiAgfSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c3R5bGU+Cg==</text>
+        <text encoding="base64">ICBtZWt0aG9kczogewogICAgICB0aGlzLiRyb3V0ZXIucHVzaChlbmRwb2ludCk7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CjxzdHlsZT4KICAKPC8=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgY29uc3QgZW5kcG9pbnQgPSBgJHttaWNyb3NvZnR9P2NsaWVudF9pZD0ke2NsaWVudElkfSZyZXNwb25zZV90eXBlPSR7cmVzcG9uc2VUeXBlfSZyZWRpcmVjdF91cmk9JHtyZWRpcmVjdFVSSX0mcmVzcG9uc2VfbW9kZT0ke3Jlc3BvbnNlTW9kZX0mc2NvcGU9JHtzY29wZX0mc3RhdGU9JHtzdGF0ZX0mbm9uY2U9JHtub25jZX1gOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmVkaXJlY3Q6IHsgcGF0aDogJyd9Cg==</text>
+        <text encoding="base64">ICAgIGFzeW5jIHJlZGlyZWN0VG9NaWNyb3NvZnQoKSB7Cg==</text>
       </register>
       <register name="w" type="4">
         <text>wwb</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgJ0wubWFnJzogJ0VxdWlwbWVudHMubWFnJywKICAgICAgJ0wubG90U3RvY2snOiAnRXF1aXBtZW50cy5sb3RTdG9jaycsCg==</text>
+        <text encoding="base64">ICA8L3EtYnRuPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgJ0wubG90U3RvY2snOiAnRXF1aXBtZW50cy5sb3RTdG9jaycsCg==</text>
+        <text encoding="base64">ICA8cS1idG4gY29sb3I9ImJnLXByaW1hcnkiIEBjbGljaz0icmVkaXJlY3RUb01pY3Jvc29mdCI+CiAgICBMb2cgaW4gd2l0aCBNaWNyb3NvZnQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -5939,7 +5955,6 @@
         <entry>ordersModel</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2F1dG8vaW1wb3J0ZXIvZw==</entry>
         <entry encoding="base64">JzwsJz5zL1NlcXVlbGl6ZS9EYXRhVHlwZXMvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2ZhdGFsL2Vycm9yL2c=</entry>
         <entry encoding="base64">JzwsJz5zL0RhdGFUeXBlcy9TZXF1ZWxpemUvZw==</entry>
@@ -5956,8 +5971,9 @@
         <entry encoding="base64">JzwsJz5zL2xpbWl0L29mZnNldC9n</entry>
         <entry encoding="base64">JzwsJz5zL2VxdWlwbWVudHNNb2RlbC9kYi9n</entry>
         <entry encoding="base64">JzwsJz5zL29yZGVyc01vZGVsL2RiL2c=</entry>
-        <entry>wq</entry>
         <entry>q</entry>
+        <entry>wq</entry>
+        <entry>&quot;&quot;</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
