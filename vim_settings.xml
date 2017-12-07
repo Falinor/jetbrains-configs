@@ -1325,6 +1325,13 @@
         <mark key="^" line="8" column="24" />
         <mark key="." line="8" column="13" />
       </file>
+      <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/Error404.spec.js" timestamp="1512639939006">
+        <mark key="'" line="6" column="16" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="1" column="16" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Dev/PFEE/batch/src/main/java/com/watsize/api/batch/colors/controllers/ColorSamplerController.java" timestamp="1475054243387">
         <mark key="[" line="19" column="31" />
         <mark key="]" line="19" column="35" />
@@ -4257,7 +4264,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="2" filename="$USER_HOME$/dev/part-edge/importer/services/service.js" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/importer/services/service.js" />
       <jump line="6" column="35" filename="$USER_HOME$/dev/part-edge/importer/services/equipments.js" />
       <jump line="2" column="12" filename="$USER_HOME$/dev/part-edge/importer/services/equipments.js" />
@@ -4357,6 +4363,7 @@
       <jump line="199" column="4" filename="$USER_HOME$/dev/part-edge/client/src/components/Order.vue" />
       <jump line="151" column="2" filename="$USER_HOME$/dev/part-edge/client/src/components/Order.vue" />
       <jump line="10" column="27" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/Order.spec.js" />
+      <jump line="6" column="16" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/Error404.spec.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4366,8 +4373,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>beTrue</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IFZ1ZSBmcm9tICd2dWUnOwo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -5891,7 +5898,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>beTrue</text>
+        <text encoding="base64">bW91bnQg</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -5906,37 +5913,38 @@
         <text>7362CAEA-9CA5-4B43-9BA3-34D7C303EBA7)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Owo=</text>
+        <text encoding="base64">aW1wb3J0IFZ1ZSBmcm9tICd2dWUnOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCByb3V0ZSA9IHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCByb3V0ZTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBjb21wb25lbnQgPQo=</text>
+      <register name="4" type="4">
+        <text>const Constructor = Vue.extend(Error404);
+  const vm = new Constructor().$mount();</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICBhdXRoKFsncmVhZDplcXVpcG1lbnRzJ10p</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBtb3VudCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYCR7bWljcm9zb2Z0fT9jbGllbnRfaWQ9JHtjbGllbnRJZH0mcmVzcG9uc2VfdHlwZT0ke3Jlc3BvbnNlVHlwZX0mcmVkaXJlY3RfdXJpPSR7cmVkaXJlY3RVUkl9JnJlc3BvbnNlX21vZGU9JHtyZXNwb25zZU1vZGV9JnNjb3BlPSR7c2NvcGV9JnN0YXRlPSR7c3RhdGV9Jm5vbmNlPSR7bm9uY2V9YDsK</text>
+        <text encoding="base64">ICB9Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZW5kcG9pbnQK</text>
+        <text encoding="base64">ICBjb25zdCByb3V0ZSA9IHsK</text>
       </register>
       <register name="w" type="4">
         <text>wwb</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLnRoZQo=</text>
+        <text encoding="base64">ICBjb25zdCByb3V0ZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBjb21wb25lbnQgPQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
