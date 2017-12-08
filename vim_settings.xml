@@ -4148,12 +4148,12 @@
         <mark key="." line="22" column="18" />
         <mark key="^" line="22" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/Order.spec.js" timestamp="1512668351689">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-        <mark key="^" line="45" column="28" />
+      <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/Order.spec.js" timestamp="1512727148104">
+        <mark key="'" line="8" column="32" />
+        <mark key="[" line="23" column="36" />
+        <mark key="]" line="23" column="36" />
+        <mark key="." line="23" column="36" />
+        <mark key="^" line="23" column="36" />
       </file>
       <file name="$USER_HOME$/Dev/status-checker/front/src/scss/_mixins.scss" timestamp="1487015225479">
         <mark key="[" line="0" column="21" />
@@ -4337,8 +4337,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="32" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/repository.test.js" />
-      <jump line="11" column="3" filename="$USER_HOME$/dev/part-edge/api/test/api/equipments.test.js" />
       <jump line="12" column="3" filename="$USER_HOME$/dev/part-edge/api/test/api/equipments.test.js" />
       <jump line="35" column="13" filename="$USER_HOME$/dev/part-edge/api/test/api/equipments.test.js" />
       <jump line="2" column="1" filename="$USER_HOME$/dev/part-edge/api/src/middlewares/pagination.test.js" />
@@ -4437,6 +4435,8 @@
       <jump line="18" column="0" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/router.spec.js" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/router.spec.js" />
       <jump line="14" column="0" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/router.spec.js" />
+      <jump line="31" column="20" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/Order.spec.js" />
+      <jump line="8" column="32" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/Order.spec.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4446,8 +4446,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IFZ1ZVJvdXRlciBmcm9tICd2dWUtcm91dGVyJzsK</text>
+      <register name="&quot;" type="4">
+        <text>sendOrder</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -5971,7 +5971,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>sendOrder</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -5986,7 +5986,7 @@
         <text encoding="base64">ICAgIHdyYXBwZXIudm0uZ29CYWNrKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IFZ1ZVJvdXRlciBmcm9tICd2dWUtcm91dGVyJzsK</text>
+        <text encoding="base64">ICAgICAgc2lub24uc3R1Yih3cmFwcGVyLnZtLCAnc2VuZE9yZGVyJyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -5995,28 +5995,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsZXQgd3JhcHBlcjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">RlVDSyBJSUlJSUlUICEhISEK</text>
+        <text encoding="base64">ICBsZXQgd3JhcHBlcjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IFZ1ZSBmcm9tICd2dWUnOwo=</text>
+        <text encoding="base64">ICAgIGl0KCdmZXRjaE9yZGVyRGF0YSAtIHNob3VsZCAnKQo=</text>
       </register>
       <register name="w" type="4">
         <text>wwb</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IFZ1ZVJvdXRlciBmcm9tICd2dWUtcm91dGVyJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">VnVlLnVzZShWdWVSb3V0ZXIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
