@@ -2030,12 +2030,12 @@
         <mark key="." line="12" column="7" />
         <mark key="^" line="12" column="7" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/store/modules/equipments.spec.js" timestamp="1512753521744">
-        <mark key="'" line="25" column="34" />
-        <mark key="[" line="24" column="15" />
-        <mark key="]" line="24" column="15" />
-        <mark key="^" line="6" column="7" />
-        <mark key="." line="24" column="15" />
+      <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/store/modules/equipments.spec.js" timestamp="1512754677561">
+        <mark key="'" line="29" column="34" />
+        <mark key="[" line="24" column="35" />
+        <mark key="]" line="24" column="24" />
+        <mark key="." line="24" column="24" />
+        <mark key="^" line="24" column="24" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/importer/services/equipments.js" timestamp="1512143580410">
         <mark key="'" line="2" column="12" />
@@ -3566,11 +3566,6 @@
         <mark key="." line="10" column="29" />
         <mark key="^" line="10" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/docs/paths/equipments.yaml" timestamp="1512411009821">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="32" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/Dev/MusicUs/src/client/src/app/shared/select/select/select.component.ts" timestamp="1464712581754">
         <mark key="[" line="3" column="21" />
         <mark key="]" line="3" column="21" />
@@ -3802,10 +3797,11 @@
         <mark key="." line="3" column="18" />
         <mark key="^" line="38" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/store/modules/equipments.js" timestamp="1512752190098">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/dev/part-edge/client/src/store/modules/equipments.js" timestamp="1512754688783">
+        <mark key="[" line="16" column="3" />
+        <mark key="]" line="16" column="3" />
+        <mark key="." line="16" column="3" />
+        <mark key="^" line="16" column="3" />
       </file>
       <file name="$USER_HOME$/Dev/wot-model/tsconfig.json" timestamp="1488992462828">
         <mark key="[" line="10" column="15" />
@@ -4537,7 +4533,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text>searchEquipmentsByPN</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -6061,7 +6057,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>searchEquipmentsByPN</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -6076,37 +6072,37 @@
         <text encoding="base64">ICAgIGV4cGVjdChzZXJ2aWNlLmZpbmQpLnRvLmJlLmEoJ2Z1bmN0aW9uJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KHN0b3JlLmFjdGlvbnMpLnQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">wqcK</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBbdHlwZXMuXQo=</text>
+        <text encoding="base64">wqcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgc3RhdGUgPSB7fTsK</text>
+        <text encoding="base64">ICBbdHlwZXMuXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgY29uc3Qgc3RhdGUgPSB7fTsK</text>
       </register>
       <register name="w" type="4">
         <text>wwb</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBtdXRhdGlvbnMsCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhY3Rpb25zLAo=</text>
+        <text encoding="base64">ICBtdXRhdGlvbnMsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
