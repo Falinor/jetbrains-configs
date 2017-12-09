@@ -2086,12 +2086,13 @@
         <mark key="^" line="7" column="19" />
         <mark key="." line="7" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/UserForm.spec.js" timestamp="1512778740538">
-        <mark key="'" line="11" column="19" />
-        <mark key="[" line="46" column="48" />
-        <mark key="]" line="46" column="46" />
-        <mark key="^" line="46" column="46" />
-        <mark key="." line="46" column="46" />
+      <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/UserForm.spec.js" timestamp="1512843558085">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="30" column="6" />
+        <mark key="k" line="35" column="4" />
+        <mark key="]" line="30" column="10" />
+        <mark key="^" line="30" column="10" />
+        <mark key="." line="30" column="10" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/importer/config/.env" timestamp="1511362634504">
         <mark key="[" line="3" column="7" />
@@ -4372,12 +4373,12 @@
         <mark key="." line="12" column="50" />
         <mark key="^" line="12" column="50" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/components/UserForm.vue" timestamp="1512777502125">
+      <file name="$USER_HOME$/dev/part-edge/client/src/components/UserForm.vue" timestamp="1512809674263">
         <mark key="'" line="60" column="31" />
-        <mark key="[" line="101" column="30" />
-        <mark key="]" line="101" column="28" />
-        <mark key="." line="101" column="28" />
-        <mark key="^" line="101" column="28" />
+        <mark key="[" line="91" column="52" />
+        <mark key="]" line="91" column="52" />
+        <mark key="." line="91" column="52" />
+        <mark key="^" line="91" column="69" />
       </file>
       <file name="$USER_HOME$/Dev/C#/projet-c-front-end/tools/config/seed.config.ts" timestamp="1466174444178">
         <mark key="[" line="248" column="32" />
@@ -4435,16 +4436,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="2" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/repository.js" />
-      <jump line="9" column="0" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/repository.js" />
-      <jump line="22" column="6" filename="$USER_HOME$/dev/part-edge/client/src/components/Auth.vue" />
-      <jump line="13" column="31" filename="$USER_HOME$/dev/part-edge/client/src/components/Auth.vue" />
-      <jump line="24" column="32" filename="$USER_HOME$/dev/part-edge/client/src/components/Auth.vue" />
-      <jump line="7" column="25" filename="$USER_HOME$/dev/part-edge/client/src/components/Auth.vue" />
-      <jump line="11" column="1" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/repository.js" />
-      <jump line="64" column="4" filename="$USER_HOME$/dev/part-edge/client/src/router/main.js" />
-      <jump line="45" column="3" filename="$USER_HOME$/dev/part-edge/client/src/router/main.js" />
-      <jump line="40" column="3" filename="$USER_HOME$/dev/part-edge/client/src/router/main.js" />
       <jump line="37" column="63" filename="$USER_HOME$/dev/part-edge/client/src/router/main.js" />
       <jump line="5" column="0" filename="$USER_HOME$/dev/part-edge/client/src/components/Auth.vue" />
       <jump line="33" column="0" filename="$USER_HOME$/dev/part-edge/client/src/components/Auth.vue" />
@@ -4533,8 +4524,18 @@
       <jump line="25" column="27" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/Error404.spec.js" />
       <jump line="29" column="5" filename="$USER_HOME$/dev/part-edge/client/src/components/SearchPn.vue" />
       <jump line="104" column="0" filename="$USER_HOME$/dev/part-edge/client/src/components/SearchPn.vue" />
-      <jump line="11" column="19" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/UserForm.spec.js" />
       <jump line="60" column="31" filename="$USER_HOME$/dev/part-edge/client/src/components/UserForm.vue" />
+      <jump line="44" column="32" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/UserForm.spec.js" />
+      <jump line="31" column="4" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/UserForm.spec.js" />
+      <jump line="15" column="4" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/UserForm.spec.js" />
+      <jump line="39" column="6" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/UserForm.spec.js" />
+      <jump line="11" column="8" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/UserForm.spec.js" />
+      <jump line="28" column="9" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/UserForm.spec.js" />
+      <jump line="9" column="16" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/UserForm.spec.js" />
+      <jump line="27" column="5" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/UserForm.spec.js" />
+      <jump line="10" column="11" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/UserForm.spec.js" />
+      <jump line="86" column="0" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/UserForm.spec.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/UserForm.spec.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4545,7 +4546,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>only</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -6069,7 +6070,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>only</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -6084,37 +6085,56 @@
         <text encoding="base64">ICAgIGV4cGVjdChzZXJ2aWNlLmZpbmQpLnRvLmJlLmEoJ2Z1bmN0aW9uJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAuY2FsbGVkV2l0aCgnYnV0dG9uSGFzQmVlbkNsaWNrZWQnKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAuaGF2ZQogICAgICAgIC5iZWVuCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgJHN0b3JlOiB7CiAgICAgICAgICAgIHN0YXRlOiB7CiAgICAgICAgICAgICAgb3JkZXI6IHsKICAgICAgICAgICAgICAgIGRldGFpbHM6IHsKICAgICAgICAgICAgICAgICAgYWRkcmVzczogJ0Zha2UgYWRkcmVzcycsCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgbmV3RXE6IHsKICAgICAgICAgICAgICAgICAgcGFydE51bWJlcjogJzEyMzQnLAogICAgICAgICAgICAgICAgICBzZXJpYWxOdW1iZXI6ICc1Njc4JywKICAgICAgICAgICAgICAgICAgYW1lbmRtZW50OiAnZm9vJywKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICBvbGRFcTogewogICAgICAgICAgICAgICAgICBwYXJ0TnVtYmVyOiAnNDMyMScsCiAgICAgICAgICAgICAgICAgIHNlcmlhbE51bWJlcjogJzg3NjUnLAogICAgICAgICAgICAgICAgICBhbWVuZG1lbnQ6ICdiYXInLAogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICB9LAogICAgICAgICAgICB9LAogICAgICAgICAgfSw=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgeyB2bSB9ID0gd3JhcHBlcjsK</text>
+        <text encoding="base64">ICAgICAgfSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgIC8vIFRoZW4K</text>
+        <text encoding="base64">ICAgICAgbW9ja3M6IAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdm0ub25CdXR0b25DbGljaygpOwo=</text>
+      <register name="5" type="4">
+        <text>{
+        $store</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8gV2hlbgo=</text>
+        <text encoding="base64">ICB9KTsKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBiZWZvcmVFYWNoKCgpID0+IHsKCg==</text>
       </register>
       <register name="w" type="4">
         <text>wwb</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gR2l2ZW4KICAgICAgc2lub24uc3B5KHZtLCAnJGVtaXQnKTsK</text>
+        <text encoding="base64">ICBsZXQgd3JhcHBlcjsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgd3JhcHBlci50cmlnZ2VyKCkK</text>
+      <register name="9" type="4">
+        <text>$store: {
+          state: {
+            order: {
+              details: {
+                address: 'Fake address',
+              },
+              newEq: {
+                partNumber: '1234',
+                serialNumber: '5678',
+                amendment: 'foo',
+              },
+              oldEq: {
+                partNumber: '4321',
+                serialNumber: '8765',
+                amendment: 'bar',
+              },
+            },
+          },
+        },</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
