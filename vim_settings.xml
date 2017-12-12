@@ -177,12 +177,12 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/components/AuthCallback.vue" timestamp="1513095893507">
+      <file name="$USER_HOME$/dev/part-edge/client/src/components/AuthCallback.vue" timestamp="1513096676180">
         <mark key="'" line="15" column="12" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="11" />
-        <mark key="^" line="22" column="11" />
-        <mark key="." line="22" column="11" />
+        <mark key="[" line="25" column="9" />
+        <mark key="]" line="24" column="7" />
+        <mark key="^" line="24" column="7" />
+        <mark key="." line="24" column="7" />
       </file>
       <file name="$USER_HOME$/Dev/Java/exam/src/main/kotlin/com/inad/units/commands/Command.kt" timestamp="1484837407142">
         <mark key="[" line="8" column="22" />
@@ -4176,12 +4176,11 @@
         <mark key="." line="36" column="39" />
         <mark key="^" line="36" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/AuthCallback.spec.js" timestamp="1513095920225">
-        <mark key="'" line="7" column="14" />
-        <mark key="[" line="6" column="27" />
-        <mark key="]" line="6" column="25" />
-        <mark key="." line="6" column="25" />
-        <mark key="^" line="6" column="25" />
+      <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/AuthCallback.spec.js" timestamp="1513096522219">
+        <mark key="[" line="38" column="23" />
+        <mark key="]" line="38" column="23" />
+        <mark key="." line="38" column="23" />
+        <mark key="^" line="38" column="23" />
       </file>
       <file name="$USER_HOME$/Dev/web-of-things/iot-poc/auth/src/services/index.test.js" timestamp="1498742806809">
         <mark key="[" line="4" column="27" />
@@ -4499,9 +4498,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="15" filename="$USER_HOME$/dev/part-edge/client/src/main.js" />
-      <jump line="50" column="0" filename="$USER_HOME$/dev/part-edge/client/src/main.js" />
-      <jump line="106" column="28" filename="$USER_HOME$/dev/part-edge/client/src/components/Order.vue" />
       <jump line="74" column="1" filename="$USER_HOME$/dev/part-edge/client/src/store/index.js" />
       <jump line="17" column="27" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/Home.spec.js" />
       <jump line="1" column="16" filename="$USER_HOME$/dev/part-edge/client/src/services/equipments.js" />
@@ -4599,6 +4595,9 @@
       <jump line="16" column="9" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/AuthCallback.spec.js" />
       <jump line="15" column="12" filename="$USER_HOME$/dev/part-edge/client/src/components/AuthCallback.vue" />
       <jump line="7" column="14" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/AuthCallback.spec.js" />
+      <jump line="27" column="19" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/AuthCallback.spec.js" />
+      <jump line="6" column="15" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/AuthCallback.spec.js" />
+      <jump line="18" column="18" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/AuthCallback.spec.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4609,7 +4608,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>methods</text>
+        <text>route</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -6133,7 +6132,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>methods</text>
+        <text>route</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -6145,40 +6144,40 @@
         <text>getters</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KHR5cGVzLlNFVF9QTikudG8uZXF1YWwoJ1NFVF9QTicpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgdXJsUGFyYW1zID0gJ2FjY2Vzc190b2tlbj1hLmIuYyZ0b2tlbl90eXBlPUJlYXJlciZleHBpcmVzX2luPTM1OTkmc2NvcGU9bXlTY29wZSZpZF90b2tlbj1kLmUuZiZzdGF0ZT0xNTEzMDkyNTkwMjY2JnNlc3Npb25fc3RhdGU9NDMzMTg1ZDMtMDM3YS00NjI5LTgxNzktYmY5OTgzNDllYWIzJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkZXNjcmliZSggKQo=</text>
+        <text encoding="base64">ICAgICAgcm91dGUuCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcm91dGUuCg==</text>
+        <text encoding="base64">ICAgICAgcm91dGUuaGRkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIFZhbGlkYXRlIGlkX3Rva2VuCg==</text>
+        <text encoding="base64">ICAgICAgcm91dGUuYWNjZXNzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaWRUb2tlbiA9IGlkX3Rva2VuOyAvLyBlc2xpbnQtZGlzYWJsZS1saW5lCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgdXJsID0gJy9hdXRoL2NhbGxiYWNrI2FjY2Vzc190b2tlbj1leUowZVhBaU9pSktWMVFpTENKdWIyNWpaU0k2SWtGUlFVSkJRVUZCUVVGQ1NHZzBhMjFUWDJGTFZEVlljbXA2ZUZKQmRFaDZkbWRXVURWTGJGUmlhbmRNVVVkV09FRkxPVEl5YTJaaFpYRjNTVFJVVWxaQlUzaHFaV2c0U1VoTlRsSkpNbmcyWkd0U1NpMHllbUYzUlhBdFJrdEJXVFEwYWtSV09ISlliVXRmZHpKWk1ucEhTWFJvZDJsQlFTSXNJbUZzWnlJNklsSlRNalUySWl3aWVEVjBJam9pZURRM09IaDVUM0JzYzAweFNEZE9XR3MzVTNneE4zZ3hkWEJqSWl3aWEybGtJam9pZURRM09IaDVUM0JzYzAweFNEZE9XR3MzVTNneE4zZ3hkWEJqSW4wLmV5SmhkV1FpT2lKb2RIUndjem92TDJkeVlYQm9MbTFwWTNKdmMyOW1kQzVqYjIwaUxDSnBjM01pT2lKb2RIUndjem92TDNOMGN5NTNhVzVrYjNkekxtNWxkQzgxWVRVMFpESmxZUzAxWldNekxUUmxaVEl0WW1abU5pMDVNR0ZsWVRNMFpHWXhZakF2SWl3aWFXRjBJam94TlRFek1Ea3lNekF4TENKdVltWWlPakUxTVRNd09USXpNREVzSW1WNGNDSTZNVFV4TXpBNU5qSXdNU3dpWVdOeUlqb2lNU0lzSW1GcGJ5STZJa0ZVVVVGNUx6aEhRVUZCUVhCU1duRlhVV3RxU3pSQ1psSjVOVVpJTVVNMU5GUmlVVEJCV0RGR1FsaFBVVTVqUTFweFdHSktORUpvWVd4SVpHRnlXRzQwTUdKM1F6TTNVVEJ3SzFJaUxDSmhiSFJ6WldOcFpDSTZJalU2T2pFd01ETXdNREF3UVRVNFFqWTROelVpTENKaGJYSWlPbHNpY0hka0lsMHNJbUZ3Y0Y5a2FYTndiR0Y1Ym1GdFpTSTZJbEJCVWxSRlJFZEZYMFJGVmlJc0ltRndjR2xrSWpvaU5UazVZVGxsTURJdE5ERTNNeTAwWlRKa0xXRXdZMk10Tmpsak1UWmpNV1F3WlRJMElpd2lZWEJ3YVdSaFkzSWlPaUl3SWl3aVpXMWhhV3dpT2lKaGJtUnlaV0V1WjNWbGRXZHVZWFYwTG1OQWRHaGhiR1Z6WkdsbmFYUmhiQzVwYnlJc0ltbGtjQ0k2SW1oMGRIQnpPaTh2YzNSekxuZHBibVJ2ZDNNdWJtVjBMemN6TjJNMk9UQTFMV1l4T0RZdE5HSmpaaTFoWm1JekxUUXpaVE0wT1dWbE1qTmhNeThpTENKcGNHRmtaSElpT2lJeE9UUXVPVGd1TlRBdU1UUTBJaXdpYm1GdFpTSTZJbUZ1WkhKbFlTNW5kV1YxWjI1aGRYUXVZMEIwYUdGc1pYTmthV2RwZEdGc0xtbHZJaXdpYjJsa0lqb2lOREk1TW1FeU0yVXROVGRtWWkwME9UTXhMVGs0TURJdE9HRmhOVGt3TUdRMVpXSmhJaXdpY0d4aGRHWWlPaUkxSWl3aWNIVnBaQ0k2SWpFd01ETXpSa1pHUVRaRE5VRkROamdpTENKelkzQWlPaUpIY205MWNDNVNaV0ZrTGtGc2JDQlZjMlZ5TGxKbFlXUWlMQ0p6ZFdJaU9pSlBiMDk1Wkd0QlZETjZUbmxtUWpneVduSTVjM1JwZWs5RlZ6TjZVbmR5ZFMxbFQzSkRWSFUwZWsxdklpd2lkR2xrSWpvaU5XRTFOR1F5WldFdE5XVmpNeTAwWldVeUxXSm1aall0T1RCaFpXRXpOR1JtTVdJd0lpd2lkVzVwY1hWbFgyNWhiV1VpT2lKaGJtUnlaV0V1WjNWbGRXZHVZWFYwTG1OQWRHaGhiR1Z6WkdsbmFYUmhiQzVwYnlJc0luVjBhU0k2SWsxdlpXSm1TM0V5Y2xWdFZVTkRPRjlIVmtsMlFVRWlMQ0oyWlhJaU9pSXhMakFpZlEuc2JlV2V1TEtCR1FlbE5GTm9fU1lvOVFVY1UxWTA3VXo4WU5ZdW02aUhUSkxhSFFSeVlVMG9EcFFlU2VzVVZ3TVN1TUctWjJvLUxYRmY5c182WHIwX3JYZ3pubFBqVFpRYmFWTThxNnRzb1Q3djJ0Rl9LTTFXanRQT2FoUmY3bUIyVy1MZ1l3UE5jVTg3QUpyeE80YjJvUXB0OVhnN0g1VVpXWE1FZzE1NHRLc1lIUzZJNktvTm54dEo1cmdQLTNuVmxGR3lTMmJ4bHRjdndkbkE4WExzcFVMS29hY3NJLW4zUVdfUXJCdnhhdXc3c3laR2JGY1dEVFFPdWtrVFUxS28yUkNDdHhYMGZ1emMwTGJwT0pZdnlrUFJaLVNkSTc1WnpneFJDMF8tU2JsNVE4eVBVNy1tWlI3ZnEwZURsZTFoUEh4MTdoMHQtV1dfbUtObjY2NVVBJnRva2VuX3R5cGU9QmVhcmVyJmV4cGlyZXNfaW49MzU5OSZzY29wZT1Hcm91cC5SZWFkLkFsbCUyMFVzZXIuUmVhZCZpZF90b2tlbj1leUowZVhBaU9pSktWMVFpTENKaGJHY2lPaUpTVXpJMU5pSXNJbXRwWkNJNkluZzBOemg0ZVU5d2JITk5NVWczVGxock4xTjRNVGQ0TVhWd1l5SjkuZXlKaGRXUWlPaUkxT1RsaE9XVXdNaTAwTVRjekxUUmxNbVF0WVRCall5MDJPV014Tm1NeFpEQmxNalFpTENKcGMzTWlPaUpvZEhSd2N6b3ZMMnh2WjJsdUxtMXBZM0p2YzI5bWRHOXViR2x1WlM1amIyMHZOV0UxTkdReVpXRXROV1ZqTXkwMFpXVXlMV0ptWmpZdE9UQmhaV0V6TkdSbU1XSXdMM1l5TGpBaUxDSnBZWFFpT2pFMU1UTXdPVEl6TURJc0ltNWlaaUk2TVRVeE16QTVNak13TWl3aVpYaHdJam94TlRFek1EazJNakF5TENKaGFXOGlPaUpCVlZGQmRTODRSMEZCUVVGUFRHaEdTRFE1SzFCd1dHRXdhazFoTkVoVmFqZEhTa3hVVTI0clYyTnBkVFpuSzBWVGJuUlVjWEJPZUN0MkwzUm5aV2g2SzFSb2QwRjBhRUY2VTFaaGJVUklNQ3MwVkZKMFRHeHNlRTlYUWxSRE9VZFRaejA5SWl3aVlYUmZhR0Z6YUNJNkluSnBZbWRGYURkeGNGRjJaMmhFUzJwcWFFNXVhRUVpTENKcFpIQWlPaUpvZEhSd2N6b3ZMM04wY3k1M2FXNWtiM2R6TG01bGRDODNNemRqTmprd05TMW1NVGcyTFRSaVkyWXRZV1ppTXkwME0yVXpORGxsWlRJellUTXZJaXdpYm05dVkyVWlPaUkzTXpZeVEwRkZRUzA1UTBFMUxUUkNORE10T1VKQk15MHpORVEzUXpNd00wVkNRVGNpTENKemRXSWlPaUpSYjJ0V2FtaG9TM2wwVFdGb1lrdElVMU4zTUdOTFEwdDRjRWhDTWtGbk5FNVJPRVEzVFhaaWVYTmpJaXdpZEdsa0lqb2lOV0UxTkdReVpXRXROV1ZqTXkwMFpXVXlMV0ptWmpZdE9UQmhaV0V6TkdSbU1XSXdJaXdpZFhScElqb2lUVzlsWW1aTGNUSnlWVzFWUTBNNFgwZFdTWFpCUVNJc0luWmxjaUk2SWpJdU1DSjkua1M4OE02czFXV3RWTFBKVWxlMDhxQVduS2hTeGhJS1diQWZjNm5zbDdsY1Y4cmlwMDAzajdnUV9zTnB6a0ttVUNOZU1YbXh5OW83T1RXRXFTOVhoRE1aRjJDM0liUVg5bUplb2g4WG9DZ1pPcm52TUFKdzQwODVfSDRTUkZ5M2taeGRhNmFrTE5YZVgxTkcxZS1FcVJWZklDMV8xa0VzMzQtVWp6czBrVElEV195TEstV1pmVFU2c2Q5UVFnWWFpUU5aeExXWlJyMXVjaEREYVN1WV8zejZRNzdKb3RrVlRobHhqNGZ4emRBMkNTVzdTRkVndFJRS2hkMmZWU3RtRXFaLVdRcGU2QTRuYXI0WmRpU3FqT0toRnMxQ2NGU1dzV0lDTG1LN1dzWFEtNk9pUFhwWHlYUVRPNFA2MzVRU29jclBvZmZKR3BHZ3lTMm9vLXRFekRnJnN0YXRlPTE1MTMwOTI1OTAyNjYmc2Vzc2lvbl9zdGF0ZT00MzMxODVkMy0wMzdhLTQ2MjktODE3OS1iZjk5ODM0OWVhYjMnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgaWRfdG9rZW4gfSA9IHRoaXMuJHJvdXRlLmhhc2g7CiAgICBjb25zb2xlLmxvZyh0aGlzLiRyb3V0ZS5oYXNoLnN1YnN0cigxKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KHdyYXBwZXIudm0uJHJvdXRlKQo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgdXJsID0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgd3JhcHBlci4K</text>
+        <text encoding="base64">ICAgICAgQXV0aENhbGxiYWNrLgo=</text>
       </register>
       <register name="w" type="4">
         <text>wwb</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZXJvdXQK</text>
+        <text encoding="base64">ICAgICAgZXh0cmFjdEhhCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcm91dGVyCg==</text>
+        <text encoding="base64">ICBkZXNjcmliZSggKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
