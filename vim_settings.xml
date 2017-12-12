@@ -177,11 +177,12 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/components/AuthCallback.vue" timestamp="1513094744342">
-        <mark key="[" line="17" column="32" />
-        <mark key="]" line="20" column="45" />
-        <mark key="^" line="20" column="45" />
-        <mark key="." line="20" column="45" />
+      <file name="$USER_HOME$/dev/part-edge/client/src/components/AuthCallback.vue" timestamp="1513095893507">
+        <mark key="'" line="15" column="12" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="11" />
+        <mark key="^" line="22" column="11" />
+        <mark key="." line="22" column="11" />
       </file>
       <file name="$USER_HOME$/Dev/Java/exam/src/main/kotlin/com/inad/units/commands/Command.kt" timestamp="1484837407142">
         <mark key="[" line="8" column="22" />
@@ -4175,11 +4176,12 @@
         <mark key="." line="36" column="39" />
         <mark key="^" line="36" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/AuthCallback.spec.js" timestamp="1513094538298">
-        <mark key="'" line="16" column="9" />
-        <mark key="[" line="18" column="34" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/AuthCallback.spec.js" timestamp="1513095920225">
+        <mark key="'" line="7" column="14" />
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="6" column="25" />
+        <mark key="." line="6" column="25" />
+        <mark key="^" line="6" column="25" />
       </file>
       <file name="$USER_HOME$/Dev/web-of-things/iot-poc/auth/src/services/index.test.js" timestamp="1498742806809">
         <mark key="[" line="4" column="27" />
@@ -4497,7 +4499,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="15" filename="$USER_HOME$/dev/part-edge/client/src/store/index.js" />
       <jump line="20" column="15" filename="$USER_HOME$/dev/part-edge/client/src/main.js" />
       <jump line="50" column="0" filename="$USER_HOME$/dev/part-edge/client/src/main.js" />
       <jump line="106" column="28" filename="$USER_HOME$/dev/part-edge/client/src/components/Order.vue" />
@@ -4595,8 +4596,9 @@
       <jump line="46" column="4" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/store/modules/orders.spec.js" />
       <jump line="53" column="0" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/store/modules/orders.spec.js" />
       <jump line="4" column="0" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/AuthCallback.spec.js" />
-      <jump line="7" column="34" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/AuthCallback.spec.js" />
       <jump line="16" column="9" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/AuthCallback.spec.js" />
+      <jump line="15" column="12" filename="$USER_HOME$/dev/part-edge/client/src/components/AuthCallback.vue" />
+      <jump line="7" column="14" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/AuthCallback.spec.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4607,7 +4609,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>params</text>
+        <text>methods</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -6131,7 +6133,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>params</text>
+        <text>methods</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -6146,37 +6148,37 @@
         <text encoding="base64">ICAgICAgZXhwZWN0KHR5cGVzLlNFVF9QTikudG8uZXF1YWwoJ1NFVF9QTicpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KHdyYXBwZXIudm0uJHJvdXRlKQo=</text>
+        <text encoding="base64">ICBkZXNjcmliZSggKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgd3JhcHBlci4K</text>
+        <text encoding="base64">ICAgICAgcm91dGUuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZXJvdXQK</text>
+        <text encoding="base64">ICAgIC8vIFZhbGlkYXRlIGlkX3Rva2VuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcm91dGVyCg==</text>
+        <text encoding="base64">ICAgIHRoaXMuaWRUb2tlbiA9IGlkX3Rva2VuOyAvLyBlc2xpbnQtZGlzYWJsZS1saW5lCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbG9jYWxWdWUudXNlKFZ1ZVJvdXRlcik7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgaWRfdG9rZW4gfSA9IHRoaXMuJHJvdXRlLmhhc2g7CiAgICBjb25zb2xlLmxvZyh0aGlzLiRyb3V0ZS5oYXNoLnN1YnN0cigxKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8gQ3JlYXRlIGEgZmFrZSByb3V0ZXIK</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KHdyYXBwZXIudm0uJHJvdXRlKQo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgY29uc3Qgcm91dGVyID0gbmV3IFZ1ZVJvdXRlcih7CiAgICAgICAgcm91dGVzOiBbCiAgICAgICAgICB7IHBhdGg6ICcvYXV0aC9jYWxsYmFjaycsIGNvbXBvbmVudDogQXV0aENhbGxiYWNrIH0sCiAgICAgICAgXSwKICAgICAgfSk7</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgd3JhcHBlci4K</text>
       </register>
       <register name="w" type="4">
         <text>wwb</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgZXJvdXQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgcm91dGVyCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
