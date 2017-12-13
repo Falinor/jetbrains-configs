@@ -299,11 +299,11 @@
         <mark key="." line="7" column="16" />
         <mark key="^" line="7" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/services/auth.js" timestamp="1513169660776">
-        <mark key="[" line="8" column="26" />
-        <mark key="]" line="8" column="25" />
-        <mark key="^" line="8" column="25" />
-        <mark key="." line="8" column="25" />
+      <file name="$USER_HOME$/dev/part-edge/client/src/services/auth.js" timestamp="1513172334897">
+        <mark key="[" line="8" column="23" />
+        <mark key="]" line="8" column="42" />
+        <mark key="." line="8" column="42" />
+        <mark key="^" line="8" column="42" />
       </file>
       <file name="$USER_HOME$/Dev/musicus/src/client/src/app/+sheet-board/sheet-board.component.html" timestamp="1466099279547">
         <mark key="[" line="7" column="77" />
@@ -1423,12 +1423,12 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/services/auth.spec.js" timestamp="1513165065977">
-        <mark key="'" line="41" column="32" />
-        <mark key="[" line="37" column="24" />
-        <mark key="]" line="37" column="24" />
-        <mark key="^" line="47" column="5" />
-        <mark key="." line="37" column="24" />
+      <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/services/auth.spec.js" timestamp="1513172196886">
+        <mark key="'" line="4" column="12" />
+        <mark key="[" line="4" column="9" />
+        <mark key="]" line="4" column="12" />
+        <mark key="^" line="4" column="12" />
+        <mark key="." line="4" column="12" />
       </file>
       <file name="$USER_HOME$/Dev/PFEE/batch/src/main/java/com/watsize/api/batch/colors/controllers/ColorSamplerController.java" timestamp="1475054243387">
         <mark key="[" line="19" column="31" />
@@ -2930,12 +2930,12 @@
         <mark key="^" line="2" column="7" />
         <mark key="." line="2" column="7" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/store/modules/auth.js" timestamp="1513157816332">
-        <mark key="'" line="9" column="43" />
-        <mark key="[" line="25" column="35" />
-        <mark key="]" line="25" column="44" />
-        <mark key="." line="25" column="44" />
-        <mark key="^" line="25" column="44" />
+      <file name="$USER_HOME$/dev/part-edge/client/src/store/modules/auth.js" timestamp="1513172445267">
+        <mark key="'" line="10" column="43" />
+        <mark key="[" line="26" column="36" />
+        <mark key="]" line="26" column="9" />
+        <mark key="." line="26" column="9" />
+        <mark key="^" line="26" column="9" />
       </file>
       <file name="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/record/index.js" timestamp="1498133983999">
         <mark key="[" line="0" column="0" />
@@ -4512,7 +4512,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="35" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/store.spec.js" />
       <jump line="0" column="12" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/store.spec.js" />
       <jump line="80" column="47" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/store/modules/equipments.spec.js" />
       <jump line="4" column="24" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/SearchPn.spec.js" />
@@ -4612,6 +4611,7 @@
       <jump line="41" column="32" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/services/auth.spec.js" />
       <jump line="5" column="18" filename="$USER_HOME$/dev/part-edge/client/src/services/auth.js" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/part-edge/client/src/services/auth.js" />
+      <jump line="4" column="12" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/services/auth.spec.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4622,7 +4622,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>isAuthenticated</text>
+        <text>RECEIVE_ID_TOKEN</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -6146,7 +6146,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>isAuthenticated</text>
+        <text>RECEIVE_ID_TOKEN</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -6157,41 +6157,41 @@
       <register name="/" type="4">
         <text encoding="base64">XDxleHBvcnRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgdXJsUGFyYW1zID0gJ2FjY2Vzc190b2tlbj1hLmIuYyZ0b2tlbl90eXBlPUJlYXJlciZleHBpcmVzX2luPTM1OTkmc2NvcGU9bXlTY29wZSZpZF90b2tlbj1kLmUuZiZzdGF0ZT0xNTEzMDkyNTkwMjY2JnNlc3Npb25fc3RhdGU9NDMzMTg1ZDMtMDM3YS00NjI5LTgxNzktYmY5OTgzNDllYWIzJzsK</text>
+      <register name="0" type="4">
+        <text>5a54d2ea-5ec3-4ee2-bff6-90aea34df1b0</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CnJvdXRlci5iZWZvcmVFYWNoKGF1dGhHdWFyZCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CnJvdXRlci5iZWZvcmVFYWNoKCh0bywgZnJvbSwgbmV4dCkgPT4gewogIGlmICh0by5wYXRoID09PSAnL2F1dGgnIHx8IHRvLnBhdGggPT09ICcvYXV0aC9jYWxsYmFjaycpIHsKICAgIG5leHQoKTsKICB9IGVsc2UgewogICAgCiAgfQp9KTs=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IHZhbGlkYXRlVG9rZW4gPSAoLi4uYXJncykgPT4gandzLkpXUy52ZXJpZnlKV1QoLi4uYXJncyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpZiAodG8ucGF0aDEpCg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IHZhbGlkYXRlVG9rZW4gPSAoLi4uYXJncykgPT4gandzLkpXUy52ZXJpZnlKV1QoLi4uYXJncyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpZiAoKQo=</text>
+        <text encoding="base64">ICAgIGxvY2FsU3RvcmFnZS5zZXRJdGVtKCdpZF90b2tlbicsIGlkVG9rZW4pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">ICAgIGxvY2FsU3RvcmFnZS5zZXRJdGVtKCdpZF90b2tlbicsIGlkVG9rZW4pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">ICBleHBpcmVzQXQuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="w" type="4">
         <text>wwb</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICByZXR1cm4gandzLkpXUy52ZXJpZnlKV1Qoand0LCBwdWJLZXksIGFjY2VwdGFibGUpCg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IGlzQXV0aGVudGljYXRlZCA9IGFzeW5jIChqd3QsIHB1YktleSwgYWNjZXB0YWJsZSkgPT4gewp9Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmV4cG9ydCBjb25zdCBpc0F1dGhlbnRpY2F0ZWQgPSBhc3luYyAoand0LCBwdWJLZXksIGFjY2VwdGFibGUpID0+IHsK</text>
+        <text encoding="base64">ICBqd3MuSldTLnZlcmlmeUpXVChqd3QsIHB1YktleSwgYWNjZXB0YWJsZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -6242,13 +6242,13 @@
         <entry encoding="base64">JzwsJz5zL2VxdWlwbWVudC9vcmRlci9n</entry>
         <entry encoding="base64">IHc=</entry>
         <entry>qall</entry>
-        <entry>W</entry>
         <entry encoding="base64">JzwsJz5zL2F1dGguLy9n</entry>
         <entry encoding="base64">JzwsJz5zL3N0YXRlL3N0b3JlLnN0YXRlL2c=</entry>
         <entry encoding="base64">JzwsJz5zL211dGF0aW9ucy9zdG9yZS5tdXRhdGlvbnMvZw==</entry>
         <entry>&quot;&quot;q</entry>
         <entry>wq</entry>
         <entry>q</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
