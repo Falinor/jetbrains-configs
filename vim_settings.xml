@@ -298,11 +298,11 @@
         <mark key="." line="7" column="16" />
         <mark key="^" line="7" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/services/auth.js" timestamp="1513185516571">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="3" column="1" />
+      <file name="$USER_HOME$/dev/part-edge/client/src/services/auth.js" timestamp="1513186695395">
+        <mark key="[" line="14" column="29" />
+        <mark key="]" line="15" column="1" />
+        <mark key="." line="15" column="1" />
+        <mark key="^" line="15" column="1" />
       </file>
       <file name="$USER_HOME$/Dev/musicus/src/client/src/app/+sheet-board/sheet-board.component.html" timestamp="1466099279547">
         <mark key="[" line="7" column="77" />
@@ -4626,8 +4626,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -6151,7 +6151,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Ly8g</text>
+        <text>)</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -6166,39 +6166,39 @@
         <text>5a54d2ea-5ec3-4ee2-bff6-90aea34df1b0</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCBpZFRva2VuID0gCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYmVmb3JlRW50ZXI6IGF1dGhHdWFyZCwK</text>
+        <text encoding="base64">ICBpZiAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIDxyb3V0ZXItbGluayB0bz0iL2F1dGgiPkF1dGg8L3JvdXRlci1saW5rPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">ICAgICAgYmVmb3JlRW50ZXI6IGF1dGhHdWFyZCwK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgIDxyb3V0ZXItbGluayB0bz0iL2F1dGgiPkF1dGg8L3JvdXRlci1saW5rPgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">fTsK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICByZXR1cm4gbmV3IERhdGUoKS5nZXRUaW1lKCkgPCBleHBpcmVzQXQ7Cg==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">CmV4cG9ydCBjb25zdCBpc0F1dGhlbnRpY2F0ZWQgPSBhc3luYyAoKSA9PiB7CiAgY29uc3QgaWRUb2tlbiA9IEpTT04ucGFyc2UobG9jYWxTdG9yYWdlLmdldEl0ZW0oJ2lkX3Rva2VuJykpOwogIGNvbnN0IHsgcGF5bG9hZCB9ID0gYXdhaXQgZGVjb2RlVG9rZW4oaWRUb2tlbik7CiAgICBjb25zdCBpc3N1ZWRBdCA9IHBheWxvYWQuaWF0OwogICAgY29uc3QgZXhwaXJlc0F0ID0gcGF5bG9hZC5leHA7CiAgcmV0dXJuIG5ldyBEYXRlKCkuZ2V0VGltZSgpIDwgZXhwaXJlc0F0Owp9Ow==</text>
-      </register>
-      <register name="7" type="4">
-        <text>const { payload } = await authService.decodeToken(idToken);
-    const issuedAt = payload.iat;
-    const expiresAt = payload.exp;</text>
       </register>
       <register name="w" type="4">
         <text>wwb</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHN0YXRlLgo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">CmV4cG9ydCBjb25zdCBpc0F1dGhlbnRpY2F0ZWQgPSBhc3luYyAoKSA9PiB7CiAgY29uc3QgaWRUb2tlbiA9IEpTT04ucGFyc2UobG9jYWxTdG9yYWdlLmdldEl0ZW0oJ2lkX3Rva2VuJykpOwogIGNvbnN0IHsgcGF5bG9hZCB9ID0gYXdhaXQgZGVjb2RlVG9rZW4oaWRUb2tlbik7CiAgICBjb25zdCBpc3N1ZWRBdCA9IHBheWxvYWQuaWF0OwogICAgY29uc3QgZXhwaXJlc0F0ID0gcGF5bG9hZC5leHA7CiAgcmV0dXJuIG5ldyBEYXRlKCkuZ2V0VGltZSgpIDwgZXhwaXJlc0F0Owp9Ow==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGxvY2FsU3RvcmFnZS5zZXRJdGVtKCdpZF90b2tlbicsIGlkVG9rZW4pOwo=</text>
+      <register name="9" type="4">
+        <text>const { payload } = await authService.decodeToken(idToken);
+    const issuedAt = payload.iat;
+    const expiresAt = payload.exp;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
