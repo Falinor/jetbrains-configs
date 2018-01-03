@@ -802,6 +802,13 @@
         <mark key="." line="15" column="27" />
         <mark key="^" line="15" column="27" />
       </file>
+      <file name="$USER_HOME$/dev/part-edge/api/src/components/validator/validator.test.js" timestamp="1514976323406">
+        <mark key="'" line="4" column="28" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="15" column="23" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/part-edge/client/src/main.js" timestamp="1513091309779">
         <mark key="'" line="50" column="0" />
         <mark key="[" line="32" column="0" />
@@ -2508,6 +2515,13 @@
         <mark key="]" line="19" column="14" />
         <mark key="." line="19" column="14" />
         <mark key="^" line="19" column="51" />
+      </file>
+      <file name="$USER_HOME$/dev/part-edge/api/src/components/validator/validator.js" timestamp="1514976200977">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="13" column="4" />
+        <mark key="." line="13" column="4" />
+        <mark key="^" line="13" column="4" />
       </file>
       <file name="$USER_HOME$/Dev/Java/search-engine/src/main/kotlin/com/inad/shared/Message.kt" timestamp="1484660815385">
         <mark key="[" line="8" column="56" />
@@ -4540,14 +4554,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="6" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/services/auth.spec.js" />
-      <jump line="9" column="11" filename="$USER_HOME$/dev/part-edge/client/src/services/auth.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/dev/part-edge/client/src/services/auth.js" />
-      <jump line="7" column="0" filename="$USER_HOME$/dev/part-edge/client/src/services/auth.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/client/src/services/auth.js" />
-      <jump line="2" column="17" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/services/auth.spec.js" />
-      <jump line="6" column="1" filename="$USER_HOME$/dev/part-edge/client/src/services/auth.js" />
-      <jump line="29" column="25" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/services/auth.spec.js" />
       <jump line="41" column="32" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/services/auth.spec.js" />
       <jump line="5" column="18" filename="$USER_HOME$/dev/part-edge/client/src/services/auth.js" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/part-edge/client/src/services/auth.js" />
@@ -4640,6 +4646,14 @@
       <jump line="9" column="0" filename="$USER_HOME$/dev/part-edge/api/src/routes/index.js" />
       <jump line="49" column="0" filename="$USER_HOME$/dev/part-edge/api/package.json" />
       <jump line="82" column="0" filename="$USER_HOME$/dev/part-edge/api/package.json" />
+      <jump line="3" column="1" filename="$USER_HOME$/dev/part-edge/api/src/components/validator/validator.test.js" />
+      <jump line="4" column="28" filename="$USER_HOME$/dev/part-edge/api/src/components/validator/validator.test.js" />
+      <jump line="1" column="1" filename="$USER_HOME$/dev/part-edge/api/src/components/validator/validator.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/dev/part-edge/api/src/components/validator/validator.js" />
+      <jump line="5" column="1" filename="$USER_HOME$/dev/part-edge/api/src/components/validator/validator.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/dev/part-edge/api/src/components/validator/validator.js" />
+      <jump line="13" column="0" filename="$USER_HOME$/dev/part-edge/api/src/components/validator/validator.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/api/src/components/validator/validator.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4650,7 +4664,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAvLyBBcHBsaWNhdGlvbiByb3V0ZXMK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh2YWxpZGF0ZSk7Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -6174,7 +6188,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text encoding="base64">YXN5bmMg</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -6189,37 +6203,37 @@
         <text encoding="base64">KiBAcmV0dXJucyB7ZnVuY3Rpb24ob2JqZWN0LCBvYmplY3QsIGZ1bmN0aW9uKTogUHJvbWlzZTxUPn0gQW4gZXhwcmVzcyBmdW5jdGlvbgogKiB0YWtpbmcgYSByZXF1ZXN0IG9iamVjdCwgYSByZXNwb25zZSBvYmplY3QgYW5kIGEgbmV4dCBmdW5jdGlvbiBhcyBwYXJhbWV0ZXI=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBBcHBsaWNhdGlvbiByb3V0ZXMK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh2YWxpZGF0ZSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyBBY2NlcHQgaGVhZGVyIGhhbmRsZXIK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh2YWxpZGF0ZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJhY2NlcHRzIjogIl4xLjMuNCIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgYWNjZXB0IH0gZnJvbSAnLi4vbWlkZGxld2FyZXMvYWNjZXB0JzsK</text>
+        <text encoding="base64">ICAgIAogIH0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICByb3V0ZXIudXNlKGFjY2VwdCgnanNvbicpKTsK</text>
+        <text encoding="base64">ICByZXR1cm4gbmV3IFByb21pc2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyBFcnJvciBoYW5kbGVyCg==</text>
+        <text encoding="base64">ICByZXR1cm4gbmV3IFByb21pc2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGFjY2VwdHMgZnJvbSAnYWNjZXB0cyc7CmltcG9ydCBjcmVhdGVIdHRwRXJyb3IgZnJvbSAnaHR0cC1lcnJvcnMnOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <text>wwb</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uZmlnLgo=</text>
+        <text encoding="base64">ICByZXR1cm4gYWp2LmNvbXBpbGVBc3luYyhzY2hlbWEpOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAqIEB0eXBlIHt7ZW52OiBzdHJpbmcsIHBvcnQ6IG51bWJlciwgbG9nOiB7bGV2ZWw6IHN0cmluZ30sIGRiOiB7aG9zdDogc3RyaW5nLAogKiBwb3J0OiBudW1iZXIsIHVzZXI6IHN0cmluZywgcGFzc3dvcmQ6IHN0cmluZywgZGF0YWJhc2U6IHN0cmluZywgYmVuY2htYXJrOgogKiBib29sZWFufSwgcGFnaW5hdGlvbjoge2lzRW5hYmxlZDogYm9vbGVhbiwgbGltaXQ6IG51bWJlciwgb2Zmc2V0OiBudW1iZXIsCiAqIG1heExpbWl0OiBudW1iZXJ9LCBtYWlsOiB7aXNFbmFibGVkOiBib29sZWFuLCBmcm9tOiBzdHJpbmcsIHRvOiBzdHJpbmd9LAogKiBzbXRwOiB7aG9zdDogc3RyaW5nLCBwb3J0OiBudW1iZXIsIHNlY3VyZTogYm9vbGVhbiwgYXV0aDoge3VzZXI6IHN0cmluZywKICogcGFzczogc3RyaW5nfX19fQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBjb25zdCBkZAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
