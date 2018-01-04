@@ -1073,6 +1073,11 @@
         <mark key="." line="9" column="43" />
         <mark key="^" line="9" column="44" />
       </file>
+      <file name="$USER_HOME$/Dev/baby-foot/clean-api/src/test/data.js" timestamp="1515050527370">
+        <mark key="[" line="26" column="4" />
+        <mark key="]" line="26" column="4" />
+        <mark key="." line="26" column="4" />
+      </file>
       <file name="$USER_HOME$/Dev/web-of-things/iot-poc/broker/src/middlewares/timestamp.test.js" timestamp="1498636513987">
         <mark key="[" line="7" column="22" />
         <mark key="]" line="8" column="28" />
@@ -4052,6 +4057,9 @@
         <mark key="." line="0" column="24" />
         <mark key="^" line="0" column="24" />
       </file>
+      <file name="$USER_HOME$/Dev/baby-foot/clean-api/package.json" timestamp="1515051475133">
+        <mark key="^" line="9" column="12" />
+      </file>
       <file name="$USER_HOME$/Dev/wot-scripting-api/src/client/consumed-thing.ts" timestamp="1488550248738">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -4618,7 +4626,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zdCB0ZWFtcyA9IGF3YWl0IFByb21pc2UuYWxsKHByb21pc2VzKTsK</text>
+        <text encoding="base64">ICAgICJleHByZXNzIjogIl40LjE1LjIiLAo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -6142,7 +6150,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>red</text>
+        <text encoding="base64">d2FybiA=</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -6154,43 +6162,40 @@
         <text>validateToken</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICByb3V0ZXIudXNlKChlcnIsIHJlcSwgcmVzLCBuZXh0KSA9PiByZXMuanNvbihlcnIpKTsK</text>
+        <text encoding="base64">ICAgICJ0ZXN0OnVuaXQiOiAibnBtIHRlc3QgLS0gXCJzcmMvKiovKi50ZXN0LmpzXCIiLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdCB0ZWFtcyA9IGF3YWl0IFByb21pc2UuYWxsKHByb21pc2VzKTsK</text>
+        <text encoding="base64">ICAgICJleHByZXNzIjogIl40LjE1LjIiLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCBwcm9taXNlcyA9IG1hdGNoLnJlZC5tYXAoY3JlYXRlVGVhbUlmTm90RXhpc3RzKTsK</text>
+        <text encoding="base64">ICAgICJib2R5LXBhcnNlciI6ICJeMS4xNy4xIiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICJiYWJlbCIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBtYXRjaC5yZWQK</text>
+        <text encoding="base64">ICAgICJiYWJlbC1wbHVnaW4tdHJhbnNmb3JtLXJ1bnRpbWUiOiAiXjYuMjMuMCIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyogCg==</text>
+        <text encoding="base64">ICAgICJiYWJlbC1wcmVzZXQtZXMyMDE1IjogIl42LjI0LjEiLAogICAgImJhYmVsLXByZXNldC1zdGFnZS0xIjogIl42LjI0LjEiLAo=</text>
       </register>
-      <register name="6" type="4">
-        <text>{
-**   
-**
- */</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICJiYWJlbC1yZWdpc3RlciI6ICJeNi4yNC4xIiwKICAgICJiYWJlbC1ydW50aW1lIjogIl42LjIzLjAiLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCBibHVlUHJvbWlzZSA9IG1hdGNoLmJsdWUucGxheWVycy5tYXAoY3JlYXRlUGxheWVySWZOb3RFeGlzdHMpOwo=</text>
+        <text encoding="base64">ICAgICJlc2xpbnQtY29uZmlnLXN0YW5kYXJkIjogIl4xMC4yLjEiLAo=</text>
       </register>
       <register name="w" type="4">
         <text>wwb</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCBibHVlUHJvbWlzZSA9IG1hdGNoLmJsdWUucGxheWVycy5tYXAoY3JlYXRlUGxheWVySWZOb3RFeGlzdHMpOwo=</text>
+        <text encoding="base64">ICAgICJlc2xpbnQtcGx1Z2luLWltcG9ydCI6ICJeMi4yLjAiLAogICAgImVzbGludC1wbHVnaW4tbm9kZSI6ICJeNS4xLjEiLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCByZWRQcm9taXNlID0gbWF0Y2gucmVkLnBsYXllcnMubWFwKGNyZWF0ZVBsYXllcklmTm90RXhpc3RzKTsK</text>
+        <text encoding="base64">ICAgICJlc2xpbnQtcGx1Z2luLXByb21pc2UiOiAiXjMuNS4wIiwKICAgICJlc2xpbnQtcGx1Z2luLXN0YW5kYXJkIjogIl4zLjAuMSIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -6244,10 +6249,10 @@
         <entry encoding="base64">JzwsJz5zL29yZGVyc01vZGVsL2RiL2c=</entry>
         <entry>q</entry>
         <entry>&quot;&quot;</entry>
-        <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL2NvbXBvbmVudC92bS90aGlz</entry>
         <entry encoding="base64">JzwsJz5zL2NvbXBvbmVudC92bS9n</entry>
         <entry>w]</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
