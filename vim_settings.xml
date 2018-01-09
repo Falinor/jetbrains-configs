@@ -642,12 +642,12 @@
         <mark key="^" line="3" column="4" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/src/services/player/repository.js" timestamp="1515483856591">
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/services/player/repository.js" timestamp="1515529303474">
         <mark key="'" line="11" column="0" />
-        <mark key="[" line="5" column="4" />
-        <mark key="]" line="5" column="10" />
-        <mark key="." line="5" column="10" />
-        <mark key="^" line="5" column="10" />
+        <mark key="[" line="8" column="20" />
+        <mark key="]" line="8" column="20" />
+        <mark key="." line="8" column="20" />
+        <mark key="^" line="10" column="25" />
       </file>
       <file name="$USER_HOME$/Dev/Java/Mediatheque/src/main/java/com/mti/command/CommandManager.java" timestamp="1460192501397">
         <mark key="[" line="37" column="35" />
@@ -4023,11 +4023,11 @@
         <mark key="." line="15" column="22" />
         <mark key="^" line="15" column="22" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/src/services/player/interactor.js" timestamp="1515430796621">
-        <mark key="[" line="25" column="39" />
-        <mark key="]" line="25" column="48" />
-        <mark key="^" line="25" column="48" />
-        <mark key="." line="25" column="48" />
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/services/player/interactor.js" timestamp="1515529984062">
+        <mark key="[" line="15" column="8" />
+        <mark key="]" line="15" column="14" />
+        <mark key="." line="15" column="14" />
+        <mark key="^" line="15" column="14" />
       </file>
       <file name="$USER_HOME$/Dev/baby-foot/api/src/test/utils.test.js" timestamp="1501763633635">
         <mark key="[" line="6" column="5" />
@@ -4576,6 +4576,13 @@
         <mark key="^" line="17" column="1" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/services/player/get-player.js" timestamp="1515530059986">
+        <mark key="'" line="6" column="15" />
+        <mark key="[" line="25" column="49" />
+        <mark key="]" line="25" column="41" />
+        <mark key="." line="25" column="41" />
+        <mark key="^" line="25" column="41" />
+      </file>
       <file name="$USER_HOME$/Dev/status-checker/docker-compose.override.yml" timestamp="1489226684664">
         <mark key="[" line="10" column="16" />
         <mark key="]" line="11" column="23" />
@@ -4683,7 +4690,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="0" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/services/auth.spec.js" />
       <jump line="80" column="5" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/services/auth.spec.js" />
       <jump line="73" column="15" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/services/auth.spec.js" />
       <jump line="131" column="0" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/services/auth.spec.js" />
@@ -4783,6 +4789,7 @@
       <jump line="2" column="25" filename="$USER_HOME$/Dev/baby-foot/api/src/infra/player-repository.js" />
       <jump line="4" column="22" filename="$USER_HOME$/Dev/baby-foot/api/src/services/player/repository.js" />
       <jump line="7" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/services/player/repository.js" />
+      <jump line="6" column="15" filename="$USER_HOME$/Dev/baby-foot/api/src/services/player/get-player.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4792,8 +4799,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29udHJvbGxlcihpbnRlcmFjdG9yKHJlcG9zaXRvcnkobW9kZWwpKSkK</text>
+      <register name="&quot;" type="4">
+        <text>PlayerInteractor</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -6317,7 +6324,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>id</text>
+        <text>PlayerInteractor</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -6332,39 +6339,39 @@
         <text encoding="base64">ICAgICJ0ZXN0OmFwaSI6ICJucG0gdGVzdCAtLSBcInNyYy8qKi9pbmRleC5lMmUuanNcIiIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29udHJvbGxlcihpbnRlcmFjdG9yKHJlcG9zaXRvcnkobW9kZWwpKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CmV4cG9ydCBjb25zdCBmaW5kUGxheWVyID0gKHsgZmluZEJ5SWQgfSkgPT4KICBhc3luYyAoaWQpID0+IHsKICAgIG5ldyBFdmVudEVtaXR0ZXIoKTsKICAgIGF3YWl0IGZpbmRCeUlkKGlkKTsKICB9Ow==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CmZpbmQoKQo=</text>
+        <text encoding="base64">Y29udHJvbGxlcihpbnRlcmFjdG9yKHJlcG9zaXRvcnkobW9kZWwpKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">KCk9IC4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgCg==</text>
+        <text encoding="base64">CmZpbmQoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2xhc3MgCg==</text>
+        <text encoding="base64">KCk9IC4K</text>
       </register>
-      <register name="7" type="4">
-        <text>Repository {
-  
-}</text>
+      <register name="7" type="2">
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgCg==</text>
       </register>
       <register name="w" type="4">
         <text>wwb</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y3JlYXRlQ29udHJvbGxlcihjcmVhdGVJbnRlcmFjdG9yKGNyZWF0ZVJlcG9zaXRvcnkoY3JlYXRlTW9kZWwpZGRPKSkK</text>
+        <text encoding="base64">Y2xhc3MgCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>Repository {
+  
+}</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
