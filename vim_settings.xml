@@ -291,6 +291,18 @@
         <mark key="." line="19" column="41" />
         <mark key="^" line="19" column="41" />
       </file>
+      <file name="$USER_HOME$/dev/brainfuck-interpreter/src/index.js" timestamp="1515516486331">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="0" column="20" />
+        <mark key="^" line="0" column="20" />
+        <mark key="." line="0" column="20" />
+      </file>
+      <file name="$USER_HOME$/dev/brainfuck-interpreter/package.json" timestamp="1515516363565">
+        <mark key="[" line="9" column="16" />
+        <mark key="]" line="13" column="16" />
+        <mark key="^" line="13" column="16" />
+        <mark key="." line="13" column="16" />
+      </file>
       <file name="$USER_HOME$/dev/bootcamp/calculator.test.js" timestamp="1511278057289">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="35" column="2" />
@@ -787,8 +799,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXJyKTsK</text>
+      <register name="&quot;" type="4">
+        <text>test</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2312,7 +2324,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>test</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2327,37 +2339,37 @@
         <text encoding="base64">ICB0LnRydWUocmVxLmhlYWRlci5jYWxsZWRPbmNlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXJyKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UpOwo=</text>
+        <text encoding="base64">ICAiZW5naW5lU3RyaWN0IjogdHJ1ZSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBuZXh0KHsKICAgICAgICAgIG5hbWU6IGVyci5jb2RlLAo=</text>
+        <text encoding="base64">ICAiZW5naW5lU3RyaWN0IjogdHJ1ZSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1lc3NhZ2U6IGVyci5tZXNzYWdlLAogICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXJyKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNyZWF0ZUh0dHBFcnJvciBmcm9tICdodHRwLWVycm9ycyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICBuZXh0KHsKICAgICAgICAgIG5hbWU6IGVyci5jb2RlLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNyZWF0ZUh0dHBFcnJvciBmcm9tICdodHRwLWVycm9ycyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIG1lc3NhZ2U6IGVyci5tZXNzYWdlLAogICAgICAgIH0pOwo=</text>
       </register>
       <register name="w" type="4">
         <text>wwb</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAvLyBDYXRjaC1hbGwgcm91dGUuIFJlc3BvbmRzIDQwNCBpZiB0aGUgZW5kcG9pbnQgY291bGQgbm90IGJlIGZvdW5kLgogIHJvdXRlci5hbGwoJyonLCAocmVxLCByZXMsIG5leHQpID0+IHsKICAgIG5leHQoY3JlYXRlSHR0cEVycm9yKDQwNCwgJ1RoaXMgZW5kcG9pbnQgZG9lcyBub3QgZXhpc3QnKSk7CiAgfSk7</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IGNyZWF0ZUh0dHBFcnJvciBmcm9tICdodHRwLWVycm9ycyc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2413,8 +2425,8 @@
         <entry>20</entry>
         <entry>qall</entry>
         <entry>q</entry>
-        <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
