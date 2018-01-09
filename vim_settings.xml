@@ -615,6 +615,11 @@
         <mark key="^" line="17" column="42" />
         <mark key="." line="17" column="42" />
       </file>
+      <file name="$USER_HOME$/dev/brainfuck-interpreter/.gitignore" timestamp="1515518161901">
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="0" />
+        <mark key="." line="119" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/part-edge/importer/models/index.js" timestamp="1511447631614">
         <mark key="'" line="29" column="0" />
         <mark key="[" line="8" column="38" />
@@ -799,8 +804,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>test</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyMjIEV4YW1wbGUgdXNlciB0ZW1wbGF0ZSB0ZW1wbGF0ZQo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2339,37 +2344,37 @@
         <text encoding="base64">ICB0LnRydWUocmVxLmhlYWRlci5jYWxsZWRPbmNlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyMjIEV4YW1wbGUgdXNlciB0ZW1wbGF0ZSB0ZW1wbGF0ZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAiZW5naW5lU3RyaWN0IjogdHJ1ZSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAiZW5naW5lU3RyaWN0IjogdHJ1ZSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXJyKTsK</text>
+        <text encoding="base64">ICAiZW5naW5lU3RyaWN0IjogdHJ1ZSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXJyKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBuZXh0KHsKICAgICAgICAgIG5hbWU6IGVyci5jb2RlLAo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1lc3NhZ2U6IGVyci5tZXNzYWdlLAogICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBuZXh0KHsKICAgICAgICAgIG5hbWU6IGVyci5jb2RlLAo=</text>
       </register>
       <register name="w" type="4">
         <text>wwb</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIG1lc3NhZ2U6IGVyci5tZXNzYWdlLAogICAgICAgIH0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNyZWF0ZUh0dHBFcnJvciBmcm9tICdodHRwLWVycm9ycyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
