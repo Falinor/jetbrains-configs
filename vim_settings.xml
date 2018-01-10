@@ -297,11 +297,17 @@
         <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/brainfuck-interpreter/package.json" timestamp="1515516363565">
+      <file name="$USER_HOME$/dev/brainfuck-interpreter/package.json" timestamp="1515519291453">
         <mark key="[" line="9" column="16" />
-        <mark key="]" line="13" column="16" />
-        <mark key="^" line="13" column="16" />
-        <mark key="." line="13" column="16" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/brainfuck-interpreter/src/operations.js" timestamp="1515518949180">
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="8" column="16" />
+        <mark key="^" line="8" column="16" />
+        <mark key="." line="8" column="16" />
       </file>
       <file name="$USER_HOME$/dev/bootcamp/calculator.test.js" timestamp="1511278057289">
         <mark key="'" line="0" column="0" />
@@ -804,8 +810,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyMjIEV4YW1wbGUgdXNlciB0ZW1wbGF0ZSB0ZW1wbGF0ZQo=</text>
+      <register name="&quot;" type="4">
+        <text>increment</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2329,7 +2335,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>increment</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2344,40 +2350,40 @@
         <text encoding="base64">ICB0LnRydWUocmVxLmhlYWRlci5jYWxsZWRPbmNlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyMjIEV4YW1wbGUgdXNlciB0ZW1wbGF0ZSB0ZW1wbGF0ZQo=</text>
+        <text encoding="base64">ZXhwb3J0IAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAiZW5naW5lU3RyaWN0IjogdHJ1ZSwK</text>
+        <text encoding="base64">IyMjIEV4YW1wbGUgdXNlciB0ZW1wbGF0ZSB0ZW1wbGF0ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAiZW5naW5lU3RyaWN0IjogdHJ1ZSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXJyKTsK</text>
+        <text encoding="base64">ICAiZW5naW5lU3RyaWN0IjogdHJ1ZSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UpOwo=</text>
+        <text encoding="base64">ICAiZW5naW5lU3RyaWN0IjogdHJ1ZSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBuZXh0KHsKICAgICAgICAgIG5hbWU6IGVyci5jb2RlLAo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXJyKTsK</text>
       </register>
       <register name="w" type="4">
         <text>wwb</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1lc3NhZ2U6IGVyci5tZXNzYWdlLAogICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBuZXh0KHsKICAgICAgICAgIG5hbWU6IGVyci5jb2RlLAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -2431,8 +2437,8 @@
         <entry>qall</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
