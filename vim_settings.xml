@@ -303,11 +303,12 @@
         <mark key="^" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/brainfuck-interpreter/src/operations.js" timestamp="1515518949180">
-        <mark key="[" line="8" column="16" />
-        <mark key="]" line="8" column="16" />
-        <mark key="^" line="8" column="16" />
-        <mark key="." line="8" column="16" />
+      <file name="$USER_HOME$/dev/brainfuck-interpreter/src/operations.js" timestamp="1515574014341">
+        <mark key="'" line="3" column="11" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/bootcamp/calculator.test.js" timestamp="1511278057289">
         <mark key="'" line="0" column="0" />
@@ -701,8 +702,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/controller.test.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/dev/part-edge/api/src/routes/index.js" />
       <jump line="6" column="20" filename="$USER_HOME$/dev/part-edge/api/src/components/responses/index.test.js" />
       <jump line="10" column="30" filename="$USER_HOME$/dev/part-edge/api/src/components/responses/index.js" />
       <jump line="38" column="17" filename="$USER_HOME$/dev/part-edge/api/src/components/responses/index.test.js" />
@@ -801,6 +800,8 @@
       <jump line="6" column="56" filename="$USER_HOME$/dev/part-edge/api/src/index.js" />
       <jump line="13" column="37" filename="$USER_HOME$/dev/part-edge/api/src/routes/index.js" />
       <jump line="15" column="2" filename="$USER_HOME$/dev/part-edge/api/src/routes/index.js" />
+      <jump line="9" column="13" filename="$USER_HOME$/dev/brainfuck-interpreter/src/operations.js" />
+      <jump line="1" column="11" filename="$USER_HOME$/dev/brainfuck-interpreter/src/operations.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -810,8 +811,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>increment</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ywo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2350,40 +2351,40 @@
         <text encoding="base64">ICB0LnRydWUocmVxLmhlYWRlci5jYWxsZWRPbmNlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhwb3J0IAo=</text>
+        <text encoding="base64">Ywo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">b25zdCBpbmNyZW1lbnQgPSAoKSA9PiB7Cgp9Ow==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyMjIEV4YW1wbGUgdXNlciB0ZW1wbGF0ZSB0ZW1wbGF0ZQo=</text>
+        <text encoding="base64">ZXhwb3J0IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAiZW5naW5lU3RyaWN0IjogdHJ1ZSwK</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAiZW5naW5lU3RyaWN0IjogdHJ1ZSwK</text>
+        <text encoding="base64">IyMjIEV4YW1wbGUgdXNlciB0ZW1wbGF0ZSB0ZW1wbGF0ZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXJyKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>wwb</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UpOwo=</text>
+        <text encoding="base64">ICAiZW5naW5lU3RyaWN0IjogdHJ1ZSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBuZXh0KHsKICAgICAgICAgIG5hbWU6IGVyci5jb2RlLAo=</text>
+        <text encoding="base64">ICAiZW5naW5lU3RyaWN0IjogdHJ1ZSwK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2437,8 +2438,8 @@
         <entry>qall</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
