@@ -310,12 +310,11 @@
         <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/brainfuck-interpreter/package.json" timestamp="1515578929490">
+      <file name="$USER_HOME$/dev/brainfuck-interpreter/package.json" timestamp="1515580417155">
         <mark key="'" line="13" column="10" />
-        <mark key="[" line="2" column="17" />
-        <mark key="]" line="2" column="16" />
-        <mark key="^" line="2" column="16" />
-        <mark key="." line="2" column="16" />
+        <mark key="[" line="21" column="24" />
+        <mark key="]" line="21" column="24" />
+        <mark key="." line="21" column="24" />
       </file>
       <file name="$USER_HOME$/dev/brainfuck-interpreter/src/operations.js" timestamp="1515577924163">
         <mark key="[" line="0" column="0" />
@@ -844,8 +843,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2369,7 +2368,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>operator</text>
+        <text>,</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2390,31 +2389,31 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJzaW5vbiI6ICJeNC4xLjQiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dGVzdC5zZXJpYWwoJ1Nob3VsZCBwYXJzZSBhICItIiBvcGVyYXRvciBhbmQgcmV0dXJuIGEgZGVjcmVtZW50IG9wZXJhdGlvbicsIGFzeW5jICh0KSA9PiB7Cn0pOwo=</text>
+        <text encoding="base64">ICAgICJhdmEiOiAiXjAuMjQuMCIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCBkZWNyT3AgPSBzaW5vbi5zdHViKG9wZXJhdGlvbnMsICdkZWNyT3AnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dGVzdC5zZXJpYWwoJ1Nob3VsZCBwYXJzZSBhIGMnKQo=</text>
+        <text encoding="base64">dGVzdC5zZXJpYWwoJ1Nob3VsZCBwYXJzZSBhICItIiBvcGVyYXRvciBhbmQgcmV0dXJuIGEgZGVjcmVtZW50IG9wZXJhdGlvbicsIGFzeW5jICh0KSA9PiB7Cn0pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpbmNyCg==</text>
+        <text encoding="base64">ICBjb25zdCBkZWNyT3AgPSBzaW5vbi5zdHViKG9wZXJhdGlvbnMsICdkZWNyT3AnKTsK</text>
       </register>
       <register name="w" type="4">
         <text>wwb</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCBvcGVyYQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">dGVzdC5zZXJpYWwoJ1Nob3VsZCBwYXJzZSBhIGMnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
