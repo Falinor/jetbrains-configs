@@ -64,11 +64,11 @@
         <mark key="." line="3" column="8" />
         <mark key="^" line="3" column="8" />
       </file>
-      <file name="$USER_HOME$/dev/brainfuck-interpreter/test/lexer.test.js" timestamp="1515603079277">
-        <mark key="[" line="12" column="32" />
-        <mark key="]" line="12" column="30" />
-        <mark key="." line="12" column="30" />
-        <mark key="^" line="12" column="30" />
+      <file name="$USER_HOME$/dev/brainfuck-interpreter/test/lexer.test.js" timestamp="1515664722659">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="28" column="34" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/.nycrc" timestamp="1511275911756">
         <mark key="'" line="22" column="0" />
@@ -112,12 +112,12 @@
         <mark key="." line="11" column="25" />
         <mark key="^" line="9" column="85" />
       </file>
-      <file name="$USER_HOME$/dev/brainfuck-interpreter/src/lexer.js" timestamp="1515604145043">
-        <mark key="'" line="2" column="10" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
-        <mark key="^" line="0" column="9" />
+      <file name="$USER_HOME$/dev/brainfuck-interpreter/src/lexer.js" timestamp="1515664214243">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="8" column="10" />
+        <mark key="]" line="8" column="10" />
+        <mark key="." line="8" column="10" />
+        <mark key="^" line="8" column="10" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/test/assets/equipment.yaml" timestamp="1514995983557">
         <mark key="[" line="11" column="0" />
@@ -330,12 +330,12 @@
         <mark key="]" line="6" column="2" />
         <mark key="." line="6" column="2" />
       </file>
-      <file name="$USER_HOME$/dev/brainfuck-interpreter/src/ast.js" timestamp="1515604424618">
-        <mark key="'" line="11" column="24" />
-        <mark key="[" line="6" column="39" />
-        <mark key="]" line="6" column="44" />
-        <mark key="^" line="6" column="44" />
-        <mark key="." line="6" column="44" />
+      <file name="$USER_HOME$/dev/brainfuck-interpreter/src/ast.js" timestamp="1515663781830">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="5" column="4" />
+        <mark key="." line="5" column="4" />
+        <mark key="^" line="5" column="4" />
       </file>
       <file name="$USER_HOME$/dev/brainfuck-interpreter/package.json" timestamp="1515586488300">
         <mark key="'" line="13" column="10" />
@@ -520,7 +520,7 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/brainfuck-interpreter/src/parser.js" timestamp="1515604234647">
+      <file name="$USER_HOME$/dev/brainfuck-interpreter/src/parser.js" timestamp="1515663259969">
         <mark key="'" line="12" column="16" />
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -697,6 +697,13 @@
       <file name="/Dummy.txt" timestamp="1515169694455">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/brainfuck-interpreter/test/ast.test.js" timestamp="1515663898736">
+        <mark key="'" line="1" column="25" />
+        <mark key="[" line="13" column="23" />
+        <mark key="]" line="13" column="23" />
+        <mark key="." line="13" column="23" />
+        <mark key="^" line="13" column="23" />
+      </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/middlewares/mail.js" timestamp="1514899068823">
         <mark key="'" line="11" column="22" />
         <mark key="[" line="8" column="13" />
@@ -816,12 +823,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="0" filename="$USER_HOME$/dev/part-edge/client/src/components/UserForm.vue" />
-      <jump line="12" column="1" filename="$USER_HOME$/dev/part-edge/client/src/components/UserForm.vue" />
-      <jump line="44" column="3" filename="$USER_HOME$/dev/part-edge/client/src/components/UserForm.vue" />
-      <jump line="109" column="4" filename="$USER_HOME$/dev/part-edge/client/src/components/UserForm.vue" />
-      <jump line="128" column="5" filename="$USER_HOME$/dev/part-edge/client/src/components/UserForm.vue" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/client/src/components/UserForm.vue" />
       <jump line="117" column="7" filename="$USER_HOME$/dev/part-edge/client/src/components/UserForm.vue" />
       <jump line="100" column="2" filename="$USER_HOME$/dev/part-edge/client/src/components/UserForm.vue" />
       <jump line="113" column="6" filename="$USER_HOME$/dev/part-edge/client/src/components/UserForm.vue" />
@@ -899,7 +900,6 @@
       <jump line="0" column="26" filename="$USER_HOME$/dev/brainfuck-interpreter/src/interpreter.js" />
       <jump line="2" column="1" filename="$USER_HOME$/dev/brainfuck-interpreter/src/interpreter.js" />
       <jump line="10" column="10" filename="$USER_HOME$/dev/brainfuck-interpreter/src/lexer.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/brainfuck-interpreter/src/lexer.js" />
       <jump line="9" column="0" filename="$USER_HOME$/dev/brainfuck-interpreter/src/lexer.js" />
       <jump line="3" column="3" filename="$USER_HOME$/dev/brainfuck-interpreter/src/parser.js" />
       <jump line="5" column="1" filename="$USER_HOME$/dev/brainfuck-interpreter/src/parser.js" />
@@ -916,6 +916,13 @@
       <jump line="6" column="24" filename="$USER_HOME$/dev/brainfuck-interpreter/src/ast.js" />
       <jump line="12" column="52" filename="$USER_HOME$/dev/brainfuck-interpreter/test/parser.test.js" />
       <jump line="3" column="0" filename="$USER_HOME$/dev/brainfuck-interpreter/test/parser.test.js" />
+      <jump line="3" column="1" filename="$USER_HOME$/dev/brainfuck-interpreter/test/ast.test.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/dev/brainfuck-interpreter/src/ast.js" />
+      <jump line="5" column="25" filename="$USER_HOME$/dev/brainfuck-interpreter/test/ast.test.js" />
+      <jump line="12" column="4" filename="$USER_HOME$/dev/brainfuck-interpreter/test/ast.test.js" />
+      <jump line="1" column="25" filename="$USER_HOME$/dev/brainfuck-interpreter/test/ast.test.js" />
+      <jump line="8" column="10" filename="$USER_HOME$/dev/brainfuck-interpreter/src/lexer.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/brainfuck-interpreter/src/lexer.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -925,8 +932,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cGFyc2Ug</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhd2FpdCBsZXhlci5sZXgoKSk7ZGQK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2450,7 +2457,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cGFyc2Ug</text>
+        <text encoding="base64">d2FzIA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2465,43 +2472,40 @@
         <text encoding="base64">ICBjb25zdCB7IHN0YXRlIH0gPSB0LmNvbnRleHQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhd2FpdCBsZXhlci5sZXgoKSk7ZGQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CnRlc3QuYmVmb3JlRWFjaCgnQ3JlYXRlIGNvbnRleHQnLCBhc3luYyAodCkgPT4gewogIHQuY29udGV4dCA9IHsKICAgIHN0YXRlOiB7CiAgICAgIGJ1ZmZlcjogQnVmZmVyLmFsbG9jKDEwKSwKICAgICAgcG9pbnRlcjogMCwKICAgIH0sCiAgfTsKfSk7</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBjb25zdCB0b2sK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>const { state } = t.context;
-  const action = await parse('+');
-  await action(state);
-  t.is(state.buffer[state.pointer], 0x01);</text>
+      <register name="4" type="2">
+        <text encoding="base64">dGVzdCgnU2hvdWxkIHJldHVybiBhbiBlbXB0eSBhcnInKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CnRlc3QudG9kbygnU2hvdWxkIHBhcnNlICI+IiBhbmQgZXhlY3V0ZSBhIE1PVkVfUklHSFQgb3BlcmF0aW9uJyk7Cg==</text>
+        <text encoding="base64">ICB0LmRlZXBFcXVhbCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KTsK</text>
+        <text encoding="base64">ICBjb25zdCBzdHIgPSAnJzsK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CnRlc3QoJ1Nob3VsZCBwYXJzZSAiLSIgYW5kIGV4ZWN1dGUgYSBERUNSRU1FTlQgb3BlcmF0aW9uJywgYXN5bmMgKHQpID0+IHsKICBjb25zdCB7IHN0YXRlIH0gPSB0LmNvbnRleHQ7CiAgc3RhdGUuYnVmZmVyW3N0YXRlLnBvaW50ZXJdID0gMHgwMTsKICB0LmlzKHN0YXRlLmJ1ZmZlcltzdGF0ZS5wb2ludGVyXSwgMHgwMSk7CiAgY29uc3QgYWN0aW9uID0gYXdhaXQgcGFyc2UoJy0nKTsKICBhd2FpdCBhY3Rpb24oc3RhdGUpOwogIHQuaXMoc3RhdGUuYnVmZmVyW3N0YXRlLnBvaW50ZXJdLCAweDAwKTsKfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICB0LnRydWUoQXJyYXkuaXNBcnJheSh0b2tlbnMpKTsKICB0LmlzKHRva2Vucy5sZW5ndGgsIDYpOwo=</text>
       </register>
       <register name="w" type="4">
         <text>wwb</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dGVzdCgnU2hvdWxkIHBhcnNlICIrIiBleGVjdXRlIGFuIElOQ1JFTUVOVCBvcGVyYXRpb24nLCBhc3luYyAodCkgPT4gewo=</text>
+        <text encoding="base64">ICB0LmlzKHRva2Vucy5sZW5ndGgsIDgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y3JlYXRlQ29tbWFuZHMK</text>
+        <text encoding="base64">ICB0LnRydWUoQXJyYXkuaXNBcnJheSh0b2tlbnMpKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -2555,8 +2559,8 @@
         <entry encoding="base64">JzwsJz5zL2NvbW1hbmQvYWN0aW9uL2c=</entry>
         <entry>W</entry>
         <entry>qall</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
