@@ -2741,12 +2741,12 @@
         <mark key="." line="10" column="33" />
         <mark key="^" line="10" column="33" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/test/unit/interfaces/http/player/controller.test.js" timestamp="1515656912831">
-        <mark key="'" line="3" column="25" />
-        <mark key="[" line="24" column="21" />
-        <mark key="]" line="25" column="36" />
-        <mark key="^" line="25" column="36" />
-        <mark key="." line="25" column="36" />
+      <file name="$USER_HOME$/Dev/baby-foot/api/test/unit/interfaces/http/player/controller.test.js" timestamp="1515746939153">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="9" column="56" />
+        <mark key="]" line="10" column="33" />
+        <mark key="^" line="10" column="33" />
+        <mark key="." line="10" column="33" />
       </file>
       <file name="$USER_HOME$/Dev/MusicUs/src/client/src/app/+sound-board/index.ts" timestamp="1464103850442">
         <mark key="[" line="0" column="28" />
@@ -4774,8 +4774,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="17" filename="$USER_HOME$/dev/part-edge/api/src/components/responses/index.test.js" />
-      <jump line="29" column="0" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.test.js" />
       <jump line="48" column="3" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.test.js" />
       <jump line="34" column="3" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.test.js" />
       <jump line="60" column="24" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.test.js" />
@@ -4874,6 +4872,8 @@
       <jump line="2" column="6" filename="$USER_HOME$/Dev/baby-foot/api/test/unit/interfaces/http/player/controller.test.js" />
       <jump line="10" column="40" filename="$USER_HOME$/Dev/baby-foot/api/test/unit/interfaces/http/player/controller.test.js" />
       <jump line="3" column="25" filename="$USER_HOME$/Dev/baby-foot/api/test/unit/interfaces/http/player/controller.test.js" />
+      <jump line="9" column="37" filename="$USER_HOME$/Dev/baby-foot/api/test/unit/interfaces/http/player/controller.test.js" />
+      <jump line="26" column="0" filename="$USER_HOME$/Dev/baby-foot/api/test/unit/interfaces/http/player/controller.test.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4883,8 +4883,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>this</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb25zdCBnZXRQbGF5ZXIK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -6408,7 +6408,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text encoding="base64">Jywg</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -6423,37 +6423,37 @@
         <text encoding="base64">ICAgICJ0ZXN0OmFwaSI6ICJucG0gdGVzdCAtLSBcInNyYy8qKi9pbmRleC5lMmUuanNcIiIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB0LmlzCg==</text>
+        <text encoding="base64">ICBjb25zdCBnZXRQbGF5ZXIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEVSUk9SOiAnZXInCg==</text>
+        <text encoding="base64">dGVzdC50b2RvKCdTaG91bGQgc2hvdyBhIHBsYXllclwncyBkZXRhaWxzJyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhjdHgsIGdldFBsYXllclVzZUNhc2UpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCAK</text>
+        <text encoding="base64">ICB0LmlzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dGVzdC5iZWZvcmVFYWNoKCdDcmVhdGUgY29udGV4dCcsIGFzeW5jICh0KSA9PiB7Cgo=</text>
+        <text encoding="base64">ICAgIEVSUk9SOiAnZXInCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB0LmNvbnRleHQgPSB7Cn0pOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGN0eDoge30sCiAgfTsK</text>
+        <text encoding="base64">ICBjb25zdCAK</text>
       </register>
       <register name="w" type="4">
         <text>wwb</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgc3RhdHVzOiAK</text>
+        <text encoding="base64">dGVzdC5iZWZvcmVFYWNoKCdDcmVhdGUgY29udGV4dCcsIGFzeW5jICh0KSA9PiB7Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBnZXRQbGF5ZXJVc2VDYXNlLmVtaXQoKQo=</text>
+        <text encoding="base64">ICB0LmNvbnRleHQgPSB7Cn0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
