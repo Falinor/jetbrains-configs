@@ -562,12 +562,11 @@
         <mark key="^" line="41" column="58" />
         <mark key="." line="41" column="58" />
       </file>
-      <file name="$USER_HOME$/dev/brainfuck-interpreter/src/parser.js" timestamp="1516025508952">
+      <file name="$USER_HOME$/dev/brainfuck-interpreter/src/parser.js" timestamp="1516029154622">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="29" column="27" />
-        <mark key="]" line="30" column="3" />
-        <mark key="." line="30" column="3" />
-        <mark key="^" line="30" column="3" />
+        <mark key="[" line="31" column="26" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/dev/brainfuck-interpreter/src/commands/index.js" timestamp="1515690572388">
         <mark key="[" line="3" column="0" />
@@ -978,7 +977,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgcmVkdWNlcihsb29wLmNvbW1hbmRzLmNvbW1hbmRMaXN0LCAwKTsK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2502,7 +2501,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>command</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2517,37 +2516,37 @@
         <text encoding="base64">ICBjb25zdCB7IHN0YXRlIH0gPSB0LmNvbnRleHQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgcmVkdWNlcihsb29wLmNvbW1hbmRzLmNvbW1hbmRMaXN0LCAwKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB0LmlzKGFzdC5oZWFkLmNvbW1hbmRMaXN0WzNdLmxlbmd0aCwgKQo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgY29tbWFuZHM9IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB0LmlzKGFzdC5oZWFkLmNvbW1hbmRMaXN0KQo=</text>
+        <text encoding="base64">ICAgIHRva2VuLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB0LmlzKHR5cGVvZiBhc3QuaGVhZC5pbnRlcnByZXQsICdmdW5jdGlvbicpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVkdWNlcihjb21tYW5kcywgaW5kZXggKyAxKTsK</text>
+        <text encoding="base64">ICB0LmlzKGFzdC5oZWFkLmNvbW1hbmRMaXN0WzNdLmxlbmd0aCwgKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb29wcysrOwo=</text>
+        <text encoding="base64">ICB0LmlzKGFzdC5oZWFkLmNvbW1hbmRMaXN0KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY29tbWFuZHMudG9TdHJpbmcoKTsK</text>
+        <text encoding="base64">ICB0LmlzKHR5cGVvZiBhc3QuaGVhZC5pbnRlcnByZXQsICdmdW5jdGlvbicpOwo=</text>
       </register>
       <register name="w" type="4">
         <text>wwb</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhsb29wLmNvbW1hbmRzLmNvbW1hbmRMaXN0KTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVkdWNlcihjb21tYW5kcywgaW5kZXggKyAxKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygndGVzdCcsIGxvb3BzKTsK</text>
+        <text encoding="base64">ICAgICAgICBsb29wcysrOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
