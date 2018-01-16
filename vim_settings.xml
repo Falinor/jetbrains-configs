@@ -99,6 +99,13 @@
         <mark key="." line="5" column="39" />
         <mark key="^" line="5" column="39" />
       </file>
+      <file name="$USER_HOME$/dev/brainfuck-interpreter/test/commands/commands.test.js" timestamp="1516096782851">
+        <mark key="'" line="40" column="10" />
+        <mark key="[" line="32" column="31" />
+        <mark key="]" line="32" column="41" />
+        <mark key="^" line="32" column="41" />
+        <mark key="." line="32" column="41" />
+      </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/index.js" timestamp="1515171661540">
         <mark key="'" line="7" column="56" />
         <mark key="[" line="32" column="19" />
@@ -577,6 +584,13 @@
         <mark key="." line="5" column="7" />
         <mark key="^" line="5" column="7" />
       </file>
+      <file name="$USER_HOME$/dev/brainfuck-interpreter/test/commands/index.test.js" timestamp="1516096898771">
+        <mark key="'" line="10" column="12" />
+        <mark key="[" line="21" column="14" />
+        <mark key="]" line="21" column="23" />
+        <mark key="^" line="21" column="23" />
+        <mark key="." line="21" column="23" />
+      </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/repository.js" timestamp="1513614037969">
         <mark key="'" line="12" column="20" />
         <mark key="[" line="17" column="0" />
@@ -697,12 +711,12 @@
         <mark key="." line="21" column="22" />
         <mark key="^" line="21" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/brainfuck-interpreter/test/commands/command.test.js" timestamp="1516095158786">
-        <mark key="'" line="3" column="22" />
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="^" line="72" column="26" />
-        <mark key="." line="71" column="0" />
+      <file name="$USER_HOME$/dev/brainfuck-interpreter/test/commands/command.test.js" timestamp="1516096200461">
+        <mark key="'" line="68" column="35" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="^" line="79" column="0" />
+        <mark key="." line="79" column="0" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/store/modules/auth.spec.js" timestamp="1513002249933">
         <mark key="'" line="54" column="0" />
@@ -754,6 +768,12 @@
         <mark key="]" line="17" column="2" />
         <mark key="." line="17" column="2" />
         <mark key="^" line="17" column="2" />
+      </file>
+      <file name="$USER_HOME$/dev/brainfuck-interpreter/test/commands/loop.test.js" timestamp="1516097000089">
+        <mark key="[" line="7" column="3" />
+        <mark key="]" line="6" column="46" />
+        <mark key="^" line="6" column="46" />
+        <mark key="." line="6" column="46" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/middlewares/mail.js" timestamp="1514899068823">
         <mark key="'" line="11" column="22" />
@@ -863,16 +883,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="2" filename="$USER_HOME$/dev/brainfuck-interpreter/test/index.test.js" />
-      <jump line="27" column="3" filename="$USER_HOME$/dev/brainfuck-interpreter/test/parse.test.js" />
-      <jump line="6" column="15" filename="$USER_HOME$/dev/brainfuck-interpreter/test/parse.test.js" />
-      <jump line="0" column="26" filename="$USER_HOME$/dev/brainfuck-interpreter/src/interpreter.js" />
-      <jump line="10" column="10" filename="$USER_HOME$/dev/brainfuck-interpreter/src/lexer.js" />
-      <jump line="9" column="0" filename="$USER_HOME$/dev/brainfuck-interpreter/src/lexer.js" />
-      <jump line="3" column="3" filename="$USER_HOME$/dev/brainfuck-interpreter/src/parser.js" />
-      <jump line="5" column="1" filename="$USER_HOME$/dev/brainfuck-interpreter/src/parser.js" />
-      <jump line="2" column="11" filename="$USER_HOME$/dev/brainfuck-interpreter/src/lexer.js" />
-      <jump line="7" column="11" filename="$USER_HOME$/dev/brainfuck-interpreter/src/lexer.js" />
       <jump line="5" column="44" filename="$USER_HOME$/dev/brainfuck-interpreter/src/lexer.js" />
       <jump line="3" column="1" filename="$USER_HOME$/dev/brainfuck-interpreter/src/lexer.js" />
       <jump line="4" column="10" filename="$USER_HOME$/dev/brainfuck-interpreter/src/lexer.js" />
@@ -963,6 +973,16 @@
       <jump line="283" column="68" filename="$USER_HOME$/dev/brainfuck-interpreter/dist/index.js" />
       <jump line="3" column="22" filename="$USER_HOME$/dev/brainfuck-interpreter/test/commands/command.test.js" />
       <jump line="57" column="3" filename="$USER_HOME$/dev/brainfuck-interpreter/.gitignore" />
+      <jump line="68" column="35" filename="$USER_HOME$/dev/brainfuck-interpreter/test/commands/command.test.js" />
+      <jump line="4" column="67" filename="$USER_HOME$/dev/brainfuck-interpreter/test/commands/commands.test.js" />
+      <jump line="11" column="31" filename="$USER_HOME$/dev/brainfuck-interpreter/test/commands/commands.test.js" />
+      <jump line="1" column="25" filename="$USER_HOME$/dev/brainfuck-interpreter/test/commands/commands.test.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/brainfuck-interpreter/test/commands/commands.test.js" />
+      <jump line="18" column="41" filename="$USER_HOME$/dev/brainfuck-interpreter/test/commands/commands.test.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/dev/brainfuck-interpreter/test/commands/commands.test.js" />
+      <jump line="32" column="41" filename="$USER_HOME$/dev/brainfuck-interpreter/test/commands/commands.test.js" />
+      <jump line="40" column="10" filename="$USER_HOME$/dev/brainfuck-interpreter/test/commands/commands.test.js" />
+      <jump line="10" column="12" filename="$USER_HOME$/dev/brainfuck-interpreter/test/commands/index.test.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -973,64 +993,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text># Logs
-logs
-*.log
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# Runtime data
-pids
-*.pid
-*.seed
-*.pid.lock
-
-# Directory for instrumented libs generated by jscoverage/JSCover
-lib-cov
-
-# Coverage directory used by tools like istanbul
-coverage
-
-# nyc test coverage
-.nyc_output
-
-# Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
-.grunt
-
-# Bower dependency directory (https://bower.io/)
-bower_components
-
-# node-waf configuration
-.lock-wscript
-
-# Compiled binary addons (http://nodejs.org/api/addons.html)
-build/Release
-
-# Dependency directories
-node_modules/
-jspm_packages/
-
-# Typescript v1 declaration files
-typings/
-
-# Optional npm cache directory
-.npm
-
-# Optional eslint cache
-.eslintcache
-
-# Optional REPL history
-.node_repl_history
-
-# Output of 'npm pack'
-*.tgz
-
-# Yarn Integrity file
-.yarn-integrity
-
-# dotenv environment variables file
-.env</text>
+        <text>42</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2554,7 +2517,7 @@ typings/
         </keys>
       </register>
       <register name="-" type="4">
-        <text>calledLOnce</text>
+        <text>42</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2565,123 +2528,45 @@ typings/
       <register name="/" type="4">
         <text>map</text>
       </register>
-      <register name="0" type="4">
-        <text>switch (token) {
-      case operations.INCR_OP:
-      case operations.DECR_OP:
-      case operations.MOVE_LEFT:
-      case operations.MOVE_RIGHT:
-      case operations.PRINT:
-        const command = createCommand(token);
-        commands.commandList.push(command);
-        break;
-      case operations.START_LOOP:
-        const loop = createLoop(createCommands());
-        commands.commandList.push(loop);
-        stack.push(commands);
-        commands = loop.commands;
-        break;
-      case operations.END_LOOP:
-        commands = stack.pop();
-        if (!commands) {
-          const error = new Error('Missing open loop');
-          error.name = 'ParseError';
-          throw error;
-        }
-        return;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICB0LmlzKHR5cGVvZiBwcmludCwgJ2Z1bmN0aW9uJyk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text># Logs
-logs
-*.log
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# Runtime data
-pids
-*.pid
-*.seed
-*.pid.lock
-
-# Directory for instrumented libs generated by jscoverage/JSCover
-lib-cov
-
-# Coverage directory used by tools like istanbul
-coverage
-
-# nyc test coverage
-.nyc_output
-
-# Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
-.grunt
-
-# Bower dependency directory (https://bower.io/)
-bower_components
-
-# node-waf configuration
-.lock-wscript
-
-# Compiled binary addons (http://nodejs.org/api/addons.html)
-build/Release
-
-# Dependency directories
-node_modules/
-jspm_packages/
-
-# Typescript v1 declaration files
-typings/
-
-# Optional npm cache directory
-.npm
-
-# Optional eslint cache
-.eslintcache
-
-# Optional REPL history
-.node_repl_history
-
-# Output of 'npm pack'
-*.tgz
-
-# Yarn Integrity file
-.yarn-integrity
-
-# dotenv environment variables file
-.env</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBTaG91bGQgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdGF0ZSk7Cg==</text>
+        <text encoding="base64">ICBqO2xqago=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB0LnRydWUoc3B5LmNhbGxlZE9uY2UpOwo=</text>
+        <text encoding="base64">ICBqO2xqago=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCBzcHkgPSBzaW5vbi5zcHkoaW5jcmVtZW50KTsK</text>
+        <text encoding="base64">ICBhd2FpdCB0Lm5vdFRocm93cyhjb21tYW5kcy5pbnRlcnByZXQoKSk7CiAgdC50cnVlKGludGVycHJldC5jYWxsZWRUd2ljZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzcHkucmVzZXQoKTsK</text>
+        <text encoding="base64">ICBhd2FpdCB0Lm5vdFRocm93cyhjb21tYW5kcy5pbnRlcnByZXQoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB0LnRydWUoc3B5LmNhbGxlZFdpdGhFeGFjdGx5KHN0YXRlKSkK</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBzcHkuY2FsbGVkOwo=</text>
+      <register name="7" type="4">
+        <text>await t.notThrows(commands.interpret());
+  t.true(interpret.calledTwice);</text>
       </register>
       <register name="w" type="4">
         <text>wwb</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICB0LmRlZXBFcXVhbChjb21tYW5kcy5jb21tYW5kTGlzdCwgY29tbWFuZExpc3QpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2732,11 +2617,11 @@ typings/
         <entry encoding="base64">JzwsJz5zL2luY3IvZGVjci9naQ==</entry>
         <entry encoding="base64">JzwsJz5zL3JpZ2h0L2xlZnQvZ2k=</entry>
         <entry>Wq</entry>
+        <entry>qall</entry>
         <entry>q</entry>
         <entry>W</entry>
-        <entry>qall</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
