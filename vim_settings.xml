@@ -90,11 +90,11 @@
         <mark key="." line="11" column="30" />
         <mark key="^" line="11" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/router/main.js" timestamp="1516118841999">
+      <file name="$USER_HOME$/dev/part-edge/client/src/router/main.js" timestamp="1516120695879">
         <mark key="'" line="38" column="63" />
-        <mark key="[" line="51" column="7" />
-        <mark key="]" line="32" column="36" />
-        <mark key="." line="32" column="36" />
+        <mark key="[" line="32" column="6" />
+        <mark key="]" line="32" column="6" />
+        <mark key="." line="32" column="6" />
         <mark key="^" line="32" column="36" />
       </file>
       <file name="$USER_HOME$/dev/brainfuck-interpreter/src/commands/increment.js" timestamp="1515667700511">
@@ -213,12 +213,12 @@
         <mark key="." line="14" column="34" />
         <mark key="^" line="14" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/services/auth.js" timestamp="1516113958463">
+      <file name="$USER_HOME$/dev/part-edge/client/src/services/auth.js" timestamp="1516121256966">
         <mark key="'" line="10" column="1" />
-        <mark key="[" line="35" column="13" />
-        <mark key="]" line="35" column="11" />
-        <mark key="." line="35" column="11" />
-        <mark key="^" line="21" column="1" />
+        <mark key="[" line="31" column="52" />
+        <mark key="]" line="32" column="26" />
+        <mark key="." line="32" column="26" />
+        <mark key="^" line="32" column="26" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/Error404.spec.js" timestamp="1513178759555">
         <mark key="'" line="24" column="27" />
@@ -1050,7 +1050,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2574,7 +2574,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>ENV</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2589,40 +2589,40 @@
         <text encoding="base64">ICAgICAgYmVmb3JlRW50ZXI6IGF1dGhHdWFyZCwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEVOQUJMRV9BVVRIOiB0cnVlCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwcm9jZXNzLmVudik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhERVYpOwogIGNvbnNvbGUubG9nKFBST0QpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0sCiAgICAgIAo=</text>
+        <text encoding="base64">ICBpZiAocHJvY2Vzcy5lbnYgPT09ICdkZXYnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgKCdvcmRlcnMvc3RhdHVzLW9yZGVyJykgfSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHsKICAgIH0sCg==</text>
+        <text encoding="base64">ICAgIEVOQUJMRV9BVVRIOiB0cnVlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcGF0aDogJy9wcm90ZWN0ZWQnLAogICAgICBjb21wb25lbnQ6IGxvYWQoJ0hvbWUnKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>wwb</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYmVmb3JlRW50ZXI6IGF1dGhHdWFyZCwK</text>
+        <text encoding="base64">ICAgIH0sCiAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAiZGVwZW5kZW5jaWVzIjogewo=</text>
+        <text encoding="base64">ICAgICAgKCdvcmRlcnMvc3RhdHVzLW9yZGVyJykgfSwK</text>
       </register>
       <register name=":" type="4">
-        <text>qall</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2675,9 +2675,9 @@
         <entry>Wq</entry>
         <entry>W</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
         <entry>qall</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
