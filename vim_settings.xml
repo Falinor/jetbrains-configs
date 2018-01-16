@@ -1378,11 +1378,11 @@
         <mark key="." line="9" column="4" />
         <mark key="^" line="9" column="3" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/test/unit/interfaces/http/player/index.test.js" timestamp="1516087063174">
-        <mark key="[" line="6" column="29" />
-        <mark key="]" line="6" column="13" />
-        <mark key="^" line="6" column="13" />
-        <mark key="." line="6" column="13" />
+      <file name="$USER_HOME$/Dev/baby-foot/api/test/unit/interfaces/http/player/index.test.js" timestamp="1516088612819">
+        <mark key="[" line="7" column="29" />
+        <mark key="]" line="7" column="29" />
+        <mark key="^" line="7" column="29" />
+        <mark key="." line="7" column="29" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/services/equipment.spec.js" timestamp="1512986058120">
         <mark key="[" line="9" column="9" />
@@ -3682,11 +3682,11 @@
         <mark key="." line="11" column="25" />
         <mark key="^" line="9" column="85" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/src/interfaces/http/player/index.js" timestamp="1516087242934">
-        <mark key="'" line="3" column="29" />
-        <mark key="[" line="3" column="30" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/interfaces/http/player/index.js" timestamp="1516088827329">
+        <mark key="'" line="4" column="29" />
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="29" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/web-of-things/wot-dashboard/front/src/app/auth/shared/user.model.ts" timestamp="1491405325463">
         <mark key="[" line="2" column="18" />
@@ -4453,12 +4453,12 @@
         <mark key="." line="11" column="4" />
         <mark key="^" line="11" column="4" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/test/unit/infra/player/repository.test.js" timestamp="1515752725981">
-        <mark key="'" line="5" column="30" />
-        <mark key="[" line="0" column="23" />
-        <mark key="]" line="1" column="25" />
-        <mark key="^" line="1" column="25" />
-        <mark key="." line="1" column="25" />
+      <file name="$USER_HOME$/Dev/baby-foot/api/test/unit/infra/player/repository.test.js" timestamp="1516088443338">
+        <mark key="'" line="3" column="69" />
+        <mark key="[" line="3" column="27" />
+        <mark key="]" line="3" column="22" />
+        <mark key="^" line="3" column="22" />
+        <mark key="." line="3" column="22" />
       </file>
       <file name="$USER_HOME$/Dev/web-of-things/iot-poc-broker/src/services/device/index.js" timestamp="1499328384234">
         <mark key="[" line="5" column="14" />
@@ -4844,7 +4844,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="20" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/repository.js" />
       <jump line="7" column="36" filename="$USER_HOME$/dev/part-edge/api/src/routes/index.js" />
       <jump line="11" column="15" filename="$USER_HOME$/dev/part-edge/api/src/components/express/index.js" />
       <jump line="17" column="7" filename="$USER_HOME$/dev/part-edge/api/src/index.js" />
@@ -4944,6 +4943,7 @@
       <jump line="64" column="2" filename="$USER_HOME$/Dev/baby-foot/api/README.md" />
       <jump line="42" column="5" filename="$USER_HOME$/Dev/baby-foot/api/test/data.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Dev/baby-foot/api/test/data.js" />
+      <jump line="3" column="69" filename="$USER_HOME$/Dev/baby-foot/api/test/unit/infra/player/repository.test.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4953,8 +4953,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>w</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHsgfSBmcm9tICdhd2lsaXgta29hJzsK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -6478,7 +6478,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>w</text>
+        <text>router</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -6493,40 +6493,40 @@
         <text encoding="base64">ICAgIHQuaXMobWF0Y2gucmVkLnBsYXllcnMubGVuZ3RoLCAyKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">aW1wb3J0IHsgfSBmcm9tICdhd2lsaXgta29hJzsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cGxheWVyLgo=</text>
+        <text encoding="base64">ICBmaW5kLAogIGZpbmRCeUlkLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBuZXcgUmVnRXhwKCcnKQo=</text>
+        <text encoding="base64">ICB0LmlzKHR5cGVvZiByb3V0ZXIuKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB0LmlzKHR5cGVvZiByZXMuaGVhZGVycy4sICkK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyb3V0ZXIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB0Lgo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyb3V0ZXIuc3RhY2spOwogIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dGVzdCgnUE9TVCAvbWF0Y2hlcyAtPiAyMDEgQ3JlYXRlZCcsIGFzeW5jICh0KSA9PiB7Cg==</text>
+        <text encoding="base64">ICAgIGN0eC5zdGF0dXMgPSA1MDE7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dGVzdCgnUE9TVCAvbWF0Y2hlcyAtPiAyMDEgQ3JlYXRlZCcsIGFzeW5jICh0KSA9PiB7Cg==</text>
+        <text encoding="base64">ICAgIGN0eC50aHJvdygpCg==</text>
       </register>
       <register name="w" type="4">
         <text>wwb</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dGVzdCgnUE9TVCAvbWF0Y2hlcyAtPiAyMDEgQ3JlYXRlZCcsIGFzeW5jICh0KSA9PiB7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dGVzdCgnUE9TVCAvbWF0Y2hlcyAtPiAyMDEgQ3JlYXRlZCcsIGFzeW5jICh0KSA9PiB7Cg==</text>
+        <text encoding="base64">cGxheWVyLgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -6580,8 +6580,8 @@
         <entry>w]</entry>
         <entry>q</entry>
         <entry>Wq</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
