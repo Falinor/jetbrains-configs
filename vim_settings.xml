@@ -255,12 +255,12 @@
         <mark key="." line="14" column="34" />
         <mark key="^" line="14" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/services/auth.js" timestamp="1516209882040">
+      <file name="$USER_HOME$/dev/part-edge/client/src/services/auth.js" timestamp="1516272239313">
         <mark key="'" line="10" column="1" />
-        <mark key="[" line="38" column="18" />
-        <mark key="]" line="39" column="44" />
-        <mark key="." line="39" column="44" />
-        <mark key="^" line="39" column="44" />
+        <mark key="[" line="19" column="34" />
+        <mark key="]" line="19" column="34" />
+        <mark key="." line="19" column="34" />
+        <mark key="^" line="20" column="19" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/Error404.spec.js" timestamp="1513178759555">
         <mark key="'" line="24" column="27" />
@@ -601,11 +601,11 @@
         <mark key="^" line="16" column="38" />
         <mark key="." line="16" column="38" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/store/modules/auth.js" timestamp="1516270951755">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/dev/part-edge/client/src/store/modules/auth.js" timestamp="1516271612719">
+        <mark key="[" line="6" column="14" />
+        <mark key="]" line="6" column="33" />
+        <mark key="^" line="6" column="33" />
+        <mark key="." line="6" column="33" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/importer/migrations/20171201165446_create-old-equipments.js" timestamp="1512144734640">
         <mark key="'" line="1" column="46" />
@@ -1216,8 +1216,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBNU19FTkRQT0lOVAo=</text>
+      <register name="&quot;" type="4">
+        <text>accessToken</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2741,7 +2741,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b2F1dGgyL3YyLjAvYXV0aG9yaXplP2NsaWVudF9pZD02YWI0ODhmMS1iY2E3LTRkZWQtYjJmNy05NjhjYTMxNTJmMTQmcmVzcG9uc2VfdHlwZT1pZF90b2tlbit0b2tlbiZyZWRpcmVjdF91cmk9aHR0cHMlM0ElMkYlMkZjbGllbnQtcGFydGVkZ2UtcHJvZC5hcHBzLmRldi5jZi50aGFsZXNkaWdpdGFsLmlvJTJGYXV0aCUyRmNhbGxiYWNrJnJlc3BvbnNlX21vZGU9ZnJhZ21lbnQmc2NvcGU9b3BlbmlkK3VzZXIucmVhZCtwcm9maWxlJnN0YXRlPTQ1NDUmbm9uY2U9NTY1Ng==</text>
+        <text>accessToken</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2756,37 +2756,37 @@
         <text encoding="base64">ICBSRURJUl9VUkk6ICciaHR0cHM6Ly9jbGllbnQtcGFydGVkZ2UtcHJvZC5hcHBzLmRldi5jZi50aGFsZXNkaWdpdGFsLmlvL2F1dGgvY2FsbGJhY2siJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBNU19FTkRQT0lOVAo=</text>
+        <text encoding="base64">ICAgIGhlYWRlcnM6IHsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CnByb2Nlc3MuZW52Lk5PREVfRU5WCg==</text>
+        <text encoding="base64">ICAgICAgQXV0aG9yaXphdGlvbjogYEJlYXJlciAke2FjY2Vzc1Rva2VufWAsCiAgICB9LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICdNU19FTkRQT0lOVCc6IHRydWUsCiAgICAnUkVESVJfVVJJJzogdHJ1ZSwK</text>
+        <text encoding="base64">ICBNU19FTkRQT0lOVAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CnByb2Nlc3MuZW52Lk5PREVfRU5WCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cocHJvY2Vzcy5lbnYpOwo=</text>
+        <text encoding="base64">ICAgICdNU19FTkRQT0lOVCc6IHRydWUsCiAgICAnUkVESVJfVVJJJzogdHJ1ZSwK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgJ01TX0VORFBPSU5UJzogcHJvY2Vzcy5lbnYuTVNfRU5EUE9JTlQsCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2cocHJvY2Vzcy5lbnYpOwo=</text>
       </register>
       <register name="w" type="4">
         <text>wwb</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgJ01TJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJNU19FTkRQT0lOVCI6IHRydWUK</text>
+        <text encoding="base64">ICAgICAgJ01TX0VORFBPSU5UJzogcHJvY2Vzcy5lbnYuTVNfRU5EUE9JTlQsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
