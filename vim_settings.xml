@@ -601,7 +601,7 @@
         <mark key="^" line="16" column="38" />
         <mark key="." line="16" column="38" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/store/modules/auth.js" timestamp="1516267087003">
+      <file name="$USER_HOME$/dev/part-edge/client/src/store/modules/auth.js" timestamp="1516270951755">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="^" line="2" column="0" />
@@ -626,11 +626,11 @@
         <mark key="." line="10" column="20" />
         <mark key="^" line="10" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/config/prod.env.js" timestamp="1516266572619">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="89" />
-        <mark key="." line="3" column="42" />
-        <mark key="^" line="3" column="42" />
+      <file name="$USER_HOME$/dev/part-edge/client/config/prod.env.js" timestamp="1516271048848">
+        <mark key="[" line="3" column="83" />
+        <mark key="]" line="3" column="87" />
+        <mark key="." line="3" column="87" />
+        <mark key="^" line="3" column="87" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/models.js" timestamp="1511546322728">
         <mark key="'" line="2" column="25" />
@@ -667,11 +667,10 @@
         <mark key="." line="13" column="40" />
         <mark key="^" line="13" column="40" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/config/dev.env.js" timestamp="1516268231466">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="7" column="19" />
+      <file name="$USER_HOME$/dev/part-edge/client/config/dev.env.js" timestamp="1516271067182">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/Validation.spec.js" timestamp="1512753689611">
         <mark key="[" line="41" column="6" />
@@ -702,9 +701,9 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/Jenkinsfile" timestamp="1516267971058">
+      <file name="$USER_HOME$/dev/part-edge/client/Jenkinsfile" timestamp="1516271073375">
         <mark key="'" line="114" column="8" />
-        <mark key="[" line="114" column="30" />
+        <mark key="[" line="114" column="31" />
         <mark key="]" line="114" column="30" />
         <mark key="." line="114" column="30" />
         <mark key="^" line="114" column="30" />
@@ -1108,7 +1107,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="22" filename="$USER_HOME$/dev/brainfuck-interpreter/test/commands/decrement.test.js" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/brainfuck-interpreter/test/commands/decrement.test.js" />
       <jump line="10" column="0" filename="$USER_HOME$/dev/brainfuck-interpreter/test/commands/decrement.test.js" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/brainfuck-interpreter/test/commands/decrement.test.js" />
@@ -1208,6 +1206,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/client/Jenkinsfile" />
       <jump line="149" column="0" filename="$USER_HOME$/dev/part-edge/client/Jenkinsfile" />
       <jump line="114" column="8" filename="$USER_HOME$/dev/part-edge/client/Jenkinsfile" />
+      <jump line="8" column="0" filename="$USER_HOME$/dev/part-edge/client/config/dev.env.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1218,7 +1217,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CnByb2Nlc3MuZW52Lk5PREVfRU5WCg==</text>
+        <text encoding="base64">ICBNU19FTkRQT0lOVAo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2742,7 +2741,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>://</text>
+        <text encoding="base64">b2F1dGgyL3YyLjAvYXV0aG9yaXplP2NsaWVudF9pZD02YWI0ODhmMS1iY2E3LTRkZWQtYjJmNy05NjhjYTMxNTJmMTQmcmVzcG9uc2VfdHlwZT1pZF90b2tlbit0b2tlbiZyZWRpcmVjdF91cmk9aHR0cHMlM0ElMkYlMkZjbGllbnQtcGFydGVkZ2UtcHJvZC5hcHBzLmRldi5jZi50aGFsZXNkaWdpdGFsLmlvJTJGYXV0aCUyRmNhbGxiYWNrJnJlc3BvbnNlX21vZGU9ZnJhZ21lbnQmc2NvcGU9b3BlbmlkK3VzZXIucmVhZCtwcm9maWxlJnN0YXRlPTQ1NDUmbm9uY2U9NTY1Ng==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2757,40 +2756,40 @@
         <text encoding="base64">ICBSRURJUl9VUkk6ICciaHR0cHM6Ly9jbGllbnQtcGFydGVkZ2UtcHJvZC5hcHBzLmRldi5jZi50aGFsZXNkaWdpdGFsLmlvL2F1dGgvY2FsbGJhY2siJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CnByb2Nlc3MuZW52Lk5PREVfRU5WCg==</text>
+        <text encoding="base64">ICBNU19FTkRQT0lOVAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICdNU19FTkRQT0lOVCc6IHRydWUsCiAgICAnUkVESVJfVVJJJzogdHJ1ZSwK</text>
+        <text encoding="base64">CnByb2Nlc3MuZW52Lk5PREVfRU5WCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICdNU19FTkRQT0lOVCc6IHRydWUsCiAgICAnUkVESVJfVVJJJzogdHJ1ZSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cocHJvY2Vzcy5lbnYpOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2cocHJvY2Vzcy5lbnYpOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgJ01TX0VORFBPSU5UJzogcHJvY2Vzcy5lbnYuTVNfRU5EUE9JTlQsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgJ01TJwo=</text>
+        <text encoding="base64">ICAgICAgJ01TX0VORFBPSU5UJzogcHJvY2Vzcy5lbnYuTVNfRU5EUE9JTlQsCg==</text>
       </register>
       <register name="w" type="4">
         <text>wwb</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJNU19FTkRQT0lOVCI6IHRydWUK</text>
+        <text encoding="base64">ICAgICAgJ01TJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICIkIjogdHJ1ZSwKICAgICJqUXVlcnkiOiB0cnVlLAo=</text>
+        <text encoding="base64">ICAgICJNU19FTkRQT0lOVCI6IHRydWUK</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2841,11 +2840,11 @@
         <entry>Wq</entry>
         <entry>W</entry>
         <entry>qall</entry>
-        <entry>w</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL0JBQkVMX0VOVjovQkFCRUxfRU5WID0vZw==</entry>
         <entry encoding="base64">JzwsJz5zL05PREVfRU5WOi9OT0RFX0VOViA9L2c=</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -2874,6 +2873,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
