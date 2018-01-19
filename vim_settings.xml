@@ -319,6 +319,13 @@
         <mark key="^" line="3" column="5" />
         <mark key="." line="3" column="5" />
       </file>
+      <file name="$USER_HOME$/Dev/baby-foot/api/test/unit/interfaces/container.test.js" timestamp="1516348078670">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="13" column="59" />
+        <mark key="]" line="13" column="57" />
+        <mark key="^" line="13" column="57" />
+        <mark key="." line="13" column="57" />
+      </file>
       <file name="$USER_HOME$/Dev/tests/angular/front/src/app/album/album-routing.module.ts" timestamp="1490606348382">
         <mark key="[" line="3" column="53" />
         <mark key="]" line="3" column="62" />
@@ -1317,7 +1324,8 @@
         <mark key="." line="95" column="34" />
         <mark key="^" line="95" column="34" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/test/unit/app/player/index.test.js" timestamp="1515751689870">
+      <file name="$USER_HOME$/Dev/baby-foot/api/test/unit/app/player/index.test.js" timestamp="1516346241158">
+        <mark key="'" line="13" column="2" />
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
@@ -1378,11 +1386,10 @@
         <mark key="." line="9" column="4" />
         <mark key="^" line="9" column="3" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/test/unit/interfaces/http/player/index.test.js" timestamp="1516088612819">
-        <mark key="[" line="7" column="29" />
-        <mark key="]" line="7" column="29" />
-        <mark key="^" line="7" column="29" />
-        <mark key="." line="7" column="29" />
+      <file name="$USER_HOME$/Dev/baby-foot/api/test/unit/interfaces/http/player/index.test.js" timestamp="1516346989812">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/services/equipment.spec.js" timestamp="1512986058120">
         <mark key="[" line="9" column="9" />
@@ -4834,10 +4841,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="1" filename="$USER_HOME$/dev/part-edge/api/src/middlewares/accept.test.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/client/src/components/EqStock.vue" />
-      <jump line="7" column="29" filename="$USER_HOME$/dev/part-edge/api/src/components/db/index.js" />
-      <jump line="16" column="66" filename="$USER_HOME$/dev/part-edge/api/src/components/responses/index.js" />
       <jump line="41" column="3" filename="$USER_HOME$/dev/part-edge/api/src/middlewares/query.js" />
       <jump line="25" column="0" filename="$USER_HOME$/dev/part-edge/api/src/middlewares/query.js" />
       <jump line="7" column="77" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/controller.js" />
@@ -4934,6 +4937,10 @@
       <jump line="4" column="20" filename="$USER_HOME$/Dev/baby-foot/api/src/container.js" />
       <jump line="5" column="1" filename="$USER_HOME$/Dev/baby-foot/api/src/container.js" />
       <jump line="6" column="63" filename="$USER_HOME$/Dev/baby-foot/api/src/container.js" />
+      <jump line="13" column="2" filename="$USER_HOME$/Dev/baby-foot/api/test/unit/app/player/index.test.js" />
+      <jump line="12" column="2" filename="$USER_HOME$/Dev/baby-foot/api/test/unit/interfaces/container.test.js" />
+      <jump line="14" column="50" filename="$USER_HOME$/Dev/baby-foot/api/test/unit/interfaces/container.test.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/Dev/baby-foot/api/test/unit/interfaces/container.test.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4943,8 +4950,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC5yZXNvbHZlKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>container</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -6468,7 +6475,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;;;;))</text>
+        <text>container</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -6480,40 +6487,40 @@
         <text encoding="base64">XDxUaGVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHQuaXMobWF0Y2gucmVkLnBsYXllcnMubGVuZ3RoLCAyKTsK</text>
+        <text encoding="base64">ICB0LmlzKHR5cGVvZiBjb250YWluZXIucmVnaXN0cmF0aW9ucy5wbGF5ZXJDb250cm9sbGVyLCAnb2JqZWN0Jyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC5yZXNvbHZlKCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgaW5qZWN0IH0gZnJvbSAnYXdpbGl4LWtvYSc7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC5yZWdpc3RlcigpCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhpbmplY3QoJ3BsYXllckNvbnRyb2xsZXInKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjcmVhdGVDb250YWluZXIoKQo=</text>
+        <text encoding="base64">dGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">TGlmZXRpbWVUeXBlLgo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhjb250YWluZXIucmVnaXN0cmF0aW9ucy5wbGF5ZXJDb250cm9sbGVyLmluamVjdCgpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">TGlmZXRpbWUuCg==</text>
+        <text encoding="base64">ICBjb250YWluZXIuaW5qZWN0KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">ICB0LmlzKHR5cGVvZiBjb250YWluZXIpCg==</text>
       </register>
       <register name="w" type="4">
         <text>wwb</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICByZXR1cm4gY29udGFpbmVyOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhjb250YWluZXIucmVnaXN0cmF0aW9ucy5wbGF5ZXJDb250cm9sbGVyKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCBjb250YWluZXIgPSBjcmVhdGVDb250YWluZXIoKTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhjb250YWluZXIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -6569,8 +6576,8 @@
         <entry encoding="base64">JzwsJz5zL2NvbXBvbmVudC92bS9n</entry>
         <entry>w]</entry>
         <entry>Wq</entry>
-        <entry>wq</entry>
         <entry>q</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
