@@ -319,12 +319,12 @@
         <mark key="^" line="3" column="5" />
         <mark key="." line="3" column="5" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/test/unit/interfaces/container.test.js" timestamp="1516472183614">
+      <file name="$USER_HOME$/Dev/baby-foot/api/test/unit/interfaces/container.test.js" timestamp="1516472897685">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="12" column="2" />
-        <mark key="]" line="13" column="2" />
-        <mark key="^" line="13" column="2" />
-        <mark key="." line="13" column="2" />
+        <mark key="[" line="18" column="2" />
+        <mark key="]" line="19" column="2" />
+        <mark key="^" line="19" column="2" />
+        <mark key="." line="19" column="2" />
       </file>
       <file name="$USER_HOME$/Dev/tests/angular/front/src/app/album/album-routing.module.ts" timestamp="1490606348382">
         <mark key="[" line="3" column="53" />
@@ -3114,12 +3114,11 @@
         <mark key="." line="1021" column="0" />
         <mark key="^" line="10" column="26" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/src/container.js" timestamp="1516472156780">
-        <mark key="'" line="8" column="44" />
-        <mark key="[" line="10" column="7" />
-        <mark key="]" line="11" column="17" />
-        <mark key="." line="11" column="17" />
-        <mark key="^" line="11" column="17" />
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/container.js" timestamp="1516472858515">
+        <mark key="'" line="14" column="34" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="63" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/web-of-things/iot-poc/api/src/services/floor/floor.test.js" timestamp="1496067342187">
         <mark key="[" line="6" column="15" />
@@ -4841,7 +4840,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="0" filename="$USER_HOME$/dev/part-edge/api/src/middlewares/query.js" />
       <jump line="7" column="77" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/controller.js" />
       <jump line="28" column="1" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.js" />
       <jump line="62" column="0" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.js" />
@@ -4941,6 +4939,7 @@
       <jump line="1" column="0" filename="$USER_HOME$/Dev/baby-foot/api/test/unit/interfaces/container.test.js" />
       <jump line="3" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/container.js" />
       <jump line="6" column="44" filename="$USER_HOME$/Dev/baby-foot/api/src/container.js" />
+      <jump line="13" column="34" filename="$USER_HOME$/Dev/baby-foot/api/src/container.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4951,7 +4950,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB0LmlzKHR5cGVvZiBwbGF5ZXJDdHJsKQo=</text>
+        <text encoding="base64">aW1wb3J0IGNyZWF0ZVBsYXllclJlcG9zaXRvcnkgZnJvbSAnLi9pbmZyYS9wbGF5ZXIvcmVwb3NpdG9yeSc7Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -6490,40 +6489,40 @@
         <text encoding="base64">ICB0LmlzKHR5cGVvZiBjb250YWluZXIucmVnaXN0cmF0aW9ucy5wbGF5ZXJDb250cm9sbGVyLCAnb2JqZWN0Jyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB0LmlzKHR5cGVvZiBwbGF5ZXJDdHJsKQo=</text>
+        <text encoding="base64">aW1wb3J0IGNyZWF0ZVBsYXllclJlcG9zaXRvcnkgZnJvbSAnLi9pbmZyYS9wbGF5ZXIvcmVwb3NpdG9yeSc7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICB0LmlzKHR5cGVvZiBwbGF5ZXJDdHJsKQo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CmV4cG9ydCBkZWZhdWx0ICgpID0+IHsKICAKfQ==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IHsgaW5qZWN0IH0gZnJvbSAnYXdpbGl4LWtvYSc7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICBjb25zb2xlLmxvZyhpbmplY3QoJ3BsYXllckNvbnRyb2xsZXInKSk7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">dGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>wwb</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhjb250YWluZXIucmVnaXN0cmF0aW9ucy5wbGF5ZXJDb250cm9sbGVyLmluamVjdCgpKTsK</text>
+        <text encoding="base64">dGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb250YWluZXIuaW5qZWN0KCkK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhjb250YWluZXIucmVnaXN0cmF0aW9ucy5wbGF5ZXJDb250cm9sbGVyLmluamVjdCgpKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -6577,8 +6576,8 @@
         <entry>w]</entry>
         <entry>Wq</entry>
         <entry>q</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
