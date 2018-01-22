@@ -87,6 +87,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/part-edge/client/src/components/orders/status-order.vue" timestamp="1516632089243">
+        <mark key="[" line="65" column="11" />
+        <mark key="]" line="66" column="0" />
+        <mark key="^" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/brainfuck-interpreter/test/lexer.test.js" timestamp="1516010902197">
         <mark key="[" line="24" column="38" />
         <mark key="]" line="24" column="37" />
@@ -587,6 +593,12 @@
         <mark key="]" line="83" column="0" />
         <mark key="." line="83" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/part-edge/client/src/components/equipments/childs/filter-equipments.vue" timestamp="1516631988847">
+        <mark key="[" line="13" column="63" />
+        <mark key="]" line="13" column="60" />
+        <mark key="." line="13" column="60" />
+        <mark key="^" line="13" column="60" />
+      </file>
       <file name="$USER_HOME$/dev/part-edge/importer/README.md" timestamp="1512147250202">
         <mark key="'" line="18" column="16" />
         <mark key="[" line="18" column="0" />
@@ -1076,11 +1088,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/components/equipments/list-equipments.vue" timestamp="1516113051082">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="232" column="34" />
-        <mark key="]" line="232" column="34" />
-        <mark key="." line="232" column="34" />
+      <file name="$USER_HOME$/dev/part-edge/client/src/components/equipments/list-equipments.vue" timestamp="1516631888220">
+        <mark key="'" line="8" column="6" />
+        <mark key="[" line="49" column="11" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+        <mark key="^" line="50" column="0" />
       </file>
       <file name="$USER_HOME$/dev/brainfuck-interpreter/src/interpreter.js" timestamp="1516038054152">
         <mark key="'" line="5" column="6" />
@@ -1154,11 +1167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="16" filename="$USER_HOME$/dev/brainfuck-interpreter/src/commands/index.js" />
-      <jump line="2" column="3" filename="$USER_HOME$/dev/brainfuck-interpreter/src/interpreter.js" />
-      <jump line="7" column="24" filename="$USER_HOME$/dev/brainfuck-interpreter/src/interpreter.js" />
-      <jump line="6" column="1" filename="$USER_HOME$/dev/brainfuck-interpreter/src/interpreter.js" />
-      <jump line="10" column="22" filename="$USER_HOME$/dev/brainfuck-interpreter/src/interpreter.js" />
       <jump line="0" column="50" filename="$USER_HOME$/dev/brainfuck-interpreter/src/index.js" />
       <jump line="19" column="2" filename="$USER_HOME$/dev/brainfuck-interpreter/src/interpreter.js" />
       <jump line="41" column="2" filename="$USER_HOME$/dev/brainfuck-interpreter/src/interpreter.js" />
@@ -1211,7 +1219,6 @@
       <jump line="10" column="12" filename="$USER_HOME$/dev/brainfuck-interpreter/test/commands/index.test.js" />
       <jump line="10" column="39" filename="$USER_HOME$/dev/brainfuck-interpreter/test/commands/loop.test.js" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/brainfuck-interpreter/test/commands/loop.test.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/client/src/components/equipments/list-equipments.vue" />
       <jump line="38" column="2" filename="$USER_HOME$/dev/part-edge/client/src/services/config.js" />
       <jump line="6" column="1" filename="/private/tmp/brainfuck-interpreter/src/lexer.js" />
       <jump line="5" column="2" filename="/private/tmp/brainfuck-interpreter/test/commands.test.js" />
@@ -1254,6 +1261,12 @@
       <jump line="48" column="0" filename="$USER_HOME$/dev/part-edge/api/src/components/acl/index.test.js" />
       <jump line="23" column="23" filename="$USER_HOME$/dev/part-edge/api/src/components/acl/index.test.js" />
       <jump line="26" column="21" filename="$USER_HOME$/dev/part-edge/api/src/components/acl/index.js" />
+      <jump line="31" column="37" filename="$USER_HOME$/dev/part-edge/client/src/components/equipments/list-equipments.vue" />
+      <jump line="39" column="16" filename="$USER_HOME$/dev/part-edge/client/src/components/equipments/list-equipments.vue" />
+      <jump line="3" column="27" filename="$USER_HOME$/dev/part-edge/client/src/components/equipments/list-equipments.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/client/src/components/equipments/list-equipments.vue" />
+      <jump line="304" column="0" filename="$USER_HOME$/dev/part-edge/client/src/components/equipments/list-equipments.vue" />
+      <jump line="8" column="6" filename="$USER_HOME$/dev/part-edge/client/src/components/equipments/list-equipments.vue" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1264,7 +1277,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>App</text>
+        <text>bind</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2788,7 +2801,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>App</text>
+        <text>bind</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2797,7 +2810,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>NODE_ENV:</text>
+        <text>v-bind</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICB0LmZhbHNlKGFjLmNhbihQQVJURURHRV9NQUlOVEVOQU5DRSkucmVhZEFueShPUkRFUlMpLmdyYW50ZWQpOwo=</text>
@@ -2836,21 +2849,20 @@
         <text encoding="base64">ICAgIC5yZWFkQW55KEVRVUlQTUVOVFNfU0VBUkNIKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>NODE_ENV:</last-search>
+      <last-search>v-bind</last-search>
       <last-offset />
-      <last-pattern>NODE_ENV:</last-pattern>
-      <last-replace>NODE_ENV =</last-replace>
-      <last-substitute>NODE_ENV:</last-substitute>
+      <last-pattern>v-bind</last-pattern>
+      <last-replace />
+      <last-substitute>v-bind</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>':</entry>
         <entry>now</entry>
         <entry>dateNow</entry>
         <entry>validateToken</entry>
@@ -2870,9 +2882,9 @@
         <entry encoding="base64">XDxjb25zdFw+</entry>
         <entry>BABEL_ENV:</entry>
         <entry>NODE_ENV:</entry>
+        <entry>v-bind</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL25vdy9kYXRlL2c=</entry>
         <entry>&quot;&quot;</entry>
         <entry>18</entry>
         <entry>20</entry>
@@ -2890,8 +2902,9 @@
         <entry encoding="base64">JzwsJz5zL05PREVfRU5WOi9OT0RFX0VOViA9L2c=</entry>
         <entry>W</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JzwsJz5zL3YtYmluZC8vZw==</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
