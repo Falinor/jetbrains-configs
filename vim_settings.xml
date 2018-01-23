@@ -148,9 +148,9 @@
         <mark key="^" line="32" column="41" />
         <mark key="." line="32" column="41" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/src/components/acl/index.js" timestamp="1516382781152">
+      <file name="$USER_HOME$/dev/part-edge/api/src/components/acl/index.js" timestamp="1516701648530">
         <mark key="'" line="26" column="21" />
-        <mark key="[" line="26" column="23" />
+        <mark key="[" line="27" column="20" />
         <mark key="]" line="26" column="21" />
         <mark key="." line="26" column="21" />
         <mark key="^" line="26" column="21" />
@@ -216,12 +216,11 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="49" column="51" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/src/components/acl/index.test.js" timestamp="1516382836574">
+      <file name="$USER_HOME$/dev/part-edge/api/src/components/acl/index.test.js" timestamp="1516702168971">
         <mark key="k" line="58" column="7" />
-        <mark key="[" line="85" column="17" />
-        <mark key="]" line="85" column="42" />
-        <mark key="." line="85" column="42" />
-        <mark key="^" line="85" column="42" />
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="0" />
+        <mark key="." line="108" column="0" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/src/components/Auth.vue" timestamp="1516209265367">
         <mark key="[" line="2" column="27" />
@@ -720,7 +719,8 @@
       <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/Validation.spec.js" timestamp="1512753689611">
         <mark key="[" line="41" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/package.json" timestamp="1516279246303">
+      <file name="$USER_HOME$/dev/part-edge/api/package.json" timestamp="1516702212052">
+        <mark key="'" line="95" column="0" />
         <mark key="[" line="18" column="31" />
         <mark key="]" line="18" column="43" />
         <mark key="^" line="18" column="43" />
@@ -1167,9 +1167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="50" filename="$USER_HOME$/dev/brainfuck-interpreter/src/index.js" />
-      <jump line="19" column="2" filename="$USER_HOME$/dev/brainfuck-interpreter/src/interpreter.js" />
-      <jump line="41" column="2" filename="$USER_HOME$/dev/brainfuck-interpreter/src/interpreter.js" />
       <jump line="2" column="39" filename="$USER_HOME$/dev/brainfuck-interpreter/src/index.js" />
       <jump line="12" column="0" filename="$USER_HOME$/dev/brainfuck-interpreter/src/index.js" />
       <jump line="2" column="4" filename="$USER_HOME$/dev/brainfuck-interpreter/src/commands/print.js" />
@@ -1267,6 +1264,9 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/client/src/components/equipments/list-equipments.vue" />
       <jump line="304" column="0" filename="$USER_HOME$/dev/part-edge/client/src/components/equipments/list-equipments.vue" />
       <jump line="8" column="6" filename="$USER_HOME$/dev/part-edge/client/src/components/equipments/list-equipments.vue" />
+      <jump line="23" column="58" filename="$USER_HOME$/dev/part-edge/api/package.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/api/package.json" />
+      <jump line="95" column="0" filename="$USER_HOME$/dev/part-edge/api/package.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1276,8 +1276,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>bind</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2801,7 +2801,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>bind</text>
+        <text>PARTEDGE_USERLIST</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2816,40 +2816,40 @@
         <text encoding="base64">ICB0LmZhbHNlKGFjLmNhbihQQVJURURHRV9NQUlOVEVOQU5DRSkucmVhZEFueShPUkRFUlMpLmdyYW50ZWQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB0LnRydWUoYWMuY2FuKFBBUlRFREdFX01BSU5URU5BTkNFKS5yZWFkT3duKE9SREVSUykuZ3JhbnRlZCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB0LnRydWUoYWMuY2FuKFBBUlRFREdFX1NQVF9LTykuY3JlYXRlQW55KE9SREVSUykuZ3JhbnRlZCk7Cg==</text>
+        <text encoding="base64">dGVzdC50b2RvKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB0Lgo=</text>
+        <text encoding="base64">ICB0LnRydWUoYWMuY2FuKFBBUlRFREdFX01BSU5URU5BTkNFKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0LnRydWUoYWMuY2FuKFBBUlRFREdFX01BSU5URU5BTkNFKS5yZWFkT3duKE9SREVSUykuZ3JhbnRlZCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhhYy5jYW4oUEFSVEVER0VfU1BUX0tPKS5yZWFkQW55KEVRVUlQTUVOVFNfU0VBUkNIKS5yb2xlcyk7Cg==</text>
+        <text encoding="base64">ICB0LnRydWUoYWMuY2FuKFBBUlRFREdFX1NQVF9LTykuY3JlYXRlQW55KE9SREVSUykuZ3JhbnRlZCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBhYwo=</text>
+        <text encoding="base64">ICB0Lgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC5yZWFkQW55KEVRVUlQTUVOVFNfU0VBUkNIKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>wwb</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB0LnRydWUoYWMuZGVueShQQVJURURHRV9TUFRfS08pLnJlYWRBbnkoRVFVSVBNRU5UU19TRUFSQ0gpLmdyYW50ZWQpOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhYy5jYW4oUEFSVEVER0VfU1BUX0tPKS5yZWFkQW55KEVRVUlQTUVOVFNfU0VBUkNIKS5yb2xlcyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC5yZWFkQW55KEVRVUlQTUVOVFNfU0VBUkNIKQo=</text>
+        <text encoding="base64">ICBhYwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -2901,10 +2901,10 @@
         <entry encoding="base64">JzwsJz5zL0JBQkVMX0VOVjovQkFCRUxfRU5WID0vZw==</entry>
         <entry encoding="base64">JzwsJz5zL05PREVfRU5WOi9OT0RFX0VOViA9L2c=</entry>
         <entry>W</entry>
-        <entry>q</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL3YtYmluZC8vZw==</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
