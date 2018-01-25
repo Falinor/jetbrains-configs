@@ -615,12 +615,11 @@
         <mark key="." line="15" column="31" />
         <mark key="^" line="15" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/App.vue" timestamp="1516897958219">
+      <file name="$USER_HOME$/dev/part-edge/client/src/App.vue" timestamp="1516899867802">
         <mark key="'" line="54" column="7" />
-        <mark key="[" line="113" column="12" />
-        <mark key="]" line="113" column="11" />
-        <mark key="." line="113" column="11" />
-        <mark key="^" line="113" column="11" />
+        <mark key="[" line="90" column="19" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/src/components/equipments/childs/filter-equipments.vue" timestamp="1516631988847">
         <mark key="[" line="13" column="63" />
@@ -1052,6 +1051,12 @@
       <file name="/Dummy.txt" timestamp="1516898096720">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/part-edge/api/src/routes/index.js" timestamp="1516718813434">
+        <mark key="'" line="12" column="2" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/brainfuck-interpreter/test/ast.test.js" timestamp="1515675966859">
         <mark key="'" line="1" column="25" />
         <mark key="[" line="17" column="2" />
@@ -1320,7 +1325,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBhc3luYyByZQo=</text>
+        <text encoding="base64">eGQK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2859,39 +2864,39 @@
         <text encoding="base64">ICAgICAgICAgICAgPHNwYW4gY2xhc3M9ImRldGFpbHNfX2NvbnRlbnQtaXRlbS1rZXkiPklkPC9zcGFuPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBhc3luYyByZQo=</text>
+        <text encoding="base64">eGQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICBhc3luYyByZQo=</text>
+      </register>
+      <register name="3" type="4">
         <text>set({ commit }) {
     commit()
   }</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYQo=</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBheGlvcy5kZWZhdWx0cy5oZWFkZXJzLmNvbW1vbi5BdXRob3JpemF0aW9uID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgYQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICBheGlvcy5kZWZhdWx0cy5oZWFkZXJzLmNvbW1vbi5BdXRob3JpemF0aW9uID0gbnVsbDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgZ3JhcGhVUkwgPSAnaHR0cHM6Ly9ncmFwaC5taWNyb3NvZnQuY29tL3YxLjAvbWRlJzsK</text>
+        <text encoding="base64">ICBheGlvcy5kZWZhdWx0cy5oZWFkZXJzLmNvbW1vbi5BdXRob3JpemF0aW9uID0gbnVsbDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgZ3JhcGhVUkwgPSAnaHR0cHM6Ly9ncmFwaC5taWNyb3NvZnQuY29tL3YxLjAvbWRlJzsK</text>
       </register>
       <register name="w" type="4">
         <text>wwb</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Ci5lcXVpcG1lbnREZXRhaWxzID4gdHIgPiB0ZDpudGgtY2hpbGQoMSl7CiAgd2lkdGg6IDI1MHB4Owp9CgouZXF1aXBtZW50RGV0YWlscyA+IHRyID4gdGQ6bnRoLWNoaWxkKDIpewogIHdpZHRoOiAyNTBweDsKfQ==</text>
-      </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">Ci5lcXVpcG1lbnREZXRhaWxzID4gdHIgPiB0ZDpudGgtY2hpbGQoMSl7CiAgd2lkdGg6IDI1MHB4Owp9CgouZXF1aXBtZW50RGV0YWlscyA+IHRyID4gdGQ6bnRoLWNoaWxkKDIpewogIHdpZHRoOiAyNTBweDsKfQ==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
