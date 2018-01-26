@@ -150,11 +150,12 @@
         <mark key="." line="5" column="39" />
         <mark key="^" line="5" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/components/LogOut.vue" timestamp="1516960387873">
+      <file name="$USER_HOME$/dev/part-edge/client/src/components/LogOut.vue" timestamp="1516964371284">
         <mark key="'" line="8" column="90" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="9" column="59" />
-        <mark key="." line="8" column="0" />
+        <mark key="[" line="10" column="88" />
+        <mark key="]" line="10" column="88" />
+        <mark key="." line="10" column="88" />
+        <mark key="^" line="10" column="88" />
       </file>
       <file name="$USER_HOME$/dev/brainfuck-interpreter/test/commands/commands.test.js" timestamp="1516096782851">
         <mark key="'" line="40" column="10" />
@@ -1328,8 +1329,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGxvZ091dEVuZHBvaW50ID0gcHJvY2Vzcy5lbnYuTVNfTE9HT1VUX0VORFBPSU5UOwogICAgY29uc3QgbG9nT3V0UmVkaXJlY3RVUkkgPSBwcm9jZXNzLmVudi5MT0dPVVRfUkVESVJfVVJJOwo=</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2853,7 +2854,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>(</text>
       </register>
       <register name="m" type="4">
         <keys>
