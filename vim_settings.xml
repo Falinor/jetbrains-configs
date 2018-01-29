@@ -129,11 +129,6 @@
       <file name="$USER_HOME$/dev/brainfuck-interpreter/test/interpreter.js" timestamp="1515594012648">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/src/routes/users/controller.js" timestamp="1516987870293">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/routes/users/repository.test.js" timestamp="1516975483943">
         <mark key="'" line="25" column="47" />
         <mark key="[" line="15" column="32" />
@@ -304,6 +299,13 @@
         <mark key="]" line="25" column="32" />
         <mark key="." line="25" column="32" />
         <mark key="^" line="1" column="46" />
+      </file>
+      <file name="$USER_HOME$/dev/part-edge/client/src/components/orders/initialize-sptko.vue" timestamp="1517239874991">
+        <mark key="'" line="174" column="0" />
+        <mark key="[" line="11" column="19" />
+        <mark key="]" line="12" column="5" />
+        <mark key="^" line="12" column="5" />
+        <mark key="." line="12" column="5" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/models.js" timestamp="1511546322728">
         <mark key="'" line="2" column="25" />
@@ -698,7 +700,7 @@
         <mark key="." line="19" column="39" />
         <mark key="^" line="19" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/components/orders/initialize-order.vue" timestamp="1517236461325">
+      <file name="$USER_HOME$/dev/part-edge/client/src/components/orders/initialize-order.vue" timestamp="1517237935515">
         <mark key="[" line="114" column="69" />
         <mark key="]" line="114" column="0" />
         <mark key="." line="114" column="0" />
@@ -1115,8 +1117,12 @@
         <mark key="^" line="33" column="45" />
         <mark key="." line="33" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/services/equipment.spec.js" timestamp="1516988178644">
-        <mark key="'" line="18" column="21" />
+      <file name="$USER_HOME$/dev/part-edge/client/src/components/equipment-form/equipment-form.vue" timestamp="1517239661956">
+        <mark key="'" line="75" column="0" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="^" line="68" column="5" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/config/index.js" timestamp="1515166129132">
         <mark key="[" line="11" column="74" />
@@ -1152,11 +1158,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="3" filename="$USER_HOME$/dev/part-edge/client/src/components/Home.vue" />
-      <jump line="61" column="0" filename="$USER_HOME$/dev/part-edge/client/src/components/Home.vue" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/client/src/components/Home.vue" />
-      <jump line="52" column="0" filename="$USER_HOME$/dev/part-edge/client/src/components/Home.vue" />
-      <jump line="18" column="8" filename="$USER_HOME$/dev/part-edge/client/src/components/Home.vue" />
       <jump line="17" column="111" filename="$USER_HOME$/dev/part-edge/client/src/components/Home.vue" />
       <jump line="19" column="79" filename="$USER_HOME$/dev/part-edge/client/src/components/Home.vue" />
       <jump line="52" column="15" filename="$USER_HOME$/dev/part-edge/client/src/App.vue" />
@@ -1252,6 +1253,11 @@
       <jump line="115" column="23" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/services/auth.spec.js" />
       <jump line="3" column="1" filename="$USER_HOME$/dev/part-edge/client/src/components/Dashboard.vue" />
       <jump line="110" column="27" filename="$USER_HOME$/dev/part-edge/client/src/router/main.js" />
+      <jump line="170" column="0" filename="$USER_HOME$/dev/part-edge/client/src/components/orders/initialize-sptko.vue" />
+      <jump line="34" column="40" filename="$USER_HOME$/dev/part-edge/client/src/components/equipment-form/equipment-form.vue" />
+      <jump line="164" column="0" filename="$USER_HOME$/dev/part-edge/client/src/components/equipment-form/equipment-form.vue" />
+      <jump line="109" column="14" filename="$USER_HOME$/dev/part-edge/client/src/components/equipment-form/equipment-form.vue" />
+      <jump line="89" column="0" filename="$USER_HOME$/dev/part-edge/client/src/components/equipment-form/equipment-form.vue" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1261,8 +1267,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>fields</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBpbXBvcnQgVGRmQ2FyZCBmcm9tICcuLi9jYXJkL2NhcmQudnVlJzsK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2786,7 +2792,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>fields</text>
+        <text>oldEquipment</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2795,60 +2801,59 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>orders</text>
+        <text>order.oldEquipment</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdXNlclByb2ZpbGUucmVzdG9yZSgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICB2LWlmPSJmaWVsZHMubGVuZ3RoIDw9IG1heEZpZWxkcyIK</text>
+        <text encoding="base64">ICBpbXBvcnQgVGRmQ2FyZCBmcm9tICcuLi9jYXJkL2NhcmQudnVlJzsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy4kc3RvcmUub3JkZXIpCg==</text>
+        <text encoding="base64">ICAgICAgUUJ0biwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgVGRmQ2FyZCwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMuJHN0b3JlLmRpc3BhdGNoKCdzZXRQYXJ0TnVtYmVyJywgdCkK</text>
+        <text encoding="base64">ICBpbXBvcnQgeyBtYXBHZXR0ZXJzIH0gZnJvbSAndnVleCc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzZXJ2aWNlLgo=</text>
+        <text encoding="base64">ICAgIGNvbXB1dGVkOiB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgLi4ubWFwR2V0dGVycyhbCiAgICAgICAgJ29yZGVyJywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhpcwo=</text>
+        <text encoding="base64">ICAgICAgXSksCiAgICB9LAo=</text>
       </register>
       <register name="w" type="4">
         <text>wwb</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy4kbG9nZ2VyLmxvZygpCg==</text>
+        <text encoding="base64">ICAgIGNyZWF0ZWQoKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMub3JkZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy4kc3RvcmUuZGlzcGF0Y2goJ3NldE9sZEVxdWlwbWVudFBhcnROdW1iZXInLCB7IHBhcnROdW1iZXI6IHRoaXMuJHN0b3JlLmdldHRlcnMucG4gfSk7CiAgICB9LAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>orders</last-search>
+      <last-search>order.oldEquipment</last-search>
       <last-offset />
-      <last-pattern>orders</last-pattern>
-      <last-replace>apiUrl</last-replace>
-      <last-substitute>config.api_url</last-substitute>
+      <last-pattern>order.oldEquipment</last-pattern>
+      <last-replace>equipment</last-replace>
+      <last-substitute>order.oldEquipment</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb21tYW5kc1w+</entry>
         <entry>map</entry>
         <entry encoding="base64">XDxjb25zdFw+</entry>
         <entry>BABEL_ENV:</entry>
@@ -2868,9 +2873,9 @@
         <entry>configDeg</entry>
         <entry>right</entry>
         <entry>orders</entry>
+        <entry>order.oldEquipment</entry>
       </history-search>
       <history-cmd>
-        <entry>28</entry>
         <entry encoding="base64">JzwsJz5zL2NvbW1hbmQvYWN0aW9uL2c=</entry>
         <entry encoding="base64">JzwsJz5zL0luY3JlbWVudC9EZWNyZW1lbnQvZw==</entry>
         <entry encoding="base64">JzwsJz5zL0luY3JlbWVudC9EZWNyZW1lbnQ=</entry>
@@ -2889,6 +2894,7 @@
         <entry>wq</entry>
         <entry>q</entry>
         <entry>qall</entry>
+        <entry encoding="base64">JzwsJz5zL29yZGVyLm9sZEVxdWlwbWVudC9lcXVpcG1lbnQvZw==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
