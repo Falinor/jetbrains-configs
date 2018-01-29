@@ -56,12 +56,12 @@
         <mark key="^" line="25" column="34" />
         <mark key="." line="25" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/router/main.js" timestamp="1516985163358">
+      <file name="$USER_HOME$/dev/part-edge/client/src/router/main.js" timestamp="1517230233752">
         <mark key="'" line="2" column="13" />
-        <mark key="[" line="104" column="32" />
-        <mark key="]" line="62" column="22" />
-        <mark key="^" line="62" column="22" />
-        <mark key="." line="62" column="22" />
+        <mark key="[" line="56" column="8" />
+        <mark key="]" line="56" column="7" />
+        <mark key="." line="56" column="7" />
+        <mark key="^" line="56" column="7" />
       </file>
       <file name="$USER_HOME$/dev/brainfuck-interpreter/test/commands/commands.test.js" timestamp="1516096782851">
         <mark key="'" line="40" column="10" />
@@ -341,11 +341,6 @@
         <mark key="]" line="14" column="48" />
         <mark key="." line="14" column="48" />
         <mark key="^" line="14" column="48" />
-      </file>
-      <file name="$USER_HOME$/dev/part-edge/client/config/dev.env.js" timestamp="1516983425984">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/package.json" timestamp="1516702212052">
         <mark key="'" line="95" column="0" />
@@ -893,11 +888,6 @@
         <mark key="^" line="36" column="17" />
         <mark key="." line="36" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/components/orders/childs/cancel-order.vue" timestamp="1516894510033">
-        <mark key="[" line="7" column="21" />
-        <mark key="]" line="7" column="21" />
-        <mark key="." line="7" column="21" />
-      </file>
       <file name="$USER_HOME$/dev/brainfuck-interpreter/src/operations/increment.js" timestamp="1515593883440">
         <mark key="'" line="5" column="35" />
         <mark key="[" line="1" column="22" />
@@ -939,7 +929,7 @@
         <mark key="." line="15" column="31" />
         <mark key="^" line="15" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/App.vue" timestamp="1516970673359">
+      <file name="$USER_HOME$/dev/part-edge/client/src/App.vue" timestamp="1517224433176">
         <mark key="'" line="56" column="7" />
         <mark key="[" line="101" column="0" />
         <mark key="]" line="101" column="0" />
@@ -1068,7 +1058,7 @@
         <mark key="." line="14" column="4" />
         <mark key="^" line="14" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/components/card/card.vue" timestamp="1516891055713">
+      <file name="$USER_HOME$/dev/part-edge/client/src/components/card/card.vue" timestamp="1517230271299">
         <mark key="[" line="2" column="7" />
         <mark key="]" line="2" column="6" />
         <mark key="." line="2" column="6" />
@@ -1345,8 +1335,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>ForView</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwZXJtaXNzaW9uczogW10K</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2885,37 +2875,39 @@
         <text encoding="base64">ICAgICAgdXNlclByb2ZpbGUucmVzdG9yZSgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICByZXR1cm4gcGVybWlzc2lvbnMuaW5jbHVkZXMoZ3JvdXBzLmRpc3BsYXlOYW1lKTsK</text>
+        <text encoding="base64">ICAgICAgICBwZXJtaXNzaW9uczogW10K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBwZXJtaXNzaW9ucy5zb21lCg==</text>
+      <register name="2" type="4">
+        <text>{
+      '/dashboard'
+    }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwZXJtaXNzaW9ucy4K</text>
+        <text encoding="base64">ICByZXR1cm4gcGVybWlzc2lvbnMuaW5jbHVkZXMoZ3JvdXBzLmRpc3BsYXlOYW1lKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBncm91cHMuCg==</text>
+        <text encoding="base64">ICBwZXJtaXNzaW9ucy5zb21lCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwZXJtaXNzaW9ucy4K</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CmFwcC5nZXQoJy9jb25maWcnLCAocmVxLCByZXMpID0+IHsKICByZXMuanNvbihjb25maWdEZXYpOwp9KTs=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBncm91cHMuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25maWdEZXYgPSByZXF1aXJlKCcuLi9jb25maWcvZGV2Lmpzb24nKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>wwb</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUGxhdGZvcm0gfSBmcm9tICdxdWFzYXInOwo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">CmFwcC5nZXQoJy9jb25maWcnLCAocmVxLCByZXMpID0+IHsKICByZXMuanNvbihjb25maWdEZXYpOwp9KTs=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25maWdEZXYgPSByZXF1aXJlKCcuLi9jb25maWcvZGV2Lmpzb24nKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
