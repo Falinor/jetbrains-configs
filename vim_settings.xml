@@ -216,6 +216,9 @@
         <mark key="^" line="12" column="32" />
         <mark key="." line="12" column="27" />
       </file>
+      <file name="$USER_HOME$/dev/part-edge/api/node_modules/ajv/lib/ajv.d.ts" timestamp="1517409095288">
+        <mark key="'" line="325" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/part-edge/client/src/components/AuthCallback.vue" timestamp="1513690665961">
         <mark key="'" line="15" column="12" />
         <mark key="[" line="16" column="70" />
@@ -1098,12 +1101,12 @@
         <mark key="^" line="33" column="45" />
         <mark key="." line="33" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/src/components/validator/index.js" timestamp="1515058316479">
-        <mark key="'" line="9" column="6" />
-        <mark key="[" line="14" column="76" />
-        <mark key="]" line="15" column="15" />
-        <mark key="^" line="15" column="15" />
-        <mark key="." line="15" column="15" />
+      <file name="$USER_HOME$/dev/part-edge/api/src/components/validator/index.js" timestamp="1517409138714">
+        <mark key="'" line="12" column="6" />
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="7" column="24" />
+        <mark key="^" line="7" column="24" />
+        <mark key="." line="7" column="24" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/src/components/equipment-form/equipment-form.vue" timestamp="1517329747833">
         <mark key="'" line="48" column="0" />
@@ -1186,7 +1189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="23" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/services/auth.spec.js" />
       <jump line="3" column="1" filename="$USER_HOME$/dev/part-edge/client/src/components/Dashboard.vue" />
       <jump line="110" column="27" filename="$USER_HOME$/dev/part-edge/client/src/router/main.js" />
       <jump line="170" column="0" filename="$USER_HOME$/dev/part-edge/client/src/components/orders/initialize-sptko.vue" />
@@ -1286,6 +1288,7 @@
       <jump line="89" column="9" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.js" />
       <jump line="11" column="32" filename="$USER_HOME$/dev/part-edge/api/src/middlewares/validator.js" />
       <jump line="26" column="4" filename="$USER_HOME$/dev/part-edge/api/docs/definitions/order.yaml" />
+      <jump line="325" column="0" filename="$USER_HOME$/dev/part-edge/api/node_modules/ajv/lib/ajv.d.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1295,8 +1298,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLSBkZXNpZ25hdGlvbgo=</text>
+      <register name="&quot;" type="4">
+        <text>default</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2820,7 +2823,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>default</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2829,7 +2832,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>update</text>
+        <text>useDefault</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICB0LnRydWUobWFpbFNlcnZpY2Uuc2VuZE1haWwuY2FsbGVkT25jZSk7Cg==</text>
@@ -2868,13 +2871,13 @@
         <text encoding="base64">ICB0LnRydWVtYWkK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>update</last-search>
+      <last-search>useDefault</last-search>
       <last-offset />
-      <last-pattern>update</last-pattern>
+      <last-pattern>useDefault</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2882,7 +2885,6 @@
     </search>
     <history>
       <history-search>
-        <entry>config</entry>
         <entry>configDev</entry>
         <entry>configDeg</entry>
         <entry>right</entry>
@@ -2902,6 +2904,7 @@
         <entry>parse</entry>
         <entry>HEAD</entry>
         <entry>update</entry>
+        <entry>useDefault</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2luY3IvZGVjci9naQ==</entry>
@@ -2922,8 +2925,8 @@
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>wq</entry>
         <entry>W</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
