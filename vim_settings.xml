@@ -50,12 +50,12 @@
         <mark key="^" line="25" column="34" />
         <mark key="." line="25" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/router/main.js" timestamp="1517245156567">
-        <mark key="'" line="110" column="27" />
-        <mark key="[" line="117" column="20" />
-        <mark key="]" line="117" column="23" />
-        <mark key="." line="117" column="23" />
-        <mark key="^" line="117" column="23" />
+      <file name="$USER_HOME$/dev/part-edge/client/src/router/main.js" timestamp="1517416483718">
+        <mark key="'" line="124" column="27" />
+        <mark key="[" line="57" column="11" />
+        <mark key="]" line="57" column="11" />
+        <mark key="." line="57" column="11" />
+        <mark key="^" line="71" column="5" />
       </file>
       <file name="$USER_HOME$/dev/brainfuck-interpreter/test/commands/commands.test.js" timestamp="1516096782851">
         <mark key="'" line="40" column="10" />
@@ -175,12 +175,12 @@
         <mark key="^" line="6" column="23" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/components/Dashboard.vue" timestamp="1517245167571">
-        <mark key="'" line="11" column="1" />
-        <mark key="[" line="1" column="20" />
-        <mark key="]" line="1" column="20" />
-        <mark key="^" line="10" column="0" />
-        <mark key="." line="1" column="20" />
+      <file name="$USER_HOME$/dev/part-edge/client/src/components/Dashboard.vue" timestamp="1517418068698">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="7" column="37" />
+        <mark key="]" line="20" column="49" />
+        <mark key="." line="20" column="49" />
+        <mark key="^" line="20" column="49" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/components/mailer/index.test.js" timestamp="1517396353755">
         <mark key="'" line="20" column="2" />
@@ -421,12 +421,12 @@
         <mark key="^" line="16" column="1" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/main.js" timestamp="1516885917878">
-        <mark key="'" line="64" column="0" />
-        <mark key="[" line="38" column="59" />
-        <mark key="]" line="38" column="63" />
-        <mark key="." line="38" column="63" />
-        <mark key="^" line="38" column="63" />
+      <file name="$USER_HOME$/dev/part-edge/client/src/main.js" timestamp="1517416097148">
+        <mark key="'" line="63" column="0" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="37" column="63" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/assets/documents/templates/default.pug" timestamp="1517393570887">
         <mark key="[" line="1" column="0" />
@@ -1192,11 +1192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="1" filename="$USER_HOME$/dev/part-edge/client/src/components/Dashboard.vue" />
-      <jump line="110" column="27" filename="$USER_HOME$/dev/part-edge/client/src/router/main.js" />
-      <jump line="170" column="0" filename="$USER_HOME$/dev/part-edge/client/src/components/orders/initialize-sptko.vue" />
-      <jump line="34" column="40" filename="$USER_HOME$/dev/part-edge/client/src/components/equipment-form/equipment-form.vue" />
-      <jump line="164" column="0" filename="$USER_HOME$/dev/part-edge/client/src/components/equipment-form/equipment-form.vue" />
       <jump line="109" column="14" filename="$USER_HOME$/dev/part-edge/client/src/components/equipment-form/equipment-form.vue" />
       <jump line="89" column="0" filename="$USER_HOME$/dev/part-edge/client/src/components/equipment-form/equipment-form.vue" />
       <jump line="93" column="18" filename="$USER_HOME$/dev/part-edge/client/src/components/equipment-form/equipment-form.vue" />
@@ -1292,6 +1287,11 @@
       <jump line="11" column="32" filename="$USER_HOME$/dev/part-edge/api/src/middlewares/validator.js" />
       <jump line="26" column="4" filename="$USER_HOME$/dev/part-edge/api/docs/definitions/order.yaml" />
       <jump line="325" column="0" filename="$USER_HOME$/dev/part-edge/api/node_modules/ajv/lib/ajv.d.ts" />
+      <jump line="11" column="0" filename="$USER_HOME$/dev/part-edge/client/src/components/Dashboard.vue" />
+      <jump line="10" column="11" filename="$USER_HOME$/dev/part-edge/client/src/components/Dashboard.vue" />
+      <jump line="22" column="0" filename="$USER_HOME$/dev/part-edge/client/src/components/Dashboard.vue" />
+      <jump line="4" column="0" filename="$USER_HOME$/dev/part-edge/client/src/components/Dashboard.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/client/src/components/Dashboard.vue" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1301,8 +1301,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CmV4cG9ydCBjb25zdCB0ZW1wbGF0ZVR5cGVzID0gWydERUZBVUxUJywgJ09SREVSX0NSRUFURUQnLCAnU1BUX0tPJ107Cg==</text>
+      <register name="&quot;" type="4">
+        <text>-margin-top sm-margin-bottom</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2826,7 +2826,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text>-margin-top sm-margin-bottom</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2841,37 +2841,37 @@
         <text encoding="base64">ICB0LnRydWUobWFpbFNlcnZpY2Uuc2VuZE1haWwuY2FsbGVkT25jZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CmV4cG9ydCBjb25zdCB0ZW1wbGF0ZVR5cGVzID0gWydERUZBVUxUJywgJ09SREVSX0NSRUFURUQnLCAnU1BUX0tPJ107Cg==</text>
+        <text encoding="base64">ICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgLnRoZW4oKGlkKSA9PiB7CiAgICAgICAgLy8gU2VuZCByZXNwb25zZQogICAgICAgIHJlcy5zdGF0dXMoMjAxKS5qc29uKGlkKTsKICAgICAgICAvLyBGb3J3YXJkIG9yZGVyIElEIHRvIHRoZSBuZXh0IG1pZGRsZXdhcmUKICAgICAgICByZXR1cm4gaWQ7CiAgICAgIH0p</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNwYW4gdi1pZj0iaXNTZW5kaW5nIj48L3NwYW4+Cg==</text>
+        <text encoding="base64">ICBmbGV4OiAxIDAgODAlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2VuZAo=</text>
+        <text encoding="base64">ICBqdXN0aWZ5LWNvbnRlbnQ6IDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNwYW4gc2xvdD0ibG9hZGluZyI+TG9hZGluZy4uLjwvc3Bhbj4K</text>
+        <text encoding="base64">ICBmbGV4LWZsb3c6IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2VuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLSBkZXNpZ25hdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="w" type="4">
         <text>wwb</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLSBzZXJpYWxOdW1iZXIK</text>
+        <text encoding="base64">ICAgICAgICA8cS1pdGVtLXNpZGUgaWNvbj0iY29udGVudF9wYXN0ZSIgLz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB0LnRydWUocmVzLnN0YXR1cy5jYWxsZWRPbmNlKTsKICB0LnRydWUocmVzLnN0YXR1cy5jYWxsZWRXaXRoRXhhY3RseSg0MDApKTsK</text>
+        <text encoding="base64">ICAgICAgICBTdG9jayBtYW5hZ2VtZW50Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
