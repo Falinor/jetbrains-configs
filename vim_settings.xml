@@ -319,12 +319,12 @@
         <mark key="^" line="3" column="5" />
         <mark key="." line="3" column="5" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/test/unit/interfaces/container.test.js" timestamp="1517609477368">
+      <file name="$USER_HOME$/Dev/baby-foot/api/test/unit/interfaces/container.test.js" timestamp="1517613808430">
         <mark key="'" line="15" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="14" column="43" />
-        <mark key="." line="15" column="0" />
+        <mark key="[" line="24" column="46" />
+        <mark key="]" line="24" column="61" />
+        <mark key="." line="24" column="61" />
+        <mark key="^" line="24" column="61" />
       </file>
       <file name="$USER_HOME$/Dev/tests/angular/front/src/app/album/album-routing.module.ts" timestamp="1490606348382">
         <mark key="[" line="3" column="53" />
@@ -920,7 +920,8 @@
         <mark key="." line="0" column="19" />
         <mark key="^" line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/src/infra/player/repository.js" timestamp="1517570211538">
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/infra/player/repository.js" timestamp="1517612637225">
+        <mark key="'" line="13" column="2" />
         <mark key="[" line="1" column="14" />
         <mark key="]" line="1" column="38" />
         <mark key="." line="1" column="38" />
@@ -3118,12 +3119,11 @@
         <mark key="." line="1021" column="0" />
         <mark key="^" line="10" column="26" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/src/container.js" timestamp="1517611481024">
-        <mark key="'" line="3" column="7" />
-        <mark key="[" line="26" column="3" />
-        <mark key="]" line="25" column="17" />
-        <mark key="^" line="25" column="17" />
-        <mark key="." line="25" column="17" />
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/container.js" timestamp="1517612574383">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/web-of-things/iot-poc/api/src/services/floor/floor.test.js" timestamp="1496067342187">
         <mark key="[" line="6" column="15" />
@@ -4797,12 +4797,12 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/src/app/player/get-player.js" timestamp="1517261962078">
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/app/player/get-player.js" timestamp="1517612664059">
         <mark key="'" line="24" column="20" />
-        <mark key="[" line="29" column="25" />
-        <mark key="]" line="29" column="25" />
-        <mark key="." line="29" column="25" />
-        <mark key="^" line="29" column="36" />
+        <mark key="[" line="29" column="66" />
+        <mark key="]" line="29" column="71" />
+        <mark key="." line="29" column="71" />
+        <mark key="^" line="29" column="71" />
       </file>
       <file name="$USER_HOME$/Dev/dj-socket/front/src/app/page-not-found/index.ts" timestamp="1487611901391">
         <mark key="[" line="1" column="0" />
@@ -4862,8 +4862,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="15" filename="$USER_HOME$/Dev/baby-foot/api/src/domain/error/schema.yml" />
-      <jump line="0" column="32" filename="$USER_HOME$/Dev/baby-foot/api/src/components/events/index.js" />
       <jump line="8" column="1" filename="$USER_HOME$/Dev/baby-foot/api/src/components/events/index.js" />
       <jump line="3" column="1" filename="$USER_HOME$/Dev/baby-foot/api/test/unit/components/events/index.test.js" />
       <jump line="15" column="22" filename="$USER_HOME$/Dev/baby-foot/api/test/unit/components/events/index.test.js" />
@@ -4961,7 +4959,9 @@
       <jump line="15" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/index.js" />
       <jump line="16" column="0" filename="$USER_HOME$/Dev/baby-foot/api/test/unit/interfaces/container.test.js" />
       <jump line="24" column="34" filename="$USER_HOME$/Dev/baby-foot/api/src/container.js" />
-      <jump line="3" column="7" filename="$USER_HOME$/Dev/baby-foot/api/src/container.js" />
+      <jump line="30" column="4" filename="$USER_HOME$/Dev/baby-foot/api/src/container.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/container.js" />
+      <jump line="13" column="2" filename="$USER_HOME$/Dev/baby-foot/api/src/infra/player/repository.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4971,8 +4971,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAucmVnaXN0ZXIoJ2dldFBsYXllclVzZUNhc2UnLCBhc0Z1bmN0aW9uKGNyZWF0ZUdldFBsYXllclVzZUNhc2UpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>repository</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -6496,7 +6496,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>match</text>
+        <text>repository</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -6505,60 +6505,59 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUaGVcPg==</text>
+        <text>store</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgcGxheWVyczogWydHSEknLCAnSktMJ10sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAucmVnaXN0ZXIoJ2dldFBsYXllclVzZUNhc2UnLCBhc0Z1bmN0aW9uKGNyZWF0ZUdldFBsYXllclVzZUNhc2UpKQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhjb250YWluZXIucmVnaXN0cmF0aW9ucyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyBUT0RPOiByZWdpc3RlciBhZGRNYXRjaFVzZUNhc2UKICAucmVnaXN0ZXIoJ2ZpbmRNYXRjaGVzVXNlQ2FzZScsIGFzRnVuY3Rpb24oY3JlYXRlRmluZE1hdGNoZXNVc2VDYXNlKSkK</text>
+        <text encoding="base64">ICAucmVnaXN0ZXIoJ2RiJywgYXNGdW5jdGlvbigpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cobG9hZENvbnRyb2xsZXJzKCdodHRwL21hdGNoL2luZGV4LmpzJykubWF0Y2gpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgY3JlYXRlR2V0UGxheWVyVXNlQ2FzZSB9IGZyb20gJy4vYXBwL3BsYXllcic7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IHsKICBjd2Q6IF9fZGlybmFtZSwKfSk7</text>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGNyZWF0ZVBsYXllckN0cmwgZnJvbSAnLi9pbnRlcmZhY2VzL2h0dHAvcGxheWVyL2NvbnRyb2xsZXInOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB0LmlzKHR5cGVvZiBjb250YWluZXIucmVnaXN0cmF0aW9ucy5wbGF5ZXJDb250cm9sbGVyLCAnb2JqZWN0Jyk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNyZWF0ZU1hdGNoQ3RybCBmcm9tICcuL2ludGVyZmFjZXMvaHR0cC9tYXRjaC9jb250cm9sbGVyJzsKaW1wb3J0IGNyZWF0ZVBsYXllclJlcG9zaXRvcnkgZnJvbSAnLi9pbmZyYS9wbGF5ZXIvcmVwb3NpdG9yeSc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBSZXBvc2l0b3JpZXMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAucmVnaXN0ZXIoJ3BsYXllclJlcG9zaXRvcnknLCBhc0Z1bmN0aW9uKGNyZWF0ZVBsYXllclJlcG9zaXRvcnkpLnNpbmdsZXRvbigpKQo=</text>
       </register>
       <register name="w" type="4">
         <text>wwb</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dGVzdCgnU2hvdWxkIHJlc29sdmUgYSBwbGF5ZXIgY29udHJvbGxlcicsIGFzeW5jICh0KSA9PiB7Cg==</text>
+        <text encoding="base64">ICAvLyBSZWdpc3RlciB1c2UgY2FzZXMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCBwbGF5ZXJDdHJsID0gY29udGFpbmVyLnJlc29sdmUoJ3BsYXllckNvbnRyb2xsZXInKTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxUaGVcPg==</last-search>
+      <last-search>store</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUaGVcPg==</last-pattern>
-      <last-replace>date</last-replace>
-      <last-substitute>now</last-substitute>
+      <last-pattern>store</last-pattern>
+      <last-replace>playerStore</last-replace>
+      <last-substitute>store</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>opn</entry>
         <entry>auto</entry>
         <entry>Sequelize</entry>
         <entry>fatal</entry>
@@ -6578,9 +6577,9 @@
         <entry>ordersModel</entry>
         <entry>fetchOrder</entry>
         <entry>component</entry>
+        <entry>store</entry>
       </history-search>
       <history-cmd>
-        <entry>25</entry>
         <entry encoding="base64">JzwsJz5zL2VxdWlwbWVudHMvbG9jYXRpb25zL2c=</entry>
         <entry encoding="base64">JzwsJz5zL0VxdWlwbWVudHMvTG9jYXRpb25zL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3NlcXVlbGl6ZS9rbmV4L2c=</entry>
@@ -6597,9 +6596,10 @@
         <entry encoding="base64">JzwsJz5zL2NvbXBvbmVudC92bS9n</entry>
         <entry>w]</entry>
         <entry>Wq</entry>
-        <entry>w</entry>
         <entry>wq</entry>
         <entry>q</entry>
+        <entry encoding="base64">JzwsJz5zL3N0b3JlL3BsYXllclN0b3JlL2c=</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -6628,6 +6628,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
