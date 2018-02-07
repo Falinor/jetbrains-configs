@@ -213,6 +213,11 @@
         <mark key="]" line="325" column="25" />
         <mark key="." line="325" column="25" />
       </file>
+      <file name="$USER_HOME$/dev/part-edge/importer/migrations/20180207173327_alter-orders.js" timestamp="1518021759209">
+        <mark key="[" line="1" column="2" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/part-edge/importer/migrations/20171127173532-create-location.js" timestamp="1511804428676">
         <mark key="'" line="49" column="0" />
         <mark key="[" line="36" column="5" />
@@ -1188,8 +1193,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Orders</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2728,28 +2733,28 @@
         <text encoding="base64">ICAgIGxpbWl0OiBzaW5vbi5zdHViKCkucmV0dXJuc1RoaXMoKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRhYmxlLnN0cmluZygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRhYmxlLnN0cmluZygpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBmZWF0KG9yZGVycyk6IG1vdmUgb3JkZXIuZGV0YWlscyB0byBvcmRlciByb290Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdi1pZj0iaGF2ZVBlcm1pc3Npb24oWydQQVJURURHRV9BQ0hBVCcsJ1BBUlRFREdFX1NQVF9LTyddKQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBmZWF0KG9yZGVycyk6IG1vdmUgb3JkZXIuZGV0YWlscyB0byBvcmRlciByb290Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJiYgb3JkZXIuZGV0YWlscy5zdGF0dXMgPT09ICdQZW5kaW5nIHZhbGlkYXRpb24nCj09PT09PT0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdi1pZj0iaGF2ZVBlcm1pc3Npb24oWydQQVJURURHRV9BQ0hBVCcsJ1BBUlRFREdFX1NQVF9LTyddKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3519,10 +3524,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJiYgb3JkZXIuZGV0YWlscy5zdGF0dXMgPT09ICdQZW5kaW5nIHZhbGlkYXRpb24nCj09PT09PT0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
