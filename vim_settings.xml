@@ -452,6 +452,13 @@
         <mark key="." line="20" column="39" />
         <mark key="^" line="20" column="39" />
       </file>
+      <file name="$USER_HOME$/dev/part-edge/importer/migrations/20180207172200_create-users.js" timestamp="1518020696865">
+        <mark key="'" line="5" column="31" />
+        <mark key="[" line="10" column="32" />
+        <mark key="]" line="10" column="32" />
+        <mark key="." line="10" column="32" />
+        <mark key="^" line="3" column="41" />
+      </file>
       <file name="$USER_HOME$/dev/brainfuck-interpreter/test/commands/decrement.test.js" timestamp="1515669713189">
         <mark key="'" line="10" column="16" />
         <mark key="[" line="12" column="31" />
@@ -466,7 +473,7 @@
         <mark key="^" line="4" column="37" />
         <mark key="." line="4" column="37" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/store/modules/orders.js" timestamp="1518019474017">
+      <file name="$USER_HOME$/dev/part-edge/client/src/store/modules/orders.js" timestamp="1518020343790">
         <mark key="'" line="23" column="16" />
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -620,8 +627,8 @@
         <mark key="." line="25" column="32" />
         <mark key="^" line="1" column="46" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/components/orders/initialize-sptko.vue" timestamp="1517477118369">
-        <mark key="'" line="129" column="43" />
+      <file name="$USER_HOME$/dev/part-edge/client/src/components/orders/initialize-sptko.vue" timestamp="1518020369451">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="108" column="0" />
         <mark key="]" line="108" column="0" />
         <mark key="^" line="107" column="40" />
@@ -1002,8 +1009,8 @@
         <mark key="^" line="7" column="24" />
         <mark key="." line="7" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/components/equipment-form/equipment-form.vue" timestamp="1517484748594">
-        <mark key="'" line="48" column="0" />
+      <file name="$USER_HOME$/dev/part-edge/client/src/components/equipment-form/equipment-form.vue" timestamp="1518020358194">
+        <mark key="'" line="14" column="14" />
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
@@ -1072,9 +1079,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="0" filename="$USER_HOME$/dev/part-edge/client/src/components/Navbar.vue" />
-      <jump line="6" column="6" filename="$USER_HOME$/dev/part-edge/client/src/App.vue" />
-      <jump line="43" column="9" filename="$USER_HOME$/dev/part-edge/client/src/components/Navbar.vue" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/part-edge/client/src/components/Navbar.vue" />
       <jump line="67" column="0" filename="$USER_HOME$/dev/part-edge/client/src/components/Navbar.vue" />
       <jump line="45" column="2" filename="$USER_HOME$/dev/part-edge/client/src/components/Navbar.vue" />
@@ -1172,6 +1176,9 @@
       <jump line="20" column="0" filename="$USER_HOME$/dev/part-edge/client/src/components/orders/initialize-order.vue" />
       <jump line="13" column="43" filename="$USER_HOME$/dev/part-edge/client/src/components/orders/show-order.vue" />
       <jump line="57" column="8" filename="$USER_HOME$/dev/part-edge/client/src/components/orders/show-order.vue" />
+      <jump line="14" column="14" filename="$USER_HOME$/dev/part-edge/client/src/components/equipment-form/equipment-form.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/client/src/components/orders/initialize-sptko.vue" />
+      <jump line="4" column="31" filename="$USER_HOME$/dev/part-edge/importer/migrations/20180207172200_create-users.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1181,8 +1188,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>Orders</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2706,7 +2713,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>limit</text>
+        <text>Orders</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2715,34 +2722,34 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>HEAD</text>
+        <text>address</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGxpbWl0OiBzaW5vbi5zdHViKCkucmV0dXJuc1RoaXMoKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHRhYmxlLnN0cmluZygpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBmZWF0KG9yZGVycyk6IG1vdmUgb3JkZXIuZGV0YWlscyB0byBvcmRlciByb290Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdi1pZj0iaGF2ZVBlcm1pc3Npb24oWydQQVJURURHRV9BQ0hBVCcsJ1BBUlRFREdFX1NQVF9LTyddKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJiYgb3JkZXIuZGV0YWlscy5zdGF0dXMgPT09ICdQZW5kaW5nIHZhbGlkYXRpb24nCj09PT09PT0K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBmZWF0KG9yZGVycyk6IG1vdmUgb3JkZXIuZGV0YWlscyB0byBvcmRlciByb290Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdi1pZj0iaGF2ZVBlcm1pc3Npb24oWydQQVJURURHRV9BQ0hBVCcsJ1BBUlRFREdFX1NQVF9LTyddKQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJiYgb3JkZXIuZGV0YWlscy5zdGF0dXMgPT09ICdQZW5kaW5nIHZhbGlkYXRpb24nCj09PT09PT0K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3511,20 +3518,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">PT09PT09PQogICAgICAgIDxoNSBjbGFzcz0idW5zZXJ2aWNlYWJsZV9fdGl0bGUiPlVuc2VydmljZWFibGU8L2g1PgogICAgICAgIDxxLWZpZWxkCiAgICAgICAgICBoZWxwZXI9IiIKICAgICAgICAgIDplcnJvcj0iJHYub3JkZXIub2xkRXF1aXBtZW50LnBhcnROdW1iZXIuJGVycm9yIgogICAgICAgICAgOmVycm9yLWxhYmVsPSJnZXRFcnJvcigkdi5vcmRlci5vbGRFcXVpcG1lbnQucGFydE51bWJlcikiPgogICAgICAgICAgPHEtaW5wdXQgaWQ9InBhcnROdW1iZXJJbnB1dCIgY29sb3I9InByaW1hcnkiIHYtbW9kZWw9Im9yZGVyLm9sZEVxdWlwbWVudC5wYXJ0TnVtYmVyIiBAaW5wdXQ9IiR2Lm9yZGVyLm9sZEVxdWlwbWVudC5wYXJ0TnVtYmVyLiR0b3VjaCgpIiBkYXJrIGZsb2F0LWxhYmVsPSJFbnRlciBQYXJ0IE51bWJlciAqIiAvPgogICAgICAgIDwvcS1maWVsZD4KICAgICAgICA8cS1maWVsZAogICAgICAgICAgaGVscGVyPSIiCiAgICAgICAgICBjbGFzcz0idGV4dC1wcmltYXJ5IgogICAgICAgICAgOmVycm9yPSIkdi5vcmRlci5vbGRFcXVpcG1lbnQuc2VyaWFsTnVtYmVyLiRlcnJvciIKICAgICAgICAgIDplcnJvci1sYWJlbD0iZ2V0RXJyb3IoJHYub3JkZXIub2xkRXF1aXBtZW50LnNlcmlhbE51bWJlcikiPgogICAgICAgICAgPHEtaW5wdXQgaWQ9InNlcmlhbE51bWJlcklucHV0IiB2LW1vZGVsPSJvcmRlci5vbGRFcXVpcG1lbnQuc2VyaWFsTnVtYmVyIiBAaW5wdXQ9IiR2Lm9yZGVyLm9sZEVxdWlwbWVudC5zZXJpYWxOdW1iZXIuJHRvdWNoKCkiIGRhcmsgZmxvYXQtbGFiZWw9IkVudGVyIFNlcmlhbCBOdW1iZXIgKiIvPgogICAgICAgIDwvcS1maWVsZD4KICAgICAgICA8cS1maWVsZCBoZWxwZXI9IiIKICAgICAgICAgICAgICAgICBjbGFzcz0idGV4dC1wcmltYXJ5IgogICAgICAgICAgICAgICAgIDplcnJvcj0iJHYub3JkZXIub2xkRXF1aXBtZW50LmFtZW5kbWVudC4kZXJyb3IiCiAgICAgICAgICAgICAgICAgOmVycm9yLWxhYmVsPSJnZXRFcnJvcigkdi5vcmRlci5vbGRFcXVpcG1lbnQuYW1lbmRtZW50KSI+CiAgICAgICAgICA8cS1pbnB1dCBpZD0iYW1lbmRtZW50SW5wdXQiIHYtbW9kZWw9Im9yZGVyLm9sZEVxdWlwbWVudC5hbWVuZG1lbnQiIGRhcmsgZmxvYXQtbGFiZWw9IkVudGVyIEFtZW5kbWVudCAgKiIvPgogICAgICAgIDwvcS1maWVsZD4KICAgICAgICA8cS1maWVsZAogICAgICAgICAgaGVscGVyPSIiCiAgICAgICAgICBjbGFzcz0idGV4dC1wcmltYXJ5IgogICAgICAgICAgOmVycm9yPSIkdi5vcmRlci5vbGRFcXVpcG1lbnQuVFNOLiRlcnJvciIKICAgICAgICAgIDplcnJvci1sYWJlbD0iZ2V0RXJyb3IoJHYub3JkZXIub2xkRXF1aXBtZW50LlRTTikiCiAgICAgICAgPgogICAgICAgICAgPHEtaW5wdXQgaWQ9IlRTTklucHV0IiB2LW1vZGVsPSJvcmRlci5vbGRFcXVpcG1lbnQuVFNOIiBAaW5wdXQ9IiR2Lm9yZGVyLm9sZEVxdWlwbWVudC5UU04uJHRvdWNoKCkiIGRhcmsgZmxvYXQtbGFiZWw9IkVudGVyIFRTTiAqIiAvPgogICAgICAgIDwvcS1maWVsZD4KICAgICAgICA8cS1maWVsZAogICAgICAgICAgaGVscGVyPSIiCiAgICAgICAgICBjbGFzcz0idGV4dC1wcmltYXJ5IgogICAgICAgICAgOmVycm9yPSIkdi5vcmRlci5vbGRFcXVpcG1lbnQuQ1NOLiRlcnJvciIKICAgICAgICAgIDplcnJvci1sYWJlbD0iZ2V0RXJyb3IoJHYub3JkZXIub2xkRXF1aXBtZW50LkNTTikiCiAgICAgICAgPgogICAgICAgICAgPHEtaW5wdXQgaWQ9IkNTTklucHV0IiB2LW1vZGVsPSJvcmRlci5vbGRFcXVpcG1lbnQuQ1NOIiBAaW5wdXQ9IiR2Lm9yZGVyLm9sZEVxdWlwbWVudC5DU04uJHRvdWNoKCkiIGRhcmsgZmxvYXQtbGFiZWw9IkVudGVyIENTTiAqIiAvPgogICAgICAgIDwvcS1maWVsZD4KICAgICAgICA8cS1maWVsZCBoZWxwZXI9IiIKICAgICAgICAgICAgICAgICBjbGFzcz0idGV4dC1wcmltYXJ5IgogICAgICAgICAgICAgICAgIDplcnJvcj0iJHYub3JkZXIub2xkRXF1aXBtZW50LnJlbW92YWxSZWFzb24uJGVycm9yIgogICAgICAgICAgICAgICAgIDplcnJvci1sYWJlbD0iZ2V0RXJyb3IoJHYub3JkZXIub2xkRXF1aXBtZW50LnJlbW92YWxSZWFzb24pIj4KICAgICAgICAgIDxxLWlucHV0IGlkPSJyZW1vdmFsUmVhc29uSW5wdXQiIHYtbW9kZWw9Im9yZGVyLm9sZEVxdWlwbWVudC5yZW1vdmFsUmVhc29uIiBkYXJrIGZsb2F0LWxhYmVsPSJFbnRlciBSZW1vdmFsIHJlYXNvbnMgKiIvPgogICAgICAgIDwvcS1maWVsZD4KICAgICAgICA8cS1maWVsZCBoZWxwZXI9IiIgY2xhc3M9InRleHQtcHJpbWFyeSI+CiAgICAgICAgICA8cS1pbnB1dCBpZD0iYWRkcmVzc0lucHV0IiB2LW1vZGVsPSJvcmRlci5hZGRyZXNzIiBkYXJrIGZsb2F0LWxhYmVsPSJFbnRlciBwaWNrIHVwIGFkZHJlc3MiLz4KICAgICAgICA8L3EtZmllbGQ+CiAgICAgICAgPCEtLSBDb25maXJtIGJ1dHRvbiAtLT4KICAgICAgICA8cS1idG4gaWNvbi1yaWdodD0iZG9uZSIgY29sb3I9InByaW1hcnkiIGNsYXNzPSJmdWxsLXdpZHRoIHZhbGlkYXRlLWJ0biIgQGNsaWNrPSJyZWRpcmVjdFRvUmVjYXAiPgo+Pj4+Pj4+IGZlYXQob3JkZXJzKTogbW92ZSBvcmRlci5kZXRhaWxzIHRvIG9yZGVyIHJvb3Q=</text>
-      </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>HEAD</last-search>
+      <last-search>address</last-search>
       <last-offset />
-      <last-pattern>HEAD</last-pattern>
+      <last-pattern>address</last-pattern>
       <last-replace>unserviceable</last-replace>
       <last-substitute>serviceable</last-substitute>
       <last-dir>1</last-dir>
@@ -3532,7 +3539,6 @@
     </search>
     <history>
       <history-search>
-        <entry>useDefault</entry>
         <entry>orders</entry>
         <entry>orderTypes</entry>
         <entry>log</entry>
@@ -3552,6 +3558,7 @@
         <entry>serviceable</entry>
         <entry>equip</entry>
         <entry>HEAD</entry>
+        <entry>address</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2NvbmZpZy5hcGlfdXJsL2FwaVVybC9n</entry>
@@ -3572,8 +3579,8 @@
         <entry encoding="base64">JzwsJz5zL3Rlc3QvL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3NlcnZpY2VhYmxlL3Vuc2VydmljZWFibGUvZw==</entry>
         <entry>qall</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
