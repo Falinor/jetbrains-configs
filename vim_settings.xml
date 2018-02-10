@@ -408,7 +408,7 @@
         <mark key="^" line="38" column="17" />
         <mark key="." line="38" column="17" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/.travis.yml" timestamp="1518235455228">
+      <file name="$USER_HOME$/Dev/baby-foot/api/.travis.yml" timestamp="1518251819922">
         <mark key="'" line="1" column="6" />
         <mark key="[" line="13" column="12" />
         <mark key="]" line="13" column="12" />
@@ -704,6 +704,9 @@
         <mark key="." line="5" column="15" />
         <mark key="^" line="5" column="15" />
       </file>
+      <file name="$USER_HOME$/Dev/baby-foot/api/package.json" timestamp="1518252518402">
+        <mark key="'" line="14" column="21" />
+      </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/routes/index.test.js" timestamp="1517916461286">
         <mark key="'" line="31" column="0" />
         <mark key="[" line="17" column="0" />
@@ -717,6 +720,12 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
         <mark key="^" line="49" column="51" />
+      </file>
+      <file name="$USER_HOME$/Dev/baby-foot/api/index.html" timestamp="1518252482064">
+        <mark key="[" line="20" column="17" />
+        <mark key="]" line="20" column="17" />
+        <mark key="^" line="21" column="80" />
+        <mark key="." line="20" column="17" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/importer/migrations/20171123101346-create-equipment.js" timestamp="1511804732946">
         <mark key="'" line="100" column="6" />
@@ -1142,7 +1151,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="23" filename="$USER_HOME$/dev/part-edge/client/src/router/main.js" />
       <jump line="131" column="14" filename="$USER_HOME$/dev/part-edge/client/src/router/main.js" />
       <jump line="132" column="23" filename="$USER_HOME$/dev/part-edge/client/src/router/main.js" />
       <jump line="48" column="15" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.js" />
@@ -1242,6 +1250,7 @@
       <jump line="13" column="0" filename="$USER_HOME$/Dev/baby-foot/api/test/.eslintrc" />
       <jump line="1" column="6" filename="$USER_HOME$/Dev/baby-foot/api/.travis.yml" />
       <jump line="14" column="0" filename="$USER_HOME$/Dev/baby-foot/api/CHANGELOG.md" />
+      <jump line="14" column="21" filename="$USER_HOME$/Dev/baby-foot/api/package.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1252,7 +1261,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>master</text>
+        <text>swagger</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2776,7 +2785,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>master</text>
+        <text>swagger</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2791,28 +2800,28 @@
         <text encoding="base64">ICAgICAgICAgIGNsYXNzZXM6ICd0YWJsZV9fY2VsbCcsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9Imh0dHBzOi8vdW5wa2cuY29tL3JlZG9jQDIuMC4wLWFscGhhLjEvYnVuZGxlcy9yZWRvYy5zdGFuZGFsb25lLmpzIj4gPC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CnNlcnZpY2VzOiBtb25nb2RiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CnNlcnZpY2VzOiBtb25nb2RiCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YmVmb3JlX3NjcmlwdDoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAtIHNsZWVwIDE1CiAgLSBtb25nbyBteWRiX3Rlc3QgLS1ldmFsICdkYi5jcmVhdGVVc2VyKHt1c2VyOiJ0cmF2aXMiLHB3ZDoidGVzdCIscm9sZXM6WyJyZWFkV3JpdGUiXX0pOycK</text>
+        <text encoding="base64">YmVmb3JlX3NjcmlwdDoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAtIHNsZWVwIDE1CiAgLSBtb25nbyBteWRiX3Rlc3QgLS1ldmFsICdkYi5jcmVhdGVVc2VyKHt1c2VyOiJ0cmF2aXMiLHB3ZDoidGVzdCIscm9sZXM6WyJyZWFkV3JpdGUiXX0pOycK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3585,10 +3594,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YWZ0ZXJfc3VjY2VzczoKICAtICcuL25vZGVfbW9kdWxlcy8uYmluL255YyByZXBvcnQgLS1yZXBvcnRlcj10ZXh0LWxjb3YgfCAuL25vZGVfbW9kdWxlcy8uYmluL2NvdmVyYWxscycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -3642,8 +3651,8 @@
         <entry>W</entry>
         <entry>qall</entry>
         <entry>wq</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
