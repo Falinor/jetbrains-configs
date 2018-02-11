@@ -59,12 +59,12 @@
         <mark key="^" line="32" column="41" />
         <mark key="." line="32" column="41" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/src/interfaces/http/player/index.js" timestamp="1518125199659">
-        <mark key="'" line="3" column="1" />
-        <mark key="[" line="3" column="36" />
-        <mark key="]" line="3" column="4" />
-        <mark key="^" line="3" column="4" />
-        <mark key="." line="3" column="4" />
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/interfaces/http/player/index.js" timestamp="1518344339658">
+        <mark key="'" line="2" column="1" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="49" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/src/themes/main.styl" timestamp="1517852282123">
         <mark key="[" line="0" column="29" />
@@ -1183,10 +1183,10 @@
         <mark key="^" line="31" column="3" />
         <mark key="." line="31" column="3" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/src/container.js" timestamp="1518303359316">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/container.js" timestamp="1518345119412">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/src/store/modules/orders.js" timestamp="1517922409101">
         <mark key="'" line="25" column="16" />
@@ -1197,7 +1197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="6" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/order.spec.js" />
       <jump line="64" column="6" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/order.spec.js" />
       <jump line="34" column="9" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/order.spec.js" />
       <jump line="40" column="6" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/order.spec.js" />
@@ -1297,6 +1296,7 @@
       <jump line="6" column="16" filename="$USER_HOME$/Dev/baby-foot/api/test/api/matches.test.js" />
       <jump line="11" column="32" filename="$USER_HOME$/Dev/baby-foot/api/test/api/matches.test.js" />
       <jump line="25" column="0" filename="$USER_HOME$/Dev/baby-foot/api/_config.yml" />
+      <jump line="30" column="46" filename="$USER_HOME$/Dev/baby-foot/api/src/container.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1306,8 +1306,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>foot</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAucmVnaXN0ZXIoJycpCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2831,7 +2831,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>foot</text>
+        <text>classic</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2846,28 +2846,28 @@
         <text encoding="base64">CjxyZWRvYyBzcGVjLXVybD0nb3BlbmFwaS5qc29uJz48L3JlZG9jPgo8c2NyaXB0IHNyYz0iaHR0cHM6Ly91bnBrZy5jb20vcmVkb2NAMi4wLjAtYWxwaGEuMTEvYnVuZGxlcy9yZWRvYy5zdGFuZGFsb25lLmpzIj48L3NjcmlwdD4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhtb25nb0NsaWVudC5zLm9wdGlvbnMuZGJOYW1lKTsK</text>
+        <text encoding="base64">ICAucmVnaXN0ZXIoJycpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJzb3VyY2VNYXAiCg==</text>
+        <text encoding="base64">ICAucmVnaXN0cmF0aW9ucygnJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAucmVnaXN0ZXIoJ21hdGNoUm91dGVzJywgYXNGdW5jdGlvbihjcmVhdGVNYXRjaFJvdXRlcykuc2luZ2xldG9uKCkpCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CmVudmlyb25tZW50OgogIERCX1VTRVI6IHRyYXZpcwogIERCX1BBU1NXT1JEOiB0ZXN0</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC5yZWdpc3RlcignbWF0Y2hSb3V0ZXMnLCBhc0Z1bmN0aW9uKGNyZWF0ZU1hdGNoUm91dGVzKS5zaW5nbGV0b24oKSkKICAgIC5yZWdpc3RlcignbWF0Y2hDb250cm9sbGVyJywgYXNGdW5jdGlvbihjcmVhdGVNYXRjaENvbnRyb2xsZXIpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdCB7IGFwcCB9ID0gY29udGFpbmVyLmNyYWRsZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCB7IGFwcCB9ID0gY29udGFpbmVyLmNyYWRsZTsK</text>
+        <text encoding="base64">aW1wb3J0IGNyZWF0ZVBsYXllckNvbnRyb2xsZXIgZnJvbSAnLi9jb250cm9sbGVyJztqCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAucmVnaXN0ZXIoJ21hdGNoU3RvcmUnLCBhc1ZhbHVlKGRiLikpCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhtb25nb0NsaWVudC5zLm9wdGlvbnMuZGJOYW1lKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3637,10 +3637,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCBjb25maWcgPSAK</text>
+        <text encoding="base64">ICAgICJzb3VyY2VNYXAiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCB7IGFwcCwgY29uZmlnIH0gPSBjb250YWluZXIuY3JhZGxlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
