@@ -785,12 +785,12 @@
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/test/api/users.test.js" timestamp="1518196723038">
+      <file name="$USER_HOME$/dev/part-edge/api/test/api/users.test.js" timestamp="1518429643844">
         <mark key="'" line="52" column="3" />
-        <mark key="[" line="53" column="46" />
-        <mark key="]" line="53" column="57" />
-        <mark key="." line="53" column="57" />
-        <mark key="^" line="53" column="57" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="16" column="46" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/components/responses/index.js" timestamp="1515169718548">
         <mark key="'" line="16" column="66" />
@@ -1213,8 +1213,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBhd2FpdCBkYignVXNlcnMnKS50cnVuY2F0ZSgpOwo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2753,28 +2753,28 @@
         <text encoding="base64">ICAgICAgICAgIDxxLXRvZ2dsZSB2LWlmPSIhcHJvZmlsZSIgdi1tb2RlbD0iaXNEYXJrVGhlbWUiIHVuY2hlY2tlZC1pY29uPSJicmlnaHRuZXNzXzUiIGNoZWNrZWQtaWNvbj0iYnJpZ2h0bmVzc18zIj48L3EtdG9nZ2xlPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhcgo=</text>
+        <text encoding="base64">ICBhd2FpdCBkYignVXNlcnMnKS50cnVuY2F0ZSgpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IGwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmV4cG9ydCBjb25zdCBsaW5rVXNlckFjY291bnQgPSBhc3luYyAoKQo=</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IGwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB0LnRydWUocmVzLmVuZC5jYWxsZWRXaXRoRXhhY3RseSgpKTsK</text>
+        <text encoding="base64">CmV4cG9ydCBjb25zdCBsaW5rVXNlckFjY291bnQgPSBhc3luYyAoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB1c2VyUmVwb3NpdG9yeS5jcmVhdGUucmVzb2x2ZXMoKTsK</text>
+        <text encoding="base64">ICB0LnRydWUocmVzLmVuZC5jYWxsZWRXaXRoRXhhY3RseSgpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVtYWlsIAo=</text>
+        <text encoding="base64">ICB1c2VyUmVwb3NpdG9yeS5jcmVhdGUucmVzb2x2ZXMoKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3544,13 +3544,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB0LnRydWUocmVzLmpzb24uY2FsbGVkT25jZSk7Cg==</text>
+        <text encoding="base64">ICAgIGVtYWlsIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB0LnRydWUocmVzLmpzb24uY2FsbGVkV2l0aEV4YWN0bHkoNDIpKTsK</text>
+        <text encoding="base64">ICB0LnRydWUocmVzLmpzb24uY2FsbGVkT25jZSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>qall</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -3604,8 +3604,8 @@
         <entry>W</entry>
         <entry>wq</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>qall</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
