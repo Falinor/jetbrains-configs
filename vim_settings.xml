@@ -920,13 +920,6 @@
       <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/store/index.spec.js" timestamp="1518107456022">
         <mark key="[" line="4" column="41" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/components/orders/show-order.vue" timestamp="1518426508031">
-        <mark key="'" line="182" column="55" />
-        <mark key="[" line="50" column="95" />
-        <mark key="]" line="50" column="95" />
-        <mark key="." line="50" column="95" />
-        <mark key="^" line="188" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/brainfuck-interpreter/test/operations.test.js" timestamp="1515575772133">
         <mark key="'" line="3" column="1" />
         <mark key="[" line="14" column="0" />
@@ -948,12 +941,11 @@
         <mark key="^" line="79" column="0" />
         <mark key="." line="79" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/store/modules/auth.spec.js" timestamp="1518427300631">
-        <mark key="'" line="53" column="0" />
-        <mark key="[" line="38" column="20" />
-        <mark key="]" line="54" column="6" />
-        <mark key="." line="54" column="6" />
-        <mark key="^" line="51" column="55" />
+      <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/store/modules/auth.spec.js" timestamp="1518427898497">
+        <mark key="[" line="100" column="58" />
+        <mark key="]" line="100" column="56" />
+        <mark key="^" line="100" column="56" />
+        <mark key="." line="100" column="56" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/src/components/orders/children/client-list.vue" timestamp="1517330554008">
         <mark key="'" line="8" column="0" />
@@ -1221,8 +1213,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBhcgo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2746,7 +2738,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dXNlclJlcG9zaXRvcnkg</text>
+        <text>)</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -3558,7 +3550,7 @@
         <text encoding="base64">ICB0LnRydWUocmVzLmpzb24uY2FsbGVkV2l0aEV4YWN0bHkoNDIpKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qall</text>
       </register>
     </registers>
     <search>
@@ -3611,9 +3603,9 @@
         <entry encoding="base64">JzwsJz5zL3NlcnZpY2VhYmxlL3Vuc2VydmljZWFibGUvZw==</entry>
         <entry>W</entry>
         <entry>wq</entry>
-        <entry>qall</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>qall</entry>
       </history-cmd>
       <history-expr />
       <history-input />
