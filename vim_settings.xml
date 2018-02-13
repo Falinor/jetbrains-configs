@@ -243,12 +243,12 @@
         <mark key="." line="14" column="34" />
         <mark key="^" line="14" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/services/auth.js" timestamp="1518518159762">
+      <file name="$USER_HOME$/dev/part-edge/client/src/services/auth.js" timestamp="1518526310936">
         <mark key="'" line="34" column="27" />
-        <mark key="[" line="85" column="12" />
-        <mark key="]" line="86" column="12" />
-        <mark key="." line="86" column="12" />
-        <mark key="^" line="86" column="12" />
+        <mark key="[" line="21" column="43" />
+        <mark key="]" line="21" column="44" />
+        <mark key="." line="21" column="44" />
+        <mark key="^" line="21" column="44" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/Error404.spec.js" timestamp="1513178759555">
         <mark key="'" line="24" column="27" />
@@ -457,8 +457,8 @@
         <mark key="^" line="20" column="4" />
         <mark key="." line="20" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/store/modules/orders.js" timestamp="1518521468787">
-        <mark key="'" line="58" column="0" />
+      <file name="$USER_HOME$/dev/part-edge/client/src/store/modules/orders.js" timestamp="1518526395269">
+        <mark key="'" line="67" column="3" />
         <mark key="[" line="60" column="18" />
         <mark key="]" line="60" column="19" />
         <mark key="." line="60" column="19" />
@@ -846,11 +846,10 @@
         <mark key="^" line="0" column="31" />
         <mark key="." line="0" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/test/unit/index.js" timestamp="1518514246056">
+      <file name="$USER_HOME$/dev/part-edge/client/test/unit/index.js" timestamp="1518526563119">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
-        <mark key="o" line="9" column="34" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/components/express/index.js" timestamp="1517912643614">
         <mark key="'" line="13" column="15" />
@@ -1045,7 +1044,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="12" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/repository.js" />
       <jump line="4" column="56" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/unserviceable/mapper.test.js" />
       <jump line="72" column="0" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/unserviceable/mapper.test.js" />
       <jump line="62" column="0" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/unserviceable/mapper.test.js" />
@@ -1145,6 +1143,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/Requests.vue" />
       <jump line="110" column="40" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/store/modules/auth.spec.js" />
       <jump line="26" column="27" filename="$USER_HOME$/dev/part-edge/client/src/services/auth.js" />
+      <jump line="67" column="3" filename="$USER_HOME$/dev/part-edge/client/src/store/modules/orders.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1154,8 +1153,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>userId</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coJ3Rlc3RzQ29udGV4dCcsIHRlc3RzQ29udGV4dC5rZXlzKCkpOwo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2694,28 +2693,28 @@
         <text encoding="base64">ICAgICAgZXhwZWN0KGRpc3BhdGNoKS50by5oYXZlLmJlZW4uY2FsbGVkT25jZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZGlzcGF0Y2guY2FsbGVkCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ3Rlc3RzQ29udGV4dCcsIHRlc3RzQ29udGV4dC5rZXlzKCkpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgZGlzcGF0Y2guY2FsbGVkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYXNzaWduVG9NCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgZGlzcGF0Y2gK</text>
+        <text encoding="base64">ICAgICAgYXNzaWduVG9NCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KCkK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgZGlzcGF0Y2gK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfTsKICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgcm9vdEdldHRlcnMgPSB7CiAgICAgICAgYXV0aDogeyBwcm9maWxlOiBudWxsIH0K</text>
+        <text encoding="base64">ICAgICAgfTsKICAgICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3485,13 +3484,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3Qgcm9vdEdldHRlcnMgPSB7CiAgICAgICAgYXV0aDogeyBwcm9maWxlOiBudWxsIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxvZ2luLmNhdGNoKGNvbnNvbGUubG9nKCdhdXRoZW50aWNhdGlvbiBmYWlsZWQnKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -3545,8 +3544,8 @@
         <entry>W</entry>
         <entry>wq</entry>
         <entry>qall</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
