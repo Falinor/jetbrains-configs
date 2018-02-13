@@ -182,12 +182,11 @@
         <mark key="^" line="12" column="32" />
         <mark key="." line="12" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/components/AuthCallback.vue" timestamp="1513690665961">
-        <mark key="'" line="15" column="12" />
-        <mark key="[" line="16" column="70" />
-        <mark key="]" line="17" column="33" />
-        <mark key="." line="17" column="33" />
-        <mark key="^" line="17" column="33" />
+      <file name="$USER_HOME$/dev/part-edge/client/src/components/AuthCallback.vue" timestamp="1518520397056">
+        <mark key="[" line="16" column="6" />
+        <mark key="]" line="17" column="3" />
+        <mark key="." line="17" column="3" />
+        <mark key="^" line="17" column="3" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/SearchPn.spec.js" timestamp="1512998778850">
         <mark key="'" line="0" column="0" />
@@ -196,11 +195,12 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="49" column="51" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/store/modules/orders.spec.js" timestamp="1518514799923">
+      <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/store/modules/orders.spec.js" timestamp="1518521400735">
         <mark key="'" line="21" column="50" />
-        <mark key="[" line="108" column="22" />
-        <mark key="]" line="326" column="25" />
-        <mark key="." line="326" column="25" />
+        <mark key="[" line="192" column="8" />
+        <mark key="]" line="193" column="7" />
+        <mark key="." line="193" column="7" />
+        <mark key="^" line="193" column="7" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/importer/migrations/20171127173532-create-location.js" timestamp="1511804428676">
         <mark key="'" line="49" column="0" />
@@ -457,12 +457,12 @@
         <mark key="^" line="20" column="4" />
         <mark key="." line="20" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/store/modules/orders.js" timestamp="1518457816286">
+      <file name="$USER_HOME$/dev/part-edge/client/src/store/modules/orders.js" timestamp="1518521468787">
         <mark key="'" line="58" column="0" />
-        <mark key="[" line="57" column="43" />
-        <mark key="]" line="57" column="35" />
-        <mark key="." line="57" column="35" />
-        <mark key="^" line="57" column="35" />
+        <mark key="[" line="60" column="18" />
+        <mark key="]" line="60" column="19" />
+        <mark key="." line="60" column="19" />
+        <mark key="^" line="60" column="19" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/orders/initialize-sptko.spec.js" timestamp="1518450630277">
         <mark key="'" line="27" column="3" />
@@ -727,13 +727,13 @@
         <mark key="." line="38" column="46" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/dashboard/children/requests.spec.js" timestamp="1518514209726">
+      <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/dashboard/children/requests.spec.js" timestamp="1518520526361">
         <mark key="p" line="0" column="0" />
         <mark key="'" line="3" column="23" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="16" column="26" />
-        <mark key="." line="23" column="0" />
+        <mark key="[" line="8" column="32" />
+        <mark key="]" line="9" column="28" />
+        <mark key="." line="9" column="28" />
+        <mark key="^" line="9" column="28" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/test/api/users.test.js" timestamp="1518431810222">
         <mark key="'" line="52" column="3" />
@@ -1155,7 +1155,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>resolves</text>
+        <text>userId</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2679,7 +2679,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>resolves</text>
+        <text>userId</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2691,34 +2691,31 @@
         <text>HEAD</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZGVyU2VydmljZSBmcm9tICcuLi8uLi9zZXJ2aWNlcy9vcmRlcic7Cg==</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KGRpc3BhdGNoKS50by5oYXZlLmJlZW4uY2FsbGVkT25jZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgcG9zdCA9IHNpbm9uLnN0dWIoYXhpb3MsICdwb3N0Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgZGlzcGF0Y2guY2FsbGVkCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KHBvc3QpLnRvLmhhdmUuYmVlbi5jYWxsZWRPbmNlOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcG9zdC5yZXN0b3JlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgYXNzaWduVG9NCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgZGlzcGF0Y2gK</text>
       </register>
-      <register name="5" type="4">
-        <text>const post = sinon.stub(axios, 'post');
-    await createUser('myAccessToken');
-    expect(post).to.have.been.calledOnce;
-    post.restore();</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgZXhwZWN0KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgfTsKICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxvY2FsUwo=</text>
+        <text encoding="base64">ICAgICAgY29uc3Qgcm9vdEdldHRlcnMgPSB7CiAgICAgICAgYXV0aDogeyBwcm9maWxlOiBudWxsIH0K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3488,10 +3485,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByZXR1cm4gZGF0YTsK</text>
+        <text encoding="base64">ICAgIGxvZ2luLmNhdGNoKGNvbnNvbGUubG9nKCdhdXRoZW50aWNhdGlvbiBmYWlsZWQnKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
