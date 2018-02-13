@@ -31,12 +31,12 @@
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/Requests.vue" timestamp="1518541423480">
+      <file name="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/Requests.vue" timestamp="1518542306370">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="96" column="18" />
-        <mark key="]" line="97" column="32" />
-        <mark key="." line="97" column="32" />
-        <mark key="^" line="97" column="32" />
+        <mark key="[" line="97" column="33" />
+        <mark key="]" line="97" column="34" />
+        <mark key="." line="97" column="34" />
+        <mark key="^" line="97" column="34" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/importer/models/vbf.js" timestamp="1511804236261">
         <mark key="'" line="1" column="8" />
@@ -292,6 +292,11 @@
         <mark key="." line="42" column="0" />
         <mark key="^" line="30" column="24" />
       </file>
+      <file name="$USER_HOME$/dev/part-edge/api/test/api/orders.test.js" timestamp="1518543207042">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/routes/users/controller.js" timestamp="1518447565412">
         <mark key="'" line="58" column="29" />
         <mark key="[" line="66" column="0" />
@@ -381,11 +386,12 @@
         <mark key="^" line="0" column="34" />
         <mark key="." line="0" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/docs/definitions/order.yaml" timestamp="1518083647541">
-        <mark key="'" line="53" column="7" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="13" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/dev/part-edge/api/docs/definitions/order.yaml" timestamp="1518543205018">
+        <mark key="'" line="59" column="7" />
+        <mark key="[" line="19" column="17" />
+        <mark key="]" line="20" column="16" />
+        <mark key="." line="20" column="16" />
+        <mark key="^" line="20" column="16" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/importer/migrations/20171130190802_create-delays.js" timestamp="1512145793116">
         <mark key="'" line="10" column="33" />
@@ -751,12 +757,11 @@
         <mark key="^" line="21" column="23" />
         <mark key="." line="21" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/repository.js" timestamp="1518538121168">
-        <mark key="'" line="7" column="24" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
-        <mark key="^" line="76" column="3" />
+      <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/repository.js" timestamp="1518542164329">
+        <mark key="[" line="91" column="21" />
+        <mark key="]" line="91" column="22" />
+        <mark key="." line="91" column="22" />
+        <mark key="^" line="91" column="22" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/components/responses/index.test.js" timestamp="1513613722649">
         <mark key="'" line="12" column="2" />
@@ -764,14 +769,6 @@
         <mark key="]" line="38" column="4" />
         <mark key="." line="38" column="46" />
         <mark key="^" line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/dashboard/children/requests.spec.js" timestamp="1518520526361">
-        <mark key="p" line="0" column="0" />
-        <mark key="'" line="3" column="23" />
-        <mark key="[" line="8" column="32" />
-        <mark key="]" line="9" column="28" />
-        <mark key="." line="9" column="28" />
-        <mark key="^" line="9" column="28" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/test/api/users.test.js" timestamp="1518431810222">
         <mark key="'" line="52" column="3" />
@@ -1056,9 +1053,9 @@
         <mark key="." line="14" column="34" />
         <mark key="^" line="14" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/index.js" timestamp="1518540435884">
+      <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/index.js" timestamp="1518542885107">
         <mark key="'" line="33" column="2" />
-        <mark key="[" line="61" column="72" />
+        <mark key="[" line="61" column="80" />
         <mark key="]" line="61" column="77" />
         <mark key="^" line="61" column="77" />
         <mark key="." line="61" column="77" />
@@ -1086,7 +1083,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="1" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/mapper.js" />
       <jump line="17" column="4" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/serviceable/mapper.js" />
       <jump line="1" column="8" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/serviceable/mapper.js" />
       <jump line="26" column="0" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/serviceable/mapper.js" />
@@ -1186,6 +1182,7 @@
       <jump line="51" column="2" filename="$USER_HOME$/dev/part-edge/api/src/middlewares/permission.test.js" />
       <jump line="44" column="2" filename="$USER_HOME$/dev/part-edge/api/src/middlewares/permission.test.js" />
       <jump line="136" column="27" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.test.js" />
+      <jump line="85" column="6" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/repository.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1195,11 +1192,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>{
-          label: 'type',
-          field: ''
-        }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2734,45 +2728,38 @@
       <register name="/" type="4">
         <text>HEAD</text>
       </register>
-      <register name="0" type="4">
-        <text>req.groups = ['PARTEDGE_USERLIST', 'PARTEDGE_ECHANGE_STANDARD'];
-  const action = 'updateAny';
-  const resource = 'orders';
-
-  hasPermission(true)(action, resource, true)(req, res, next);
-
-  t.true(next.calledWithMatch({
-    name: sinon.match.string,
-    statusCode: 403,
-    message: sinon.match.string,
-  }));</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIC8vIENoZWNrIHdoZXRoZXIgc2VydmljZWFibGUgZXF1aXBtZW50IHNob3VsZCBiZSB1cGRhdGVkCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>{
-          label: 'type',
-          field: ''
-        }</text>
+      <register name="1" type="2">
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB0LnRydWUocmVzLmpzb24uY2FsbGVkT25jZSk7CiAgdC50cnVlKHJlcy5qc29uLmNhbGxlZFdpdGhFeGFjdGx5KCkpOwo=</text>
+        <text encoding="base64">ICBpZDoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZXMuCg==</text>
+        <text encoding="base64">ICAgIHR5cGU6IGludGVnZXIKICAgIHJlYWRPbmx5OiB0cnVlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB0LmRlZXBFcXVhbAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIF0pOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGlkOiA0MiwK</text>
+      <register name="6" type="4">
+        <text>db(OLD_EQUIPMENTS_TABLE_NAME)
+        .where('orderId', id)
+        .update(unserviceableEquipmentMapper.toDBO(order.oldEquipment)),
+    ]);</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>db(OLD_EQUIPMENTS_TABLE_NAME)
+        .where('orderId', id)
+        .update(unserviceableEquipmentMapper.toDBO(order.oldEquipment)),
+    ]);</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3542,10 +3529,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9KSk7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB0LnRydWUobmV4dC5jYWxsZWRXaXRoTWF0Y2goewo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBQcm9taXNlLmFsbChwcm9taXNlcyk7CiAgICByZXR1cm4gUHJvbWlzZS5hbGwoWwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
