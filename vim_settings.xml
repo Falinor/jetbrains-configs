@@ -1053,12 +1053,12 @@
         <mark key="." line="14" column="34" />
         <mark key="^" line="14" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/index.js" timestamp="1518542885107">
+      <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/index.js" timestamp="1518544365053">
         <mark key="'" line="33" column="2" />
-        <mark key="[" line="61" column="80" />
-        <mark key="]" line="61" column="77" />
-        <mark key="^" line="61" column="77" />
-        <mark key="." line="61" column="77" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="27" />
+        <mark key="^" line="45" column="7" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/importer/test/converter.test.js" timestamp="1511523683043">
         <mark key="'" line="5" column="25" />
@@ -1193,7 +1193,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">ICAgIHZhbGlkYXRlKHZhbGlkYXRpb25GbiksCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2732,34 +2732,28 @@
         <text encoding="base64">ICAgIC8vIENoZWNrIHdoZXRoZXIgc2VydmljZWFibGUgZXF1aXBtZW50IHNob3VsZCBiZSB1cGRhdGVkCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">ICAgIHZhbGlkYXRlKHZhbGlkYXRpb25GbiksCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpZDoK</text>
+        <text encoding="base64">ICAgIHZhbGlkYXRlKHZhbGlkYXRpb25GbiksCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHR5cGU6IGludGVnZXIKICAgIHJlYWRPbmx5OiB0cnVlCg==</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICBpZDoK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIHR5cGU6IGludGVnZXIKICAgIHJlYWRPbmx5OiB0cnVlCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIF0pOwo=</text>
-      </register>
-      <register name="6" type="4">
-        <text>db(OLD_EQUIPMENTS_TABLE_NAME)
-        .where('orderId', id)
-        .update(unserviceableEquipmentMapper.toDBO(order.oldEquipment)),
-    ]);</text>
-      </register>
-      <register name="7" type="4">
-        <text>db(OLD_EQUIPMENTS_TABLE_NAME)
-        .where('orderId', id)
-        .update(unserviceableEquipmentMapper.toDBO(order.oldEquipment)),
-    ]);</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3528,11 +3522,17 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="8" type="4">
+        <text>db(OLD_EQUIPMENTS_TABLE_NAME)
+        .where('orderId', id)
+        .update(unserviceableEquipmentMapper.toDBO(order.oldEquipment)),
+    ]);</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBQcm9taXNlLmFsbChwcm9taXNlcyk7CiAgICByZXR1cm4gUHJvbWlzZS5hbGwoWwo=</text>
+      <register name="9" type="4">
+        <text>db(OLD_EQUIPMENTS_TABLE_NAME)
+        .where('orderId', id)
+        .update(unserviceableEquipmentMapper.toDBO(order.oldEquipment)),
+    ]);</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
