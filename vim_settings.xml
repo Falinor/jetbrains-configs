@@ -970,11 +970,12 @@
         <mark key="^" line="17" column="42" />
         <mark key="." line="17" column="42" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/components/equipments/children/card-equipments.vue" timestamp="1518686512600">
-        <mark key="[" line="21" column="14" />
-        <mark key="]" line="21" column="14" />
-        <mark key="^" line="59" column="89" />
-        <mark key="." line="59" column="89" />
+      <file name="$USER_HOME$/dev/part-edge/client/src/components/equipments/children/card-equipments.vue" timestamp="1518790556498">
+        <mark key="'" line="15" column="6" />
+        <mark key="[" line="89" column="21" />
+        <mark key="]" line="89" column="17" />
+        <mark key="." line="89" column="17" />
+        <mark key="^" line="89" column="17" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/importer/models/index.js" timestamp="1511447631614">
         <mark key="'" line="29" column="0" />
@@ -1055,10 +1056,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="7" filename="$USER_HOME$/dev/part-edge/api/docs/definitions/order.yaml" />
-      <jump line="113" column="2" filename="$USER_HOME$/dev/part-edge/api/test/api/orders.test.js" />
-      <jump line="158" column="24" filename="$USER_HOME$/dev/part-edge/client/src/components/orders/show-order.vue" />
-      <jump line="164" column="15" filename="$USER_HOME$/dev/part-edge/client/src/components/orders/show-order.vue" />
       <jump line="165" column="51" filename="$USER_HOME$/dev/part-edge/client/src/components/orders/show-order.vue" />
       <jump line="176" column="52" filename="$USER_HOME$/dev/part-edge/client/src/components/orders/show-order.vue" />
       <jump line="182" column="55" filename="$USER_HOME$/dev/part-edge/client/src/components/orders/show-order.vue" />
@@ -1155,6 +1152,10 @@
       <jump line="65" column="8" filename="$USER_HOME$/dev/part-edge/client/src/components/orders/show-order.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/client/src/components/orders/show-order.vue" />
       <jump line="32" column="41" filename="$USER_HOME$/dev/part-edge/client/src/components/equipments/equipment-details.vue" />
+      <jump line="6" column="6" filename="$USER_HOME$/dev/part-edge/client/src/components/equipments/children/card-equipments.vue" />
+      <jump line="2" column="0" filename="$USER_HOME$/dev/part-edge/client/src/components/equipments/children/card-equipments.vue" />
+      <jump line="11" column="6" filename="$USER_HOME$/dev/part-edge/client/src/components/equipments/children/card-equipments.vue" />
+      <jump line="15" column="6" filename="$USER_HOME$/dev/part-edge/client/src/components/equipments/children/card-equipments.vue" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1165,7 +1166,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>active</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2689,7 +2690,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>active</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2704,28 +2705,28 @@
         <text encoding="base64">ICAgICAgICAgICAgPHEtaWNvbiBjbGFzcz0iZGV0YWlsc19faWNvbiIgbmFtZT0ib3Blbl9pbl9uZXciIC8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGdyb3Vwcy5zb21lKGdyb3VwID0+IHBlcm1pc3Npb25zLmluY2x1ZGVzKGdyb3VwLmRpc3BsYXlOYW1lKSk7CiAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgPC90cmFuc2l0aW9uLWdyb3VwPgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGhhdmVQZXJtaXNzaW9uKHBlcm1pc3Npb25zKSB7CiAgICAgIGNvbnN0IGdyb3VwcyA9IEpTT04ucGFyc2UobG9jYWxTdG9yYWdlLmdldEl0ZW0oJ2dyb3VwcycpKSB8fCB0aGlzLiRzdG9yZS5nZXR0ZXJzLmdyb3VwczsK</text>
+        <text encoding="base64">ICAgICAgPHRyYW5zaXRpb24tZ3JvdXAgbmFtZT0ibGlzdCI+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGdyb3Vwcy5zb21lKGdyb3VwID0+IHBlcm1pc3Npb25zLmluY2x1ZGVzKGdyb3VwLmRpc3BsYXlOYW1lKSk7CiAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgPC90cmFuc2l0aW9uLWdyb3VwPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGhhdmVQZXJtaXNzaW9uKHBlcm1pc3Npb25zKSB7CiAgICAgIGNvbnN0IGdyb3VwcyA9IEpTT04ucGFyc2UobG9jYWxTdG9yYWdlLmdldEl0ZW0oJ2dyb3VwcycpKSB8fCB0aGlzLiRzdG9yZS5nZXR0ZXJzLmdyb3VwczsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICB9LAogICAgaGF2ZVBlcm1pc3Npb24ocGVybWlzc2lvbnMpIHsKICAgICAgY29uc3QgZ3JvdXBzID0gSlNPTi5wYXJzZShsb2NhbFN0b3JhZ2UuZ2V0SXRlbSgnZ3JvdXBzJykpIHx8IHRoaXMuJHN0b3JlLmdldHRlcnMuZ3JvdXBzOwogICAgICByZXR1cm4gZ3JvdXBzLnNvbWUoZ3JvdXAgPT4gcGVybWlzc2lvbnMuaW5jbHVkZXMoZ3JvdXAuZGlzcGxheU5hbWUpKTsKICAgIH0s</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAKICAgICAgPC90cmFuc2l0aW9uLWdyb3VwPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdwZXJtcycsIHBlcm1zKTsK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIGdyb3Vwcy5zb21lKGdyb3VwID0+IHBlcm1pc3Npb25zLmluY2x1ZGVzKGdyb3VwLmRpc3BsYXlOYW1lKSk7CiAgICB9LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdwZXJtcycsIHBlcm1zKTsK</text>
+        <text encoding="base64">ICAgIGhhdmVQZXJtaXNzaW9uKHBlcm1pc3Npb25zKSB7CiAgICAgIGNvbnN0IGdyb3VwcyA9IEpTT04ucGFyc2UobG9jYWxTdG9yYWdlLmdldEl0ZW0oJ2dyb3VwcycpKSB8fCB0aGlzLiRzdG9yZS5nZXR0ZXJzLmdyb3VwczsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3495,10 +3496,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwZXJtaXNzaW9ucyk7Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIGdyb3Vwcy5zb21lKGdyb3VwID0+IHBlcm1pc3Npb25zLmluY2x1ZGVzKGdyb3VwLmRpc3BsYXlOYW1lKSk7CiAgICB9LAo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICBoYXZlUGVybWlzc2lvbihwZXJtaXNzaW9ucykgewogICAgICBjb25zdCBncm91cHMgPSBKU09OLnBhcnNlKGxvY2FsU3RvcmFnZS5nZXRJdGVtKCdncm91cHMnKSkgfHwgdGhpcy4kc3RvcmUuZ2V0dGVycy5ncm91cHM7CiAgICAgIGNvbnNvbGUubG9nKCdDSEVDS0lORyBGT1IgUEVSTUlTU0lPTiAnLCBncm91cHMsIHBlcm1pc3Npb25zLCBncm91cHMuc29tZShncm91cCA9PiBwZXJtaXNzaW9ucy5pbmNsdWRlcyhncm91cC5kaXNwbGF5TmFtZSkpKTsKICAgICAgcmV0dXJuIGdyb3Vwcy5zb21lKGdyb3VwID0+IHBlcm1pc3Npb25zLmluY2x1ZGVzKGdyb3VwLmRpc3BsYXlOYW1lKSk7CiAgICB9LA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGhhdmVQZXJtaXNzaW9uKHBlcm1pc3Npb25zKSB7CiAgICAgIGNvbnN0IGdyb3VwcyA9IEpTT04ucGFyc2UobG9jYWxTdG9yYWdlLmdldEl0ZW0oJ2dyb3VwcycpKSB8fCB0aGlzLiRzdG9yZS5nZXR0ZXJzLmdyb3VwczsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
