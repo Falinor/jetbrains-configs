@@ -235,12 +235,12 @@
         <mark key="." line="14" column="34" />
         <mark key="^" line="14" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/services/auth.js" timestamp="1518533598501">
+      <file name="$USER_HOME$/dev/part-edge/client/src/services/auth.js" timestamp="1518778426743">
         <mark key="'" line="34" column="27" />
-        <mark key="[" line="48" column="44" />
-        <mark key="]" line="48" column="44" />
-        <mark key="." line="48" column="44" />
-        <mark key="^" line="48" column="53" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+        <mark key="^" line="56" column="9" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/Error404.spec.js" timestamp="1513178759555">
         <mark key="'" line="24" column="27" />
@@ -932,7 +932,7 @@
         <mark key="." line="17" column="2" />
         <mark key="^" line="17" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518777588604">
+      <file name="/Dummy.txt" timestamp="1518778370694">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/brainfuck-interpreter/test/commands/loop.test.js" timestamp="1516101373538">
@@ -1143,8 +1143,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICByZXR1cm4gcGVybWlzc2lvbjsK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2668,7 +2668,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2683,30 +2683,30 @@
         <text encoding="base64">ICAgICAgICAgICAgPHEtaWNvbiBjbGFzcz0iZGV0YWlsc19faWNvbiIgbmFtZT0ib3Blbl9pbl9uZXciIC8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbXB1dGVkOiB7Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gcGVybWlzc2lvbjsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcGVybWlzc2lvbigpIHsKICAgICAgICByZXR1cm4gdGhpcy4kc3RvcmUuZ2V0dGVycy5ncm91cHMudmFsdWVbMV0uZGlzcGxheU5hbWU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbXB1dGVkOiB7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgcGVybWlzc2lvbigpIHsKICAgICAgICByZXR1cm4gdGhpcy4kc3RvcmUuZ2V0dGVycy5ncm91cHMudmFsdWVbMV0uZGlzcGxheU5hbWU7Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgfSwKICAgIH0sCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>wrapper.setProps({
         exclude: ['division'],
       });</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgICBpdCgnc2hvdWxkIGZpbHRlciB0ZWNobmljYWwgZmllbGRzJywgKCkgPT4gewogICAgICBjb25zdCBmaWVsZHMgPSB7IGE6IG51bGwsIGI6IG51bGwsIGM6IG51bGwgfTsKICAgICAgY29uc3QgdGVjaG5pY2FsRmllbGRzID0gWydhJywgJ2InXTsKICAgICAgY29uc3QgZXhwZWN0ZWQgPSB7IGM6IG51bGwgfTsKICAgICAgZXhwZWN0KHdyYXBwZXIudm0ucmVtb3ZlVGVjaG5pY2FsRmllbGRzKGZpZWxkcywgdGVjaG5pY2FsRmllbGRzKSkudG8uZGVlcC5lcXVhbChleHBlY3RlZCk7CiAgICB9KTs=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KHdyYXBwZXIudm0udGVjaG5pY2FsRmllbGRzKS50by5kZWVwLmVxdWFsKFsnZGl2aXNpb24nLCAnbG90U3RvY2snLCAnbWFnJywgJ2NlcnRpZmljYXRlJywgJ2FyZWEnLCAnZnJvbUFyZWEnLCAndG9BcmVhJ10pOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KHdyYXBwZXIudm0udGVjaG5pY2FsRmllbGRzKS50by5kZWVwLmVxdWFsKFsnZGl2aXNpb24nLCAnbG90U3RvY2snLCAnbWFnJywgJ2NlcnRpZmljYXRlJywgJ2FyZWEnLCAnZnJvbUFyZWEnLCAndG9BcmVhJ10pOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3476,10 +3476,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZmlsdGVyZWRGaWVsZHM6IFtdLAo=</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KHdyYXBwZXIudm0udGVjaG5pY2FsRmllbGRzKS50by5kZWVwLmVxdWFsKFsnZGl2aXNpb24nLCAnbG90U3RvY2snLCAnbWFnJywgJ2NlcnRpZmljYXRlJywgJ2FyZWEnLCAnZnJvbUFyZWEnLCAndG9BcmVhJ10pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlbW92ZVRlY2huaWNhbEZpZWxkcyhpbnB1dCwgZmlsdGVyKSB7CiAgICAgIGZpbHRlci5mb3JFYWNoKGUgPT4gZGVsZXRlIGlucHV0W2VdKTsK</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KHdyYXBwZXIudm0udGVjaG5pY2FsRmllbGRzKS50by5kZWVwLmVxdWFsKFsnZGl2aXNpb24nLCAnbG90U3RvY2snLCAnbWFnJywgJ2NlcnRpZmljYXRlJywgJ2FyZWEnLCAnZnJvbUFyZWEnLCAndG9BcmVhJ10pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>qall</text>
