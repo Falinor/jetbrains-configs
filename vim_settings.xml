@@ -31,11 +31,12 @@
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/Requests.vue" timestamp="1518688923541">
+      <file name="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/Requests.vue" timestamp="1518777573979">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="71" />
-        <mark key="." line="26" column="0" />
+        <mark key="[" line="31" column="17" />
+        <mark key="]" line="20" column="22" />
+        <mark key="." line="20" column="22" />
+        <mark key="^" line="20" column="22" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/importer/models/vbf.js" timestamp="1511804236261">
         <mark key="'" line="1" column="8" />
@@ -931,7 +932,7 @@
         <mark key="." line="17" column="2" />
         <mark key="^" line="17" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518687238397">
+      <file name="/Dummy.txt" timestamp="1518777588604">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/brainfuck-interpreter/test/commands/loop.test.js" timestamp="1516101373538">
@@ -996,7 +997,6 @@
         <mark key="." line="14" column="13" />
         <mark key="^" line="4" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/src/routes/equipments/repository.js" timestamp="1518688741473" />
       <file name="$USER_HOME$/dev/part-edge/api/src/routes/equipments/model.test.js" timestamp="1512158479370">
         <mark key="'" line="15" column="22" />
         <mark key="[" line="14" column="34" />
@@ -1143,8 +1143,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHEtaWNvbiBjbGFzcz0iZGV0YWlsc19faWNvbiIgbmFtZT0ib3Blbl9pbl9uZXciIC8+Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2668,7 +2668,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>setProps</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -3482,7 +3482,7 @@
         <text encoding="base64">ICAgIHJlbW92ZVRlY2huaWNhbEZpZWxkcyhpbnB1dCwgZmlsdGVyKSB7CiAgICAgIGZpbHRlci5mb3JFYWNoKGUgPT4gZGVsZXRlIGlucHV0W2VdKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qall</text>
       </register>
     </registers>
     <search>
@@ -3533,11 +3533,11 @@
         <entry>wg</entry>
         <entry encoding="base64">JzwsJz5zL3Rlc3QvL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3NlcnZpY2VhYmxlL3Vuc2VydmljZWFibGUvZw==</entry>
-        <entry>qall</entry>
         <entry>wq</entry>
         <entry>W</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>qall</entry>
       </history-cmd>
       <history-expr />
       <history-input />
