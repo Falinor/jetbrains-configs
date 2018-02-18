@@ -25,6 +25,12 @@
         <mark key="]" line="2" column="30" />
         <mark key="." line="2" column="30" />
       </file>
+      <file name="$USER_HOME$/Dev/baby-foot/api/docs/v3/components/schemas/matches.yml" timestamp="1518960571365">
+        <mark key="[" line="2" column="30" />
+        <mark key="]" line="2" column="34" />
+        <mark key="^" line="2" column="34" />
+        <mark key="." line="2" column="34" />
+      </file>
       <file name="$USER_HOME$/dev/part-edge/client/src/components/orders/show-order.vue" timestamp="1518687641592">
         <mark key="[" line="28" column="100" />
       </file>
@@ -63,6 +69,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/Dev/baby-foot/api/docs/v3/components/schemas/players.yml" timestamp="1518960529309" />
       <file name="$USER_HOME$/Dev/baby-foot/api/test/unit/interfaces/http/player/controller.test.js" timestamp="1518850131819">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -80,13 +87,6 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="17" column="1" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/src/config/index.js" timestamp="1518854103423">
-        <mark key="j" line="12" column="3" />
-        <mark key="[" line="12" column="25" />
-        <mark key="]" line="12" column="25" />
-        <mark key="^" line="12" column="8" />
-        <mark key="." line="12" column="25" />
-      </file>
       <file name="$USER_HOME$/Dev/baby-foot/api/test/unit/config/index.test.js" timestamp="1518894176831">
         <mark key="'" line="17" column="16" />
         <mark key="[" line="5" column="30" />
@@ -103,10 +103,22 @@
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
       </file>
+      <file name="$USER_HOME$/Dev/baby-foot/api/docs/v3/paths/match/matches.yml" timestamp="1518960523519">
+        <mark key="[" line="17" column="40" />
+        <mark key="]" line="17" column="46" />
+        <mark key="^" line="17" column="46" />
+        <mark key="." line="17" column="46" />
+      </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.js" timestamp="1518628817665">
         <mark key="[" line="90" column="0" />
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/baby-foot/api/docs/v3/openapi.yml" timestamp="1518960423972">
+        <mark key="[" line="40" column="6" />
+        <mark key="]" line="42" column="36" />
+        <mark key="^" line="42" column="36" />
+        <mark key="." line="42" column="36" />
       </file>
       <file name="$USER_HOME$/Dev/baby-foot/api/test/api/matches.test.js" timestamp="1518905619818">
         <mark key="[" line="33" column="24" />
@@ -300,7 +312,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>Player</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1824,7 +1836,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>Player</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2636,7 +2648,7 @@
         <text encoding="base64">CnRlc3QoJ1Nob3VsZCBzZXQgdGhlIHJlc3BvbnNlXCdzIGNvbnRlbnQgdHlwZSB0byBKU09OJywgYXN5bmMgKHQpID0+IHsKICBjb25zdCB7IG5leHQgfSA9IHQuY29udGV4dDsKICBjb25zdCBtaWRkbGV3YXJlID0gY29udGVudFR5cGUoJ2FwcGxpY2F0aW9uL2pzb24nKTsKICBhd2FpdCBtaWRkbGV3YXJlKGN0eCwgbmV4dCk7Cn0pOw==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -2690,8 +2702,8 @@
         <entry>qakk</entry>
         <entry>qall</entry>
         <entry>q</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
