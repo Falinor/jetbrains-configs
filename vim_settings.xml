@@ -114,8 +114,8 @@
         <mark key="^" line="23" column="39" />
         <mark key="." line="23" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/router/main.js" timestamp="1518629405392">
-        <mark key="'" line="148" column="23" />
+      <file name="$USER_HOME$/dev/part-edge/client/src/router/main.js" timestamp="1519045282970">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="161" column="6" />
         <mark key="]" line="162" column="5" />
         <mark key="." line="162" column="5" />
@@ -662,11 +662,11 @@
         <mark key="." line="13" column="40" />
         <mark key="^" line="13" column="40" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/config/dev.env.js" timestamp="1519033178935">
-        <mark key="[" line="5" column="2" />
-        <mark key="]" line="5" column="2" />
-        <mark key="." line="5" column="2" />
-        <mark key="^" line="4" column="26" />
+      <file name="$USER_HOME$/dev/part-edge/client/config/dev.env.js" timestamp="1519045195260">
+        <mark key="[" line="4" column="14" />
+        <mark key="]" line="4" column="14" />
+        <mark key="." line="4" column="14" />
+        <mark key="^" line="5" column="23" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/package.json" timestamp="1518622185930">
         <mark key="'" line="0" column="0" />
@@ -1066,9 +1066,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="65" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/Exchange.vue" />
-      <jump line="106" column="8" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/Exchange.vue" />
-      <jump line="108" column="10" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/Exchange.vue" />
       <jump line="120" column="16" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/Exchange.vue" />
       <jump line="130" column="3" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/Exchange.vue" />
       <jump line="140" column="0" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/Requests.vue" />
@@ -1166,6 +1163,9 @@
       <jump line="37" column="5" filename="$USER_HOME$/dev/part-edge/client/src/components/equipments/equipment-details.vue" />
       <jump line="58" column="5" filename="$USER_HOME$/dev/part-edge/client/src/components/equipments/equipment-details.vue" />
       <jump line="3" column="0" filename="$USER_HOME$/dev/part-edge/client/src/components/auth/AuthCallback.vue" />
+      <jump line="162" column="5" filename="$USER_HOME$/dev/part-edge/client/src/router/main.js" />
+      <jump line="182" column="0" filename="$USER_HOME$/dev/part-edge/client/src/router/main.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/client/src/router/main.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1176,7 +1176,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>NODE_ENV</text>
+        <text>production</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2700,7 +2700,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>NODE_ENV</text>
+        <text>production</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -3516,7 +3516,7 @@
     },</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -3570,8 +3570,8 @@
         <entry encoding="base64">JzwsJz5zL2hhdmVQZXJtaS9oYXNQZXJtaS9n</entry>
         <entry>q!</entry>
         <entry>qall</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
