@@ -700,12 +700,11 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/Jenkinsfile" timestamp="1516271073375">
+      <file name="$USER_HOME$/dev/part-edge/client/Jenkinsfile" timestamp="1519060855740">
         <mark key="'" line="114" column="8" />
-        <mark key="[" line="114" column="31" />
-        <mark key="]" line="114" column="30" />
-        <mark key="." line="114" column="30" />
-        <mark key="^" line="114" column="30" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/dev/brainfuck-interpreter/test/commands/move-right.test.js" timestamp="1515675616374">
         <mark key="'" line="6" column="22" />
@@ -1193,8 +1192,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">fHwg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJICB3aXRoQ3JlZGVudGlhbHMoc2QK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2733,28 +2732,28 @@
         <text encoding="base64">ICBOT0RFX0VOVjogJyJwcm9kdWN0aW9uIicsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgRU5BQkxFX0FVVEg6ICd0cnVlJywK</text>
+        <text encoding="base64">CQkJICB3aXRoQ3JlZGVudGlhbHMoc2QK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgRU5BQkxFX0FVVEg6IHRydWUsCg==</text>
+        <text encoding="base64">ICAgICAgRU5BQkxFX0FVVEg6ICd0cnVlJywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwcm9jZXNzLmVudik7Cg==</text>
+        <text encoding="base64">ICAgICAgRU5BQkxFX0FVVEg6IHRydWUsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwcm9jZXNzLmVudik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy4kcm91dGVyLnB1c2goJy8nKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB0YXJnZXRVcmw6IHN0YXRlID0+IHN0YXRlLnRhcmdldFVybCwK</text>
+        <text encoding="base64">ICAgICAgdGhpcy4kcm91dGVyLnB1c2goJy8nKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0b2dnbGUK</text>
+        <text encoding="base64">ICB0YXJnZXRVcmw6IHN0YXRlID0+IHN0YXRlLnRhcmdldFVybCwK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3523,11 +3522,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICBjcmVhdGVkKCkgewogICAgY29uc29sZS5sb2codGhpcy4kcm91dGVyLCB0aGlzLiRyb3V0ZSk7CiAgfSw=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICB0b2dnbGUK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3Blcm1pc3Npb24nLCB0aGlzLmhhc1Blcm1pc3Npb24pOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICBjcmVhdGVkKCkgewogICAgY29uc29sZS5sb2codGhpcy4kcm91dGVyLCB0aGlzLiRyb3V0ZSk7CiAgfSw=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
