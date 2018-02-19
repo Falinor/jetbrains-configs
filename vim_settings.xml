@@ -404,12 +404,12 @@
         <mark key="." line="4" column="30" />
         <mark key="^" line="4" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/components/auth/AuthCallback.vue" timestamp="1518801379618">
+      <file name="$USER_HOME$/dev/part-edge/client/src/components/auth/AuthCallback.vue" timestamp="1519032736803">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="18" column="8" />
-        <mark key="]" line="19" column="5" />
-        <mark key="." line="19" column="5" />
-        <mark key="^" line="19" column="5" />
+        <mark key="[" line="15" column="56" />
+        <mark key="]" line="20" column="5" />
+        <mark key="." line="20" column="5" />
+        <mark key="^" line="20" column="5" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/routes/index.test.js" timestamp="1517916461286">
         <mark key="'" line="31" column="0" />
@@ -585,11 +585,6 @@
         <mark key="^" line="41" column="54" />
         <mark key="." line="41" column="54" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/store/modules/auth.js" timestamp="1518787980858">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="49" />
-      </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/comments.component.ts" timestamp="1516376301164">
         <mark key="'" line="8" column="23" />
         <mark key="[" line="0" column="0" />
@@ -666,6 +661,12 @@
         <mark key="]" line="13" column="40" />
         <mark key="." line="13" column="40" />
         <mark key="^" line="13" column="40" />
+      </file>
+      <file name="$USER_HOME$/dev/part-edge/client/config/dev.env.js" timestamp="1519033178935">
+        <mark key="[" line="5" column="2" />
+        <mark key="]" line="5" column="2" />
+        <mark key="." line="5" column="2" />
+        <mark key="^" line="4" column="26" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/package.json" timestamp="1518622185930">
         <mark key="'" line="0" column="0" />
@@ -1174,8 +1175,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>NODE_ENV</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2699,7 +2700,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Url</text>
+        <text>NODE_ENV</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2711,7 +2712,7 @@
         <text>orderNumber</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHEtaWNvbiBjbGFzcz0iZGV0YWlsc19faWNvbiIgbmFtZT0ib3Blbl9pbl9uZXciIC8+Cg==</text>
+        <text encoding="base64">ICBOT0RFX0VOVjogJyJwcm9kdWN0aW9uIicsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
