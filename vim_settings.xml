@@ -31,7 +31,7 @@
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/Requests.vue" timestamp="1518797473805">
+      <file name="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/Requests.vue" timestamp="1519120181209">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="23" column="62" />
         <mark key="]" line="23" column="79" />
@@ -768,11 +768,13 @@
         <mark key="." line="15" column="41" />
         <mark key="^" line="15" column="41" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/Exchange.vue" timestamp="1519118274249">
-        <mark key="'" line="1" column="35" />
-        <mark key="[" line="169" column="14" />
-        <mark key="]" line="176" column="0" />
-        <mark key="." line="176" column="0" />
+      <file name="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/Exchange.vue" timestamp="1519121765651">
+        <mark key="'" line="66" column="33" />
+        <mark key="k" line="220" column="7" />
+        <mark key="[" line="91" column="6" />
+        <mark key="]" line="91" column="5" />
+        <mark key="^" line="91" column="5" />
+        <mark key="." line="91" column="5" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/src/components/Navbar.vue" timestamp="1517845970922">
         <mark key="'" line="66" column="10" />
@@ -994,12 +996,11 @@
         <mark key="^" line="17" column="42" />
         <mark key="." line="17" column="42" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/components/equipments/children/card-equipments.vue" timestamp="1519118427470">
+      <file name="$USER_HOME$/dev/part-edge/client/src/components/equipments/children/card-equipments.vue" timestamp="1519119905435">
         <mark key="'" line="15" column="6" />
-        <mark key="[" line="129" column="14" />
-        <mark key="]" line="61" column="10" />
-        <mark key="." line="61" column="10" />
-        <mark key="^" line="61" column="10" />
+        <mark key="[" line="123" column="17" />
+        <mark key="]" line="125" column="0" />
+        <mark key="." line="125" column="0" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/importer/models/index.js" timestamp="1511447631614">
         <mark key="'" line="29" column="0" />
@@ -1086,7 +1087,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="11" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/Exchange.vue" />
       <jump line="29" column="0" filename="$USER_HOME$/dev/part-edge/client/src/store/mutation-types.js" />
       <jump line="0" column="32" filename="$USER_HOME$/dev/part-edge/client/src/store/modules/app.js" />
       <jump line="20" column="19" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/App.spec.js" />
@@ -1186,6 +1186,7 @@
       <jump line="41" column="10" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/Exchange.vue" />
       <jump line="18" column="67" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/Exchange.vue" />
       <jump line="1" column="35" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/Exchange.vue" />
+      <jump line="66" column="33" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/Exchange.vue" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1196,7 +1197,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB0ZXh0LXRyYW5zZm9ybSB1cHBleHJjYXNlCg==</text>
+        <text encoding="base64">ICAgICAgICB9LAogICAgICBdOwo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2720,7 +2721,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>500</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2735,28 +2736,28 @@
         <text encoding="base64">ICBOT0RFX0VOVjogJyJwcm9kdWN0aW9uIicsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB0ZXh0LXRyYW5zZm9ybSB1cHBleHJjYXNlCg==</text>
+        <text encoding="base64">ICAgICAgICB9LAogICAgICBdOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBmb250LXNpemUgMThweAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGVzdDogJ3Rlc3QnLAogICAgICAgICAgfSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIG5ld0VxdWlwbWVudDogewogICAgICAgICAgICBpZDogNDQsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8cS1idG4gc21hbGwgY29sb3I9InByaW1hcnkiIEBjbGljaz0iYXNzaWduVG9NZShjZWxsLnJvdykiPlJlcXVlc3QgY29tcGxldGVkPC9xLWJ0bj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGVzdDogJ3Rlc3QnLAogICAgICAgICAgfSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8cS1idG4gc21hbGwgY29sb3I9InByaW1hcnkiIEBjbGljaz0iYXNzaWduVG9NZShjZWxsLnJvdykiPlJlcXVlc3QgY29tcGxldGVkPC9xLWJ0bj4K</text>
+        <text encoding="base64">ICAgICAgICAgIG9sZEVxdWlwbWVudDogewogICAgICAgICAgICBpZDogNDMsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgeyBpZDogNDIsIHVybDogJ3VybCcsIHR5cGU6ICdleGNoYW5nZSBmb3JtJyB9LAogICAgICAgICAgXSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Lm1vZGFsX19jb250ZW50LS1pbnZlcnRlZAogIGJhY2sK</text>
+        <text encoding="base64">ICAgICAgICAgIGlkOiA0MiwKICAgICAgICAgIGRvY3VtZW50czogWwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3526,13 +3527,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIFsKICAgICAgICB7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgLmV4Y2hhbmdlLS1pbnZlcnRlZCAmCiAgICBiYWNrZ3JvdW5kLWNvbG9yICR3aGl0ZQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cob3JkZXIpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -3578,7 +3579,6 @@
         <entry>wg</entry>
         <entry encoding="base64">JzwsJz5zL3Rlc3QvL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3NlcnZpY2VhYmxlL3Vuc2VydmljZWFibGUvZw==</entry>
-        <entry>wq</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz5zL3t7L3t7IC9n</entry>
         <entry encoding="base64">JzwsJz5zL319LyB9fS9n</entry>
@@ -3586,8 +3586,9 @@
         <entry encoding="base64">JzwsJz5zL2hhdmVQZXJtaS9oYXNQZXJtaS9n</entry>
         <entry>q!</entry>
         <entry>qall</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>wq</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
