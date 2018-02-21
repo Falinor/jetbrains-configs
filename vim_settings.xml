@@ -436,6 +436,12 @@
         <mark key="." line="20" column="5" />
         <mark key="^" line="20" column="5" />
       </file>
+      <file name="$USER_HOME$/dev/part-edge/client/src/components/equipments/children/validators.js" timestamp="1519207007336">
+        <mark key="[" line="12" column="10" />
+        <mark key="]" line="12" column="10" />
+        <mark key="^" line="12" column="10" />
+        <mark key="." line="12" column="10" />
+      </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/routes/index.test.js" timestamp="1517916461286">
         <mark key="'" line="31" column="0" />
         <mark key="[" line="17" column="0" />
@@ -1068,11 +1074,11 @@
         <mark key="." line="14" column="34" />
         <mark key="^" line="14" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/components/equipments/children/equipment-form.vue" timestamp="1519152032940">
-        <mark key="[" line="146" column="17" />
-        <mark key="]" line="146" column="20" />
-        <mark key="." line="146" column="20" />
-        <mark key="^" line="146" column="20" />
+      <file name="$USER_HOME$/dev/part-edge/client/src/components/equipments/children/equipment-form.vue" timestamp="1519207093974">
+        <mark key="[" line="130" column="12" />
+        <mark key="]" line="130" column="28" />
+        <mark key="." line="130" column="28" />
+        <mark key="^" line="130" column="28" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/index.js" timestamp="1518615494336">
         <mark key="'" line="33" column="2" />
@@ -1212,7 +1218,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>pnExists</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2736,7 +2742,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>pnExists</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2751,28 +2757,31 @@
         <text encoding="base64">ICBOT0RFX0VOVjogJyJwcm9kdWN0aW9uIicsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoUGFyYW1zCg==</text>
+        <text encoding="base64">ICAgICAgICBwbjogCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="2" type="4">
+        <text>(function() {
+          console.log('test', this);
+          return true;
+        })(),</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fSBlcXVpcG1lbnRzICYmIGVxdWlwbWVudHMubGVuZ3RoID4gMDsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjcmVhdGVkKCkgewogIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICB9LAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuJGR3c3RvcmVlcXVpcG1lbnRzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiBwYXJ0TnVtYmVyRXhpc3RzKHRoaXMpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjcmVhdGVkKCkgewogICAgY29uc29sZS5sb2codGhpcy5lcXVpcG1lbnRzKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3542,10 +3551,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtaW5MZW5ndGg6IG1pbkxlbmd0aCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuJHN0b3JlLmdldHRlcnMuZXF1aXBtZW50cy5lcXVpcG1lbnRzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
