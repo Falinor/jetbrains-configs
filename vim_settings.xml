@@ -907,8 +907,8 @@
       <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/store/index.spec.js" timestamp="1518107456022">
         <mark key="[" line="4" column="41" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/components/orders/show-order.vue" timestamp="1519229420220">
-        <mark key="'" line="2" column="0" />
+      <file name="$USER_HOME$/dev/part-edge/client/src/components/orders/show-order.vue" timestamp="1519235185914">
+        <mark key="'" line="65" column="19" />
         <mark key="[" line="250" column="20" />
         <mark key="]" line="252" column="0" />
         <mark key="." line="252" column="0" />
@@ -991,7 +991,7 @@
         <mark key="." line="17" column="2" />
         <mark key="^" line="17" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519216927197">
+      <file name="/Dummy.txt" timestamp="1519234980060">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/brainfuck-interpreter/test/commands/loop.test.js" timestamp="1516101373538">
@@ -1069,6 +1069,12 @@
         <mark key="." line="14" column="13" />
         <mark key="^" line="4" column="22" />
       </file>
+      <file name="$USER_HOME$/dev/part-edge/client/test/e2e/specs/main.js" timestamp="1519235370545">
+        <mark key="[" line="25" column="51" />
+        <mark key="]" line="25" column="58" />
+        <mark key="." line="25" column="58" />
+        <mark key="^" line="25" column="58" />
+      </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/routes/equipments/model.test.js" timestamp="1512158479370">
         <mark key="'" line="15" column="22" />
         <mark key="[" line="14" column="34" />
@@ -1110,11 +1116,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="4" filename="$USER_HOME$/dev/part-edge/api/src/routes/users/controller.js" />
-      <jump line="57" column="29" filename="$USER_HOME$/dev/part-edge/api/src/routes/users/controller.js" />
-      <jump line="21" column="54" filename="$USER_HOME$/dev/part-edge/api/src/middlewares/auth.js" />
-      <jump line="5" column="13" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/dashboard/children/requests.spec.js" />
-      <jump line="3" column="23" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/dashboard/children/requests.spec.js" />
       <jump line="85" column="39" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/store/modules/auth.spec.js" />
       <jump line="30" column="10" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/card/card.spec.js" />
       <jump line="6" column="0" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/store/modules/app.spec.js" />
@@ -1159,7 +1160,6 @@
       <jump line="96" column="0" filename="$USER_HOME$/dev/part-edge/client/src/components/orders/status-order.vue" />
       <jump line="44" column="8" filename="$USER_HOME$/dev/part-edge/client/src/components/orders/status-order.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/client/src/components/orders/status-order.vue" />
-      <jump line="65" column="8" filename="$USER_HOME$/dev/part-edge/client/src/components/orders/show-order.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/client/src/components/orders/show-order.vue" />
       <jump line="32" column="41" filename="$USER_HOME$/dev/part-edge/client/src/components/equipments/equipment-details.vue" />
       <jump line="6" column="6" filename="$USER_HOME$/dev/part-edge/client/src/components/equipments/children/card-equipments.vue" />
@@ -1210,6 +1210,12 @@
       <jump line="41" column="56" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/Exchange.vue" />
       <jump line="97" column="0" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/Exchange.vue" />
       <jump line="62" column="35" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/Exchange.vue" />
+      <jump line="66" column="32" filename="$USER_HOME$/dev/part-edge/client/src/components/orders/show-order.vue" />
+      <jump line="40" column="81" filename="$USER_HOME$/dev/part-edge/client/src/components/orders/show-order.vue" />
+      <jump line="43" column="103" filename="$USER_HOME$/dev/part-edge/client/src/components/orders/show-order.vue" />
+      <jump line="52" column="14" filename="$USER_HOME$/dev/part-edge/client/src/components/orders/show-order.vue" />
+      <jump line="59" column="14" filename="$USER_HOME$/dev/part-edge/client/src/components/orders/show-order.vue" />
+      <jump line="65" column="19" filename="$USER_HOME$/dev/part-edge/client/src/components/orders/show-order.vue" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1220,7 +1226,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>send</text>
+        <text>E2E</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2744,7 +2750,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>send</text>
+        <text>E2E</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2753,7 +2759,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>comment</text>
+        <text>click</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBOT0RFX0VOVjogJyJwcm9kdWN0aW9uIicsCg==</text>
@@ -8743,13 +8749,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>comment</last-search>
+      <last-search>click</last-search>
       <last-offset />
-      <last-pattern>comment</last-pattern>
+      <last-pattern>click</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -8757,7 +8763,6 @@
     </search>
     <history>
       <history-search>
-        <entry>row</entry>
         <entry>HEAD</entry>
         <entry>permission</entry>
         <entry>{{</entry>
@@ -8777,6 +8782,7 @@
         <entry>modal</entry>
         <entry>open</entry>
         <entry>comment</entry>
+        <entry>click</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2tleXMvZmllbGRzL2c=</entry>
@@ -8795,10 +8801,10 @@
         <entry>qall</entry>
         <entry encoding="base64">JzwsJz5zLzovL2c=</entry>
         <entry encoding="base64">JzwsJz5zLzsvL2c=</entry>
-        <entry>wq</entry>
-        <entry>w</entry>
         <entry>W</entry>
         <entry>q</entry>
+        <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
