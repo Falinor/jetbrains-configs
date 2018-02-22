@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/dev/part-edge/client/src/nginx.conf" timestamp="1519304857034">
+        <mark key="'" line="0" column="17" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="^" line="40" column="41" />
+        <mark key="." line="50" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/part-edge/client/config/env/index.js" timestamp="1519233284928">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -78,13 +85,14 @@
         <mark key="^" line="12" column="10" />
         <mark key="." line="12" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/dashboard/children/Exchange.spec.js" timestamp="1519295728445">
-        <mark key="'" line="5" column="17" />
-        <mark key="[" line="37" column="18" />
-        <mark key="]" line="37" column="26" />
+      <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/dashboard/children/Exchange.spec.js" timestamp="1519298931346">
+        <mark key="d" line="51" column="25" />
+        <mark key="'" line="47" column="24" />
+        <mark key="[" line="75" column="6" />
+        <mark key="]" line="75" column="5" />
         <mark key="m" line="16" column="15" />
-        <mark key="^" line="37" column="26" />
-        <mark key="." line="37" column="26" />
+        <mark key="^" line="75" column="5" />
+        <mark key="." line="75" column="5" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/src/store/modules/equipments.js" timestamp="1519150129287">
         <mark key="'" line="36" column="0" />
@@ -113,11 +121,11 @@
         <mark key="." line="23" column="3" />
         <mark key="^" line="23" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/orders/order.spec.js" timestamp="1519292823231">
-        <mark key="[" line="65" column="31" />
-        <mark key="]" line="65" column="37" />
-        <mark key="^" line="65" column="37" />
-        <mark key="." line="65" column="37" />
+      <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/orders/order.spec.js" timestamp="1519299243323">
+        <mark key="[" line="61" column="51" />
+        <mark key="]" line="61" column="51" />
+        <mark key="." line="61" column="51" />
+        <mark key="^" line="61" column="51" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/repository.js" timestamp="1518689334333">
         <mark key="[" line="50" column="38" />
@@ -125,12 +133,12 @@
         <mark key="." line="50" column="55" />
         <mark key="^" line="50" column="55" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/Exchange.vue" timestamp="1519295084572">
-        <mark key="'" line="41" column="56" />
-        <mark key="k" line="237" column="7" />
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="0" />
-        <mark key="." line="104" column="0" />
+      <file name="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/Exchange.vue" timestamp="1519305707192">
+        <mark key="'" line="75" column="21" />
+        <mark key="k" line="268" column="7" />
+        <mark key="[" line="209" column="0" />
+        <mark key="]" line="209" column="0" />
+        <mark key="." line="209" column="0" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/test/e2e/nightwatch.conf.js" timestamp="1519288905781">
         <mark key="[" line="49" column="18" />
@@ -208,21 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/store/modules/app.spec.js" />
-      <jump line="19" column="9" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/controller.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/controller.js" />
-      <jump line="15" column="33" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/index.js" />
-      <jump line="33" column="2" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/index.js" />
-      <jump line="58" column="0" filename="$USER_HOME$/dev/part-edge/client/src/store/modules/orders.js" />
-      <jump line="7" column="24" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/order.spec.js" />
-      <jump line="109" column="10" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/Requests.vue" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/Requests.vue" />
-      <jump line="110" column="40" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/store/modules/auth.spec.js" />
-      <jump line="26" column="27" filename="$USER_HOME$/dev/part-edge/client/src/services/auth.js" />
-      <jump line="67" column="3" filename="$USER_HOME$/dev/part-edge/client/src/store/modules/orders.js" />
-      <jump line="89" column="7" filename="$USER_HOME$/dev/part-edge/api/src/components/acl/index.test.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.test.js" />
-      <jump line="156" column="3" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.test.js" />
       <jump line="18" column="37" filename="$USER_HOME$/dev/part-edge/api/src/middlewares/permission.test.js" />
       <jump line="20" column="1" filename="$USER_HOME$/dev/part-edge/api/src/middlewares/permission.test.js" />
       <jump line="38" column="65" filename="$USER_HOME$/dev/part-edge/api/src/middlewares/permission.test.js" />
@@ -308,6 +301,21 @@
       <jump line="32" column="27" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/Exchange.vue" />
       <jump line="41" column="56" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/Exchange.vue" />
       <jump line="5" column="17" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/dashboard/children/Exchange.spec.js" />
+      <jump line="51" column="22" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/dashboard/children/Exchange.spec.js" />
+      <jump line="46" column="30" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/dashboard/children/Exchange.spec.js" />
+      <jump line="47" column="24" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/dashboard/children/Exchange.spec.js" />
+      <jump line="121" column="6" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/Exchange.vue" />
+      <jump line="115" column="6" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/Exchange.vue" />
+      <jump line="190" column="16" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/Exchange.vue" />
+      <jump line="116" column="22" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/Exchange.vue" />
+      <jump line="191" column="16" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/Exchange.vue" />
+      <jump line="59" column="29" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/Exchange.vue" />
+      <jump line="63" column="37" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/Exchange.vue" />
+      <jump line="65" column="35" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/Exchange.vue" />
+      <jump line="60" column="44" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/Exchange.vue" />
+      <jump line="58" column="75" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/Exchange.vue" />
+      <jump line="196" column="6" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/Exchange.vue" />
+      <jump line="75" column="21" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/Exchange.vue" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -318,7 +326,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1842,7 +1850,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>comment</text>
+        <text>comments</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1851,13 +1859,13 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>open</text>
+        <text>comment</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBOT0RFX0VOVjogJyJwcm9kdWN0aW9uIicsCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5zZWxlY3RlZE9yZGVyLmNvbW1lbnRzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7050,22 +7058,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJyRkYXRhJywgdm0pOwo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zZW5kQ29tbWVudCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codm0uJGRhdGEpOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcG46IHNpbm9uLnNweSgpLAo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5wcmV2Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaGFzUGVybWlzc2lvbjogc2lub24uc3B5KCksCg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zZWxlY3RlZE9yZGVyLmNvbW1lbnRzID0gdGhpcy5jb21tZW50czsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgJ29yZGVycycsCg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zZWxlY3RlZE9yZGVyLmNvbW1lbnRzID0gdGhpcy5jb21tZW50czsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -7835,21 +7843,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="4">
-        <text>hasPermission: sinon.spy(),
-        order: sinon.spy(),
-        pn: sinon.spy(),</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5jb21tZW50cwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>open</last-search>
+      <last-search>comment</last-search>
       <last-offset />
-      <last-pattern>open</last-pattern>
+      <last-pattern>comment</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -7874,9 +7880,9 @@
         <entry>partNumber</entry>
         <entry>partNumberExists</entry>
         <entry>modal</entry>
-        <entry>comment</entry>
         <entry>click</entry>
         <entry>open</entry>
+        <entry>comment</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2tleXMvZmllbGRzL2c=</entry>
