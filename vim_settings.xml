@@ -295,13 +295,13 @@
         <mark key="." line="3" column="53" />
         <mark key="^" line="3" column="65" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/services/auth.js" timestamp="1519496665438">
+      <file name="$USER_HOME$/dev/part-edge/client/src/services/auth.js" timestamp="1519498986700">
         <mark key="'" line="14" column="0" />
         <mark key="j" line="13" column="0" />
-        <mark key="[" line="10" column="17" />
-        <mark key="]" line="17" column="17" />
-        <mark key="." line="17" column="17" />
-        <mark key="^" line="17" column="17" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="25" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/Error404.spec.js" timestamp="1513178759555">
         <mark key="'" line="24" column="27" />
@@ -1288,8 +1288,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>all</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGlzc3VlcjogcHJvY2Vzcy5lbnYuTVNfSVNTVUVSLAo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2828,28 +2828,28 @@
         <text encoding="base64">ICAgIGF1dGhvcml6YXRpb25fZW5kcG9pbnQ6IGAke3Byb2Nlc3MuZW52LklEX1BST1ZJREVSfS9vYXV0aDIvYXV0aG9yaXplYCwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+        <text encoding="base64">ICAgIGlzc3VlcjogcHJvY2Vzcy5lbnYuTVNfSVNTVUVSLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBtZXRhZGF0YTogewo=</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMucwo=</text>
+        <text encoding="base64">ICBtZXRhZGF0YTogewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBodHRwczovL2xvZ2luLm1pY3Jvc29mdG9ubGluZS5jb20vNWE1NGQyZWEtNWVjMy00ZWUyLWJmZjYtOTBhZWEzNGRmMWIwCg==</text>
+        <text encoding="base64">ICAgIHRoaXMucwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICBodHRwczovL2xvZ2luLm1pY3Jvc29mdG9ubGluZS5jb20vNWE1NGQyZWEtNWVjMy00ZWUyLWJmZjYtOTBhZWEzNGRmMWIwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9CiAgICAgICAgZWxzZSBpZiAob3B0aW9ucy5wYXJlbnQgJiYgb3B0aW9ucy5wYXJlbnQuJHNlcnZpY2VzKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAob3B0aW9ucy5zZXJ2aWNlcykgewogICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB9CiAgICAgICAgZWxzZSBpZiAob3B0aW9ucy5wYXJlbnQgJiYgb3B0aW9ucy5wYXJlbnQuJHNlcnZpY2VzKSB7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2876,15 +2876,15 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAob3B0aW9ucy5zZXJ2aWNlcykgewogICAgICAgICAgCg==</text>
+      </register>
+      <register name="9" type="4">
         <text>this.$services = options.services || {
             authService,
             equipmentService,
             orderService,
           };</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
