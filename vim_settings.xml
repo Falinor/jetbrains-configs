@@ -225,7 +225,7 @@
         <mark key="." line="47" column="24" />
         <mark key="^" line="47" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/config/env.js" timestamp="1519432113574">
+      <file name="$USER_HOME$/dev/part-edge/client/config/env.js" timestamp="1519461955325">
         <mark key="[" line="58" column="46" />
         <mark key="]" line="58" column="92" />
         <mark key="^" line="58" column="92" />
@@ -236,6 +236,15 @@
         <mark key="[" line="97" column="44" />
         <mark key="]" line="97" column="44" />
         <mark key="." line="97" column="44" />
+      </file>
+      <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/equipments/children/equipment-form.spec.js" timestamp="1519462024131">
+        <mark key="'" line="145" column="10" />
+        <mark key="i" line="92" column="9" />
+        <mark key="j" line="97" column="11" />
+        <mark key="[" line="156" column="11" />
+        <mark key="]" line="138" column="9" />
+        <mark key="." line="138" column="9" />
+        <mark key="^" line="138" column="9" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/importer/migrations/20171127173532-create-location.js" timestamp="1511804428676">
         <mark key="'" line="49" column="0" />
@@ -423,9 +432,6 @@
         <mark key="]" line="5" column="15" />
         <mark key="." line="5" column="15" />
         <mark key="^" line="5" column="15" />
-      </file>
-      <file name="$USER_HOME$/dev/part-edge/api/dist/middlewares/permission.js" timestamp="1519399628963">
-        <mark key="'" line="11" column="39" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/src/components/orders/children/cancel-order.vue" timestamp="1518630792968">
         <mark key="[" line="32" column="0" />
@@ -832,11 +838,11 @@
         <mark key="." line="15" column="41" />
         <mark key="^" line="15" column="41" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/test/e2e/nightwatch.conf.js" timestamp="1519416103231">
-        <mark key="[" line="49" column="10" />
-        <mark key="]" line="49" column="10" />
-        <mark key="." line="49" column="10" />
-        <mark key="^" line="49" column="17" />
+      <file name="$USER_HOME$/dev/part-edge/client/test/e2e/nightwatch.conf.js" timestamp="1519462116848">
+        <mark key="[" line="49" column="18" />
+        <mark key="]" line="49" column="16" />
+        <mark key="." line="49" column="16" />
+        <mark key="^" line="49" column="16" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/src/components/Navbar.vue" timestamp="1517845970922">
         <mark key="'" line="66" column="10" />
@@ -1121,11 +1127,11 @@
         <mark key="." line="14" column="13" />
         <mark key="^" line="4" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/test/e2e/specs/main.js" timestamp="1519431851998">
-        <mark key="[" line="17" column="83" />
-        <mark key="]" line="17" column="81" />
-        <mark key="." line="17" column="81" />
-        <mark key="^" line="17" column="81" />
+      <file name="$USER_HOME$/dev/part-edge/client/test/e2e/specs/main.js" timestamp="1519462108646">
+        <mark key="[" line="6" column="16" />
+        <mark key="]" line="7" column="35" />
+        <mark key="." line="7" column="35" />
+        <mark key="^" line="7" column="35" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/routes/equipments/model.test.js" timestamp="1512158479370">
         <mark key="'" line="15" column="22" />
@@ -1272,8 +1278,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CnVzZXJNYW5hZ2VyLnNpZ25pblBvcHVwKCkK</text>
+      <register name="&quot;" type="4">
+        <text>headless</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2797,7 +2803,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>GRAPH_API</text>
+        <text>headless</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2812,28 +2818,28 @@
         <text encoding="base64">ICAgICAgICB3cmFwcGVyLnZtLmZldGNoRXF1aXBtZW50cygpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CnVzZXJNYW5hZ2VyLnNpZ25pblBvcHVwKCkK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBsb2dJbiwKICBsb2dPdXQsCg==</text>
+        <text encoding="base64">CnVzZXJNYW5hZ2VyLnNpZ25pblBvcHVwKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBmZXRjaFVzZXJHcm91cHMsCiAgZmV0Y2hVc2VyUHJvZmlsZSwK</text>
+        <text encoding="base64">ICBsb2dJbiwKICBsb2dPdXQsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpc0V4cGlyZWQsCg==</text>
+        <text encoding="base64">ICBmZXRjaFVzZXJHcm91cHMsCiAgZmV0Y2hVc2VyUHJvZmlsZSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cocHJvY2Vzcy5lbnYpOwo=</text>
+        <text encoding="base64">ICBpc0V4cGlyZWQsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkpOwoK</text>
+        <text encoding="base64">Y29uc29sZS5sb2cocHJvY2Vzcy5lbnYpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coSlNPTi5wYXJzZSk7Cgo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkpOwoK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2861,13 +2867,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coSlNPTi5wYXJzZSk7Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgSlNPTiA9IHJlcXVpcmUoJ0pTT04nKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -2921,8 +2927,8 @@
         <entry encoding="base64">JzwsJz5zL3dyYXBwZXIuZW1pdHRlcignaW5wdXQnKS9lbWl0dGVkL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3dyYXBwZXIuZW1pdHRlZCgnaW5wdXQnKS9lbWl0dGVkL2c=</entry>
         <entry>wq</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
