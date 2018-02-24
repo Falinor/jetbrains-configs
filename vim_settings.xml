@@ -225,12 +225,12 @@
         <mark key="." line="47" column="24" />
         <mark key="^" line="47" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/config/env.js" timestamp="1519482761375">
-        <mark key="'" line="62" column="0" />
-        <mark key="[" line="56" column="125" />
-        <mark key="]" line="56" column="127" />
-        <mark key="^" line="56" column="127" />
-        <mark key="." line="56" column="127" />
+      <file name="$USER_HOME$/dev/part-edge/client/config/env.js" timestamp="1519485160678">
+        <mark key="'" line="65" column="0" />
+        <mark key="[" line="64" column="37" />
+        <mark key="]" line="64" column="36" />
+        <mark key="^" line="64" column="36" />
+        <mark key="." line="64" column="36" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/components/acl/index.test.js" timestamp="1519402270946">
         <mark key="'" line="78" column="23" />
@@ -295,13 +295,13 @@
         <mark key="." line="3" column="53" />
         <mark key="^" line="3" column="65" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/services/auth.js" timestamp="1519483748994">
+      <file name="$USER_HOME$/dev/part-edge/client/src/services/auth.js" timestamp="1519486090020">
         <mark key="'" line="14" column="0" />
         <mark key="j" line="13" column="0" />
-        <mark key="[" line="9" column="28" />
-        <mark key="]" line="9" column="25" />
-        <mark key="." line="9" column="25" />
-        <mark key="^" line="9" column="25" />
+        <mark key="[" line="10" column="17" />
+        <mark key="]" line="10" column="17" />
+        <mark key="." line="10" column="17" />
+        <mark key="^" line="19" column="39" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/Error404.spec.js" timestamp="1513178759555">
         <mark key="'" line="24" column="27" />
@@ -1054,7 +1054,7 @@
         <mark key="." line="17" column="2" />
         <mark key="^" line="17" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519463434302">
+      <file name="/Dummy.txt" timestamp="1519485716252">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/brainfuck-interpreter/test/commands/loop.test.js" timestamp="1516101373538">
@@ -1289,7 +1289,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>boken</text>
+        <text>all</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2813,7 +2813,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>boken</text>
+        <text>all</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2825,35 +2825,31 @@
         <text>JSON.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAvLyBJRF9QUk9WSURFUjogc3RyaW5naWZ5KHByb2Nlc3MuZW52LklEX1BST1ZJREVSKSB8fCAnImh0dHBzOi8vbG9naW4ubWljcm9zb2Z0b25saW5lLmNvbS9lNWE1NGQyZWEtNWVjMy00ZWUyLWJmZjYtOTBhZWEzNGRmMWIwIicsCg==</text>
+        <text encoding="base64">ICAgIGF1dGhvcml6YXRpb25fZW5kcG9pbnQ6IGAke3Byb2Nlc3MuZW52LklEX1BST1ZJREVSfS9vYXV0aDIvYXV0aG9yaXplYCwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMucwo=</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBodHRwczovL2xvZ2luLm1pY3Jvc29mdG9ubGluZS5jb20vNWE1NGQyZWEtNWVjMy00ZWUyLWJmZjYtOTBhZWEzNGRmMWIwCg==</text>
+        <text encoding="base64">ICBtZXRhZGF0YTogewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMucwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9CiAgICAgICAgZWxzZSBpZiAob3B0aW9ucy5wYXJlbnQgJiYgb3B0aW9ucy5wYXJlbnQuJHNlcnZpY2VzKSB7Cg==</text>
+        <text encoding="base64">ICBodHRwczovL2xvZ2luLm1pY3Jvc29mdG9ubGluZS5jb20vNWE1NGQyZWEtNWVjMy00ZWUyLWJmZjYtOTBhZWEzNGRmMWIwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAob3B0aW9ucy5zZXJ2aWNlcykgewogICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>this.$services = options.services || {
-            authService,
-            equipmentService,
-            orderService,
-          };</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB9CiAgICAgICAgZWxzZSBpZiAob3B0aW9ucy5wYXJlbnQgJiYgb3B0aW9ucy5wYXJlbnQuJHNlcnZpY2VzKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAob3B0aW9ucy5zZXJ2aWNlcykgewogICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2880,11 +2876,15 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMuJHNlcnZpY2VzID0gb3B0aW9ucy5wYXJlbnQuJHNlcnZpY2VzOwo=</text>
+      <register name="8" type="4">
+        <text>this.$services = options.services || {
+            authService,
+            equipmentService,
+            orderService,
+          };</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgYX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
