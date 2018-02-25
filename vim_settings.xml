@@ -241,12 +241,6 @@
         <mark key="^" line="62" column="126" />
         <mark key="." line="62" column="126" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/src/components/acl/index.test.js" timestamp="1519402270946">
-        <mark key="'" line="78" column="23" />
-        <mark key="[" line="97" column="44" />
-        <mark key="]" line="97" column="44" />
-        <mark key="." line="97" column="44" />
-      </file>
       <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/equipments/children/equipment-form.spec.js" timestamp="1519462024131">
         <mark key="'" line="145" column="10" />
         <mark key="i" line="92" column="9" />
@@ -479,12 +473,6 @@
         <mark key="." line="22" column="22" />
         <mark key="^" line="22" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/build/script.e2e.js" timestamp="1519408231048">
-        <mark key="'" line="21" column="4" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/part-edge/importer/models/delay.js" timestamp="1511804503393">
         <mark key="'" line="1" column="8" />
         <mark key="[" line="16" column="5" />
@@ -644,10 +632,11 @@
         <mark key="." line="1" column="1" />
         <mark key="^" line="1" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/components/dashboard/Dashboard.vue" timestamp="1519575208391">
+      <file name="$USER_HOME$/dev/part-edge/client/src/components/dashboard/Dashboard.vue" timestamp="1519579288524">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
+        <mark key="^" line="30" column="44" />
         <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/config/index.test.js" timestamp="1512550971557">
@@ -1130,12 +1119,12 @@
         <mark key="^" line="12" column="90" />
         <mark key="." line="12" column="90" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/dashboard/Dashboard.spec.js" timestamp="1519577272029">
-        <mark key="'" line="18" column="11" />
-        <mark key="[" line="30" column="15" />
-        <mark key="]" line="30" column="50" />
-        <mark key="^" line="30" column="50" />
-        <mark key="." line="30" column="50" />
+      <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/dashboard/Dashboard.spec.js" timestamp="1519579755815">
+        <mark key="'" line="23" column="15" />
+        <mark key="[" line="4" column="24" />
+        <mark key="]" line="30" column="40" />
+        <mark key="^" line="30" column="40" />
+        <mark key="." line="30" column="40" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/Auth.spec.js" timestamp="1513007917486">
         <mark key="'" line="2" column="47" />
@@ -1164,12 +1153,6 @@
         <mark key="." line="14" column="34" />
         <mark key="^" line="14" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/components/equipments/children/equipment-form.vue" timestamp="1519377568809">
-        <mark key="'" line="137" column="0" />
-        <mark key="[" line="190" column="0" />
-        <mark key="]" line="190" column="0" />
-        <mark key="." line="190" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/index.js" timestamp="1518615494336">
         <mark key="'" line="33" column="2" />
         <mark key="[" line="69" column="75" />
@@ -1193,7 +1176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="10" filename="$USER_HOME$/dev/part-edge/client/src/components/orders/initialize-order.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/client/src/components/orders/initialize-order.vue" />
       <jump line="25" column="0" filename="$USER_HOME$/dev/part-edge/client/src/components/equipments/children/equipment-form.vue" />
       <jump line="132" column="13" filename="$USER_HOME$/dev/part-edge/client/src/components/equipments/children/equipment-form.vue" />
@@ -1293,6 +1275,7 @@
       <jump line="11" column="35" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/dashboard/Dashboard.spec.js" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/dashboard/Dashboard.spec.js" />
       <jump line="18" column="11" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/dashboard/Dashboard.spec.js" />
+      <jump line="23" column="15" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/dashboard/Dashboard.spec.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1302,8 +1285,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZpbmRPcmRlcnM6IHNpbm9uLnNweSgpLAo=</text>
+      <register name="&quot;" type="4">
+        <text>dispatch</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2827,7 +2810,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Um91dGVyIA==</text>
+        <text>dispatch</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2842,28 +2825,28 @@
         <text encoding="base64">ICAgIGF1dGhvcml6YXRpb25fZW5kcG9pbnQ6IGAke3Byb2Nlc3MuZW52LklEX1BST1ZJREVSfS9vYXV0aDIvYXV0aG9yaXplYCwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZpbmRPcmRlcnM6IHNpbm9uLnNweSgpLAo=</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3QoZmluZE9yZGVycykudG8uaGF2ZS5iZWVuLmNhbGxlZE9uY2U7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmluZE9yZGVyczogc2lub24uc3B5KCksCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgbWFwQWN0aW9ucyB9IGZyb20gJ3Z1ZXgnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmluZE9yZGVyczogc2lub24uc3B5KCksCg==</text>
+        <text encoding="base64">ICBtZXRob2RzOiBtYXBBY3Rpb25zKFsnZmluZE9yZGVycyd9XSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3Qod3JhcHBlcikK</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IFZ1ZVJvdXRlciBmcm9tICd2dWUtcm91dGVyJzsK</text>
+        <text encoding="base64">ICAgIHRoaXMuJHN0b3JlLmRpc3BhdGNoKCdmaW5kT3JkZXJzJywgewogICAgICBzdGF0dXM6ICdWYWxpZGF0ZWQnLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bG9jYWxWdWUudXNlKFZ1ZVJvdXRlcik7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuJHMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJvdXRlciwK</text>
+        <text encoding="base64">ICAgICAgICAgIGZpbmRPcmRlcnM6IHNpbm9uLnNweSgpLAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2891,10 +2874,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgbWFwQWN0b3B9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmluZE9yZGVyczogc2lub24uc3B5KCksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgc2hhbGxvdyB9IGZyb20gJ3Z1ZS10ZXN0LXV0aWxzJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmluZE9yZGVyczogc2lub24uc3B5KCksCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
