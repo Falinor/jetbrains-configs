@@ -1130,12 +1130,12 @@
         <mark key="^" line="12" column="90" />
         <mark key="." line="12" column="90" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/dashboard/Dashboard.spec.js" timestamp="1519575366534">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="0" column="26" />
-        <mark key="]" line="1" column="31" />
-        <mark key="^" line="1" column="31" />
-        <mark key="." line="1" column="31" />
+      <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/dashboard/Dashboard.spec.js" timestamp="1519577272029">
+        <mark key="'" line="18" column="11" />
+        <mark key="[" line="30" column="15" />
+        <mark key="]" line="30" column="50" />
+        <mark key="^" line="30" column="50" />
+        <mark key="." line="30" column="50" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/Auth.spec.js" timestamp="1513007917486">
         <mark key="'" line="2" column="47" />
@@ -1193,7 +1193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/dev/part-edge/client/src/components/orders/show-order.vue" />
       <jump line="23" column="10" filename="$USER_HOME$/dev/part-edge/client/src/components/orders/initialize-order.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/client/src/components/orders/initialize-order.vue" />
       <jump line="25" column="0" filename="$USER_HOME$/dev/part-edge/client/src/components/equipments/children/equipment-form.vue" />
@@ -1293,6 +1292,7 @@
       <jump line="5" column="6" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/dashboard/Dashboard.spec.js" />
       <jump line="11" column="35" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/dashboard/Dashboard.spec.js" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/dashboard/Dashboard.spec.js" />
+      <jump line="18" column="11" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/dashboard/Dashboard.spec.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1303,7 +1303,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgbWFwQWN0b3B9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGZpbmRPcmRlcnM6IHNpbm9uLnNweSgpLAo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2827,7 +2827,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29uc3Qg</text>
+        <text encoding="base64">Um91dGVyIA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2842,30 +2842,28 @@
         <text encoding="base64">ICAgIGF1dGhvcml6YXRpb25fZW5kcG9pbnQ6IGAke3Byb2Nlc3MuZW52LklEX1BST1ZJREVSfS9vYXV0aDIvYXV0aG9yaXplYCwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgbWFwQWN0b3B9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGZpbmRPcmRlcnM6IHNpbm9uLnNweSgpLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgc2hhbGxvdyB9IGZyb20gJ3Z1ZS10ZXN0LXV0aWxzJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmluZE9yZGVyczogc2lub24uc3B5KCksCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBTcHkgb24gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmluZE9yZGVyczogc2lub24uc3B5KCksCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3Qod3JhcHBlcikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IFZ1ZVJvdXRlciBmcm9tICd2dWUtcm91dGVyJzsK</text>
       </register>
-      <register name="6" type="4">
-        <text>const wrapper = shallow(Dashboard, {
-        store,
-      });</text>
+      <register name="6" type="2">
+        <text encoding="base64">bG9jYWxWdWUudXNlKFZ1ZVJvdXRlcik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBqCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJvdXRlciwK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2892,13 +2890,11 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text>const wrapper = shallow(Dashboard, {
-      store,
-    });</text>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IHsgbWFwQWN0b3B9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgc2hhbGxvdyB9IGZyb20gJ3Z1ZS10ZXN0LXV0aWxzJzsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
