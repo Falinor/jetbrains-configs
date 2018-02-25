@@ -201,6 +201,12 @@
         <mark key="^" line="40" column="75" />
         <mark key="." line="40" column="75" />
       </file>
+      <file name="$USER_HOME$/dev/part-edge/client/templates/test.spec.js" timestamp="1519564617116">
+        <mark key="[" line="10" column="22" />
+        <mark key="]" line="10" column="36" />
+        <mark key="^" line="10" column="36" />
+        <mark key="." line="10" column="36" />
+      </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/components/validator/validator.js" timestamp="1514996041080">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="12" column="27" />
@@ -234,12 +240,6 @@
         <mark key="]" line="62" column="126" />
         <mark key="^" line="62" column="126" />
         <mark key="." line="62" column="126" />
-      </file>
-      <file name="$USER_HOME$/dev/part-edge/api/src/components/acl/index.test.js" timestamp="1519402270946">
-        <mark key="'" line="78" column="23" />
-        <mark key="[" line="97" column="44" />
-        <mark key="]" line="97" column="44" />
-        <mark key="." line="97" column="44" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/equipments/children/equipment-form.spec.js" timestamp="1519462024131">
         <mark key="'" line="145" column="10" />
@@ -472,12 +472,6 @@
         <mark key="]" line="22" column="22" />
         <mark key="." line="22" column="22" />
         <mark key="^" line="22" column="22" />
-      </file>
-      <file name="$USER_HOME$/dev/part-edge/client/build/script.e2e.js" timestamp="1519408231048">
-        <mark key="'" line="21" column="4" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/importer/models/delay.js" timestamp="1511804503393">
         <mark key="'" line="1" column="8" />
@@ -1125,6 +1119,13 @@
         <mark key="^" line="12" column="90" />
         <mark key="." line="12" column="90" />
       </file>
+      <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/dashboard/Dashboard.spec.js" timestamp="1519574080475">
+        <mark key="'" line="5" column="6" />
+        <mark key="[" line="9" column="6" />
+        <mark key="]" line="11" column="7" />
+        <mark key="^" line="9" column="5" />
+        <mark key="." line="9" column="6" />
+      </file>
       <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/Auth.spec.js" timestamp="1513007917486">
         <mark key="'" line="2" column="47" />
         <mark key="[" line="26" column="22" />
@@ -1152,12 +1153,6 @@
         <mark key="." line="14" column="34" />
         <mark key="^" line="14" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/components/equipments/children/equipment-form.vue" timestamp="1519377568809">
-        <mark key="'" line="137" column="0" />
-        <mark key="[" line="190" column="0" />
-        <mark key="]" line="190" column="0" />
-        <mark key="." line="190" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/index.js" timestamp="1518615494336">
         <mark key="'" line="33" column="2" />
         <mark key="[" line="69" column="75" />
@@ -1181,8 +1176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="42" filename="$USER_HOME$/dev/part-edge/client/src/components/orders/initialize-order.vue" />
-      <jump line="6" column="27" filename="$USER_HOME$/dev/part-edge/client/src/components/orders/initialize-order.vue" />
       <jump line="63" column="0" filename="$USER_HOME$/dev/part-edge/client/src/components/orders/initialize-order.vue" />
       <jump line="26" column="19" filename="$USER_HOME$/dev/part-edge/client/src/themes/app.variables.styl" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/part-edge/client/src/components/orders/show-order.vue" />
@@ -1281,6 +1274,8 @@
       <jump line="35907" column="0" filename="$USER_HOME$/dev/part-edge/client/dist/development/js/vendor.js" />
       <jump line="15" column="9" filename="$USER_HOME$/dev/part-edge/client/src/services/index.js" />
       <jump line="28" column="9" filename="$USER_HOME$/dev/part-edge/client/dist/development/js/app.js" />
+      <jump line="30" column="0" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/dashboard/Dashboard.spec.js" />
+      <jump line="5" column="6" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/dashboard/Dashboard.spec.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1291,7 +1286,9 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>ID_PROVIDER</text>
+        <text>const wrapper = shallow(Dashboard, {
+      store,
+    });</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2815,7 +2812,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ID_PROVIDER</text>
+        <text encoding="base64">Y29uc3Qg</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2829,29 +2826,31 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGF1dGhvcml6YXRpb25fZW5kcG9pbnQ6IGAke3Byb2Nlc3MuZW52LklEX1BST1ZJREVSfS9vYXV0aDIvYXV0aG9yaXplYCwK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGlzc3VlcjogcHJvY2Vzcy5lbnYuTVNfSVNTVUVSLAo=</text>
+      <register name="1" type="4">
+        <text>const wrapper = shallow(Dashboard, {
+      store,
+    });</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBtZXRhZGF0YTogewo=</text>
+        <text encoding="base64">ICAgIHdyYXBwZXIuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMucwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBodHRwczovL2xvZ2luLm1pY3Jvc29mdG9ubGluZS5jb20vNWE1NGQyZWEtNWVjMy00ZWUyLWJmZjYtOTBhZWEzNGRmMWIwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICBsZXQgd3JhcHBlcjsKICBsZXQgdm07Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9CiAgICAgICAgZWxzZSBpZiAob3B0aW9ucy5wYXJlbnQgJiYgb3B0aW9ucy5wYXJlbnQuJHNlcnZpY2VzKSB7Cg==</text>
+        <text encoding="base64">CiAgYmVmb3JlRWFjaCgoKSA9PiB7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2879,17 +2878,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAob3B0aW9ucy5zZXJ2aWNlcykgewogICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>this.$services = options.services || {
-            authService,
-            equipmentService,
-            orderService,
-          };</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHdyYXBwZXIgPSBzaGFsbG93KERhc2hib2FyZCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -2941,10 +2936,10 @@
         <entry encoding="base64">JzwsJz5zL3dyYXBwZXIuZW1pdHRlcignaW5wdXQnKS9lbWl0dGVkL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3dyYXBwZXIuZW1pdHRlZCgnaW5wdXQnKS9lbWl0dGVkL2c=</entry>
         <entry>wq</entry>
-        <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL0pTT04uLy9n</entry>
         <entry>qw</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
