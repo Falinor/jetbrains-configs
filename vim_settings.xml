@@ -257,13 +257,13 @@
         <mark key="." line="3" column="53" />
         <mark key="^" line="3" column="65" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/services/auth.js" timestamp="1519651787935">
+      <file name="$USER_HOME$/dev/part-edge/client/src/services/auth.js" timestamp="1519652764870">
         <mark key="'" line="86" column="6" />
         <mark key="j" line="14" column="0" />
-        <mark key="[" line="28" column="38" />
-        <mark key="]" line="28" column="38" />
-        <mark key="^" line="28" column="38" />
-        <mark key="." line="28" column="38" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="37" column="38" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/Error404.spec.js" timestamp="1513178759555">
         <mark key="'" line="24" column="27" />
@@ -377,11 +377,11 @@
         <mark key="." line="10" column="16" />
         <mark key="^" line="10" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/components/auth/Auth.vue" timestamp="1519644396133">
-        <mark key="[" line="22" column="13" />
-        <mark key="]" line="23" column="42" />
-        <mark key="." line="23" column="42" />
-        <mark key="^" line="23" column="42" />
+      <file name="$USER_HOME$/dev/part-edge/client/src/components/auth/Auth.vue" timestamp="1519652801056">
+        <mark key="[" line="22" column="4" />
+        <mark key="]" line="22" column="9" />
+        <mark key="." line="22" column="9" />
+        <mark key="^" line="22" column="9" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/importer/migrations/20171130190802_create-delays.js" timestamp="1512145793116">
         <mark key="'" line="10" column="33" />
@@ -431,12 +431,12 @@
         <mark key="." line="4" column="30" />
         <mark key="^" line="4" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/components/auth/AuthCallback.vue" timestamp="1519649114168">
+      <file name="$USER_HOME$/dev/part-edge/client/src/components/auth/AuthCallback.vue" timestamp="1519652791301">
         <mark key="'" line="11" column="43" />
-        <mark key="[" line="10" column="58" />
-        <mark key="]" line="10" column="64" />
-        <mark key="." line="10" column="64" />
-        <mark key="^" line="10" column="64" />
+        <mark key="[" line="11" column="12" />
+        <mark key="]" line="11" column="11" />
+        <mark key="." line="11" column="11" />
+        <mark key="^" line="11" column="11" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/routes/index.test.js" timestamp="1517916461286">
         <mark key="'" line="31" column="0" />
@@ -603,11 +603,10 @@
         <mark key="^" line="41" column="54" />
         <mark key="." line="41" column="54" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/store/modules/auth.js" timestamp="1519650605772">
-        <mark key="[" line="30" column="63" />
-        <mark key="]" line="30" column="61" />
-        <mark key="." line="30" column="61" />
-        <mark key="^" line="30" column="61" />
+      <file name="$USER_HOME$/dev/part-edge/client/src/store/modules/auth.js" timestamp="1519653111432">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/comments.component.ts" timestamp="1516376301164">
         <mark key="'" line="8" column="23" />
@@ -1205,7 +1204,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zdCBhdXRoSGVhZGVyID0gOwo=</text>
+        <text encoding="base64">ICBleHBpcmVzQXQ6IHN0YXRlID0+CiAgICAoc3RhdGUuZXhwaXJlc0F0ID8gc3RhdGUuZXhwaXJlc0F0IDogbG9jYWxTdG9yYWdlLmdldEl0ZW0oJ2V4cGlyZXNfYXQnKSksCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2729,7 +2728,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>authHeader</text>
+        <text>s</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2744,31 +2743,28 @@
         <text encoding="base64">ICAgICAgZXhwZWN0KHdyYXBwZXIudm0uJHN0b3JlLmRpc3BhdGNoKS50by5oYXZlLmJlZW4uY2FsbGVkT25jZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdCBhdXRoSGVhZGVyID0gOwo=</text>
+        <text encoding="base64">ICBleHBpcmVzQXQ6IHN0YXRlID0+CiAgICAoc3RhdGUuZXhwaXJlc0F0ID8gc3RhdGUuZXhwaXJlc0F0IDogbG9jYWxTdG9yYWdlLmdldEl0ZW0oJ2V4cGlyZXNfYXQnKSksCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcm9maWxlOgogICAgc3RhdGUgPT4gKHN0YXRlLnByb2ZpbGUgPyBzdGF0ZS5wcm9maWxlIDogYXV0aFNlcnZpY2UuZ2V0VXNlclByb2ZpbGUoKSksCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB1c2VyLgo=</text>
+        <text encoding="base64">ICAgICAgLy8gcmV0dXJuIHRoaXMuJHNlcnZpY2VzLmF1dGhTZXJ2aWNlLnVzZXJNYW5hZ2VyLnNpZ25pblJlZGlyZWN0KCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCgo=</text>
+        <text encoding="base64">Ci8qKgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogUmV0cmlldmUgdGhlIFVzZXJQcm9maWxlID0gKCkgPT4gSlNPTi5wYXJzZShsb2NhbFN0b3JhZ2UuZ2V0SXRlbSgncHJvZmlsZScpKTsK</text>
+        <text encoding="base64">ICogUmV0cmlldmUgdGhlIHVzZXIncyBwcm9maWxlIGZyb20gd2ViIHN0b3JhZ2UuCiAqIEByZXR1cm4ge29iamVjdH0gVGhlIHVzZXIncyBwcm9maWxlLgo=</text>
       </register>
-      <register name="6" type="4">
-        <text>user's profile from web storage.
- * @return {object} The user's profile.
- */
-export const get</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICovCmV4cG9ydCBjb25zdCBnZXRVc2VyUHJvZmlsZSA9ICgpID0+IEpTT04ucGFyc2UobG9jYWxTdG9yYWdlLmdldEl0ZW0oJ3Byb2ZpbGUnKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBnZXRVc2VyUHJvZmlsZSwK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh1c2VyKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2796,7 +2792,7 @@ export const get</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBmZXRjaFVzZXJQcm9maWxlLAo=</text>
+        <text encoding="base64">ICBjb25zdCBhdXRoSGVhZGVyID0gOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
