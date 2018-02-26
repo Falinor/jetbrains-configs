@@ -257,13 +257,13 @@
         <mark key="." line="3" column="53" />
         <mark key="^" line="3" column="65" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/services/auth.js" timestamp="1519650797382">
+      <file name="$USER_HOME$/dev/part-edge/client/src/services/auth.js" timestamp="1519651787935">
         <mark key="'" line="86" column="6" />
         <mark key="j" line="14" column="0" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="27" column="11" />
-        <mark key="." line="27" column="0" />
+        <mark key="[" line="28" column="38" />
+        <mark key="]" line="28" column="38" />
+        <mark key="^" line="28" column="38" />
+        <mark key="." line="28" column="38" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/Error404.spec.js" timestamp="1513178759555">
         <mark key="'" line="24" column="27" />
@@ -1205,7 +1205,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB1c2VyLmV4cGlyZWQK</text>
+        <text encoding="base64">ICBjb25zdCBhdXRoSGVhZGVyID0gOwo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2729,7 +2729,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">QmVhcmVyIA==</text>
+        <text>authHeader</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2744,30 +2744,31 @@
         <text encoding="base64">ICAgICAgZXhwZWN0KHdyYXBwZXIudm0uJHN0b3JlLmRpc3BhdGNoKS50by5oYXZlLmJlZW4uY2FsbGVkT25jZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB1c2VyLmV4cGlyZWQK</text>
+        <text encoding="base64">ICBjb25zdCBhdXRoSGVhZGVyID0gOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnbG9nSW5DQicsIHVzZXIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpc0V4cGlyZWQsCg==</text>
+        <text encoding="base64">ICB1c2VyLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+        <text encoding="base64">LyoqCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBhc3luYyBnZXRVc2VyKHsgc3RhdGUgfSkgewogICAgcmV0dXJuIHN0YXRlLnVzZXIgPyBzdGF0ZS51c2VyIDogYXV0aFNlcnZpY2UudXNlck1hbmFnZXIuZ2V0VXNlcigpOwo=</text>
+        <text encoding="base64">ICogUmV0cmlldmUgdGhlIFVzZXJQcm9maWxlID0gKCkgPT4gSlNPTi5wYXJzZShsb2NhbFN0b3JhZ2UuZ2V0SXRlbSgncHJvZmlsZScpKTsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBhc3luYyAK</text>
+      <register name="6" type="4">
+        <text>user's profile from web storage.
+ * @return {object} The user's profile.
+ */
+export const get</text>
       </register>
-      <register name="7" type="4">
-        <text>async getUser({ state }) {
-    return state.user ? state.user : authService.userManager.getUser();
-  },</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBnZXRVc2VyUHJvZmlsZSwK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2795,10 +2796,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmV4cG9ydCBjb25zdCBpc0V4cGlyZWQgPSBhc3luYyBleHBpcmVzQXQgPT4gRGF0ZS5ub3coKSA+PSBleHBpcmVzQXQ7Cg==</text>
+        <text encoding="base64">ICBmZXRjaFVzZXJQcm9maWxlLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnbG9nSW5DQicsIHVzZXIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
