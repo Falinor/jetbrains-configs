@@ -71,11 +71,10 @@
         <mark key="^" line="3" column="16" />
         <mark key="." line="3" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/services/user-manager/index.js" timestamp="1519841113067">
-        <mark key="'" line="18" column="3" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="45" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/dev/part-edge/client/src/services/user-manager/index.js" timestamp="1519895376171">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/src/store/mutation-types.js" timestamp="1519831113747">
         <mark key="'" line="31" column="0" />
@@ -194,6 +193,11 @@
         <mark key="]" line="40" column="75" />
         <mark key="^" line="40" column="75" />
         <mark key="." line="40" column="75" />
+      </file>
+      <file name="$USER_HOME$/dev/part-edge/client/src/services/order.js" timestamp="1519814391007">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/components/validator/validator.js" timestamp="1514996041080">
         <mark key="'" line="0" column="0" />
@@ -795,10 +799,10 @@
         <mark key="^" line="226" column="55" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/src/components/Home.vue" timestamp="1519841183236">
-        <mark key="[" line="48" column="40" />
-        <mark key="]" line="48" column="40" />
+        <mark key="[" line="49" column="40" />
+        <mark key="]" line="49" column="40" />
         <mark key="^" line="5" column="18" />
-        <mark key="." line="48" column="40" />
+        <mark key="." line="49" column="40" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/src/components/Navbar.vue" timestamp="1517845970922">
         <mark key="'" line="66" column="10" />
@@ -1234,7 +1238,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>logInSilently</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2758,7 +2762,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>logInSilently</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2776,36 +2780,28 @@
     return user;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPHEtYnRuIGZsYXQgY29sb3I9InByaW1hcnkiIEBjbGljaz0ibG9nSW5TaWxlbnRseSI+TG9nIGluIHNpbGVudGx5PC9xLWJ0bj4K</text>
+        <text encoding="base64">aW1wb3J0IHsgTG9nLCBVc2VyTWFuYWdlciB9IGZyb20gJ29pZGMtY2xpZW50JzsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwb3B1cF9yZWRpcmVjdF91cmk6IGAke3VybH0vYXV0aC9jYWxsYmFja2AsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBzaWxlbnRfcmVkaXJlY3RfdXJpOiBgJHt1cmx9L2F1dGgvc2lsZW50L2NhbGxiYWNrYCwK</text>
+        <text encoding="base64">TG9nLmxvZ2dlciA9IGNvbnNvbGU7CkxvZy5sZXZlbCA9IExvZy5JTkZPOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">dXNlck1hbmFnZXIuCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>{
-      path: '/auth/silent',
-      component: load('auth/AuthSilent'),
-      meta: { requiresAuth: true },
-    },</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgPHEtYnRuIGZsYXQgY29sb3I9InByaW1hcnkiIEBjbGljaz0ibG9nSW5TaWxlbnRseSI+TG9nIGluIHNpbGVudGx5PC9xLWJ0bj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMK</text>
+        <text encoding="base64">ICBwb3B1cF9yZWRpcmVjdF91cmk6IGAke3VybH0vYXV0aC9jYWxsYmFja2AsCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>{
-      path: '/auth/silent',
-      component: load('auth/AuthSilent'),
-      meta: { requiresAuth: true },
-    },</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBzaWxlbnRfcmVkaXJlY3RfdXJpOiBgJHt1cmx9L2F1dGgvc2lsZW50L2NhbGxiYWNrYCwK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2833,10 +2829,14 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYmVmb3JlRW50ZXI6IGFscmVhZHlMb2dnZWRJbkd1YXJkLAo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="9" type="4">
+        <text>{
+      path: '/auth/silent',
+      component: load('auth/AuthSilent'),
+      meta: { requiresAuth: true },
+    },</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
