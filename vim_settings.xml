@@ -664,11 +664,11 @@
         <mark key="." line="25" column="32" />
         <mark key="^" line="1" column="46" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/components/orders/initialize-sptko.vue" timestamp="1520265932894">
+      <file name="$USER_HOME$/dev/part-edge/client/src/components/orders/initialize-sptko.vue" timestamp="1520266545130">
         <mark key="'" line="162" column="43" />
-        <mark key="[" line="148" column="42" />
-        <mark key="]" line="149" column="41" />
-        <mark key="." line="149" column="41" />
+        <mark key="[" line="31" column="29" />
+        <mark key="]" line="31" column="29" />
+        <mark key="." line="31" column="29" />
         <mark key="^" line="149" column="41" />
       </file>
       <file name="$USER_HOME$/dev/brainfuck-interpreter/src/commands/move-left.js" timestamp="1515687066422">
@@ -1260,8 +1260,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>Object.assign({}, order, { GDD: $event })</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2785,7 +2785,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>order</text>
+        <text>Object.assign({}, order, { GDD: $event })</text>
       </register>
       <register name="m" type="4">
         <keys>
