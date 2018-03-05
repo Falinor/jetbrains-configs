@@ -664,12 +664,12 @@
         <mark key="." line="25" column="32" />
         <mark key="^" line="1" column="46" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/components/orders/initialize-sptko.vue" timestamp="1520260655384">
-        <mark key="'" line="168" column="18" />
-        <mark key="[" line="136" column="101" />
-        <mark key="]" line="136" column="99" />
-        <mark key="^" line="136" column="99" />
-        <mark key="." line="136" column="99" />
+      <file name="$USER_HOME$/dev/part-edge/client/src/components/orders/initialize-sptko.vue" timestamp="1520263496461">
+        <mark key="'" line="161" column="43" />
+        <mark key="[" line="31" column="34" />
+        <mark key="]" line="31" column="34" />
+        <mark key="." line="31" column="34" />
+        <mark key="^" line="135" column="100" />
       </file>
       <file name="$USER_HOME$/dev/brainfuck-interpreter/src/commands/move-left.js" timestamp="1515687066422">
         <mark key="'" line="3" column="0" />
@@ -1154,10 +1154,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="8" filename="$USER_HOME$/dev/part-edge/client/Jenkinsfile" />
-      <jump line="13" column="0" filename="$USER_HOME$/dev/part-edge/client/src/services/auth.js" />
-      <jump line="69" column="47" filename="$USER_HOME$/dev/part-edge/client/src/services/auth.js" />
-      <jump line="87" column="40" filename="$USER_HOME$/dev/part-edge/client/src/services/auth.js" />
       <jump line="28" column="7" filename="$USER_HOME$/dev/part-edge/client/src/services/auth.js" />
       <jump line="24" column="0" filename="$USER_HOME$/dev/part-edge/client/src/services/auth.js" />
       <jump line="30" column="0" filename="$USER_HOME$/dev/part-edge/client/src/services/auth.js" />
@@ -1254,6 +1250,10 @@
       <jump line="141" column="23" filename="$USER_HOME$/dev/part-edge/client/src/components/orders/initialize-sptko.vue" />
       <jump line="160" column="18" filename="$USER_HOME$/dev/part-edge/client/src/components/orders/initialize-sptko.vue" />
       <jump line="73" column="33" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/store/modules/auth.spec.js" />
+      <jump line="133" column="8" filename="$USER_HOME$/dev/part-edge/client/src/components/orders/initialize-sptko.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/client/src/components/orders/initialize-sptko.vue" />
+      <jump line="196" column="0" filename="$USER_HOME$/dev/part-edge/client/src/components/orders/initialize-sptko.vue" />
+      <jump line="162" column="43" filename="$USER_HOME$/dev/part-edge/client/src/components/orders/initialize-sptko.vue" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1263,8 +1263,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>order</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2788,7 +2788,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGhpcy4kcmVmcy5zdGVwcGVyLm5leHQoKSA=</text>
+        <text>order</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2797,7 +2797,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>log</text>
+        <text>EDD</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHsgcmVxdWlyZWQsIG51bWVyaWMgfSBmcm9tICd2dWVsaWRhdGUvbGliL3ZhbGlkYXRvcnMnOwo=</text>
@@ -2809,22 +2809,22 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlIHsK</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMuR0RECg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBHREQ6IG51bGwsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLiR2LiRlcnJvcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRUREOiBudWxsLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIEVERDogbnVsbCwK</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgIHNldEdERChuZXdWYWwpIHsKICAgICAgICB0aGlzLkdERCA9IG5ld1ZhbDsKICAgICAgfSw=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIEVERDoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgOm1vZGVsPSIxNDc3Mjk4NDE0Njc0Igo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2852,27 +2852,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW9kZWw9IjE0NzcyOTg0MTQ2NzQiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgOm1vZGVsPSIxNDc3Mjk4NDE0Njc0Igo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW9kZWw9IjE0NzcyOTg0MTQ2NzQiCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>log</last-search>
+      <last-search>EDD</last-search>
       <last-offset />
-      <last-pattern>log</last-pattern>
-      <last-replace>sessionStorage</last-replace>
-      <last-substitute>this.storage</last-substitute>
+      <last-pattern>EDD</last-pattern>
+      <last-replace>GDD</last-replace>
+      <last-substitute>EDD</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>this.storage</entry>
         <entry>tjhis</entry>
         <entry>this</entry>
         <entry>findOrders</entry>
@@ -2892,9 +2891,9 @@
         <entry>processSigninResponse</entry>
         <entry>HEAD</entry>
         <entry>log</entry>
+        <entry>EDD</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3NlcnZpY2VhYmxlL3Vuc2VydmljZWFibGUvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3t7L3t7IC9n</entry>
         <entry encoding="base64">JzwsJz5zL319LyB9fS9n</entry>
         <entry encoding="base64">JzwsJz5zL2hhdmVQZXJtaXNzaW9u</entry>
@@ -2913,6 +2912,7 @@
         <entry>wq</entry>
         <entry>qall</entry>
         <entry>q</entry>
+        <entry encoding="base64">JzwsJz5zL0VERC9HREQvZw==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
