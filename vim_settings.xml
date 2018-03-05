@@ -519,10 +519,11 @@
         <mark key="." line="10" column="18" />
         <mark key="^" line="10" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/store/modules/orders.js" timestamp="1520264672570">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
+      <file name="$USER_HOME$/dev/part-edge/client/src/store/modules/orders.js" timestamp="1520265996510">
+        <mark key="[" line="52" column="15" />
+        <mark key="]" line="52" column="15" />
+        <mark key="." line="52" column="15" />
+        <mark key="^" line="52" column="15" />
       </file>
       <file name="$USER_HOME$/dev/brainfuck-interpreter/src/ast.js" timestamp="1516038121877">
         <mark key="'" line="11" column="0" />
@@ -663,12 +664,12 @@
         <mark key="." line="25" column="32" />
         <mark key="^" line="1" column="46" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/components/orders/initialize-sptko.vue" timestamp="1520264488418">
+      <file name="$USER_HOME$/dev/part-edge/client/src/components/orders/initialize-sptko.vue" timestamp="1520265932894">
         <mark key="'" line="162" column="43" />
-        <mark key="[" line="93" column="11" />
-        <mark key="]" line="93" column="10" />
-        <mark key="." line="93" column="10" />
-        <mark key="^" line="93" column="10" />
+        <mark key="[" line="148" column="42" />
+        <mark key="]" line="149" column="41" />
+        <mark key="." line="149" column="41" />
+        <mark key="^" line="149" column="41" />
       </file>
       <file name="$USER_HOME$/dev/brainfuck-interpreter/src/commands/move-left.js" timestamp="1515687066422">
         <mark key="'" line="3" column="0" />
@@ -1025,7 +1026,7 @@
         <mark key="." line="6" column="61" />
         <mark key="^" line="6" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520255726452">
+      <file name="/Dummy.txt" timestamp="1520265641369">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/brainfuck-interpreter/test/ast.test.js" timestamp="1515675966859">
@@ -1260,7 +1261,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG9yZGVyLmFzc2lnbmVlSWQgPSByb290R2V0dGVycy51c2VySWQ7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2784,7 +2785,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXdhaXQg</text>
+        <text>order</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2799,28 +2800,28 @@
         <text encoding="base64">aW1wb3J0IHsgcmVxdWlyZWQsIG51bWVyaWMgfSBmcm9tICd2dWVsaWRhdGUvbGliL3ZhbGlkYXRvcnMnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG9yZGVyLmFzc2lnbmVlSWQgPSByb290R2V0dGVycy51c2VySWQ7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG9yZGVyID0gbmV3T3JkZXI7Cg==</text>
+        <text encoding="base64">ICAgIHN0YXRlLm9yZGVycz0gCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIG9yZGVyLmFzc2lnbmVlSWQgPSByb290R2V0dGVycy51c2VySWQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMuR0RECg==</text>
+        <text encoding="base64">ICAgIG9yZGVyID0gbmV3T3JkZXI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBHREQ6IG51bGwsCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMuR0RECg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBHREQ6IG51bGwsCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2847,11 +2848,11 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgIHNldEdERChuZXdWYWwpIHsKICAgICAgICB0aGlzLkdERCA9IG5ld1ZhbDsKICAgICAgfSw=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOm1vZGVsPSIxNDc3Mjk4NDE0Njc0Igo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
