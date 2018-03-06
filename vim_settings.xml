@@ -271,13 +271,6 @@
         <mark key="." line="3" column="53" />
         <mark key="^" line="3" column="65" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/services/auth.js" timestamp="1519925776664">
-        <mark key="'" line="108" column="0" />
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="n" line="85" column="0" />
-        <mark key="." line="73" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/Error404.spec.js" timestamp="1513178759555">
         <mark key="'" line="24" column="27" />
         <mark key="[" line="4" column="0" />
@@ -519,11 +512,11 @@
         <mark key="." line="10" column="18" />
         <mark key="^" line="10" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/store/modules/orders.js" timestamp="1520265996510">
-        <mark key="[" line="52" column="15" />
-        <mark key="]" line="52" column="15" />
-        <mark key="." line="52" column="15" />
-        <mark key="^" line="52" column="15" />
+      <file name="$USER_HOME$/dev/part-edge/client/src/store/modules/orders.js" timestamp="1520269840040">
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
+        <mark key="^" line="105" column="44" />
       </file>
       <file name="$USER_HOME$/dev/brainfuck-interpreter/src/ast.js" timestamp="1516038121877">
         <mark key="'" line="11" column="0" />
@@ -1261,7 +1254,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm9yZGVyLnR5cGUgPSAnU1BUX0tPJzsKICAgICAgICB0aGlzLm9yZGVyLnN0YXR1cyA9ICdQZW5kaW5nIHZhbGlkYXRpb24nOwo=</text>
+        <text encoding="base64">ICAgIHN0YXRlLm9yZGVyID0geyAuLi5zdGF0ZS5vcmRlciwgLi4udmFsdWUgfTsK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2785,7 +2778,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Object.assign({}, order, { GDD: $event })</text>
+        <text>...</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2800,32 +2793,32 @@
         <text encoding="base64">aW1wb3J0IHsgcmVxdWlyZWQsIG51bWVyaWMgfSBmcm9tICd2dWVsaWRhdGUvbGliL3ZhbGlkYXRvcnMnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm9yZGVyLnR5cGUgPSAnU1BUX0tPJzsKICAgICAgICB0aGlzLm9yZGVyLnN0YXR1cyA9ICdQZW5kaW5nIHZhbGlkYXRpb24nOwo=</text>
+        <text encoding="base64">ICAgIHN0YXRlLm9yZGVyID0geyAuLi5zdGF0ZS5vcmRlciwgLi4udmFsdWUgfTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIHN0YXRlLm9yZGVyID0geyAuLi5zdGF0ZS5vcmRlciwgLi4udmFsdWUgfTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIH0pOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLm9yZGVyLnR5cGUgPSAnU1BUX0tPJzsKICAgICAgICB0aGlzLm9yZGVyLnN0YXR1cyA9ICdQZW5kaW5nIHZhbGlkYXRpb24nOwo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>const order = {
           ...this.order,
           newEquipment: this.newEquipment,
           oldEquipment: this.oldEquipment,
         };</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9sZEVxdWlwbWVudDogdGhpcy5vbGRFcXVpcG1lbnQsCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0YXRlLm9yZGVycz0gCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIG9yZGVyLmFzc2lnbmVlSWQgPSByb290R2V0dGVycy51c2VySWQ7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2853,10 +2846,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG9yZGVyID0gbmV3T3JkZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIG9sZEVxdWlwbWVudDogdGhpcy5vbGRFcXVpcG1lbnQsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
