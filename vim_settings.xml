@@ -483,12 +483,12 @@
         <mark key="^" line="5" column="7" />
         <mark key="." line="5" column="7" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/components/auth/AuthCallback.vue" timestamp="1520431818633">
+      <file name="$USER_HOME$/dev/part-edge/client/src/components/auth/AuthCallback.vue" timestamp="1520435869938">
         <mark key="'" line="27" column="0" />
-        <mark key="[" line="18" column="12" />
-        <mark key="]" line="18" column="9" />
-        <mark key="." line="18" column="10" />
-        <mark key="^" line="18" column="9" />
+        <mark key="[" line="19" column="20" />
+        <mark key="]" line="19" column="20" />
+        <mark key="." line="19" column="20" />
+        <mark key="^" line="19" column="44" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/src/config/index.js" timestamp="1519738547654">
         <mark key="[" line="2" column="0" />
@@ -707,10 +707,11 @@
         <mark key="." line="25" column="32" />
         <mark key="^" line="1" column="46" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/components/orders/initialize-sptko.vue" timestamp="1520418012321">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/dev/part-edge/client/src/components/orders/initialize-sptko.vue" timestamp="1520435736083">
+        <mark key="[" line="71" column="19" />
+        <mark key="]" line="71" column="28" />
+        <mark key="." line="71" column="28" />
+        <mark key="^" line="71" column="28" />
       </file>
       <file name="$USER_HOME$/dev/brainfuck-interpreter/src/commands/move-left.js" timestamp="1515687066422">
         <mark key="'" line="3" column="0" />
@@ -1312,8 +1313,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBwYXRoRW5kID0gc3B0a28gPyAnL2Rhc2hib2FyZCcgOiAnLyc7CiAgICAgICAgdGhpcy4kcm91dGVyLnB1c2gocGF0aEVuZCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2837,7 +2838,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>(</text>
       </register>
       <register name="m" type="4">
         <keys>
