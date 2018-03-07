@@ -564,10 +564,10 @@
         <mark key="]" line="8" column="34" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/store/modules/orders.js" timestamp="1520439416096">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
+      <file name="$USER_HOME$/dev/part-edge/client/src/store/modules/orders.js" timestamp="1520442815656">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/dev/brainfuck-interpreter/src/ast.js" timestamp="1516038121877">
         <mark key="'" line="11" column="0" />
@@ -1078,7 +1078,7 @@
         <mark key="." line="6" column="61" />
         <mark key="^" line="6" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520430341565">
+      <file name="/Dummy.txt" timestamp="1520441862381">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/brainfuck-interpreter/test/ast.test.js" timestamp="1515675966859">
@@ -1102,12 +1102,12 @@
         <mark key="^" line="17" column="42" />
         <mark key="." line="17" column="42" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/components/orders/children/validate-order.vue" timestamp="1520347426602">
+      <file name="$USER_HOME$/dev/part-edge/client/src/components/orders/children/validate-order.vue" timestamp="1520442222755">
         <mark key="'" line="10" column="24" />
-        <mark key="[" line="10" column="9" />
-        <mark key="]" line="10" column="9" />
-        <mark key="." line="10" column="9" />
-        <mark key="^" line="14" column="64" />
+        <mark key="[" line="14" column="64" />
+        <mark key="]" line="15" column="41" />
+        <mark key="." line="15" column="41" />
+        <mark key="^" line="15" column="41" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/src/components/equipments/children/card-equipments.vue" timestamp="1519599715626">
         <mark key="'" line="20" column="6" />
@@ -1328,7 +1328,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxxLWJ0biBAY2xpY2s9IiRyZWZzLnN0ZXBwZXIubmV4dCgpIj5OZXh0PC9xLWJ0bj4K</text>
+        <text encoding="base64">ICAgIG9yZGVycy5tYXAob3JkZXIgPT4gKQo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2852,7 +2852,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bWluVmFsdWUg</text>
+        <text>setUpdate</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2867,28 +2867,28 @@
         <text encoding="base64">bG9jYWxWdWUudXNlKFZ1ZXgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxxLWJ0biBAY2xpY2s9IiRyZWZzLnN0ZXBwZXIubmV4dCgpIj5OZXh0PC9xLWJ0bj4K</text>
+        <text encoding="base64">ICAgIG9yZGVycy5tYXAob3JkZXIgPT4gKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZpZWxkcylkZDsK</text>
+        <text encoding="base64">ICAgIG9yZGVycy4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxwPnt7IG9yZGVyLkdERCB9fTwvcD4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxwPnt7ICR2Lm9yZGVyLkdERC4kcGFyYW1zLm1pblZhbHVlLm1pbiB9fTwvcD4K</text>
+        <text encoding="base64">ICAgIHN0YXRlLm9yZGVyPQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1pblZhbHVlOiBtaW5WYWx1ZShuZXcgRGF0ZSgpKSwK</text>
+        <text encoding="base64">ICAgIH07Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOm1pbj0ibmV3IERhdGUoKSIK</text>
+        <text encoding="base64">ICAgIGNvbnN0IG9yZGVyID0gewogICAgICBzdGF0ZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9ybWF0LW1vZGVsPSJkYXRlIgo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxxLWJ0biBAY2xpY2s9IiRyZWZzLnN0ZXBwZXIubmV4dCgpIj5OZXh0PC9xLWJ0bj4K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2916,10 +2916,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh2YWx1ZSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZpZWxkcylkZDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxwPnt7IG9yZGVyLkdERCB9fTwvcD4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
