@@ -532,11 +532,11 @@
         <mark key="^" line="40" column="75" />
         <mark key="." line="40" column="75" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/src/config/index.js" timestamp="1520639097037">
-        <mark key="[" line="15" column="13" />
-        <mark key="]" line="15" column="7" />
-        <mark key="." line="15" column="7" />
-        <mark key="^" line="15" column="7" />
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/config/index.js" timestamp="1520670941414">
+        <mark key="[" line="16" column="55" />
+        <mark key="]" line="16" column="55" />
+        <mark key="." line="16" column="55" />
+        <mark key="^" line="16" column="55" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/components/acl/index.test.js" timestamp="1519402270946">
         <mark key="'" line="78" column="23" />
@@ -1268,7 +1268,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>prefix</text>
+        <text>`${this.host}:${this.port}/${this.prefix}`</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2792,7 +2792,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>prefix</text>
+        <text>`${this.host}:${this.port}/${this.prefix}`</text>
       </register>
       <register name="m" type="4">
         <keys>
