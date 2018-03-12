@@ -248,6 +248,13 @@
         <mark key="." line="1" column="1" />
         <mark key="^" line="1" column="1" />
       </file>
+      <file name="$USER_HOME$/dev/part-edge/importer/ftp/index.js" timestamp="1520866573536">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="3" />
+        <mark key="." line="9" column="3" />
+        <mark key="^" line="9" column="3" />
+      </file>
       <file name="$USER_HOME$/dev/part-edge/importer/config/db.js" timestamp="1511447587443">
         <mark key="'" line="13" column="1" />
         <mark key="[" line="13" column="1" />
@@ -1185,7 +1192,7 @@
         <mark key="^" line="33" column="45" />
         <mark key="." line="33" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/Home.spec.js" timestamp="1520866219728">
+      <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/Home.spec.js" timestamp="1520866453490">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="30" column="37" />
         <mark key="]" line="30" column="31" />
@@ -1228,7 +1235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="8" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/store/modules/auth.spec.js" />
       <jump line="73" column="5" filename="$USER_HOME$/dev/part-edge/client/src/router/main.js" />
       <jump line="246" column="26" filename="$USER_HOME$/dev/part-edge/client/node_modules/oidc-client/src/UserManager.js" />
       <jump line="17" column="0" filename="$USER_HOME$/dev/part-edge/client/src/services/auth.js" />
@@ -1328,6 +1334,7 @@
       <jump line="33" column="61" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/Home.spec.js" />
       <jump line="21" column="0" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/Home.spec.js" />
       <jump line="129" column="5" filename="$USER_HOME$/dev/part-edge/api/test/api/orders.test.js" />
+      <jump line="11" column="0" filename="$USER_HOME$/dev/part-edge/importer/ftp/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1338,7 +1345,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text encoding="base64">Y29uc3Qg</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2862,7 +2869,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">Y29uc3Qg</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2871,7 +2878,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>HEAD</text>
+        <text>var</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnQ3JlYXRlZCB1c2VyIHdpdGggaWQnLCBpZCk7Cg==</text>
@@ -2932,21 +2939,20 @@
         <text encoding="base64">ICAgICAgZXhwZWN0KCkK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zL3Zhci9jb25zdC9n</text>
       </register>
     </registers>
     <search>
-      <last-search>HEAD</last-search>
+      <last-search>var</last-search>
       <last-offset />
-      <last-pattern>HEAD</last-pattern>
-      <last-replace>RESET_STATE</last-replace>
-      <last-substitute>ORDER_UPDATED</last-substitute>
+      <last-pattern>var</last-pattern>
+      <last-replace>const</last-replace>
+      <last-substitute>var</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>processSigninResponse</entry>
         <entry>log</entry>
         <entry>EDD</entry>
         <entry>mutations</entry>
@@ -2966,9 +2972,9 @@
         <entry>ORDER_UPDATED</entry>
         <entry>config</entry>
         <entry>HEAD</entry>
+        <entry>var</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLzsvL2c=</entry>
         <entry encoding="base64">JzwsJz5zL29wZW4vaXNPcGVuL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3dyYXBwZXIuZW1pdHRlcignaW5wdXQnKS9lbWl0dGVkL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3dyYXBwZXIuZW1pdHRlZCgnaW5wdXQnKS9lbWl0dGVkL2c=</entry>
@@ -2988,6 +2994,7 @@
         <entry>qall</entry>
         <entry>qa</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL3Zhci9jb25zdC9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
