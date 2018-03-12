@@ -302,6 +302,13 @@
         <mark key="^" line="23" column="43" />
         <mark key="." line="23" column="38" />
       </file>
+      <file name="$USER_HOME$/Dev/baby-foot/api/test/unit/infra/player/repository.test.js" timestamp="1520890440518">
+        <mark key="'" line="14" column="38" />
+        <mark key="[" line="33" column="4" />
+        <mark key="]" line="33" column="12" />
+        <mark key="^" line="33" column="12" />
+        <mark key="." line="33" column="12" />
+      </file>
       <file name="$USER_HOME$/dev/part-edge/client/src/logger.js" timestamp="1519376165885">
         <mark key="'" line="3" column="43" />
         <mark key="[" line="3" column="53" />
@@ -594,6 +601,12 @@
         <mark key="." line="30" column="3" />
         <mark key="^" line="30" column="3" />
       </file>
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/infra/player/repository.js" timestamp="1520890818345">
+        <mark key="[" line="4" column="39" />
+        <mark key="]" line="5" column="28" />
+        <mark key="^" line="5" column="28" />
+        <mark key="." line="5" column="28" />
+      </file>
       <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/Auth.spec.js" timestamp="1513007917486">
         <mark key="'" line="2" column="47" />
         <mark key="[" line="26" column="22" />
@@ -769,6 +782,11 @@
         <mark key="]" line="6" column="27" />
         <mark key="^" line="6" column="27" />
         <mark key="." line="6" column="27" />
+      </file>
+      <file name="$USER_HOME$/Dev/baby-foot/api/test/unit/infra/match/repository.test.js" timestamp="1520889528565">
+        <mark key="[" line="9" column="54" />
+        <mark key="]" line="9" column="54" />
+        <mark key="." line="9" column="54" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/equipments/children/card-equipments.spec.js" timestamp="1519321589624">
         <mark key="'" line="0" column="9" />
@@ -1056,6 +1074,13 @@
         <mark key="." line="32" column="16" />
         <mark key="^" line="32" column="25" />
       </file>
+      <file name="$USER_HOME$/Dev/baby-foot/api/test/data.js" timestamp="1520888903469">
+        <mark key="'" line="44" column="23" />
+        <mark key="[" line="56" column="13" />
+        <mark key="]" line="58" column="11" />
+        <mark key="." line="58" column="11" />
+        <mark key="^" line="58" column="11" />
+      </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/components/db/index.js" timestamp="1514895151305">
         <mark key="'" line="5" column="29" />
         <mark key="[" line="17" column="33" />
@@ -1146,15 +1171,6 @@
         <mark key="^" line="19" column="63" />
         <mark key="." line="19" column="52" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/equipments/children/equipment-form.spec.js" timestamp="1519378267371">
-        <mark key="'" line="145" column="10" />
-        <mark key="i" line="92" column="9" />
-        <mark key="j" line="97" column="11" />
-        <mark key="[" line="10" column="9" />
-        <mark key="]" line="138" column="9" />
-        <mark key="." line="138" column="9" />
-        <mark key="^" line="138" column="9" />
-      </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/middlewares/mail.test.js" timestamp="1518017605683">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="39" column="0" />
@@ -1164,8 +1180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="34" filename="$USER_HOME$/dev/part-edge/client/src/App.vue" />
-      <jump line="66" column="33" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/Exchange.vue" />
       <jump line="32" column="5" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/equipments/children/equipment-form.spec.js" />
       <jump line="134" column="52" filename="$USER_HOME$/dev/part-edge/client/src/components/equipments/children/equipment-form.vue" />
       <jump line="114" column="0" filename="$USER_HOME$/dev/part-edge/client/src/components/equipments/children/equipment-form.vue" />
@@ -1264,6 +1278,8 @@
       <jump line="53" column="0" filename="$USER_HOME$/dev/part-edge/client/config/env/index.js" />
       <jump line="9" column="5" filename="$USER_HOME$/dev/part-edge/client/src/services/auth.js" />
       <jump line="64" column="11" filename="$USER_HOME$/Dev/baby-foot/api/test/unit/interfaces/http/match/controller.test.js" />
+      <jump line="14" column="38" filename="$USER_HOME$/Dev/baby-foot/api/test/unit/infra/player/repository.test.js" />
+      <jump line="44" column="23" filename="$USER_HOME$/Dev/baby-foot/api/test/data.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1273,8 +1289,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">bWF0Y2hEQk8g</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2798,7 +2814,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ulr</text>
+        <text encoding="base64">bWF0Y2hEQk8g</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2813,28 +2829,28 @@
         <text encoding="base64">ICAgICAgICB3cmFwcGVyLnZtLmZldGNoRXF1aXBtZW50cygpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwbGF5ZXJEQk8pOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRlc3Q6ICd0ZXN0JywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGhvc3Q6ICdodHRwOi8vbG9jYWxob3N0JywKICAgIHBvcnQ6IDkwMDAsCg==</text>
+        <text encoding="base64">ICAgIHQudHVyZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBvcnQ6IDgwMDAsCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaG9zdDoK</text>
+        <text encoding="base64">ICBjb25zdCB0bwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGhvc3Q6ICdteUNvb2xIb3N0JywK</text>
+        <text encoding="base64">ICB0b0VudGl0eQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0LnRydWUoY3R4LnNldC5jYWxsZWRXaXRoRXhhY3RseShgaHR0cHM6Ly9hcGkuZXhhbXBsZS5jb206NDQzL2FwaS92MS9tYXRjaGVzLyR7aWR9YCkpOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2861,13 +2877,20 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text>host: 'https://api.example.com',
-      port: 443,
-      prefix: 'api/v1',</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICB0LnJlZ2V4KGN0eC5yZXNwb25zZS5oZWFkZXIuTG9jYXRpb24sIC9cL21hdGNoZXNcL1x3KyQvKTsK</text>
+      <register name="9" type="4">
+        <text>export const inputMatch = {
+  red: {
+    points: 10,
+    players: ['ABC', 'DEF'],
+  },
+  blue: {
+    points: 6,
+    players: ['GHI', 'JKL'],
+  },
+};</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
