@@ -250,11 +250,11 @@
         <mark key="." line="5" column="68" />
         <mark key="^" line="5" column="68" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/importer/test/e2e/index.test.js" timestamp="1521025148101">
-        <mark key="[" line="32" column="3" />
-        <mark key="]" line="25" column="22" />
-        <mark key="." line="25" column="22" />
-        <mark key="^" line="31" column="42" />
+      <file name="$USER_HOME$/dev/part-edge/importer/test/e2e/index.test.js" timestamp="1521034309822">
+        <mark key="[" line="41" column="9" />
+        <mark key="]" line="42" column="20" />
+        <mark key="." line="42" column="20" />
+        <mark key="^" line="42" column="20" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/importer/exporter.js" timestamp="1511473969086">
         <mark key="'" line="5" column="9" />
@@ -913,12 +913,12 @@
         <mark key="^" line="23" column="5" />
         <mark key="." line="23" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/importer/ftp/server.js" timestamp="1521019765348">
+      <file name="$USER_HOME$/dev/part-edge/importer/ftp/server.js" timestamp="1521034473690">
         <mark key="'" line="19" column="16" />
-        <mark key="[" line="41" column="24" />
-        <mark key="]" line="42" column="67" />
-        <mark key="." line="42" column="67" />
-        <mark key="^" line="42" column="67" />
+        <mark key="[" line="42" column="68" />
+        <mark key="]" line="43" column="27" />
+        <mark key="." line="43" column="27" />
+        <mark key="^" line="43" column="27" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/routes/equipments/repository.test.js" timestamp="1512566655920">
         <mark key="'" line="6" column="37" />
@@ -1258,13 +1258,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="62" filename="$USER_HOME$/dev/part-edge/client/src/components/orders/sign-order.vue" />
-      <jump line="56" column="73" filename="$USER_HOME$/dev/part-edge/client/src/components/orders/sign-order.vue" />
-      <jump line="66" column="43" filename="$USER_HOME$/dev/part-edge/client/src/components/orders/sign-order.vue" />
-      <jump line="67" column="47" filename="$USER_HOME$/dev/part-edge/client/src/components/orders/sign-order.vue" />
-      <jump line="82" column="5" filename="$USER_HOME$/dev/part-edge/client/src/components/orders/sign-order.vue" />
-      <jump line="32" column="35" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/Exchange.vue" />
-      <jump line="218" column="40" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/Exchange.vue" />
       <jump line="202" column="20" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/Exchange.vue" />
       <jump line="237" column="8" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/store/modules/orders.spec.js" />
       <jump line="21" column="9" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/store/modules/orders.spec.js" />
@@ -1358,6 +1351,13 @@
       <jump line="1" column="33" filename="$USER_HOME$/dev/part-edge/importer/test/server.test.js" />
       <jump line="24" column="42" filename="$USER_HOME$/dev/part-edge/importer/test/server.test.js" />
       <jump line="29" column="2" filename="$USER_HOME$/dev/part-edge/importer/test/server.test.js" />
+      <jump line="17" column="4" filename="$USER_HOME$/dev/part-edge/importer/test/e2e/index.test.js" />
+      <jump line="43" column="0" filename="$USER_HOME$/dev/part-edge/importer/test/e2e/index.test.js" />
+      <jump line="8" column="14" filename="$USER_HOME$/dev/part-edge/importer/test/e2e/index.test.js" />
+      <jump line="42" column="1" filename="$USER_HOME$/dev/part-edge/importer/test/e2e/index.test.js" />
+      <jump line="32" column="27" filename="$USER_HOME$/dev/part-edge/importer/test/e2e/index.test.js" />
+      <jump line="34" column="17" filename="$USER_HOME$/dev/part-edge/importer/test/e2e/index.test.js" />
+      <jump line="44" column="11" filename="$USER_HOME$/dev/part-edge/importer/test/e2e/index.test.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1367,8 +1367,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">dG8g</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBhd2FpdCBjbGllbnQucHV0KGZpbGUsIGAke25ldyBEYXRlKCkuZ2V0VGltZSgpfWApOwo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2891,8 +2891,11 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
+      <register name="k" type="4">
+        <text>k</text>
+      </register>
       <register name="-" type="4">
-        <text encoding="base64">dG8g</text>
+        <text>'</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2903,37 +2906,32 @@
       <register name="/" type="4">
         <text encoding="base64">XDxwb3J0XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>// Given
-  const logger = { info: sinon.spy() };
-  const server = createServer({ host: null }, logger);
-  const connection = new EventEmitter();
-  const onSuccess = sinon.spy();
-  const onFailure = sinon.spy();</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBhd2FpdCBjbGllbnQucHV0KGZpbGUsICdlcXVpcG1lbnRzLmNzdicpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhGdHBDbGllbnQuU1RBVFVTRVMpOwo=</text>
+        <text encoding="base64">ICBhd2FpdCBjbGllbnQucHV0KGZpbGUsIGAke25ldyBEYXRlKCkuZ2V0VGltZSgpfWApOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB0LmlzKCkK</text>
+        <text encoding="base64">ICBjb25zdCBmaWxlcyA9IGF3YWl0IGNsaWVudC5saXN0KCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhtZXNzYWdlKTsK</text>
+        <text encoding="base64">ICBmaWxlcy5mb3JFYWNoKGZpbGUgPT4gY29uc29sZS5sb2coZmlsZS5uYW1lKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBhd2FpdCBjbGllbnQubGlzdCgpOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnbGlzdCcsIGF3YWl0IGNsaWVudC5saXN0KCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGdldFBvcnQgZnJvbSAnZ2V0LXBvcnQnOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnbGlzdCcsIGF3YWl0IGNsaWVudC5saXN0KCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhd2FpdCBjbGllbnQubGlzdCgpKTsK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICJmaWxlcyI6IFsKICAgICAgInRlc3QvKiovKi50ZXN0LmpzIgogICAgXSwKICAgICJzb3VyY2VzIjogWwogICAgICAiZnRwLyoqLyouanMiCiAgICBdLA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2961,10 +2959,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjbGllbnQubGlzdAo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhd2FpdCBmdHAubGlzdCgpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBhd2FpdCBjbGllbnQuY29ubmVjdChjb25maWcpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
