@@ -59,6 +59,9 @@
         <mark key="." line="10" column="18" />
         <mark key="^" line="10" column="18" />
       </file>
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/interfaces/http/player/index.js" timestamp="1521012503682">
+        <mark key="[" line="4" column="23" />
+      </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/routes/equipments/serviceable/mapper.js" timestamp="1518079392740">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -429,6 +432,12 @@
         <mark key="." line="5" column="68" />
         <mark key="^" line="5" column="68" />
       </file>
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/interfaces/http/player/controller.js" timestamp="1521012598484">
+        <mark key="[" line="5" column="3" />
+        <mark key="]" line="5" column="3" />
+        <mark key="^" line="5" column="3" />
+        <mark key="." line="5" column="3" />
+      </file>
       <file name="$USER_HOME$/dev/brainfuck-interpreter/src/commands/increment.js" timestamp="1515667700511">
         <mark key="'" line="6" column="4" />
         <mark key="[" line="5" column="40" />
@@ -488,6 +497,12 @@
         <mark key="]" line="18" column="50" />
         <mark key="." line="18" column="50" />
         <mark key="^" line="18" column="50" />
+      </file>
+      <file name="$USER_HOME$/Dev/baby-foot/api/test/unit/interfaces/http/player/controller.test.js" timestamp="1521013023737">
+        <mark key="[" line="5" column="8" />
+        <mark key="]" line="5" column="16" />
+        <mark key="." line="5" column="16" />
+        <mark key="^" line="5" column="16" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/documents/controller.js" timestamp="1518615502807">
         <mark key="[" line="124" column="56" />
@@ -1300,16 +1315,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>{
-      red: {
-        points: 10,
-        players: ['ABC', 'DEF'],
-      },
-      blue: {
-        points: 6,
-        players: ['GHI', 'JKL'],
-      },
-    }</text>
+        <text>42</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2833,7 +2839,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bWF0Y2hEQk8g</text>
+        <text>42</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2845,9 +2851,21 @@
         <text>wrapper.emitted('input')</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3cmFwcGVyLnZtLmZldGNoRXF1aXBtZW50cygpOwo=</text>
+        <text encoding="base64">ICB0LmlzKHR5cGVvZiBjb250cm9sbGVyLnNob3csICdmdW5jdGlvbicpOwo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICBjb25zdCBjdHggPSB7fQo=</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICBmaW5kUGxheWVyc1VzZUNhc2UuCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIE5PVF9GT1VORDogJ25vdC1mb3VuZCcsCg==</text>
+      </register>
+      <register name="4" type="4">
         <text>{
       red: {
         points: 10,
@@ -2859,26 +2877,14 @@
       },
     }</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICBjb25zb2xlLmxvZyhwbGF5ZXJEQk8pOwo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHRlc3Q6ICd0ZXN0JywK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHQudHVyZQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCB0bwo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0b0VudGl0eQo=</text>
+        <text encoding="base64">ICAgIHQudHVyZQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2909,7 +2915,7 @@
         <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICBjb25zdCB0bwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
