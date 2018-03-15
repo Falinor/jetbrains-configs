@@ -276,11 +276,11 @@
         <mark key="." line="5" column="68" />
         <mark key="^" line="5" column="68" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/importer/test/e2e/index.test.js" timestamp="1521111058773">
-        <mark key="'" line="16" column="19" />
-        <mark key="[" line="18" column="29" />
-        <mark key="]" line="18" column="29" />
-        <mark key="." line="18" column="29" />
+      <file name="$USER_HOME$/dev/part-edge/importer/test/e2e/index.test.js" timestamp="1521112889693">
+        <mark key="'" line="46" column="0" />
+        <mark key="[" line="44" column="9" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/importer/exporter.js" timestamp="1511473969086">
         <mark key="'" line="5" column="9" />
@@ -1314,7 +1314,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="337" column="5" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/store/modules/orders.spec.js" />
       <jump line="350" column="4" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/store/modules/orders.spec.js" />
       <jump line="357" column="6" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/store/modules/orders.spec.js" />
       <jump line="373" column="4" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/store/modules/orders.spec.js" />
@@ -1414,6 +1413,7 @@
       <jump line="24" column="43" filename="$USER_HOME$/dev/part-edge/api/src/routes/users/controller.test.js" />
       <jump line="4" column="0" filename="$USER_HOME$/dev/part-edge/importer/ftp/index.js" />
       <jump line="16" column="19" filename="$USER_HOME$/dev/part-edge/importer/test/e2e/index.test.js" />
+      <jump line="45" column="0" filename="$USER_HOME$/dev/part-edge/importer/test/e2e/index.test.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1424,7 +1424,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY3dkOiAnLicsCg==</text>
+        <text encoding="base64">ICAvLyBDaGVjayB3aGV0aGVyIAo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2951,7 +2951,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>only</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2966,28 +2966,28 @@
         <text encoding="base64">ICBzZXJ2ZXIub24oJ2Vycm9yJywgc2VydmVyLm9uRXJyb3IpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY3dkOiAnLicsCg==</text>
+        <text encoding="base64">ICAvLyBDaGVjayB3aGV0aGVyIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ1BBU1YnLCB0ZXh0KTsKICAgICAgICAgICAgY29uc29sZS5sb2cobSk7Cg==</text>
+        <text encoding="base64">ICBjbGllbnQuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlYnVnOiBjb2RkbnNvbGUubG9nLAo=</text>
+        <text encoding="base64">ICBhd2FpdCBjbGllbnQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZwo=</text>
+        <text encoding="base64">ICBjb25zdCBzdGF0ID0gYXdhaXQgY2xpZW50Lmxpc3QoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC4uLmNvbmZpZywK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdGF0KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgZGVidWcgPSByZXF1aXJlKCdkZWJ1ZycpOwo=</text>
+        <text encoding="base64">ICAgICAgY3dkOiAnLicsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhmdHAudXJsKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ1BBU1YnLCB0ZXh0KTsKICAgICAgICAgICAgY29uc29sZS5sb2cobSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3015,10 +3015,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHVzZXI6ICd0ZXN0JywKICAgIHBhc3N3b3JkOiAndGVzdCcsCg==</text>
+        <text encoding="base64">ICAgIGRlYnVnOiBjb2RkbnNvbGUubG9nLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGhvc3Q6IGNvbmZpZy5ob3N0LAogICAgcG9ydDogY29uZmlnLnBvcnQsCg==</text>
+        <text encoding="base64">ICAgIGNvbmZpZwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
