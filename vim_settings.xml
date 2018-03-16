@@ -78,11 +78,12 @@
         <mark key="." line="132" column="23" />
         <mark key="^" line="132" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/importer/test/e2e/index.test.js" timestamp="1521215196076">
-        <mark key="'" line="73" column="6" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/dev/part-edge/importer/test/e2e/index.test.js" timestamp="1521217155499">
+        <mark key="'" line="15" column="34" />
+        <mark key="[" line="59" column="9" />
+        <mark key="]" line="59" column="10" />
+        <mark key="." line="59" column="10" />
+        <mark key="^" line="77" column="8" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/importer/ftp/index.js" timestamp="1521211204266">
         <mark key="'" line="4" column="0" />
@@ -128,11 +129,11 @@
       <file name="/Dummy.txt" timestamp="1521211815810">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/importer/ftp/manifest.yml" timestamp="1521212949097">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="18" column="34" />
+      <file name="$USER_HOME$/dev/part-edge/importer/ftp/manifest.yml" timestamp="1521217966984">
+        <mark key="[" line="13" column="18" />
+        <mark key="]" line="13" column="17" />
+        <mark key="." line="13" column="17" />
+        <mark key="^" line="13" column="17" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/src/components/equipments/children/filter-equipments.vue" timestamp="1520602226733">
         <mark key="[" line="94" column="0" />
@@ -162,12 +163,12 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/importer/ftp/config.js" timestamp="1521214979860">
+      <file name="$USER_HOME$/dev/part-edge/importer/ftp/config.js" timestamp="1521218073064">
         <mark key="'" line="5" column="2" />
-        <mark key="[" line="57" column="26" />
-        <mark key="]" line="33" column="45" />
-        <mark key="." line="33" column="45" />
-        <mark key="^" line="33" column="45" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="36" column="10" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/importer/knexfile.js" timestamp="1521214091516" />
       <file name="$USER_HOME$/dev/part-edge/api/manifest_docs_dev.yml" timestamp="1520529366045">
@@ -297,8 +298,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="435" column="8" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/store/modules/orders.spec.js" />
-      <jump line="447" column="21" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/store/modules/orders.spec.js" />
       <jump line="431" column="8" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/store/modules/orders.spec.js" />
       <jump line="396" column="0" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/store/modules/orders.spec.js" />
       <jump line="472" column="6" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/store/modules/orders.spec.js" />
@@ -397,6 +396,8 @@
       <jump line="35" column="0" filename="$USER_HOME$/dev/part-edge/importer/docker-compose.yml" />
       <jump line="67" column="4" filename="$USER_HOME$/dev/part-edge/importer/Jenkinsfile" />
       <jump line="69" column="18" filename="$USER_HOME$/dev/part-edge/importer/Jenkinsfile" />
+      <jump line="77" column="5" filename="$USER_HOME$/dev/part-edge/importer/test/e2e/index.test.js" />
+      <jump line="15" column="34" filename="$USER_HOME$/dev/part-edge/importer/test/e2e/index.test.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -407,7 +408,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBhd2FpdCBkYi5taWdyYXRlLmxhdGVzdCgpOwogIGF3YWl0IGRiKCdFcXVpcG1lbnRzJykuZGVsKCk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGtleUZpbGUpOwo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1934,7 +1935,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1962,41 +1963,28 @@
 	}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBhd2FpdCBkYi5taWdyYXRlLmxhdGVzdCgpOwogIGF3YWl0IGRiKCdFcXVpcG1lbnRzJykuZGVsKCk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGtleUZpbGUpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBhd2FpdCBkYi5taWdyYXRlLmxhdGVzdCgpOwogIGF3YWl0IGRiKCdFcXVpcG1lbnRzJykuZGVsKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLSB0ZXN0ZGIK</text>
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">ICAgIC50aGVuKCgpID0+IHsK</text>
       </register>
-      <register name="5" type="4">
-        <text>stage('E2E tests') {
-		  environment {
-		    DB_PORT = 3307
-		    DB_USER = user
-		    DB_PASSWORD = password
-		    DB_NAME = example
-		  }
-
-		  steps {
-		    tool name: 'NodeJS-8.1.4'
-		    sh 'npm test'
-		  }
-		}
-	}</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkgICAgREJfVVNFUk5BTUUgPSB1c2VyCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICBkYi5zZWxlY3QoKS5mcm9tKCdFcXVpcG1lbnRzJykKICAgIC50aGVuKChlcXVpcG1lbnRzKSA9PiB7CiAgICAgIHQuaXMoZXF1aXBtZW50cy5sZW5ndGgsIDApOw==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4188,10 +4176,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC50aGVuKCgpID0+IHsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgdGVzdGRiOgogICAgY29udGFpbmVyX25hbWU6IHRlc3QtZGIKICAgIGltYWdlOiBteXNxbAogICAgcmVzdGFydDogYWx3YXlzCiAgICBwb3J0czoKICAgICAgLSAiMzMwODozMzA2IgogICAgZW52aXJvbm1lbnQ6CiAgICAgIE1ZU1FMX1VTRVI6IHRlc3QKICAgICAgTVlTUUxfUEFTU1dPUkQ6IHRlc3QKICAgICAgTVlTUUxfREFUQUJBU0U6IHRlc3QKICAgICAgTVlTUUxfUk9PVF9QQVNTV09SRDogdGVzdA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
