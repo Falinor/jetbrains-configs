@@ -69,9 +69,6 @@
         <mark key="^" line="0" column="34" />
         <mark key="." line="0" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/dist/middlewares/permission.js" timestamp="1519399628963">
-        <mark key="'" line="11" column="39" />
-      </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/repository.js" timestamp="1518689334333">
         <mark key="[" line="50" column="38" />
         <mark key="]" line="50" column="55" />
@@ -432,11 +429,11 @@
         <mark key="." line="5" column="68" />
         <mark key="^" line="5" column="68" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/src/interfaces/http/player/controller.js" timestamp="1521012598484">
-        <mark key="[" line="5" column="3" />
-        <mark key="]" line="5" column="3" />
-        <mark key="^" line="5" column="3" />
-        <mark key="." line="5" column="3" />
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/interfaces/http/player/controller.js" timestamp="1521185179370">
+        <mark key="[" line="33" column="28" />
+        <mark key="]" line="33" column="27" />
+        <mark key="^" line="33" column="27" />
+        <mark key="." line="33" column="27" />
       </file>
       <file name="$USER_HOME$/dev/brainfuck-interpreter/src/commands/increment.js" timestamp="1515667700511">
         <mark key="'" line="6" column="4" />
@@ -619,11 +616,17 @@
         <mark key="." line="30" column="3" />
         <mark key="^" line="30" column="3" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/src/infra/player/repository.js" timestamp="1520890818345">
-        <mark key="[" line="4" column="39" />
-        <mark key="]" line="5" column="28" />
-        <mark key="^" line="5" column="28" />
-        <mark key="." line="5" column="28" />
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/infra/player/repository.js" timestamp="1521185761405">
+        <mark key="[" line="16" column="33" />
+        <mark key="]" line="16" column="33" />
+        <mark key="^" line="15" column="35" />
+        <mark key="." line="16" column="33" />
+      </file>
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/infra/match/repository.js" timestamp="1521185607013">
+        <mark key="[" line="13" column="6" />
+        <mark key="]" line="12" column="64" />
+        <mark key="^" line="12" column="64" />
+        <mark key="." line="12" column="64" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/Auth.spec.js" timestamp="1513007917486">
         <mark key="'" line="2" column="47" />
@@ -1315,7 +1318,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>42</text>
+        <text>player</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2839,7 +2842,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>42</text>
+        <text>player</text>
       </register>
       <register name="m" type="4">
         <keys>
