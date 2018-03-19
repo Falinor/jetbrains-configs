@@ -224,12 +224,12 @@
         <mark key="^" line="69" column="64" />
         <mark key="." line="69" column="64" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/store/modules/orders.spec.js" timestamp="1520524036034">
+      <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/store/modules/orders.spec.js" timestamp="1521468028705">
         <mark key="'" line="350" column="23" />
-        <mark key="[" line="192" column="0" />
-        <mark key="]" line="192" column="0" />
-        <mark key="^" line="206" column="43" />
-        <mark key="." line="192" column="0" />
+        <mark key="[" line="451" column="13" />
+        <mark key="]" line="451" column="11" />
+        <mark key="^" line="451" column="11" />
+        <mark key="." line="451" column="11" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/importer/migrations/20171127173532-create-location.js" timestamp="1511804428676">
         <mark key="'" line="49" column="0" />
@@ -542,11 +542,11 @@
         <mark key="]" line="8" column="34" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/store/modules/orders.js" timestamp="1521131525816">
-        <mark key="[" line="119" column="29" />
-        <mark key="]" line="120" column="23" />
-        <mark key="." line="120" column="23" />
-        <mark key="^" line="120" column="23" />
+      <file name="$USER_HOME$/dev/part-edge/client/src/store/modules/orders.js" timestamp="1521467974101">
+        <mark key="[" line="121" column="42" />
+        <mark key="]" line="122" column="25" />
+        <mark key="." line="122" column="25" />
+        <mark key="^" line="122" column="25" />
       </file>
       <file name="$USER_HOME$/dev/brainfuck-interpreter/src/ast.js" timestamp="1516038121877">
         <mark key="'" line="11" column="0" />
@@ -1349,8 +1349,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgUEFTU0lWRV9SQU5HRTogMjAyNQo=</text>
+      <register name="&quot;" type="4">
+        <text>only</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2877,7 +2877,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>only</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2888,45 +2888,32 @@
       <register name="/" type="4">
         <text>initialCWD</text>
       </register>
-      <register name="0" type="4">
-        <text>stage('Unit tests') {
-		  environment {
-		    DB_PORT = 3307
-		    DB_USER = user
-		    DB_PASSWORD = password
-		    DB_NAME = example
-		  }
-
-		  steps {
-		    tool name: 'NodeJS-8.1.4'
-		    sh 'npm test'
-		  }
-		}
-	}</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN0YXRlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgUEFTU0lWRV9SQU5HRTogMjAyNQo=</text>
+        <text encoding="base64">ICAgIHN0YXRlID0gaW5pdFN0YXRlKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGtleUZpbGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzdGF0ZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN0YXRlLm9yZGVyLnN0YXR1cyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC50aGVuKCgpID0+IHsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN0YXRlLm9yZGVyLnN0YXR1cyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzdG9yZSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5117,11 +5104,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICBkYi5zZWxlY3QoKS5mcm9tKCdFcXVpcG1lbnRzJykKICAgIC50aGVuKChlcXVpcG1lbnRzKSA9PiB7CiAgICAgIHQuaXMoZXF1aXBtZW50cy5sZW5ndGgsIDApOw==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzdGF0ZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC50aGVuKCgpID0+IHsK</text>
+        <text encoding="base64">ICAgICAgUEFTU0lWRV9SQU5HRTogMjAyNQo=</text>
       </register>
       <register name=":" type="4">
         <text>qall</text>
