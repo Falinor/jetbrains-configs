@@ -802,6 +802,12 @@
         <mark key="^" line="35" column="16" />
         <mark key="." line="5" column="259" />
       </file>
+      <file name="$USER_HOME$/dev/part-edge/api/test/api/orders.test.js" timestamp="1521543731689">
+        <mark key="[" line="196" column="41" />
+        <mark key="]" line="196" column="41" />
+        <mark key="." line="196" column="41" />
+        <mark key="^" line="196" column="28" />
+      </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/middlewares/mail.test.js" timestamp="1518017605683">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="39" column="0" />
@@ -984,12 +990,12 @@
         <mark key="." line="12" column="60" />
         <mark key="^" line="12" column="60" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.test.js" timestamp="1521541957206">
+      <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.test.js" timestamp="1521542660173">
         <mark key="'" line="73" column="5" />
         <mark key="[" line="71" column="11" />
-        <mark key="]" line="72" column="23" />
-        <mark key="." line="72" column="23" />
-        <mark key="^" line="72" column="23" />
+        <mark key="]" line="98" column="39" />
+        <mark key="." line="98" column="39" />
+        <mark key="^" line="98" column="39" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/config/index.test.js" timestamp="1520527370042">
         <mark key="'" line="4" column="11" />
@@ -1418,7 +1424,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>order</text>
+        <text>'</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2945,7 +2951,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>order</text>
+        <text>'</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2960,28 +2966,28 @@
         <text encoding="base64">ICAgIC0gRm9yIERFVjogYGNmIHNzaCAtTCA2MzMwNjoxMC4yMDEuMjQuNzM6MzMwNiBwaXZvdGFsLW15c3Fsd2ViYAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNyZWF0ZVVzZXJSZXBvc2l0b3J5IGZyb20gJy4vdXNlcnMvcmVwb3NpdG9yeSc7Cg==</text>
+        <text encoding="base64">ICBjb25zdCBbdXNlcklkXSA9IGF3YWl0IGRiKCdVc2VycycpLmluc2VydCh7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCB1c2VyUmVwbyA9IGNyZWF0ZVVzZXJSZXBvc2l0b3J5KGRiKTsK</text>
+        <text encoding="base64">ICAgIG1pY3Jvc29mdElkOiAnenhjdmJubS1xd2VydHl1aW8tYXNkZmdoamtsJywKICB9KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHVzZXJSZXBvLAo=</text>
+        <text encoding="base64">ICBhd2FpdCBkYignVXNlcnMnKS5zZWxlY3QoKS5kZWwoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB1c2VyUmVwb3NpdG9yeSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHVzZXJzIGZyb20gJy4vdXNlcnMnOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXMuZXJyb3IpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHVzZXJzIGZyb20gJy4vdXNlcnMnOwo=</text>
+        <text encoding="base64">ICAgIHJlcS51c2VyLmRpc3BsYXlOYW1lID0gJyc7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBVc2VyOgogICAgJHJlZjogJ2RlZmluaXRpb25zL3VzZXIueWFtbCcK</text>
+        <text encoding="base64">aW1wb3J0IGNyZWF0ZVVzZXJSZXBvc2l0b3J5IGZyb20gJy4vdXNlcnMvcmVwb3NpdG9yeSc7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5173,13 +5179,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvdXNlcnM6Cg==</text>
+        <text encoding="base64">ICBjb25zdCB1c2VyUmVwbyA9IGNyZWF0ZVVzZXJSZXBvc2l0b3J5KGRiKTsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAkcmVmOiAncGF0aHMvdXNlcnMueWFtbCcKICAvdXNlcnMve2lkfToKICAgICRyZWY6ICdwYXRocy91c2VyLnlhbWwn</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHVzZXJSZXBvLAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -5228,13 +5234,13 @@
         <entry encoding="base64">JzwsJz5zL09SREVSX1VQREFURUQvUkVTRVRfU1RBVEUvZw==</entry>
         <entry>qa</entry>
         <entry encoding="base64">JzwsJz5zL3Zhci9jb25zdC9n</entry>
-        <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL3NlcnZlci9jb25uZWN0aW9uL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2luaXRpYWxDV0QvZnRwUm9vdC9n</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>qall</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>qall</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
