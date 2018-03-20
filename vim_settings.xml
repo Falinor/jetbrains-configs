@@ -175,11 +175,11 @@
         <mark key="^" line="0" column="20" />
         <mark key="." line="2" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/docs/definitions/order.yaml" timestamp="1521472638158">
-        <mark key="[" line="25" column="9" />
-        <mark key="]" line="25" column="15" />
-        <mark key="." line="25" column="15" />
-        <mark key="^" line="25" column="15" />
+      <file name="$USER_HOME$/dev/part-edge/api/docs/definitions/order.yaml" timestamp="1521538049367">
+        <mark key="[" line="3" column="10" />
+        <mark key="]" line="4" column="3" />
+        <mark key="." line="4" column="3" />
+        <mark key="^" line="4" column="3" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/importer/migrations/20171130190802_create-delays.js" timestamp="1512145793116">
         <mark key="'" line="10" column="33" />
@@ -219,12 +219,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.js" timestamp="1521535510053">
-        <mark key="'" line="171" column="20" />
-        <mark key="[" line="36" column="7" />
-        <mark key="]" line="36" column="5" />
-        <mark key="^" line="36" column="5" />
-        <mark key="." line="36" column="5" />
+      <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.js" timestamp="1521538231762">
+        <mark key="'" line="29" column="28" />
+        <mark key="[" line="104" column="98" />
+        <mark key="]" line="104" column="97" />
+        <mark key="^" line="104" column="97" />
+        <mark key="." line="104" column="97" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/src/store/modules/orders.js" timestamp="1521467974101">
         <mark key="[" line="121" column="42" />
@@ -847,12 +847,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/src/middlewares/auth.js" timestamp="1521473529826">
-        <mark key="'" line="21" column="54" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="25" column="23" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/dev/part-edge/api/src/middlewares/auth.js" timestamp="1521538318239">
+        <mark key="'" line="20" column="54" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="24" column="23" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/routes/equipments/serviceable/mapper.js" timestamp="1518079392740">
         <mark key="'" line="0" column="0" />
@@ -984,8 +984,8 @@
         <mark key="." line="12" column="60" />
         <mark key="^" line="12" column="60" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.test.js" timestamp="1520353790498">
-        <mark key="'" line="105" column="34" />
+      <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.test.js" timestamp="1521538540768">
+        <mark key="'" line="73" column="5" />
         <mark key="[" line="106" column="6" />
         <mark key="]" line="107" column="1" />
         <mark key="." line="107" column="1" />
@@ -1004,6 +1004,11 @@
         <mark key="]" line="2" column="38" />
         <mark key="^" line="2" column="38" />
         <mark key="." line="2" column="38" />
+      </file>
+      <file name="$USER_HOME$/dev/part-edge/api/docs/swagger.yaml" timestamp="1521538063632">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/importer/migrations/20180315111128_alter-orders.js" timestamp="1521474943986">
         <mark key="[" line="8" column="0" />
@@ -1223,6 +1228,12 @@
         <mark key="." line="17" column="2" />
         <mark key="^" line="17" column="2" />
       </file>
+      <file name="$USER_HOME$/dev/part-edge/api/src/routes/index.js" timestamp="1521538337503">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/brainfuck-interpreter/test/commands/loop.test.js" timestamp="1516101373538">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="23" column="38" />
@@ -1297,9 +1308,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="68" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/store/mutation-types.spec.js" />
-      <jump line="19" column="60" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/store/mutation-types.spec.js" />
-      <jump line="20" column="60" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/store/mutation-types.spec.js" />
       <jump line="29" column="0" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/orders/initialize-order.spec.js" />
       <jump line="23" column="18" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/services/auth.spec.js" />
       <jump line="31" column="7" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/orders/children/validate-order.spec.js" />
@@ -1397,6 +1405,9 @@
       <jump line="37" column="15" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/services/auth.spec.js" />
       <jump line="65" column="22" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/services/auth.spec.js" />
       <jump line="7" column="0" filename="$USER_HOME$/dev/part-edge/importer/migrations/20180319170408_alter-orders.js" />
+      <jump line="29" column="28" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/dev/part-edge/api/src/routes/index.js" />
+      <jump line="73" column="5" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.test.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1406,8 +1417,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>body</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNyZWF0ZVVzZXJSZXBvc2l0b3J5IGZyb20gJy4vdXNlcnMvcmVwb3NpdG9yeSc7Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2934,7 +2945,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>body</text>
+        <text>number</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2949,28 +2960,28 @@
         <text encoding="base64">ICAgIC0gRm9yIERFVjogYGNmIHNzaCAtTCA2MzMwNjoxMC4yMDEuMjQuNzM6MzMwNiBwaXZvdGFsLW15c3Fsd2ViYAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0gRm9yIFBDRiBERVZURVNUOiBgY2Ygc3NoIC1MIDYzMzA2Om15c3FsLXNoYXJlZC5kZXZ0ZXN0LnBsYXRmb3JtLnRoYWxlc2RpZ2l0YWwuaW86MzMwNiBwaXZvdGFsLW15c3Fsd2ViYAo=</text>
+        <text encoding="base64">aW1wb3J0IGNyZWF0ZVVzZXJSZXBvc2l0b3J5IGZyb20gJy4vdXNlcnMvcmVwb3NpdG9yeSc7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC0gRm9yIHMgYGNmIHNzaCAtTCA2MzMwNjoxMC4yMDEuMjQuNzM6MzMwNiBwaXZvdGFsLW15c3Fsd2ViYAo=</text>
+        <text encoding="base64">ICBjb25zdCB1c2VyUmVwbyA9IGNyZWF0ZVVzZXJSZXBvc2l0b3J5KGRiKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC0gRm9yIFBDRiBERVZURVNUOiBgY2Ygc3NoIC1MIDYzMzA2Om15c3FsLXNoYXJlZC5kZXZ0ZXN0LnBsYXRmb3JtLnRoYWxlc2RpZ2l0YWwuaW86MzMwNiBwaXZvdGFsLW15c3Fsd2ViYAogICAgLSBGb3IgUENGIFByb2Q6IGBjZiBzc2ggLUwgNjMzMDY6MTAuMjAxLjguNzQ6MzMwNiBwaXZvdGFsLW15c3Fsd2ViYAo=</text>
+        <text encoding="base64">ICAgIHVzZXJSZXBvLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRhYmxlLmRyb3BGb3JlaWduKCdjcmVhdG9ySWQnKTsK</text>
+        <text encoding="base64">ICB1c2VyUmVwb3NpdG9yeSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRhYmxlLmRyb3BGb3JlaWduKCdjbGllbnRJZCcpOwogICAgdGFibGUuZHJvcEZvcmVpZ24oJ2Fzc2lnbmVlSWQnKTsK</text>
+        <text encoding="base64">aW1wb3J0IHVzZXJzIGZyb20gJy4vdXNlcnMnOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB0YWJsZS5kcm9wQ29sCg==</text>
+        <text encoding="base64">aW1wb3J0IHVzZXJzIGZyb20gJy4vdXNlcnMnOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBVc2VyOgogICAgJHJlZjogJ2RlZmluaXRpb25zL3VzZXIueWFtbCcK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5162,10 +5173,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB0YWJsZS5zdHJpbmcoJ2NyZWF0b3JJZCcpOwo=</text>
+        <text encoding="base64">ICAvdXNlcnM6Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICB0YWJsZS5zdHJpbmcoJ2NsaWVudElkJyk7CiAgdGFibGUuc3RyaW5nKCdhc3NpZ25lZUlkJyk7Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAkcmVmOiAncGF0aHMvdXNlcnMueWFtbCcKICAvdXNlcnMve2lkfToKICAgICRyZWY6ICdwYXRocy91c2VyLnlhbWwn</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
