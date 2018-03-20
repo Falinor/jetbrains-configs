@@ -984,12 +984,12 @@
         <mark key="." line="12" column="60" />
         <mark key="^" line="12" column="60" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.test.js" timestamp="1521539365529">
+      <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.test.js" timestamp="1521541957206">
         <mark key="'" line="73" column="5" />
-        <mark key="[" line="104" column="11" />
-        <mark key="]" line="107" column="1" />
-        <mark key="." line="107" column="1" />
-        <mark key="^" line="107" column="1" />
+        <mark key="[" line="71" column="11" />
+        <mark key="]" line="72" column="23" />
+        <mark key="." line="72" column="23" />
+        <mark key="^" line="72" column="23" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/config/index.test.js" timestamp="1520527370042">
         <mark key="'" line="4" column="11" />
@@ -1417,8 +1417,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNyZWF0ZVVzZXJSZXBvc2l0b3J5IGZyb20gJy4vdXNlcnMvcmVwb3NpdG9yeSc7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>order</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2945,7 +2945,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>number</text>
+        <text>order</text>
       </register>
       <register name="m" type="4">
         <keys>
