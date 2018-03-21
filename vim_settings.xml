@@ -247,12 +247,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.js" timestamp="1521639663472">
-        <mark key="'" line="29" column="28" />
+      <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.js" timestamp="1521643206428">
+        <mark key="'" line="110" column="47" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="13" column="20" />
+        <mark key="]" line="0" column="41" />
+        <mark key="." line="0" column="41" />
+        <mark key="^" line="0" column="41" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/orders/initialize-sptko.spec.js" timestamp="1520357188057">
         <mark key="'" line="29" column="3" />
@@ -1052,12 +1052,12 @@
         <mark key="." line="12" column="60" />
         <mark key="^" line="12" column="60" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.test.js" timestamp="1521542660173">
-        <mark key="'" line="73" column="5" />
-        <mark key="[" line="71" column="11" />
-        <mark key="]" line="98" column="39" />
-        <mark key="." line="98" column="39" />
-        <mark key="^" line="98" column="39" />
+      <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.test.js" timestamp="1521645129439">
+        <mark key="'" line="180" column="25" />
+        <mark key="[" line="180" column="25" />
+        <mark key="]" line="180" column="25" />
+        <mark key="." line="180" column="25" />
+        <mark key="^" line="180" column="25" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/config/index.test.js" timestamp="1520527370042">
         <mark key="'" line="4" column="11" />
@@ -1389,12 +1389,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="8" filename="$USER_HOME$/dev/part-edge/api/src/routes/users/controller.test.js" />
-      <jump line="57" column="36" filename="$USER_HOME$/dev/part-edge/api/src/routes/users/controller.test.js" />
-      <jump line="53" column="14" filename="$USER_HOME$/dev/part-edge/api/src/routes/users/controller.test.js" />
-      <jump line="21" column="26" filename="$USER_HOME$/dev/part-edge/api/src/middlewares/auth.test.js" />
-      <jump line="41" column="29" filename="$USER_HOME$/dev/part-edge/api/src/middlewares/auth.test.js" />
-      <jump line="47" column="2" filename="$USER_HOME$/dev/part-edge/api/src/middlewares/auth.test.js" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/api/test/api/orders.test.js" />
       <jump line="33" column="61" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/Home.spec.js" />
       <jump line="21" column="0" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/Home.spec.js" />
@@ -1489,6 +1483,12 @@
       <jump line="69" column="46" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/repository.js" />
       <jump line="71" column="31" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/repository.js" />
       <jump line="15" column="7" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/repository.js" />
+      <jump line="110" column="47" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.js" />
+      <jump line="66" column="65" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.test.js" />
+      <jump line="149" column="0" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.test.js" />
+      <jump line="135" column="0" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.test.js" />
+      <jump line="166" column="2" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.test.js" />
+      <jump line="180" column="25" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.test.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1498,8 +1498,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>id</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB0LnRydWUobmV4dC5jYWxsZWRPbmNlV2l0aEV4YWN0bHkobmV3IGNyZWF0ZUh0dHBFcnJvci5Gb3JiaWRkZW4oKSkpOwo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -3026,7 +3026,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>id</text>
+        <text>()),</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -3037,32 +3037,32 @@
       <register name="/" type="4">
         <text>input</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHNlbGVjdDogc2lub24uc3R1YigpLnJldHVybnNUaGlzKCksCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">dGVzdCgnU2hvdWxkIHN1Y2Nlc3NmdWxseSBmaW5kIGFuIG9yZGVyJywgYXN5bmMgKHQpID0+IHsKICBjb25zdCB7IHJlcywgbmV4dCB9ID0gdC5jb250ZXh0OwogIGNvbnN0IHJlcSA9IHsKICAgIGdyb3VwczogWydQQVJURURHRV9TUFRfS08nXSwKICAgIHBhcmFtczogeyBpZDogMSB9LAogIH07CiAgY29uc3Qgb3JkZXIgPSB7IGlkOiAxLCB0eXBlOiAnU1BUX0tPJyB9OwogIGNvbnN0IGZha2VSZXBvc2l0b3J5ID0gewogICAgZmluZEJ5SWQ6IHNpbm9uLnN0dWIoKS5yZXNvbHZlcyhvcmRlciksCiAgfTsKICBhd2FpdCAoZmluZE9yZGVyKGZha2VSZXBvc2l0b3J5KShyZXEsIHJlcywgbmV4dCkpOwogIHQudHJ1ZShyZXMuc3RhdHVzLmNhbGxlZE9uY2UpOwogIHQudHJ1ZShyZXMuc3RhdHVzLmNhbGxlZFdpdGhFeGFjdGx5KDIwMCkpOwogIHQudHJ1ZShyZXMuanNvbi5jYWxsZWRPbmNlKTsKICB0LnRydWUocmVzLmpzb24uY2FsbGVkV2l0aEV4YWN0bHkob3JkZXIpKTsKfSk7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9KSk7Cg==</text>
+        <text encoding="base64">ICB0LnRydWUobmV4dC5jYWxsZWRPbmNlV2l0aEV4YWN0bHkobmV3IGNyZWF0ZUh0dHBFcnJvci5Gb3JiaWRkZW4oKSkpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0YXR1czogJ1BlbmRpbmcgdmFsaWRhdGlvbicsCiAgICB0eXBlOiAnQVNFJywK</text>
+        <text encoding="base64">ICB0LnRydWUobmV4dC5jYWxsZWRPbmNlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB0LnRydWUoZGIuaW5zZXJ0LmdldENhbGwoMCkuY2FsbGVkV2l0aEV4YWN0bHkoewogICAgYWRkcmVzczogJzEgcnVlIFdld29yaycsCg==</text>
+        <text encoding="base64">ICB0LnRydWUocmVzLnN0YXR1cy5jYWxsZWRPbmNlKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB0LnRydWUobW9kZWwuaW50by5jYWxsZWRUaHJpY2UpOwo=</text>
+        <text encoding="base64">ICB0LnRydWUoZmFrZVJlcG9zaXRvcnkudXBkYXRlLmNhbGxlZFdpdGhFeGFjdGx5KHJlcS5wYXJhbXMuaWQsIHJlcS5ib2R5KSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB0LnRydWUobW9kZWwuaW50by5nZXRDYWxsKDIpLmNhbGxlZFdpdGhFeGFjdGx5KE9MRF9FUVVJUE1FTlRTX1RBQkxFX05BTUUpKTsK</text>
+        <text encoding="base64">ICB0LnRydWUocmVzLmVuZC5jYWxsZWRPbmNlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB0LnRydWUobW9kZWwuaW50by5nZXRDYWxsKDApLmNhbGxlZFdpdGhFeGFjdGx5KFRBQkxFX05BTUUpKTsKICB0LnRydWUobW9kZWwuaW50by5nZXRDYWxsKDEpLmNhbGxlZFdpdGhFeGFjdGx5KE5FV19FUVVJUE1FTlRTX1RBQkxFX05BTUUpKTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhuZXh0LmFyZ3MpOwogIHQudHJ1ZShuZXh0LmNhbGxlZFdpdGhNYXRjaChzaW5vbi5tYXRjaC5vYmplY3QpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiByZWZhY3RvcihvcmRlcnMpOiByZXZpZXcgY29kaW5nIHN0eWxlCg==</text>
+        <text encoding="base64">ICB0LnRydWUocmVzLmpzb24uY2FsbGVkT25jZSk7CiAgdC50cnVlKHJlcy5qc29uLmNhbGxlZFdpdGhFeGFjdGx5KG9yZGVyKSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5254,10 +5254,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0LnRydWUocmVzLnN0YXR1cy5jYWxsZWRPbmNlKTsKICB0LnRydWUocmVzLnN0YXR1cy5jYWxsZWRXaXRoRXhhY3RseSgpKTsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgYXN5bmMgb3JkZXIgPT4gZGIuaW5zZXJ0KG9yZGVyTWFwcGVyLnRvREJPKG9yZGVyKSkKICAgIC5pbnRvKFRBQkxFX05BTUUpCiAgICAudGhlbihhc3luYyAoW29yZGVyQ3JlYXRlZElkXSkgPT4gewogICAgICBhd2FpdCBQcm9taXNlLmFsbChbCiAgICAgICAgZGIKICAgICAgICAgIC5pbnNlcnQoewogICAgICAgICAgICBvcmRlcklkOiBvcmRlckNyZWF0ZWRJZCwKICAgICAgICAgICAgLi4uc2VydmljZWFibGVFcXVpcG1lbnRNYXBwZXIudG9EQk8ob3JkZXIubmV3RXF1aXBtZW50KSwKICAgICAgICAgIH0pCiAgICAgICAgICAuaW50byhORVdfRVFVSVBNRU5UU19UQUJMRV9OQU1FKSwKICAgICAgICBkYgogICAgICAgICAgLmluc2VydCh7CiAgICAgICAgICAgIG9yZGVySWQ6IG9yZGVyQ3JlYXRlZElkLAogICAgICAgICAgICAuLi51bnNlcnZpY2VhYmxlRXF1aXBtZW50TWFwcGVyLnRvREJPKG9yZGVyLm9sZEVxdWlwbWVudCksCiAgICAgICAgICB9KQogICAgICAgICAgLmludG8oT0xEX0VRVUlQTUVOVFNfVEFCTEVfTkFNRSksCiAgICAgIF0pOwogICAgICByZXR1cm4gb3JkZXJDcmVhdGVkSWQ7CiAgICB9KTsKPT09PT09PQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBjb25zdCBvcmRlciA9IHsgaWQ6IDEsIHR5cGU6ICdBU0UnIH07Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
