@@ -577,7 +577,7 @@
         <mark key="." line="18" column="95" />
         <mark key="^" line="18" column="95" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521734827144">
+      <file name="/Dummy.txt" timestamp="1521738398586">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/components/db/index.js" timestamp="1514895151305">
@@ -685,12 +685,12 @@
         <mark key="^" line="24" column="41" />
         <mark key="." line="24" column="41" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/nginx.conf" timestamp="1519304857034">
+      <file name="$USER_HOME$/dev/part-edge/client/src/nginx.conf" timestamp="1521738869643">
         <mark key="'" line="0" column="17" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
         <mark key="^" line="40" column="41" />
-        <mark key="." line="50" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/Requests.vue" timestamp="1521471832898">
         <mark key="'" line="0" column="0" />
@@ -883,12 +883,12 @@
         <mark key="]" line="197" column="0" />
         <mark key="." line="197" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/test/api/orders.test.js" timestamp="1521734844369">
-        <mark key="'" line="134" column="2" />
-        <mark key="[" line="96" column="4" />
-        <mark key="]" line="96" column="10" />
-        <mark key="." line="96" column="10" />
-        <mark key="^" line="96" column="10" />
+      <file name="$USER_HOME$/dev/part-edge/api/test/api/orders.test.js" timestamp="1521739451598">
+        <mark key="'" line="133" column="13" />
+        <mark key="[" line="134" column="29" />
+        <mark key="]" line="134" column="29" />
+        <mark key="." line="134" column="29" />
+        <mark key="^" line="137" column="1" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/middlewares/mail.test.js" timestamp="1518017605683">
         <mark key="'" line="0" column="0" />
@@ -1460,8 +1460,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="25" filename="$USER_HOME$/dev/part-edge/importer/test/unit/config.test.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/importer/test/unit/config.test.js" />
       <jump line="17" column="0" filename="$USER_HOME$/dev/part-edge/importer/docker-compose.yml" />
       <jump line="35" column="0" filename="$USER_HOME$/dev/part-edge/importer/docker-compose.yml" />
       <jump line="67" column="4" filename="$USER_HOME$/dev/part-edge/importer/Jenkinsfile" />
@@ -1560,6 +1558,8 @@
       <jump line="9" column="26" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/auth/AuthCallback.spec.js" />
       <jump line="8" column="13" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/auth/AuthCallback.spec.js" />
       <jump line="4" column="0" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/auth/AuthCallback.spec.js" />
+      <jump line="84" column="23" filename="$USER_HOME$/dev/part-edge/api/test/api/orders.test.js" />
+      <jump line="133" column="13" filename="$USER_HOME$/dev/part-edge/api/test/api/orders.test.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1570,7 +1570,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>only</text>
+        <text>HIJ</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -3097,7 +3097,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>only</text>
+        <text>HIJ</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -3106,13 +3106,13 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>order</text>
+        <text>orderASE</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">dGVzdCgnU2hvdWxkIHN1Y2Nlc3NmdWxseSBmaW5kIGFuIG9yZGVyJywgYXN5bmMgKHQpID0+IHsKICBjb25zdCB7IHJlcywgbmV4dCB9ID0gdC5jb250ZXh0OwogIGNvbnN0IHJlcSA9IHsKICAgIGdyb3VwczogWydQQVJURURHRV9TUFRfS08nXSwKICAgIHBhcmFtczogeyBpZDogMSB9LAogIH07CiAgY29uc3Qgb3JkZXIgPSB7IGlkOiAxLCB0eXBlOiAnU1BUX0tPJyB9OwogIGNvbnN0IGZha2VSZXBvc2l0b3J5ID0gewogICAgZmluZEJ5SWQ6IHNpbm9uLnN0dWIoKS5yZXNvbHZlcyhvcmRlciksCiAgfTsKICBhd2FpdCAoZmluZE9yZGVyKGZha2VSZXBvc2l0b3J5KShyZXEsIHJlcywgbmV4dCkpOwogIHQudHJ1ZShyZXMuc3RhdHVzLmNhbGxlZE9uY2UpOwogIHQudHJ1ZShyZXMuc3RhdHVzLmNhbGxlZFdpdGhFeGFjdGx5KDIwMCkpOwogIHQudHJ1ZShyZXMuanNvbi5jYWxsZWRPbmNlKTsKICB0LnRydWUocmVzLmpzb24uY2FsbGVkV2l0aEV4YWN0bHkob3JkZXIpKTsKfSk7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ1RFU1QnKTsK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3125,23 +3125,23 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ1RFU1QnKTsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgPCUgaWYgRU5WWyJBUElfVVJMIl0gJT4KICAgICAgbG9jYXRpb24gL2FwaS8gewogICAgICAgIHJld3JpdGUgL2FwaS8oLiopIC8kMSAgYnJlYWs7CiAgICAgICAgcHJveHlfcGFzcyAnPCU9IEVOVlsiQVBJX1VSTCJdICU+JzsKICAgICAgfQogICAgICA8JSBlbmQgJT4=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ1RFU1QnKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KCRyKQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ1RFU1QnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KCRyb3V0ZXIucHVzaCkudG8uaGF2ZS5iZWVuLmNhbGxlZE9uY2U7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ1RFU1QnKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJHJvdXRlci5jYWxsZWRPbmNlKTsK</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KCRyKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3RhcmdldFVSTCcsIHRhcmdldFVSTCk7Cg==</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KCRyb3V0ZXIucHVzaCkudG8uaGF2ZS5iZWVuLmNhbGxlZE9uY2U7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5333,27 +5333,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICRzdG9yZSwK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJHJvdXRlci5jYWxsZWRPbmNlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICRsb2dnZXIsCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3RhcmdldFVSTCcsIHRhcmdldFVSTCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>order</last-search>
+      <last-search>orderASE</last-search>
       <last-offset />
-      <last-pattern>order</last-pattern>
-      <last-replace>orderASE</last-replace>
-      <last-substitute>order</last-substitute>
+      <last-pattern>orderASE</last-pattern>
+      <last-replace>orderSPTKO</last-replace>
+      <last-substitute>orderASE</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>this.order.documents</entry>
         <entry>acceptance</entry>
         <entry>pdfUrl</entry>
         <entry>profile</entry>
@@ -5373,9 +5372,9 @@
         <entry>input</entry>
         <entry>model</entry>
         <entry>order</entry>
+        <entry>orderASE</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL0VERC9HREQvZw==</entry>
         <entry encoding="base64">JzwsJz5zL25ld0VxdWlwbWVudC9vbGRFcXVpcG1lbnQvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3JlcS5ob3N0bmFtZS9yZXEuZ2V0KCdPcmlnaW4nKS9n</entry>
         <entry encoding="base64">JzwsJz5zL1NFVF9PTERfRVFVSVBNRU5UL1VQREFURV9PUkRFUlMvZw==</entry>
@@ -5394,6 +5393,7 @@
         <entry>wq</entry>
         <entry>q</entry>
         <entry>qall</entry>
+        <entry encoding="base64">JzwsJz5zL29yZGVyQVNFL29yZGVyU1BUS08vZw==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
