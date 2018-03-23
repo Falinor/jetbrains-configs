@@ -14,7 +14,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>265</Count>
+          <Count>302</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Usages">
@@ -30,7 +30,15 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>4</Count>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Paste from History...">
+        <Item>
+          <IdeaActionID>PasteMultiple</IdeaActionID>
+          <ShortCut>'⇧⌘V'</ShortCut>
+          <Description>Paste from History...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -38,7 +46,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>28</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
@@ -46,7 +54,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'⇧F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
@@ -54,7 +62,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Restore Windows</Description>
-          <Count>3</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'index.html (1)'">
@@ -78,7 +86,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'index.html'</Description>
-          <Count>2</Count>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
@@ -86,7 +94,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>11</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -94,7 +102,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>14</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
     </option>
