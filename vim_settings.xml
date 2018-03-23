@@ -565,7 +565,7 @@
         <mark key="." line="18" column="95" />
         <mark key="^" line="18" column="95" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521740174358">
+      <file name="/Dummy.txt" timestamp="1521812667346">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/components/db/index.js" timestamp="1514895151305">
@@ -679,12 +679,12 @@
         <mark key="^" line="40" column="41" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/Requests.vue" timestamp="1521801308748">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="88" column="18" />
-        <mark key="]" line="97" column="30" />
-        <mark key="." line="97" column="30" />
-        <mark key="^" line="97" column="30" />
+      <file name="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/Requests.vue" timestamp="1521812645162">
+        <mark key="'" line="20" column="22" />
+        <mark key="[" line="12" column="53" />
+        <mark key="]" line="12" column="56" />
+        <mark key="." line="12" column="56" />
+        <mark key="^" line="12" column="56" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/package.json" timestamp="1519415243929">
         <mark key="'" line="12" column="13" />
@@ -1456,7 +1456,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="34" filename="$USER_HOME$/dev/part-edge/importer/test/e2e/index.test.js" />
       <jump line="169" column="20" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.js" />
       <jump line="14" column="18" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/documents/controller.js" />
       <jump line="204" column="4" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/services/auth.spec.js" />
@@ -1556,6 +1555,7 @@
       <jump line="231" column="15" filename="$USER_HOME$/dev/part-edge/client/src/App.vue" />
       <jump line="17" column="0" filename="$USER_HOME$/dev/part-edge/client/src/App.vue" />
       <jump line="18" column="41" filename="$USER_HOME$/dev/part-edge/client/src/App.vue" />
+      <jump line="20" column="22" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/Requests.vue" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3102,7 +3102,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">PCEtLQ==</text>
+        <text>assign</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxxLWl0ZW0tc2VwYXJhdG9yIC8+Cg==</text>
@@ -5339,9 +5339,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">PCEtLQ==</last-search>
+      <last-search>assign</last-search>
       <last-offset />
-      <last-pattern encoding="base64">PCEtLQ==</last-pattern>
+      <last-pattern>assign</last-pattern>
       <last-replace>orderSPTKO</last-replace>
       <last-substitute>orderASE</last-substitute>
       <last-dir>1</last-dir>
@@ -5349,7 +5349,6 @@
     </search>
     <history>
       <history-search>
-        <entry>profile</entry>
         <entry encoding="base64">XDxtaW5cPg==</entry>
         <entry>ORDER_UPDATED</entry>
         <entry>config</entry>
@@ -5369,6 +5368,7 @@
         <entry>orderASE</entry>
         <entry>log</entry>
         <entry encoding="base64">PCEtLQ==</entry>
+        <entry>assign</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL25ld0VxdWlwbWVudC9vbGRFcXVpcG1lbnQvZw==</entry>
