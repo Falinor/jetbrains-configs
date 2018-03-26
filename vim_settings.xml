@@ -1169,12 +1169,12 @@
         <mark key="." line="13" column="40" />
         <mark key="^" line="13" column="40" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/Jenkinsfile" timestamp="1519925323823">
-        <mark key="'" line="26" column="8" />
-        <mark key="[" line="77" column="52" />
-        <mark key="]" line="78" column="54" />
-        <mark key="." line="78" column="54" />
-        <mark key="^" line="78" column="54" />
+      <file name="$USER_HOME$/dev/part-edge/client/Jenkinsfile" timestamp="1522076773997">
+        <mark key="'" line="28" column="8" />
+        <mark key="[" line="63" column="14" />
+        <mark key="]" line="63" column="18" />
+        <mark key="." line="63" column="18" />
+        <mark key="^" line="63" column="18" />
       </file>
       <file name="$USER_HOME$/dev/brainfuck-interpreter/test/commands/move-right.test.js" timestamp="1515675616374">
         <mark key="'" line="6" column="22" />
@@ -1578,8 +1578,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJzdXBlcmFnZW50IjogIl4zLjguMSIsCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cnVuIA==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -3106,7 +3106,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">cnVuIA==</text>
       </register>
       <register name="m" type="4">
         <keys>
