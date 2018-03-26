@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/dev/part-edge/ansible-ci/install.yml" timestamp="1522080339666">
+        <mark key="[" line="32" column="28" />
+      </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/middlewares/validator.test.js" timestamp="1517405960732">
         <mark key="'" line="17" column="38" />
         <mark key="[" line="46" column="14" />
@@ -149,11 +152,23 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
       </file>
+      <file name="$USER_HOME$/dev/part-edge/api/src/components/logger/index.js" timestamp="1521726164517">
+        <mark key="[" line="0" column="28" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="9" column="25" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/part-edge/importer/docker-compose.yml" timestamp="1521215467403">
         <mark key="'" line="22" column="0" />
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/part-edge/ansible-ci/roles/yarn/tasks/main.yml" timestamp="1522080322745">
+        <mark key="[" line="11" column="20" />
+        <mark key="]" line="11" column="19" />
+        <mark key="." line="11" column="19" />
+        <mark key="^" line="11" column="19" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/routes/users/repository.test.js" timestamp="1521722089826">
         <mark key="'" line="19" column="15" />
@@ -1169,12 +1184,12 @@
         <mark key="." line="13" column="40" />
         <mark key="^" line="13" column="40" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/Jenkinsfile" timestamp="1522079867846">
-        <mark key="'" line="30" column="8" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="19" column="91" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/dev/part-edge/client/Jenkinsfile" timestamp="1522080647854">
+        <mark key="'" line="20" column="8" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="141" column="16" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/dev/brainfuck-interpreter/test/commands/move-right.test.js" timestamp="1515675616374">
         <mark key="'" line="6" column="22" />
@@ -1579,7 +1594,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJc3RlcHMgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -3106,7 +3121,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICEgLWQgIiRIT01FLy55YXJuIiBdICYmIA==</text>
+        <text encoding="base64">cnVuIA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -3121,7 +3136,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxxLWl0ZW0tc2VwYXJhdG9yIC8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJc3RlcHMgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3134,23 +3149,23 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJfQoK</text>
+      <register name="2" type="4">
+        <text encoding="base64">Cgl0b29scyB7CgkJbm9kZWpzICJOb2RlSlMtOC4xLjQiCgl9</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CQkgICAgdG9vbCBuYW1lOiAnTm9kZUpTLTguMS40Jwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCgkJCWVudmlyb25tZW50Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRvb2wgbmFtZTogJ05vZGVKUy04LjEuNCcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCXNoICd5YXJuIC0tdmVyc2lvbicKCQkJCXNoICd5YXJuIGluc3RhbGwnCg==</text>
+        <text encoding="base64">CQkgICAgdG9vbCBuYW1lOiAnTm9kZUpTLTguMS40Jwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCXNoICdleHBvcnQgJwo=</text>
+        <text encoding="base64">CQkJCXRvb2wgbmFtZTogJ05vZGVKUy04LjEuNCcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCXNoICd0b3VjaCB+Ly5iYXNocmMnCg==</text>
+        <text encoding="base64">CQkJCXRvb2wgbmFtZTogJ05vZGVKUy04LjEuNCcK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5342,10 +5357,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkKCQl9Cg==</text>
+        <text encoding="base64">CQkJCXNoICd0b3VjaCB+Ly5iYXNocmMnCgkJCQlzaCAneWFybiAtLXZlcnNpb24gfHwgY3VybCAtby0gLUwgaHR0cHM6Ly95YXJucGtnLmNvbS9pbnN0YWxsLnNoIHwgYmFzaCcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkKCQl9Cg==</text>
+        <text encoding="base64">CQkJCXNoICdleHBvcnQgUEFUSD0iJEhPTUUvLnlhcm4vYmluOiRIT01FLy5jb25maWcveWFybi9nbG9iYWwvbm9kZV9tb2R1bGVzLy5iaW46JFBBVEgiJwoJCQkgIHNoICd5YXJuIC0tdmVyc2lvbicK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
