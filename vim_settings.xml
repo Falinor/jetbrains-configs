@@ -565,7 +565,7 @@
         <mark key="." line="18" column="95" />
         <mark key="^" line="18" column="95" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522070368284">
+      <file name="/Dummy.txt" timestamp="1522073637961">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/components/db/index.js" timestamp="1514895151305">
@@ -686,12 +686,12 @@
         <mark key="." line="142" column="72" />
         <mark key="^" line="142" column="72" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/package.json" timestamp="1519415243929">
+      <file name="$USER_HOME$/dev/part-edge/client/package.json" timestamp="1522073605859">
         <mark key="'" line="12" column="13" />
-        <mark key="[" line="3" column="17" />
-        <mark key="]" line="3" column="16" />
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="0" />
         <mark key="^" line="3" column="16" />
-        <mark key="." line="3" column="16" />
+        <mark key="." line="116" column="0" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/src/store/mutation-types.js" timestamp="1521472225105">
         <mark key="[" line="26" column="0" />
@@ -1388,12 +1388,12 @@
         <mark key="^" line="23" column="43" />
         <mark key="." line="23" column="38" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/.babelrc" timestamp="1522070017515">
+      <file name="$USER_HOME$/dev/part-edge/client/.babelrc" timestamp="1522073484440">
         <mark key="'" line="7" column="2" />
-        <mark key="[" line="4" column="41" />
-        <mark key="]" line="4" column="37" />
-        <mark key="^" line="4" column="37" />
-        <mark key="." line="4" column="37" />
+        <mark key="[" line="7" column="6" />
+        <mark key="]" line="7" column="6" />
+        <mark key="^" line="10" column="44" />
+        <mark key="." line="7" column="6" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/importer/migrations/20171127173543-create-delay.js" timestamp="1511804553057">
         <mark key="'" line="22" column="5" />
@@ -1578,8 +1578,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>7</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJzdXBlcmFnZW50IjogIl4zLjguMSIsCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -3106,7 +3106,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>7</text>
+        <text>,</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -3121,7 +3121,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxxLWl0ZW0tc2VwYXJhdG9yIC8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fSwK</text>
+        <text encoding="base64">ICAgICJzdXBlcmFnZW50IjogIl4zLjguMSIsCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3135,22 +3135,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ewo=</text>
+        <text encoding="base64">ICAgICJzdGFnZS0yIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAiY29tbWVudHMiOiBmYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgInVzZUJ1aWx0SW5zIjogInVzYWdlIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAicGx1Z2lucyI6IFsidHJhbnNmb3JtLXJ1bnRpbWUiLCAiaXN0YW5idWwiXSwK</text>
+        <text encoding="base64">fSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAicHJlc2V0cyI6IFtbImVzMjAxNSIsIHsibW9kdWxlcyI6IGZhbHNlfV0sICJzdGFnZS0yIl0sCg==</text>
+        <text encoding="base64">ewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBvcmRlciA9IAo=</text>
+        <text encoding="base64">ICAiY29tbWVudHMiOiBmYWxzZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAicGx1Z2lucyI6IFsidHJhbnNmb3JtLXJ1bnRpbWUiLCAiaXN0YW5idWwiXSwK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5342,10 +5342,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnByb2ZpbGUpOwo=</text>
+        <text encoding="base64">ICAicHJlc2V0cyI6IFtbImVzMjAxNSIsIHsibW9kdWxlcyI6IGZhbHNlfV0sICJzdGFnZS0yIl0sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnJWMgb3JkZXInLCAnYmFja2dyb3VuZDpjeWFuJywgSlNPTi5zdHJpbmdpZnkob3JkZXIsIG51bGwsIDQpKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBvcmRlciA9IAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
