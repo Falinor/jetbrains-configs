@@ -274,12 +274,12 @@
         <mark key="." line="211" column="21" />
         <mark key="^" line="211" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/webpack.config.js" timestamp="1522143927288">
-        <mark key="'" line="7" column="31" />
-        <mark key="[" line="4" column="18" />
-        <mark key="]" line="5" column="11" />
-        <mark key="." line="5" column="11" />
-        <mark key="^" line="5" column="11" />
+      <file name="$USER_HOME$/dev/part-edge/client/webpack.config.js" timestamp="1522145900997">
+        <mark key="'" line="7" column="9" />
+        <mark key="[" line="9" column="6" />
+        <mark key="]" line="9" column="6" />
+        <mark key="." line="9" column="6" />
+        <mark key="^" line="3" column="18" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/orders/initialize-sptko.spec.js" timestamp="1520357188057">
         <mark key="'" line="29" column="3" />
@@ -701,6 +701,7 @@
         <mark key="^" line="40" column="41" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/part-edge/client/build/webpack.base.conf.js" timestamp="1522146167070" />
       <file name="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/Requests.vue" timestamp="1522067054009">
         <mark key="'" line="32" column="18" />
         <mark key="[" line="142" column="57" />
@@ -708,12 +709,12 @@
         <mark key="." line="142" column="72" />
         <mark key="^" line="142" column="72" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/package.json" timestamp="1522144046116">
+      <file name="$USER_HOME$/dev/part-edge/client/package.json" timestamp="1522145274532">
         <mark key="'" line="12" column="13" />
-        <mark key="[" line="19" column="21" />
-        <mark key="]" line="19" column="47" />
-        <mark key="^" line="19" column="47" />
-        <mark key="." line="19" column="47" />
+        <mark key="[" line="19" column="22" />
+        <mark key="]" line="19" column="20" />
+        <mark key="^" line="19" column="20" />
+        <mark key="." line="19" column="20" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/src/store/mutation-types.js" timestamp="1521472225105">
         <mark key="[" line="26" column="0" />
@@ -1503,7 +1504,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="84" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/services/auth.spec.js" />
       <jump line="32" column="14" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/services/auth.spec.js" />
       <jump line="37" column="15" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/services/auth.spec.js" />
       <jump line="65" column="22" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/services/auth.spec.js" />
@@ -1603,6 +1603,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/client/.babelrc" />
       <jump line="7" column="2" filename="$USER_HOME$/dev/part-edge/client/.babelrc" />
       <jump line="2" column="31" filename="$USER_HOME$/dev/part-edge/client/webpack.config.js" />
+      <jump line="6" column="9" filename="$USER_HOME$/dev/part-edge/client/webpack.config.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1613,7 +1614,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>js</text>
+        <text encoding="base64">CiAgICBtb2R1bGU6IHsKICAgICAgcnVsZXM6IFsKICAgICAgICB7IHRlc3Q6IC9cLnZ1ZSQvLCB1c2U6ICdiYWJlbC1sb2FkZXInIH0sCiAgICAgIF0sCiAgICB9LA==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -3140,7 +3141,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>js</text>
+        <text>.</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -3154,8 +3155,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxxLWl0ZW0tc2VwYXJhdG9yIC8+Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJycK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICBtb2R1bGU6IHsKICAgICAgcnVsZXM6IFsKICAgICAgICB7IHRlc3Q6IC9cLnZ1ZSQvLCB1c2U6ICdiYWJlbC1sb2FkZXInIH0sCiAgICAgIF0sCiAgICB9LA==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3169,22 +3170,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBlbnRyeTogJy4vJwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCXRvb2wgbmFtZTogJ05vZGVKUy04LjEuNCcK</text>
+        <text encoding="base64">Y29uc3QgZW52ID0gcHJvY2Vzcy5lbnYuTk9ERV9FTlYgfHwgJ2RldmVsb3BtZW50JzsKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCXRvb2wgbmFtZTogJ05vZGVKUy04LjEuNCcK</text>
+        <text encoding="base64">ICBtb2RlOiBlbnYsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQoJCQkJc2ggJ25wbSBpbnN0YWxsJwo=</text>
+        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJycK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CX0KCg==</text>
+        <text encoding="base64">ICBlbnRyeTogJy4vJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXRvb2xzIHsKCSAgICBub2RlanMgIk5vZGVKUy04LjEuNCIK</text>
+        <text encoding="base64">CQkJCXRvb2wgbmFtZTogJ05vZGVKUy04LjEuNCcK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5376,10 +5377,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCXRvb2wgbmFtZTogJ05vZGVKUy04LjEuNCcK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Cgl0b29scyB7CgkJbm9kZWpzICJOb2RlSlMtOC4xLjQiCgl9</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJCQoJCQkJc2ggJ25wbSBpbnN0YWxsJwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
