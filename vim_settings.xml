@@ -232,6 +232,12 @@
         <mark key="." line="91" column="31" />
         <mark key="^" line="91" column="31" />
       </file>
+      <file name="$USER_HOME$/dev/part-edge/client/build/webpack.test.conf.js" timestamp="1522253976479">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/brainfuck-interpreter/src/ast.js" timestamp="1516038121877">
         <mark key="'" line="11" column="0" />
         <mark key="[" line="17" column="10" />
@@ -1193,6 +1199,12 @@
         <mark key="." line="72" column="10" />
         <mark key="^" line="72" column="10" />
       </file>
+      <file name="$USER_HOME$/dev/part-edge/client/test/unit/.eslintrc" timestamp="1522253682275">
+        <mark key="[" line="13" column="11" />
+        <mark key="]" line="13" column="15" />
+        <mark key="^" line="13" column="15" />
+        <mark key="." line="13" column="15" />
+      </file>
       <file name="$USER_HOME$/dev/part-edge/client/src/components/orders/show-order.vue" timestamp="1521558280547">
         <mark key="'" line="65" column="19" />
         <mark key="[" line="28" column="289" />
@@ -1354,8 +1366,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="223" column="0" filename="$USER_HOME$/dev/part-edge/client/src/components/equipments/children/equipment-form.vue" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/client/src/components/equipments/children/equipment-form.vue" />
       <jump line="142" column="42" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/equipments/children/equipment-form.spec.js" />
       <jump line="27" column="24" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/equipments/children/equipment-form.spec.js" />
       <jump line="152" column="21" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/equipments/children/equipment-form.spec.js" />
@@ -1454,6 +1464,8 @@
       <jump line="92" column="0" filename="$USER_HOME$/dev/part-edge/client/build/css-utils.js" />
       <jump line="6" column="28" filename="$USER_HOME$/dev/part-edge/client/config/index.js" />
       <jump line="69" column="5" filename="$USER_HOME$/dev/part-edge/client/build/webpack.prod.conf.js" />
+      <jump line="22" column="0" filename="$USER_HOME$/dev/part-edge/client/build/webpack.test.conf.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/dev/part-edge/client/build/webpack.test.conf.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1463,8 +1475,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc3Qgd2VicGFjayA9IHJlcXVpcmUoJ3dlYnBhY2snKTsK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -3020,22 +3032,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBtb2RlOiAncHJvZHVjdGlvbicsCg==</text>
+        <text encoding="base64">Y29uc3QgdXRpbHMgPSByZXF1aXJlKCcuL3V0aWxzJyk7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIG5ldyB3ZWJwYWNrLm9wdGltaXplLlVnbGlmeUpzUGx1Z2luKHsKICAgICAgc291cmNlTWFwOiBjb25maWcuYnVpbGQucHJvZHVjdGlvblNvdXJjZU1hcCwKICAgICAgbWluaW1pemU6IHRydWUsCiAgICAgIGNvbXByZXNzOiB7CiAgICAgICAgd2FybmluZ3M6IGZhbHNlCiAgICAgIH0KICAgIH0pLA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">J3VzZSBzdHJpY3QnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgSHRtbFdlYnBhY2tQbHVnaW4gPSByZXF1aXJlKCdodG1sLXdlYnBhY2stcGx1Z2luJyk7Cg==</text>
+        <text encoding="base64">Y29uc3Qgd2VicGFjayA9IHJlcXVpcmUoJ3dlYnBhY2snKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBtb2RlOiAncHJvZHVjdGlvbicsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyguLi5bJ3Rlc3QnLCAndGVzdDInXSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5227,10 +5239,10 @@
         </keys>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIC8vIGxvYWRlcnM6IG1lcmdlKHsganM6ICdiYWJlbC1sb2FkZXInIH0sIGNzc1V0aWxzLnN0eWxlTG9hZGVycyh7CiAgICAgICAgICAgIC8vICAgc291cmNlTWFwOiAhaXNQcm9kdWN0aW9uLAogICAgICAgICAgICAvLyAgIGV4dHJhY3Q6IGlzUHJvZHVjdGlvbiwKICAgICAgICAgICAgLy8gfSkpLA==</text>
+        <text encoding="base64">ICAgIG5ldyB3ZWJwYWNrLm9wdGltaXplLlVnbGlmeUpzUGx1Z2luKHsKICAgICAgc291cmNlTWFwOiBjb25maWcuYnVpbGQucHJvZHVjdGlvblNvdXJjZU1hcCwKICAgICAgbWluaW1pemU6IHRydWUsCiAgICAgIGNvbXByZXNzOiB7CiAgICAgICAgd2FybmluZ3M6IGZhbHNlCiAgICAgIH0KICAgIH0pLA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">Y29uc3QgSHRtbFdlYnBhY2tQbHVnaW4gPSByZXF1aXJlKCdodG1sLXdlYnBhY2stcGx1Z2luJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
