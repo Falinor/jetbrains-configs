@@ -6,6 +6,13 @@
       <file name="$USER_HOME$/dev/part-edge/ansible-ci/install.yml" timestamp="1522080339666">
         <mark key="[" line="32" column="28" />
       </file>
+      <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/toggles.spec.js" timestamp="1522314100001">
+        <mark key="'" line="5" column="11" />
+        <mark key="[" line="1" column="26" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/middlewares/validator.test.js" timestamp="1517405960732">
         <mark key="'" line="17" column="38" />
         <mark key="[" line="46" column="14" />
@@ -154,6 +161,12 @@
         <mark key="]" line="11" column="19" />
         <mark key="." line="11" column="19" />
         <mark key="^" line="11" column="19" />
+      </file>
+      <file name="$USER_HOME$/dev/part-edge/client/build/script.build.js" timestamp="1522314262224">
+        <mark key="[" line="25" column="39" />
+        <mark key="]" line="26" column="34" />
+        <mark key="^" line="26" column="34" />
+        <mark key="." line="26" column="34" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/routes/users/repository.test.js" timestamp="1521722089826">
         <mark key="'" line="19" column="15" />
@@ -462,6 +475,12 @@
         <mark key="." line="15" column="41" />
         <mark key="^" line="15" column="41" />
       </file>
+      <file name="$USER_HOME$/dev/part-edge/client/src/filters.js" timestamp="1522314843794">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="4" column="3" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/part-edge/client/src/components/Navbar.vue" timestamp="1517845970922">
         <mark key="'" line="66" column="10" />
         <mark key="[" line="2" column="53" />
@@ -574,7 +593,7 @@
         <mark key="." line="18" column="95" />
         <mark key="^" line="18" column="95" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522313558751">
+      <file name="/Dummy.txt" timestamp="1522313607294">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/components/db/index.js" timestamp="1514895151305">
@@ -685,11 +704,11 @@
         <mark key="^" line="40" column="41" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/build/webpack.base.conf.js" timestamp="1522313603022">
+      <file name="$USER_HOME$/dev/part-edge/client/build/webpack.base.conf.js" timestamp="1522313604126">
         <mark key="[" line="19" column="16" />
-        <mark key="]" line="19" column="16" />
+        <mark key="]" line="19" column="19" />
         <mark key="^" line="19" column="19" />
-        <mark key="." line="19" column="16" />
+        <mark key="." line="19" column="19" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/Requests.vue" timestamp="1522067054009">
         <mark key="'" line="32" column="18" />
@@ -1096,12 +1115,12 @@
         <mark key="." line="9" column="40" />
         <mark key="^" line="9" column="40" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/App.vue" timestamp="1521810554002">
+      <file name="$USER_HOME$/dev/part-edge/client/src/App.vue" timestamp="1522314708200">
         <mark key="'" line="18" column="41" />
-        <mark key="[" line="68" column="86" />
-        <mark key="]" line="68" column="84" />
-        <mark key="." line="68" column="84" />
-        <mark key="^" line="68" column="84" />
+        <mark key="[" line="79" column="29" />
+        <mark key="]" line="79" column="28" />
+        <mark key="." line="79" column="28" />
+        <mark key="^" line="79" column="28" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/importer/seeds/equipments.js" timestamp="1512083287854">
         <mark key="'" line="0" column="32" />
@@ -1441,7 +1460,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="135" column="33" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/equipments/children/equipment-form.spec.js" />
       <jump line="5" column="133" filename="$USER_HOME$/dev/part-edge/client/src/components/equipments/equipment-details.vue" />
       <jump line="14" column="17" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/repository.js" />
       <jump line="33" column="2" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/repository.js" />
@@ -1541,6 +1559,7 @@
       <jump line="9" column="1" filename="$USER_HOME$/dev/part-edge/api/src/components/logger/index.js" />
       <jump line="17" column="43" filename="$USER_HOME$/dev/part-edge/api/src/container.test.js" />
       <jump line="5" column="38" filename="$USER_HOME$/dev/part-edge/api/src/container.js" />
+      <jump line="3" column="11" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/toggles.spec.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1550,8 +1569,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>index</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -3093,7 +3112,7 @@
         <text encoding="base64">ICAgIGNvbnRhaW5lci5yZXNvbHZlKCdsb2dnZXInKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdCBsb2dnZXIyID0gY29udGFpbmVyLnJlc29sdmUoJ2xvZ2dlcicpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3107,24 +3126,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCB7IGxvZ2dlciB9ID0gY29udGFpbmVyLmNyYWRsZTsK</text>
+        <text encoding="base64">CiAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgY29udGFpbmVyID0gY3JlYXRlQ29udGFpbmVyKCk7Cgo=</text>
+        <text encoding="base64">ICBjb25zdCBsb2dnZXIyID0gY29udGFpbmVyLnJlc29sdmUoJ2xvZ2dlcicpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbmZpZyBmcm9tICcuLi8uLi9jb25maWcnOwoK</text>
+        <text encoding="base64">ICBjb25zdCB7IGxvZ2dlciB9ID0gY29udGFpbmVyLmNyYWRsZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoK</text>
+        <text encoding="base64">Y29uc3QgY29udGFpbmVyID0gY3JlYXRlQ29udGFpbmVyKCk7Cgo=</text>
       </register>
-      <register name="6" type="4">
-        <text>*
- * A logger with base settings
- */</text>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbmZpZyBmcm9tICcuLi8uLi9jb25maWcnOwoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5315,14 +5332,16 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>*
+ * A logger with base settings
+ */</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICovCmV4cG9ydCBkZWZhdWx0IGxvZ2dlcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -5376,8 +5395,8 @@
         <entry encoding="base64">JzwsJz5zL29yZGVyQVNFL29yZGVyU1BUS08vZw==</entry>
         <entry encoding="base64">JzwsJz5zL3Zhci9jb25zdC9n</entry>
         <entry>q</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
