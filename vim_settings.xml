@@ -91,11 +91,12 @@
         <mark key="^" line="12" column="32" />
         <mark key="." line="12" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/mapper.test.js" timestamp="1522427464981">
-        <mark key="[" line="34" column="17" />
-        <mark key="]" line="34" column="17" />
-        <mark key="^" line="34" column="24" />
-        <mark key="." line="34" column="17" />
+      <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/mapper.test.js" timestamp="1522428885167">
+        <mark key="'" line="40" column="3" />
+        <mark key="[" line="47" column="21" />
+        <mark key="]" line="47" column="21" />
+        <mark key="^" line="47" column="21" />
+        <mark key="." line="47" column="21" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/equipments/children/card-equipments.spec.js" timestamp="1519321589624">
         <mark key="'" line="0" column="9" />
@@ -488,11 +489,11 @@
         <mark key="^" line="21" column="12" />
         <mark key="." line="21" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/mapper.js" timestamp="1522426933150">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/mapper.js" timestamp="1522429729802">
+        <mark key="[" line="22" column="21" />
+        <mark key="]" line="22" column="20" />
+        <mark key="." line="22" column="20" />
+        <mark key="^" line="22" column="20" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/components/express/index.js" timestamp="1522420195784">
         <mark key="'" line="0" column="0" />
@@ -1331,8 +1332,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="1" filename="$USER_HOME$/dev/part-edge/api/test/api/data.js" />
-      <jump line="45" column="15" filename="$USER_HOME$/dev/part-edge/api/test/api/data.js" />
       <jump line="6" column="2" filename="$USER_HOME$/dev/part-edge/api/test/api/data.js" />
       <jump line="22" column="3" filename="$USER_HOME$/dev/part-edge/api/test/api/data.js" />
       <jump line="23" column="24" filename="$USER_HOME$/dev/part-edge/api/test/api/data.js" />
@@ -1431,6 +1430,8 @@
       <jump line="6" column="0" filename="$USER_HOME$/dev/part-edge/api/docs/definitions/equipment.yaml" />
       <jump line="36" column="0" filename="$USER_HOME$/dev/part-edge/api/docs/swagger.yaml" />
       <jump line="27" column="0" filename="$USER_HOME$/dev/part-edge/api/docs/swagger.yaml" />
+      <jump line="40" column="3" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/mapper.test.js" />
+      <jump line="17" column="0" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/mapper.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1441,7 +1442,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>schema</text>
+        <text>)</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2968,7 +2969,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>schema</text>
+        <text>)</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2983,7 +2984,7 @@
         <text encoding="base64">ICAgIC0gJHJlZjogJy4uL3N3YWdnZXIueWFtbCMvcGFyYW1ldGVycy9maWVsZHMnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBtYQo=</text>
+        <text encoding="base64">ICBwYXNzd29yCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2996,25 +2997,25 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">Y29uc3QgSm9pLmNvbXBpbGUoKQoK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGFzc2kK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBtYXBwZXIuY29tcGlsZSgpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBtYQo=</text>
+      </register>
+      <register name="6" type="4">
         <text>pper.validate({
 
   });</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Y29uc3QK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHt9IGZvcm0gJ2V4cHJlc3MtaHR0Jwo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5209,7 +5210,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
