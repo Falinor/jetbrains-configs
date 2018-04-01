@@ -204,11 +204,12 @@
         <mark key="^" line="32" column="7" />
         <mark key="." line="32" column="8" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.js" timestamp="1522493860283">
-        <mark key="[" line="38" column="4" />
-        <mark key="]" line="38" column="3" />
-        <mark key="." line="38" column="3" />
-        <mark key="^" line="38" column="3" />
+      <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.js" timestamp="1522620247189">
+        <mark key="'" line="32" column="8" />
+        <mark key="[" line="85" column="11" />
+        <mark key="]" line="85" column="7" />
+        <mark key="." line="85" column="7" />
+        <mark key="^" line="85" column="7" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/webpack.config.js" timestamp="1522188649428">
         <mark key="'" line="85" column="6" />
@@ -543,10 +544,6 @@
         <mark key="]" line="11" column="19" />
         <mark key="." line="11" column="19" />
         <mark key="^" line="11" column="19" />
-      </file>
-      <file name="$USER_HOME$/dev/part-edge/api/src/routes/equipments/repository.js" timestamp="1522402146853">
-        <mark key="'" line="19" column="48" />
-        <mark key="[" line="19" column="48" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/index.js" timestamp="1522316636700">
         <mark key="'" line="39" column="2" />
@@ -921,12 +918,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.test.js" timestamp="1521727419319">
+      <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.test.js" timestamp="1522620192415">
         <mark key="'" line="31" column="19" />
-        <mark key="[" line="115" column="4" />
-        <mark key="]" line="116" column="37" />
-        <mark key="." line="116" column="37" />
-        <mark key="^" line="116" column="37" />
+        <mark key="[" line="159" column="4" />
+        <mark key="]" line="159" column="13" />
+        <mark key="." line="159" column="13" />
+        <mark key="^" line="159" column="13" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/middlewares/group.test.js" timestamp="1521713520296">
         <mark key="'" line="39" column="0" />
@@ -1271,10 +1268,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="3" filename="$USER_HOME$/dev/part-edge/api/test/api/data.js" />
-      <jump line="51" column="0" filename="$USER_HOME$/dev/part-edge/api/test/api/data.js" />
-      <jump line="110" column="27" filename="$USER_HOME$/dev/part-edge/api/test/api/orders.test.js" />
-      <jump line="42" column="1" filename="$USER_HOME$/dev/part-edge/api/test/api/data.js" />
       <jump line="20" column="1" filename="$USER_HOME$/dev/part-edge/api/test/api/data.js" />
       <jump line="5" column="3" filename="$USER_HOME$/dev/part-edge/api/test/api/data.js" />
       <jump line="1" column="5" filename="$USER_HOME$/dev/part-edge/api/test/api/data.js" />
@@ -1371,6 +1364,10 @@
       <jump line="52" column="3" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/mapper.test.js" />
       <jump line="35" column="0" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/mapper.test.js" />
       <jump line="27" column="23" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/repository.js" />
+      <jump line="38" column="4" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.js" />
+      <jump line="39" column="25" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.js" />
+      <jump line="41" column="29" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.js" />
+      <jump line="31" column="8" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1380,8 +1377,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGlkOwo=</text>
+      <register name="&quot;" type="4">
+        <text>code</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2908,7 +2905,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>code</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2923,7 +2920,7 @@
         <text encoding="base64">ICAgIGFkZHJlc3M6ICcxMjMgcnVlIEJpZG9uJywKICAgIHN0YXR1czogJ0RyYWZ0JywKICAgIHR5cGU6ICdTUFRfS08nLAogICAgR0REOiBuZXcgRGF0ZShEYXRlLm5vdygpICsgMzYwMCksCiAgICBjdXN0b21lck5hbWU6ICdFQVQnLAogICAgY29tbWVudHM6ICdNeSBncmVhdCBjb21tZW50JywKICAgIGNsaWVudElkOiAnQVNEMTI5MzgxMicsCiAgICBjcmVhdG9ySWQ6ICdBSlNESzEyOTMwJywKICAgIGFzc2lnbmVlSWQ6IG51bGwsCiAgICB2YWxpZGF0ZWRfYXQ6IG5ldyBEYXRlKCksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGlkOwo=</text>
+        <text encoding="base64">ICAgICAgaWYgKGVycikK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2937,19 +2934,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0pLnRoZW4oKGlkKSA9PiB7Cg==</text>
+        <text encoding="base64">ICAgIG5hbWU6ICdWYWxpZGF0aW9uRXJyb3InLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIG1lc3NhZ2U6IHNpbm9uLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhCg==</text>
+        <text encoding="base64">ICAgIHNpbm9uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhCg==</text>
+        <text encoding="base64">ICBhd2FpdCB0LndzKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd2YWx1ZScsIHZhbHVlKTsK</text>
+        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJ2h0dHAtc3RhdHVzLWNvZGVzJzsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAK</text>
@@ -5144,15 +5141,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhlcnJvcik7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="9" type="4">
-        <text>.with([
-  'address',
-  'status',
-  'type',
-  'GDD',
-]);</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
