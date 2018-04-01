@@ -204,6 +204,12 @@
         <mark key="^" line="32" column="7" />
         <mark key="." line="32" column="8" />
       </file>
+      <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.js" timestamp="1522493860283">
+        <mark key="[" line="38" column="4" />
+        <mark key="]" line="38" column="3" />
+        <mark key="." line="38" column="3" />
+        <mark key="^" line="38" column="3" />
+      </file>
       <file name="$USER_HOME$/dev/part-edge/client/webpack.config.js" timestamp="1522188649428">
         <mark key="'" line="85" column="6" />
         <mark key="[" line="91" column="24" />
@@ -1082,13 +1088,6 @@
         <mark key="." line="66" column="44" />
         <mark key="^" line="66" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/src/routes/equipments/controller.test.js" timestamp="1522401957302">
-        <mark key="'" line="19" column="27" />
-        <mark key="[" line="68" column="8" />
-        <mark key="]" line="68" column="15" />
-        <mark key="^" line="68" column="15" />
-        <mark key="." line="68" column="15" />
-      </file>
       <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/router/main.spec.js" timestamp="1519749579130">
         <mark key="'" line="0" column="25" />
         <mark key="[" line="5" column="8" />
@@ -1382,7 +1381,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIGlkOwo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2909,7 +2908,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFsdWUg</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2924,7 +2923,7 @@
         <text encoding="base64">ICAgIGFkZHJlc3M6ICcxMjMgcnVlIEJpZG9uJywKICAgIHN0YXR1czogJ0RyYWZ0JywKICAgIHR5cGU6ICdTUFRfS08nLAogICAgR0REOiBuZXcgRGF0ZShEYXRlLm5vdygpICsgMzYwMCksCiAgICBjdXN0b21lck5hbWU6ICdFQVQnLAogICAgY29tbWVudHM6ICdNeSBncmVhdCBjb21tZW50JywKICAgIGNsaWVudElkOiAnQVNEMTI5MzgxMicsCiAgICBjcmVhdG9ySWQ6ICdBSlNESzEyOTMwJywKICAgIGFzc2lnbmVlSWQ6IG51bGwsCiAgICB2YWxpZGF0ZWRfYXQ6IG5ldyBEYXRlKCksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIGlkOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2938,27 +2937,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhCg==</text>
+        <text encoding="base64">ICAgIH0pLnRoZW4oKGlkKSA9PiB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd2YWx1ZScsIHZhbHVlKTsK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhlcnJvcik7Cg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHZhCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>.with([
-  'address',
-  'status',
-  'type',
-  'GDD',
-]);</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHZhCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd2YWx1ZScsIHZhbHVlKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCBhZGRyZXNzCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5152,8 +5146,13 @@
       <register name="8" type="2">
         <text encoding="base64">ICBjb25zb2xlLmxvZyhlcnJvcik7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>.with([
+  'address',
+  'status',
+  'type',
+  'GDD',
+]);</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
