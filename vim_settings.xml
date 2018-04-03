@@ -213,6 +213,9 @@
         <mark key="." line="5" column="39" />
         <mark key="^" line="5" column="39" />
       </file>
+      <file name="$USER_HOME$/Dev/octo/test/unit/repository.test.js" timestamp="1522794678060">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/orders/initialize-order.spec.js" timestamp="1520356847475">
         <mark key="'" line="29" column="0" />
         <mark key="[" line="4" column="0" />
@@ -436,6 +439,12 @@
         <mark key="." line="20" column="17" />
         <mark key="^" line="20" column="17" />
       </file>
+      <file name="$USER_HOME$/Dev/octo/test/unit/controller.test.js" timestamp="1522795552052">
+        <mark key="[" line="10" column="11" />
+        <mark key="]" line="10" column="10" />
+        <mark key="." line="10" column="10" />
+        <mark key="^" line="10" column="10" />
+      </file>
       <file name="$USER_HOME$/dev/part-edge/importer/migrations/20180315132550_create-validated_type.js" timestamp="1521474972659">
         <mark key="[" line="9" column="4" />
         <mark key="]" line="9" column="4" />
@@ -517,11 +526,11 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="49" column="51" />
       </file>
-      <file name="$USER_HOME$/Dev/octo/package.json" timestamp="1522789434630">
-        <mark key="[" line="17" column="43" />
-        <mark key="]" line="17" column="43" />
-        <mark key="." line="17" column="43" />
-        <mark key="^" line="17" column="43" />
+      <file name="$USER_HOME$/Dev/octo/package.json" timestamp="1522794653064">
+        <mark key="[" line="12" column="27" />
+        <mark key="]" line="12" column="27" />
+        <mark key="." line="12" column="27" />
+        <mark key="^" line="12" column="31" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/equipments/children/card-equipments.spec.js" timestamp="1519321589624">
         <mark key="'" line="0" column="9" />
@@ -716,6 +725,12 @@
         <mark key="]" line="77" column="0" />
         <mark key="." line="77" column="0" />
         <mark key="^" line="81" column="41" />
+      </file>
+      <file name="$USER_HOME$/Dev/octo/src/repository.js" timestamp="1522795164779">
+        <mark key="[" line="1" column="2" />
+        <mark key="]" line="2" column="1" />
+        <mark key="^" line="2" column="1" />
+        <mark key="." line="2" column="1" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/components/db/index.js" timestamp="1514895151305">
         <mark key="'" line="5" column="29" />
@@ -1477,10 +1492,10 @@
         <mark key="." line="25" column="42" />
         <mark key="^" line="25" column="42" />
       </file>
-      <file name="$USER_HOME$/Dev/octo/.eslintrc" timestamp="1522789962312">
-        <mark key="[" line="7" column="3" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Dev/octo/.eslintrc" timestamp="1522795855093">
+        <mark key="[" line="11" column="14" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/container.js" timestamp="1522258603829">
         <mark key="'" line="4" column="38" />
@@ -1589,8 +1604,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="133" filename="$USER_HOME$/dev/part-edge/client/src/components/equipments/equipment-details.vue" />
-      <jump line="14" column="17" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/repository.js" />
       <jump line="33" column="2" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/repository.js" />
       <jump line="16" column="6" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/repository.js" />
       <jump line="69" column="46" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/repository.js" />
@@ -1689,6 +1702,8 @@
       <jump line="17" column="43" filename="$USER_HOME$/dev/part-edge/api/src/container.test.js" />
       <jump line="5" column="38" filename="$USER_HOME$/dev/part-edge/api/src/container.js" />
       <jump line="3" column="11" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/toggles.spec.js" />
+      <jump line="1" column="19" filename="$USER_HOME$/Dev/octo/src/repository.js" />
+      <jump line="3" column="33" filename="$USER_HOME$/Dev/octo/src/repository.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1699,7 +1714,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBdCg==</text>
+        <text encoding="base64">ICAiZXh0ZW5kcyI6IFsK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -3226,7 +3241,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>index</text>
+        <text>test</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -3241,7 +3256,7 @@
         <text encoding="base64">ICAgIGNvbnRhaW5lci5yZXNvbHZlKCdsb2dnZXInKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBdCg==</text>
+        <text encoding="base64">ICAiZXh0ZW5kcyI6IFsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3255,22 +3270,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAiZXh0ZW5kcyI6IFsKICAgICJwcm9taXNlIiwK</text>
+        <text encoding="base64">ICAgICJhaXJibmItYmFzZSIKICBdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICJhaXJibmItYmFzZSIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICJwcm9taXNlIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAicnVsZXMiOiB7CiAgICAK</text>
+        <text encoding="base64">ICAgICJhaXJibmItYmFzZSIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJhcnJvdy1wYXJlbnMiOiBbMiwgImFzLW5lZWRlZCJdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJyZWxlYXNlOm1ham9yIjogImNoYW5nZWxvZyAtTSAmJiBnaXQgYWRkIENIQU5HRUxPRy5tZCAmJiBnaXQgY29tbWl0IC1tICdkb2NzKGNoYW5nZWxvZyk6IHVwZGF0ZWQgQ0hBTkdFTE9HLm1kJyAmJiBucG0gdmVyc2lvbiBtYWpvciAmJiBnaXQgcHVzaCBvcmlnaW4gJiYgZ2l0IHB1c2ggb3JpZ2luIC0tdGFncyIsCg==</text>
+        <text encoding="base64">CnRlc3QudG9kbwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5462,13 +5477,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJyZWxlYXNlOm1pbm9yIjogImNoYW5nZWxvZyAtbSAmJiBnaXQgYWRkIENIQU5HRUxPRy5tZCAmJiBnaXQgY29tbWl0IC1tICdkb2NzKGNoYW5nZWxvZyk6IHVwZGF0ZWQgQ0hBTkdFTE9HLm1kJyAmJiBucG0gdmVyc2lvbiBtaW5vciAmJiBnaXQgcHVzaCBvcmlnaW4gJiYgZ2l0IHB1c2ggb3JpZ2luIC0tdGFncyIsCiAgICAicmVsZWFzZTpwYXRjaCI6ICJjaGFuZ2Vsb2cgLXAgJiYgZ2l0IGFkZCBDSEFOR0VMT0cubWQgJiYgZ2l0IGNvbW1pdCAtbSAnZG9jcyhjaGFuZ2Vsb2cpOiB1cGRhdGVkIENIQU5HRUxPRy5tZCcgJiYgbnBtIHZlcnNpb24gcGF0Y2ggJiYgZ2l0IHB1c2ggb3JpZ2luICYmIGdpdCBwdXNoIG9yaWdpbiAtLXRhZ3MiLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAiZGVwZW5kZW5jaWVzIjogewogIH0sCg==</text>
+        <text encoding="base64">Y29uc3QgZnMgPSByZXF1aXJlKCdmcycpOwpjb25zdCBwaWZ5ID0gcmVxdWlyZSgncGlmeScpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
