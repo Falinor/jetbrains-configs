@@ -63,11 +63,12 @@
         <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/importer/seeds/20171130163931_equipments.js" timestamp="1522858127447" />
-      <file name="$USER_HOME$/dev/part-edge/importer/docker-compose.yml" timestamp="1522858513626">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/dev/part-edge/importer/docker-compose.yml" timestamp="1522860270143">
+        <mark key="'" line="25" column="34" />
+        <mark key="[" line="23" column="22" />
+        <mark key="]" line="23" column="25" />
+        <mark key="." line="23" column="25" />
+        <mark key="^" line="23" column="25" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/ansible-ci/roles/yarn/tasks/main.yml" timestamp="1522080322745">
         <mark key="[" line="11" column="20" />
@@ -360,7 +361,7 @@
         <mark key="." line="8" column="7" />
         <mark key="^" line="8" column="7" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/importer/ftp/config.js" timestamp="1522858203872">
+      <file name="$USER_HOME$/dev/part-edge/importer/ftp/config.js" timestamp="1522860314456">
         <mark key="'" line="5" column="2" />
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
@@ -595,9 +596,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="2" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/repository.js" />
-      <jump line="16" column="6" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/repository.js" />
-      <jump line="69" column="46" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/repository.js" />
       <jump line="71" column="31" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/repository.js" />
       <jump line="15" column="7" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/repository.js" />
       <jump line="66" column="65" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.test.js" />
@@ -695,6 +693,9 @@
       <jump line="3" column="11" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/toggles.spec.js" />
       <jump line="1" column="19" filename="$USER_HOME$/Dev/octo/src/repository.js" />
       <jump line="3" column="33" filename="$USER_HOME$/Dev/octo/src/repository.js" />
+      <jump line="17" column="5" filename="$USER_HOME$/dev/part-edge/importer/docker-compose.yml" />
+      <jump line="16" column="6" filename="$USER_HOME$/dev/part-edge/importer/docker-compose.yml" />
+      <jump line="25" column="34" filename="$USER_HOME$/dev/part-edge/importer/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -705,7 +706,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICByZXR1cm4ga25leC5zY2hlbWEuY3JlYXRlVGFibGUoJ09sZEVxdWlwbWVudHMnLCAodGFibGUpID0+IHsgICAgCiAgICB0YWJsZS5pbmNyZW1lbnRzKCk7IC8vIENyZWF0ZXMgYW4gaWQgTk9UIE5VTEwgQVVUT19JTkNSRU1FTlRTIFBSSU1BUlkgS0VZCiAgICB0YWJsZS5pbnRlZ2VyKCdvcmRlcklkJykKICAgICAgLnVuc2lnbmVkKCkKICAgICAgLnJlZmVyZW5jZXMoJ2lkJykKICAgICAgLmluVGFibGUoJ09yZGVycycpCiAgICAgIC5vblVwZGF0ZSgnQ0FTQ0FERScpCiAgICAgIC5vbkRlbGV0ZSgnQ0FTQ0FERScpOwogICAgdGFibGUuc3RyaW5nKCdwYXJ0TnVtYmVyJykubm90TnVsbGFibGUoKTsKICAgIHRhYmxlLnN0cmluZygnc2VyaWFsTnVtYmVyJykubm90TnVsbGFibGUoKTsKICAgIHRhYmxlLnN0cmluZygnYW1lbmRtZW50Jykubm90TnVsbGFibGUoKTsKICAgIHRhYmxlLmludGVnZXIoJ1RTTicpLm5vdE51bGxhYmxlKCk7CiAgICB0YWJsZS5pbnRlZ2VyKCdDU04nKS5ub3ROdWxsYWJsZSgpOwogICAgdGFibGUuc3RyaW5nKCdyZW1vdmFsUmVhc29uJykubm90TnVsbGFibGUoKTsKICB9KTs=</text>
+        <text>password</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2232,7 +2233,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>password</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2241,10 +2242,12 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>var</text>
+        <text>example</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnRhaW5lci5yZXNvbHZlKCdsb2dnZXInKSwK</text>
+      <register name="0" type="4">
+        <text>MYSQL_PASSWORD: password
+      MYSQL_DATABASE: example
+      MYSQL_ROOT_PASSWORD: example</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">ICByZXR1cm4ga25leC5zY2hlbWEuY3JlYXRlVGFibGUoJ09sZEVxdWlwbWVudHMnLCAodGFibGUpID0+IHsgICAgCiAgICB0YWJsZS5pbmNyZW1lbnRzKCk7IC8vIENyZWF0ZXMgYW4gaWQgTk9UIE5VTEwgQVVUT19JTkNSRU1FTlRTIFBSSU1BUlkgS0VZCiAgICB0YWJsZS5pbnRlZ2VyKCdvcmRlcklkJykKICAgICAgLnVuc2lnbmVkKCkKICAgICAgLnJlZmVyZW5jZXMoJ2lkJykKICAgICAgLmluVGFibGUoJ09yZGVycycpCiAgICAgIC5vblVwZGF0ZSgnQ0FTQ0FERScpCiAgICAgIC5vbkRlbGV0ZSgnQ0FTQ0FERScpOwogICAgdGFibGUuc3RyaW5nKCdwYXJ0TnVtYmVyJykubm90TnVsbGFibGUoKTsKICAgIHRhYmxlLnN0cmluZygnc2VyaWFsTnVtYmVyJykubm90TnVsbGFibGUoKTsKICAgIHRhYmxlLnN0cmluZygnYW1lbmRtZW50Jykubm90TnVsbGFibGUoKTsKICAgIHRhYmxlLmludGVnZXIoJ1RTTicpLm5vdE51bGxhYmxlKCk7CiAgICB0YWJsZS5pbnRlZ2VyKCdDU04nKS5ub3ROdWxsYWJsZSgpOwogICAgdGFibGUuc3RyaW5nKCdyZW1vdmFsUmVhc29uJykubm90TnVsbGFibGUoKTsKICB9KTs=</text>
@@ -4474,21 +4477,20 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>var</last-search>
+      <last-search>example</last-search>
       <last-offset />
-      <last-pattern>var</last-pattern>
-      <last-replace>const</last-replace>
-      <last-substitute>var</last-substitute>
+      <last-pattern>example</last-pattern>
+      <last-replace>test</last-replace>
+      <last-substitute>example</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>server</entry>
         <entry>initialCWD</entry>
         <entry>user</entry>
         <entry>init</entry>
@@ -4508,9 +4510,9 @@
         <entry>var</entry>
         <entry>parameters</entry>
         <entry>validatedOrder</entry>
+        <entry>example</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3NlcnZlci9jb25uZWN0aW9uL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2luaXRpYWxDV0QvZnRwUm9vdC9n</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz5zL3ZhbHVlL2VxdWlwbWVudC9n</entry>
@@ -4521,7 +4523,6 @@
         <entry>qall</entry>
         <entry encoding="base64">JzwsJz5zL29yZGVyQVNFL29yZGVyU1BUS08vZw==</entry>
         <entry encoding="base64">JzwsJz5zL3Zhci9jb25zdC9n</entry>
-        <entry>wq</entry>
         <entry>30</entry>
         <entry>40</entry>
         <entry>99</entry>
@@ -4530,6 +4531,8 @@
         <entry encoding="base64">JzwsJz5zL3BhcmFtZXRlcnMvcGFyYW0vZw==</entry>
         <entry encoding="base64">JzwsJz5zL3ZhbGlkYXRlZE9yZGVyL29yZGVyL2c=</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL2V4YW1wbGUvdGVzdC9n</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
