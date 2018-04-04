@@ -1141,12 +1141,12 @@
         <mark key="^" line="17" column="1" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/src/routes/equipments/validator.test.js" timestamp="1522849542560">
-        <mark key="'" line="6" column="25" />
-        <mark key="[" line="2" column="36" />
-        <mark key="]" line="2" column="35" />
-        <mark key="^" line="2" column="35" />
-        <mark key="." line="2" column="35" />
+      <file name="$USER_HOME$/dev/part-edge/api/src/routes/equipments/validator.test.js" timestamp="1522856012816">
+        <mark key="'" line="9" column="2" />
+        <mark key="[" line="29" column="39" />
+        <mark key="]" line="29" column="39" />
+        <mark key="." line="29" column="39" />
+        <mark key="^" line="28" column="26" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/config/index.test.js" timestamp="1520527370042">
         <mark key="'" line="4" column="11" />
@@ -1176,11 +1176,12 @@
         <mark key="^" line="36" column="3" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/src/routes/equipments/validator.js" timestamp="1522849981503">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="32" column="0" />
+      <file name="$USER_HOME$/dev/part-edge/api/src/routes/equipments/validator.js" timestamp="1522856369305">
+        <mark key="'" line="10" column="41" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="41" column="1" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/routes/equipments/controller.js" timestamp="1522402672210">
         <mark key="[" line="35" column="69" />
@@ -1519,10 +1520,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="184" column="6" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.js" />
-      <jump line="158" column="11" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.js" />
-      <jump line="52" column="3" filename="$USER_HOME$/dev/part-edge/api/test/api/data.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/api/test/api/data.js" />
       <jump line="17" column="0" filename="$USER_HOME$/dev/part-edge/api/src/components/validator/index.test.js" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/api/src/components/express/index.js" />
       <jump line="6" column="25" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/auth/AuthCallback.spec.js" />
@@ -1609,8 +1606,6 @@
       <jump line="60" column="0" filename="$USER_HOME$/dev/part-edge/api/docs/paths/equipments.yaml" />
       <jump line="468" column="10" filename="$USER_HOME$/dev/part-edge/api/dist/docs/swagger.yaml" />
       <jump line="69" column="29" filename="$USER_HOME$/dev/part-edge/api/package.json" />
-      <jump line="7" column="26" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/validator.test.js" />
-      <jump line="1" column="25" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/validator.test.js" />
       <jump line="22" column="27" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/index.js" />
       <jump line="13" column="2" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/index.js" />
       <jump line="115" column="3" filename="$USER_HOME$/dev/part-edge/api/test/api/equipments.test.js" />
@@ -1619,6 +1614,12 @@
       <jump line="82" column="8" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.js" />
       <jump line="31" column="3" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.js" />
       <jump line="30" column="3" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/repository.js" />
+      <jump line="10" column="41" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/validator.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/validator.test.js" />
+      <jump line="1" column="21" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/validator.test.js" />
+      <jump line="5" column="67" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/validator.test.js" />
+      <jump line="8" column="32" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/validator.test.js" />
+      <jump line="9" column="2" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/validator.test.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1629,7 +1630,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Owo=</text>
+        <text encoding="base64">ZXF1aXBtZW50U2NoZW1hLmtleXMoewprawo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -3156,7 +3157,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>Joi.object().keys(</text>
+        <text>required</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -3167,11 +3168,14 @@
       <register name="/" type="4">
         <text>validatedOrder</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHNlcmlhbE51bWJlcjogJzIzNCcsCg==</text>
+      <register name="0" type="4">
+        <text>const { query, options } = validator.findEquipments;
+  t.is(typeof options, 'object');
+  const promise = Joi.validate({}, query);
+  await t.notThrows(promise);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Owo=</text>
+        <text encoding="base64">ZXF1aXBtZW50U2NoZW1hLmtleXMoewprawo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3184,23 +3188,23 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CmNvbnN0IGVxdWlwbWVudFF1ZXJ5U2NoZW1hID0gewogIGlkOiBlcXVpcG1lbnRTY2hlbWEuaWQuCn0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBHREQ6IEpvaS5kYXRlKCkuaXNvKCkuZGVmYXVsdChudWxsKQp9KQo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CmNvbnN0IGVxdWlwbWVudEJvZHlTY2hlbWEgPSB7CiAgCn07</text>
+      <register name="3" type="2">
+        <text encoding="base64">ZXF1aXBtZW50U2NoZW1hLmNvbmNhdCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpZDogCg==</text>
+        <text encoding="base64">ZXF1aXBtZW50UXVlcnlTY2hlbWEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXMuZXJyb3IpOwo=</text>
+        <text encoding="base64">ICBjb25zdCB7IH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXMuZXJyb3IpOwo=</text>
+        <text encoding="base64">ICBjCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXMuZXJyb3IpOwo=</text>
+        <text encoding="base64">ICB0LnRocm93cwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5392,10 +5396,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXMuZXJyb3IpOwo=</text>
+        <text encoding="base64">ICBjb25zdCBwcm9taXNlID0gCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBjb25zdCAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
