@@ -26,12 +26,12 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/src/middlewares/permission.js" timestamp="1523025814368">
+      <file name="$USER_HOME$/dev/part-edge/api/src/middlewares/permission.js" timestamp="1523027675403">
         <mark key="'" line="27" column="63" />
-        <mark key="[" line="7" column="2" />
-        <mark key="]" line="7" column="2" />
-        <mark key="." line="7" column="2" />
-        <mark key="^" line="26" column="2" />
+        <mark key="[" line="32" column="71" />
+        <mark key="]" line="32" column="85" />
+        <mark key="." line="32" column="85" />
+        <mark key="^" line="32" column="85" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/docs/parameters/id.yaml" timestamp="1522756584053">
         <mark key="[" line="6" column="2" />
@@ -93,12 +93,12 @@
         <mark key="." line="43" column="23" />
         <mark key="^" line="43" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/src/middlewares/permission.test.js" timestamp="1523026751412">
-        <mark key="'" line="10" column="2" />
-        <mark key="[" line="79" column="16" />
-        <mark key="]" line="79" column="14" />
-        <mark key="^" line="79" column="14" />
-        <mark key="." line="79" column="14" />
+      <file name="$USER_HOME$/dev/part-edge/api/src/middlewares/permission.test.js" timestamp="1523028393988">
+        <mark key="'" line="75" column="11" />
+        <mark key="[" line="85" column="3" />
+        <mark key="]" line="75" column="11" />
+        <mark key="^" line="75" column="11" />
+        <mark key="." line="75" column="11" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/mapper.test.js" timestamp="1522748808289">
         <mark key="'" line="35" column="0" />
@@ -599,8 +599,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="0" filename="$USER_HOME$/dev/part-edge/api/src/middlewares/group.test.js" />
-      <jump line="163" column="11" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.js" />
       <jump line="159" column="14" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.js" />
       <jump line="3" column="12" filename="$USER_HOME$/dev/part-edge/api/src/routes/users/repository.test.js" />
       <jump line="31" column="0" filename="$USER_HOME$/dev/part-edge/api/src/routes/users/repository.test.js" />
@@ -699,6 +697,8 @@
       <jump line="26" column="79" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/validator.test.js" />
       <jump line="15" column="63" filename="$USER_HOME$/dev/part-edge/api/src/middlewares/permission.js" />
       <jump line="10" column="2" filename="$USER_HOME$/dev/part-edge/api/src/middlewares/permission.test.js" />
+      <jump line="82" column="11" filename="$USER_HOME$/dev/part-edge/api/src/middlewares/permission.test.js" />
+      <jump line="75" column="11" filename="$USER_HOME$/dev/part-edge/api/src/middlewares/permission.test.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -708,8 +708,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>filterBody</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVycik7Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2236,7 +2236,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>filterBody</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2251,7 +2251,7 @@
         <text encoding="base64">ICB0LnRydWUoYWMuY2FuKFBBUlRFREdFX01BSU5URU5BTkNFKS5yZWFkQW55KE9SREVSUykuZ3JhbnRlZCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBmaWx0ZXJCb2R5Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVycik7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2265,22 +2265,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB0LmVuZCgpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVycik7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNhblJlYWRFcXVpcG1lbnRzKCkK</text>
+        <text encoding="base64">ICBmaWx0ZXJCb2R5Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgZmlsdGVyZWQgPSBncmFudC5maWx0ZXIocmVxLmJvZHkpOwo=</text>
+        <text encoding="base64">ICB0LmVuZCgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGdyYW50LmZpbHRlcihyZXEuYm9keSk7Cg==</text>
+        <text encoding="base64">ICAgIGNhblJlYWRFcXVpcG1lbnRzKCkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4472,10 +4472,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgZmlsdGVyZWQgPSBncmFudC5maWx0ZXIocmVxLmJvZHkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
