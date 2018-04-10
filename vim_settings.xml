@@ -135,11 +135,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/importer/seeds/20171130163931_equipments.js" timestamp="1523362181809">
-        <mark key="[" line="49" column="40" />
-        <mark key="]" line="48" column="70" />
-        <mark key="." line="48" column="70" />
-        <mark key="^" line="48" column="70" />
+      <file name="$USER_HOME$/dev/part-edge/importer/seeds/20171130163931_equipments.js" timestamp="1523365903380">
+        <mark key="'" line="52" column="4" />
+        <mark key="[" line="7" column="19" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/importer/ftp/config.js" timestamp="1522860314456">
         <mark key="'" line="5" column="2" />
@@ -177,6 +177,12 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/part-edge/api/src/middlewares/perms.js" timestamp="1523365250662">
+        <mark key="[" line="2" column="45" />
+        <mark key="]" line="2" column="42" />
+        <mark key="." line="2" column="42" />
+        <mark key="^" line="2" column="42" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/importer/migrations/20180315132550_create-validated_type.js" timestamp="1521474972659">
         <mark key="[" line="9" column="4" />
@@ -629,8 +635,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="27" filename="$USER_HOME$/dev/part-edge/api/test/api/orders.test.js" />
-      <jump line="42" column="1" filename="$USER_HOME$/dev/part-edge/api/test/api/data.js" />
       <jump line="20" column="1" filename="$USER_HOME$/dev/part-edge/api/test/api/data.js" />
       <jump line="5" column="3" filename="$USER_HOME$/dev/part-edge/api/test/api/data.js" />
       <jump line="1" column="5" filename="$USER_HOME$/dev/part-edge/api/test/api/data.js" />
@@ -729,6 +733,8 @@
       <jump line="15" column="21" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/repository.test.js" />
       <jump line="43" column="0" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/repository.test.js" />
       <jump line="36" column="21" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/controller.test.js" />
+      <jump line="51" column="5" filename="$USER_HOME$/dev/part-edge/importer/seeds/20171130163931_equipments.js" />
+      <jump line="52" column="4" filename="$USER_HOME$/dev/part-edge/importer/seeds/20171130163931_equipments.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -739,7 +745,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdHJ5IHsK</text>
+        <text encoding="base64">ICAgIHJvdy5yZXBsYWNlCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2266,7 +2272,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>firstRow</text>
+        <text>rows</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2275,13 +2281,13 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>search</text>
+        <text>rows</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICB0LnRydWUoZGIuc2VsZWN0LmNhbGxlZCk7CiAgdC50cnVlKGRiLmZyb20uY2FsbGVkKTsKICB0LnRydWUoZGIuam9pbi5jYWxsZWQpOwogIHQudHJ1ZShkYi53aGVyZS5jYWxsZWQpOwogIHQudHJ1ZShkYi5hbmRXaGVyZS5jYWxsZWQpOwogIHQudHJ1ZShkYi53aGVyZU5vdEV4aXN0cy5jYWxsZWQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdHJ5IHsK</text>
+        <text encoding="base64">ICAgIHJvdy5yZXBsYWNlCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2295,22 +2301,24 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfSBjYXRjaCAoZXJyKSB7Cgo=</text>
+      <register name="3" type="4">
+        <text>const roles = {
+    [customer]
+  };</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC50aGVuKCgpID0+IGNvbnNvbGUubG9nKCdFcXVpcG1lbnRzIGltcG9ydGVkLicpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC5jYXRjaChjb25zb2xlLmxvZyk7Cg==</text>
+        <text encoding="base64">ICBjb25zdCBjdXN0b21lciA9ICcnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmVtaXQoJ2Vycm9yJyk7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCBbZmlyc3RSb3ddID0gcm93czsK</text>
+        <text encoding="base64">ICAuCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4502,27 +4510,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC5yZXBsYWNlKC9kW8OpZV1zaWduYXRpb24vaSwgJ2Rlc2lnbmF0aW9uJykK</text>
+        <text encoding="base64">ICByYmFjLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC5yZXBsYWNlKC9EaXZpc2lvbi9pLCAnZGl2aXNpb24nKQo=</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>search</last-search>
+      <last-search>rows</last-search>
       <last-offset />
-      <last-pattern>search</last-pattern>
-      <last-replace>entity</last-replace>
-      <last-substitute>search</last-substitute>
+      <last-pattern>rows</last-pattern>
+      <last-replace>records</last-replace>
+      <last-substitute>rows</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>value.</entry>
         <entry>value\.</entry>
         <entry>input</entry>
         <entry>model</entry>
@@ -4542,9 +4549,9 @@
         <entry>await</entry>
         <entry>lodash</entry>
         <entry>search</entry>
+        <entry>rows</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3ZhbHVlLi9lcXVpcG1lbnQuL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3ZhbHVlXC4vZXF1aXBtZW50XC4vZw==</entry>
         <entry encoding="base64">JzwsJz5zL21vZGVsL2RiL2c=</entry>
         <entry encoding="base64">JzwsJz5zL29yZGVyL29yZGVyQVNFL2c=</entry>
@@ -4563,6 +4570,7 @@
         <entry encoding="base64">JzwsJz5zL2F3YWl0L2c=</entry>
         <entry encoding="base64">JzwsJz5zL3NlYXJjaC9lbnRpdHkvZw==</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JzwsJz5zL3Jvd3MvcmVjb3Jkcy9n</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
