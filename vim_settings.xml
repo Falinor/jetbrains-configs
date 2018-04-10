@@ -149,12 +149,10 @@
         <mark key="." line="57" column="74" />
         <mark key="^" line="57" column="74" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/importer/docker-compose.yml" timestamp="1522860270143">
-        <mark key="'" line="25" column="34" />
-        <mark key="[" line="23" column="22" />
-        <mark key="]" line="23" column="25" />
-        <mark key="." line="23" column="25" />
-        <mark key="^" line="23" column="25" />
+      <file name="$USER_HOME$/dev/part-edge/importer/docker-compose.yml" timestamp="1523376300530">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/ansible-ci/roles/yarn/tasks/main.yml" timestamp="1522080322745">
         <mark key="[" line="11" column="20" />
@@ -168,7 +166,7 @@
         <mark key="^" line="26" column="34" />
         <mark key="." line="26" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/importer/knexfile.js" timestamp="1522858550219">
+      <file name="$USER_HOME$/dev/part-edge/importer/knexfile.js" timestamp="1523375908350">
         <mark key="[" line="20" column="13" />
         <mark key="]" line="20" column="44" />
         <mark key="." line="20" column="44" />
@@ -179,10 +177,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/src/middlewares/perms.js" timestamp="1523373201485">
-        <mark key="[" line="21" column="10" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/dev/part-edge/importer/Jenkinsfile" timestamp="1523376369205" />
+      <file name="$USER_HOME$/dev/part-edge/api/src/middlewares/perms.js" timestamp="1523376830580">
+        <mark key="[" line="43" column="3" />
+        <mark key="]" line="43" column="3" />
+        <mark key="." line="43" column="3" />
+        <mark key="^" line="43" column="3" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/importer/assets/test.csv" timestamp="1523371839899">
         <mark key="[" line="0" column="9" />
@@ -751,7 +751,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgJ2VxdWlwbWVudHM6cmVhZCcsCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2293,7 +2293,7 @@
         <text encoding="base64">ICB0LnRydWUoZGIuc2VsZWN0LmNhbGxlZCk7CiAgdC50cnVlKGRiLmZyb20uY2FsbGVkKTsKICB0LnRydWUoZGIuam9pbi5jYWxsZWQpOwogIHQudHJ1ZShkYi53aGVyZS5jYWxsZWQpOwogIHQudHJ1ZShkYi5hbmRXaGVyZS5jYWxsZWQpOwogIHQudHJ1ZShkYi53aGVyZU5vdEV4aXN0cy5jYWxsZWQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgJ2VxdWlwbWVudHM6cmVhZCcsCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2306,23 +2306,23 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgJ2VxdWlwbWVudHM6c2VhcmNoJywK</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICB0ZXN0ZGI6CiAgICBjb250YWluZXJfbmFtZTogdGVzdC1kYgogICAgaW1hZ2U6IG15c3FsCiAgICByZXN0YXJ0OiBhbHdheXMKICAgIHBvcnRzOgogICAgICAtICIzMzA4OjMzMDYiCiAgICBlbnZpcm9ubWVudDoKICAgICAgTVlTUUxfVVNFUjogdGVzdAogICAgICBNWVNRTF9QQVNTV09SRDogdGVzdAogICAgICBNWVNRTF9EQVRBQkFTRTogdGVzdAogICAgICBNWVNRTF9ST09UX1BBU1NXT1JEOiB0ZXN0</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBbXQo=</text>
+        <text encoding="base64">ICAgICAgJ2VxdWlwbWVudHM6cmVhZCcsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5sb2dnZXIuaW5mbygnRG9uZScpOwo=</text>
+        <text encoding="base64">ICAgICAgJ2VxdWlwbWVudHM6c2VhcmNoJywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zbwo=</text>
+        <text encoding="base64">ICBbXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC5jYXRjaChjb25zb2xlLmVycm9yZGQpOwo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5sb2dnZXIuaW5mbygnRG9uZScpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zbwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4514,7 +4514,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAudGhlbigoKSA9PiB7CiAgICBjb25zb2xlLmxvZyhjb25maWcpOwo=</text>
+        <text encoding="base64">ICAgIC5jYXRjaChjb25zb2xlLmVycm9yZGQpOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICB9KQo=</text>
