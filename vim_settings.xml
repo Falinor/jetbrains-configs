@@ -477,12 +477,12 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/test/api/equipments.test.js" timestamp="1523292107393">
-        <mark key="'" line="141" column="55" />
-        <mark key="[" line="130" column="12" />
-        <mark key="]" line="130" column="10" />
-        <mark key="." line="130" column="10" />
-        <mark key="^" line="130" column="10" />
+      <file name="$USER_HOME$/dev/part-edge/api/test/api/equipments.test.js" timestamp="1523345996232">
+        <mark key="'" line="213" column="45" />
+        <mark key="[" line="213" column="24" />
+        <mark key="]" line="213" column="45" />
+        <mark key="." line="213" column="45" />
+        <mark key="^" line="213" column="45" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/mapper.js" timestamp="1520439342407">
         <mark key="'" line="19" column="0" />
@@ -570,11 +570,11 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/src/routes/equipments/repository.js" timestamp="1523292115607">
-        <mark key="[" line="57" column="10" />
-        <mark key="]" line="57" column="16" />
-        <mark key="." line="57" column="16" />
-        <mark key="^" line="57" column="16" />
+      <file name="$USER_HOME$/dev/part-edge/api/src/routes/equipments/repository.js" timestamp="1523346307943">
+        <mark key="[" line="5" column="34" />
+        <mark key="]" line="5" column="34" />
+        <mark key="." line="5" column="34" />
+        <mark key="^" line="5" column="36" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/test/e2e/specs/main.js" timestamp="1522155998043">
         <mark key="[" line="12" column="32" />
@@ -611,7 +611,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="0" filename="$USER_HOME$/dev/part-edge/api/src/routes/customers/repository.test.js" />
       <jump line="31" column="19" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.test.js" />
       <jump line="25" column="0" filename="$USER_HOME$/dev/part-edge/api/test/api/data.js" />
       <jump line="2" column="1" filename="$USER_HOME$/dev/part-edge/api/test/api/data.js" />
@@ -711,6 +710,7 @@
       <jump line="130" column="3" filename="$USER_HOME$/dev/part-edge/api/test/api/equipments.test.js" />
       <jump line="40" column="30" filename="$USER_HOME$/dev/part-edge/api/test/api/equipments.test.js" />
       <jump line="141" column="55" filename="$USER_HOME$/dev/part-edge/api/test/api/equipments.test.js" />
+      <jump line="213" column="45" filename="$USER_HOME$/dev/part-edge/api/test/api/equipments.test.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -721,7 +721,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>this</text>
+        <text>(</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2248,7 +2248,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>(</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2263,7 +2263,7 @@
         <text encoding="base64">ICBjb25zdCBlcXVpcG1lbnRzID0gcmVzLmJvZHk7CiAgY29uc3QgaXNFeGNsdWRlZCA9IGVxdWlwbWVudHMuZXZlcnkoZXEgPT4gZXEuZGl2aXNpb24gIT09IDEwMDIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhlcXVpcG1lbnRzKTsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2276,23 +2276,23 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhlcXVpcG1lbnRzLmxlbmd0aCk7Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIC8vIFNlbGVjdCBlcXVpcG1lbnRzIGFscmVhZHkgYm9va2VkIGluIGEgbm9uIGNhbmNlbGxlZCBvcmRlcgogICAgY29uc3Qgc3ViUXVlcnkgPSBkYi5zZWxlY3QoJ3NlcmlhbE51bWJlcicpLmZyb20oJ05ld0VxdWlwbWVudHMnKQogICAgICAuam9pbignT3JkZXJzJywgJ09yZGVycy5pZCcsICdOZXdFcXVpcG1lbnRzLm9yZGVySWQnKQogICAgICAud2hlcmUoJ09yZGVycy5zdGF0dXMnLCAnbm90IGluJywgWydDYW5jZWxsZWQnXSk7</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZyhyZXMuYm9keSk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhpbml0aWFsTGVuZ3RoLCBlcXVpcG1lbnRzLmxlbmd0aCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXMuYm9keSk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhpbml0aWFsUmVzLmJvZHkubGVuZ3RoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnbGVuZ3RoJywgZXF1aXBtZW50cy5sZW5ndGgpOwo=</text>
+        <text encoding="base64">ICBjb25zdCByZXMgPSBhd2EK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRpdmlzaW9uOiAxMDAyLAo=</text>
+        <text encoding="base64">ICBjb25zdCBpbml0aWFsTGVuZ3RoID0gKGF3YWl0IGRiLnNlbGVjdCgpLmZyb20oJ0VxdWlwbWVudHMnKSkubGVuZ3RoOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhlcXVpcG1lbnRzKTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhlcXVpcG1lbnRzLmxlbmd0aCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4484,10 +4484,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhlcXVpcG1lbnRzKTsK</text>
+        <text encoding="base64">ICB0LnRydWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRpdmlzaW9uOiAxMDA0LAo=</text>
+        <text encoding="base64">ICB0LmZhbHNlKGlzRXhjbHVkZWQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
