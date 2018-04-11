@@ -21,6 +21,7 @@
         <mark key="." line="10" column="10" />
         <mark key="^" line="10" column="10" />
       </file>
+      <file name="$USER_HOME$/dev/part-edge/importer/test/e2e/assets/ACSXJN7949.csv" timestamp="1523439226614" />
       <file name="$USER_HOME$/dev/part-edge/client/src/store/mutation-types.js" timestamp="1521472225105">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -143,12 +144,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/importer/seeds/20171130163931_equipments.js" timestamp="1523436716107">
+      <file name="$USER_HOME$/dev/part-edge/importer/seeds/20171130163931_equipments.js" timestamp="1523443768682">
         <mark key="'" line="20" column="46" />
-        <mark key="[" line="6" column="18" />
-        <mark key="]" line="6" column="18" />
-        <mark key="^" line="36" column="15" />
-        <mark key="." line="6" column="18" />
+        <mark key="[" line="13" column="24" />
+        <mark key="]" line="13" column="25" />
+        <mark key="^" line="13" column="40" />
+        <mark key="." line="13" column="25" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/importer/ftp/config.js" timestamp="1523371916467">
         <mark key="'" line="5" column="2" />
@@ -281,12 +282,12 @@
         <mark key="^" line="11" column="25" />
         <mark key="." line="11" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/importer/services/service.js" timestamp="1522858111470">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="23" column="2" />
-        <mark key="]" line="23" column="5" />
-        <mark key="^" line="23" column="5" />
-        <mark key="." line="23" column="5" />
+      <file name="$USER_HOME$/dev/part-edge/importer/services/service.js" timestamp="1523445484134">
+        <mark key="'" line="12" column="4" />
+        <mark key="[" line="8" column="21" />
+        <mark key="]" line="12" column="4" />
+        <mark key="." line="12" column="4" />
+        <mark key="^" line="12" column="4" />
       </file>
       <file name="$USER_HOME$/Dev/octo/.eslintrc" timestamp="1522795855093">
         <mark key="[" line="11" column="14" />
@@ -393,12 +394,6 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/part-edge/api/src/routes/equipments/mapper.js" timestamp="1523280881224">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/src/components/orders/initialize-sptko.vue" timestamp="1521630549549">
         <mark key="[" line="26" column="31" />
@@ -649,8 +644,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="186" column="7" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.js" />
-      <jump line="100" column="8" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.js" />
       <jump line="110" column="30" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.js" />
       <jump line="140" column="4" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.js" />
       <jump line="156" column="14" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.js" />
@@ -749,6 +742,8 @@
       <jump line="10" column="8" filename="$USER_HOME$/dev/part-edge/importer/seeds/20171130163931_equipments.js" />
       <jump line="21" column="46" filename="$USER_HOME$/dev/part-edge/importer/seeds/20171130163931_equipments.js" />
       <jump line="0" column="10" filename="$USER_HOME$/dev/part-edge/importer/test/unit/equipments.test.js" />
+      <jump line="3" column="42" filename="$USER_HOME$/dev/part-edge/importer/services/service.js" />
+      <jump line="11" column="4" filename="$USER_HOME$/dev/part-edge/importer/services/service.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -759,7 +754,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2286,7 +2281,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>des</text>
+        <text>.</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2301,7 +2296,7 @@
         <text encoding="base64">ICB0LnRydWUoZGIuc2VsZWN0LmNhbGxlZCk7CiAgdC50cnVlKGRiLmZyb20uY2FsbGVkKTsKICB0LnRydWUoZGIuam9pbi5jYWxsZWQpOwogIHQudHJ1ZShkYi53aGVyZS5jYWxsZWQpOwogIHQudHJ1ZShkYi5hbmRXaGVyZS5jYWxsZWQpOwogIHQudHJ1ZShkYi53aGVyZU5vdEV4aXN0cy5jYWxsZWQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2315,25 +2310,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByZXR1cm4gUHJvbWlzZS5hbGwocHJvbWlzZXMpOwo=</text>
+        <text encoding="base64">ICAgIAogIH0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCByZWNvcmRzID1hd2FpdCBQcm9taXNlLmFsbChwcm9taXNlcyk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEudG9TdHJpbmcoKSk7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>module.exports = {
-  normalizeRows,
-  seed,
-};</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGVuY29kaW5nCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICByZXR1cm4gUHJvbWlzZS5yZWplY3QoKQo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICB0ZXN0ZGI6CiAgICBjb250YWluZXJfbmFtZTogdGVzdC1kYgogICAgaW1hZ2U6IG15c3FsCiAgICByZXN0YXJ0OiBhbHdheXMKICAgIHBvcnRzOgogICAgICAtICIzMzA4OjMzMDYiCiAgICBlbnZpcm9ubWVudDoKICAgICAgTVlTUUxfVVNFUjogdGVzdAogICAgICBNWVNRTF9QQVNTV09SRDogdGVzdAogICAgICBNWVNRTF9EQVRBQkFTRTogdGVzdAogICAgICBNWVNRTF9ST09UX1BBU1NXT1JEOiB0ZXN0</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICByZXR1cm4gCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgJ2VxdWlwbWVudHM6cmVhZCcsCg==</text>
+        <text encoding="base64">ICByZXR1cm4gY2hhcmRldC5kZXRlY3QoZGF0YSkuZW5jb2Rpbmc7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4525,13 +4517,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgJ2VxdWlwbWVudHM6c2VhcmNoJywK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBbXQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL1wvKD8hXF4pL1wkXC8vZw==</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -4583,10 +4575,10 @@
         <entry encoding="base64">JzwsJz5zL15pLy9n</entry>
         <entry encoding="base64">JzwsJz5zL1xeaS9n</entry>
         <entry encoding="base64">JzwsJz5zL1xeaS9pL2c=</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL1wvKD8haS8=</entry>
         <entry encoding="base64">JzwsJz5zL1wvKD8hXF4pL1wvJC9n</entry>
         <entry encoding="base64">JzwsJz5zL1wvKD8hXF4pL1wkXC8vZw==</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
