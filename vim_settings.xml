@@ -79,6 +79,7 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/part-edge/importer/assets/equipments.csv" timestamp="1523435909756" />
       <file name="$USER_HOME$/dev/part-edge/api/src/middlewares/validator.js" timestamp="1522770530051">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -104,6 +105,13 @@
         <mark key="[" line="66" column="31" />
         <mark key="]" line="66" column="31" />
         <mark key="." line="66" column="31" />
+      </file>
+      <file name="$USER_HOME$/dev/part-edge/importer/test/unit/equipments.test.js" timestamp="1523436774474">
+        <mark key="'" line="0" column="10" />
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="5" column="17" />
+        <mark key="^" line="5" column="17" />
+        <mark key="." line="5" column="17" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/docs/paths/equipments.yaml" timestamp="1522761092376">
         <mark key="'" line="60" column="0" />
@@ -135,12 +143,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/importer/seeds/20171130163931_equipments.js" timestamp="1523372671554">
+      <file name="$USER_HOME$/dev/part-edge/importer/seeds/20171130163931_equipments.js" timestamp="1523436716107">
         <mark key="'" line="20" column="46" />
-        <mark key="[" line="58" column="40" />
-        <mark key="]" line="58" column="40" />
-        <mark key="." line="58" column="40" />
-        <mark key="^" line="58" column="40" />
+        <mark key="[" line="6" column="18" />
+        <mark key="]" line="6" column="18" />
+        <mark key="^" line="36" column="15" />
+        <mark key="." line="6" column="18" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/importer/ftp/config.js" timestamp="1523371916467">
         <mark key="'" line="5" column="2" />
@@ -641,7 +649,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/documents/controller.test.js" />
       <jump line="186" column="7" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.js" />
       <jump line="100" column="8" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.js" />
       <jump line="110" column="30" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.js" />
@@ -741,6 +748,7 @@
       <jump line="20" column="32" filename="$USER_HOME$/dev/part-edge/importer/seeds/20171130163931_equipments.js" />
       <jump line="10" column="8" filename="$USER_HOME$/dev/part-edge/importer/seeds/20171130163931_equipments.js" />
       <jump line="21" column="46" filename="$USER_HOME$/dev/part-edge/importer/seeds/20171130163931_equipments.js" />
+      <jump line="0" column="10" filename="$USER_HOME$/dev/part-edge/importer/test/unit/equipments.test.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -751,7 +759,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2278,7 +2286,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pj0gOC4xLjQ=</text>
+        <text>des</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2293,7 +2301,7 @@
         <text encoding="base64">ICB0LnRydWUoZGIuc2VsZWN0LmNhbGxlZCk7CiAgdC50cnVlKGRiLmZyb20uY2FsbGVkKTsKICB0LnRydWUoZGIuam9pbi5jYWxsZWQpOwogIHQudHJ1ZShkYi53aGVyZS5jYWxsZWQpOwogIHQudHJ1ZShkYi5hbmRXaGVyZS5jYWxsZWQpOwogIHQudHJ1ZShkYi53aGVyZU5vdEV4aXN0cy5jYWxsZWQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2306,23 +2314,26 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICB0ZXN0ZGI6CiAgICBjb250YWluZXJfbmFtZTogdGVzdC1kYgogICAgaW1hZ2U6IG15c3FsCiAgICByZXN0YXJ0OiBhbHdheXMKICAgIHBvcnRzOgogICAgICAtICIzMzA4OjMzMDYiCiAgICBlbnZpcm9ubWVudDoKICAgICAgTVlTUUxfVVNFUjogdGVzdAogICAgICBNWVNRTF9QQVNTV09SRDogdGVzdAogICAgICBNWVNRTF9EQVRBQkFTRTogdGVzdAogICAgICBNWVNRTF9ST09UX1BBU1NXT1JEOiB0ZXN0</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICByZXR1cm4gUHJvbWlzZS5hbGwocHJvbWlzZXMpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgJ2VxdWlwbWVudHM6cmVhZCcsCg==</text>
+        <text encoding="base64">ICBjb25zdCByZWNvcmRzID1hd2FpdCBQcm9taXNlLmFsbChwcm9taXNlcyk7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgJ2VxdWlwbWVudHM6c2VhcmNoJywK</text>
+      <register name="4" type="4">
+        <text>module.exports = {
+  normalizeRows,
+  seed,
+};</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBbXQo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5sb2dnZXIuaW5mbygnRG9uZScpOwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICB0ZXN0ZGI6CiAgICBjb250YWluZXJfbmFtZTogdGVzdC1kYgogICAgaW1hZ2U6IG15c3FsCiAgICByZXN0YXJ0OiBhbHdheXMKICAgIHBvcnRzOgogICAgICAtICIzMzA4OjMzMDYiCiAgICBlbnZpcm9ubWVudDoKICAgICAgTVlTUUxfVVNFUjogdGVzdAogICAgICBNWVNRTF9QQVNTV09SRDogdGVzdAogICAgICBNWVNRTF9EQVRBQkFTRTogdGVzdAogICAgICBNWVNRTF9ST09UX1BBU1NXT1JEOiB0ZXN0</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zbwo=</text>
+        <text encoding="base64">ICAgICAgJ2VxdWlwbWVudHM6cmVhZCcsCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4514,10 +4525,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC5jYXRjaChjb25zb2xlLmVycm9yZGQpOwo=</text>
+        <text encoding="base64">ICAgICAgJ2VxdWlwbWVudHM6c2VhcmNoJywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9KQo=</text>
+        <text encoding="base64">ICBbXQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1wvKD8hXF4pL1wkXC8vZw==</text>
