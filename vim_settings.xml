@@ -187,11 +187,11 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/importer/Jenkinsfile" timestamp="1523376369205" />
-      <file name="$USER_HOME$/dev/part-edge/api/src/middlewares/perms.js" timestamp="1523432635199">
-        <mark key="[" line="43" column="3" />
-        <mark key="]" line="43" column="3" />
-        <mark key="." line="43" column="3" />
-        <mark key="^" line="43" column="3" />
+      <file name="$USER_HOME$/dev/part-edge/api/src/middlewares/perms.js" timestamp="1523458150181">
+        <mark key="[" line="13" column="54" />
+        <mark key="]" line="13" column="52" />
+        <mark key="." line="13" column="52" />
+        <mark key="^" line="13" column="52" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/importer/assets/test.csv" timestamp="1523371839899">
         <mark key="[" line="0" column="9" />
@@ -282,12 +282,12 @@
         <mark key="^" line="11" column="25" />
         <mark key="." line="11" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/importer/services/service.js" timestamp="1523455931653">
+      <file name="$USER_HOME$/dev/part-edge/importer/services/service.js" timestamp="1523458657202">
         <mark key="'" line="24" column="4" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="12" column="28" />
-        <mark key="." line="6" column="0" />
+        <mark key="[" line="3" column="30" />
+        <mark key="]" line="3" column="37" />
+        <mark key="^" line="3" column="37" />
+        <mark key="." line="3" column="37" />
       </file>
       <file name="$USER_HOME$/Dev/octo/.eslintrc" timestamp="1522795855093">
         <mark key="[" line="11" column="14" />
@@ -325,6 +325,12 @@
         <mark key="]" line="116" column="37" />
         <mark key="." line="116" column="37" />
         <mark key="^" line="116" column="37" />
+      </file>
+      <file name="$USER_HOME$/dev/part-edge/importer/test/e2e/index.test.js" timestamp="1523458037359">
+        <mark key="[" line="61" column="58" />
+        <mark key="]" line="61" column="74" />
+        <mark key="." line="61" column="74" />
+        <mark key="^" line="61" column="74" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/container.test.js" timestamp="1522258502402">
         <mark key="'" line="17" column="43" />
@@ -560,12 +566,12 @@
         <mark key="." line="18" column="95" />
         <mark key="^" line="18" column="95" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/importer/services/equipments.js" timestamp="1522858147085">
+      <file name="$USER_HOME$/dev/part-edge/importer/services/equipments.js" timestamp="1523458668146">
         <mark key="'" line="2" column="12" />
-        <mark key="[" line="6" column="62" />
-        <mark key="]" line="6" column="61" />
-        <mark key="." line="6" column="61" />
-        <mark key="^" line="6" column="61" />
+        <mark key="[" line="6" column="60" />
+        <mark key="]" line="6" column="68" />
+        <mark key="." line="6" column="68" />
+        <mark key="^" line="6" column="68" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/routes/index.js" timestamp="1521727589591">
         <mark key="[" line="7" column="0" />
@@ -753,8 +759,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxldCBmaXJzdCA9IHRydWU7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>encoding</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2281,7 +2287,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>latin1</text>
+        <text>encoding</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2298,7 +2304,7 @@
           console.log(newData.toString());</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxldCBmaXJzdCA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVuOiBwYXJhbXMgPT4gcGFyYW1zLnVzZXJEZXBhcnRtZW50ID09PSBwYXJhbXMuY3VzdG9tZXIsCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2312,22 +2318,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgKiBAcmV0dXJuIHtib29sZWFufQogICAgICAgICAqLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgKiBAcGFyYW0gdXNlcklkCiAgICAgICAgICogQHBhcmFtIG93bmVySWQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGVycikgdGhyb3cgZXJyOwo=</text>
+        <text encoding="base64">ICAgICAgJ29yZGVyOmNhbmNlbCcsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZzLnJlYWRGaWxlKHNyY1BhdGgsIChlcnIsIGRhdGEpID0+IHsK</text>
+        <text encoding="base64">ICAgICAgJ29yZGVyOnZhbGlkYXRlJywKICAgICAgJ29yZGVyOnNpZ24nLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgaWNvbnYgPSByZXF1aXJlKCdpY29udicpOwo=</text>
+        <text encoding="base64">ICAgICAgJ29yZGVyOmNhbmNlbCcsCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4519,10 +4525,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgZGV0ZWN0RW5jb2RpbmcgPSByZXF1aXJlKCdkZXRlY3QtY2hhcmFjdGVyLWVuY29kaW5nJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgJ29yZGVyOnZhbGlkYXRlJywKICAgICAgJ29yZGVyOnNpZ24nLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgc3JjRW5jID0gZGV0ZWN0RW5jb2RpbmcoZGF0YSkuZW5jb2Rpbmc7Cg==</text>
+        <text encoding="base64">ICAgICAgJ29yZGVyOnZhbGlkYXRlJywKICAgICAgJ29yZGVyOnNpZ24nLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
