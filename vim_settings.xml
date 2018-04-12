@@ -362,8 +362,12 @@
         <mark key="." line="79" column="28" />
         <mark key="^" line="79" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/validator.js" timestamp="1523527002921">
-        <mark key="[" line="127" column="2" />
+      <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/validator.js" timestamp="1523535611490">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="95" column="45" />
+        <mark key="]" line="95" column="33" />
+        <mark key="." line="95" column="33" />
+        <mark key="^" line="95" column="33" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/importer/README.md" timestamp="1521479843233">
         <mark key="[" line="63" column="0" />
@@ -655,8 +659,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="158" column="11" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.js" />
-      <jump line="52" column="3" filename="$USER_HOME$/dev/part-edge/api/test/api/data.js" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/api/test/api/data.js" />
       <jump line="17" column="0" filename="$USER_HOME$/dev/part-edge/api/src/components/validator/index.test.js" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/api/src/components/express/index.js" />
@@ -755,6 +757,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/importer/services/service.js" />
       <jump line="30" column="21" filename="$USER_HOME$/dev/part-edge/importer/services/service.js" />
       <jump line="25" column="4" filename="$USER_HOME$/dev/part-edge/importer/services/service.js" />
+      <jump line="103" column="47" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/validator.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/validator.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2301,7 +2305,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>\/(?!\^)</text>
+        <text>allow\(''\)\.allow\(null\)</text>
       </register>
       <register name="0" type="4">
         <text>const converter = new iconv.Iconv(srcEnc, 'UTF-8');
@@ -4536,21 +4540,20 @@
         <text encoding="base64">ICAgIH0KICB9KTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zL2FsbG93XCgnJ1wpXC5hbGxvd1wobnVsbFwpL2FsbG93XChudWxsLCAnJ1wpL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>\/(?!\^)</last-search>
+      <last-search>allow\(''\)\.allow\(null\)</last-search>
       <last-offset />
-      <last-pattern>\/(?!\^)</last-pattern>
-      <last-replace>\$\/</last-replace>
-      <last-substitute>\/(?!\^)</last-substitute>
+      <last-pattern>allow\(''\)\.allow\(null\)</last-pattern>
+      <last-replace>allow\(null, ''\)</last-replace>
+      <last-substitute>allow\(''\)\.allow\(null\)</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">PCEtLQ==</entry>
         <entry>assign</entry>
         <entry>sub</entry>
         <entry>auto</entry>
@@ -4570,9 +4573,9 @@
         <entry>\^i</entry>
         <entry>\/(?!i</entry>
         <entry>\/(?!\^)</entry>
+        <entry>allow\(''\)\.allow\(null\)</entry>
       </history-search>
       <history-cmd>
-        <entry>q</entry>
         <entry>qa</entry>
         <entry encoding="base64">JzwsJz5zL3BhcmFtZXRlcnMvcGFyYW0vZw==</entry>
         <entry encoding="base64">JzwsJz5zL3ZhbGlkYXRlZE9yZGVyL29yZGVyL2c=</entry>
@@ -4592,6 +4595,7 @@
         <entry encoding="base64">JzwsJz5zL1wvKD8hXF4pL1wvJC9n</entry>
         <entry encoding="base64">JzwsJz5zL1wvKD8hXF4pL1wkXC8vZw==</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL2FsbG93XCgnJ1wpXC5hbGxvd1wobnVsbFwpL2FsbG93XChudWxsLCAnJ1wpL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
