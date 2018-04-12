@@ -361,12 +361,12 @@
         <mark key="." line="79" column="28" />
         <mark key="^" line="79" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/validator.js" timestamp="1523542589012">
+      <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/validator.js" timestamp="1523546257787">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="138" column="11" />
-        <mark key="]" line="138" column="20" />
-        <mark key="." line="138" column="20" />
-        <mark key="^" line="138" column="20" />
+        <mark key="[" line="24" column="21" />
+        <mark key="]" line="24" column="21" />
+        <mark key="." line="24" column="21" />
+        <mark key="^" line="22" column="24" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/importer/README.md" timestamp="1521479843233">
         <mark key="[" line="63" column="0" />
@@ -489,12 +489,11 @@
         <mark key="." line="12" column="27" />
         <mark key="^" line="12" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/validator.test.js" timestamp="1523542209547">
+      <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/validator.test.js" timestamp="1523545565990">
         <mark key="'" line="74" column="38" />
-        <mark key="[" line="92" column="33" />
-        <mark key="]" line="92" column="33" />
-        <mark key="." line="92" column="33" />
-        <mark key="^" line="118" column="3" />
+        <mark key="[" line="286" column="0" />
+        <mark key="]" line="286" column="0" />
+        <mark key="." line="286" column="0" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/build/webpack.dev.conf.js" timestamp="1522192202653">
         <mark key="[" line="7" column="66" />
@@ -521,8 +520,8 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/docs/paths/order.yaml" timestamp="1522418390307">
-        <mark key="[" line="14" column="30" />
+      <file name="$USER_HOME$/dev/part-edge/api/docs/paths/order.yaml" timestamp="1523544034517">
+        <mark key="[" line="27" column="27" />
         <mark key="]" line="14" column="31" />
         <mark key="." line="14" column="31" />
         <mark key="^" line="1" column="31" />
@@ -775,7 +774,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlc2NyaXB0aW9uOiB0ZXN0CiAgICBzdW1tYXJ5OiB0ZXN0dHR0Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVycik7Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2302,7 +2301,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>orderSchema</text>
+        <text>true</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2319,7 +2318,7 @@
           console.log(newData.toString());</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlc2NyaXB0aW9uOiB0ZXN0CiAgICBzdW1tYXJ5OiB0ZXN0dHR0Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVycik7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2333,22 +2332,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlc2NyaXB0aW9uOiB8CiAgICAgIEEgY29tcGxldGUgZGVzY3JpcHRpb24gaW4gbWFya2Rvd24gYWJvdXQgdXNlcnMK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcSk7CiAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAtIG5hbWU6IFVzZXJzCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpZDogSm9pLm51bWJlcigpLmludGVnZXIoKS5wb3NpdGl2ZSgpLmFsbG93KCcnKQogICAgLmFsbG93KG51bGwpLAo=</text>
+        <text encoding="base64">ICAgIGRlc2NyaXB0aW9uOiB0ZXN0CiAgICBzdW1tYXJ5OiB0ZXN0dHR0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBmZWF0KG9yZGVycyk6IHVwZGF0ZSB2YWxpZGF0b3IgdG8gaW5jbHVkZSBHREQgb25seSBpbiBTUFRfS08gb3JkZXIK</text>
+        <text encoding="base64">ICAgIGRlc2NyaXB0aW9uOiB8CiAgICAgIEEgY29tcGxldGUgZGVzY3JpcHRpb24gaW4gbWFya2Rvd24gYWJvdXQgdXNlcnMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAtIG5hbWU6IFVzZXJzCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgR0REOiBKb2kuZGF0ZSgpLmlzbygpLm1pbignbm93JykuYWxsb3coJycpCiAgICAuYWxsb3cobnVsbCksCiAgY3VzdG9tZXJOYW1lOiBKb2kuc3RyaW5nKCkuYWxsb3coJycpLmFsbG93KG51bGwpLAogIHZhbGlkYXRlZF9hdDogSm9pLmRhdGUoKS5pc28oKS5hbGxvdygnJykuYWxsb3cobnVsbCksCiAgY29tbWVudHM6IEpvaS5zdHJpbmcoKS5hbGxvdygnJykuYWxsb3cobnVsbCksCiAgY2xpZW50SWQ6IEpvaS5zdHJpbmcoKS5hbGxvdygnJykuYWxsb3cobnVsbCksCiAgYXNzaWduZWVJZDogSm9pLnN0cmluZygpLmFsbG93KCcnKS5hbGxvdyhudWxsKSwKICBjcmVhdG9ySWQ6IEpvaS5zdHJpbmcoKS5kZWZhdWx0KCdlbXB0eScpLAogIGRlbGV0ZWRBdDogSm9pLmRhdGUoKS5pc28oKS5hbGxvdygnJykuYWxsb3cobnVsbCksCn0pOwoKLy8gQWRkaXRpb25uYWwgcGFyYW1ldGVycyBzcGVjaWZpZWQgZm9yIG9yZGVyIGJvZHkKY29uc3Qgb3JkZXJCb2R5ID0gb3JkZXJTY2hlbWEua2V5cyh7Cj09PT09PT0=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBpZDogSm9pLm51bWJlcigpLmludGVnZXIoKS5wb3NpdGl2ZSgpLmFsbG93KCcnKQogICAgLmFsbG93KG51bGwpLAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4540,10 +4539,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBmZWF0KG9yZGVycyk6IHVwZGF0ZSB2YWxpZGF0b3IgdG8gaW5jbHVkZSBHREQgb25seSBpbiBTUFRfS08gb3JkZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3Qgb3JkZXJCb2R5ID0gb3JkZXJTY2hlbWEua2V5cyh7Cj09PT09PT0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
