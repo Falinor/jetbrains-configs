@@ -21,6 +21,7 @@
         <mark key="." line="10" column="10" />
         <mark key="^" line="10" column="10" />
       </file>
+      <file name="$USER_HOME$/dev/part-edge/client/package.json" timestamp="1523612335645" />
       <file name="$USER_HOME$/dev/part-edge/client/src/store/mutation-types.js" timestamp="1521472225105">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -435,6 +436,12 @@
         <mark key="^" line="27" column="50" />
         <mark key="." line="27" column="50" />
       </file>
+      <file name="$USER_HOME$/dev/part-edge/client/Jenkinsfile" timestamp="1523612011656">
+        <mark key="[" line="56" column="4" />
+        <mark key="]" line="54" column="8" />
+        <mark key="." line="54" column="8" />
+        <mark key="^" line="54" column="8" />
+      </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/repository.js" timestamp="1521640231773">
         <mark key="'" line="30" column="3" />
         <mark key="[" line="36" column="0" />
@@ -470,6 +477,13 @@
         <mark key="]" line="4" column="23" />
         <mark key="." line="4" column="23" />
         <mark key="^" line="4" column="37" />
+      </file>
+      <file name="$USER_HOME$/dev/part-edge/client/test/e2e/nightwatch.conf.js" timestamp="1523611911976">
+        <mark key="'" line="53" column="21" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="^" line="53" column="63" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/src/filters.js" timestamp="1522314843794">
         <mark key="[" line="9" column="0" />
@@ -658,7 +672,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="0" filename="$USER_HOME$/dev/part-edge/api/src/components/validator/index.test.js" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/api/src/components/express/index.js" />
       <jump line="6" column="25" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/auth/AuthCallback.spec.js" />
       <jump line="9" column="26" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/auth/AuthCallback.spec.js" />
@@ -758,6 +771,7 @@
       <jump line="103" column="47" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/validator.js" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/validator.js" />
       <jump line="74" column="38" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/validator.test.js" />
+      <jump line="50" column="21" filename="$USER_HOME$/dev/part-edge/client/test/e2e/nightwatch.conf.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -768,7 +782,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>forEach</text>
+        <text encoding="base64">Ly8g</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2295,7 +2309,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>forEach</text>
+        <text encoding="base64">Ly8g</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2312,7 +2326,7 @@
           console.log(newData.toString());</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3Rvcgo=</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIGFyZ3M6IFsnaW5jb2duaXRvJywgJ2hlYWRsZXNzJ10sCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2326,22 +2340,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmaWVsZHM6IFsnc3RhdHVzJ10sCg==</text>
+        <text encoding="base64">Y29uc3QgY29uZmlnID0gcmVxdWlyZSgnLi4vLi4vY29uZmlnJyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmaWVsZHM6IFsnc3RhdHVzJ10sCg==</text>
+        <text encoding="base64">ICBjb25zdHJ1Y3Rvcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmaWx0ZXI6IFtdCg==</text>
+        <text encoding="base64">ICAgICAgICBmaWVsZHM6IFsnc3RhdHVzJ10sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVycik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaWVsZHM6IFsnc3RhdHVzJ10sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcSk7CiAgICAK</text>
+        <text encoding="base64">ICAgICAgICBmaWx0ZXI6IFtdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmwK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVycik7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4533,13 +4547,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlc2NyaXB0aW9uOiB0ZXN0CiAgICBzdW1tYXJ5OiB0ZXN0dHR0Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcSk7CiAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlc2NyaXB0aW9uOiB8CiAgICAgIEEgY29tcGxldGUgZGVzY3JpcHRpb24gaW4gbWFya2Rvd24gYWJvdXQgdXNlcnMK</text>
+        <text encoding="base64">ICBjb25zb2xlLmwK</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -4592,9 +4606,9 @@
         <entry encoding="base64">JzwsJz5zL1wvKD8haS8=</entry>
         <entry encoding="base64">JzwsJz5zL1wvKD8hXF4pL1wvJC9n</entry>
         <entry encoding="base64">JzwsJz5zL1wvKD8hXF4pL1wkXC8vZw==</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL2FsbG93XCgnJ1wpXC5hbGxvd1wobnVsbFwpL2FsbG93XChudWxsLCAnJ1wpL2c=</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
