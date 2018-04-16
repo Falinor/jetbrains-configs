@@ -9,12 +9,12 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/DashboardClosedList.vue" timestamp="1523886964696">
-        <mark key="'" line="16" column="33" />
-        <mark key="[" line="23" column="59" />
-        <mark key="]" line="23" column="89" />
-        <mark key="." line="23" column="89" />
-        <mark key="^" line="23" column="89" />
+      <file name="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/DashboardClosedList.vue" timestamp="1523887377193">
+        <mark key="'" line="39" column="33" />
+        <mark key="[" line="53" column="39" />
+        <mark key="]" line="53" column="39" />
+        <mark key="^" line="53" column="39" />
+        <mark key="." line="53" column="39" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/middlewares/validator.test.js" timestamp="1523873604335">
         <mark key="'" line="23" column="13" />
@@ -41,12 +41,12 @@
         <mark key="." line="10" column="10" />
         <mark key="^" line="10" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/DashboardRequestList.vue" timestamp="1523886612829">
+      <file name="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/DashboardRequestList.vue" timestamp="1523887314492">
         <mark key="'" line="25" column="12" />
-        <mark key="[" line="63" column="28" />
-        <mark key="]" line="63" column="36" />
-        <mark key="^" line="63" column="36" />
-        <mark key="." line="63" column="36" />
+        <mark key="[" line="52" column="12" />
+        <mark key="]" line="53" column="1" />
+        <mark key="^" line="53" column="1" />
+        <mark key="." line="53" column="1" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/src/components/orders/OrdersStatus.vue" timestamp="1523614552888">
         <mark key="[" line="65" column="15" />
@@ -112,6 +112,9 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/part-edge/client/src/router/main.js" timestamp="1523887447049">
+        <mark key="[" line="61" column="6" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/importer/migrations/20180223115154_alter-equipments.js" timestamp="1521474849322">
         <mark key="[" line="15" column="5" />
@@ -940,7 +943,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2478,11 +2481,14 @@
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICB0LmlzKHR5cGVvZiBtaWRkbGV3YXJlcy5vZmZzZXQsICdmdW5jdGlvbicpOwo=</text>
+      <register name="0" type="4">
+        <text>QCard,
+    QCardMain,
+    QCardTitle,
+    QDataTable,</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2495,32 +2501,36 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="2" type="4">
+        <text>{
+          label: 'Actions',
+          field: 'actions-assign',
+          classes: 'table__cell',
+        },</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Y29tcHV0ZWQ6IHsKICAgIC4uLm1hcEdldHRlcnMoWydvcmRlcnMnXSksCiAgICBjbG9zZWRPcmRlcnMoKSB7CiAgICAgIHRoaXMub3JkZXJzLmZpbHRlcihvcmRlciA9PiBvcmRlci5zdGF0dXMgPT09ICdDbG9zZWQnKTsKICAgIH0sCiAgfSw=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHRoaXMuJHN0b3JlLmdldHRlcnMK</text>
+        <text encoding="base64">aW1wb3J0IHsgUUNhcmQsIFFDYXJkTWFpbiwgUUNhcmRUaXRsZSwgUURhdGFUYWJsZSB9IGZyb20gJ3F1YXNhci1mcmFtZXdvcmsnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHZhbGlkYXRvciBmcm9tICcuL3ZhbGlkYXRvcic7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgdmFsaWRhdGUgfSBmcm9tICcuLi8uLi9taWRkbGV3YXJlcy92YWxpZGF0b3InOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnJvciwgdmFsdWUpO2RkCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">Y29tcHV0ZWQ6IHsKICAgIC4uLm1hcEdldHRlcnMoWydvcmRlcnMnXSksCiAgICBjbG9zZWRPcmRlcnMoKSB7CiAgICAgIHRoaXMub3JkZXJzLmZpbHRlcihvcmRlciA9PiBvcmRlci5zdGF0dXMgPT09ICdDbG9zZWQnKTsKICAgIH0sCiAgfSw=</text>
       </register>
       <register name="w" type="4">
         <text>www</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHRoaXMuJHN0b3JlLmdldHRlcnMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHQuaXMoZXJyLnN0YXR1cywgNDAwKTsKICAgIHQuaXMoZXJyLmVycm9ycy5sZW5ndGgsIDEpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHZhbGlkYXRvciBmcm9tICcuL3ZhbGlkYXRvcic7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
