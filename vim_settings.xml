@@ -41,12 +41,11 @@
         <mark key="." line="10" column="10" />
         <mark key="^" line="10" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/DashboardRequestList.vue" timestamp="1523887314492">
-        <mark key="'" line="25" column="12" />
-        <mark key="[" line="52" column="12" />
-        <mark key="]" line="53" column="1" />
+      <file name="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/DashboardRequestList.vue" timestamp="1523890053222">
+        <mark key="'" line="237" column="0" />
+        <mark key="[" line="175" column="0" />
+        <mark key="]" line="235" column="16" />
         <mark key="^" line="53" column="1" />
-        <mark key="." line="53" column="1" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/src/components/orders/OrdersStatus.vue" timestamp="1523614552888">
         <mark key="[" line="65" column="15" />
@@ -113,8 +112,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/router/main.js" timestamp="1523887447049">
-        <mark key="[" line="61" column="6" />
+      <file name="$USER_HOME$/dev/part-edge/client/src/router/main.js" timestamp="1523889632043">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
+        <mark key="^" line="58" column="31" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/importer/migrations/20180223115154_alter-equipments.js" timestamp="1521474849322">
         <mark key="[" line="15" column="5" />
@@ -240,6 +242,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/part-edge/client/src/services/auth.js" timestamp="1523889573414">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/part-edge/ansible-ci/roles/yarn/tasks/main.yml" timestamp="1522080322745">
         <mark key="[" line="11" column="20" />
         <mark key="]" line="11" column="19" />
@@ -343,6 +350,12 @@
         <mark key="." line="211" column="21" />
         <mark key="^" line="211" column="21" />
       </file>
+      <file name="$USER_HOME$/dev/part-edge/client/src/components/dashboard/DashboardClosedRequests.vue" timestamp="1523889954777">
+        <mark key="[" line="66" column="7" />
+        <mark key="]" line="66" column="10" />
+        <mark key="^" line="66" column="10" />
+        <mark key="." line="66" column="10" />
+      </file>
       <file name="$USER_HOME$/dev/part-edge/client/src/store/modules/equipments.js" timestamp="1523626261122">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -435,6 +448,13 @@
         <mark key="." line="61" column="74" />
         <mark key="^" line="61" column="74" />
       </file>
+      <file name="$USER_HOME$/dev/part-edge/client/src/components/dashboard/Dashboard.vue" timestamp="1523890215548">
+        <mark key="'" line="6" column="10" />
+        <mark key="[" line="79" column="2" />
+        <mark key="]" line="79" column="2" />
+        <mark key="." line="79" column="2" />
+        <mark key="^" line="76" column="1" />
+      </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/container.test.js" timestamp="1522258502402">
         <mark key="'" line="17" column="43" />
         <mark key="[" line="19" column="12" />
@@ -455,12 +475,12 @@
         <mark key="^" line="11" column="53" />
         <mark key="." line="11" column="53" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/App.vue" timestamp="1523621412208">
+      <file name="$USER_HOME$/dev/part-edge/client/src/App.vue" timestamp="1523890396730">
         <mark key="'" line="41" column="12" />
-        <mark key="[" line="111" column="39" />
-        <mark key="]" line="112" column="9" />
-        <mark key="." line="112" column="9" />
-        <mark key="^" line="112" column="9" />
+        <mark key="[" line="167" column="18" />
+        <mark key="]" line="167" column="33" />
+        <mark key="." line="167" column="33" />
+        <mark key="^" line="167" column="33" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/validator.js" timestamp="1523886211260">
         <mark key="'" line="0" column="0" />
@@ -614,6 +634,12 @@
         <mark key="]" line="76" column="75" />
         <mark key="." line="76" column="75" />
         <mark key="^" line="76" column="75" />
+      </file>
+      <file name="$USER_HOME$/dev/part-edge/client/src/components/dashboard/DashboardOpenRequests.vue" timestamp="1523888453397">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="4" column="10" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/validator.test.js" timestamp="1523881657141">
         <mark key="'" line="106" column="49" />
@@ -833,9 +859,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="34" filename="$USER_HOME$/dev/part-edge/importer/docker-compose.yml" />
-      <jump line="24" column="0" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/validator.test.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/validator.test.js" />
       <jump line="34" column="0" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/validator.test.js" />
       <jump line="10" column="2" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/validator.test.js" />
       <jump line="30" column="0" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/validator.test.js" />
@@ -933,6 +956,9 @@
       <jump line="112" column="23" filename="$USER_HOME$/dev/part-edge/api/test/api/equipments.test.js" />
       <jump line="6" column="29" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/DashboardClosedList.vue" />
       <jump line="9" column="33" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/DashboardClosedList.vue" />
+      <jump line="6" column="10" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/Dashboard.vue" />
+      <jump line="235" column="16" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/DashboardRequestList.vue" />
+      <jump line="237" column="0" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/DashboardRequestList.vue" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -942,8 +968,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICAgICAg</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2470,7 +2496,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICAgICAgICAgICAg</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2482,13 +2508,10 @@
         <text>&quot;</text>
       </register>
       <register name="0" type="4">
-        <text>QCard,
-    QCardMain,
-    QCardTitle,
-    QDataTable,</text>
+        <text encoding="base64">QGltcG9ydCAifnZhcmlhYmxlcyIKCi5yZXF1ZXN0cwogIGZvbnQtd2VpZ2h0IDcwMAogIHBhZGRpbmcgMCAxZW0KICBiYWNrZ3JvdW5kLWNvbG9yICR0ZXJ0aWFyeQoKICAjbWFpbkNvbnRhaW5lci5saWdodCAmCiAgICBiYWNrZ3JvdW5kLWNvbG9yICR3aGl0ZQoKLnJlcXVlc3RzX190aXRsZSAucS1jYXJkLXRpdGxlCiAgY29sb3IgJHByaW1hcnkKICB0ZXh0LXRyYW5zZm9ybSB1cHBlcmNhc2UKICBmb250LXNpemUgMTRweAogIGZvbnQtd2VpZ2h0IDYwMAoKLnEtZGF0YS10YWJsZQogIGJvcmRlciBub25lCgoucS1kYXRhLXRhYmxlLWhlYWQKICB0aAogICAgaSwgc3BhbgogICAgICBjb2xvciAkdHlwb2dyYXBoeS1jb2xvcgoKICAgICAgI21haW5Db250YWluZXIubGlnaHQgJgogICAgICAgIGNvbG9yICR0eXBvZ3JhcGh5LWNvbG9yLWludmVydGVkCgoucS1kYXRhLXRhYmxlLWJvZHkKICBmb250LXNpemUgMTRweAoKLnEtZGF0YS10YWJsZS10b29sYmFyLmJvdHRvbS10b29sYmFyCiAgY29sb3IgJHR5cG9ncmFwaHktY29sb3IKCiAgI21haW5Db250YWluZXIubGlnaHQgJgogICAgY29sb3IgJHR5cG9ncmFwaHktY29sb3ItaW52ZXJ0ZWQKCnRhYmxlLnEtdGFibGU6bm90KC5yZXNwb25zaXZlKTpub3QoLmZsaXBwZWQpLmhvcml6b250YWwtc2VwYXJhdG9yIHRoLAp0YWJsZS5xLXRhYmxlOm5vdCgucmVzcG9uc2l2ZSk6bm90KC5mbGlwcGVkKS5jZWxsLXNlcGFyYXRvciB0aCwKdGFibGUucS10YWJsZTpub3QoLnJlc3BvbnNpdmUpOm5vdCguZmxpcHBlZCkuaG9yaXpvbnRhbC1zZXBhcmF0b3IgdGQsCnRhYmxlLnEtdGFibGU6bm90KC5yZXNwb25zaXZlKTpub3QoLmZsaXBwZWQpLmNlbGwtc2VwYXJhdG9yIHRkLnRhYmxlX19jZWxsCiAgZm9udC13ZWlnaHQgNTAwCiAgY29sb3IgJHR5cG9ncmFwaHktY29sb3IKICBiYWNrZ3JvdW5kLWNvbG9yICR0ZXJ0aWFyeQoKICAjbWFpbkNvbnRhaW5lci5saWdodCAmCiAgICBjb2xvciAkdHlwb2dyYXBoeS1jb2xvci1pbnZlcnRlZAogICAgYmFja2dyb3VuZC1jb2xvciAkd2hpdGUKCnRhYmxlLnEtdGFibGU6bm90KC5yZXNwb25zaXZlKTpub3QoLmZsaXBwZWQpLmhvcml6b250YWwtc2VwYXJhdG9yIHRoCiAgZm9udC13ZWlnaHQgNTAwCiAgdGV4dC10cmFuc2Zvcm0gdXBwZXJjYXNlCiAgY29sb3IgYmxhY2sKCi5xLWRhdGEtdGFibGUtdG9vbGJhci5ib3R0b20tdG9vbGJhcgogIGJvcmRlci10b3AgMXB4IHNvbGlkICRsaWdodAoKLmNvbC14cwogIGRpc3BsYXkgaW5saW5lLWJsb2NrCgouZGV0YWlsc19faWNvbgogIG1hcmdpbi1sZWZ0IDFlbQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2501,36 +2524,32 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>{
-          label: 'Actions',
-          field: 'actions-assign',
-          classes: 'table__cell',
-        },</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHRoaXMuJHN0b3JlLmRpc3BhdGNoKCdmaW5kT3JkZXJzJywgewogICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUUNhcmQsIFFDYXJkTWFpbiwgUUNhcmRUaXRsZSwgUURhdGFUYWJsZSB9IGZyb20gJ3F1YXNhci1mcmFtZXdvcmsnOwo=</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjcmVhdGVkKCkgewogICAgY29uc29sZS5sb2coJ2Rhc2hib2FyZCcpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmF2YmFyOiAnbGVmdCcsCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">Y29tcHV0ZWQ6IHsKICAgIC4uLm1hcEdldHRlcnMoWydvcmRlcnMnXSksCiAgICBjbG9zZWRPcmRlcnMoKSB7CiAgICAgIHRoaXMub3JkZXJzLmZpbHRlcihvcmRlciA9PiBvcmRlci5zdGF0dXMgPT09ICdDbG9zZWQnKTsKICAgIH0sCiAgfSw=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh0by5tYXRjaGVkLCB0by5tYXRjaGVkLnNvbWUobSA9PiBtLm1ldGEucmVxdWlyZXNBdXRoKSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text>www</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHRoaXMuJHN0b3JlLmdldHRlcnMK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICAgIG1ldGE6IHsKICAgICAgICAgICAgbmF2YmFyOiAnbGVmdCcsCiAgICAgICAgICAgIC8vIE5vdGUKICAgICAgICAgICAgcmVxdWlyZXNBdXRoOiB0cnVlLAogICAgICAgICAgICBwZXJtaXNzaW9uczogWwogICAgICAgICAgICAgICdQQVJURURHRV9FQ0hBTkdFX1NUQU5EQVJEJywKICAgICAgICAgICAgXSwKICAgICAgICAgIH0s</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHZhbGlkYXRvciBmcm9tICcuL3ZhbGlkYXRvcic7Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICAgIG1ldGE6IHsKICAgICAgICAgICAgbmF2YmFyOiAnbGVmdCcsCiAgICAgICAgICAgIHJlcXVpcmVzQXV0aDogdHJ1ZSwKICAgICAgICAgICAgcGVybWlzc2lvbnM6IFsKICAgICAgICAgICAgICAnUEFSVEVER0VfRUNIQU5HRV9TVEFOREFSRCcsCiAgICAgICAgICAgIF0sCiAgICAgICAgICB9LA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
