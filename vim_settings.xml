@@ -272,12 +272,12 @@
         <mark key="." line="20" column="44" />
         <mark key="^" line="20" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/dashboard/children/DashboardExchangeList.spec.js" timestamp="1523966854638">
-        <mark key="'" line="8" column="18" />
-        <mark key="[" line="64" column="14" />
-        <mark key="]" line="64" column="12" />
-        <mark key="." line="64" column="12" />
-        <mark key="^" line="64" column="12" />
+      <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/dashboard/children/DashboardExchangeList.spec.js" timestamp="1523967938143">
+        <mark key="'" line="95" column="49" />
+        <mark key="[" line="176" column="25" />
+        <mark key="]" line="176" column="25" />
+        <mark key="." line="176" column="25" />
+        <mark key="^" line="176" column="25" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/importer/migrations/20171208151107_create-old-equipments.js" timestamp="1522858714293">
         <mark key="[" line="2" column="0" />
@@ -874,8 +874,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="0" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/repository.test.js" />
-      <jump line="36" column="21" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/controller.test.js" />
       <jump line="51" column="5" filename="$USER_HOME$/dev/part-edge/importer/seeds/20171130163931_equipments.js" />
       <jump line="52" column="4" filename="$USER_HOME$/dev/part-edge/importer/seeds/20171130163931_equipments.js" />
       <jump line="5" column="29" filename="$USER_HOME$/dev/part-edge/importer/seeds/20171130163931_equipments.js" />
@@ -974,6 +972,8 @@
       <jump line="159" column="4" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/dashboard/children/DashboardExchangeList.spec.js" />
       <jump line="171" column="6" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/dashboard/children/DashboardExchangeList.spec.js" />
       <jump line="8" column="18" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/dashboard/children/DashboardExchangeList.spec.js" />
+      <jump line="57" column="24" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/dashboard/children/DashboardExchangeList.spec.js" />
+      <jump line="95" column="49" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/dashboard/children/DashboardExchangeList.spec.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -984,7 +984,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>vm</text>
+        <text>null</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2511,7 +2511,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>vm</text>
+        <text>null</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2526,7 +2526,7 @@
         <text encoding="base64">ICAgICAgICBleHBlY3Qod3JhcHBlci52bS5pc09wZW4pLnRvLmJlLmZhbHNlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3cmFwcGVyLnZtLiRlbWl0KCdjbGljaycpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpbnB1dC52bS4kZWwpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2540,35 +2540,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh3cmFwcGVyLnZtLiRlbWl0KCdjbGljaycpKTsK</text>
+        <text encoding="base64">ICAgICAgICB3cmFwcGVyLnZtLiRlbWl0KCdjbGljaycpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dC5jbGljaygpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh3cmFwcGVyLnZtLiRlbWl0KCdjbGljaycpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpbnB1dCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dC5jbGljaygpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpbnB1dCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IENvbW1lbnQgZnJvbSAnLi9Db21tZW50LnZ1ZSc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Ly8gaW1wb3J0IENvbW1lbnQgZnJvbSAnLi9Db21tZW50LnZ1ZSc7Cg==</text>
       </register>
       <register name="w" type="4">
         <text>www</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmwsb2cod3IpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="4">
-        <text>() {
-        return {
-          comments: 'Hello',
-        };
-      },</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmwsb2cod3IpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
