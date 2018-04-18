@@ -41,12 +41,6 @@
         <mark key="." line="10" column="10" />
         <mark key="^" line="10" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/DashboardRequestList.vue" timestamp="1523954549601">
-        <mark key="'" line="236" column="0" />
-        <mark key="[" line="157" column="0" />
-        <mark key="]" line="157" column="0" />
-        <mark key="." line="157" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/part-edge/client/src/components/auth/AuthSilentCallback.vue" timestamp="1523976856708">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -118,6 +112,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/part-edge/api/test/api/exclusions.js" timestamp="1524045894686">
+        <mark key="[" line="1" column="32" />
+        <mark key="]" line="3" column="18" />
+        <mark key="^" line="3" column="18" />
+        <mark key="." line="3" column="18" />
+      </file>
       <file name="$USER_HOME$/dev/part-edge/importer/migrations/20180307143618_alter-orders.js" timestamp="1521474898208">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -151,12 +151,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/part-edge/api/src/middlewares/validator.js" timestamp="1523970154665">
-        <mark key="'" line="6" column="4" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/repository.test.js" timestamp="1521641772728">
         <mark key="'" line="37" column="3" />
@@ -230,6 +224,13 @@
         <mark key="]" line="8" column="7" />
         <mark key="." line="8" column="7" />
         <mark key="^" line="8" column="7" />
+      </file>
+      <file name="$USER_HOME$/dev/part-edge/api/src/routes/exclusions/controller.test.js" timestamp="1524045807230">
+        <mark key="'" line="24" column="32" />
+        <mark key="[" line="26" column="13" />
+        <mark key="]" line="26" column="24" />
+        <mark key="^" line="26" column="24" />
+        <mark key="." line="26" column="24" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/importer/migrations/20180313133012_alter-orders-validated_at.js" timestamp="1521474928339">
         <mark key="[" line="9" column="0" />
@@ -401,6 +402,12 @@
         <mark key="]" line="10" column="9" />
         <mark key="." line="10" column="9" />
       </file>
+      <file name="$USER_HOME$/dev/part-edge/api/src/routes/exclusions/controller.js" timestamp="1524045811173">
+        <mark key="'" line="5" column="14" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/part-edge/client/src/components/orders/OrdersInit.vue" timestamp="1523614325927">
         <mark key="'" line="20" column="10" />
         <mark key="[" line="11" column="21" />
@@ -438,12 +445,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/src/routes/exclusions/repository.test.js" timestamp="1524043874272">
+      <file name="$USER_HOME$/dev/part-edge/api/src/routes/exclusions/repository.test.js" timestamp="1524044644043">
         <mark key="'" line="6" column="21" />
-        <mark key="[" line="8" column="37" />
-        <mark key="]" line="9" column="39" />
-        <mark key="^" line="9" column="39" />
-        <mark key="." line="9" column="39" />
+        <mark key="[" line="16" column="61" />
+        <mark key="]" line="16" column="61" />
+        <mark key="^" line="16" column="61" />
+        <mark key="." line="16" column="61" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/importer/ftp/server.js" timestamp="1523372716542">
         <mark key="'" line="1" column="28" />
@@ -606,6 +613,13 @@
         <mark key="^" line="283" column="51" />
         <mark key="." line="282" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/part-edge/api/src/routes/exclusions/repository.js" timestamp="1524044728855">
+        <mark key="'" line="0" column="38" />
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="16" />
+        <mark key="^" line="8" column="16" />
+        <mark key="." line="8" column="16" />
+      </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/repository.js" timestamp="1523969933070">
         <mark key="'" line="30" column="3" />
         <mark key="[" line="95" column="0" />
@@ -680,6 +694,12 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="27" />
       </file>
+      <file name="$USER_HOME$/dev/part-edge/api/src/routes/exclusions/index.js" timestamp="1524054032954">
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="6" column="18" />
+        <mark key="." line="6" column="18" />
+        <mark key="^" line="6" column="18" />
+      </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/validator.test.js" timestamp="1523969239262">
         <mark key="'" line="106" column="49" />
         <mark key="[" line="301" column="8" />
@@ -723,12 +743,12 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/test/api/equipments.test.js" timestamp="1523886076276">
+      <file name="$USER_HOME$/dev/part-edge/api/test/api/equipments.test.js" timestamp="1524053229111">
         <mark key="'" line="112" column="23" />
-        <mark key="[" line="118" column="48" />
-        <mark key="]" line="118" column="49" />
-        <mark key="^" line="118" column="49" />
-        <mark key="." line="118" column="49" />
+        <mark key="[" line="22" column="2" />
+        <mark key="]" line="22" column="4" />
+        <mark key="^" line="22" column="4" />
+        <mark key="." line="22" column="4" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/mapper.js" timestamp="1523969001621">
         <mark key="'" line="19" column="0" />
@@ -794,11 +814,11 @@
         <mark key="." line="6" column="68" />
         <mark key="^" line="6" column="68" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/src/routes/index.js" timestamp="1523882625680">
-        <mark key="[" line="42" column="2" />
-        <mark key="]" line="42" column="7" />
-        <mark key="." line="42" column="7" />
-        <mark key="^" line="42" column="7" />
+      <file name="$USER_HOME$/dev/part-edge/api/src/routes/index.js" timestamp="1524054159899">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="44" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="8" column="37" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/node_modules/oidc-client/lib/oidc-client.js" timestamp="1524040048533">
         <mark key="[" line="381" column="2" />
@@ -887,6 +907,13 @@
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/part-edge/api/test/api/exclusions.test.js" timestamp="1524053856523">
+        <mark key="'" line="7" column="49" />
+        <mark key="[" line="66" column="30" />
+        <mark key="]" line="66" column="28" />
+        <mark key="." line="66" column="28" />
+        <mark key="^" line="66" column="28" />
+      </file>
       <file name="$USER_HOME$/dev/part-edge/client/build/webpack.config.js" timestamp="1522140544375">
         <mark key="[" line="1" column="2" />
         <mark key="]" line="2" column="1" />
@@ -905,15 +932,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="32" filename="$USER_HOME$/dev/part-edge/importer/seeds/20171130163931_equipments.js" />
-      <jump line="10" column="8" filename="$USER_HOME$/dev/part-edge/importer/seeds/20171130163931_equipments.js" />
-      <jump line="21" column="46" filename="$USER_HOME$/dev/part-edge/importer/seeds/20171130163931_equipments.js" />
-      <jump line="0" column="10" filename="$USER_HOME$/dev/part-edge/importer/test/unit/equipments.test.js" />
-      <jump line="3" column="42" filename="$USER_HOME$/dev/part-edge/importer/services/service.js" />
-      <jump line="11" column="4" filename="$USER_HOME$/dev/part-edge/importer/services/service.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/dev/part-edge/importer/services/service.js" />
-      <jump line="7" column="0" filename="$USER_HOME$/dev/part-edge/importer/services/service.js" />
-      <jump line="27" column="4" filename="$USER_HOME$/dev/part-edge/importer/services/service.js" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/importer/services/service.js" />
       <jump line="30" column="21" filename="$USER_HOME$/dev/part-edge/importer/services/service.js" />
       <jump line="25" column="4" filename="$USER_HOME$/dev/part-edge/importer/services/service.js" />
@@ -1005,6 +1023,15 @@
       <jump line="41" column="36" filename="$USER_HOME$/dev/part-edge/client/src/services/auth.js" />
       <jump line="13" column="12" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/services/auth.spec.js" />
       <jump line="6" column="21" filename="$USER_HOME$/dev/part-edge/api/src/routes/exclusions/repository.test.js" />
+      <jump line="3" column="21" filename="$USER_HOME$/dev/part-edge/api/src/routes/exclusions/repository.js" />
+      <jump line="0" column="38" filename="$USER_HOME$/dev/part-edge/api/src/routes/exclusions/repository.js" />
+      <jump line="3" column="14" filename="$USER_HOME$/dev/part-edge/api/src/routes/exclusions/controller.js" />
+      <jump line="11" column="49" filename="$USER_HOME$/dev/part-edge/api/src/routes/exclusions/controller.test.js" />
+      <jump line="5" column="14" filename="$USER_HOME$/dev/part-edge/api/src/routes/exclusions/controller.test.js" />
+      <jump line="1" column="25" filename="$USER_HOME$/dev/part-edge/api/src/routes/exclusions/controller.test.js" />
+      <jump line="24" column="32" filename="$USER_HOME$/dev/part-edge/api/src/routes/exclusions/controller.test.js" />
+      <jump line="8" column="25" filename="$USER_HOME$/dev/part-edge/api/test/api/exclusions.test.js" />
+      <jump line="7" column="49" filename="$USER_HOME$/dev/part-edge/api/test/api/exclusions.test.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1014,8 +1041,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>spy</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICByb3V0ZXIudXNlKCcvb3JkZXJzJywgb3JkZXJzKGRiLCBjb25maWcpKTsK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2542,7 +2569,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>spy</text>
+        <text>config</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2560,7 +2587,7 @@
     creatorId: 'ABCD',</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdCByZXBvc2l0b3J5ID0gY3JlYXRlUmVwb3NpdG9yeShkYik7Cg==</text>
+        <text encoding="base64">ICByb3V0ZXIudXNlKCcvb3JkZXJzJywgb3JkZXJzKGRiLCBjb25maWcpKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2574,31 +2601,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh1cmwsIHJlc3BvbnNlKTsK</text>
+        <text encoding="base64">ICAgIGhhc1Blcm1pc3Npb24oY29uZmlnLmF1dGguKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNwb25zZSk7Cg==</text>
+        <text encoding="base64">ICBkaXNhYmxlUGFnaW5hdGlvbiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHVzZXJNYQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVzZXIpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlck1hbmFnZXIuZXZlbnRzLmFkZFNpbGVudFJlbmV3RXJyb3IK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkYignRXhjbHVzaW9ucycpLmluc2VydCh7IGN1c3RvbWVyTmFtZTogJ0FpciBGcmFuY2UnLCBkaXZpc2lvbjogMTAwMiwgbWFnOiA1IH0pOwo=</text>
       </register>
       <register name="w" type="4">
         <text>www</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IGxvZ0luU2lsZW50bHkoKTsK</text>
+        <text encoding="base64">ICBleGNsdXNpb25zLm1hcChleCA9PiApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPGJ1dHRvbiBAY2xpY2s9IiRzdG9yZS5kaXNwYXRjaCgnbG9nSW5TaWxlbnRseScpIj5SZW5ldyB0b2tlbjwvYnV0dG9uPgo=</text>
+        <text encoding="base64">ICBjb25zdCBlcXVpcG1lbnRzID0gcmVzLmJvZHk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2651,11 +2678,11 @@
         <entry>qo</entry>
         <entry>qa</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
-        <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL25ldy9zZXJ2aWNlYWJsZS9n</entry>
         <entry encoding="base64">JzwsJz5zL3N0b2NrSW5mby9zdG9ja0luZm9Db2wvZw==</entry>
         <entry encoding="base64">JzwsJz53cQ==</entry>
         <entry>wq</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
