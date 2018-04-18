@@ -255,7 +255,8 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/services/auth.js" timestamp="1524039925826">
+      <file name="$USER_HOME$/dev/part-edge/client/src/services/auth.js" timestamp="1524043070190">
+        <mark key="'" line="41" column="36" />
         <mark key="[" line="22" column="46" />
         <mark key="]" line="22" column="10" />
         <mark key="." line="22" column="10" />
@@ -273,13 +274,12 @@
         <mark key="^" line="26" column="34" />
         <mark key="." line="26" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/test/api/orders.test.js" timestamp="1523970449646">
-        <mark key="'" line="181" column="33" />
-        <mark key="k" line="145" column="0" />
-        <mark key="[" line="161" column="5" />
-        <mark key="]" line="161" column="3" />
-        <mark key="." line="161" column="3" />
-        <mark key="^" line="161" column="3" />
+      <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/services/auth.spec.js" timestamp="1524043467168">
+        <mark key="'" line="13" column="12" />
+        <mark key="[" line="83" column="7" />
+        <mark key="]" line="83" column="7" />
+        <mark key="^" line="83" column="7" />
+        <mark key="." line="83" column="7" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/DashboardExchangeList.vue" timestamp="1523961074175">
         <mark key="'" line="265" column="9" />
@@ -437,6 +437,13 @@
         <mark key="[" line="11" column="14" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/part-edge/api/src/routes/exclusions/repository.test.js" timestamp="1524043874272">
+        <mark key="'" line="6" column="21" />
+        <mark key="[" line="8" column="37" />
+        <mark key="]" line="9" column="39" />
+        <mark key="^" line="9" column="39" />
+        <mark key="." line="9" column="39" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/importer/ftp/server.js" timestamp="1523372716542">
         <mark key="'" line="1" column="28" />
@@ -601,10 +608,9 @@
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/repository.js" timestamp="1523969933070">
         <mark key="'" line="30" column="3" />
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="^" line="44" column="41" />
-        <mark key="." line="90" column="0" />
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/middlewares/group.js" timestamp="1521652206827">
         <mark key="[" line="25" column="31" />
@@ -899,9 +905,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="21" filename="$USER_HOME$/dev/part-edge/importer/seeds/20171130163931_equipments.js" />
-      <jump line="29" column="34" filename="$USER_HOME$/dev/part-edge/importer/seeds/20171130163931_equipments.js" />
-      <jump line="22" column="25" filename="$USER_HOME$/dev/part-edge/importer/seeds/20171130163931_equipments.js" />
       <jump line="20" column="32" filename="$USER_HOME$/dev/part-edge/importer/seeds/20171130163931_equipments.js" />
       <jump line="10" column="8" filename="$USER_HOME$/dev/part-edge/importer/seeds/20171130163931_equipments.js" />
       <jump line="21" column="46" filename="$USER_HOME$/dev/part-edge/importer/seeds/20171130163931_equipments.js" />
@@ -999,6 +1002,9 @@
       <jump line="181" column="33" filename="$USER_HOME$/dev/part-edge/api/test/api/orders.test.js" />
       <jump line="6" column="4" filename="$USER_HOME$/dev/part-edge/api/src/middlewares/validator.js" />
       <jump line="162" column="34" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/dashboard/children/DashboardExchangeList.spec.js" />
+      <jump line="41" column="36" filename="$USER_HOME$/dev/part-edge/client/src/services/auth.js" />
+      <jump line="13" column="12" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/services/auth.spec.js" />
+      <jump line="6" column="21" filename="$USER_HOME$/dev/part-edge/api/src/routes/exclusions/repository.test.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1008,8 +1014,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh1cmwsIHJlc3BvbnNlKTsK</text>
+      <register name="&quot;" type="4">
+        <text>spy</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2536,7 +2542,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>shallow</text>
+        <text>spy</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2545,7 +2551,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>stockInfo</text>
+        <text>logInSilently</text>
       </register>
       <register name="0" type="4">
         <text>address: orderSPTKO.address,
@@ -2554,7 +2560,7 @@
     creatorId: 'ABCD',</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh1cmwsIHJlc3BvbnNlKTsK</text>
+        <text encoding="base64">ICBjb25zdCByZXBvc2l0b3J5ID0gY3JlYXRlUmVwb3NpdG9yeShkYik7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2568,40 +2574,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNwb25zZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh1cmwsIHJlc3BvbnNlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHVzZXJNYQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNwb25zZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVzZXIpOwo=</text>
+        <text encoding="base64">ICAgIHVzZXJNYQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlck1hbmFnZXIuZXZlbnRzLmFkZFNpbGVudFJlbmV3RXJyb3IK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVzZXIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlck1hbmFnZXIuZXZlbnRzLmFkZFNpbGVudFJlbmV3RXJyb3IK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IGxvZ0luU2lsZW50bHkoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>www</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPGJ1dHRvbiBAY2xpY2s9IiRzdG9yZS5kaXNwYXRjaCgnbG9nSW5TaWxlbnRseScpIj5SZW5ldyB0b2tlbjwvYnV0dG9uPgo=</text>
+        <text encoding="base64">ICAgIGF3YWl0IGxvZ0luU2lsZW50bHkoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh1c2VyKTsK</text>
+        <text encoding="base64">ICAgICAgPGJ1dHRvbiBAY2xpY2s9IiRzdG9yZS5kaXNwYXRjaCgnbG9nSW5TaWxlbnRseScpIj5SZW5ldyB0b2tlbjwvYnV0dG9uPgo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>stockInfo</last-search>
+      <last-search>logInSilently</last-search>
       <last-offset />
-      <last-pattern>stockInfo</last-pattern>
+      <last-pattern>logInSilently</last-pattern>
       <last-replace>stockInfoCol</last-replace>
       <last-substitute>stockInfo</last-substitute>
       <last-dir>1</last-dir>
@@ -2609,8 +2615,6 @@
     </search>
     <history>
       <history-search>
-        <entry>parameters</entry>
-        <entry>validatedOrder</entry>
         <entry>example</entry>
         <entry>async</entry>
         <entry>await</entry>
@@ -2629,6 +2633,8 @@
         <entry>&quot;</entry>
         <entry>new</entry>
         <entry>stockInfo</entry>
+        <entry>logInSIle</entry>
+        <entry>logInSilently</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3Jvd3MvcmVjb3Jkcy9n</entry>
@@ -2648,9 +2654,9 @@
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL25ldy9zZXJ2aWNlYWJsZS9n</entry>
         <entry encoding="base64">JzwsJz5zL3N0b2NrSW5mby9zdG9ja0luZm9Db2wvZw==</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz53cQ==</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
