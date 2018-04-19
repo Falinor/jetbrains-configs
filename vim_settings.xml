@@ -384,13 +384,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/components/dashboard/DashboardAdmin.vue" timestamp="1524131658469">
-        <mark key="'" line="11" column="75" />
-        <mark key="[" line="6" column="65" />
-        <mark key="k" line="6" column="34" />
-        <mark key="]" line="6" column="65" />
-        <mark key="." line="6" column="65" />
-        <mark key="^" line="6" column="70" />
+      <file name="$USER_HOME$/dev/part-edge/client/src/components/dashboard/DashboardAdmin.vue" timestamp="1524142324379">
+        <mark key="k" line="10" column="34" />
+        <mark key="[" line="98" column="13" />
+        <mark key="]" line="98" column="12" />
+        <mark key="." line="98" column="12" />
+        <mark key="^" line="98" column="12" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/src/components/orders/OrdersInit.vue" timestamp="1523614325927">
         <mark key="'" line="20" column="10" />
@@ -459,12 +458,12 @@
         <mark key="." line="61" column="74" />
         <mark key="^" line="61" column="74" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/components/dashboard/Dashboard.vue" timestamp="1524127552749">
+      <file name="$USER_HOME$/dev/part-edge/client/src/components/dashboard/Dashboard.vue" timestamp="1524142039997">
         <mark key="'" line="18" column="1" />
-        <mark key="[" line="21" column="17" />
-        <mark key="]" line="21" column="18" />
-        <mark key="." line="21" column="18" />
-        <mark key="^" line="21" column="18" />
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="2" column="24" />
+        <mark key="." line="2" column="24" />
+        <mark key="^" line="2" column="24" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/container.test.js" timestamp="1522258502402">
         <mark key="'" line="17" column="43" />
@@ -848,10 +847,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/DashboardExchangeList.vue" />
-      <jump line="113" column="11" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/DashboardExchangeList.vue" />
-      <jump line="10" column="12" filename="$USER_HOME$/dev/part-edge/client/src/components/orders/children/OrdersClientList.vue" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/client/src/components/equipments/children/EquipmentsFilters.vue" />
       <jump line="8" column="1" filename="$USER_HOME$/dev/part-edge/client/src/components/equipments/children/EquipmentsFilters.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/client/src/components/equipments/EquipmentsList.vue" />
       <jump line="52" column="13" filename="$USER_HOME$/dev/part-edge/client/src/components/equipments/EquipmentsList.vue" />
@@ -948,6 +943,10 @@
       <jump line="2" column="22" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/DashboardAdmin.vue" />
       <jump line="8" column="16" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/DashboardAdmin.vue" />
       <jump line="11" column="75" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/DashboardAdmin.vue" />
+      <jump line="9" column="26" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/DashboardAdmin.vue" />
+      <jump line="17" column="60" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/DashboardAdmin.vue" />
+      <jump line="19" column="15" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/DashboardAdmin.vue" />
+      <jump line="13" column="34" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/DashboardAdmin.vue" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -957,8 +956,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">aW5kZW50IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2485,7 +2484,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW5kZW50IA==</text>
+        <text>auto</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2494,13 +2493,13 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>lotStock</text>
+        <text encoding="base64">IGNsYXNzPSJpdGVtX19jb250ZW50Ig==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8c3BhbiB2LWlmPSJzdG9jay5sb3RTdG9jayI+fCBMb3Qge3sgc3RvY2subG90U3RvY2sgfX08L3NwYW4+Cg==</text>
+        <text encoding="base64">ICAgICAgICB7IGlkOiA0LCBjdXN0b21lck5hbWU6ICdUZXN0JywgZGl2aXNpb246IDEwMDQsIG1hZzogNSB9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgc3RvY2suCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2514,22 +2513,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgY2xhc3M9ImNhcmQgY29sLXhzLTEyIGNvbC1zbS0yIGNvbC1tZC0xMiIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8Cg==</text>
+        <text encoding="base64">ICBtaW4td2lkdGggMjAlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJtYXRlcmlhbC1pY29ucyI+ZGVsZXRlPC9pPgo=</text>
+        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yICRwcmltYXJ5Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dGJvZHkgdGgKCg==</text>
+        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yICRzZWNvbmRhcnkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBib3JkZXIgc29saWQgJHdoaXRlCiAgYm9yZGVyLXdpZHRoIDFweCAwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8cCBjbGFzcz0ic2VwYXJhdG9yIj48L3A+Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2642,28 +2641,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJvcmRlci1ib3R0b20gbm9uZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxwIGNsYXNzPSJzZXBhcmF0b3IiPjwvcD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgJjpsYXN0LWNoaWxkCg==</text>
+        <text encoding="base64">ICBqdXN0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>lotStock</last-search>
+      <last-search encoding="base64">IGNsYXNzPSJpdGVtX19jb250ZW50Ig==</last-search>
       <last-offset />
-      <last-pattern>lotStock</last-pattern>
-      <last-replace>partNumber</last-replace>
-      <last-substitute>lotStock</last-substitute>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">IGNsYXNzPSJpdGVtX19jb250ZW50Ig==</last-pattern>
+      <last-replace />
+      <last-substitute encoding="base64">IGNsYXNzPSJpdGVtX19jb250ZW50Ig==</last-substitute>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>async</entry>
-        <entry>await</entry>
         <entry>lodash</entry>
         <entry>search</entry>
         <entry>rows</entry>
@@ -2682,9 +2679,10 @@
         <entry>logInSilently</entry>
         <entry>&quot;</entry>
         <entry>lotStock</entry>
+        <entry encoding="base64">XDxzdG9ja1w+</entry>
+        <entry encoding="base64">IGNsYXNzPSJpdGVtX19jb250ZW50Ig==</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3Jvdy9yZWNvcmQvZw==</entry>
         <entry encoding="base64">JzwsJz5zL1wvL1wvXi9n</entry>
         <entry encoding="base64">JzwsJz5zL15pLy9n</entry>
         <entry encoding="base64">JzwsJz5zL1xeaS9n</entry>
@@ -2703,6 +2701,7 @@
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL2xvdFN0b2NrL3BhcnROdW1iZXIvZw==</entry>
+        <entry encoding="base64">JzwsJz5zLyBjbGFzcz0iaXRlbV9fY29udGVudCIvL2c=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
