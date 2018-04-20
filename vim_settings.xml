@@ -23,11 +23,11 @@
         <mark key="." line="61" column="6" />
         <mark key="^" line="61" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/components/orders/OrdersDetails.vue" timestamp="1524148501142">
-        <mark key="[" line="204" column="0" />
-        <mark key="]" line="204" column="0" />
-        <mark key="^" line="283" column="85" />
-        <mark key="." line="204" column="0" />
+      <file name="$USER_HOME$/dev/part-edge/client/src/components/orders/OrdersDetails.vue" timestamp="1524215709067">
+        <mark key="[" line="22" column="33" />
+        <mark key="]" line="22" column="11" />
+        <mark key="^" line="22" column="11" />
+        <mark key="." line="22" column="11" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/build/webpack.base.conf.js" timestamp="1522313604126">
         <mark key="[" line="19" column="16" />
@@ -648,11 +648,12 @@
         <mark key="." line="76" column="75" />
         <mark key="^" line="76" column="75" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/DashboardAdminCards.vue" timestamp="1524210320052">
-        <mark key="[" line="46" column="9" />
-        <mark key="]" line="46" column="9" />
-        <mark key="." line="46" column="9" />
-        <mark key="^" line="46" column="9" />
+      <file name="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/DashboardAdminCards.vue" timestamp="1524215946748">
+        <mark key="'" line="27" column="14" />
+        <mark key="[" line="70" column="5" />
+        <mark key="]" line="70" column="5" />
+        <mark key="." line="70" column="5" />
+        <mark key="^" line="70" column="5" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/src/components/dashboard/DashboardOpenRequests.vue" timestamp="1523954398425">
         <mark key="[" line="3" column="28" />
@@ -881,11 +882,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="1" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/validator.js" />
-      <jump line="32" column="11" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/validator.test.js" />
-      <jump line="15" column="16" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/validator.test.js" />
-      <jump line="45" column="24" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/validator.test.js" />
-      <jump line="29" column="47" filename="$USER_HOME$/dev/part-edge/api/src/routes/equipments/validator.test.js" />
       <jump line="157" column="32" filename="$USER_HOME$/dev/part-edge/api/test/api/equipments.test.js" />
       <jump line="112" column="23" filename="$USER_HOME$/dev/part-edge/api/test/api/equipments.test.js" />
       <jump line="6" column="29" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/DashboardClosedList.vue" />
@@ -981,6 +977,11 @@
       <jump line="22" column="15" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/dashboard/DashboardAdmin.spec.js" />
       <jump line="14" column="15" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/dashboard/DashboardAdmin.spec.js" />
       <jump line="51" column="8" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/dashboard/DashboardAdmin.spec.js" />
+      <jump line="50" column="0" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/DashboardAdminCards.vue" />
+      <jump line="31" column="25" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/DashboardAdminCards.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/DashboardAdminCards.vue" />
+      <jump line="12" column="14" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/DashboardAdminCards.vue" />
+      <jump line="27" column="14" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/DashboardAdminCards.vue" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -990,8 +991,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB7IGlkOiA3LCBjdXN0b21lck5hbWU6ICdERUYnLCBkaXZpc2lvbjogMTAwNCwgbWFnOiA1LCBsb3RTdG9jazogJ1VTRUQnLCBwYXJ0TnVtYmVyOiAnQzEyMDM5MDUzJyB9LAo=</text>
+      <register name="&quot;" type="4">
+        <text>tooltip</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2518,7 +2519,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>vm</text>
+        <text>tooltip</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2538,7 +2539,7 @@
     QList,</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB7IGlkOiA3LCBjdXN0b21lck5hbWU6ICdERUYnLCBkaXZpc2lvbjogMTAwNCwgbWFnOiA1LCBsb3RTdG9jazogJ1VTRUQnLCBwYXJ0TnVtYmVyOiAnQzEyMDM5MDUzJyB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE15IHRvb2x0aXAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2552,19 +2553,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB7IGlkOiA2LCBjdXN0b21lck5hbWU6ICdBQkMnLCBkaXZpc2lvbjogMTAwNCwgbWFnOiA1IH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8cS10b29sdGlwPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB7IGlkOiA3LCBjdXN0b21lck5hbWU6ICdERUYnLCBkaXZpc2lvbjogMTAwNCwgbWFnOiA1LCBsb3RTdG9jazogJ1VTRUQnLCBwYXJ0TnVtYmVyOiAnQzEyMDM5MDUzJyB9LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICB7IGlkOiA2LCBjdXN0b21lck5hbWU6ICdBQkMnLCBkaXZpc2lvbjogMTAwNCwgbWFnOiA1IH0sCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgfSk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -2680,10 +2681,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgfSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
