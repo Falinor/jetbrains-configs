@@ -103,6 +103,12 @@
         <mark key="^" line="8" column="9" />
         <mark key="." line="6" column="2" />
       </file>
+      <file name="$USER_HOME$/dev/part-edge/permissions/test/index.test.js" timestamp="1524493830912">
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="4" column="13" />
+        <mark key="^" line="4" column="13" />
+        <mark key="." line="4" column="13" />
+      </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/routes/equipments/index.js" timestamp="1524061011745">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="69" />
@@ -120,10 +126,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/permissions/src/definitions.js" timestamp="1524489255808">
-        <mark key="[" line="0" column="47" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/dev/part-edge/permissions/src/definitions.js" timestamp="1524496021392">
+        <mark key="'" line="18" column="2" />
+        <mark key="[" line="41" column="33" />
+        <mark key="]" line="26" column="21" />
+        <mark key="." line="26" column="21" />
+        <mark key="^" line="26" column="21" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/test/api/exclusions.js" timestamp="1524045894686">
         <mark key="[" line="1" column="32" />
@@ -193,8 +201,11 @@
         <mark key="^" line="45" column="7" />
         <mark key="." line="45" column="7" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/permissions/.babelrc" timestamp="1524484917177">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/dev/part-edge/permissions/.babelrc" timestamp="1524492251577">
+        <mark key="[" line="3" column="15" />
+        <mark key="]" line="3" column="15" />
+        <mark key="^" line="3" column="15" />
+        <mark key="." line="3" column="15" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/importer/test/unit/equipments.test.js" timestamp="1523436774474">
         <mark key="'" line="0" column="10" />
@@ -740,6 +751,11 @@
         <mark key="." line="114" column="35" />
         <mark key="^" line="114" column="35" />
       </file>
+      <file name="$USER_HOME$/dev/part-edge/permissions/.flowconfig" timestamp="1524493728612">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/part-edge/client/src/components/dashboard/DashboardOpenRequests.vue" timestamp="1523954398425">
         <mark key="[" line="3" column="28" />
         <mark key="]" line="2" column="27" />
@@ -1014,8 +1030,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="33" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/DashboardClosedList.vue" />
-      <jump line="6" column="10" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/Dashboard.vue" />
       <jump line="235" column="16" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/DashboardRequestList.vue" />
       <jump line="237" column="0" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/DashboardRequestList.vue" />
       <jump line="265" column="9" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/DashboardExchangeList.vue" />
@@ -1114,6 +1128,8 @@
       <jump line="68" column="1" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/DashboardAdminCards.vue" />
       <jump line="31" column="4" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/DashboardAdmin.vue" />
       <jump line="38" column="48" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/DashboardAdmin.vue" />
+      <jump line="15" column="23" filename="$USER_HOME$/dev/part-edge/permissions/src/definitions.js" />
+      <jump line="18" column="2" filename="$USER_HOME$/dev/part-edge/permissions/src/definitions.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1123,8 +1139,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QWJpbGl0eUJ1aWxkZXIuZGVmaW5lKCkK</text>
+      <register name="&quot;" type="4">
+        <text>role</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2651,7 +2667,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">QWJpbGl0eSA=</text>
+        <text>role</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2662,16 +2678,11 @@
       <register name="/" type="4">
         <text encoding="base64">IGNsYXNzPSJpdGVtX19jb250ZW50Ig==</text>
       </register>
-      <register name="0" type="4">
-        <text>QCard,
-    QCardTitle,
-    QCardMain,
-    QItem,
-    QItemMain,
-    QList,</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IHsgQWJpbGl0eSB9IGZyb20gJ0BjYXNsL2FiaWxpdHknOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">QWJpbGl0eUJ1aWxkZXIuZGVmaW5lKCkK</text>
+      <register name="1" type="4">
+        <text encoding="base64">KHByZXYsIGN1cnIpID0+IHsKCiAgICB9LCBbXQ==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2685,22 +2696,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBEZWZhdWx0IHBlcm1pc3Npb25zCiAgYmFzZSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bmV3IEFiaWxpdHkoKS4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0IjogIiIK</text>
+        <text encoding="base64">ICBsZXQgcm9sZXMgPQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJkZXYiOiAK</text>
+        <text encoding="base64">ICAgIHVzZXIuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
+        <text encoding="base64">ICAgIHQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gVE9ETzogY29tbWVudAo=</text>
+        <text encoding="base64">Ly8gQGZsb3cK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2813,10 +2824,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkaXNwbGF5IGJsb2NrCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PGRpdiB2LWlmPSJleGNsdXNpb25zLmxlbmd0aCA9PT0gMCIgY2xhc3M9InJvdyI+CiAgICAgIDxoNiBjbGFzcz0iZGVzY3JpcHRpb24gaGVhZGxpbmUiPk5vIGV4Y2x1ZGVkIHN0b2NrcyB5ZXQuPC9oNj4KICAgIDwvZGl2Pg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">CnRlc3QudG9kbygnJykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
