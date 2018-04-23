@@ -29,6 +29,11 @@
         <mark key="^" line="22" column="11" />
         <mark key="." line="22" column="11" />
       </file>
+      <file name="$USER_HOME$/dev/part-edge/permissions/package.json" timestamp="1524485596310">
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="8" column="14" />
+        <mark key="." line="8" column="14" />
+      </file>
       <file name="$USER_HOME$/dev/part-edge/client/build/webpack.base.conf.js" timestamp="1522313604126">
         <mark key="[" line="19" column="16" />
         <mark key="]" line="19" column="19" />
@@ -131,7 +136,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/router/main.js" timestamp="1524472735464" />
       <file name="$USER_HOME$/dev/part-edge/importer/migrations/20180223115154_alter-equipments.js" timestamp="1521474849322">
         <mark key="[" line="15" column="5" />
         <mark key="]" line="15" column="3" />
@@ -194,6 +198,9 @@
         <mark key="]" line="45" column="7" />
         <mark key="^" line="45" column="7" />
         <mark key="." line="45" column="7" />
+      </file>
+      <file name="$USER_HOME$/dev/part-edge/permissions/.babelrc" timestamp="1524484917177">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/importer/test/unit/equipments.test.js" timestamp="1523436774474">
         <mark key="'" line="0" column="10" />
@@ -339,6 +346,11 @@
         <mark key="]" line="1" column="8" />
         <mark key="^" line="1" column="8" />
         <mark key="." line="1" column="8" />
+      </file>
+      <file name="$USER_HOME$/dev/part-edge/permissions/.gitignore" timestamp="1524485040042">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/importer/migrations/20180315132550_create-validated_type.js" timestamp="1521474972659">
         <mark key="[" line="9" column="4" />
@@ -600,7 +612,6 @@
         <mark key="^" line="2" column="3" />
         <mark key="." line="2" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/store/modules/auth.js" timestamp="1524472452904" />
       <file name="$USER_HOME$/dev/part-edge/client/src/components/orders/initialize-sptko.vue" timestamp="1521630549549">
         <mark key="[" line="26" column="31" />
         <mark key="]" line="27" column="0" />
@@ -1125,7 +1136,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZW1haWwg</text>
+        <text>dev</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2652,7 +2663,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZW1haWwg</text>
+        <text>dev</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2672,7 +2683,7 @@
     QList,</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gVE9ETzogY29tbWVudAo=</text>
+        <text encoding="base64">ICAgICJkZXYiOiAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2686,30 +2697,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkaXNwbGF5IGJsb2NrCg==</text>
+        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">PGRpdiB2LWlmPSJleGNsdXNpb25zLmxlbmd0aCA9PT0gMCIgY2xhc3M9InJvdyI+CiAgICAgIDxoNiBjbGFzcz0iZGVzY3JpcHRpb24gaGVhZGxpbmUiPk5vIGV4Y2x1ZGVkIHN0b2NrcyB5ZXQuPC9oNj4KICAgIDwvZGl2Pg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gVE9ETzogY29tbWVudAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHt7IGV4Y2x1c2lvbnMubGVuZ3RoIH19Cg==</text>
+        <text encoding="base64">ICBkaXNwbGF5IGJsb2NrCg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">PGRpdiBjbGFzcz0idmlldy1zd2l0Y2hlciByb3ciPgogICAgICA8cS1idG4gZmxhdCByb3VuZCBAY2xpY2s9InN3aXRjaFRvVGFibGVWaWV3Ij4KICAgICAgICA8cS1pY29uIG5hbWU9InZpZXdfaGVhZGxpbmUiIGNsYXNzPSJpY29uIiA6Y2xhc3M9InsgcHJpbWFyeTogaXNUYWJsZVZpZXcgfSIgLz4KICAgICAgPC9xLWJ0bj4KICAgICAgPHEtYnRuIGZsYXQgcm91bmQgQGNsaWNrPSJzd2l0Y2hUb0NhcmRWaWV3Ij4KICAgICAgICA8cS1pY29uIG5hbWU9InZpZXdfbW9kdWxlIiBjbGFzcz0iaWNvbiIgOmNsYXNzPSJ7IHByaW1hcnk6ICFpc1RhYmxlVmlldyB9IiAvPgogICAgICA8L3EtYnRuPgogICAgPC9kaXY+CiAgICA8IS0tIFN0b2NrcyBpbiBhIHRhYmxlIHZpZXcgLS0+CiAgICA8ZGFzaGJvYXJkLWFkbWluLXRhYmxlIHYtaWY9ImlzVGFibGVWaWV3IiAvPgogICAgPCEtLSBTdG9ja3MgaW4gY2FyZHMgZ3JvdXBlZCBieSBjdXN0b21lciAtLT4KICAgIDxkYXNoYm9hcmQtYWRtaW4tY2FyZHMgdi1pZj0iIWlzVGFibGVWaWV3IiAvPg==</text>
+        <text encoding="base64">PGRpdiB2LWlmPSJleGNsdXNpb25zLmxlbmd0aCA9PT0gMCIgY2xhc3M9InJvdyI+CiAgICAgIDxoNiBjbGFzcz0iZGVzY3JpcHRpb24gaGVhZGxpbmUiPk5vIGV4Y2x1ZGVkIHN0b2NrcyB5ZXQuPC9oNj4KICAgIDwvZGl2Pg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHt7IGV4Y2x1c2lvbnMubGVuZ3RoIH19Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>// [
-//   { id: 1, customerName: 'Air France', division: 1002, mag: 5 },
-//   { id: 2, customerName: 'Air France', division: 1004, mag: 5, lotStock: 'USED' },
-//   { id: 6, customerName: 'ABC', division: 1004, mag: 5 },
-//   { id: 7, customerName: 'DEF', division: 1004, mag: 5, lotStock: 'USED', partNumber: 'C12039053' },
-//   { id: 3, customerName: 'Luxair', division: 1004, mag: 5 },
-//   { id: 4, customerName: 'Test', division: 1004, mag: 5 },
-//   { id: 5, customerName: 'Testing', division: 1004, mag: 5 },
-// ];</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0idmlldy1zd2l0Y2hlciByb3ciPgogICAgICA8cS1idG4gZmxhdCByb3VuZCBAY2xpY2s9InN3aXRjaFRvVGFibGVWaWV3Ij4KICAgICAgICA8cS1pY29uIG5hbWU9InZpZXdfaGVhZGxpbmUiIGNsYXNzPSJpY29uIiA6Y2xhc3M9InsgcHJpbWFyeTogaXNUYWJsZVZpZXcgfSIgLz4KICAgICAgPC9xLWJ0bj4KICAgICAgPHEtYnRuIGZsYXQgcm91bmQgQGNsaWNrPSJzd2l0Y2hUb0NhcmRWaWV3Ij4KICAgICAgICA8cS1pY29uIG5hbWU9InZpZXdfbW9kdWxlIiBjbGFzcz0iaWNvbiIgOmNsYXNzPSJ7IHByaW1hcnk6ICFpc1RhYmxlVmlldyB9IiAvPgogICAgICA8L3EtYnRuPgogICAgPC9kaXY+CiAgICA8IS0tIFN0b2NrcyBpbiBhIHRhYmxlIHZpZXcgLS0+CiAgICA8ZGFzaGJvYXJkLWFkbWluLXRhYmxlIHYtaWY9ImlzVGFibGVWaWV3IiAvPgogICAgPCEtLSBTdG9ja3MgaW4gY2FyZHMgZ3JvdXBlZCBieSBjdXN0b21lciAtLT4KICAgIDxkYXNoYm9hcmQtYWRtaW4tY2FyZHMgdi1pZj0iIWlzVGFibGVWaWV3IiAvPg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2822,10 +2825,18 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAvLyBUT0RPOiBvcmRlciBieSBjdXN0b21lck5hbWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">Ly8gYXhpb3MuZ2V0KGAke2FwaVVybH0vZXhjbHVzaW9uc2AsIHsKICAvLyAgIHBhcmFtczogc2VhcmNoLAogIC8vIH0pLnRoZW4ocmVzID0+IHJlcy5kYXRhKTs=</text>
+        <text>// [
+//   { id: 1, customerName: 'Air France', division: 1002, mag: 5 },
+//   { id: 2, customerName: 'Air France', division: 1004, mag: 5, lotStock: 'USED' },
+//   { id: 6, customerName: 'ABC', division: 1004, mag: 5 },
+//   { id: 7, customerName: 'DEF', division: 1004, mag: 5, lotStock: 'USED', partNumber: 'C12039053' },
+//   { id: 3, customerName: 'Luxair', division: 1004, mag: 5 },
+//   { id: 4, customerName: 'Test', division: 1004, mag: 5 },
+//   { id: 5, customerName: 'Testing', division: 1004, mag: 5 },
+// ];</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
