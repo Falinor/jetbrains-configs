@@ -149,6 +149,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/part-edge/client/src/router/main.js" timestamp="1524559772011">
+        <mark key="[" line="231" column="0" />
+        <mark key="]" line="231" column="0" />
+        <mark key="." line="231" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/part-edge/importer/migrations/20180223115154_alter-equipments.js" timestamp="1521474849322">
         <mark key="[" line="15" column="5" />
         <mark key="]" line="15" column="3" />
@@ -294,12 +299,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/services/auth.js" timestamp="1524558261941">
+      <file name="$USER_HOME$/dev/part-edge/client/src/services/auth.js" timestamp="1524562089947">
         <mark key="'" line="41" column="36" />
-        <mark key="[" line="83" column="22" />
-        <mark key="]" line="83" column="30" />
-        <mark key="." line="83" column="30" />
-        <mark key="^" line="83" column="30" />
+        <mark key="[" line="112" column="36" />
+        <mark key="]" line="112" column="35" />
+        <mark key="." line="112" column="35" />
+        <mark key="^" line="112" column="35" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/ansible-ci/roles/yarn/tasks/main.yml" timestamp="1522080322745">
         <mark key="[" line="11" column="20" />
@@ -387,6 +392,12 @@
         <mark key="." line="104" column="13" />
         <mark key="^" line="104" column="13" />
       </file>
+      <file name="$USER_HOME$/dev/part-edge/client/src/components/auth/Auth.vue" timestamp="1524562555631">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="18" column="27" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/part-edge/api/docs/responses/bad-request.yaml" timestamp="1522746847957">
         <mark key="[" line="6" column="6" />
         <mark key="]" line="6" column="42" />
@@ -425,6 +436,11 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/part-edge/client/src/components/auth/AuthCallback.vue" timestamp="1524560563534">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/docs/definitions/error.yaml" timestamp="1522755092245">
         <mark key="[" line="8" column="21" />
@@ -633,11 +649,11 @@
         <mark key="^" line="2" column="3" />
         <mark key="." line="2" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/store/modules/auth.js" timestamp="1524558311738">
-        <mark key="[" line="40" column="50" />
-        <mark key="]" line="41" column="31" />
-        <mark key="^" line="41" column="31" />
-        <mark key="." line="41" column="31" />
+      <file name="$USER_HOME$/dev/part-edge/client/src/store/modules/auth.js" timestamp="1524562300736">
+        <mark key="[" line="34" column="38" />
+        <mark key="]" line="33" column="18" />
+        <mark key="." line="33" column="18" />
+        <mark key="^" line="33" column="18" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/src/components/orders/initialize-sptko.vue" timestamp="1521630549549">
         <mark key="[" line="26" column="31" />
@@ -1166,8 +1182,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>read</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2694,7 +2710,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>read</text>
+        <text>hasPermission</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2709,7 +2725,7 @@
         <text encoding="base64">aW1wb3J0IHsgQWJpbGl0eSB9IGZyb20gJ0BjYXNsL2FiaWxpdHknOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2723,22 +2739,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IGFzeW5jRGVmaW5lQWJpbGl0aWVzRm9yID0gYXN5bmMgKHVzZXI6IFVzZXIpID0+CiAgZGVmaW5lQWJpbGl0aWVzRm9yKHVzZXIpOwo=</text>
+        <text encoding="base64">ICAgIG5leHQoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJiYWJlbCI6ICJpbmhlcml0Igo=</text>
+        <text encoding="base64">ICBiZWZvcmVSb3V0ZUxlYXZlKHRvLCBmcm9tLCBuZXh0KSB7CiAgICBjb25zb2xlLmxvZygnTGVhdmluZyBBdXRoJywgdG8sIGZyb20pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBvcGVyYXRvci4K</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBvcGVyYXRvcgo=</text>
+        <text encoding="base64">ICBjcmVhdGVkKCkgewogICAgY29uc29sZS5sb2cK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBvZXByYXRvcgo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5lcnJvcihlcnIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmaW5lQWJpbGl0aWVzRm9yKCkK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdDYWxsYmFjayBlbmQnKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2851,10 +2867,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhydWxlcyk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdDYWxsYmFjaycpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAiYXZhIjoK</text>
+        <text encoding="base64">ICAgIHJldHVybiBuZXh0KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
