@@ -299,12 +299,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/services/auth.js" timestamp="1524562089947">
-        <mark key="'" line="41" column="36" />
-        <mark key="[" line="112" column="36" />
-        <mark key="]" line="112" column="35" />
-        <mark key="." line="112" column="35" />
-        <mark key="^" line="112" column="35" />
+      <file name="$USER_HOME$/dev/part-edge/client/src/services/auth.js" timestamp="1524563191902">
+        <mark key="'" line="106" column="35" />
+        <mark key="[" line="95" column="57" />
+        <mark key="]" line="96" column="40" />
+        <mark key="." line="96" column="40" />
+        <mark key="^" line="96" column="40" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/ansible-ci/roles/yarn/tasks/main.yml" timestamp="1522080322745">
         <mark key="[" line="11" column="20" />
@@ -1073,7 +1073,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="6" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/dashboard/DashboardClosedRequests.spec.js" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/dashboard/DashboardClosedRequests.spec.js" />
       <jump line="48" column="38" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/dashboard/DashboardClosedRequests.spec.js" />
       <jump line="66" column="0" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/dashboard/DashboardClosedRequests.spec.js" />
@@ -1173,6 +1172,7 @@
       <jump line="13" column="0" filename="$USER_HOME$/dev/part-edge/permissions/src/rules.js" />
       <jump line="10" column="16" filename="$USER_HOME$/dev/part-edge/permissions/src/rules.js" />
       <jump line="18" column="27" filename="$USER_HOME$/dev/part-edge/permissions/src/rules.js" />
+      <jump line="105" column="35" filename="$USER_HOME$/dev/part-edge/client/src/services/auth.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1182,8 +1182,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+      <register name="&quot;" type="4">
+        <text>to</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2710,7 +2710,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>hasPermission</text>
+        <text>to</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2722,7 +2722,7 @@
         <text encoding="base64">IGNsYXNzPSJpdGVtX19jb250ZW50Ig==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQWJpbGl0eSB9IGZyb20gJ0BjYXNsL2FiaWxpdHknOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygndG8nLCB0by5mdWxsUGF0aCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICB9LAo=</text>
