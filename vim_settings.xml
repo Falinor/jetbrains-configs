@@ -162,12 +162,12 @@
         <mark key="." line="3" column="25" />
         <mark key="^" line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/components/equipments/EquipmentsList.vue" timestamp="1524583216969">
-        <mark key="'" line="236" column="23" />
-        <mark key="[" line="84" column="32" />
-        <mark key="]" line="84" column="30" />
-        <mark key="." line="84" column="30" />
-        <mark key="^" line="84" column="30" />
+      <file name="$USER_HOME$/dev/part-edge/client/src/components/equipments/EquipmentsList.vue" timestamp="1524584619216">
+        <mark key="'" line="446" column="8" />
+        <mark key="[" line="251" column="0" />
+        <mark key="]" line="251" column="0" />
+        <mark key="." line="251" column="0" />
+        <mark key="^" line="250" column="8" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/permissions/.babelrc" timestamp="1524501277358">
         <mark key="[" line="3" column="12" />
@@ -570,12 +570,12 @@
         <mark key="." line="16" column="8" />
         <mark key="^" line="16" column="8" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/equipments/EquipmentsList.spec.js" timestamp="1524583559677">
-        <mark key="'" line="125" column="20" />
-        <mark key="[" line="89" column="32" />
-        <mark key="]" line="89" column="35" />
-        <mark key="." line="89" column="35" />
-        <mark key="^" line="89" column="35" />
+      <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/equipments/EquipmentsList.spec.js" timestamp="1524584648945">
+        <mark key="'" line="85" column="6" />
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
+        <mark key="^" line="96" column="4" />
       </file>
       <file name="/JavaScript Console" timestamp="1524573434356">
         <mark key="[" line="0" column="0" />
@@ -721,13 +721,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="144" column="6" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/dashboard/children/DashboardExchangeList.spec.js" />
-      <jump line="137" column="4" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/dashboard/children/DashboardExchangeList.spec.js" />
-      <jump line="159" column="4" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/dashboard/children/DashboardExchangeList.spec.js" />
-      <jump line="171" column="6" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/dashboard/children/DashboardExchangeList.spec.js" />
-      <jump line="8" column="18" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/dashboard/children/DashboardExchangeList.spec.js" />
-      <jump line="57" column="24" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/dashboard/children/DashboardExchangeList.spec.js" />
-      <jump line="95" column="49" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/dashboard/children/DashboardExchangeList.spec.js" />
       <jump line="141" column="4" filename="$USER_HOME$/dev/part-edge/api/test/api/orders.test.js" />
       <jump line="181" column="33" filename="$USER_HOME$/dev/part-edge/api/test/api/orders.test.js" />
       <jump line="6" column="4" filename="$USER_HOME$/dev/part-edge/api/src/middlewares/validator.js" />
@@ -821,6 +814,13 @@
       <jump line="77" column="0" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/equipments/EquipmentsList.spec.js" />
       <jump line="236" column="23" filename="$USER_HOME$/dev/part-edge/client/src/components/equipments/EquipmentsList.vue" />
       <jump line="125" column="20" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/equipments/EquipmentsList.spec.js" />
+      <jump line="253" column="0" filename="$USER_HOME$/dev/part-edge/client/src/components/equipments/EquipmentsList.vue" />
+      <jump line="229" column="6" filename="$USER_HOME$/dev/part-edge/client/src/components/equipments/EquipmentsList.vue" />
+      <jump line="446" column="8" filename="$USER_HOME$/dev/part-edge/client/src/components/equipments/EquipmentsList.vue" />
+      <jump line="88" column="4" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/equipments/EquipmentsList.spec.js" />
+      <jump line="62" column="6" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/equipments/EquipmentsList.spec.js" />
+      <jump line="82" column="4" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/equipments/EquipmentsList.spec.js" />
+      <jump line="85" column="6" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/equipments/EquipmentsList.spec.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -830,8 +830,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>callArgs</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2358,7 +2358,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>callArgs</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2373,7 +2373,7 @@
         <text encoding="base64">ICBjb25zb2xlLmxvZygndG8nLCB0by5mdWxsUGF0aCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2387,22 +2387,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpdCgnc2hvdWxkIGNhbGwgdGhlIGZldGNoIG9yZGVyIGZ1bmN0aW9uIHdoZW4gY3JlYXRlZCcsIChkb25lKSA9PiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC5jYXRjaChlcnIgPT4gewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgIC50aGVuKCgpID0+IHRoaXMuZmV0Y2hFcXVpcG1lbnRzKHRoaXMub2xkRXF1aXBtZW50LnBhcnROdW1iZXIpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgZXF1aXBtZW50cyA9IHRoaXMuZmluZEVxdWlwbWVudHMoeyBwYXJ0TnVtYmVyIH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmZpbmRPcmRlcih0aGlzLiRyb3V0ZS5xdWVyeS5vcmRlcklkKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2515,10 +2515,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZXE7Cg==</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KHR5cGVvZiBFcXVpcG1lbnRzTGlzdC5jcmVhdGVkKS50by5lcXVhbCgnZnVuY3Rpb24nKTsK</text>
+        <text encoding="base64">ICAgIGl0KCdjcmVhdGVkIC0gaGFzIGEgY3JlYXRlZCBob29rJywgKCkgPT4gewoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
