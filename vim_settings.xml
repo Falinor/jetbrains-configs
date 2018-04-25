@@ -52,12 +52,12 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/permissions/src/rules.js" timestamp="1524500268717">
-        <mark key="'" line="32" column="27" />
-        <mark key="[" line="21" column="2" />
-        <mark key="]" line="21" column="26" />
-        <mark key="^" line="21" column="26" />
-        <mark key="." line="21" column="26" />
+      <file name="$USER_HOME$/dev/part-edge/permissions/src/rules.js" timestamp="1524667238130">
+        <mark key="'" line="33" column="27" />
+        <mark key="[" line="16" column="6" />
+        <mark key="]" line="17" column="5" />
+        <mark key="." line="17" column="5" />
+        <mark key="^" line="17" column="5" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/src/components/equipments/EquipmentsDetails.vue" timestamp="1524610315020">
         <mark key="[" line="41" column="34" />
@@ -505,12 +505,12 @@
         <mark key="^" line="35" column="43" />
         <mark key="." line="47" column="53" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/permissions/test/integ/operator.test.js" timestamp="1524664307302">
+      <file name="$USER_HOME$/dev/part-edge/permissions/test/integ/operator.test.js" timestamp="1524666518832">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="40" column="51" />
-        <mark key="]" line="40" column="3" />
-        <mark key="^" line="40" column="3" />
-        <mark key="." line="40" column="3" />
+        <mark key="[" line="40" column="34" />
+        <mark key="]" line="40" column="39" />
+        <mark key="^" line="40" column="39" />
+        <mark key="." line="40" column="39" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/build/webpack.dev.conf.js" timestamp="1522192202653">
         <mark key="[" line="7" column="66" />
@@ -533,9 +533,6 @@
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/part-edge/client/test/unit/index.js" timestamp="1524235708648">
-        <mark key="[" line="1" column="26" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/test/unit/.eslintrc" timestamp="1522253682275">
         <mark key="[" line="13" column="11" />
@@ -562,9 +559,6 @@
         <mark key="]" line="12" column="5" />
         <mark key="." line="12" column="5" />
         <mark key="^" line="12" column="5" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1524573434356">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/docs/responses/method-not-allowed.yaml" timestamp="1522757264609">
         <mark key="[" line="0" column="0" />
@@ -811,8 +805,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>todo</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgfSwK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2339,7 +2333,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>todo</text>
+        <text encoding="base64">dmFsaWRhdGUg</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2354,7 +2348,7 @@
         <text encoding="base64">ICBjb25zb2xlLmxvZygndG8nLCB0by5mdWxsUGF0aCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICByZXR1cm4gZGVmaW5lQWJpbGl0aWVzRm9yKHJ1bGVzKTsK</text>
+        <text encoding="base64">ICAgICAgfSwK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2368,28 +2362,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgcmV0dXJuIG5ldyBBYmlsaXR5KHJ1bGVzKTsK</text>
+        <text encoding="base64">ICAgICAgY29uZGl0aW9uczogewogICAgICAgIGNyZWF0b3JJZDogaWQsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBsZXQK</text>
+        <text encoding="base64">ICAgIHsgYWN0aW9uczogJ3NlYXJjaCcsIHN1YmplY3Q6ICdFcXVpcG1lbnRzJyB9LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gZGVmaW5lQWJpbGl0aWVzRm9yKHJ1bGVzKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmaW4K</text>
+        <text encoding="base64">CiAgcmV0dXJuIG5ldyBBYmlsaXR5KHJ1bGVzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBsZXQK</text>
       </register>
-      <register name="7" type="4">
-        <text>const user = {
-    id: 'ABC',
-    role: [
-      'PARTEDGE_USERLIST',
-      'PARTEDGE_ECHANGE_STANDARD',
-    ],
-  };</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2502,12 +2490,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA7Cg==</text>
+        <text encoding="base64">ZGVmaW4K</text>
       </register>
-      <register name="9" type="4">
-        <text>const user = {
-
-  }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
