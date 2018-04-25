@@ -99,11 +99,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/permissions/src/definitions.js" timestamp="1524501363906">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="35" column="1" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/dev/part-edge/permissions/src/definitions.js" timestamp="1524662632564">
+        <mark key="[" line="33" column="37" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="35" column="0" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/test/api/exclusions.js" timestamp="1524045894686">
         <mark key="[" line="1" column="32" />
@@ -505,11 +505,12 @@
         <mark key="^" line="35" column="43" />
         <mark key="." line="47" column="53" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/permissions/test/integ/operator.test.js" timestamp="1524501552439">
-        <mark key="[" line="21" column="53" />
-        <mark key="]" line="27" column="56" />
-        <mark key="." line="27" column="56" />
-        <mark key="^" line="27" column="56" />
+      <file name="$USER_HOME$/dev/part-edge/permissions/test/integ/operator.test.js" timestamp="1524662508338">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="31" column="2" />
+        <mark key="]" line="31" column="1" />
+        <mark key="^" line="31" column="1" />
+        <mark key="." line="31" column="1" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/build/webpack.dev.conf.js" timestamp="1522192202653">
         <mark key="[" line="7" column="66" />
@@ -701,9 +702,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="4" filename="$USER_HOME$/dev/part-edge/api/test/api/orders.test.js" />
-      <jump line="181" column="33" filename="$USER_HOME$/dev/part-edge/api/test/api/orders.test.js" />
-      <jump line="6" column="4" filename="$USER_HOME$/dev/part-edge/api/src/middlewares/validator.js" />
       <jump line="162" column="34" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/dashboard/children/DashboardExchangeList.spec.js" />
       <jump line="41" column="36" filename="$USER_HOME$/dev/part-edge/client/src/services/auth.js" />
       <jump line="13" column="12" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/services/auth.spec.js" />
@@ -801,6 +799,9 @@
       <jump line="62" column="6" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/equipments/EquipmentsList.spec.js" />
       <jump line="82" column="4" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/equipments/EquipmentsList.spec.js" />
       <jump line="85" column="6" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/equipments/EquipmentsList.spec.js" />
+      <jump line="8" column="0" filename="$USER_HOME$/dev/part-edge/permissions/test/integ/operator.test.js" />
+      <jump line="11" column="1" filename="$USER_HOME$/dev/part-edge/permissions/test/integ/operator.test.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/dev/part-edge/permissions/test/integ/operator.test.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -811,7 +812,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2LWJpbmQ6b3B0aW9ucz0ib3B0aW9ucyIK</text>
+        <text encoding="base64">ICByZXR1cm4gZGVmaW5lQWJpbGl0aWVzRm9yKHJ1bGVzKTsK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2338,7 +2339,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">J2N1c3RvbWVyJywg</text>
+        <text>defineRulesFor</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2353,7 +2354,7 @@
         <text encoding="base64">ICBjb25zb2xlLmxvZygndG8nLCB0by5mdWxsUGF0aCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2LWJpbmQ6b3B0aW9ucz0ib3B0aW9ucyIK</text>
+        <text encoding="base64">ICByZXR1cm4gZGVmaW5lQWJpbGl0aWVzRm9yKHJ1bGVzKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2367,22 +2368,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBzdGF0ZTogaW5pdFN0YXRlKCksCg==</text>
+        <text encoding="base64">CiAgcmV0dXJuIG5ldyBBYmlsaXR5KHJ1bGVzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICduZXdFcXVpcG1lbnQnLAo=</text>
+        <text encoding="base64">ICBsZXQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAuZGlzcGF0Y2goJ2ZpbmRFcXVpcG1lbnRzJywgeyBwYXJ0TnVtYmVyOiB0aGlzLm9yZGVyLm5ld0VxdWlwbWVudC5wYXJ0TnVtYmVyIH0pCg==</text>
+        <text encoding="base64">ZGVmaW4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAuZGlzcGF0Y2goJ3VwZGF0ZU9yZGVyJywgdGhpcy5vcmRlcikK</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmRpc3BhdGNoKCdjcmVhdGVPcmRlcicsIHRoaXMub3JkZXIpCg==</text>
+      <register name="7" type="4">
+        <text>const user = {
+    id: 'ABC',
+    role: [
+      'PARTEDGE_USERLIST',
+      'PARTEDGE_ECHANGE_STANDARD',
+    ],
+  };</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2495,10 +2502,12 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmRpc3BhdGNoKCdjcmVhdGVPcmRlcicsIHRoaXMub3JkZXIpCg==</text>
+        <text encoding="base64">ICA7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="9" type="4">
+        <text>const user = {
+
+  }</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
