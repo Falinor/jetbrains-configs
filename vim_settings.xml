@@ -52,11 +52,11 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/permissions/src/rules.js" timestamp="1524670627708">
-        <mark key="'" line="32" column="27" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/dev/part-edge/permissions/src/rules.js" timestamp="1524671657853">
+        <mark key="'" line="30" column="27" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/src/components/equipments/EquipmentsDetails.vue" timestamp="1524610315020">
         <mark key="[" line="41" column="34" />
@@ -418,6 +418,9 @@
         <mark key="^" line="2" column="3" />
         <mark key="." line="2" column="3" />
       </file>
+      <file name="$USER_HOME$/dev/part-edge/client/src/store/modules/auth.js" timestamp="1524671405715">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/part-edge/client/src/components/orders/initialize-sptko.vue" timestamp="1521630549549">
         <mark key="[" line="26" column="31" />
         <mark key="]" line="27" column="0" />
@@ -570,12 +573,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/store/modules/auth.spec.js" timestamp="1524579755037">
-        <mark key="'" line="25" column="6" />
-        <mark key="[" line="7" column="8" />
-        <mark key="]" line="7" column="12" />
-        <mark key="^" line="7" column="12" />
-        <mark key="." line="7" column="12" />
+      <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/store/modules/auth.spec.js" timestamp="1524676176429">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="185" column="56" />
+        <mark key="]" line="185" column="70" />
+        <mark key="^" line="185" column="70" />
+        <mark key="." line="185" column="70" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/importer/migrations/20180220163712_alter-equipments-amendments.js" timestamp="1521474798289">
         <mark key="[" line="18" column="95" />
@@ -695,8 +698,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="162" column="34" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/dashboard/children/DashboardExchangeList.spec.js" />
-      <jump line="41" column="36" filename="$USER_HOME$/dev/part-edge/client/src/services/auth.js" />
       <jump line="13" column="12" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/services/auth.spec.js" />
       <jump line="6" column="21" filename="$USER_HOME$/dev/part-edge/api/src/routes/exclusions/repository.test.js" />
       <jump line="3" column="21" filename="$USER_HOME$/dev/part-edge/api/src/routes/exclusions/repository.js" />
@@ -795,6 +796,8 @@
       <jump line="8" column="0" filename="$USER_HOME$/dev/part-edge/permissions/test/integ/operator.test.js" />
       <jump line="11" column="1" filename="$USER_HOME$/dev/part-edge/permissions/test/integ/operator.test.js" />
       <jump line="6" column="0" filename="$USER_HOME$/dev/part-edge/permissions/test/integ/operator.test.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/store/modules/auth.spec.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/client/src/store/modules/auth.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -804,8 +807,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>RESET_AUTH</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2332,7 +2335,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>update</text>
+        <text>RESET_AUTH</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2344,10 +2347,10 @@
         <text>getter</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygndG8nLCB0by5mdWxsUGF0aCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjbGVhclN0YWxlU3RhdGUucmVzdG9yZSgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">CmZ1bmN0aW9uCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2361,22 +2364,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uZGl0aW9uczogewogICAgICAgIHN0YXR1czogeyAkbmU6ICdDbG9zZWQnIH0sIC8vIENhbiBjbG9zZSBvbmx5IG5vbi1jbG9zZWQgb3JkZXJzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">Cgp0ZXN0KCdTaG91bGQgYWxsb3cgYW4gb3BlcmF0b3IgdG8gdXBkYXRlIG9yZGVycycsICh0KSA9PiB7CiAgY29uc3Qgb3BlcmF0b3IgPSBkZWZpbmVBYmlsaXRpZXNGb3IodXNlcik7CiAgdC50cnVlKG9wZXJhdG9yLmNhbigndXBkYXRlJywgJ09yZGVycycpKTsKfSk7</text>
+        <text encoding="base64">CiAgICAgIGl0KCdzaG91bGQgcmV0dXJuIGdyb3VwcyBmcm9tIHN0b3JhZ2UnLCAoKSA9PiB7CiAgICAgICAgY29uc3Qgc3RhdGUgPSB7fTsKICAgICAgICBjb25zdCBleHBlY3RlZCA9IFtdOwogICAgICAgIGNvbnN0IGdldEdyb3VwcyA9IHNpbm9uLnN0dWIoc2VydmljZSwgJ2dldEdyb3VwcycpLnJldHVybnMoZXhwZWN0ZWQpOwogICAgICAgIGNvbnN0IHJlc3VsdCA9IHN0b3JlLmdldHRlcnMuZ3JvdXBzKHN0YXRlKTsKICAgICAgICBleHBlY3QocmVzdWx0KS50by5kZWVwLmVxdWFsKGV4cGVjdGVkKTsKICAgICAgICBleHBlY3QoZ2V0R3JvdXBzKS50by5oYXZlLmJlZW4uY2FsbGVkT25jZTsKICAgICAgICBnZXRHcm91cHMucmVzdG9yZSgpOwogICAgICB9KTs=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uZGl0aW9uczogewogICAgICAgIGNyZWF0b3JJZDogaWQsCg==</text>
+        <text encoding="base64">ICAgICAgY29uZGl0aW9uczogewogICAgICAgIHN0YXR1czogeyAkbmU6ICdDbG9zZWQnIH0sIC8vIENhbiBjbG9zZSBvbmx5IG5vbi1jbG9zZWQgb3JkZXJzCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHsgYWN0aW9uczogJ3NlYXJjaCcsIHN1YmplY3Q6ICdFcXVpcG1lbnRzJyB9LAo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">Cgp0ZXN0KCdTaG91bGQgYWxsb3cgYW4gb3BlcmF0b3IgdG8gdXBkYXRlIG9yZGVycycsICh0KSA9PiB7CiAgY29uc3Qgb3BlcmF0b3IgPSBkZWZpbmVBYmlsaXRpZXNGb3IodXNlcik7CiAgdC50cnVlKG9wZXJhdG9yLmNhbigndXBkYXRlJywgJ09yZGVycycpKTsKfSk7</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICByZXR1cm4gZGVmaW5lQWJpbGl0aWVzRm9yKHJ1bGVzKTsK</text>
+        <text encoding="base64">ICAgICAgfSwK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2489,10 +2492,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgcmV0dXJuIG5ldyBBYmlsaXR5KHJ1bGVzKTsK</text>
+        <text encoding="base64">ICAgICAgY29uZGl0aW9uczogewogICAgICAgIGNyZWF0b3JJZDogaWQsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBsZXQK</text>
+        <text encoding="base64">ICAgIHsgYWN0aW9uczogJ3NlYXJjaCcsIHN1YmplY3Q6ICdFcXVpcG1lbnRzJyB9LAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
