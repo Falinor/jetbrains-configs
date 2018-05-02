@@ -33,6 +33,12 @@
         <mark key="." line="1" column="7" />
         <mark key="^" line="1" column="7" />
       </file>
+      <file name="$USER_HOME$/dev/part-edge/api/src/components/mailer/index.js" timestamp="1524845958163">
+        <mark key="[" line="52" column="39" />
+        <mark key="]" line="52" column="39" />
+        <mark key="." line="52" column="39" />
+        <mark key="^" line="52" column="39" />
+      </file>
       <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/services/exclusions.spec.js" timestamp="1524061646191">
         <mark key="[" line="5" column="43" />
         <mark key="]" line="5" column="41" />
@@ -168,9 +174,6 @@
         <mark key="." line="3" column="25" />
         <mark key="^" line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/components/equipments/EquipmentsList.vue" timestamp="1524586686178">
-        <mark key="'" line="442" column="8" />
-      </file>
       <file name="$USER_HOME$/dev/part-edge/permissions/.babelrc" timestamp="1524501277358">
         <mark key="[" line="3" column="12" />
         <mark key="]" line="3" column="18" />
@@ -211,6 +214,12 @@
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
+      </file>
+      <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/utils.js" timestamp="1524843715015">
+        <mark key="[" line="0" column="48" />
+        <mark key="]" line="2" column="47" />
+        <mark key="^" line="2" column="47" />
+        <mark key="." line="2" column="47" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/importer/migrations/20180313133012_alter-orders-validated_at.js" timestamp="1521474928339">
         <mark key="[" line="9" column="0" />
@@ -350,10 +359,12 @@
         <mark key="." line="9" column="26" />
         <mark key="^" line="9" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.js" timestamp="1524842582276">
-        <mark key="[" line="16" column="19" />
-        <mark key="]" line="16" column="19" />
-        <mark key="." line="16" column="19" />
+      <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.js" timestamp="1525246387424">
+        <mark key="'" line="170" column="16" />
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="0" />
+        <mark key="." line="127" column="0" />
+        <mark key="^" line="131" column="64" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/src/store/modules/equipments.js" timestamp="1523626261122">
         <mark key="[" line="19" column="0" />
@@ -450,9 +461,6 @@
         <mark key="]" line="2" column="3" />
         <mark key="^" line="2" column="3" />
         <mark key="." line="2" column="3" />
-      </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/store/modules/auth.js" timestamp="1524671405715">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/src/components/orders/initialize-sptko.vue" timestamp="1521630549549">
         <mark key="[" line="26" column="31" />
@@ -558,6 +566,12 @@
         <mark key="]" line="7" column="66" />
         <mark key="^" line="7" column="66" />
         <mark key="." line="7" column="66" />
+      </file>
+      <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/documents/repository.js" timestamp="1524846702051">
+        <mark key="[" line="34" column="48" />
+        <mark key="]" line="35" column="1" />
+        <mark key="." line="35" column="1" />
+        <mark key="^" line="35" column="1" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/importer/migrations/20180315154942_alter-new-equipments.js" timestamp="1521475026969">
         <mark key="[" line="8" column="0" />
@@ -739,9 +753,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="40" filename="$USER_HOME$/dev/part-edge/client/src/store/mutation-types.js" />
-      <jump line="4" column="0" filename="$USER_HOME$/dev/part-edge/client/src/store/mutation-types.js" />
-      <jump line="10" column="14" filename="$USER_HOME$/dev/part-edge/client/src/store/index.js" />
       <jump line="5" column="12" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/DashboardAdmin.vue" />
       <jump line="23" column="19" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/DashboardAdmin.vue" />
       <jump line="16" column="14" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/DashboardAdmin.vue" />
@@ -839,6 +850,9 @@
       <jump line="289" column="61" filename="$USER_HOME$/dev/part-edge/api/test/api/orders.test.js" />
       <jump line="293" column="36" filename="$USER_HOME$/dev/part-edge/api/test/api/orders.test.js" />
       <jump line="133" column="16" filename="$USER_HOME$/dev/part-edge/api/test/api/orders.test.js" />
+      <jump line="132" column="46" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.js" />
+      <jump line="181" column="1" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.js" />
+      <jump line="170" column="16" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -848,8 +862,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>200</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvLyByZXEuYWJpbGl0eS50aHJvd1VubGVzc0NhbigndXBkYXRlJywgbmV3T3JkZXIsICdzdGF0dXMnKTsK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2376,7 +2390,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>200</text>
+        <text>body</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2391,7 +2405,7 @@
         <text encoding="base64">ICAgICAgeyB1cmw6IGZha2VyLmludGVybmV0LnVybCgpIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRvY3VtZW50OiBvcmRlcgo=</text>
+        <text encoding="base64">ICAgICAgICAvLyByZXEuYWJpbGl0eS50aHJvd1VubGVzc0NhbigndXBkYXRlJywgbmV3T3JkZXIsICdzdGF0dXMnKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2404,28 +2418,25 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>documents: [
-      { url: faker.internet.url() },
-      { url: faker.internet.url() },
-    ],</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIC8vIGNvbnN0IG5ld09yZGVyID0gewogICAgLy8gICAuLi5yZXEuYm9keSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyBSZW1vdmUgam9pbmVkIHRhYmxlcwo=</text>
+        <text encoding="base64">ICAgIC8vICAgX190eXBlOiAnT3JkZXJzJywKICAgIC8vIH07Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkZWxldGUgb3JkZXIubmV3RXF1aXBtZW50OwogIGRlbGV0ZSBvcmRlci5vbGRFcXVpcG1lbnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBVcGRhdGUgdGhlIG9yZGVyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyBSZW1vdmUgam9pbmVkIHRhYmxlcwo=</text>
+        <text encoding="base64">cwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZWxldGUgb3JkZXIubmV3RXF1aXBtZW50OwogIGRlbGV0ZSBvcmRlci5vbGRFcXVpcG1lbnQ7Cg==</text>
+        <text encoding="base64">ICAgIGF3YWl0IG9yZGVyc1JlcG9zaXRvcnkudXBkYXRlKCtyZXEucGFyYW1zLmlkLCByZXEuYm9keSk7CiAgICBsb2dnZXIuaW5mbyhgJHtyZXEudXNlci5kaXNwbGF5TmFtZX06IFRoZSBvcmRlciAjJHtyZXEucGFyYW1zLmlkfSBoYXMgYmVlbiB1cGRhdGVkYCk7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>{
-
-  }</text>
+        <text>// Update the order
+    await ordersRepository.update(+req.params.id, req.body);
+    logger.info(`${req.user.displayName}: The order #${req.params.id} has been updated`);</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2538,10 +2549,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGF3YWl0IG9yZGVyc1JlcG9zaXRvcnkudXBkYXRlKCtyZXEucGFyYW1zLmlkLCByZXEuYm9keSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICByZXR1cm4gdXBkYXRlZDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
