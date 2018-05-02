@@ -359,7 +359,7 @@
         <mark key="." line="9" column="26" />
         <mark key="^" line="9" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.js" timestamp="1525246387424">
+      <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.js" timestamp="1525249095480">
         <mark key="'" line="170" column="16" />
         <mark key="[" line="127" column="0" />
         <mark key="]" line="127" column="0" />
@@ -426,6 +426,11 @@
         <mark key="]" line="61" column="74" />
         <mark key="." line="61" column="74" />
         <mark key="^" line="61" column="74" />
+      </file>
+      <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.test.js" timestamp="1525250154596">
+        <mark key="[" line="367" column="0" />
+        <mark key="]" line="367" column="0" />
+        <mark key="." line="367" column="0" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/importer/migrations/20180214191543_alter-orders-remove-constraints.js" timestamp="1521474774495">
         <mark key="[" line="12" column="54" />
@@ -753,9 +758,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="12" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/DashboardAdmin.vue" />
-      <jump line="23" column="19" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/DashboardAdmin.vue" />
-      <jump line="16" column="14" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/DashboardAdmin.vue" />
       <jump line="8" column="16" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/DashboardAdmin.vue" />
       <jump line="11" column="75" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/DashboardAdmin.vue" />
       <jump line="9" column="26" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/DashboardAdmin.vue" />
@@ -853,6 +855,9 @@
       <jump line="132" column="46" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.js" />
       <jump line="181" column="1" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.js" />
       <jump line="170" column="16" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.js" />
+      <jump line="18" column="36" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.test.js" />
+      <jump line="349" column="3" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.test.js" />
+      <jump line="373" column="0" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.test.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -863,7 +868,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyByZXEuYWJpbGl0eS50aHJvd1VubGVzc0NhbigndXBkYXRlJywgbmV3T3JkZXIsICdzdGF0dXMnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2390,7 +2395,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>body</text>
+        <text>sendGDDAcceptedMail</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2402,10 +2407,10 @@
         <text>403</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgeyB1cmw6IGZha2VyLmludGVybmV0LnVybCgpIH0sCg==</text>
+        <text encoding="base64">ICAgIHNlbmRHRERBY2NlcHRlZE1haWw6IHNpbm9uLnNweSgpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyByZXEuYWJpbGl0eS50aHJvd1VubGVzc0NhbigndXBkYXRlJywgbmV3T3JkZXIsICdzdGF0dXMnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2418,25 +2423,23 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnN0IG5ld09yZGVyID0gewogICAgLy8gICAuLi5yZXEuYm9keSwK</text>
+      <register name="2" type="4">
+        <text encoding="base64">CmNsYXNzIFVzZXIgewogIHB1YmxpYyBVc2VyKHN0cmluZyBuYW1lKSB7CiAgICB0aGlzLm5hbWUgPSBuYW1lOwp9Cn0KCmRhdGEgY2xhc3MgVXNlcih2YWwgbmFtZTogU3RyaW5nKQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vICAgX190eXBlOiAnT3JkZXJzJywKICAgIC8vIH07Cg==</text>
+        <text encoding="base64">ICB9KSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBVcGRhdGUgdGhlIG9yZGVyCg==</text>
+        <text encoding="base64">ICAgICAgJ0V4Y2hhbmdlcy1GUi1DU0NAZnIudGhhbGVzZ3JvdXAuY29tJywKICAgIF0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cwo=</text>
+        <text encoding="base64">ICB0LnRydWUobWFpbFNlcnZpY2Uuc2VuZFNFTWFpbC5jYWxsZWRXaXRoTWF0Y2goewogICAgdG86IFsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IG9yZGVyc1JlcG9zaXRvcnkudXBkYXRlKCtyZXEucGFyYW1zLmlkLCByZXEuYm9keSk7CiAgICBsb2dnZXIuaW5mbyhgJHtyZXEudXNlci5kaXNwbGF5TmFtZX06IFRoZSBvcmRlciAjJHtyZXEucGFyYW1zLmlkfSBoYXMgYmVlbiB1cGRhdGVkYCk7Cg==</text>
+        <text encoding="base64">ICAgIHRlbXBsYXRlOiBtYWlsU2VydmljZS50ZW1wbGF0ZXMuU1BUX0tPX1NFLAo=</text>
       </register>
-      <register name="7" type="4">
-        <text>// Update the order
-    await ordersRepository.update(+req.params.id, req.body);
-    logger.info(`${req.user.displayName}: The order #${req.params.id} has been updated`);</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICB0LnRydWUoZmFrZU9yZGVyUmVwb3NpdG9yeS5maW5kQnlJZC5jYWxsZWRPbmNlV2l0aEV4YWN0bHkoK3JlcS5wYXJhbXMuaWQpKTsKICB0LnRydWUoZmFrZU9yZGVyUmVwb3NpdG9yeS51cGRhdGUuY2FsbGVkT25jZVdpdGhFeGFjdGx5KCtyZXEucGFyYW1zLmlkLCByZXEuYm9keSkpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2549,10 +2552,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IG9yZGVyc1JlcG9zaXRvcnkudXBkYXRlKCtyZXEucGFyYW1zLmlkLCByZXEuYm9keSk7Cg==</text>
+        <text encoding="base64">ICB0LnRydWUoZmFrZU9yZGVyUmVwb3NpdG9yeS5maW5kQnlJZC5jYWxsZWRPbmNlV2l0aEV4YWN0bHkoK3JlcS5wYXJhbXMuaWQpKTsKICB0LnRydWUoZmFrZU9yZGVyUmVwb3NpdG9yeS51cGRhdGUuY2FsbGVkT25jZVdpdGhFeGFjdGx5KCtyZXEucGFyYW1zLmlkLCByZXEuYm9keSkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByZXR1cm4gdXBkYXRlZDsK</text>
+        <text encoding="base64">ICAgICAgICAvLyByZXEuYWJpbGl0eS50aHJvd1VubGVzc0NhbigndXBkYXRlJywgbmV3T3JkZXIsICdzdGF0dXMnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
