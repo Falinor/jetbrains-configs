@@ -589,6 +589,13 @@
       <file name="$USER_HOME$/dev/part-edge/api/test/api/equipments.test.js" timestamp="1524841800066">
         <mark key="[" line="18" column="51" />
       </file>
+      <file name="$USER_HOME$/dev/part-edge/api/Jenkinsfile" timestamp="1525267309743">
+        <mark key="'" line="137" column="0" />
+        <mark key="[" line="13" column="42" />
+        <mark key="]" line="20" column="8" />
+        <mark key="^" line="20" column="8" />
+        <mark key="." line="20" column="8" />
+      </file>
       <file name="$USER_HOME$/dev/part-edge/client/test/unit/.eslintrc" timestamp="1522253682275">
         <mark key="[" line="13" column="11" />
         <mark key="]" line="13" column="15" />
@@ -743,12 +750,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="22" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/DashboardExchangeList.vue" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/DashboardExchangeList.vue" />
-      <jump line="28" column="9" filename="$USER_HOME$/dev/part-edge/client/src/services/exclusion.js" />
-      <jump line="0" column="9" filename="$USER_HOME$/dev/part-edge/client/src/services/exclusion.js" />
-      <jump line="12" column="38" filename="$USER_HOME$/dev/part-edge/client/src/services/exclusion.js" />
-      <jump line="18" column="3" filename="$USER_HOME$/dev/part-edge/client/src/services/exclusion.js" />
       <jump line="7" column="18" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/dashboard/DashboardAdmin.spec.js" />
       <jump line="169" column="8" filename="$USER_HOME$/dev/part-edge/client/src/App.vue" />
       <jump line="40" column="7" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/DashboardAdmin.vue" />
@@ -843,6 +844,12 @@
       <jump line="152" column="3" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.test.js" />
       <jump line="5" column="2" filename="$USER_HOME$/dev/part-edge/api/src/components/mailer/index.js" />
       <jump line="311" column="2" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.test.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/api/Jenkinsfile" />
+      <jump line="11" column="0" filename="$USER_HOME$/dev/part-edge/api/Jenkinsfile" />
+      <jump line="97" column="20" filename="$USER_HOME$/dev/part-edge/api/Jenkinsfile" />
+      <jump line="113" column="8" filename="$USER_HOME$/dev/part-edge/api/Jenkinsfile" />
+      <jump line="75" column="16" filename="$USER_HOME$/dev/part-edge/api/Jenkinsfile" />
+      <jump line="135" column="0" filename="$USER_HOME$/dev/part-edge/api/Jenkinsfile" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2389,7 +2396,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>403</text>
+        <text>withCredentials</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNlbmRTUFRLT01haWw6IHNpbm9uLnNweSgpLAo=</text>
@@ -2547,9 +2554,9 @@
       </register>
     </registers>
     <search>
-      <last-search>403</last-search>
+      <last-search>withCredentials</last-search>
       <last-offset />
-      <last-pattern>403</last-pattern>
+      <last-pattern>withCredentials</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">IGNsYXNzPSJpdGVtX19jb250ZW50Ig==</last-substitute>
       <last-dir>1</last-dir>
@@ -2557,7 +2564,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\/(?!\^)</entry>
         <entry>allow\(''\)\.allow\(null\)</entry>
         <entry encoding="base64">XDx9XD4=</entry>
         <entry>should commit a RECEIVE</entry>
@@ -2577,6 +2583,7 @@
         <entry>should set a</entry>
         <entry>getter</entry>
         <entry>403</entry>
+        <entry>withCredentials</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xeaS9n</entry>
