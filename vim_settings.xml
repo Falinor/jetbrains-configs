@@ -40,6 +40,13 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="51" column="39" />
       </file>
+      <file name="$USER_HOME$/dev/part-edge/client/README.md" timestamp="1525359337618">
+        <mark key="'" line="141" column="0" />
+        <mark key="[" line="135" column="17" />
+        <mark key="]" line="137" column="5" />
+        <mark key="." line="137" column="5" />
+        <mark key="^" line="137" column="5" />
+      </file>
       <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/services/exclusions.spec.js" timestamp="1524061646191">
         <mark key="[" line="5" column="43" />
         <mark key="]" line="5" column="41" />
@@ -501,11 +508,11 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/Jenkinsfile" timestamp="1525357176067">
-        <mark key="[" line="9" column="120" />
-        <mark key="]" line="9" column="120" />
-        <mark key="." line="9" column="120" />
-        <mark key="^" line="9" column="21" />
+      <file name="$USER_HOME$/dev/part-edge/client/Jenkinsfile" timestamp="1525359218755">
+        <mark key="[" line="10" column="2" />
+        <mark key="]" line="10" column="2" />
+        <mark key="." line="10" column="2" />
+        <mark key="^" line="10" column="4" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/middlewares/group.js" timestamp="1524746881663">
         <mark key="[" line="21" column="0" />
@@ -757,7 +764,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="18" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/dashboard/DashboardAdmin.spec.js" />
       <jump line="169" column="8" filename="$USER_HOME$/dev/part-edge/client/src/App.vue" />
       <jump line="40" column="7" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/DashboardAdmin.vue" />
       <jump line="2" column="22" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/DashboardAdmin.vue" />
@@ -857,6 +863,7 @@
       <jump line="113" column="8" filename="$USER_HOME$/dev/part-edge/api/Jenkinsfile" />
       <jump line="75" column="16" filename="$USER_HOME$/dev/part-edge/api/Jenkinsfile" />
       <jump line="135" column="0" filename="$USER_HOME$/dev/part-edge/api/Jenkinsfile" />
+      <jump line="135" column="0" filename="$USER_HOME$/dev/part-edge/client/README.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -867,7 +874,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHwganEgLXJjICIua2V5cyI=</text>
+        <text encoding="base64">eW91IA==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2394,7 +2401,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHwganEgLXJjICIua2V5cyI=</text>
+        <text encoding="base64">eW91IA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2409,9 +2416,7 @@
         <text encoding="base64">CQkgIGVudmlyb25tZW50IHsK</text>
       </register>
       <register name="1" type="4">
-        <text>environment {
-			SIGNING_KEYS=sh 'curl -sS https://login.microsoftonline.com/5a54d2ea-5ec3-4ee2-bff6-90aea34df1b0/discovery/v2.0/keys | jq -rc &quot;.keys&quot;'
-	  }</text>
+        <text encoding="base64">CnNldCBTSUdOSU5HX0tFWVM9Pw==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2425,22 +2430,24 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQllbnZpcm9ubWVudCB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IAkJICAgICcnJwo=</text>
+        <text encoding="base64">RG93bmxvYWQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkgICAgc2ggJycnCgkJCQkgIFNJR05JTkdfS0VZUz0kKGN1cmwgLXNTIGh0dHBzOi8vbG9naW4ubWljcm9zb2Z0b25saW5lLmNvbS81YTU0ZDJlYS01ZWMzLTRlZTItYmZmNi05MGFlYTM0ZGYxYjAvZGlzY292ZXJ5L3YyLjAva2V5cyB8IGpxIC1yYyAnLmtleXMnKQo=</text>
+        <text encoding="base64">YXB0LWdldCB1cGRhdGUgJiYgYXB0LWdldCBpbnN0YWxsIGpxIChzdWRvIG1pZ2h0IGJlIHJlcXVpcmVkKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCgkJCX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">IAkJICB9Cg==</text>
+      <register name="6" type="4">
+        <text>environment {
+			SIGNING_KEYS=sh 'curl -sS https://login.microsoftonline.com/5a54d2ea-5ec3-4ee2-bff6-90aea34df1b0/discovery/v2.0/keys | jq -rc &quot;.keys&quot;'
+	  }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IAkJICBlY2hvICRTSUdOSU5HCg==</text>
+        <text encoding="base64">CQllbnZpcm9ubWVudCB7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2556,7 +2563,7 @@
         <text encoding="base64">IAkJICAgICcnJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCSAgU0lHTklOR19LRVlTPSQoY3VybCAtc1MgaHR0cHM6Ly9sb2dpbi5taWNyb3NvZnRvbmxpbmUuY29tLzVhNTRkMmVhLTVlYzMtNGVlMi1iZmY2LTkwYWVhMzRkZjFiMC9kaXNjb3ZlcnkvdjIuMC9rZXlzIHwganEgLXJjICcua2V5cycpCg==</text>
+        <text encoding="base64">CQkgICAgc2ggJycnCgkJCQkgIFNJR05JTkdfS0VZUz0kKGN1cmwgLXNTIGh0dHBzOi8vbG9naW4ubWljcm9zb2Z0b25saW5lLmNvbS81YTU0ZDJlYS01ZWMzLTRlZTItYmZmNi05MGFlYTM0ZGYxYjAvZGlzY292ZXJ5L3YyLjAva2V5cyB8IGpxIC1yYyAnLmtleXMnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
