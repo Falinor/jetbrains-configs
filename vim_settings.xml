@@ -501,11 +501,11 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/Jenkinsfile" timestamp="1525355374216">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
-        <mark key="^" line="62" column="10" />
+      <file name="$USER_HOME$/dev/part-edge/client/Jenkinsfile" timestamp="1525357176067">
+        <mark key="[" line="9" column="120" />
+        <mark key="]" line="9" column="120" />
+        <mark key="." line="9" column="120" />
+        <mark key="^" line="9" column="21" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/middlewares/group.js" timestamp="1524746881663">
         <mark key="[" line="21" column="0" />
@@ -866,8 +866,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IAkJICAgICAgYXB0LWdldCBpbnN0YWxsIGpxCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHwganEgLXJjICIua2V5cyI=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2394,7 +2394,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>#! /bin/bash</text>
+        <text encoding="base64">IHwganEgLXJjICIua2V5cyI=</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2406,10 +2406,12 @@
         <text>withCredentials</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGN1c3RvbWVyTmFtZTogJ0FQSVRFU1QnLAo=</text>
+        <text encoding="base64">CQkgIGVudmlyb25tZW50IHsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">IAkJICAgICAgYXB0LWdldCBpbnN0YWxsIGpxCg==</text>
+      <register name="1" type="4">
+        <text>environment {
+			SIGNING_KEYS=sh 'curl -sS https://login.microsoftonline.com/5a54d2ea-5ec3-4ee2-bff6-90aea34df1b0/discovery/v2.0/keys | jq -rc &quot;.keys&quot;'
+	  }</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2423,22 +2425,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCUlEX1BST1ZJREVSID0gY3JlZGVudGlhbHMoJ2lkX3Byb3ZpZGVyX2RldicpCg==</text>
+        <text encoding="base64">CQllbnZpcm9ubWVudCB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IAkJICAgICAgCg==</text>
+        <text encoding="base64">IAkJICAgICcnJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCUtFWVMgPSBzaCAnY3VybCAtc1MgaHR0cHM6Ly9sb2dpbi5taWNyb3NvZnRvbmxpbmUuY29tLzVhNTRkMmVhLTVlYzMtNGVlMi1iZmY2LTkwYWVhMzRkZjFiMC9kaXNjb3ZlcnkvdjIuMC9rZXlzIHwganEgLXJjICIua2V5cyInCg==</text>
+        <text encoding="base64">CQkgICAgc2ggJycnCgkJCQkgIFNJR05JTkdfS0VZUz0kKGN1cmwgLXNTIGh0dHBzOi8vbG9naW4ubWljcm9zb2Z0b25saW5lLmNvbS81YTU0ZDJlYS01ZWMzLTRlZTItYmZmNi05MGFlYTM0ZGYxYjAvZGlzY292ZXJ5L3YyLjAva2V5cyB8IGpxIC1yYyAnLmtleXMnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IAkJICAgICAK</text>
+        <text encoding="base64">CQkJCgkJCX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">IAkJICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IAkJICBlY2hvICRTSUdOSU5HCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2551,10 +2553,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">IAkJICAgICcnJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IGNyZWF0ZUh0dHBFcnJvci4K</text>
+        <text encoding="base64">CQkJCSAgU0lHTklOR19LRVlTPSQoY3VybCAtc1MgaHR0cHM6Ly9sb2dpbi5taWNyb3NvZnRvbmxpbmUuY29tLzVhNTRkMmVhLTVlYzMtNGVlMi1iZmY2LTkwYWVhMzRkZjFiMC9kaXNjb3ZlcnkvdjIuMC9rZXlzIHwganEgLXJjICcua2V5cycpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
