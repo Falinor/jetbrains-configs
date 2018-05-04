@@ -9,6 +9,12 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/part-edge/importer/ftp/mail.js" timestamp="1525444982620">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="2" column="18" />
+        <mark key="." line="2" column="18" />
+        <mark key="^" line="2" column="18" />
+      </file>
       <file name="$USER_HOME$/dev/part-edge/permissions/package.json" timestamp="1524758281457">
         <mark key="[" line="13" column="29" />
         <mark key="]" line="13" column="43" />
@@ -326,11 +332,11 @@
         <mark key="." line="2" column="1" />
         <mark key="^" line="5" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/importer/test/unit/mail.test.js" timestamp="1525441594323">
-        <mark key="[" line="2" column="37" />
-        <mark key="]" line="2" column="37" />
-        <mark key="." line="2" column="37" />
-        <mark key="^" line="3" column="1" />
+      <file name="$USER_HOME$/dev/part-edge/importer/test/unit/mail.test.js" timestamp="1525445256717">
+        <mark key="[" line="0" column="23" />
+        <mark key="]" line="2" column="8" />
+        <mark key="." line="2" column="8" />
+        <mark key="^" line="2" column="8" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/permissions/src/user.js" timestamp="1524498600945">
         <mark key="[" line="6" column="0" />
@@ -878,8 +884,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>xemit</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnVuY3Rpb24gc2VuZE1haWxBZnRlcgo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2406,7 +2412,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>xemit</text>
+        <text>timeout</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2420,8 +2426,8 @@
       <register name="0" type="2">
         <text encoding="base64">CQkgIGVudmlyb25tZW50IHsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CnNldCBTSUdOSU5HX0tFWVM9Pw==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ZnVuY3Rpb24gc2VuZE1haWxBZnRlcgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2438,21 +2444,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">RG93bmxvYWQK</text>
+        <text encoding="base64">CnRlc3QudG9kbygnU2hvdWxkIGxhdW5jaCAnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YXB0LWdldCB1cGRhdGUgJiYgYXB0LWdldCBpbnN0YWxsIGpxIChzdWRvIG1pZ2h0IGJlIHJlcXVpcmVkKQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">CnNldFRpbWVvdXQoKCkgPT4ge30sICAK</text>
+      </register>
       <register name="6" type="4">
-        <text>environment {
-			SIGNING_KEYS=sh 'curl -sS https://login.microsoftonline.com/5a54d2ea-5ec3-4ee2-bff6-90aea34df1b0/discovery/v2.0/keys | jq -rc &quot;.keys&quot;'
-	  }</text>
+        <text encoding="base64">CnNldCBTSUdOSU5HX0tFWVM9Pw==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQllbnZpcm9ubWVudCB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2565,10 +2569,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IAkJICAgICcnJwo=</text>
+        <text encoding="base64">RG93bmxvYWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkgICAgc2ggJycnCgkJCQkgIFNJR05JTkdfS0VZUz0kKGN1cmwgLXNTIGh0dHBzOi8vbG9naW4ubWljcm9zb2Z0b25saW5lLmNvbS81YTU0ZDJlYS01ZWMzLTRlZTItYmZmNi05MGFlYTM0ZGYxYjAvZGlzY292ZXJ5L3YyLjAva2V5cyB8IGpxIC1yYyAnLmtleXMnKQo=</text>
+        <text encoding="base64">YXB0LWdldCB1cGRhdGUgJiYgYXB0LWdldCBpbnN0YWxsIGpxIChzdWRvIG1pZ2h0IGJlIHJlcXVpcmVkKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
