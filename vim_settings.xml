@@ -9,11 +9,11 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/importer/ftp/mail.js" timestamp="1525448634657">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="4" column="3" />
-        <mark key="." line="4" column="3" />
-        <mark key="^" line="4" column="3" />
+      <file name="$USER_HOME$/dev/part-edge/importer/ftp/mail.js" timestamp="1525451081176">
+        <mark key="[" line="11" column="39" />
+        <mark key="]" line="11" column="49" />
+        <mark key="." line="11" column="49" />
+        <mark key="^" line="11" column="49" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/permissions/package.json" timestamp="1524758281457">
         <mark key="[" line="13" column="29" />
@@ -422,11 +422,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/importer/ftp/server.js" timestamp="1525449149620">
-        <mark key="[" line="44" column="8" />
-        <mark key="]" line="44" column="13" />
-        <mark key="^" line="44" column="13" />
-        <mark key="." line="44" column="13" />
+      <file name="$USER_HOME$/dev/part-edge/importer/ftp/server.js" timestamp="1525450988688">
+        <mark key="[" line="44" column="31" />
+        <mark key="]" line="44" column="35" />
+        <mark key="." line="44" column="35" />
+        <mark key="^" line="44" column="35" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/importer/node_modules/ftp/lib/connection.js" timestamp="1521129849577">
         <mark key="[" line="628" column="0" />
@@ -466,6 +466,12 @@
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
         <mark key="^" line="63" column="10" />
+      </file>
+      <file name="$USER_HOME$/dev/part-edge/importer/ftp/index.js" timestamp="1525450652291">
+        <mark key="[" line="3" column="7" />
+        <mark key="]" line="3" column="43" />
+        <mark key="." line="3" column="43" />
+        <mark key="^" line="3" column="43" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/routes/equipments/validator.js" timestamp="1523885776669">
         <mark key="[" line="22" column="45" />
@@ -890,8 +896,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gc2VuZE1haWxBZnRlcgo=</text>
+      <register name="&quot;" type="4">
+        <text>cancel</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2418,7 +2424,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>timeout</text>
+        <text>cancel</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2433,7 +2439,7 @@
         <text encoding="base64">CQkgIGVudmlyb25tZW50IHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gc2VuZE1haWxBZnRlcgo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBbbmIsIHVuaXRdID0gbmV3IFJlZ0V4cCgvXihcZCspKFtzbWhdKSQvKS5leGVjKGlucHV0KS5ncm91cHM7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2447,22 +2453,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmNvbnN0IGxvZ2dlciA9IGNvbnNvbGU7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CnRlc3QudG9kbygnU2hvdWxkIGxhdW5jaCAnKQo=</text>
+        <text encoding="base64">ICAgIHRoaXMuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CnNldFRpbWVvdXQoKCkgPT4ge30sICAK</text>
+        <text encoding="base64">ZnVuY3Rpb24gc2VuZE1haWxBZnRlcgo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CnNldCBTSUdOSU5HX0tFWVM9Pw==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CnRlc3QudG9kbygnU2hvdWxkIGxhdW5jaCAnKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2575,13 +2581,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">RG93bmxvYWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YXB0LWdldCB1cGRhdGUgJiYgYXB0LWdldCBpbnN0YWxsIGpxIChzdWRvIG1pZ2h0IGJlIHJlcXVpcmVkKQo=</text>
+        <text encoding="base64">CnNldFRpbWVvdXQoKCkgPT4ge30sICAK</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2633,10 +2639,10 @@
         <entry encoding="base64">JzwsJz5zL2xvdFN0b2NrL3BhcnROdW1iZXIvZw==</entry>
         <entry encoding="base64">JzwsJz5zLyBjbGFzcz0iaXRlbV9fY29udGVudCIvL2c=</entry>
         <entry>:w</entry>
-        <entry>W</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
