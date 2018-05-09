@@ -438,12 +438,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/importer/ftp/server.js" timestamp="1525875995205">
+      <file name="$USER_HOME$/dev/part-edge/importer/ftp/server.js" timestamp="1525879528628">
         <mark key="'" line="26" column="26" />
-        <mark key="[" line="54" column="76" />
-        <mark key="]" line="54" column="76" />
-        <mark key="." line="54" column="76" />
-        <mark key="^" line="54" column="76" />
+        <mark key="[" line="56" column="9" />
+        <mark key="]" line="57" column="32" />
+        <mark key="." line="57" column="32" />
+        <mark key="^" line="57" column="32" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/importer/node_modules/ftp/lib/connection.js" timestamp="1521129849577">
         <mark key="[" line="628" column="0" />
@@ -485,11 +485,11 @@
         <mark key="." line="63" column="0" />
         <mark key="^" line="63" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/importer/ftp/index.js" timestamp="1525871222262">
-        <mark key="[" line="26" column="14" />
-        <mark key="]" line="27" column="8" />
-        <mark key="." line="27" column="8" />
-        <mark key="^" line="27" column="8" />
+      <file name="$USER_HOME$/dev/part-edge/importer/ftp/index.js" timestamp="1525879333961">
+        <mark key="[" line="17" column="6" />
+        <mark key="]" line="17" column="5" />
+        <mark key="." line="17" column="5" />
+        <mark key="^" line="17" column="5" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/routes/equipments/validator.js" timestamp="1523885776669">
         <mark key="[" line="22" column="45" />
@@ -642,7 +642,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/importer/manifest_prod.yml" timestamp="1525877784535">
+      <file name="$USER_HOME$/dev/part-edge/importer/manifest_prod.yml" timestamp="1525881035106">
         <mark key="'" line="29" column="326" />
         <mark key="[" line="10" column="8" />
         <mark key="]" line="11" column="65" />
@@ -660,19 +660,19 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/importer/ftp/citadel.js" timestamp="1525877553495">
+      <file name="$USER_HOME$/dev/part-edge/importer/ftp/citadel.js" timestamp="1525880928468">
         <mark key="'" line="20" column="21" />
         <mark key="[" line="28" column="13" />
         <mark key="]" line="28" column="14" />
         <mark key="." line="28" column="14" />
         <mark key="^" line="15" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/api/Jenkinsfile" timestamp="1525273949565">
-        <mark key="'" line="135" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="18" column="8" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/dev/part-edge/api/Jenkinsfile" timestamp="1525880862058">
+        <mark key="'" line="146" column="0" />
+        <mark key="[" line="138" column="155" />
+        <mark key="]" line="138" column="156" />
+        <mark key="^" line="138" column="156" />
+        <mark key="." line="138" column="156" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/test/unit/.eslintrc" timestamp="1522253682275">
         <mark key="[" line="13" column="11" />
@@ -949,7 +949,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>\&quot;Pipeline failed\</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2476,7 +2476,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>\&quot;Pipeline failed\</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2490,8 +2490,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgTk9ERV9FTlY6IHByb2R1Y3Rpb24KICAgICAgTk9ERV9NT0RVTEVTX0NBQ0hFOiBmYWxzZQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>'MDAyMWxvY2F0aW9uIHRoYWxlcy5jaXRhZGVsLnRlYW0KMDAxM2lkZW50aWZpZXIga2V5CjAwMTBjaWQgZ2VuID0gMQowMDNhY2lkIHVzZXJfaWQgPSBAZktMYVpDUnNya3hiekRpU0JTOnRoYWxlcy5jaXRhZGVsLnRlYW0KMDAxNmNpZCB0eXBlID0gYWNjZXNzCjAwMjFjaWQgbm9uY2UgPSBXNXRfX0xYX0RWO14rYWQ7CjAwMmZzaWduYXR1cmUghiFiXxe7Hz3md2ycOcKHHf-NIjqyYaJB2roZycDM0v</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2505,31 +2505,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgcm9vbSA9ICcjcGFydGVkZ2UtYWxlcnRzOnRoYWxlcy5jaXRhZGVsLnRlYW0nOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgcm9vbSA9IG9wdHMuCg==</text>
+        <text encoding="base64">ICBsb2dnZXIsCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="4" type="4">
+        <text>'MDAyMWxvY2F0aW9uIHRoYWxlcy5jaXRhZGVsLnRlYW0KMDAxM2lkZW50aWZpZXIga2V5CjAwMTBjaWQgZ2VuID0gMQowMDNhY2lkIHVzZXJfaWQgPSBAZktMYVpDUnNya3hiekRpU0JTOnRoYWxlcy5jaXRhZGVsLnRlYW0KMDAxNmNpZCB0eXBlID0gYWNjZXNzCjAwMjFjaWQgbm9uY2UgPSBXNXRfX0xYX0RWO14rYWQ7CjAwMmZzaWduYXR1cmUghiFiXxe7Hz3md2ycOcKHHf-NIjqyYaJB2roZycDM0v</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">Y29uc3QgbWFpbFNlcnZpY2UgPSB7CiAgICBzZW5kTWFpbEFmdGVyOiBhc3luYyAoKSA9PiB7fSwKICB9OwogIGNvbnN0IGNpdGFkZWxTZXJ2aWNlID0gewogICAgbm90aWZ5OiBhc3luYyAoKSA9PiB7fSwKICB9Ow==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgY29uc3Qgcm9vbSA9ICcjcGFydGVkZ2UtYWxlcnRzOnRoYWxlcy5jaXRhZGVsLnRlYW0nOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgY29uc3Qgcm9vbSA9IG9wdHMuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCBjb25maWcgPS0gCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHJvb21JZDogJ215Um9vbUlEJywK</text>
+      <register name="8" type="4">
+        <text encoding="base64">Y29uc3QgbWFpbFNlcnZpY2UgPSB7CiAgICBzZW5kTWFpbEFmdGVyOiBhc3luYyAoKSA9PiB7fSwKICB9OwogIGNvbnN0IGNpdGFkZWxTZXJ2aWNlID0gewogICAgbm90aWZ5OiBhc3luYyAoKSA9PiB7fSwKICB9Ow==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYE5vIGRhdGEgcmVjZWl2ZWQgc2luY2UgJHtsYXRlc3RJbXBvcnQudG9Mb2NhbGVTdHJpbmcoKX1gLCAvLyBzdWJqZWN0Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
