@@ -642,11 +642,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/importer/manifest_prod.yml" timestamp="1525868027747">
-        <mark key="[" line="10" column="8" />
-        <mark key="]" line="11" column="32" />
-        <mark key="^" line="11" column="32" />
-        <mark key="." line="11" column="32" />
+      <file name="$USER_HOME$/dev/part-edge/importer/manifest_prod.yml" timestamp="1525876795058">
+        <mark key="'" line="28" column="326" />
+        <mark key="[" line="28" column="328" />
+        <mark key="]" line="28" column="326" />
+        <mark key="^" line="28" column="326" />
+        <mark key="." line="28" column="326" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/docs/paths/order.yaml" timestamp="1523544034517">
         <mark key="[" line="27" column="27" />
@@ -838,7 +839,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="446" column="8" filename="$USER_HOME$/dev/part-edge/client/src/components/equipments/EquipmentsList.vue" />
       <jump line="88" column="4" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/equipments/EquipmentsList.spec.js" />
       <jump line="62" column="6" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/equipments/EquipmentsList.spec.js" />
       <jump line="82" column="4" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/equipments/EquipmentsList.spec.js" />
@@ -938,6 +938,7 @@
       <jump line="91" column="6" filename="$USER_HOME$/dev/part-edge/importer/ftp/server.js" />
       <jump line="12" column="4" filename="$USER_HOME$/dev/part-edge/importer/ftp/server.js" />
       <jump line="26" column="26" filename="$USER_HOME$/dev/part-edge/importer/ftp/server.js" />
+      <jump line="28" column="326" filename="$USER_HOME$/dev/part-edge/importer/manifest_prod.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -948,7 +949,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IG9uICR7dGhpcy5jb25maWcuYXBwTmFtZX1g</text>
+        <text>M</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2475,7 +2476,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG9uICR7dGhpcy5jb25maWcuYXBwTmFtZX1g</text>
+        <text>M</text>
       </register>
       <register name="m" type="4">
         <keys>
