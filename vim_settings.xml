@@ -9,12 +9,12 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/importer/ftp/mail.js" timestamp="1525856133438">
+      <file name="$USER_HOME$/dev/part-edge/importer/ftp/mail.js" timestamp="1525857958044">
         <mark key="k" line="45" column="18" />
-        <mark key="[" line="18" column="21" />
-        <mark key="]" line="18" column="25" />
-        <mark key="." line="18" column="25" />
-        <mark key="^" line="18" column="25" />
+        <mark key="[" line="18" column="25" />
+        <mark key="]" line="18" column="28" />
+        <mark key="." line="18" column="28" />
+        <mark key="^" line="18" column="28" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/permissions/package.json" timestamp="1524758281457">
         <mark key="[" line="13" column="29" />
@@ -59,6 +59,12 @@
         <mark key="]" line="5" column="41" />
         <mark key="^" line="5" column="41" />
         <mark key="." line="5" column="41" />
+      </file>
+      <file name="$USER_HOME$/dev/part-edge/importer/test/unit/citadel.test.js" timestamp="1525858966133">
+        <mark key="[" line="14" column="62" />
+        <mark key="]" line="16" column="32" />
+        <mark key="^" line="16" column="32" />
+        <mark key="." line="16" column="32" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/src/components/orders/OrdersStatus.vue" timestamp="1524578770760">
         <mark key="'" line="0" column="0" />
@@ -202,12 +208,12 @@
         <mark key="^" line="2" column="47" />
         <mark key="." line="2" column="47" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/importer/ftp/config.js" timestamp="1525855744246">
+      <file name="$USER_HOME$/dev/part-edge/importer/ftp/config.js" timestamp="1525858037172">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="81" column="12" />
-        <mark key="]" line="81" column="12" />
-        <mark key="." line="81" column="12" />
-        <mark key="^" line="10" column="36" />
+        <mark key="[" line="82" column="25" />
+        <mark key="]" line="82" column="28" />
+        <mark key="." line="82" column="28" />
+        <mark key="^" line="82" column="28" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/ansible-ci/roles/yarn/tasks/main.yml" timestamp="1522080322745">
         <mark key="[" line="11" column="20" />
@@ -501,6 +507,12 @@
         <mark key="." line="14" column="31" />
         <mark key="^" line="1" column="31" />
       </file>
+      <file name="$USER_HOME$/dev/part-edge/importer/ftp/citadel.js" timestamp="1525859348735">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="3" column="5" />
+        <mark key="." line="3" column="5" />
+        <mark key="^" line="3" column="5" />
+      </file>
       <file name="$USER_HOME$/dev/part-edge/api/Jenkinsfile" timestamp="1525273949565">
         <mark key="'" line="135" column="0" />
         <mark key="[" line="12" column="0" />
@@ -641,9 +653,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="1" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/DashboardAdminCards.vue" />
-      <jump line="31" column="4" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/DashboardAdmin.vue" />
-      <jump line="38" column="48" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/DashboardAdmin.vue" />
       <jump line="15" column="23" filename="$USER_HOME$/dev/part-edge/permissions/src/definitions.js" />
       <jump line="18" column="2" filename="$USER_HOME$/dev/part-edge/permissions/src/definitions.js" />
       <jump line="17" column="1" filename="$USER_HOME$/dev/part-edge/permissions/src/rules.js" />
@@ -741,6 +750,9 @@
       <jump line="89" column="0" filename="$USER_HOME$/dev/part-edge/importer/ftp/config.js" />
       <jump line="30" column="6" filename="$USER_HOME$/dev/part-edge/importer/ftp/config.js" />
       <jump line="3" column="0" filename="$USER_HOME$/dev/part-edge/importer/ftp/config.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/dev/part-edge/importer/ftp/citadel.js" />
+      <jump line="4" column="4" filename="$USER_HOME$/dev/part-edge/importer/ftp/citadel.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/importer/ftp/citadel.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -750,8 +762,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkgIE1BSUxfSVNfRU5BQkxFRCA9IGZhbHNlCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">b3B0cyA=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2278,7 +2290,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text encoding="base64">b3B0cyA=</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2293,7 +2305,7 @@
         <text>/^[0-9]+(?=m)$/</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkgIE1BSUxfSVNfRU5BQkxFRCA9IGZhbHNlCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2307,37 +2319,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkgIE1BSUxfwqcK</text>
+        <text encoding="base64">Y2xhc3MgQ2l0YWRlbFNlcnZpY2UgewogIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaXNFbmFibGVkID0gY29uZmlnLmlzRW5hYmxlZDsK</text>
+        <text encoding="base64">Owo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSBvcHRzID0+IHsKICByZXR1cm4gewogICAgbm90aWZ5KCkgewogICAgICAKICAgIH0KICB9Cn0=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMubG9nZ2VyLndhcm4obXNnKTsKICAgICAgICAgIHRoaXMubG9nZ2VyLmluZm8oJ01haWwgc2VudC4nKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxldCBtc2cgPSAnTm8gZGF0YSByZWNlaXZlZCc7CiAgICAgICAgICBtc2cgKz0gbGF0ZXN0SW1wb3J0ID8gYCBzaW5jZSAke2xhdGVzdEltcG9ydC50b0xvY2FsZVN0cmluZygpfS5gIDogJy4nOwo=</text>
+        <text encoding="base64">ICBzZW5kTWVzc2FnZSgpIHsKICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG9wdHMgPSAKICAgICAgcHsK</text>
+        <text encoding="base64">ICBpZiAob3B0cy5hcGlLZXkpIHsKICAgIAo=</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-      from: defaultOptions.from,
-      to: defaultOptions.to,
-      priority: defaultOptions.priority,
-      subject: subject || defaultOptions.subject,
-      text: latestImport ? `You are receiving this email because the PartEdge FTP has not received any data since ${latestImport}` : defaultOptions.text,
-    }</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
