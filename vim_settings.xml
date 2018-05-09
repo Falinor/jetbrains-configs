@@ -438,8 +438,8 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/importer/ftp/server.js" timestamp="1525871760653">
-        <mark key="'" line="87" column="66" />
+      <file name="$USER_HOME$/dev/part-edge/importer/ftp/server.js" timestamp="1525873851835">
+        <mark key="'" line="26" column="26" />
         <mark key="[" line="54" column="41" />
         <mark key="]" line="54" column="47" />
         <mark key="^" line="54" column="47" />
@@ -461,11 +461,12 @@
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/importer/test/e2e/index.test.js" timestamp="1523458037359">
-        <mark key="[" line="61" column="58" />
-        <mark key="]" line="61" column="74" />
-        <mark key="." line="61" column="74" />
-        <mark key="^" line="61" column="74" />
+      <file name="$USER_HOME$/dev/part-edge/importer/test/e2e/index.test.js" timestamp="1525873833973">
+        <mark key="'" line="62" column="31" />
+        <mark key="[" line="31" column="7" />
+        <mark key="]" line="33" column="15" />
+        <mark key="." line="33" column="15" />
+        <mark key="^" line="33" column="15" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.test.js" timestamp="1525252836623">
         <mark key="[" line="51" column="0" />
@@ -837,9 +838,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="20" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/equipments/EquipmentsList.spec.js" />
-      <jump line="253" column="0" filename="$USER_HOME$/dev/part-edge/client/src/components/equipments/EquipmentsList.vue" />
-      <jump line="229" column="6" filename="$USER_HOME$/dev/part-edge/client/src/components/equipments/EquipmentsList.vue" />
       <jump line="446" column="8" filename="$USER_HOME$/dev/part-edge/client/src/components/equipments/EquipmentsList.vue" />
       <jump line="88" column="4" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/equipments/EquipmentsList.spec.js" />
       <jump line="62" column="6" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/equipments/EquipmentsList.spec.js" />
@@ -926,8 +924,6 @@
       <jump line="6" column="24" filename="$USER_HOME$/dev/part-edge/importer/test/unit/citadel.test.js" />
       <jump line="22" column="31" filename="$USER_HOME$/dev/part-edge/importer/test/unit/mail.test.js" />
       <jump line="90" column="26" filename="$USER_HOME$/dev/part-edge/importer/ftp/server.js" />
-      <jump line="91" column="36" filename="$USER_HOME$/dev/part-edge/importer/ftp/server.js" />
-      <jump line="12" column="12" filename="$USER_HOME$/dev/part-edge/importer/ftp/server.js" />
       <jump line="15" column="22" filename="$USER_HOME$/dev/part-edge/importer/ftp/server.js" />
       <jump line="25" column="14" filename="$USER_HOME$/dev/part-edge/importer/ftp/server.js" />
       <jump line="86" column="10" filename="$USER_HOME$/dev/part-edge/importer/ftp/server.js" />
@@ -937,6 +933,11 @@
       <jump line="7" column="26" filename="$USER_HOME$/dev/part-edge/importer/test/unit/server.test.js" />
       <jump line="20" column="21" filename="$USER_HOME$/dev/part-edge/importer/ftp/citadel.js" />
       <jump line="30" column="9" filename="$USER_HOME$/dev/part-edge/importer/test/unit/citadel.test.js" />
+      <jump line="54" column="31" filename="$USER_HOME$/dev/part-edge/importer/test/e2e/index.test.js" />
+      <jump line="87" column="26" filename="$USER_HOME$/dev/part-edge/importer/ftp/server.js" />
+      <jump line="91" column="6" filename="$USER_HOME$/dev/part-edge/importer/ftp/server.js" />
+      <jump line="12" column="4" filename="$USER_HOME$/dev/part-edge/importer/ftp/server.js" />
+      <jump line="26" column="26" filename="$USER_HOME$/dev/part-edge/importer/ftp/server.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -947,7 +948,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>content</text>
+        <text encoding="base64">Y29uc3QgbWFpbFNlcnZpY2UgPSB7CiAgICBzZW5kTWFpbEFmdGVyOiBhc3luYyAoKSA9PiB7fSwKICB9OwogIGNvbnN0IGNpdGFkZWxTZXJ2aWNlID0gewogICAgbm90aWZ5OiBhc3luYyAoKSA9PiB7fSwKICB9Ow==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2474,7 +2475,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>content</text>
+        <text>create</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2483,13 +2484,13 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>knex</text>
+        <text>citadelService</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgTk9ERV9FTlY6IHByb2R1Y3Rpb24KICAgICAgTk9ERV9NT0RVTEVTX0NBQ0hFOiBmYWxzZQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHJvb21JZDogJ215Um9vbUlEJywK</text>
+      <register name="1" type="4">
+        <text encoding="base64">Y29uc3QgbWFpbFNlcnZpY2UgPSB7CiAgICBzZW5kTWFpbEFmdGVyOiBhc3luYyAoKSA9PiB7fSwKICB9OwogIGNvbnN0IGNpdGFkZWxTZXJ2aWNlID0gewogICAgbm90aWZ5OiBhc3luYyAoKSA9PiB7fSwKICB9Ow==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2503,40 +2504,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYE5vIGRhdGEgcmVjZWl2ZWQgc2luY2UgJHtsYXRlc3RJbXBvcnQudG9Mb2NhbGVTdHJpbmcoKX1gLCAvLyBzdWJqZWN0Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGBObyBkYXRhIHJlY2VpdmVkIHNpbmNlICR7bGF0ZXN0SW1wb3J0LnRvTG9jYWxlU3RyaW5nKCl9YCwgLy8gc3ViamVjdAo=</text>
+        <text encoding="base64">ICBjb25zdCBjb25maWcgPS0gCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJvZHk6IGBObyBkYXRhIHJlY2VpdmVkIGZvciBhIHdoaWxlIGZyb20gJHtvcHRzLmFwcE5hbWV9IWAsCg==</text>
+        <text encoding="base64">ICAgIHJvb21JZDogJ215Um9vbUlEJywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhd2FpdCB0aGlzLmNpdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYE5vIGRhdGEgcmVjZWl2ZWQgc2luY2UgJHtsYXRlc3RJbXBvcnQudG9Mb2NhbGVTdHJpbmcoKX1gLCAvLyBzdWJqZWN0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG51bGwsIGxvZ2dlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGBObyBkYXRhIHJlY2VpdmVkIHNpbmNlICR7bGF0ZXN0SW1wb3J0LnRvTG9jYWxlU3RyaW5nKCl9YCwgLy8gc3ViamVjdAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHsgZnRwUm9vdDogJ34nIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGJvZHk6IGBObyBkYXRhIHJlY2VpdmVkIGZvciBhIHdoaWxlIGZyb20gJHtvcHRzLmFwcE5hbWV9IWAsCg==</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvKioKICAgKgo=</text>
+        <text encoding="base64">ICAgICAgICBhd2FpdCB0aGlzLmNpdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0gY29uZmlnCiAgICovCg==</text>
+        <text encoding="base64">ICAgIG51bGwsIGxvZ2dlcik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>knex</last-search>
+      <last-search>citadelService</last-search>
       <last-offset />
-      <last-pattern>knex</last-pattern>
+      <last-pattern>citadelService</last-pattern>
       <last-replace>db</last-replace>
       <last-substitute>knex</last-substitute>
       <last-dir>1</last-dir>
@@ -2544,7 +2545,6 @@
     </search>
     <history>
       <history-search>
-        <entry>logInSIle</entry>
         <entry>logInSilently</entry>
         <entry>&quot;</entry>
         <entry>lotStock</entry>
@@ -2564,6 +2564,7 @@
         <entry>SMTP</entry>
         <entry>service</entry>
         <entry>knex</entry>
+        <entry>citadelService</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1wvKD8hXF4pL1wkXC8vZw==</entry>
