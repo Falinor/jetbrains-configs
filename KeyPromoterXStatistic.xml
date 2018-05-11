@@ -33,6 +33,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Emoji &amp; Symbols">
+        <Item>
+          <IdeaActionID>EmojiAndSymbols</IdeaActionID>
+          <ShortCut>'⌃⌘Space'</ShortCut>
+          <Description>Emoji &amp; Symbols</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Find">
         <Item>
           <IdeaActionID>ActivateFindToolWindow</IdeaActionID>
@@ -206,7 +214,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Vim Emulator">
