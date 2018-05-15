@@ -31,11 +31,11 @@
         <mark key="." line="87" column="70" />
         <mark key="^" line="87" column="70" />
       </file>
-      <file name="$USER_HOME$/dev/factory-cup/api/package.json" timestamp="1526378042528">
-        <mark key="[" line="17" column="3" />
-        <mark key="]" line="17" column="3" />
-        <mark key="." line="17" column="3" />
-        <mark key="^" line="17" column="3" />
+      <file name="$USER_HOME$/dev/factory-cup/api/package.json" timestamp="1526386200466">
+        <mark key="[" line="20" column="29" />
+        <mark key="]" line="20" column="28" />
+        <mark key="." line="20" column="28" />
+        <mark key="^" line="20" column="28" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/importer/ftp/config.js" timestamp="1525870970657">
         <mark key="'" line="3" column="0" />
@@ -57,10 +57,10 @@
         <mark key="^" line="11" column="65" />
         <mark key="." line="11" column="65" />
       </file>
-      <file name="$USER_HOME$/dev/factory-cup/api/src/index.js" timestamp="1526377358699">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/dev/factory-cup/api/src/index.js" timestamp="1526386174219">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/components/mailer/index.js" timestamp="1525251980134">
         <mark key="'" line="5" column="2" />
@@ -141,6 +141,13 @@
         <mark key="^" line="205" column="70" />
         <mark key="." line="205" column="70" />
       </file>
+      <file name="$USER_HOME$/dev/factory-cup/api/.gitignore" timestamp="1526385200550">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="1" column="13" />
+        <mark key="^" line="1" column="13" />
+        <mark key="." line="1" column="13" />
+      </file>
       <file name="$USER_HOME$/dev/part-edge/importer/test/unit/mail.test.js" timestamp="1526027762255">
         <mark key="'" line="23" column="31" />
         <mark key="[" line="7" column="0" />
@@ -160,6 +167,12 @@
         <mark key="]" line="91" column="0" />
         <mark key="^" line="91" column="0" />
         <mark key="." line="91" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/factory-cup/api/.babelrc" timestamp="1526385636835">
+        <mark key="[" line="8" column="7" />
+        <mark key="]" line="8" column="13" />
+        <mark key="." line="8" column="13" />
+        <mark key="^" line="8" column="13" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/test/e2e/nightwatch.conf.js" timestamp="1526032607311">
         <mark key="[" line="43" column="0" />
@@ -194,7 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/store/modules/auth.spec.js" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/client/src/store/modules/auth.js" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/permissions/.gitignore" />
       <jump line="44" column="0" filename="$USER_HOME$/dev/part-edge/permissions/.gitignore" />
@@ -294,6 +306,7 @@
       <jump line="0" column="23" filename="$USER_HOME$/dev/part-edge/importer/README.md" />
       <jump line="2" column="5" filename="$USER_HOME$/dev/factory-cup/api/test/index.test.js" />
       <jump line="0" column="22" filename="$USER_HOME$/dev/factory-cup/api/test/index.test.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/factory-cup/api/.gitignore" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -304,7 +317,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGZzIGZyb20gJ2ZzJzsKCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1831,7 +1844,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>wabbbb</text>
+        <text>plugins</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1846,7 +1859,7 @@
         <text encoding="base64">dGVzdC5vbmx5KCdub3RpZnkgLSBTaG91bGQgbm90aWZ5IGEgY2l0YWRlbCByb29tJywgYXN5bmMgKHQpID0+IHsKICAvLyBHaXZlbgogIGNvbnN0IHB1dCA9IHNpbm9uLnN0dWIoZ290LCAncHV0Jyk7CiAgY29uc3QgeyBjaXRhZGVsU2VydmljZSB9ID0gdC5jb250ZXh0OwogIC8vIFdoZW4KICBjb25zdCBwcm9taXNlID0gY2l0YWRlbFNlcnZpY2Uubm90aWZ5KCdUaGVyZSBpcyBhIHByb2JsZW0uJyk7CiAgLy8gVGhlbgogIGF3YWl0IHQubm90VGhyb3dzKHByb21pc2UpOwogIC8vIEFmdGVyCiAgcHV0LnJlc3RvcmUoKTsKfSk7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGZzIGZyb20gJ2ZzJzsKCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1863,31 +1876,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICJjbGVhbiI6ICIiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJzdGFydCI6ICJkZCIK</text>
+        <text encoding="base64">ICAgICJidWlsZCI6ICJiYWJlbCAiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZW5kU2Vzc2lvbk9uRmFpbDogdHJ1ZSwK</text>
+        <text encoding="base64">ICAgICJidWlsZCI6IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsYXVuY2hVUkw6IGBodHRwOi8vbG9jYWxob3N0OiR7Y29uZmlnLmUyZS5wb3J0fWAsCg==</text>
+        <text encoding="base64">ICAgIFsibWluaWZ5Il0K</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIFsibWluaWZ5Il0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YG5wLG0gcnVuCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -1941,8 +1954,8 @@
         <entry encoding="base64">JzwsJz5zL2tuZXgvZGIvZw==</entry>
         <entry>q</entry>
         <entry>W</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
