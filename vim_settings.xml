@@ -53,11 +53,6 @@
         <mark key="." line="137" column="5" />
         <mark key="^" line="137" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/test/e2e/runner.js" timestamp="1526032656983">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/part-edge/importer/test/unit/citadel.test.js" timestamp="1526027715933">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="21" column="4" />
@@ -92,10 +87,23 @@
         <mark key="^" line="4" column="74" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/factory-cup/api/src/citadel.js" timestamp="1526461639796">
+        <mark key="'" line="8" column="9" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="35" column="2" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/factory-cup/api/docker-compose.yml" timestamp="1526402784085">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/factory-cup/api/test/citadel.test.js" timestamp="1526461676461">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="2" column="6" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/factory-cup/api/.eslintrc" timestamp="1526396098968">
         <mark key="[" line="8" column="21" />
@@ -121,11 +129,6 @@
         <mark key="]" line="8" column="13" />
         <mark key="." line="8" column="13" />
         <mark key="^" line="8" column="13" />
-      </file>
-      <file name="$USER_HOME$/dev/part-edge/client/test/e2e/nightwatch.conf.js" timestamp="1526032607311">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/permissions/test/integ/operator.test.js" timestamp="1524735100268">
         <mark key="'" line="6" column="0" />
@@ -258,12 +261,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="43" filename="$USER_HOME$/dev/part-edge/api/test/api/data.js" />
-      <jump line="106" column="36" filename="$USER_HOME$/dev/part-edge/api/test/api/data.js" />
-      <jump line="133" column="1" filename="$USER_HOME$/dev/part-edge/api/test/api/data.js" />
-      <jump line="289" column="61" filename="$USER_HOME$/dev/part-edge/api/test/api/orders.test.js" />
-      <jump line="293" column="36" filename="$USER_HOME$/dev/part-edge/api/test/api/orders.test.js" />
-      <jump line="133" column="16" filename="$USER_HOME$/dev/part-edge/api/test/api/orders.test.js" />
       <jump line="132" column="46" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.js" />
       <jump line="181" column="1" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.js" />
       <jump line="170" column="16" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.js" />
@@ -358,6 +355,12 @@
       <jump line="6" column="1" filename="$USER_HOME$/dev/factory-cup/api/scripts/init.sql" />
       <jump line="8" column="20" filename="$USER_HOME$/dev/factory-cup/api/scripts/init.sql" />
       <jump line="12" column="28" filename="$USER_HOME$/dev/factory-cup/api/scripts/init.sql" />
+      <jump line="35" column="2" filename="$USER_HOME$/dev/factory-cup/api/src/citadel.js" />
+      <jump line="2" column="7" filename="$USER_HOME$/dev/factory-cup/api/src/citadel.js" />
+      <jump line="7" column="2" filename="$USER_HOME$/dev/factory-cup/api/src/citadel.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/dev/factory-cup/api/src/citadel.js" />
+      <jump line="37" column="2" filename="$USER_HOME$/dev/factory-cup/api/src/citadel.js" />
+      <jump line="8" column="9" filename="$USER_HOME$/dev/factory-cup/api/src/citadel.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -368,7 +371,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CjxDVFJMLUQ+IG9yIHR5cGUgYGV4aXRgIGFuZCBwcmVzcyBlbnRlci4K</text>
+        <text encoding="base64">aW1wb3J0IHRlc3QgZnJvbSAnYXZhJzsK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1895,7 +1898,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>dump</text>
+        <text encoding="base64">ZXhwb3J0IA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1910,7 +1913,7 @@
         <text encoding="base64">ICBGT1JFSUdOIEtFWSAoY2hhbGxlbmdlSWQpIFJFRkVSRU5DRVMgQ2hhbGxlbmdlcyhpZCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CjxDVFJMLUQ+IG9yIHR5cGUgYGV4aXRgIGFuZCBwcmVzcyBlbnRlci4K</text>
+        <text encoding="base64">aW1wb3J0IHRlc3QgZnJvbSAnYXZhJzsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1924,31 +1927,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZG9ja2VyIGV4ZWMgLWl0IGZhY3RvcnktY3VwLWRiIC9iaW4vYmFzaApteXNxbCAtdSB0ZXN0IC1wIHRlc3QgPCAvdG1wL2luaXQuc3FsCg==</text>
+        <text encoding="base64">CmltcG9ydCAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZG9ja2VyIGV4ZWMgLWl0IGZhY3RvcnktY3VwLWRiIC9iaW4vYmFzaApteXNxbCAtdSB0ZXN0IC1wIHRlc3QgPCAvdG1wL2luaXQuc3FsCg==</text>
+        <text encoding="base64">Y29uc3Qgbm90aWZ5ID0gYXN5bmMgKG9wdHMsIGxvZ2dlciA9IGNvbnNvbGUpID0+IHt9OwoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZvbHVtZXM6CiAgICAgIC0gLi9zY3JpcHRzL2luaXQuc3FsOi90bXAvaW5pdC5zcWwK</text>
+        <text encoding="base64">ICAobW9kdWxlLmV4cG9ydHMgPSAob3B0cywgbG9nZ2VyID0gY29uc29sZSkgPT4gewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CklOU0VSVCBJTlRPIENoYWxsZW5nZXMK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PENUUkwtRD4gb3IgdHlwZSBleGl0Cg==</text>
+        <text encoding="base64">ICBpZiAob3B0cy5pc0VuYWJsZWQgJiYgIW9wdHMuYXBpS2V5KSB7CiAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBQUklNQVJZIEtFWSAoaWQpLAo=</text>
+        <text encoding="base64">Y29uc3Qgb3B0cyAK</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBQUklNQVJZIEtFWSBUZWFtcyhpZCkK</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBQUklNQVJZIEtFWSBDaGFsbGVuZ2VzKGlkKQo=</text>
+        <text encoding="base64">Y29uc3QgZ290ID0gcmVxdWlyZSgnZ290Jyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
