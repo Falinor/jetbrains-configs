@@ -23,9 +23,6 @@
         <mark key="." line="26" column="26" />
         <mark key="^" line="26" column="26" />
       </file>
-      <file name="/a.dummy" timestamp="1526392539613">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/factory-cup/api/src/app.js" timestamp="1526480100130">
         <mark key="'" line="3" column="26" />
         <mark key="[" line="1" column="0" />
@@ -53,10 +50,22 @@
         <mark key="." line="137" column="5" />
         <mark key="^" line="137" column="5" />
       </file>
+      <file name="$USER_HOME$/dev/factory-cup/client/src/components/ChallengesTab.js" timestamp="1526487883298">
+        <mark key="[" line="18" column="3" />
+        <mark key="]" line="19" column="1" />
+        <mark key="." line="19" column="1" />
+        <mark key="^" line="19" column="1" />
+      </file>
       <file name="$USER_HOME$/dev/part-edge/client/test/e2e/runner.js" timestamp="1526032656983">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/factory-cup/client/package.json" timestamp="1526486009659">
+        <mark key="[" line="1" column="12" />
+        <mark key="]" line="1" column="28" />
+        <mark key="." line="1" column="28" />
+        <mark key="^" line="1" column="28" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/importer/test/unit/citadel.test.js" timestamp="1526027715933">
         <mark key="'" line="21" column="0" />
@@ -137,12 +146,6 @@
         <mark key="^" line="91" column="0" />
         <mark key="." line="91" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/factory-cup/api/.babelrc" timestamp="1526385636835">
-        <mark key="[" line="8" column="7" />
-        <mark key="]" line="8" column="13" />
-        <mark key="." line="8" column="13" />
-        <mark key="^" line="8" column="13" />
-      </file>
       <file name="$USER_HOME$/dev/part-edge/client/test/e2e/nightwatch.conf.js" timestamp="1526032607311">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
@@ -201,6 +204,7 @@
         <mark key="]" line="141" column="42" />
         <mark key="." line="141" column="42" />
       </file>
+      <file name="$USER_HOME$/dev/factory-cup/client/.vcmrc" timestamp="1526485726294" />
       <file name="$USER_HOME$/dev/part-edge/importer/Jenkinsfile" timestamp="1526027903597">
         <mark key="[" line="121" column="65" />
         <mark key="]" line="121" column="65" />
@@ -396,8 +400,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>implement</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1924,7 +1928,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>implement</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1939,7 +1943,7 @@
         <text encoding="base64">VkFMVUVTIChVVUlEKCksICdUaGUgd29yc3QgdC1zaGlydCcsIE5VTEwsICdTVUJNSVRUSU5HJyksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGV2ZW50LnByZXZlbnREZWZhdWx0KCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1952,35 +1956,32 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CnRlc3Quc2VyaWFsKAogICdnZXRMYXRlc3RNZXNzYWdlIC0gU2hvdWxkIGdldCB0aGUgbGF0ZXN0IG1lc3NhZ2UgaW4gYSBDaXRhZGVsIHJvb20nLAogIGFzeW5jIHQgPT4gewogICAgLy8gR2l2ZW4KICAgIGNvbnN0IHsgY2l0YWRlbFNlcnZpY2UgfSA9IHQuY29udGV4dDsKICAgIC8vIFdoZW4KICAgIGNvbnN0IG1lc3NhZ2UgPSBhd2FpdCBjaXRhZGVsU2VydmljZS5nZXRMYXRlc3RNZXNzYWdlKCk7CiAgICAvLyBUaGVuCiAgICB0LmlzKHR5cGVvZiBtZXNzYWdlLCAnb2JqZWN0Jyk7CiAgfSwKKTs=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHRoaXMucHJldmVudERlZmF1bHQoZXZlbnQpOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICBhc3luYyBnZXRMYXRlc3RNZXNzYWdlKCkgewogICAgICBpZiAoIW9wdHMuaXNFbmFibGVkKSB7CiAgICAgICAgbG9nZ2VyLndhcm4oJ1RoZSBjaXRhZGVsIHNlcnZpY2UgaXMgb2ZmLicpOwogICAgICAgIHJldHVybjsKICAgICAgfQogICAgICBjb25zdCB7IHJvb20gfSA9IG9wdHM7CiAgICAgIGNvbnN0IHVybCA9IGAke2Jhc2VVcmx9L3Jvb21zLyR7cm9vbX0vc2VuZGA7CiAgICAgIHJldHVybiB7CiAgICAgICAgY29udGVudDogJ2NvbnRlbnQnLAogICAgICB9OwogICAgfSw=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIChVVUlEKCksICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>type Team {
-    id: String!
-    name: String!
-  }</text>
+        <text encoding="base64">PENhcmRBY3Rpb25zPgogICAgICAgICAgICAgICAgICAgICAgICA8UmFpc2VkQnV0dG9uIGxhYmVsPSJTZXQgdG8gb25nb2luZyIgcHJpbWFyeT17dHJ1ZX0gc3R5bGU9e3sgbWFyZ2luOiAxMiB9fSAvPgogICAgICAgICAgICAgICAgICAgICAgPC9DYXJkQWN0aW9ucz4=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCkK</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB0eXBlIFN0YXR1cwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgfSBmcm9tICdncmFwaHFsJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2019,7 +2020,6 @@
         <entry>&quot;</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL1wvKD8hXF4pL1wkXC8vZw==</entry>
         <entry encoding="base64">JzwsJz5zL2FsbG93XCgnJ1wpXC5hbGxvd1wobnVsbFwpL2FsbG93XChudWxsLCAnJ1wpL2c=</entry>
         <entry>qall</entry>
         <entry>qo</entry>
@@ -2038,6 +2038,7 @@
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>q</entry>
+        <entry>qw</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
