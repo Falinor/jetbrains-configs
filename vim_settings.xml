@@ -44,11 +44,11 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="51" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/factory-cup/client/src/screens/Challenges.js" timestamp="1526560756716">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="23" />
+      <file name="$USER_HOME$/dev/factory-cup/client/src/screens/Challenges.js" timestamp="1526568070977">
+        <mark key="[" line="19" column="42" />
+        <mark key="]" line="19" column="61" />
+        <mark key="^" line="19" column="61" />
+        <mark key="." line="19" column="61" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/README.md" timestamp="1525359337618">
         <mark key="'" line="141" column="0" />
@@ -57,11 +57,12 @@
         <mark key="." line="137" column="5" />
         <mark key="^" line="137" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/factory-cup/client/src/components/ChallengesTab.js" timestamp="1526567123494">
-        <mark key="[" line="40" column="75" />
-        <mark key="]" line="41" column="55" />
-        <mark key="." line="41" column="55" />
-        <mark key="^" line="41" column="55" />
+      <file name="$USER_HOME$/dev/factory-cup/client/src/components/ChallengesTab.js" timestamp="1526567860256">
+        <mark key="'" line="52" column="34" />
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="58" />
+        <mark key="." line="93" column="0" />
+        <mark key="^" line="92" column="42" />
       </file>
       <file name="$USER_HOME$/dev/factory-cup/client/package.json" timestamp="1526562748351">
         <mark key="[" line="28" column="38" />
@@ -192,10 +193,10 @@
       </file>
       <file name="$USER_HOME$/dev/factory-cup/client/.eslintrc.js" timestamp="1526564768880">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="9" column="14" />
-        <mark key="]" line="9" column="14" />
-        <mark key="." line="9" column="14" />
-        <mark key="^" line="9" column="14" />
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="10" column="14" />
+        <mark key="." line="10" column="14" />
+        <mark key="^" line="10" column="14" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/importer/ftp/citadel.js" timestamp="1526027698450">
         <mark key="'" line="20" column="21" />
@@ -231,11 +232,11 @@
         <mark key="^" line="1" column="13" />
         <mark key="." line="1" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/factory-cup/api/src/schema.js" timestamp="1526565720077">
-        <mark key="[" line="14" column="10" />
-        <mark key="]" line="14" column="15" />
-        <mark key="^" line="14" column="15" />
-        <mark key="." line="14" column="15" />
+      <file name="$USER_HOME$/dev/factory-cup/api/src/schema.js" timestamp="1526568494950">
+        <mark key="[" line="66" column="9" />
+        <mark key="]" line="66" column="12" />
+        <mark key="^" line="66" column="12" />
+        <mark key="." line="66" column="12" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/importer/test/unit/server.test.js" timestamp="1525871552420">
         <mark key="'" line="7" column="26" />
@@ -284,7 +285,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="20" filename="$USER_HOME$/dev/part-edge/api/Jenkinsfile" />
       <jump line="113" column="8" filename="$USER_HOME$/dev/part-edge/api/Jenkinsfile" />
       <jump line="75" column="16" filename="$USER_HOME$/dev/part-edge/api/Jenkinsfile" />
       <jump line="135" column="0" filename="$USER_HOME$/dev/part-edge/api/Jenkinsfile" />
@@ -384,6 +384,7 @@
       <jump line="36" column="30" filename="$USER_HOME$/dev/factory-cup/client/src/components/ChallengesTab.js" />
       <jump line="21" column="5" filename="$USER_HOME$/dev/factory-cup/client/src/components/ChallengesTab.js" />
       <jump line="30" column="2" filename="$USER_HOME$/dev/factory-cup/client/src/components/ChallengesTab.js" />
+      <jump line="52" column="34" filename="$USER_HOME$/dev/factory-cup/client/src/components/ChallengesTab.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -394,7 +395,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>CardText</text>
+        <text>leftJoin</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1921,7 +1922,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>CardText</text>
+        <text>leftJoin</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1930,13 +1931,13 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>&quot;</text>
+        <text>Button</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICJwcmV0dGllciIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPENhcmRUaXRsZSB0aXRsZT17dGl0bGV9IC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBpbXBvcnQgeyBUYWJzLCBUYWIgfSBmcm9tICdAbWF0ZXJpYWwtdWkvY29yZSc7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1950,48 +1951,47 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0aGlzJywgdGhpcyk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgVGFicywgVGFiIH0gZnJvbSAnQG1hdGVyaWFsLXVpL2NvcmUnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRpc2FibGVkPXshdGhpcy5zdGF0ZS5mb3JtVVJMfQo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgY29tcG9uZW50RGlkTW91bnQoKSB7CiAgICB0aGlzLmhhbmRsZUZvcm1VUkxDaGFuZ2UoewogICAgICB0YXJnZXQ6IHsKICAgICAgICB2YWx1ZTogJ3RvdG8nCiAgICAgIH0KICAgIH0pOwogIH0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByaW1hcnk9e3RydWV9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdGFyZ2V0OiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhcmlhbnQ9InJhaXNlZCIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9Cgo=</text>
+        <text encoding="base64">aW1wb3J0IFJhaXNlZEJ1dHRvbiBmcm9tICdtYXRlcmlhbC11aS9SYWlzZWRCdXR0b24nOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0aGlzJywgdGhpcyk7CiAgICB0aGlzLnNldFN0YXRlKHsgZm9ybVVSTDogZXZlbnQudGFyZ2V0LnZhbHVlIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPENhcmRUaXRsZSB0aXRsZT17dGl0bGV9IC8+Cg==</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgaGFuZGxlRm9ybVVSTENoYW5nZShldmVudCkgewo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0aGlzJywgdGhpcyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0pOwogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>&quot;</last-search>
+      <last-search>Button</last-search>
       <last-offset />
-      <last-pattern>&quot;</last-pattern>
+      <last-pattern>Button</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>lotStock</entry>
         <entry encoding="base64">XDxzdG9ja1w+</entry>
         <entry encoding="base64">IGNsYXNzPSJpdGVtX19jb250ZW50Ig==</entry>
         <entry>state</entry>
@@ -2011,6 +2011,7 @@
         <entry>citadelService</entry>
         <entry encoding="base64">XDxJTlRPXD4=</entry>
         <entry>&quot;</entry>
+        <entry>Button</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2FsbG93XCgnJ1wpXC5hbGxvd1wobnVsbFwpL2FsbG93XChudWxsLCAnJ1wpL2c=</entry>
