@@ -10,10 +10,10 @@
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/factory-cup/client/src/App.js" timestamp="1526988938557">
-        <mark key="[" line="6" column="36" />
-        <mark key="]" line="6" column="47" />
-        <mark key="." line="6" column="47" />
+      <file name="$USER_HOME$/dev/factory-cup/client/src/App.js" timestamp="1526994483240">
+        <mark key="[" line="20" column="38" />
+        <mark key="]" line="20" column="38" />
+        <mark key="." line="20" column="38" />
         <mark key="^" line="6" column="47" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/components/logger/index.test.js" timestamp="1526980839289">
@@ -70,12 +70,12 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="51" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/factory-cup/client/src/screens/Challenges.js" timestamp="1526990876399">
-        <mark key="'" line="5" column="19" />
-        <mark key="[" line="35" column="23" />
-        <mark key="]" line="35" column="22" />
-        <mark key="." line="35" column="22" />
-        <mark key="^" line="35" column="22" />
+      <file name="$USER_HOME$/dev/factory-cup/client/src/screens/Challenges.js" timestamp="1526993729195">
+        <mark key="'" line="6" column="19" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="31" column="40" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/README.md" timestamp="1525359337618">
         <mark key="'" line="141" column="0" />
@@ -357,14 +357,14 @@
         <mark key="^" line="13" column="12" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/factory-cup/client/src/components/Admin.js" timestamp="1526629374455">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/dev/factory-cup/client/src/components/Admin.js" timestamp="1526994680541">
+        <mark key="'" line="56" column="18" />
+        <mark key="[" line="67" column="27" />
+        <mark key="]" line="67" column="27" />
+        <mark key="." line="67" column="27" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="9" filename="$USER_HOME$/dev/part-edge/importer/test/unit/citadel.test.js" />
       <jump line="54" column="31" filename="$USER_HOME$/dev/part-edge/importer/test/e2e/index.test.js" />
       <jump line="87" column="26" filename="$USER_HOME$/dev/part-edge/importer/ftp/server.js" />
       <jump line="91" column="6" filename="$USER_HOME$/dev/part-edge/importer/ftp/server.js" />
@@ -464,6 +464,7 @@
       <jump line="21" column="27" filename="$USER_HOME$/dev/factory-cup/client/src/screens/Challenges.js" />
       <jump line="67" column="15" filename="$USER_HOME$/dev/factory-cup/client/src/screens/Challenges.js" />
       <jump line="5" column="19" filename="$USER_HOME$/dev/factory-cup/client/src/screens/Challenges.js" />
+      <jump line="56" column="18" filename="$USER_HOME$/dev/factory-cup/client/src/components/Admin.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -473,8 +474,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBbY2xpY2tdPQo=</text>
+      <register name="&quot;" type="4">
+        <text>=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2001,7 +2002,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>button</text>
+        <text>=</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2013,10 +2014,10 @@
         <text>IconButton</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IENoYWxsZW5nZXMgZnJvbSAnLi9zY3JlZW5zL0NoYWxsZW5nZXMnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgZnVsbFdpZHRoCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBbY2xpY2tdPQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29sb3I9InNlY29uZGFyeSIK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2030,31 +2031,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAoY2xpY2spPQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGp1c3RpZnk9ImZsZXgtc3RhcnQiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA6Y2xpY2sK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGp1c3RpZnk9InN0cmV0Y2giCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBAY2xpY2s9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsaWduSXRlbXM9ImxlZnQiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjbGlja0AK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgZnVsbFdpZHRoPXtmYWxzZX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcm9wcy8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgcm93cz17NH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgZnVsbFdpZHRoCg==</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcm9wcyA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgcm93cz0iMSIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPEdyaWQgaXRlbT14Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
