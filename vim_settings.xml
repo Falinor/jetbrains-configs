@@ -70,12 +70,12 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="51" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/factory-cup/client/src/screens/Challenges.js" timestamp="1526989399747">
-        <mark key="'" line="17" column="3" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="11" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/dev/factory-cup/client/src/screens/Challenges.js" timestamp="1526990876399">
+        <mark key="'" line="5" column="19" />
+        <mark key="[" line="35" column="23" />
+        <mark key="]" line="35" column="22" />
+        <mark key="." line="35" column="22" />
+        <mark key="^" line="35" column="22" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/README.md" timestamp="1525359337618">
         <mark key="'" line="141" column="0" />
@@ -364,12 +364,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="14" filename="$USER_HOME$/dev/part-edge/importer/ftp/server.js" />
-      <jump line="86" column="10" filename="$USER_HOME$/dev/part-edge/importer/ftp/server.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/importer/ftp/server.js" />
-      <jump line="84" column="66" filename="$USER_HOME$/dev/part-edge/importer/ftp/server.js" />
-      <jump line="7" column="26" filename="$USER_HOME$/dev/part-edge/importer/test/unit/server.test.js" />
-      <jump line="20" column="21" filename="$USER_HOME$/dev/part-edge/importer/ftp/citadel.js" />
       <jump line="30" column="9" filename="$USER_HOME$/dev/part-edge/importer/test/unit/citadel.test.js" />
       <jump line="54" column="31" filename="$USER_HOME$/dev/part-edge/importer/test/e2e/index.test.js" />
       <jump line="87" column="26" filename="$USER_HOME$/dev/part-edge/importer/ftp/server.js" />
@@ -430,7 +424,6 @@
       <jump line="49" column="62" filename="$USER_HOME$/dev/factory-cup/client/src/components/ChallengesTab.js" />
       <jump line="2" column="7" filename="$USER_HOME$/dev/factory-cup/client/src/screens/NewChallenge.js" />
       <jump line="6" column="11" filename="$USER_HOME$/dev/factory-cup/client/src/screens/NewChallenge.js" />
-      <jump line="59" column="25" filename="$USER_HOME$/dev/factory-cup/client/src/screens/Challenges.js" />
       <jump line="2" column="41" filename="$USER_HOME$/dev/factory-cup/client/src/screens/Challenges.js" />
       <jump line="114" column="0" filename="$USER_HOME$/dev/factory-cup/client/src/screens/Challenges.js" />
       <jump line="47" column="0" filename="$USER_HOME$/dev/factory-cup/client/src/screens/Challenges.js" />
@@ -464,6 +457,13 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/factory-cup/client/src/components/ScoreInput.js" />
       <jump line="31" column="58" filename="$USER_HOME$/dev/factory-cup/client/src/components/ScoreInput.js" />
       <jump line="22" column="3" filename="$USER_HOME$/dev/factory-cup/client/src/screens/Challenges.js" />
+      <jump line="19" column="30" filename="$USER_HOME$/dev/factory-cup/client/src/screens/Challenges.js" />
+      <jump line="58" column="1" filename="$USER_HOME$/dev/factory-cup/client/src/screens/Challenges.js" />
+      <jump line="20" column="10" filename="$USER_HOME$/dev/factory-cup/client/src/screens/Challenges.js" />
+      <jump line="59" column="0" filename="$USER_HOME$/dev/factory-cup/client/src/screens/Challenges.js" />
+      <jump line="21" column="27" filename="$USER_HOME$/dev/factory-cup/client/src/screens/Challenges.js" />
+      <jump line="67" column="15" filename="$USER_HOME$/dev/factory-cup/client/src/screens/Challenges.js" />
+      <jump line="5" column="19" filename="$USER_HOME$/dev/factory-cup/client/src/screens/Challenges.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -474,7 +474,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICByCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBbY2xpY2tdPQo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2001,7 +2001,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>icons</text>
+        <text>button</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2016,7 +2016,7 @@
         <text encoding="base64">aW1wb3J0IENoYWxsZW5nZXMgZnJvbSAnLi9zY3JlZW5zL0NoYWxsZW5nZXMnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICByCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBbY2xpY2tdPQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2029,37 +2029,32 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>oot: {
-    backgroundColor: theme.palette.background.paper,
-    width: 500,
-    position: 'relative',
-    minHeight: 200,
-  },</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAoY2xpY2spPQo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">PEJ1dHRvbiB2YXJpYW50PSJmYWIiIGNvbG9yPSJzZWNvbmRhcnkiIGFyaWEtbGFiZWw9ImVkaXQiIGNsYXNzTmFtZT17Y2xhc3Nlcy5idXR0b259PgogICAgICAgICAgPEljb24+ZWRpdF9pY29uPC9JY29uPgogICAgICAgIDwvQnV0dG9uPg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICA6Y2xpY2sK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiAjZmFmYWZhOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBAY2xpY2s9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmVxLAogICAgICByZXMsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjbGlja0AK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBuYW1lCg==</text>
+        <text encoding="base64">ICBwcm9wcy8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CnRlc3QoJ1Nob3VsZCBsb2cgYW4gZXJyb3Igd2l0aCBhZGRpdGlvbmFsIGZpZWxkcycsICh0KSA9PiB7CiAgY29uc3QgZXJyID0gbmV3IEVycm9yKCdJbnRlbmRlZCBlcnJvcicpOwogIGxvZ2dlci5lcnJvcih7CiAgICBlcnI6IHsKICAgICAgbWVzc2FnZTogZXJyLm1lc3NhZ2UsCiAgICAgIG5hbWU6IGVyci5uYW1lLAogICAgICBzdGFjazogZXJyLnN0YWNrLAogICAgfSwKICAgIG1zZzogJ0ludGVuZGVkIGVycm9yJywKICAgIHJlcTogewogICAgICBib2R5OiB7CiAgICAgICAgaWQ6IDQyLAogICAgICB9LAogICAgfSwKICAgIHJlczogewogICAgICBoZWFkZXJzOiB7CiAgICAgICAgJ1gtUmVxdWVzdC1JZCc6ICd4em5jbW5hJywKICAgICAgfSwKICAgIH0sCiAgfSk7Cn0pOw==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBwcm9wcyA9IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB0LmlzKCkK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
