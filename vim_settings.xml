@@ -29,12 +29,6 @@
         <mark key="." line="27" column="32" />
         <mark key="^" line="27" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/factory-cup/client/src/components/AppBar.js" timestamp="1526654351653">
-        <mark key="'" line="16" column="2" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="80" />
-      </file>
       <file name="$USER_HOME$/dev/factory-cup/api/src/app.js" timestamp="1527350692545">
         <mark key="'" line="3" column="26" />
         <mark key="[" line="1" column="29" />
@@ -170,6 +164,7 @@
         <mark key="." line="5" column="11" />
         <mark key="^" line="5" column="11" />
       </file>
+      <file name="$USER_HOME$/dev/part-edge/client/src/router/main.js" timestamp="1527498726778" />
       <file name="$USER_HOME$/dev/factory-cup/api/test/citadel.test.js" timestamp="1526462962633">
         <mark key="[" line="9" column="23" />
         <mark key="]" line="10" column="16" />
@@ -255,7 +250,11 @@
         <mark key="^" line="4" column="16" />
         <mark key="." line="4" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/part-edge/client/src/services/auth.js" timestamp="1527497282490" />
+      <file name="$USER_HOME$/dev/part-edge/client/src/services/auth.js" timestamp="1527499638028">
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="." line="97" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/factory-cup/client/.eslintrc.js" timestamp="1526564768880">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="10" column="14" />
@@ -313,6 +312,12 @@
         <mark key="]" line="58" column="23" />
         <mark key="." line="58" column="23" />
         <mark key="^" line="58" column="23" />
+      </file>
+      <file name="$USER_HOME$/dev/part-edge/client/src/components/auth/Auth.vue" timestamp="1527500143819">
+        <mark key="[" line="18" column="16" />
+        <mark key="]" line="18" column="41" />
+        <mark key="^" line="18" column="41" />
+        <mark key="." line="18" column="41" />
       </file>
       <file name="$USER_HOME$/dev/factory-cup/api/src/challenges/fifa-wc-2018/schema.js" timestamp="1527496183872">
         <mark key="'" line="10" column="18" />
@@ -391,12 +396,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="13" column="12" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/factory-cup/client/src/components/Admin.js" timestamp="1526994680541">
-        <mark key="'" line="56" column="18" />
-        <mark key="[" line="67" column="27" />
-        <mark key="]" line="67" column="27" />
-        <mark key="." line="67" column="27" />
       </file>
       <file name="$USER_HOME$/dev/factory-cup/api/test/unit/challenges/fifa-wc-2018/schema.test.js" timestamp="1527350800723">
         <mark key="[" line="2" column="75" />
@@ -521,8 +520,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">c2NoZW1hIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAvLyBlc2xpbnQtZGlzYWJsZS1uZXh0LWxpbmUK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2049,7 +2048,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c2NoZW1hIA==</text>
+        <text>next</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2064,7 +2063,7 @@
         <text encoding="base64">ICAgICJuYW1lIjogIlBvb2wgcGhhc2UiLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBlc2xpbnQtZGlzYWJsZS1uZXh0LWxpbmUK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2078,31 +2077,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IHJlc29sdmVycyBmcm9tICcuL3Jlc29sdmVycyc7CmV4cG9ydCBzY2hlbWEgZnJvbSAnLi9zY2hlbWEnOwo=</text>
+        <text encoding="base64">ICBsb2NhbFN0b3JhZ2Uuc2V0SXRlbSgndGFyZ2V0VVJMJywgdG8uZnVsbFBhdGgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IHJlc29sdmVycyBmcm9tICcuL3Jlc29sdmVycyc7CmV4cG9ydCBzY2hlbWEgZnJvbSAnLi9zY2hlbWEnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IHJlc29sdmVycyBmcm9tICcuL3Jlc29sdmVycyc7CmV4cG9ydCBzY2hlbWEgZnJvbSAnLi9zY2hlbWEnOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CmV4cG9ydCBjb25zdCByZXNvbHZlcnMgPSB7CiAgUXVlcnk6IHt9LAp9Ow==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ZXhwb3J0IHJlc29sdmVycyBmcm9tICcuL3Jlc29sdmVycyc7CmV4cG9ydCBzY2hlbWEgZnJvbSAnLi9zY2hlbWEnOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnJwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">CmV4cG9ydCBjb25zdCByZXNvbHZlcnMgPSB7CiAgUXVlcnk6IHt9LAp9Ow==</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgcGF0aCA9IAo=</text>
+        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhmcm9kZG1GaWxlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
