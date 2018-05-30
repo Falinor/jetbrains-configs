@@ -233,12 +233,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Surround With...">
+        <Item>
+          <IdeaActionID>SurroundWith</IdeaActionID>
+          <ShortCut>'⌥⌘T'</ShortCut>
+          <Description>Surround With...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Terminal">
         <Item>
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>25</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">

@@ -42,6 +42,13 @@
         <mark key="." line="27" column="32" />
         <mark key="^" line="27" column="32" />
       </file>
+      <file name="$USER_HOME$/dev/part-edge/api/knex/migrations/20180530111532_alter-orders-criticality.js" timestamp="1527672125396">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="5" column="33" />
+        <mark key="]" line="5" column="33" />
+        <mark key="^" line="5" column="33" />
+        <mark key="." line="5" column="33" />
+      </file>
       <file name="$USER_HOME$/dev/factory-cup/api/src/app.js" timestamp="1527595076724">
         <mark key="'" line="3" column="26" />
         <mark key="[" line="21" column="4" />
@@ -507,9 +514,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/dev/factory-cup/api/src/index.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/dev/factory-cup/api/test/app.test.js" />
-      <jump line="5" column="1" filename="$USER_HOME$/dev/factory-cup/api/test/app.test.js" />
       <jump line="11" column="16" filename="$USER_HOME$/dev/factory-cup/api/src/app.js" />
       <jump line="2" column="23" filename="$USER_HOME$/dev/factory-cup/api/src/app.js" />
       <jump line="6" column="1" filename="$USER_HOME$/dev/factory-cup/api/scripts/init.sql" />
@@ -607,6 +611,9 @@
       <jump line="246" column="33" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/validator.test.js" />
       <jump line="296" column="26" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/validator.test.js" />
       <jump line="130" column="11" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/validator.test.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/dev/part-edge/api/knex/migrations/20180530111532_alter-orders-criticality.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/dev/part-edge/api/knex/migrations/20180530111532_alter-orders-criticality.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/part-edge/api/knex/migrations/20180530111532_alter-orders-criticality.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -616,8 +623,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHN0YXR1czogb3JkZXJTUFRLTy5zdGF0dXMsCiAgICB0eXBlOiBvcmRlclNQVEtPLnR5cGUsCg==</text>
+      <register name="&quot;" type="4">
+        <text>string</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2144,7 +2151,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>string</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2159,7 +2166,7 @@
         <text encoding="base64">ICAgICJuYW1lIjogIlBvb2wgcGhhc2UiLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0YXR1czogb3JkZXJTUFRLTy5zdGF0dXMsCiAgICB0eXBlOiBvcmRlclNQVEtPLnR5cGUsCg==</text>
+        <text encoding="base64">ICB0YWJsZS5kcm9wQ29sdW1uKCdkZWxpdmVyeV9kYXRlJyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2173,31 +2180,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjcml0aWNhbGl0eTogJ1JvdXRpbmUnLAo=</text>
+        <text encoding="base64">ICAgIHN0YXR1czogb3JkZXJTUFRLTy5zdGF0dXMsCiAgICB0eXBlOiBvcmRlclNQVEtPLnR5cGUsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjcml0aQo=</text>
+        <text encoding="base64">ICBjcml0aWNhbGl0eTogJ1JvdXRpbmUnLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1hcEFjdGlvCg==</text>
+        <text encoding="base64">ICBjcml0aQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgJ2NyaXRpY2FsaXR5T3B0cycsCg==</text>
+        <text encoding="base64">ICAgIG1hcEFjdGlvCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNyaXRpY2FsaXR5Cg==</text>
+        <text encoding="base64">ICAgICAgJ2NyaXRpY2FsaXR5T3B0cycsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">ICAgIGNyaXRpY2FsaXR5Cg==</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG9uQ2hhbmdlKGV2ZW50KSB7CiAgICAgIGNvbnNvbGUubG9nKGV2ZW50KTsK</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbnZlcnRlZAo=</text>
+        <text encoding="base64">ICAgIG9uQ2hhbmdlKGV2ZW50KSB7CiAgICAgIGNvbnNvbGUubG9nKGV2ZW50KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
