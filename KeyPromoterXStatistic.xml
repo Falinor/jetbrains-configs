@@ -97,6 +97,14 @@
           <Count>12</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Indent Selection">
+        <Item>
+          <IdeaActionID>EditorIndentSelection</IdeaActionID>
+          <ShortCut>'⇥'</ShortCut>
+          <Description>Indent Selection</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Jump to Navigation Bar">
         <Item>
           <IdeaActionID>ShowNavBar</IdeaActionID>
