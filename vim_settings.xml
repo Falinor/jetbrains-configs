@@ -10,6 +10,13 @@
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="26" />
       </file>
+      <file name="$USER_HOME$/dev/factory-cup/client/src/components/AppBar.js" timestamp="1527774762462">
+        <mark key="'" line="1" column="13" />
+        <mark key="[" line="15" column="37" />
+        <mark key="]" line="15" column="37" />
+        <mark key="." line="15" column="37" />
+        <mark key="^" line="15" column="37" />
+      </file>
       <file name="$USER_HOME$/dev/factory-cup/api/test/unit/events/fifa-wc-2018/matches/repository.test.js" timestamp="1527682085550">
         <mark key="[" line="17" column="70" />
         <mark key="]" line="17" column="104" />
@@ -162,6 +169,12 @@
         <mark key="^" line="29" column="1" />
         <mark key="." line="29" column="19" />
       </file>
+      <file name="$USER_HOME$/dev/factory-cup/client/src/index.js" timestamp="1527773652013">
+        <mark key="'" line="21" column="8" />
+        <mark key="]" line="5" column="31" />
+        <mark key="^" line="5" column="31" />
+        <mark key="." line="5" column="31" />
+      </file>
       <file name="$USER_HOME$/dev/factory-cup/client/src/screens/NewChallenge.js" timestamp="1526572498850">
         <mark key="'" line="6" column="11" />
         <mark key="[" line="4" column="17" />
@@ -267,11 +280,11 @@
         <mark key="." line="4" column="14" />
         <mark key="^" line="4" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/factory-cup/client/src/App.js" timestamp="1526994483240">
-        <mark key="[" line="20" column="38" />
-        <mark key="]" line="20" column="38" />
-        <mark key="." line="20" column="38" />
-        <mark key="^" line="6" column="47" />
+      <file name="$USER_HOME$/dev/factory-cup/client/src/App.js" timestamp="1527775074199">
+        <mark key="[" line="18" column="21" />
+        <mark key="]" line="18" column="31" />
+        <mark key="." line="18" column="21" />
+        <mark key="^" line="18" column="20" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/components/logger/index.test.js" timestamp="1526980839289">
         <mark key="'" line="17" column="7" />
@@ -307,11 +320,11 @@
         <mark key="." line="1" column="6" />
         <mark key="^" line="1" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/factory-cup/client/package.json" timestamp="1526562748351">
-        <mark key="[" line="28" column="38" />
-        <mark key="]" line="29" column="30" />
-        <mark key="." line="29" column="30" />
-        <mark key="^" line="29" column="30" />
+      <file name="$USER_HOME$/dev/factory-cup/client/package.json" timestamp="1527775055400">
+        <mark key="[" line="27" column="38" />
+        <mark key="]" line="27" column="38" />
+        <mark key="^" line="38" column="32" />
+        <mark key="." line="27" column="38" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/validator.js" timestamp="1527758227859">
         <mark key="[" line="95" column="4" />
@@ -570,8 +583,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="27" filename="$USER_HOME$/dev/factory-cup/api/src/citadel.js" />
-      <jump line="3" column="26" filename="$USER_HOME$/dev/factory-cup/api/src/app.js" />
       <jump line="4" column="14" filename="$USER_HOME$/dev/factory-cup/api/src/schema.js" />
       <jump line="41" column="3" filename="$USER_HOME$/dev/factory-cup/api/test/unit/citadel.test.js" />
       <jump line="36" column="7" filename="$USER_HOME$/dev/factory-cup/api/scripts/init.sql" />
@@ -670,6 +681,8 @@
       <jump line="13" column="9" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/DashboardExchangeList.vue" />
       <jump line="26" column="9" filename="$USER_HOME$/dev/part-edge/client/src/components/dashboard/children/DashboardExchangeList.vue" />
       <jump line="6" column="0" filename="$USER_HOME$/dev/factory-cup/api/test/unit/events/fifa-wc-2018/type-defs.js" />
+      <jump line="1" column="13" filename="$USER_HOME$/dev/factory-cup/client/src/components/AppBar.js" />
+      <jump line="19" column="8" filename="$USER_HOME$/dev/factory-cup/client/src/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -965,8 +978,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgRGF0ZVRpbWU6ICgpID0+IG5ldyBEYXRlKCkudG9JU09TdHJpbmcoKSwK</text>
+      <register name="&quot;" type="4">
+        <text>bodyStyles</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2493,7 +2506,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXdhaXQg</text>
+        <text>bodyStyles</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2505,10 +2518,10 @@
         <text encoding="base64">XDx0ZXN0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxxLWljb24gdi1pZj0iY2VsbC5yb3cuY3JpdGljYWxpdHkgPT09ICdDcml0aWNhbCciIG5hbWU9Indhcm5pbmciIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNsYXNzTmFtZT17Y2xhc3Nlcy50aXRsZX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgRGF0ZVRpbWU6ICgpID0+IG5ldyBEYXRlKCkudG9JU09TdHJpbmcoKSwK</text>
+        <text encoding="base64">ICAgICJ2YWxpZGF0ZS1jb21taXQtbXNnIjogIl4yLjE0LjAiCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2522,31 +2535,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgRGEK</text>
+        <text encoding="base64">ICAgICJodXNreSI6ICJeMC4xNC4zIiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlc29sdmVyczogewogICAgICBRdWVyeToge30K</text>
+        <text encoding="base64">ICAgICAgICA8bWFpbj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICB0aGVtZS4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByZXNvbGQK</text>
+        <text encoding="base64">ICAgICAgICAgIGNsYXNzTmFtZT17Y2xhc3Nlcy50aXRsZX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0eXBlCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNsYXNzTmFtZT17Y2xhc3Nlcy50aXRsZX0K</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcGFydE51bWJlcjogc2VhcmNoLnBhcnROdW1iZXIsCg==</text>
+        <text encoding="base64">ICAgIHRleHREZWNvcmF0aW9uOiAnbm9uZScK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
