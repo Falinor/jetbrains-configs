@@ -256,12 +256,12 @@
         <mark key="^" line="11" column="1" />
         <mark key="." line="11" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/factory-cup/api/test/unit/events/fifa-wc-2018/type-defs.test.js" timestamp="1527888389497">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="16" column="5" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="11" column="1" />
+      <file name="$USER_HOME$/dev/factory-cup/api/test/unit/events/fifa-wc-2018/type-defs.test.js" timestamp="1527889460587">
+        <mark key="'" line="4" column="11" />
+        <mark key="[" line="10" column="5" />
+        <mark key="]" line="10" column="3" />
+        <mark key="." line="10" column="3" />
+        <mark key="^" line="10" column="3" />
       </file>
       <file name="$USER_HOME$/dev/factory-cup/api/src/challenges/fifa-wc-2018/type-defs.js" timestamp="1527512626026">
         <mark key="[" line="21" column="2" />
@@ -618,7 +618,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/dev/factory-cup/client/src/components/AppBar.js" />
       <jump line="15" column="2" filename="$USER_HOME$/dev/factory-cup/client/src/components/AppBar.js" />
       <jump line="12" column="0" filename="$USER_HOME$/dev/factory-cup/client/src/screens/Home.js" />
       <jump line="10" column="9" filename="$USER_HOME$/dev/factory-cup/client/src/screens/Home.js" />
@@ -718,6 +717,7 @@
       <jump line="2" column="5" filename="$USER_HOME$/dev/factory-cup/api/src/events/index.js" />
       <jump line="6" column="0" filename="$USER_HOME$/dev/factory-cup/api/src/events/fifa-wc-2018/index.js" />
       <jump line="14" column="0" filename="$USER_HOME$/dev/factory-cup/api/test/unit/events/fifa-wc-2018/type-defs.test.js" />
+      <jump line="4" column="11" filename="$USER_HOME$/dev/factory-cup/api/test/unit/events/fifa-wc-2018/type-defs.test.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1013,8 +1013,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgVGhlIHRlYW0gbmFtZQo=</text>
+      <register name="&quot;" type="4">
+        <text>only</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2541,7 +2541,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>only</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2556,7 +2556,7 @@
         <text encoding="base64">aW1wb3J0IENhcmRDb250ZW50IGZyb20gJ0BtYXRlcmlhbC11aS9jb3JlL0NhcmRDb250ZW50JzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgVGhlIHRlYW0gbmFtZQo=</text>
+        <text encoding="base64">ICAgIC8vICwK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2569,29 +2569,34 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>resolvers: {
+    //   DateTime: GraphQLDateTime,
+    // }</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+      <register name="3" type="4">
+        <text>Defs,
+    // resolvers: {
+    //   DateTime: GraphQLDateTime,
+    // },</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlc29sdmVyczogewogICAgICBEYXRlVGltZTogR3JhcGhRTERhdGVUaW1lLAo=</text>
+        <text encoding="base64">ICAgIHR5cGVEZWZzOiAnJywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdCBzY2hlbWEgPSBtYWtlRXhlY3V0YWJsZVNjaGVtYSh7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBhZGRNb2NrRnVuY3Rpb25zVG9TY2hlbWEsCg==</text>
+        <text encoding="base64">ICBzY2hlbWEuY29uc29sZS5sb2coc2NoZW1hKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBtb2NrU2VydmVyLAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgR3JhcGhRTERhdGVUaW1lIH0gZnJvbSAnZ3JhcGhxbC1pc28tZGF0ZSc7Cg==</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aQo=</text>
+        <text encoding="base64">ICAgICMgVGhlIHRlYW0gbmFtZQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
