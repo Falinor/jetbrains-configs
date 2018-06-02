@@ -23,11 +23,10 @@
         <mark key="^" line="17" column="104" />
         <mark key="." line="17" column="104" />
       </file>
-      <file name="$USER_HOME$/dev/factory-cup/api/src/app.js" timestamp="1527894028298">
+      <file name="$USER_HOME$/dev/factory-cup/api/src/app.js" timestamp="1527974586437">
         <mark key="[" line="18" column="47" />
-        <mark key="]" line="18" column="19" />
-        <mark key="." line="18" column="19" />
-        <mark key="^" line="18" column="19" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/dev/factory-cup/client/src/components/CardActionOngoing.js" timestamp="1526982914765">
         <mark key="'" line="53" column="33" />
@@ -128,10 +127,11 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="1" column="7" />
       </file>
-      <file name="$USER_HOME$/dev/factory-cup/api/test/unit/events/index.test.js" timestamp="1527942978275">
+      <file name="$USER_HOME$/dev/factory-cup/api/test/unit/events/index.test.js" timestamp="1527972805571">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
+        <mark key="^" line="8" column="31" />
       </file>
       <file name="$USER_HOME$/dev/factory-cup/client/src/screens/Home.js" timestamp="1527791492655">
         <mark key="'" line="61" column="12" />
@@ -165,12 +165,12 @@
         <mark key="]" line="420" column="0" />
         <mark key="." line="420" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/factory-cup/api/src/events/index.js" timestamp="1527894109646">
+      <file name="$USER_HOME$/dev/factory-cup/api/src/events/index.js" timestamp="1527973223471">
         <mark key="'" line="2" column="5" />
-        <mark key="[" line="2" column="33" />
-        <mark key="]" line="9" column="13" />
-        <mark key="." line="9" column="13" />
-        <mark key="^" line="9" column="13" />
+        <mark key="[" line="5" column="29" />
+        <mark key="]" line="5" column="3" />
+        <mark key="^" line="5" column="3" />
+        <mark key="." line="5" column="3" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/mapper.test.js" timestamp="1527669003110">
         <mark key="[" line="32" column="22" />
@@ -432,12 +432,12 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/factory-cup/client/src/screens/events/FifaWorldCup.js" timestamp="1527859041165">
-        <mark key="'" line="35" column="52" />
-        <mark key="[" line="42" column="38" />
-        <mark key="]" line="42" column="58" />
-        <mark key="^" line="42" column="58" />
-        <mark key="." line="42" column="58" />
+      <file name="$USER_HOME$/dev/factory-cup/client/src/screens/events/FifaWorldCup.js" timestamp="1527974411553">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="26" column="25" />
+        <mark key="]" line="26" column="24" />
+        <mark key="." line="26" column="24" />
+        <mark key="^" line="26" column="24" />
       </file>
       <file name="$USER_HOME$/dev/factory-cup/api/test/unit/citadel.test.js" timestamp="1526545428668">
         <mark key="[" line="38" column="9" />
@@ -620,8 +620,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="2" filename="$USER_HOME$/dev/factory-cup/client/src/components/AppBar.js" />
-      <jump line="12" column="0" filename="$USER_HOME$/dev/factory-cup/client/src/screens/Home.js" />
       <jump line="10" column="9" filename="$USER_HOME$/dev/factory-cup/client/src/screens/Home.js" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/factory-cup/client/src/screens/Home.js" />
       <jump line="3" column="39" filename="$USER_HOME$/dev/factory-cup/client/src/screens/Home.js" />
@@ -720,6 +718,8 @@
       <jump line="6" column="0" filename="$USER_HOME$/dev/factory-cup/api/src/events/fifa-wc-2018/index.js" />
       <jump line="14" column="0" filename="$USER_HOME$/dev/factory-cup/api/test/unit/events/fifa-wc-2018/type-defs.test.js" />
       <jump line="4" column="11" filename="$USER_HOME$/dev/factory-cup/api/test/unit/events/fifa-wc-2018/type-defs.test.js" />
+      <jump line="6" column="11" filename="$USER_HOME$/dev/factory-cup/client/src/screens/events/FifaWorldCup.js" />
+      <jump line="36" column="0" filename="$USER_HOME$/dev/factory-cup/client/src/screens/events/FifaWorldCup.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1016,7 +1016,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0ZXN0Jyk7Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2543,7 +2543,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text encoding="base64">ZGF0YSA=</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2555,10 +2555,10 @@
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IENhcmRDb250ZW50IGZyb20gJ0BtYXRlcmlhbC11aS9jb3JlL0NhcmRDb250ZW50JzsK</text>
+        <text encoding="base64">ICB0LnRydWUoQXJyYXkuaXNBcnJheSh0eXBlRGVmcykpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0ZXN0Jyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2572,33 +2572,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyBUaGVyZSBzaG91bGQgYmUgMiAqIHRoZSAK</text>
+        <text encoding="base64">ICByZXR1cm4K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICB0LnBsYW4obW9kdWxlcy5sZW5ndGgpCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICgKICAgIDxkaXY+CiAgICAgIDxQYXBlcj4KICAgICAgICA8VHlwb2dyYXBoeSBndXR0ZXJCb3R0b20gdmFyaWFudD0iaGVhZGxpbmUiIGNvbXBvbmVudD0iaDIiPgogICAgICAgICAgVXBjb21pbmcgbWF0Y2hlcwogICAgICAgIDwvVHlwb2dyYXBoeT4KICAgICAgICA8TGlzdD4KICAgICAgICAgIDxMaXN0SXRlbSAvPgogICAgICAgIDwvTGlzdD4KICAgICAgPC9QYXBlcj4KICAgIDwvZGl2PgogICk7</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1vZHVsZS4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPE1hdGNoIGxlZnRUZWFtPXtsZWZ0VGVhbX0gcmlnaHRUZWFtPXtyaWdodFRlYW19IC8+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhtb2R1bGVzKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgR3JhcGhRTERhdGVUaW1lIH0gZnJvbSAnZ3JhcGhxbC1pc28tZGF0ZSc7Cg==</text>
+        <text encoding="base64">ICAgICAgdHlwZURlZnMucHVzaCgpCg==</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vICwK</text>
+        <text encoding="base64">ICAgICAgdHlwZURlZnMgPSBbLi4udHlwZURlZnMsIG1vZHVsZS50eXBlRGVmc107Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>resolvers: {
-    //   DateTime: GraphQLDateTime,
-    // }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgdHlwZURlZnMgPSBbLi4udHlwZURlZnMsIG1vZHVsZS50eXBlRGVmc107Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
