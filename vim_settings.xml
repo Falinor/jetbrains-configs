@@ -427,13 +427,13 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/factory-cup/client/src/screens/events/FifaWorldCup.js" timestamp="1528119289268">
-        <mark key="'" line="119" column="31" />
-        <mark key="[" line="105" column="21" />
+      <file name="$USER_HOME$/dev/factory-cup/client/src/screens/events/FifaWorldCup.js" timestamp="1528120201547">
+        <mark key="'" line="66" column="24" />
+        <mark key="[" line="66" column="47" />
         <mark key="k" line="114" column="33" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
-        <mark key="^" line="105" column="19" />
+        <mark key="]" line="66" column="45" />
+        <mark key="." line="66" column="45" />
+        <mark key="^" line="66" column="45" />
       </file>
       <file name="$USER_HOME$/dev/factory-cup/api/test/unit/citadel.test.js" timestamp="1526545428668">
         <mark key="[" line="38" column="9" />
@@ -613,7 +613,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="4" filename="$USER_HOME$/dev/factory-cup/api/src/challenges/fifa-wc-2018/matches.json" />
       <jump line="14" column="4" filename="$USER_HOME$/dev/factory-cup/api/src/challenges/fifa-wc-2018/matches.json" />
       <jump line="4" column="0" filename="$USER_HOME$/dev/factory-cup/api/src/challenges/fifa-wc-2018/matches/repository.js" />
       <jump line="3" column="12" filename="$USER_HOME$/dev/factory-cup/api/src/challenges/fifa-wc-2018/matches/repository.js" />
@@ -713,6 +712,7 @@
       <jump line="4" column="23" filename="$USER_HOME$/dev/factory-cup/client/src/screens/events/FifaWorldCup.js" />
       <jump line="23" column="8" filename="$USER_HOME$/dev/factory-cup/client/src/screens/events/FifaWorldCup.js" />
       <jump line="119" column="31" filename="$USER_HOME$/dev/factory-cup/client/src/screens/events/FifaWorldCup.js" />
+      <jump line="66" column="24" filename="$USER_HOME$/dev/factory-cup/client/src/screens/events/FifaWorldCup.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1008,8 +1008,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2536,7 +2536,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>Test</text>
+        <text>d</text>
       </register>
       <register name="m" type="4">
         <keys>
