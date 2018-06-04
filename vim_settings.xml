@@ -402,6 +402,13 @@
         <mark key="." line="5" column="11" />
         <mark key="^" line="5" column="11" />
       </file>
+      <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/dashboard/children/DashboardOpenRequests.spec.js" timestamp="1528121546918">
+        <mark key="'" line="11" column="6" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="26" />
+        <mark key="^" line="3" column="26" />
+        <mark key="." line="3" column="26" />
+      </file>
       <file name="$USER_HOME$/dev/factory-cup/api/test/citadel.test.js" timestamp="1526462962633">
         <mark key="[" line="9" column="23" />
         <mark key="]" line="10" column="16" />
@@ -613,10 +620,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="4" filename="$USER_HOME$/dev/factory-cup/api/src/challenges/fifa-wc-2018/matches.json" />
-      <jump line="4" column="0" filename="$USER_HOME$/dev/factory-cup/api/src/challenges/fifa-wc-2018/matches/repository.js" />
-      <jump line="3" column="12" filename="$USER_HOME$/dev/factory-cup/api/src/challenges/fifa-wc-2018/matches/repository.js" />
-      <jump line="0" column="19" filename="$USER_HOME$/dev/factory-cup/api/src/challenges/fifa-wc-2018/matches/repository.js" />
       <jump line="5" column="55" filename="$USER_HOME$/dev/factory-cup/api/test/unit/challenges/fifa-wc-2018/matches/repository.test.js" />
       <jump line="11" column="0" filename="$USER_HOME$/dev/factory-cup/api/test/unit/challenges/fifa-wc-2018/matches/repository.test.js" />
       <jump line="118" column="20" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/services/auth.spec.js" />
@@ -713,6 +716,10 @@
       <jump line="23" column="8" filename="$USER_HOME$/dev/factory-cup/client/src/screens/events/FifaWorldCup.js" />
       <jump line="119" column="31" filename="$USER_HOME$/dev/factory-cup/client/src/screens/events/FifaWorldCup.js" />
       <jump line="66" column="24" filename="$USER_HOME$/dev/factory-cup/client/src/screens/events/FifaWorldCup.js" />
+      <jump line="8" column="1" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/dashboard/children/DashboardOpenRequests.spec.js" />
+      <jump line="16" column="6" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/dashboard/children/DashboardOpenRequests.spec.js" />
+      <jump line="28" column="7" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/dashboard/children/DashboardOpenRequests.spec.js" />
+      <jump line="11" column="6" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/dashboard/children/DashboardOpenRequests.spec.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1008,8 +1015,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2536,7 +2543,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>orders</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2548,10 +2555,12 @@
         <text encoding="base64">XDxyaWdodFRlYW1cPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">PFR5cG9ncmFwaHkgdmFyaWFudD0idGl0bGUiPgogICAgICAgICAgICAgICAgICAgIHtzZWxlY3RlZE1hdGNoLmxlZnRUZWFtfQogICAgICAgICAgICAgICAgICA8L1R5cG9ncmFwaHk+</text>
+        <text>{ status: 'Validated', assigneeId: null },
+        { status: 'Not validated', assigneeId: null },
+        { status: 'Not validated but assigned', assigneeId: 'ASKJD102' },</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2565,31 +2574,33 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvVHlwb2dyYXBoeT4K</text>
+        <text encoding="base64">ICAgICAgY29uc3Qgb3JkZXJzID0gWwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxUeXBvZ3JhcGh5PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBZb3Ugc3RpbGwgaGF2ZSB0aW1lIHRvIG1ha2UgYSBwcmVkaWN0aW9uIQo=</text>
+        <text encoding="base64">CiAgICAgIF07Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="4" type="4">
+        <text>{ status: 'Validated', assigneeId: null },
+        { status: 'Not validated', assigneeId: null },
+        { status: 'Not validated but assigned', assigneeId: 'ASKJD102' },</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxCdXR0b24vPgo=</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgY29tcG9uZW50Lgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICA8L0J1dHRvbj4K</text>
+        <text encoding="base64">ICAgICAgRGFzaGJvYXJkT3BlblJlcXVlc3RzLgo=</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICA8QnV0dG9uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAga1ByZWRpY3QK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICBjb25zdCBjb21wb25lbnQgPSBzaGFsbG93KERhc2hib2FyZE9wZW5SZXF1ZXN0cywgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
