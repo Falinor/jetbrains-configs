@@ -472,13 +472,13 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/factory-cup/client/src/screens/events/FifaWorldCup.js" timestamp="1528207700903">
-        <mark key="'" line="34" column="0" />
-        <mark key="k" line="134" column="33" />
-        <mark key="[" line="105" column="38" />
-        <mark key="]" line="107" column="48" />
-        <mark key="." line="107" column="48" />
-        <mark key="^" line="107" column="48" />
+      <file name="$USER_HOME$/dev/factory-cup/client/src/screens/events/FifaWorldCup.js" timestamp="1528212612899">
+        <mark key="'" line="107" column="25" />
+        <mark key="k" line="135" column="33" />
+        <mark key="[" line="45" column="19" />
+        <mark key="]" line="45" column="19" />
+        <mark key="." line="45" column="19" />
+        <mark key="^" line="45" column="19" />
       </file>
       <file name="$USER_HOME$/dev/factory-cup/api/test/unit/citadel.test.js" timestamp="1526545428668">
         <mark key="[" line="38" column="9" />
@@ -670,7 +670,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="17" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/equipments/EquipmentsList.spec.js" />
       <jump line="246" column="33" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/validator.test.js" />
       <jump line="296" column="26" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/validator.test.js" />
       <jump line="130" column="11" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/validator.test.js" />
@@ -770,6 +769,7 @@
       <jump line="388" column="14" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/store/modules/orders.spec.js" />
       <jump line="142" column="0" filename="$USER_HOME$/dev/factory-cup/client/src/screens/events/FifaWorldCup.js" />
       <jump line="34" column="0" filename="$USER_HOME$/dev/factory-cup/client/src/screens/events/FifaWorldCup.js" />
+      <jump line="107" column="25" filename="$USER_HOME$/dev/factory-cup/client/src/screens/events/FifaWorldCup.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1065,8 +1065,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>[</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb20K</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2593,7 +2593,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text>e</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2608,7 +2608,7 @@
         <text encoding="base64">ICAgICAgZXhwZWN0KHR5cGVzLlVQREFURV9PUkRFUlMpLnRvLmVxdWFsKCdVUERBVEVfT1JERVJTJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIChtYXRjaGVzLmxlbmd0aCA+IDAgJiYgdG9kYXkgPCBtYXRjaGVzWzBdLnBsYXllZE9uKQo=</text>
+        <text encoding="base64">ICBjb20K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2622,22 +2622,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxldCBtYXRjaERhdGUgPSBuZXcgRGF0ZShtYXRjaGVzW2luZGV4XS5wbGF5ZWRPbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMubWF0Y2hkZHMgPSBtYXRjaGVzOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG1hdGNoZQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuc3RhdGUpZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaW5kZXgrKzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxlY3RlZCA9IGk7CiAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coc2VsZWN0ZWQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbWF0Y2hEYXRlCg==</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGluZGV4KTsK</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoewogICAgICBzZWxlY3RlZDogdGhpcy5nZXROZWFyZXN0TWF0Y2godGhpcy5tYXRjaGVzKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgc2VsZWN0ZWQ6IHRoaXMuZ2V0TmVhcmVzdE1hdGNoKHRoaXMubWF0Y2hlcyksCg==</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
@@ -2646,7 +2646,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBzdGF0ZTsKICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
