@@ -520,13 +520,13 @@
         <mark key="." line="159" column="13" />
         <mark key="^" line="159" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/factory-cup/client/src/components/events/MatchPrediction.js" timestamp="1528321799392">
+      <file name="$USER_HOME$/dev/factory-cup/client/src/components/events/MatchPrediction.js" timestamp="1528322512779">
         <mark key="'" line="54" column="8" />
-        <mark key="[" line="55" column="11" />
+        <mark key="[" line="34" column="27" />
         <mark key="k" line="40" column="0" />
-        <mark key="]" line="55" column="12" />
-        <mark key="." line="55" column="12" />
-        <mark key="^" line="55" column="12" />
+        <mark key="]" line="34" column="27" />
+        <mark key="." line="34" column="27" />
+        <mark key="^" line="34" column="26" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/equipments/EquipmentsList.spec.js" timestamp="1527609259025">
         <mark key="'" line="44" column="17" />
@@ -1028,8 +1028,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaXNQcmVkaWN0aW5nID0gdHJ1ZTsK</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2556,7 +2556,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>onClick</text>
+        <text>'</text>
       </register>
       <register name="m" type="4">
         <keys>
