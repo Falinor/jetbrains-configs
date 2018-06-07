@@ -285,12 +285,11 @@
         <mark key="." line="22" column="2" />
         <mark key="^" line="22" column="2" />
       </file>
-      <file name="$USER_HOME$/dev/factory-cup/api/src/events/fifa-wc-2018/bets/repository.js" timestamp="1528385407935">
-        <mark key="'" line="7" column="20" />
-        <mark key="[" line="7" column="21" />
-        <mark key="]" line="9" column="2" />
-        <mark key="." line="9" column="2" />
-        <mark key="^" line="9" column="2" />
+      <file name="$USER_HOME$/dev/factory-cup/api/src/events/fifa-wc-2018/bets/repository.js" timestamp="1528386692523">
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="9" column="23" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="13" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/src/components/auth/Auth.vue" timestamp="1527511469140">
         <mark key="[" line="17" column="0" />
@@ -371,12 +370,12 @@
         <mark key="." line="33" column="15" />
         <mark key="^" line="33" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/factory-cup/api/src/events/fifa-wc-2018/index.js" timestamp="1528384917705">
+      <file name="$USER_HOME$/dev/factory-cup/api/src/events/fifa-wc-2018/index.js" timestamp="1528386882415">
         <mark key="'" line="7" column="0" />
-        <mark key="[" line="10" column="30" />
-        <mark key="]" line="10" column="32" />
-        <mark key="." line="10" column="32" />
-        <mark key="^" line="10" column="32" />
+        <mark key="[" line="10" column="2" />
+        <mark key="]" line="9" column="20" />
+        <mark key="." line="9" column="20" />
+        <mark key="^" line="9" column="20" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/importer/README.md" timestamp="1526029225054">
         <mark key="'" line="0" column="23" />
@@ -647,10 +646,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="0" filename="$USER_HOME$/dev/factory-cup/client/src/screens/events/FifaWorldCup.js" />
-      <jump line="66" column="25" filename="$USER_HOME$/dev/factory-cup/api/src/schema.js" />
-      <jump line="46" column="2" filename="$USER_HOME$/dev/factory-cup/api/src/index.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/dev/factory-cup/api/src/index.js" />
       <jump line="1" column="13" filename="$USER_HOME$/dev/factory-cup/api/test/unit/events/fifa-wc-2018/index.test.js" />
       <jump line="15" column="32" filename="$USER_HOME$/dev/factory-cup/api/test/unit/events/fifa-wc-2018/index.test.js" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/factory-cup/api/test/unit/events/fifa-wc-2018/index.test.js" />
@@ -747,6 +742,10 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/factory-cup/client/src/components/Counter.js" />
       <jump line="9" column="10" filename="$USER_HOME$/dev/factory-cup/api/src/events/fifa-wc-2018/type-defs.js" />
       <jump line="5" column="20" filename="$USER_HOME$/dev/factory-cup/api/src/events/fifa-wc-2018/bets/repository.js" />
+      <jump line="6" column="20" filename="$USER_HOME$/dev/factory-cup/api/src/events/fifa-wc-2018/bets/repository.js" />
+      <jump line="4" column="12" filename="$USER_HOME$/dev/factory-cup/api/src/events/fifa-wc-2018/bets/repository.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/factory-cup/api/src/events/fifa-wc-2018/bets/repository.js" />
+      <jump line="7" column="1" filename="$USER_HOME$/dev/factory-cup/api/src/events/fifa-wc-2018/bets/repository.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1042,8 +1041,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>(.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAvLyBDcgo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2570,7 +2569,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>(.</text>
+        <text>unisgned</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2585,7 +2584,7 @@
         <text encoding="base64">ICAgIHRoaXMub25TYXZlID0gdGhpcy5vblNhdmUuYmluZCh0aGlzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CmNvbnN0IGZpbmQK</text>
+        <text encoding="base64">ICAvLyBDcgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2599,31 +2598,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">ICAgICAgdC51dWlkKCdhdXRob3InKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgY3JlYXRlUmVwb3NpdG9yeSA9IChkYikgPT4gewogIAo=</text>
+        <text encoding="base64">ICAgICAgdC5zdHJpbmcoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGtuZXggZnJvbSAna25leCc7Cg==</text>
+        <text encoding="base64">ICAgICAgbWF0Y2gK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxlZnRUZWFtUG9pbnRzLAogICAgcmlnaHRUZWFtUG9pbnRzLAo=</text>
+        <text encoding="base64">ICAgICAgdC5pbmNyZW1lbnRzKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGF1dGhvcjogSUQhCg==</text>
+        <text encoding="base64">ICBkYi5zY2huZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMucHJvcHMub25DbG9zZSgpOwo=</text>
+        <text encoding="base64">ICBwCg==</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMub25QcmVkaWN0ID0gdGhpcy5vblByZWRpY3QuYmluZCh0aGlzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoewogICAgfSkK</text>
+        <text encoding="base64">Y29uc3QgaW5pdCA9IAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
