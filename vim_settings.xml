@@ -520,13 +520,13 @@
         <mark key="." line="159" column="13" />
         <mark key="^" line="159" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/factory-cup/client/src/components/events/MatchPrediction.js" timestamp="1528322512779">
+      <file name="$USER_HOME$/dev/factory-cup/client/src/components/events/MatchPrediction.js" timestamp="1528325534196">
         <mark key="'" line="54" column="8" />
-        <mark key="[" line="34" column="27" />
+        <mark key="[" line="2" column="26" />
         <mark key="k" line="40" column="0" />
-        <mark key="]" line="34" column="27" />
-        <mark key="." line="34" column="27" />
-        <mark key="^" line="34" column="26" />
+        <mark key="]" line="4" column="32" />
+        <mark key="." line="4" column="32" />
+        <mark key="^" line="4" column="32" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/equipments/EquipmentsList.spec.js" timestamp="1527609259025">
         <mark key="'" line="44" column="17" />
@@ -587,6 +587,12 @@
         <mark key="." line="16" column="23" />
         <mark key="^" line="3" column="16" />
       </file>
+      <file name="$USER_HOME$/dev/factory-cup/client/src/components/Counter.js" timestamp="1528325878011">
+        <mark key="[" line="30" column="71" />
+        <mark key="]" line="30" column="70" />
+        <mark key="." line="30" column="70" />
+        <mark key="^" line="30" column="70" />
+      </file>
       <file name="$USER_HOME$/dev/part-edge/importer/test/unit/server.test.js" timestamp="1525871552420">
         <mark key="'" line="7" column="26" />
         <mark key="[" line="32" column="10" />
@@ -633,13 +639,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="7" filename="$USER_HOME$/dev/factory-cup/client/src/components/events/Match.js" />
-      <jump line="0" column="44" filename="$USER_HOME$/dev/factory-cup/client/src/components/events/Match.js" />
-      <jump line="5" column="50" filename="$USER_HOME$/dev/factory-cup/api/src/events/fifa-wc-2018/index.js" />
-      <jump line="0" column="23" filename="$USER_HOME$/dev/factory-cup/api/src/events/fifa-wc-2018/index.js" />
-      <jump line="3" column="29" filename="$USER_HOME$/dev/factory-cup/api/src/events/index.js" />
-      <jump line="12" column="26" filename="$USER_HOME$/dev/factory-cup/api/src/events/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/factory-cup/api/src/events/index.js" />
       <jump line="21" column="3" filename="$USER_HOME$/dev/factory-cup/api/src/app.js" />
       <jump line="18" column="10" filename="$USER_HOME$/dev/factory-cup/api/src/app.js" />
       <jump line="2" column="5" filename="$USER_HOME$/dev/factory-cup/api/src/events/index.js" />
@@ -733,6 +732,13 @@
       <jump line="37" column="13" filename="$USER_HOME$/dev/factory-cup/client/src/components/events/MatchPrediction.js" />
       <jump line="54" column="8" filename="$USER_HOME$/dev/factory-cup/client/src/components/events/MatchPrediction.js" />
       <jump line="11" column="14" filename="$USER_HOME$/dev/factory-cup/client/src/components/events/MatchesTimeline.js" />
+      <jump line="1" column="1" filename="$USER_HOME$/dev/factory-cup/client/src/components/Counter.js" />
+      <jump line="25" column="8" filename="$USER_HOME$/dev/factory-cup/client/src/components/Counter.js" />
+      <jump line="0" column="46" filename="$USER_HOME$/dev/factory-cup/client/src/components/Counter.js" />
+      <jump line="26" column="107" filename="$USER_HOME$/dev/factory-cup/client/src/components/Counter.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/dev/factory-cup/client/src/components/Counter.js" />
+      <jump line="10" column="47" filename="$USER_HOME$/dev/factory-cup/client/src/components/Counter.js" />
+      <jump line="29" column="0" filename="$USER_HOME$/dev/factory-cup/client/src/components/Counter.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1029,7 +1035,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>decrememnt</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2556,7 +2562,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>decrememnt</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2565,13 +2571,13 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmcm9tXD4=</text>
+        <text>inc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IE1hdGNoZXNUaW1lbGluZSBmcm9tICcuLi8uLi9jb21wb25lbnRzL2V2ZW50cy9NYXRjaGVzVGltZWxpbmUnOwo=</text>
+        <text encoding="base64">ICAgIHRoaXMuaW5jcmVtZW50ID0gdGhpcy5pbmNyZW1lbnQuYmluZCh0aGlzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaXNQcmVkaWN0aW5nID0gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb25DbGljaz17dGhpcy5pbmNyZW1lbnR9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2585,48 +2591,47 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB0ZWFtOiBQcm9wVHlwZXMub2JqZWN0LmlzUmVxdWlyZWQK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gewogICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcm9wcykgewogICAgc3VwZXIocHJvcHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNldAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLnN0YXRlLmNvdW50IDwgdGhpcy5wcm9wcy5tYXhDb3VudCkgewo=</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">dGhpcy5zZXRTdGF0ZShwcmV2U3RhdGUgPT4gKHsKICAgICAgY291bnQ6IHByZXZTdGF0ZS5jb3VudCArIDEKICAgIH0pKTs=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzdGF0aWMgZ2V0RGVyaXZlZFN0YXRlRnJvbVByb3BzKG5leHRQcm9wcywgcHJldlN0YXRlKSB7CiAgICBjb25zb2xlLmxvZyhuZXh0UHJvcHMsIHByZXZTdGF0ZSk7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuaXNQcmVkaWN0aW5nID0gdHJ1ZTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmcm9tXD4=</last-search>
+      <last-search>inc</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmcm9tXD4=</last-pattern>
-      <last-replace>matches[selected]</last-replace>
-      <last-substitute>selectedMatch</last-substitute>
+      <last-pattern>inc</last-pattern>
+      <last-replace>dec</last-replace>
+      <last-substitute>inc</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>smtp</entry>
         <entry>SMTP</entry>
         <entry>service</entry>
         <entry>knex</entry>
@@ -2646,9 +2651,9 @@
         <entry>mutation</entry>
         <entry>selectedMatch</entry>
         <entry encoding="base64">XDxmcm9tXD4=</entry>
+        <entry>inc</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL25ldy9zZXJ2aWNlYWJsZS9n</entry>
         <entry encoding="base64">JzwsJz5zL3N0b2NrSW5mby9zdG9ja0luZm9Db2wvZw==</entry>
         <entry encoding="base64">JzwsJz53cQ==</entry>
         <entry encoding="base64">JzwsJz5zL2xvdFN0b2NrL3BhcnROdW1iZXIvZw==</entry>
@@ -2667,6 +2672,7 @@
         <entry encoding="base64">JzwsJz5zL1VQREFURV9PUkRFUlMvUEFUQ0hfT1JERVIvZw==</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL3NlbGVjdGVkTWF0Y2gvbWF0Y2hlc1tzZWxlY3RlZF0vZw==</entry>
+        <entry encoding="base64">JzwsJz5zL2luYy9kZWMvZw==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
