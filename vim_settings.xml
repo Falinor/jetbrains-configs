@@ -447,11 +447,11 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/factory-cup/client/src/screens/events/FifaWorldCup.js" timestamp="1528296489138">
+      <file name="$USER_HOME$/dev/factory-cup/client/src/screens/events/FifaWorldCup.js" timestamp="1528359969974">
         <mark key="'" line="4" column="17" />
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
       </file>
       <file name="$USER_HOME$/dev/factory-cup/api/test/unit/citadel.test.js" timestamp="1526545428668">
         <mark key="[" line="38" column="9" />
@@ -520,13 +520,11 @@
         <mark key="." line="159" column="13" />
         <mark key="^" line="159" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/factory-cup/client/src/components/events/MatchPrediction.js" timestamp="1528325534196">
-        <mark key="'" line="54" column="8" />
-        <mark key="[" line="2" column="26" />
-        <mark key="k" line="40" column="0" />
-        <mark key="]" line="4" column="32" />
-        <mark key="." line="4" column="32" />
-        <mark key="^" line="4" column="32" />
+      <file name="$USER_HOME$/dev/factory-cup/client/src/components/events/MatchPrediction.js" timestamp="1528364612954">
+        <mark key="[" line="42" column="20" />
+        <mark key="]" line="42" column="20" />
+        <mark key="." line="42" column="20" />
+        <mark key="^" line="69" column="25" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/equipments/EquipmentsList.spec.js" timestamp="1527609259025">
         <mark key="'" line="44" column="17" />
@@ -587,11 +585,12 @@
         <mark key="." line="16" column="23" />
         <mark key="^" line="3" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/factory-cup/client/src/components/Counter.js" timestamp="1528325878011">
-        <mark key="[" line="30" column="71" />
-        <mark key="]" line="30" column="70" />
-        <mark key="." line="30" column="70" />
-        <mark key="^" line="30" column="70" />
+      <file name="$USER_HOME$/dev/factory-cup/client/src/components/Counter.js" timestamp="1528362558855">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="37" column="41" />
+        <mark key="]" line="37" column="41" />
+        <mark key="^" line="37" column="40" />
+        <mark key="." line="37" column="41" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/importer/test/unit/server.test.js" timestamp="1525871552420">
         <mark key="'" line="7" column="26" />
@@ -639,10 +638,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="3" filename="$USER_HOME$/dev/factory-cup/api/src/app.js" />
-      <jump line="18" column="10" filename="$USER_HOME$/dev/factory-cup/api/src/app.js" />
-      <jump line="2" column="5" filename="$USER_HOME$/dev/factory-cup/api/src/events/index.js" />
-      <jump line="6" column="0" filename="$USER_HOME$/dev/factory-cup/api/src/events/fifa-wc-2018/index.js" />
       <jump line="14" column="0" filename="$USER_HOME$/dev/factory-cup/api/test/unit/events/fifa-wc-2018/type-defs.test.js" />
       <jump line="4" column="11" filename="$USER_HOME$/dev/factory-cup/api/test/unit/events/fifa-wc-2018/type-defs.test.js" />
       <jump line="36" column="0" filename="$USER_HOME$/dev/factory-cup/client/src/screens/events/FifaWorldCup.js" />
@@ -734,11 +729,15 @@
       <jump line="11" column="14" filename="$USER_HOME$/dev/factory-cup/client/src/components/events/MatchesTimeline.js" />
       <jump line="1" column="1" filename="$USER_HOME$/dev/factory-cup/client/src/components/Counter.js" />
       <jump line="25" column="8" filename="$USER_HOME$/dev/factory-cup/client/src/components/Counter.js" />
-      <jump line="0" column="46" filename="$USER_HOME$/dev/factory-cup/client/src/components/Counter.js" />
       <jump line="26" column="107" filename="$USER_HOME$/dev/factory-cup/client/src/components/Counter.js" />
       <jump line="3" column="0" filename="$USER_HOME$/dev/factory-cup/client/src/components/Counter.js" />
       <jump line="10" column="47" filename="$USER_HOME$/dev/factory-cup/client/src/components/Counter.js" />
       <jump line="29" column="0" filename="$USER_HOME$/dev/factory-cup/client/src/components/Counter.js" />
+      <jump line="55" column="54" filename="$USER_HOME$/dev/factory-cup/client/src/components/events/MatchPrediction.js" />
+      <jump line="36" column="16" filename="$USER_HOME$/dev/factory-cup/client/src/components/Counter.js" />
+      <jump line="46" column="17" filename="$USER_HOME$/dev/factory-cup/client/src/components/Counter.js" />
+      <jump line="52" column="0" filename="$USER_HOME$/dev/factory-cup/client/src/components/Counter.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/factory-cup/client/src/components/Counter.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1035,7 +1034,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>decrememnt</text>
+        <text>true</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2562,7 +2561,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>decrememnt</text>
+        <text>true</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2574,10 +2573,10 @@
         <text>inc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaW5jcmVtZW50ID0gdGhpcy5pbmNyZW1lbnQuYmluZCh0aGlzKTsK</text>
+        <text encoding="base64">ICAgIHRoaXMub25TYXZlID0gdGhpcy5vblNhdmUuYmluZCh0aGlzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb25DbGljaz17dGhpcy5pbmNyZW1lbnR9Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMucHJvcHMub25DbG9zZSgpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2591,31 +2590,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHRoaXMub25QcmVkaWN0ID0gdGhpcy5vblByZWRpY3QuYmluZCh0aGlzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoewogICAgfSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gewogICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgaXNQcmVkaWN0aW5nOiBmYWxzZSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNldAo=</text>
+        <text encoding="base64">ICAgIHRoaXMub25SZXNldCA9IHRoaXMub25SZXNldC5iaW5kKHRoaXMpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAKICBvbkNsb3NlKCkge30K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLnN0YXRlLmNvdW50IDwgdGhpcy5wcm9wcy5tYXhDb3VudCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2l6ZT17fQo=</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">dGhpcy5zZXRTdGF0ZShwcmV2U3RhdGUgPT4gKHsKICAgICAgY291bnQ6IHByZXZTdGF0ZS5jb3VudCArIDEKICAgIH0pKTs=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdG9vbHRpcD0iU2F2ZSB0aGlzIHByZWRpY3Rpb24iCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaXNQcmVkaWN0aW5nID0gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG9vbHRpcD0iU2F2ZSB0aGlzIHByZWRpY3Rpb24iCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
