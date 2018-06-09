@@ -17,6 +17,12 @@
         <mark key="." line="15" column="37" />
         <mark key="^" line="15" column="37" />
       </file>
+      <file name="$USER_HOME$/dev/factory-cup/client/src/components/AuthButton.js" timestamp="1528573101936">
+        <mark key="[" line="3" column="54" />
+        <mark key="]" line="3" column="62" />
+        <mark key="^" line="3" column="62" />
+        <mark key="." line="3" column="62" />
+      </file>
       <file name="$USER_HOME$/dev/factory-cup/client/src/components/CardActionOngoing.js" timestamp="1526982914765">
         <mark key="'" line="53" column="33" />
         <mark key="[" line="62" column="42" />
@@ -650,15 +656,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="7" filename="$USER_HOME$/dev/factory-cup/client/src/screens/events/FifaWorldCup.js" />
-      <jump line="3" column="7" filename="$USER_HOME$/dev/factory-cup/client/src/screens/events/FifaWorldCup.js" />
-      <jump line="54" column="18" filename="$USER_HOME$/dev/factory-cup/client/src/screens/events/FifaWorldCup.js" />
-      <jump line="51" column="68" filename="$USER_HOME$/dev/factory-cup/client/src/screens/events/FifaWorldCup.js" />
-      <jump line="14" column="6" filename="$USER_HOME$/dev/factory-cup/client/src/screens/events/FifaWorldCup.js" />
-      <jump line="35" column="0" filename="$USER_HOME$/dev/factory-cup/client/src/screens/events/FifaWorldCup.js" />
-      <jump line="61" column="0" filename="$USER_HOME$/dev/factory-cup/client/src/screens/events/FifaWorldCup.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/factory-cup/client/src/screens/events/FifaWorldCup.js" />
-      <jump line="4" column="0" filename="$USER_HOME$/dev/factory-cup/client/src/components/Admin.test.js" />
       <jump line="1" column="14" filename="$USER_HOME$/dev/factory-cup/client/test/FifaWorldCup.test.js" />
       <jump line="3" column="45" filename="$USER_HOME$/dev/factory-cup/client/test/FifaWorldCup.test.js" />
       <jump line="67" column="48" filename="$USER_HOME$/dev/factory-cup/client/src/screens/events/FifaWorldCup.js" />
@@ -750,6 +747,15 @@
       <jump line="15" column="1" filename="$USER_HOME$/dev/factory-cup/client/src/services/Auth.js" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/factory-cup/client/src/services/Auth.js" />
       <jump line="17" column="19" filename="$USER_HOME$/dev/factory-cup/client/src/services/Auth.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/dev/factory-cup/client/src/components/AuthButton.js" />
+      <jump line="2" column="29" filename="$USER_HOME$/dev/factory-cup/client/src/components/AuthButton.js" />
+      <jump line="20" column="25" filename="$USER_HOME$/dev/factory-cup/client/src/components/AuthButton.js" />
+      <jump line="0" column="40" filename="$USER_HOME$/dev/factory-cup/client/src/components/AuthButton.js" />
+      <jump line="3" column="19" filename="$USER_HOME$/dev/factory-cup/client/src/components/AuthButton.js" />
+      <jump line="18" column="0" filename="$USER_HOME$/dev/factory-cup/client/src/components/AuthButton.js" />
+      <jump line="19" column="36" filename="$USER_HOME$/dev/factory-cup/client/src/components/AuthButton.js" />
+      <jump line="4" column="31" filename="$USER_HOME$/dev/factory-cup/client/src/components/AuthButton.js" />
+      <jump line="16" column="4" filename="$USER_HOME$/dev/factory-cup/client/src/components/AuthButton.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1046,7 +1052,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>jsx</text>
+        <text>props</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2573,7 +2579,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>jsx</text>
+        <text>props</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2588,7 +2594,7 @@
         <text encoding="base64">ICAgIHRoaXMubGVmdFRlYW1Db3VudGVyID0gUmVhY3QuY3JlYXRlUmVmKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJ2hpc3RvcnknOwo=</text>
+        <text encoding="base64">KTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2602,15 +2608,18 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGF1dGggPSBuZXcgQXV0aCgpOwogICAgYXV0aC5sb2dpbigpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJ2hpc3RvcnknOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGF1dGggPSBuZXcgQXV0aCgpOwogICAgYXV0aC5sb2dpbigpOwo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>constructor() {
     this.login = this.login.bind(this);
     this.logout = this.logout.bind(this);
@@ -2618,16 +2627,16 @@
     this.isAuthenticated = this.isAuthenticated.bind(this);
   }</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMuCg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN1cGVyKHByb3BzKTsK</text>
+        <text encoding="base64">ICAgIHRoaXMuCg==</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
-      <register name="8" type="4">
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHN1cGVyKHByb3BzKTsK</text>
+      </register>
+      <register name="9" type="4">
         <text>auth0 = new auth0.WebAuth({
     domain: 'factorycup.eu.auth0.com',
     clientID: '61PPNx52B1bZ4hSiZwCf3cR6T3p72Vq0',
@@ -2636,9 +2645,6 @@
     responseType: 'token id_token',
     scope: 'openid'
   });</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
