@@ -452,12 +452,12 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/factory-cup/client/src/screens/events/FifaWorldCup.js" timestamp="1528545348731">
-        <mark key="'" line="140" column="0" />
-        <mark key="[" line="140" column="61" />
-        <mark key="]" line="137" column="39" />
-        <mark key="^" line="137" column="39" />
-        <mark key="." line="137" column="39" />
+      <file name="$USER_HOME$/dev/factory-cup/client/src/screens/events/FifaWorldCup.js" timestamp="1528548525032">
+        <mark key="'" line="143" column="0" />
+        <mark key="[" line="69" column="59" />
+        <mark key="]" line="71" column="16" />
+        <mark key="." line="71" column="16" />
+        <mark key="^" line="71" column="16" />
       </file>
       <file name="$USER_HOME$/dev/factory-cup/api/test/unit/citadel.test.js" timestamp="1526545428668">
         <mark key="[" line="38" column="9" />
@@ -1040,8 +1040,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>props</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHRoaXMuCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2583,7 +2583,7 @@
         <text encoding="base64">ICAgIHRoaXMubGVmdFRlYW1Db3VudGVyID0gUmVhY3QuY3JlYXRlUmVmKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN1cGVyKHByb3BzKTsK</text>
+        <text encoding="base64">ICAgIHRoaXMuCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2596,7 +2596,10 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHN1cGVyKHByb3BzKTsK</text>
+      </register>
+      <register name="3" type="4">
         <text>auth0 = new auth0.WebAuth({
     domain: 'factorycup.eu.auth0.com',
     clientID: '61PPNx52B1bZ4hSiZwCf3cR6T3p72Vq0',
@@ -2606,31 +2609,28 @@
     scope: 'openid'
   });</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhcmlhYmxlczogewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbGVmdFRlYW1Qb2ludHMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByaWdodFRlYW1Qb2ludHMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtYXRjaDogbWF0Y2hlc1tzZWxlY3RlZF0uaWQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pOw==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>worldCupBets {
     
     }</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnN0IE1hdGNoRGlzcGxheSA9ICgKCg==</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgICApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnN0IE1hdGNoRGlzcGxheSA9ICgKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPE1hdGNoRGlzcGxheSAvPgo=</text>
+        <text encoding="base64">CiAgICAgICAgICApOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
