@@ -445,11 +445,12 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/factory-cup/client/src/screens/events/FifaWorldCup.js" timestamp="1528534929556">
-        <mark key="'" line="129" column="14" />
-        <mark key="[" line="98" column="26" />
-        <mark key="]" line="98" column="26" />
-        <mark key="." line="98" column="26" />
+      <file name="$USER_HOME$/dev/factory-cup/client/src/screens/events/FifaWorldCup.js" timestamp="1528540108192">
+        <mark key="'" line="26" column="2" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
+        <mark key="^" line="71" column="18" />
       </file>
       <file name="$USER_HOME$/dev/factory-cup/api/test/unit/citadel.test.js" timestamp="1526545428668">
         <mark key="[" line="38" column="9" />
@@ -646,10 +647,8 @@
       <jump line="54" column="18" filename="$USER_HOME$/dev/factory-cup/client/src/screens/events/FifaWorldCup.js" />
       <jump line="51" column="68" filename="$USER_HOME$/dev/factory-cup/client/src/screens/events/FifaWorldCup.js" />
       <jump line="14" column="6" filename="$USER_HOME$/dev/factory-cup/client/src/screens/events/FifaWorldCup.js" />
-      <jump line="30" column="0" filename="$USER_HOME$/dev/factory-cup/client/src/screens/events/FifaWorldCup.js" />
       <jump line="35" column="0" filename="$USER_HOME$/dev/factory-cup/client/src/screens/events/FifaWorldCup.js" />
       <jump line="61" column="0" filename="$USER_HOME$/dev/factory-cup/client/src/screens/events/FifaWorldCup.js" />
-      <jump line="38" column="27" filename="$USER_HOME$/dev/factory-cup/client/src/screens/events/FifaWorldCup.js" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/factory-cup/client/src/screens/events/FifaWorldCup.js" />
       <jump line="4" column="0" filename="$USER_HOME$/dev/factory-cup/client/src/components/Admin.test.js" />
       <jump line="1" column="14" filename="$USER_HOME$/dev/factory-cup/client/test/FifaWorldCup.test.js" />
@@ -737,6 +736,8 @@
       <jump line="101" column="24" filename="$USER_HOME$/dev/factory-cup/client/src/screens/events/FifaWorldCup.js" />
       <jump line="84" column="43" filename="$USER_HOME$/dev/factory-cup/client/src/screens/events/FifaWorldCup.js" />
       <jump line="88" column="14" filename="$USER_HOME$/dev/factory-cup/client/src/screens/events/FifaWorldCup.js" />
+      <jump line="30" column="2" filename="$USER_HOME$/dev/factory-cup/client/src/screens/events/FifaWorldCup.js" />
+      <jump line="38" column="2" filename="$USER_HOME$/dev/factory-cup/client/src/screens/events/FifaWorldCup.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1032,8 +1033,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHsgZGF0YSB9KQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHRoaXMub25TYXZlUHJlZGljdGlvbiA9IHRoaXMub25TYXZlUHJlZGljdGlvbi5iaW5kKHRoaXMpOwo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2574,8 +2575,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICJ1bml0OndhdGNoIjogIm5wbSBydW4gdW5pdCAtLSAtLXdhdGNoIiwK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">PEdyaWQKICAgICAgICAgICAgICAgIGNvbnRhaW5lcgogICAgICAgICAgICAgICAganVzdGlmeT0ic3BhY2UtYmV0d2VlbiIKICAgICAgICAgICAgICAgIGFsaWduSXRlbXM9ImNlbnRlciIKICAgICAgICAgICAgICAgIGNsYXNzTmFtZT17Y2xhc3Nlcy5tYXRjaH0KICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICA8R3JpZCBpdGVtPgogICAgICAgICAgICAgICAgICA8VGVhbSBuYW1lPXttYXRjaGVzW3NlbGVjdGVkXS5sZWZ0VGVhbS5uYW1lfSAvPgogICAgICAgICAgICAgICAgPC9HcmlkPgogICAgICAgICAgICAgICAgPEdyaWQgaXRlbT4KICAgICAgICAgICAgICAgICAgPE1hdGNoUHJlZGljdGlvbgogICAgICAgICAgICAgICAgICAgIHBsYXllZE9uPXtuZXcgRGF0ZShtYXRjaGVzW3NlbGVjdGVkXS5wbGF5ZWRPbil9CiAgICAgICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICAgICA8L0dyaWQ+CiAgICAgICAgICAgICAgICA8R3JpZCBpdGVtPgogICAgICAgICAgICAgICAgICA8VGVhbSBuYW1lPXttYXRjaGVzW3NlbGVjdGVkXS5yaWdodFRlYW0ubmFtZX0gLz4KICAgICAgICAgICAgICAgIDwvR3JpZD4KICAgICAgICAgICAgICA8L0dyaWQ+</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHRoaXMub25TYXZlUHJlZGljdGlvbiA9IHRoaXMub25TYXZlUHJlZGljdGlvbi5iaW5kKHRoaXMpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2588,32 +2589,32 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">PEdyaWQKICAgICAgICAgICAgICAgICAgICBjb250YWluZXIKICAgICAgICAgICAgICAgICAgICBqdXN0aWZ5PSJzcGFjZS1iZXR3ZWVuIgogICAgICAgICAgICAgICAgICAgIGFsaWduSXRlbXM9ImNlbnRlciIKICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9e2NsYXNzZXMubWF0Y2h9CiAgICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgICA8R3JpZCBpdGVtPgogICAgICAgICAgICAgICAgICAgICAgPFRlYW0gbmFtZT17bWF0Y2hlc1tzZWxlY3RlZF0ubGVmdFRlYW0ubmFtZX0gLz4KICAgICAgICAgICAgICAgICAgICA8L0dyaWQ+CiAgICAgICAgICAgICAgICAgICAgPEdyaWQgaXRlbT4KICAgICAgICAgICAgICAgICAgICAgIDxNYXRjaFByZWRpY3Rpb24KICAgICAgICAgICAgICAgICAgICAgICAgcGxheWVkT249e25ldyBEYXRlKG1hdGNoZXNbc2VsZWN0ZWRdLnBsYXllZE9uKX0KICAgICAgICAgICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICAgICAgICAgPC9HcmlkPgogICAgICAgICAgICAgICAgICAgIDxHcmlkIGl0ZW0+CiAgICAgICAgICAgICAgICAgICAgICA8VGVhbSBuYW1lPXttYXRjaGVzW3NlbGVjdGVkXS5yaWdodFRlYW0ubmFtZX0gLz4KICAgICAgICAgICAgICAgICAgICA8L0dyaWQ+CiAgICAgICAgICAgICAgICAgIDwvR3JpZD4=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHVwZGF0ZVdvcmxkQ3UK</text>
+        <text encoding="base64">ICB7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">PEdyaWQKICAgICAgICAgICAgICAgIGNvbnRhaW5lcgogICAgICAgICAgICAgICAganVzdGlmeT0ic3BhY2UtYmV0d2VlbiIKICAgICAgICAgICAgICAgIGFsaWduSXRlbXM9ImNlbnRlciIKICAgICAgICAgICAgICAgIGNsYXNzTmFtZT17Y2xhc3Nlcy5tYXRjaH0KICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICA8R3JpZCBpdGVtPgogICAgICAgICAgICAgICAgICA8VGVhbSBuYW1lPXttYXRjaGVzW3NlbGVjdGVkXS5sZWZ0VGVhbS5uYW1lfSAvPgogICAgICAgICAgICAgICAgPC9HcmlkPgogICAgICAgICAgICAgICAgPEdyaWQgaXRlbT4KICAgICAgICAgICAgICAgICAgPE1hdGNoUHJlZGljdGlvbgogICAgICAgICAgICAgICAgICAgIHBsYXllZE9uPXtuZXcgRGF0ZShtYXRjaGVzW3NlbGVjdGVkXS5wbGF5ZWRPbil9CiAgICAgICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICAgICA8L0dyaWQ+CiAgICAgICAgICAgICAgICA8R3JpZCBpdGVtPgogICAgICAgICAgICAgICAgICA8VGVhbSBuYW1lPXttYXRjaGVzW3NlbGVjdGVkXS5yaWdodFRlYW0ubmFtZX0gLz4KICAgICAgICAgICAgICAgIDwvR3JpZD4KICAgICAgICAgICAgICA8L0dyaWQ+</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CmltcG9ydCB7fSBmcm9tICcnCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">PEdyaWQKICAgICAgICAgICAgICAgICAgICBjb250YWluZXIKICAgICAgICAgICAgICAgICAgICBqdXN0aWZ5PSJzcGFjZS1iZXR3ZWVuIgogICAgICAgICAgICAgICAgICAgIGFsaWduSXRlbXM9ImNlbnRlciIKICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9e2NsYXNzZXMubWF0Y2h9CiAgICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgICA8R3JpZCBpdGVtPgogICAgICAgICAgICAgICAgICAgICAgPFRlYW0gbmFtZT17bWF0Y2hlc1tzZWxlY3RlZF0ubGVmdFRlYW0ubmFtZX0gLz4KICAgICAgICAgICAgICAgICAgICA8L0dyaWQ+CiAgICAgICAgICAgICAgICAgICAgPEdyaWQgaXRlbT4KICAgICAgICAgICAgICAgICAgICAgIDxNYXRjaFByZWRpY3Rpb24KICAgICAgICAgICAgICAgICAgICAgICAgcGxheWVkT249e25ldyBEYXRlKG1hdGNoZXNbc2VsZWN0ZWRdLnBsYXllZE9uKX0KICAgICAgICAgICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICAgICAgICAgPC9HcmlkPgogICAgICAgICAgICAgICAgICAgIDxHcmlkIGl0ZW0+CiAgICAgICAgICAgICAgICAgICAgICA8VGVhbSBuYW1lPXttYXRjaGVzW3NlbGVjdGVkXS5yaWdodFRlYW0ubmFtZX0gLz4KICAgICAgICAgICAgICAgICAgICA8L0dyaWQ+CiAgICAgICAgICAgICAgICAgIDwvR3JpZD4=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJhcGkiOiAiYXZhIFwidGVzdC9hcGkvKiovKi50ZXN0LmpzXCIiLAo=</text>
+        <text encoding="base64">ICAgIHVwZGF0ZVdvcmxkQ3UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB7fTsK</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CmltcG9ydCB7fSBmcm9tICcnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZXJyLAo=</text>
+        <text encoding="base64">ICAgICJhcGkiOiAiYXZhIFwidGVzdC9hcGkvKiovKi50ZXN0LmpzXCIiLAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
