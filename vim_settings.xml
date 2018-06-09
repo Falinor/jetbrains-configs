@@ -353,12 +353,12 @@
         <mark key="^" line="28" column="29" />
         <mark key="." line="28" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/factory-cup/client/src/services/Auth.js" timestamp="1528547396092">
+      <file name="$USER_HOME$/dev/factory-cup/client/src/services/Auth.js" timestamp="1528549419730">
         <mark key="'" line="19" column="19" />
-        <mark key="[" line="3" column="14" />
-        <mark key="]" line="3" column="14" />
-        <mark key="." line="3" column="14" />
-        <mark key="^" line="4" column="8" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="17" column="1" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/importer/test/e2e/index.test.js" timestamp="1525873833973">
         <mark key="'" line="62" column="31" />
@@ -1041,7 +1041,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRoaXMuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2583,7 +2583,7 @@
         <text encoding="base64">ICAgIHRoaXMubGVmdFRlYW1Db3VudGVyID0gUmVhY3QuY3JlYXRlUmVmKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2597,9 +2597,23 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN1cGVyKHByb3BzKTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="4">
+        <text>constructor() {
+    this.login = this.login.bind(this);
+    this.logout = this.logout.bind(this);
+    this.handleAuthentication = this.handleAuthentication.bind(this);
+    this.isAuthenticated = this.isAuthenticated.bind(this);
+  }</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHRoaXMuCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHN1cGVyKHByb3BzKTsK</text>
+      </register>
+      <register name="6" type="4">
         <text>auth0 = new auth0.WebAuth({
     domain: 'factorycup.eu.auth0.com',
     clientID: '61PPNx52B1bZ4hSiZwCf3cR6T3p72Vq0',
@@ -2609,28 +2623,17 @@
     scope: 'openid'
   });</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhcmlhYmxlczogewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbGVmdFRlYW1Qb2ludHMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByaWdodFRlYW1Qb2ludHMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtYXRjaDogbWF0Y2hlc1tzZWxlY3RlZF0uaWQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pOw==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="4">
-        <text>worldCupBets {
-    
-    }</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnN0IE1hdGNoRGlzcGxheSA9ICgKCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhcmlhYmxlczogewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbGVmdFRlYW1Qb2ludHMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByaWdodFRlYW1Qb2ludHMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtYXRjaDogbWF0Y2hlc1tzZWxlY3RlZF0uaWQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pOw==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgICApOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
