@@ -30,18 +30,18 @@
         <mark key="^" line="62" column="42" />
         <mark key="." line="62" column="42" />
       </file>
-      <file name="$USER_HOME$/dev/factory-cup/api/src/events/fifa-wc-2018/type-defs.js" timestamp="1528471935938">
+      <file name="$USER_HOME$/dev/factory-cup/api/src/events/fifa-wc-2018/type-defs.js" timestamp="1528633128099">
         <mark key="'" line="9" column="10" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="37" column="16" />
+        <mark key="[" line="33" column="38" />
+        <mark key="]" line="33" column="27" />
+        <mark key="." line="33" column="27" />
+        <mark key="^" line="33" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/factory-cup/api/src/app.js" timestamp="1528631180417">
-        <mark key="[" line="21" column="7" />
-        <mark key="]" line="15" column="16" />
-        <mark key="^" line="15" column="16" />
-        <mark key="." line="15" column="16" />
+      <file name="$USER_HOME$/dev/factory-cup/api/src/app.js" timestamp="1528632095884">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="16" column="18" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/components/mailer/index.js" timestamp="1526552894462">
         <mark key="'" line="5" column="2" />
@@ -343,16 +343,21 @@
         <mark key="." line="1" column="2" />
         <mark key="^" line="1" column="2" />
       </file>
+      <file name="$USER_HOME$/dev/factory-cup/api/src/events/fifa-wc-2018/bets/bets.json" timestamp="1528632266642">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/part-edge/client/src/store/modules/orders.js" timestamp="1528193794194">
         <mark key="[" line="129" column="0" />
         <mark key="]" line="129" column="0" />
         <mark key="." line="129" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/factory-cup/api/src/events/fifa-wc-2018/resolvers.js" timestamp="1528472149963">
-        <mark key="[" line="21" column="2" />
-        <mark key="]" line="21" column="8" />
-        <mark key="^" line="21" column="8" />
-        <mark key="." line="21" column="8" />
+      <file name="$USER_HOME$/dev/factory-cup/api/src/events/fifa-wc-2018/resolvers.js" timestamp="1528632309340">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="21" column="27" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/dev/factory-cup/client/src/App.js" timestamp="1528625105903">
         <mark key="'" line="2" column="0" />
@@ -483,10 +488,11 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/factory-cup/client/src/screens/events/FifaWorldCup.js" timestamp="1528629288855">
-        <mark key="[" line="151" column="0" />
-        <mark key="]" line="151" column="0" />
-        <mark key="." line="151" column="0" />
+      <file name="$USER_HOME$/dev/factory-cup/client/src/screens/events/FifaWorldCup.js" timestamp="1528633739298">
+        <mark key="[" line="122" column="49" />
+        <mark key="]" line="123" column="34" />
+        <mark key="^" line="123" column="34" />
+        <mark key="." line="123" column="34" />
       </file>
       <file name="$USER_HOME$/dev/factory-cup/api/test/unit/citadel.test.js" timestamp="1526545428668">
         <mark key="[" line="38" column="9" />
@@ -681,7 +687,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="1" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/dashboard/children/DashboardOpenRequests.spec.js" />
       <jump line="16" column="6" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/dashboard/children/DashboardOpenRequests.spec.js" />
       <jump line="28" column="7" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/dashboard/children/DashboardOpenRequests.spec.js" />
       <jump line="11" column="6" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/components/dashboard/children/DashboardOpenRequests.spec.js" />
@@ -781,6 +786,7 @@
       <jump line="15" column="24" filename="$USER_HOME$/dev/factory-cup/client/src/screens/Callback.js" />
       <jump line="14" column="2" filename="$USER_HOME$/dev/factory-cup/client/src/index.js" />
       <jump line="5" column="0" filename="$USER_HOME$/dev/factory-cup/client/src/index.js" />
+      <jump line="22" column="11" filename="$USER_HOME$/dev/factory-cup/api/src/events/fifa-wc-2018/resolvers.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1076,8 +1082,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB1cmk6Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgdXBkYXRlPXsoY2FjaGUsIHsgZGF0YTogeyBuZXdCZXQgfSB9KSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICBjb25zdCB7IGJldHMgfSA9IGNhY2hlLnJlYWRRdWVyeSh7IHF1ZXJ5OiBHRVRfQkVUUyB9KTsKICAgICAgICAgICAgICAgICAgICAgIGJldHMucHVzaChuZXdCZXQpOwogICAgICAgICAgICAgICAgICAgICAgY2FjaGUud3JpdGVRdWVyeSh7CiAgICAgICAgICAgICAgICAgICAgICAgIHF1ZXJ5OiBHRVRfQkVUUywKICAgICAgICAgICAgICAgICAgICAgICAgZGF0YTogeyBiZXRzIH0KICAgICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgICAgIH19</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2604,7 +2610,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>profile</text>
+        <text>x</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2618,8 +2624,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGxvY2FsU3RvcmFnZS5zZXRJdGVtKCdwcm9maWxlJywgYXV0aFJlc3VsdC5pZFRva2VuUGF5bG9hZCk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICB1cmk6Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgdXBkYXRlPXsoY2FjaGUsIHsgZGF0YTogeyBuZXdCZXQgfSB9KSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICBjb25zdCB7IGJldHMgfSA9IGNhY2hlLnJlYWRRdWVyeSh7IHF1ZXJ5OiBHRVRfQkVUUyB9KTsKICAgICAgICAgICAgICAgICAgICAgIGJldHMucHVzaChuZXdCZXQpOwogICAgICAgICAgICAgICAgICAgICAgY2FjaGUud3JpdGVRdWVyeSh7CiAgICAgICAgICAgICAgICAgICAgICAgIHF1ZXJ5OiBHRVRfQkVUUywKICAgICAgICAgICAgICAgICAgICAgICAgZGF0YTogeyBiZXRzIH0KICAgICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgICAgIH19</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2633,31 +2639,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fSk7Cgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgY2xpZW50ID0gbmV3IEFwb2xsb0NsaWVudCh7Cgo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB1cmk6ICcvZ3JhcGhxbCcsCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnN0IHsgY2xhc3NlcyB9ID0gdGhpcy5wcm9wczsKICAgICAgICAgIGNvbnN0IHsgc2VsZWN0ZWQgfSA9IHRoaXMuc3RhdGU7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByb2Nlc3MuZW52LlJFQUNUX0FQUF9BUElfVVJMIHx8CiAgICAnaHR0cHM6Ly9mYWN0b3J5Y3VwLWFwaS5hcHBzLmRldnRlc3QucGxhdGZvcm0udGhhbGVzZGlnaXRhbC5pby9ncmFwaHFsJwo=</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSW5NZW1vcnlDYWNoZSB9IGZyb20gJ2Fwb2xsby1jYWNoZS1pbm1lbW9yeSc7Cg==</text>
+        <text encoding="base64">ICAgIC8vIHdvcmxkQ3VwQmV0KGF1dGhvcgo=</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHV1aWQgZnJvbSAndXVpZCc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IEFwb2xsb0NsaWVudCBmcm9tICdhcG9sbG8tYm9vc3QnOwo=</text>
+        <text encoding="base64">ICAgIGlkOiB1dWlkKCksCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
