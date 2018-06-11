@@ -354,11 +354,10 @@
         <mark key="^" line="21" column="27" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/factory-cup/client/src/screens/fifa-world-cup/Matches.js" timestamp="1528711154555">
-        <mark key="[" line="10" column="8" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/dev/factory-cup/client/src/screens/fifa-world-cup/Matches.js" timestamp="1528724634556">
+        <mark key="]" line="115" column="31" />
+        <mark key="^" line="115" column="31" />
+        <mark key="." line="115" column="31" />
       </file>
       <file name="$USER_HOME$/dev/factory-cup/client/src/App.js" timestamp="1528712142690">
         <mark key="[" line="27" column="11" />
@@ -444,12 +443,12 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/factory-cup/client/src/screens/fifa-world-cup/queries.js" timestamp="1528712297527">
+      <file name="$USER_HOME$/dev/factory-cup/client/src/screens/fifa-world-cup/queries.js" timestamp="1528724268279">
         <mark key="'" line="44" column="1" />
-        <mark key="[" line="49" column="6" />
-        <mark key="]" line="49" column="5" />
-        <mark key="^" line="49" column="5" />
-        <mark key="." line="49" column="5" />
+        <mark key="[" line="49" column="8" />
+        <mark key="]" line="15" column="1" />
+        <mark key="^" line="15" column="1" />
+        <mark key="." line="15" column="1" />
       </file>
       <file name="$USER_HOME$/dev/factory-cup/api/docker-compose.yml" timestamp="1526475789596">
         <mark key="[" line="5" column="12" />
@@ -514,11 +513,11 @@
         <mark key="^" line="14" column="26" />
         <mark key="." line="14" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/factory-cup/client/src/components/Matches/MatchesPrediction.js" timestamp="1528711906362">
-        <mark key="[" line="65" column="4" />
-        <mark key="]" line="65" column="4" />
-        <mark key="^" line="167" column="28" />
-        <mark key="." line="65" column="4" />
+      <file name="$USER_HOME$/dev/factory-cup/client/src/components/Matches/MatchesPrediction.js" timestamp="1528724949844">
+        <mark key="[" line="160" column="16" />
+        <mark key="]" line="160" column="15" />
+        <mark key="." line="160" column="15" />
+        <mark key="^" line="160" column="15" />
       </file>
       <file name="/tmp/baby-foot-api/src/app/player/create-sptko.js" timestamp="1525697395020">
         <mark key="'" line="1" column="11" />
@@ -694,7 +693,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="0" filename="$USER_HOME$/dev/factory-cup/client/src/screens/events/FifaWorldCup.js" />
       <jump line="107" column="25" filename="$USER_HOME$/dev/factory-cup/client/src/screens/events/FifaWorldCup.js" />
       <jump line="9" column="0" filename="$USER_HOME$/dev/factory-cup/client/src/components/events/MatchesTimeline.js" />
       <jump line="0" column="25" filename="$USER_HOME$/dev/factory-cup/client/src/components/events/MatchesTimeline.js" />
@@ -794,6 +792,7 @@
       <jump line="0" column="34" filename="$USER_HOME$/dev/factory-cup/client/src/components/PrivateRoute.js" />
       <jump line="4" column="20" filename="$USER_HOME$/dev/factory-cup/client/src/screens/Login.js" />
       <jump line="6" column="29" filename="$USER_HOME$/dev/factory-cup/client/src/screens/Login.js" />
+      <jump line="93" column="39" filename="$USER_HOME$/dev/factory-cup/client/src/screens/fifa-world-cup/Matches.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1090,7 +1089,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>match</text>
+        <text>isRequired</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2617,7 +2616,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>match</text>
+        <text>isRequired</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2632,7 +2631,7 @@
         <text encoding="base64">aW1wb3J0IENoYWxsZW5nZXMgZnJvbSAnLi9zY3JlZW5zL0NoYWxsZW5nZXMnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICBwcmUK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2646,31 +2645,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByZXR1cm4gPGRpdj5Mb2cgaW48L2Rpdj47Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwbGF5ZWRPbj17bmV3IERhdGUobWF0Y2hlc1tzZWxlY3RlZF0ucGxheWVkT24pfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZXR1cm4gPEF1dGhQcm92ZGVyCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCB7IGF1dGggfSA9IHJlc3Q7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwcm9wcyk7Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXN0KTsK</text>
+        <text encoding="base64">ICByZXR1cm4gPGRpdj5Mb2cgaW48L2Rpdj47Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICByZXR1cm4gPEF1dGhQcm92ZGVyCg==</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwcm9wcyk7Cg==</text>
+        <text encoding="base64">ICBjb25zdCB7IGF1dGggfSA9IHJlc3Q7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxQcml2YXRlUm91dGUgcGF0aD0iL2ZpZmEtd2MtMjAxOCIgY29tcG9uZW50PXtGaWZhV29ybGRDdXB9IC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwcm9wcyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
