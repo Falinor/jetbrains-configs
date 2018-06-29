@@ -23,6 +23,11 @@
         <mark key="^" line="60" column="47" />
         <mark key="." line="60" column="47" />
       </file>
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/app/match/create-match-rework.js" timestamp="1530306571806">
+        <mark key="[" line="18" column="9" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/part-edge/client/.babelrc" timestamp="1522073484440">
         <mark key="'" line="7" column="2" />
         <mark key="[" line="7" column="6" />
@@ -588,6 +593,11 @@
         <mark key="." line="10" column="20" />
         <mark key="^" line="10" column="19" />
       </file>
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/utils/index.js" timestamp="1530287429824">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/part-edge/importer/test/unit/server.test.js" timestamp="1521195351877">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -795,6 +805,11 @@
         <mark key="]" line="39" column="0" />
         <mark key="^" line="29" column="3" />
         <mark key="." line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/container.js" timestamp="1530306309713">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/config/env.js" timestamp="1520502743222">
         <mark key="'" line="66" column="1579" />
@@ -1518,10 +1533,10 @@
         <mark key="^" line="3" column="26" />
         <mark key="." line="3" column="26" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/src/domain/player/model.js" timestamp="1530286471992">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/domain/player/model.js" timestamp="1530286699053">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/src/components/Navbar.vue" timestamp="1517845970922">
         <mark key="'" line="66" column="10" />
@@ -1609,7 +1624,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="2" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/repository.js" />
       <jump line="16" column="6" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/repository.js" />
       <jump line="69" column="46" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/repository.js" />
       <jump line="71" column="31" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/repository.js" />
@@ -1709,6 +1723,7 @@
       <jump line="3" column="11" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/toggles.spec.js" />
       <jump line="1" column="19" filename="$USER_HOME$/Dev/octo/src/repository.js" />
       <jump line="3" column="33" filename="$USER_HOME$/Dev/octo/src/repository.js" />
+      <jump line="19" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/app/match/create-match-rework.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1719,7 +1734,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gQGZsb3cK</text>
+        <text encoding="base64">ICAgICAgcmVkVGVhCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -3246,7 +3261,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGVmYXVsdCA=</text>
+        <text>i</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -3258,10 +3273,10 @@
         <text>var</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnRhaW5lci5yZXNvbHZlKCdsb2dnZXInKSwK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgcmVkID0gYXdhaXQgdGhpcy5maW5kT3JDcmVhdGVUZWFtKG1hdGNoLnJlZCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gQGZsb3cK</text>
+        <text encoding="base64">ICAgICAgcmVkVGVhCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3275,22 +3290,27 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gQGZsb3cK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgcmVkID0gYXdhaXQgdGhpcy5maW5kT3JDcmVhdGVUZWFtKG1hdGNoLnJlZCk7CiAgICAgIGNvbnN0IGJsdWUgPSBhd2FpdCB0aGlzLmZpbmRPckNyZWF0ZVRlYW0obWF0Y2guYmx1ZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAiZXh0ZW5kcyI6IFsK</text>
+        <text encoding="base64">ICAgIGF3YWl0IHRoaXMuZmluZE9yQ3JlYXRlVGVhbShtYXRjaC5yZWQucGxheWVycyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJhaXJibmItYmFzZSIKICBdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICJhaXJibmItYmFzZSIK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgLy8gQ3JlYXRlIHBsYXllcnMKICAgICAgY29uc3QgcmVkUGxheWVyUHJvbWlzZXMgPSBtYXRjaC5yZWQucGxheWVycy5tYXAoYXN5bmMgcCA9PgogICAgICAgIHRoaXMucGxheWVyUmVwb3NpdG9yeS5jcmVhdGUocCksCiAgICAgICk7CiAgICAgIGNvbnN0IGJsdWVQbGF5ZXJQcm9taXNlcyA9IG1hdGNoLmJsdWUucGxheWVycy5tYXAoYXN5bmMgcCA9PgogICAgICAgIHRoaXMucGxheWVyUmVwb3NpdG9yeS5jcmVhdGUocCksCiAgICAgICk7CiAgICAgIGNvbnN0IFtyZWRQbGF5ZXJJZHMsIGJsdWVQbGF5ZXJJZHNdID0gYXdhaXQgUHJvbWlzZS5hbGwoWwogICAgICAgIFByb21pc2UuYWxsKHJlZFBsYXllclByb21pc2VzKSwKICAgICAgICBQcm9taXNlLmFsbChibHVlUGxheWVyUHJvbWlzZXMpLAogICAgICBdKTsKICAgICAgLy8gQ3JlYXRlIHRlYW1zCiAgICAgIGNvbnN0IFtyZWRUZWFtSWQsIGJsdWVUZWFtSWRdID0gYXdhaXQgUHJvbWlzZS5hbGwoWwogICAgICAgIHRoaXMudGVhbVJlcG9zaXRvcnkuY3JlYXRlKHJlZFBsYXllcklkcyksCiAgICAgICAgdGhpcy50ZWFtUmVwb3NpdG9yeS5jcmVhdGUoYmx1ZVBsYXllcklkcyksCiAgICAgIF0pOwogICAgICAvLyBDcmVhdGUgbWF0Y2gKICAgICAgY29uc3QgbWF0Y2hJZCA9IGF3YWl0IHRoaXMubWF0Y2hSZXBvc2l0b3J5LmNyZWF0ZSh7CiAgICAgICAgbWF0Y2gsCiAgICAgICAgcmVkVGVhbUlkLAogICAgICAgIGJsdWVUZWFtSWQsCiAgICAgIH0pOw==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJwcm9taXNlIgo=</text>
+        <text encoding="base64">ICAgIC5yZQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICJhaXJibmItYmFzZSIK</text>
+      <register name="7" type="4">
+        <text>gister({
+      config: asValue(config),
+      logger: asValue(bunyan.createLogger({
+        
+      }))
+    })</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5481,11 +5501,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CmV4cG9ydCBjbGFzcyBCZXR0ZXJQcm9taXNlIGV4dGVuZHMgUHJvbWlzZSB7CiAgbWFwKC4uLmFyZ3MpIHsKCiAgfQp9</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CnRlc3QudG9kbwo=</text>
+        <text encoding="base64">ICAgIGF3YWl0IG1hdGNoLnJlZC5wbGF5ZXJzLm1hcChwID0+IGNyZWF0ZVBsYXllcihwKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
