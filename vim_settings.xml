@@ -17,11 +17,12 @@
         <mark key="^" line="60" column="47" />
         <mark key="." line="60" column="47" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/src/app/match/create-match-rework.js" timestamp="1530340808513">
-        <mark key="[" line="19" column="51" />
-        <mark key="]" line="19" column="50" />
-        <mark key="." line="19" column="50" />
-        <mark key="^" line="19" column="50" />
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/app/match/create-match-rework.js" timestamp="1530377560156">
+        <mark key="'" line="19" column="62" />
+        <mark key="[" line="19" column="59" />
+        <mark key="]" line="19" column="30" />
+        <mark key="." line="19" column="30" />
+        <mark key="^" line="19" column="30" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/.babelrc" timestamp="1522073484440">
         <mark key="'" line="7" column="2" />
@@ -37,11 +38,11 @@
         <mark key="." line="43" column="23" />
         <mark key="^" line="43" column="23" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/src/domain/match.js" timestamp="1530341948952">
-        <mark key="[" line="5" column="12" />
-        <mark key="]" line="5" column="26" />
-        <mark key="^" line="5" column="26" />
-        <mark key="." line="5" column="26" />
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/domain/match.js" timestamp="1530377010838">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="9" column="8" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/baby-foot/api/src/domain/team.js" timestamp="1530341153284">
         <mark key="[" line="0" column="0" />
@@ -1567,8 +1568,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="6" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/repository.js" />
-      <jump line="69" column="46" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/repository.js" />
       <jump line="71" column="31" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/repository.js" />
       <jump line="15" column="7" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/repository.js" />
       <jump line="66" column="65" filename="$USER_HOME$/dev/part-edge/api/src/routes/orders/controller.test.js" />
@@ -1666,7 +1665,9 @@
       <jump line="3" column="11" filename="$USER_HOME$/dev/part-edge/client/test/unit/specs/toggles.spec.js" />
       <jump line="1" column="19" filename="$USER_HOME$/Dev/octo/src/repository.js" />
       <jump line="3" column="33" filename="$USER_HOME$/Dev/octo/src/repository.js" />
-      <jump line="19" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/app/match/create-match-rework.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/domain/match.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/domain/match.js" />
+      <jump line="19" column="62" filename="$USER_HOME$/Dev/baby-foot/api/src/app/match/create-match-rework.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1676,8 +1677,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBvaW50czogbnVtYmVyOwo=</text>
+      <register name="&quot;" type="4">
+        <text>blue</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -3204,7 +3205,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>blue</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -3213,13 +3214,13 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>var</text>
+        <text>,</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgcmVkID0gYXdhaXQgdGhpcy5maW5kT3JDcmVhdGVUZWFtKG1hdGNoLnJlZCk7Cg==</text>
+        <text encoding="base64">ICAgIHBsYXllcnM6IEFycmF5PHN0cmluZz4sCiAgICBwb2ludHM6IG51bWJlciwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBvaW50czogbnVtYmVyOwo=</text>
+        <text encoding="base64">ICAgIHBvaW50czogbnVtYmVyLAogIH07Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3233,22 +3234,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlkOiBzdHJpbmcsCiAgICBwbGF5ZXJzOiBBcnJheTxzdHJpbmc+LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmVkVGVhCg==</text>
+        <text encoding="base64">ICBwbGF1ZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgcmVkID0gYXdhaXQgdGhpcy5maW5kT3JDcmVhdGVUZWFtKG1hdGNoLnJlZCk7CiAgICAgIGNvbnN0IGJsdWUgPSBhd2FpdCB0aGlzLmZpbmRPckNyZWF0ZVRlYW0obWF0Y2guYmx1ZSk7Cg==</text>
+        <text encoding="base64">ICAgIHBvaW50czogbnVtYmVyOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IHRoaXMuZmluZE9yQ3JlYXRlVGVhbShtYXRjaC5yZWQucGxheWVycyk7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgLy8gQ3JlYXRlIHBsYXllcnMKICAgICAgY29uc3QgcmVkUGxheWVyUHJvbWlzZXMgPSBtYXRjaC5yZWQucGxheWVycy5tYXAoYXN5bmMgcCA9PgogICAgICAgIHRoaXMucGxheWVyUmVwb3NpdG9yeS5jcmVhdGUocCksCiAgICAgICk7CiAgICAgIGNvbnN0IGJsdWVQbGF5ZXJQcm9taXNlcyA9IG1hdGNoLmJsdWUucGxheWVycy5tYXAoYXN5bmMgcCA9PgogICAgICAgIHRoaXMucGxheWVyUmVwb3NpdG9yeS5jcmVhdGUocCksCiAgICAgICk7CiAgICAgIGNvbnN0IFtyZWRQbGF5ZXJJZHMsIGJsdWVQbGF5ZXJJZHNdID0gYXdhaXQgUHJvbWlzZS5hbGwoWwogICAgICAgIFByb21pc2UuYWxsKHJlZFBsYXllclByb21pc2VzKSwKICAgICAgICBQcm9taXNlLmFsbChibHVlUGxheWVyUHJvbWlzZXMpLAogICAgICBdKTsKICAgICAgLy8gQ3JlYXRlIHRlYW1zCiAgICAgIGNvbnN0IFtyZWRUZWFtSWQsIGJsdWVUZWFtSWRdID0gYXdhaXQgUHJvbWlzZS5hbGwoWwogICAgICAgIHRoaXMudGVhbVJlcG9zaXRvcnkuY3JlYXRlKHJlZFBsYXllcklkcyksCiAgICAgICAgdGhpcy50ZWFtUmVwb3NpdG9yeS5jcmVhdGUoYmx1ZVBsYXllcklkcyksCiAgICAgIF0pOwogICAgICAvLyBDcmVhdGUgbWF0Y2gKICAgICAgY29uc3QgbWF0Y2hJZCA9IGF3YWl0IHRoaXMubWF0Y2hSZXBvc2l0b3J5LmNyZWF0ZSh7CiAgICAgICAgbWF0Y2gsCiAgICAgICAgcmVkVGVhbUlkLAogICAgICAgIGJsdWVUZWFtSWQsCiAgICAgIH0pOw==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgcmVkVGVhCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgY29uc3QgcmVkID0gYXdhaXQgdGhpcy5maW5kT3JDcmVhdGVUZWFtKG1hdGNoLnJlZCk7CiAgICAgIGNvbnN0IGJsdWUgPSBhd2FpdCB0aGlzLmZpbmRPckNyZWF0ZVRlYW0obWF0Y2guYmx1ZSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5440,32 +5441,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC5yZQo=</text>
+        <text encoding="base64">ICAgIGF3YWl0IHRoaXMuZmluZE9yQ3JlYXRlVGVhbShtYXRjaC5yZWQucGxheWVycyk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>gister({
-      config: asValue(config),
-      logger: asValue(bunyan.createLogger({
-        
-      }))
-    })</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zLywvOy9n</text>
       </register>
     </registers>
     <search>
-      <last-search>var</last-search>
+      <last-search>,</last-search>
       <last-offset />
-      <last-pattern>var</last-pattern>
-      <last-replace>const</last-replace>
-      <last-substitute>var</last-substitute>
+      <last-pattern>,</last-pattern>
+      <last-replace>;</last-replace>
+      <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>acceptance</entry>
         <entry>pdfUrl</entry>
         <entry>profile</entry>
         <entry encoding="base64">XDxtaW5cPg==</entry>
@@ -5485,9 +5480,9 @@
         <entry>model</entry>
         <entry>order</entry>
         <entry>orderASE</entry>
+        <entry>,</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL25ld0VxdWlwbWVudC9vbGRFcXVpcG1lbnQvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3JlcS5ob3N0bmFtZS9yZXEuZ2V0KCdPcmlnaW4nKS9n</entry>
         <entry encoding="base64">JzwsJz5zL1NFVF9PTERfRVFVSVBNRU5UL1VQREFURV9PUkRFUlMvZw==</entry>
         <entry encoding="base64">JzwsJz5zL1VQREFURV9PUkRFUlMvT1JERVJfVVBEQVRFRC9n</entry>
@@ -5507,6 +5502,7 @@
         <entry>qall</entry>
         <entry encoding="base64">JzwsJz5zL29yZGVyQVNFL29yZGVyU1BUS08vZw==</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zLywvOy9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
