@@ -111,6 +111,12 @@
         <mark key="^" line="13" column="58" />
         <mark key="." line="13" column="58" />
       </file>
+      <file name="$USER_HOME$/dev/docker-redoc/package.json" timestamp="1530697619220">
+        <mark key="[" line="3" column="14" />
+        <mark key="]" line="3" column="14" />
+        <mark key="^" line="1" column="10" />
+        <mark key="." line="3" column="14" />
+      </file>
       <file name="$USER_HOME$/dev/factory-cup/api/test/unit/app.test.js" timestamp="1527894064311">
         <mark key="[" line="4" column="4" />
         <mark key="]" line="4" column="0" />
@@ -186,7 +192,6 @@
         <mark key="^" line="91" column="0" />
         <mark key="." line="91" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/UTM/utm-frontend-authority/package.json" timestamp="1529938446664" />
       <file name="$USER_HOME$/dev/part-edge/client/src/services/order.js" timestamp="1528192877896">
         <mark key="[" line="50" column="9" />
         <mark key="]" line="51" column="15" />
@@ -312,7 +317,6 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/UTM/utm-backend/swagger.json" timestamp="1530094138591" />
       <file name="$USER_HOME$/dev/factory-cup/api/src/schema.js" timestamp="1528471919562">
         <mark key="'" line="58" column="25" />
         <mark key="[" line="54" column="21" />
@@ -1099,8 +1103,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKTsKICAgICAgICAgIH19Cg==</text>
+      <register name="&quot;" type="4">
+        <text>MIT</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2627,7 +2631,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>Error</text>
+        <text>MIT</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2642,7 +2646,7 @@
         <text encoding="base64">aW1wb3J0IENoYWxsZW5nZXMgZnJvbSAnLi9zY3JlZW5zL0NoYWxsZW5nZXMnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKTsKICAgICAgICAgIH19Cg==</text>
+        <text encoding="base64">ICAibWFpbiI6ICJpbmRleC5qcyIsCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2656,31 +2660,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIH19Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKTsKICAgICAgICAgIH19Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8L1F1ZXJ5Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgIH19Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA8L1F1ZXJ5Pgo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICgK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">PFF1ZXJ5IHF1ZXJ5PXtHRVRfQ0hBTExFTkdFU30+CiAgICAgICAgICB7KHsgbG9hZGluZywgZXJyb3IsIGRhdGEgfSkgPT4gewogICAgICAgICAgICBpZiAobG9hZGluZykgcmV0dXJuIDxwPkxvYWRpbmcuLi48L3A+OwogICAgICAgICAgICBpZiAoZXJyb3IpIHJldHVybiA8cD5DYW5ub3QgbG9hZCBjaGFsbGVuZ2VzLjwvcD47</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZXJyb3IpOwo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZXJyb3IpOwo=</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PEdyaWQgaXRlbSB4cz17Nn0+CiAgICAgICAgPENhcmQ+CiAgICAgICAgICA8Q2FyZE1lZGlhCiAgICAgICAgICAgIGNvbXBvbmVudD0iaW1nIgogICAgICAgICAgICBpbWFnZT0iaHR0cHM6Ly9pbWFnZXMudW5zcGxhc2guY29tL3Bob3RvLTE1MTgwOTEwNDM2NDQtYzFkNDQ1NzUxMmM2P2l4bGliPXJiLTAuMy41JnM9MzJlMDIwZTViOThjOTdhZjY0OTI0YWZhMWViNzZjMzUmYXV0bz1mb3JtYXQmZml0PWNyb3Amdz0yMzg5JnE9ODAiCiAgICAgICAgICAgIHRpdGxlPSJGSUZBIFdvcmxkIEN1cCAyMDE4IgogICAgICAgICAgLz4KICAgICAgICAgIDxDYXJkQ29udGVudD4KICAgICAgICAgICAgPFR5cG9ncmFwaHkgZ3V0dGVyQm90dG9tIHZhcmlhbnQ9ImhlYWRsaW5lIiBjb21wb25lbnQ9ImgyIj4KICAgICAgICAgICAgICBGSUZBIFdvcmxkIEN1cCAyMDE4CiAgICAgICAgICAgIDwvVHlwb2dyYXBoeT4KICAgICAgICAgICAgPFR5cG9ncmFwaHkgY29tcG9uZW50PSJwIj4KICAgICAgICAgICAgICBNYWtlIHByZWRpY3Rpb25zIGZvciB0aGUgMjAxOCBGSUZBIFdvcmxkIEN1cCAhCiAgICAgICAgICAgIDwvVHlwb2dyYXBoeT4KICAgICAgICAgIDwvQ2FyZENvbnRlbnQ+CiAgICAgICAgICA8Q2FyZEFjdGlvbnM+CiAgICAgICAgICAgIDxMaW5rIHRvPSIvZmlmYS13Yy0yMDE4Ij4KICAgICAgICAgICAgICA8QnV0dG9uIGNvbG9yPSJwcmltYXJ5Ij5QcmVkaWN0PC9CdXR0b24+CiAgICAgICAgICAgIDwvTGluaz4KICAgICAgICAgIDwvQ2FyZEFjdGlvbnM+CiAgICAgICAgPC9DYXJkPgogICAgICA8L0dyaWQ+</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
