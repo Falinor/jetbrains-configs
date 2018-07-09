@@ -134,6 +134,13 @@
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="5" />
       </file>
+      <file name="$USER_HOME$/dev/UTM/utm-api-docs/openapi.yml" timestamp="1531138630010">
+        <mark key="'" line="693" column="12" />
+        <mark key="[" line="225" column="22" />
+        <mark key="]" line="336" column="26" />
+        <mark key="^" line="336" column="26" />
+        <mark key="." line="336" column="26" />
+      </file>
       <file name="$USER_HOME$/dev/factory-cup/api/src/challenges/fifa-wc-2018/index.js" timestamp="1527497399407">
         <mark key="[" line="1" column="7" />
         <mark key="]" line="1" column="7" />
@@ -144,12 +151,6 @@
         <mark key="[" line="238" column="0" />
         <mark key="]" line="238" column="0" />
         <mark key="." line="238" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/UTM/utm-backend/pom.xml" timestamp="1531143149047">
-        <mark key="'" line="40" column="13" />
-        <mark key="[" line="80" column="19" />
-        <mark key="]" line="80" column="19" />
-        <mark key="." line="80" column="19" />
       </file>
       <file name="$USER_HOME$/dev/factory-cup/client/src/components/PrivateRoute.js" timestamp="1528729809186">
         <mark key="'" line="0" column="34" />
@@ -264,12 +265,6 @@
         <mark key="." line="10" column="14" />
         <mark key="^" line="10" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/UTM/utm-backend/src/main/java/com/thales/utm/config/toggle/ToggleConfig.java" timestamp="1531142884165">
-        <mark key="'" line="0" column="0" />
-        <mark key="]" line="16" column="29" />
-        <mark key="^" line="16" column="29" />
-        <mark key="." line="16" column="29" />
-      </file>
       <file name="$USER_HOME$/dev/part-edge/client/test/unit/specs/services/auth.spec.js" timestamp="1527512450525">
         <mark key="'" line="118" column="20" />
         <mark key="[" line="269" column="65" />
@@ -336,6 +331,11 @@
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/UTM/utm-api-docs/package.json" timestamp="1530783899245">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/dev/docker-redoc/Dockerfile" timestamp="1530713310324">
         <mark key="[" line="5" column="10" />
@@ -652,7 +652,7 @@
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530712856213">
+      <file name="/Dummy.txt" timestamp="1530713969503">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/factory-cup/api/src/challenges/fifa-wc-2018/schema.js" timestamp="1527496183872">
@@ -839,9 +839,9 @@
       <jump line="50" column="35" filename="$USER_HOME$/dev/factory-cup/client/src/screens/Home.js" />
       <jump line="21" column="0" filename="$USER_HOME$/dev/factory-cup/client/src/screens/Home.js" />
       <jump line="21" column="0" filename="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/app.component.ts" />
-      <jump line="5" column="13" filename="$USER_HOME$/dev/UTM/utm-backend/src/main/java/com/thales/utm/config/toggle/ToggleConfig.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/UTM/utm-backend/src/main/java/com/thales/utm/config/toggle/ToggleConfig.java" />
-      <jump line="40" column="13" filename="$USER_HOME$/dev/UTM/utm-backend/pom.xml" />
+      <jump line="338" column="22" filename="$USER_HOME$/dev/UTM/utm-api-docs/openapi.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/UTM/utm-api-docs/openapi.yml" />
+      <jump line="693" column="12" filename="$USER_HOME$/dev/UTM/utm-api-docs/openapi.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1137,8 +1137,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAiZGVwZW5kZW5jaWVzIjoge30sCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2665,7 +2665,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>index.html</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2674,13 +2674,13 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>spring</text>
+        <text>inc</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IENoYWxsZW5nZXMgZnJvbSAnLi9zY3JlZW5zL0NoYWxsZW5nZXMnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAiZGVwZW5kZW5jaWVzIjoge30sCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2693,48 +2693,49 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IHB1YmxpYyBUb2dnbGVDb25maWcoKSB7CiAgICAKICB9CiAg</text>
-      </register>
-      <register name="3" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ZGlzdAoK</text>
       </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CkVOVFJZUE9JTlQgWyJuZ2lueCJdCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAtICRyZWY6ICcjL2NvbXBvbmVudHMvcGFyYW1ldGVycy9zb3J0JwogICAgICAgIC0gJHJlZjogJyMvY29tcG9uZW50cy9wYXJhbWV0ZXJzL2Rlc2MnCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAibWFpbiI6ICJpbmRleC5qcyIsCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgKTsKICAgICAgICAgIH19Cg==</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKTsKICAgICAgICAgIH19Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIH19Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIH19Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L1F1ZXJ5Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>spring</last-search>
+      <last-search>inc</last-search>
       <last-offset />
-      <last-pattern>spring</last-pattern>
+      <last-pattern>inc</last-pattern>
       <last-replace>dec</last-replace>
       <last-substitute>inc</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
+        <entry>SMTP</entry>
         <entry>service</entry>
         <entry>knex</entry>
         <entry>citadelService</entry>
@@ -2754,7 +2755,6 @@
         <entry>selectedMatch</entry>
         <entry encoding="base64">XDxmcm9tXD4=</entry>
         <entry>inc</entry>
-        <entry>spring</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3N0b2NrSW5mby9zdG9ja0luZm9Db2wvZw==</entry>
