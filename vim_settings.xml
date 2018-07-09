@@ -658,7 +658,12 @@
       <file name="/Dummy.txt" timestamp="1530713969503">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/UTM/utm-backend/src/test/java/com/thales/utm/config/toggle/ToggleConfigTest.java" timestamp="1531143477006" />
+      <file name="$USER_HOME$/dev/UTM/utm-backend/src/test/java/com/thales/utm/config/toggle/ToggleConfigTest.java" timestamp="1531147515409">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/factory-cup/api/src/challenges/fifa-wc-2018/schema.js" timestamp="1527496183872">
         <mark key="'" line="10" column="18" />
         <mark key="[" line="19" column="2" />
@@ -746,7 +751,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="0" filename="$USER_HOME$/dev/factory-cup/client/src/screens/events/FifaWorldCup.js" />
       <jump line="2" column="25" filename="$USER_HOME$/dev/factory-cup/client/src/screens/events/FifaWorldCup.js" />
       <jump line="7" column="9" filename="$USER_HOME$/dev/factory-cup/client/src/components/events/Team.js" />
       <jump line="1" column="19" filename="$USER_HOME$/dev/factory-cup/client/src/components/events/Team.js" />
@@ -846,6 +850,7 @@
       <jump line="338" column="22" filename="$USER_HOME$/dev/UTM/utm-api-docs/openapi.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/UTM/utm-api-docs/openapi.yml" />
       <jump line="693" column="12" filename="$USER_HOME$/dev/UTM/utm-api-docs/openapi.yml" />
+      <jump line="7" column="0" filename="$USER_HOME$/dev/UTM/utm-backend/src/test/java/com/thales/utm/config/toggle/ToggleConfigTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1142,7 +1147,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAiZGVwZW5kZW5jaWVzIjoge30sCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29yZS5lbnYuRW52aXJvbm1lbnQ7Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2684,7 +2689,7 @@
         <text encoding="base64">aW1wb3J0IENoYWxsZW5nZXMgZnJvbSAnLi9zY3JlZW5zL0NoYWxsZW5nZXMnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAiZGVwZW5kZW5jaWVzIjoge30sCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29yZS5lbnYuRW52aXJvbm1lbnQ7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2698,31 +2703,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGlzdAoK</text>
+        <text encoding="base64">ICAgIEVudmlyb25tZW50IGVudgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
+        <text encoding="base64">ICAiZGVwZW5kZW5jaWVzIjoge30sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CkVOVFJZUE9JTlQgWyJuZ2lueCJdCg==</text>
+        <text encoding="base64">ZGlzdAoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAtICRyZWY6ICcjL2NvbXBvbmVudHMvcGFyYW1ldGVycy9zb3J0JwogICAgICAgIC0gJHJlZjogJyMvY29tcG9uZW50cy9wYXJhbWV0ZXJzL2Rlc2MnCg==</text>
+        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAibWFpbiI6ICJpbmRleC5qcyIsCg==</text>
+        <text encoding="base64">CkVOVFJZUE9JTlQgWyJuZ2lueCJdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKTsKICAgICAgICAgIH19Cg==</text>
+        <text encoding="base64">ICAgICAgICAtICRyZWY6ICcjL2NvbXBvbmVudHMvcGFyYW1ldGVycy9zb3J0JwogICAgICAgIC0gJHJlZjogJyMvY29tcG9uZW50cy9wYXJhbWV0ZXJzL2Rlc2MnCg==</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIH19Cg==</text>
+        <text encoding="base64">ICAibWFpbiI6ICJpbmRleC5qcyIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8L1F1ZXJ5Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKTsKICAgICAgICAgIH19Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
