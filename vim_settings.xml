@@ -318,8 +318,8 @@
         <mark key="." line="3" column="7" />
         <mark key="^" line="11" column="69" />
       </file>
-      <file name="$USER_HOME$/dev/UTM/utm-backend/.env" timestamp="1531148405260">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/dev/UTM/utm-backend/.env" timestamp="1531149436313">
+        <mark key="'" line="11" column="13" />
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="^" line="0" column="0" />
@@ -663,14 +663,14 @@
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530713969503">
+      <file name="/Dummy.txt" timestamp="1531149120179">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/UTM/utm-backend/src/test/java/com/thales/utm/config/toggle/ToggleConfigTest.java" timestamp="1531147515409">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/dev/UTM/utm-backend/src/test/java/com/thales/utm/config/toggle/ToggleConfigTest.java" timestamp="1531149577518">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/dev/factory-cup/api/src/challenges/fifa-wc-2018/schema.js" timestamp="1527496183872">
         <mark key="'" line="10" column="18" />
@@ -749,6 +749,9 @@
         <mark key="]" line="2" column="81" />
         <mark key="^" line="2" column="81" />
         <mark key="." line="2" column="81" />
+      </file>
+      <file name="/fragment.java" timestamp="1531149120208">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/factory-cup/api/test/api/fifa-wc-2018.test.js" timestamp="1528465499576">
         <mark key="'" line="6" column="1" />
@@ -857,8 +860,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/UTM/utm-api-docs/openapi.yml" />
       <jump line="693" column="12" filename="$USER_HOME$/dev/UTM/utm-api-docs/openapi.yml" />
       <jump line="7" column="0" filename="$USER_HOME$/dev/UTM/utm-backend/src/test/java/com/thales/utm/config/toggle/ToggleConfigTest.java" />
-      <jump line="11" column="15" filename="$USER_HOME$/dev/UTM/utm-backend/.env" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/UTM/utm-backend/.env" />
+      <jump line="0" column="10" filename="$USER_HOME$/dev/UTM/utm-backend/.env" />
+      <jump line="11" column="13" filename="$USER_HOME$/dev/UTM/utm-backend/.env" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2691,7 +2694,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>inc</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IENoYWxsZW5nZXMgZnJvbSAnLi9zY3JlZW5zL0NoYWxsZW5nZXMnOwo=</text>
@@ -2738,21 +2741,20 @@
         <text encoding="base64">ICAgICAgICAgICAgKTsKICAgICAgICAgIH19Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>inc</last-search>
+      <last-search encoding="base64">IA==</last-search>
       <last-offset />
-      <last-pattern>inc</last-pattern>
-      <last-replace>dec</last-replace>
-      <last-substitute>inc</last-substitute>
+      <last-pattern encoding="base64">IA==</last-pattern>
+      <last-replace />
+      <last-substitute encoding="base64">IA==</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>SMTP</entry>
         <entry>service</entry>
         <entry>knex</entry>
         <entry>citadelService</entry>
@@ -2772,9 +2774,9 @@
         <entry>selectedMatch</entry>
         <entry encoding="base64">XDxmcm9tXD4=</entry>
         <entry>inc</entry>
+        <entry encoding="base64">IA==</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3N0b2NrSW5mby9zdG9ja0luZm9Db2wvZw==</entry>
         <entry encoding="base64">JzwsJz53cQ==</entry>
         <entry encoding="base64">JzwsJz5zL2xvdFN0b2NrL3BhcnROdW1iZXIvZw==</entry>
         <entry encoding="base64">JzwsJz5zLyBjbGFzcz0iaXRlbV9fY29udGVudCIvL2c=</entry>
@@ -2792,8 +2794,9 @@
         <entry encoding="base64">JzwsJz5zL3NlbGVjdGVkTWF0Y2gvbWF0Y2hlc1tzZWxlY3RlZF0vZw==</entry>
         <entry encoding="base64">JzwsJz5zL2luYy9kZWMvZw==</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JzwsJz5zLyAvL2c=</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
