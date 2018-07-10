@@ -453,8 +453,11 @@
         <mark key="." line="33" column="15" />
         <mark key="^" line="33" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/UTM/utm-backend/src/main/resources/application.yml" timestamp="1531212449739">
-        <mark key="[" line="4" column="9" />
+      <file name="$USER_HOME$/dev/UTM/utm-backend/src/main/resources/application.yml" timestamp="1531215565497">
+        <mark key="[" line="4" column="5" />
+        <mark key="]" line="4" column="5" />
+        <mark key="^" line="4" column="5" />
+        <mark key="." line="4" column="5" />
       </file>
       <file name="$USER_HOME$/dev/factory-cup/api/src/events/fifa-wc-2018/index.js" timestamp="1528463436660">
         <mark key="'" line="0" column="0" />
@@ -677,7 +680,7 @@
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531149120179">
+      <file name="/Dummy.txt" timestamp="1531215416027">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/UTM/utm-backend/src/test/java/com/thales/utm/config/toggle/ToggleConfigTest.java" timestamp="1531214940559">
@@ -726,6 +729,7 @@
         <mark key="^" line="32" column="9" />
         <mark key="." line="32" column="9" />
       </file>
+      <file name="$USER_HOME$/dev/UTM/utm-backend/src/test/resources/application-test.yml" timestamp="1531215536216" />
       <file name="$USER_HOME$/dev/factory-cup/client/src/screens/Callback.js" timestamp="1528732481399">
         <mark key="'" line="14" column="24" />
         <mark key="[" line="10" column="22" />
@@ -764,7 +768,7 @@
         <mark key="^" line="2" column="81" />
         <mark key="." line="2" column="81" />
       </file>
-      <file name="/fragment.java" timestamp="1531149120208">
+      <file name="/fragment.java" timestamp="1531215419360">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/factory-cup/api/test/api/fifa-wc-2018.test.js" timestamp="1528465499576">
@@ -1171,8 +1175,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>i</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC0gZGV2Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2714,7 +2718,7 @@
         <text encoding="base64">aW1wb3J0IENoYWxsZW5nZXMgZnJvbSAnLi9zY3JlZW5zL0NoYWxsZW5nZXMnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCTwvY29uZmlndXJhdGlvbj4K</text>
+        <text encoding="base64">ICAgIC0gZGV2Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2728,33 +2732,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8Y29uZmlndXJhdGlvbj4KCQkJCQk8Cg==</text>
+        <text encoding="base64">CQkJCTwvY29uZmlndXJhdGlvbj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPGNvbmZpZ3VyYXRpb24uCg==</text>
+        <text encoding="base64">ICAgICAgICA8Y29uZmlndXJhdGlvbj4KCQkJCQk8Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxzcHJpbmcuCg==</text>
+        <text encoding="base64">ICAgICAgPGNvbmZpZ3VyYXRpb24uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQk8cHJvamVjdC48L3Byb2plY3Q+Cg==</text>
+        <text encoding="base64">ICAgIDxzcHJpbmcuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5nZXRlbnYoKQo=</text>
+        <text encoding="base64">CQk8cHJvamVjdC48L3Byb2plY3Q+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiVG9nZ2xlICVzOiAlc30iLCB0b2dnbGUsIHRvZ2dsZUVuYWJsZWQpOwo=</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5nZXRlbnYoKQo=</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiVG9nZ2xlICIrdG9nZ2xlKyI6ICIrdG9nZ2xlRW5hYmxlZCk7Cg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiVG9nZ2xlICVzOiAlc30iLCB0b2dnbGUsIHRvZ2dsZUVuYWJsZWQpOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>}: ${toggleEnabled}&quot;);
-    return toggleEnabled;
-  }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiVG9nZ2xlICIrdG9nZ2xlKyI6ICIrdG9nZ2xlRW5hYmxlZCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
