@@ -45,6 +45,9 @@
       <file name="$USER_HOME$/dev/UTM/utm-backend/src/main/java/com/thales/utm/broker/Consumer.java" timestamp="1531316460634">
         <mark key="[" line="5" column="22" />
       </file>
+      <file name="$USER_HOME$/dev/UTM/utm-backend/src/main/java/com/thales/utm/data/OperationsRepositoryDao.java" timestamp="1531486775668">
+        <mark key="[" line="85" column="41" />
+      </file>
       <file name="$USER_HOME$/dev/factory-cup/api/package.json" timestamp="1528465291437">
         <mark key="[" line="28" column="26" />
         <mark key="]" line="28" column="29" />
@@ -114,7 +117,12 @@
         <mark key="." line="17" column="5" />
         <mark key="^" line="17" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/UTM/utm-backend/src/main/java/com/thales/utm/data/OperationsRepository.java" timestamp="1531472717975" />
+      <file name="$USER_HOME$/dev/UTM/utm-backend/src/main/java/com/thales/utm/data/OperationsRepository.java" timestamp="1531488290332">
+        <mark key="[" line="43" column="37" />
+        <mark key="]" line="43" column="38" />
+        <mark key="^" line="43" column="38" />
+        <mark key="." line="43" column="38" />
+      </file>
       <file name="$USER_HOME$/dev/UTM/utm-backend/src/test/java/com/thales/utm/broker/ConsumerImplTest.java" timestamp="1531325047783">
         <mark key="[" line="23" column="18" />
         <mark key="]" line="23" column="21" />
@@ -148,11 +156,11 @@
         <mark key="^" line="7" column="17" />
         <mark key="." line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/UTM/utm-backend/src/main/java/com/thales/utm/web/AuthorityServices.java" timestamp="1531472936651">
-        <mark key="[" line="53" column="41" />
-        <mark key="]" line="53" column="40" />
-        <mark key="^" line="53" column="40" />
-        <mark key="." line="53" column="40" />
+      <file name="$USER_HOME$/dev/UTM/utm-backend/src/main/java/com/thales/utm/web/AuthorityServices.java" timestamp="1531487436267">
+        <mark key="[" line="154" column="5" />
+        <mark key="]" line="155" column="3" />
+        <mark key="^" line="155" column="3" />
+        <mark key="." line="155" column="3" />
       </file>
       <file name="$USER_HOME$/dev/factory-cup/api/test/unit/app.test.js" timestamp="1527894064311">
         <mark key="[" line="4" column="4" />
@@ -398,11 +406,11 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/UTM/utm-backend/src/test/java/com/thales/utm/web/authorities/AuthorityFRAServicesTest.java" timestamp="1531476053325">
-        <mark key="[" line="129" column="35" />
-        <mark key="]" line="128" column="10" />
-        <mark key="." line="128" column="10" />
-        <mark key="^" line="128" column="10" />
+      <file name="$USER_HOME$/dev/UTM/utm-backend/src/test/java/com/thales/utm/web/authorities/AuthorityFRAServicesTest.java" timestamp="1531487381232">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="147" column="8" />
       </file>
       <file name="$USER_HOME$/dev/UTM/utm-api-docs/package.json" timestamp="1530783899245">
         <mark key="[" line="10" column="0" />
@@ -900,8 +908,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>isUnauthorize</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmF4LnhtbC53cy5zb2FwLk1UT007Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2428,7 +2436,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>isUnauthorize</text>
+        <text>isBoolean</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2443,7 +2451,7 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAKICBAVGVzdCgpCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnhtbC53cy5zb2FwLk1UT007Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2457,31 +2465,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gIEBUZXN0KGV4cGVjdGVkID0gTmVzdGVkU2VydmxldEV4Y2VwdGlvbi5jbGFzcykK</text>
+        <text encoding="base64">CiAgICBodHRwU2VydmxldFJlcXVlc3QuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihzdGF0dXMoKS50b1N0cmluZygpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5wYXJhbSgiIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBAVGVzdAogIFdpdGhNb2NrVXNlcihyb2xlcyA9IFV0aWxzLlJPTEVfRlJBX0FVVEhPUklUWSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBACg==</text>
+        <text encoding="base64">ICAgICAgICAuYW5kRG8ocHJpbnQoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG9wZXJhdGlvbkZSQVJlcG9zaXRvcnkuCg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuc3ByaW5nZnJhbWV3b3JrLnRlc3Qud2ViLnNlcnZsZXQucmVzdWx0Lk1vY2tNdmNSZXN1bHRNYXRjaGVycy47Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QFJlc3RDb250cm9sbGVyKCIvb3BlcmF0aW9ucyIpCg==</text>
+        <text encoding="base64">ICAgICAgICAuYW5kRXhwZWN0KGNvbnRlbnQoKS5qc29uKCkpCiAgICAgICAgLmFuZEV4cGVjdChqc29uUGF0aCgiJCIpKTsK</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QFNlcnZpY2UK</text>
+        <text encoding="base64">ICAKICBAVGVzdCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QFJlcG9zaXRvcnkK</text>
+        <text encoding="base64">Ly8gIEBUZXN0KGV4cGVjdGVkID0gTmVzdGVkU2VydmxldEV4Y2VwdGlvbi5jbGFzcykK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL14oW0EtWl0pL2V4cG9ydCAkMS9n</text>
