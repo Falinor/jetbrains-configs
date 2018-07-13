@@ -259,6 +259,7 @@
         <mark key="." line="43" column="15" />
         <mark key="^" line="43" column="15" />
       </file>
+      <file name="$USER_HOME$/dev/UTM/utm-backend/.env.sh" timestamp="1531474314684" />
       <file name="$USER_HOME$/dev/docker-redoc/openapi.yml" timestamp="1530711418832">
         <mark key="[" line="2" column="13" />
         <mark key="]" line="21" column="0" />
@@ -352,6 +353,7 @@
         <mark key="." line="17" column="49" />
         <mark key="^" line="17" column="49" />
       </file>
+      <file name="$USER_HOME$/dev/UTM/utm-backend/.env" timestamp="1531474479383" />
       <file name="$USER_HOME$/dev/UTM/utm-backend/src/main/java/com/thales/utm/broker/ReceiverImpl.java" timestamp="1531314797366">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -396,11 +398,11 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/UTM/utm-backend/src/test/java/com/thales/utm/web/authorities/AuthorityFRAServicesTest.java" timestamp="1531473704769">
-        <mark key="[" line="128" column="65" />
-        <mark key="]" line="128" column="84" />
-        <mark key="." line="128" column="84" />
-        <mark key="^" line="128" column="84" />
+      <file name="$USER_HOME$/dev/UTM/utm-backend/src/test/java/com/thales/utm/web/authorities/AuthorityFRAServicesTest.java" timestamp="1531476053325">
+        <mark key="[" line="129" column="35" />
+        <mark key="]" line="128" column="10" />
+        <mark key="." line="128" column="10" />
+        <mark key="^" line="128" column="10" />
       </file>
       <file name="$USER_HOME$/dev/UTM/utm-api-docs/package.json" timestamp="1530783899245">
         <mark key="[" line="10" column="0" />
@@ -503,8 +505,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="13" filename="$USER_HOME$/dev/factory-cup/client/src/components/events/Prediction.js" />
-      <jump line="15" column="0" filename="$USER_HOME$/dev/factory-cup/client/src/components/events/Prediction.js" />
       <jump line="9" column="13" filename="$USER_HOME$/dev/factory-cup/client/src/components/events/Prediction.js" />
       <jump line="31" column="33" filename="$USER_HOME$/dev/factory-cup/client/src/components/events/MatchPrediction.js" />
       <jump line="26" column="7" filename="$USER_HOME$/dev/factory-cup/client/src/components/events/MatchPrediction.js" />
@@ -603,6 +603,8 @@
       <jump line="37" column="1" filename="$USER_HOME$/dev/UTM/utm-backend/application.yml" />
       <jump line="10" column="0" filename="$USER_HOME$/dev/UTM/utm-backend/src/main/java/com/thales/utm/web/operations/OperationController.java" />
       <jump line="7" column="0" filename="$USER_HOME$/dev/UTM/utm-backend/src/main/java/com/thales/utm/web/operations/resources/OperationResource.java" />
+      <jump line="37" column="0" filename="$USER_HOME$/dev/UTM/utm-backend/.env.sh" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/UTM/utm-backend/.env.sh" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -899,7 +901,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>isOk</text>
+        <text>isUnauthorize</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2426,7 +2428,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>isOk</text>
+        <text>isUnauthorize</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2435,13 +2437,13 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwiXD4=</text>
+        <text>^([A-Z])</text>
       </register>
       <register name="0" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG9wZXJhdGlvbkZSQVJlcG9zaXRvcnkuCg==</text>
+        <text encoding="base64">ICAKICBAVGVzdCgpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2455,48 +2457,47 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QFJlc3RDb250cm9sbGVyKCIvb3BlcmF0aW9ucyIpCg==</text>
+        <text encoding="base64">Ly8gIEBUZXN0KGV4cGVjdGVkID0gTmVzdGVkU2VydmxldEV4Y2VwdGlvbi5jbGFzcykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QFNlcnZpY2UK</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihzdGF0dXMoKS50b1N0cmluZygpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QFJlcG9zaXRvcnkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QFJlcG9zaXRvcnkK</text>
+        <text encoding="base64">ICBACg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBvcGVyYXRpb25GUkFSZXBvc2l0b3J5LmZpbmRBbGwoKTsK</text>
+        <text encoding="base64">ICAgIG9wZXJhdGlvbkZSQVJlcG9zaXRvcnkuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGxvbWJvay5Ob0FyZ3NDb25zdHJ1Y3RvcjsKaW1wb3J0IGxvbWJvay5SZXF1aXJlZEFyZ3NDb25zdHJ1Y3RvcjsK</text>
+        <text encoding="base64">QFJlc3RDb250cm9sbGVyKCIvb3BlcmF0aW9ucyIpCg==</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QFJlcXVpcmVkQXJnc0NvbnN0cnVjdG9yCg==</text>
+        <text encoding="base64">QFNlcnZpY2UK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS50aGFsZXMudXRtLm1vZGVsLm9wZXJhdGlvbi5PcGVyYXRpb247Cg==</text>
+        <text encoding="base64">QFJlcG9zaXRvcnkK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zL14oW0EtWl0pL2V4cG9ydCAkMS9n</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwiXD4=</last-search>
+      <last-search>^([A-Z])</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwiXD4=</last-pattern>
-      <last-replace>$1</last-replace>
-      <last-substitute>^ ([A-Z])</last-substitute>
+      <last-pattern>^([A-Z])</last-pattern>
+      <last-replace>export $1</last-replace>
+      <last-substitute>^([A-Z])</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>&quot;</entry>
         <entry>Button</entry>
         <entry>IconButton</entry>
         <entry>authGuard</entry>
@@ -2516,9 +2517,9 @@
         <entry>export</entry>
         <entry>^ ([A-Z])</entry>
         <entry encoding="base64">XDwiXD4=</entry>
+        <entry>^([A-Z])</entry>
       </history-search>
       <history-cmd>
-        <entry>:w</entry>
         <entry encoding="base64">JzwsJz5zL3NtdHAvbWFpbC9n</entry>
         <entry encoding="base64">JzwsJz5zL1NNVFAvTUFJTC9n</entry>
         <entry encoding="base64">JzwsJz5zL3NlcnZpY2UvY2l0YWRlbFNlcnZpY2UvZw==</entry>
@@ -2538,6 +2539,7 @@
         <entry encoding="base64">JzwsJz5zL14gKFtBLVpdKS8kMS9n</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL14oW0EtWl0pL2V4cG9ydCAkMS9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
