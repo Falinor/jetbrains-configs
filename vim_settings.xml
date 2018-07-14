@@ -99,22 +99,23 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="1" column="7" />
       </file>
-      <file name="$USER_HOME$/dev/UTM/utm-backend/src/test/java/com/thales/utm/web/operations/OperationRepositoryTest.java" timestamp="1531596236943">
-        <mark key="[" line="22" column="32" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/dev/UTM/utm-backend/src/test/java/com/thales/utm/web/operations/OperationRepositoryTest.java" timestamp="1531603222582">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="m" line="28" column="5" />
+        <mark key="^" line="21" column="10" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/src/router/main.js" timestamp="1527513904293">
         <mark key="[" line="238" column="0" />
         <mark key="]" line="238" column="0" />
         <mark key="." line="238" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/UTM/utm-backend/pom.xml" timestamp="1531381037078">
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
-        <mark key="^" line="83" column="3" />
+      <file name="$USER_HOME$/dev/UTM/utm-backend/pom.xml" timestamp="1531600771677">
+        <mark key="[" line="110" column="0" />
+        <mark key="]" line="110" column="0" />
+        <mark key="." line="110" column="0" />
       </file>
       <file name="$USER_HOME$/dev/UTM/utm-frontend-authority/tslint.json" timestamp="1529938996986">
         <mark key="[" line="7" column="29" />
@@ -151,6 +152,9 @@
         <mark key="]" line="33" column="35" />
         <mark key="^" line="33" column="35" />
         <mark key="." line="33" column="35" />
+      </file>
+      <file name="$USER_HOME$/dev/UTM/utm-backend/src/main/java/com/thales/utm/model/operation/ApprovalStatus.java" timestamp="1531599637819">
+        <mark key="[" line="3" column="15" />
       </file>
       <file name="$USER_HOME$/dev/UTM/utm-backend/src/main/java/com/thales/utm/web/operations/OperationController.java" timestamp="1531595623417">
         <mark key="'" line="23" column="66" />
@@ -242,6 +246,11 @@
         <mark key="]" line="5" column="10" />
         <mark key="^" line="5" column="19" />
         <mark key="." line="5" column="10" />
+      </file>
+      <file name="$USER_HOME$/dev/UTM/utm-backend/src/main/java/com/thales/utm/web/operations/fra/OperationFRARepository.java" timestamp="1531602499227">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/dev/factory-cup/api/src/events/fifa-wc-2018/matches/repository.js" timestamp="1527674547354">
         <mark key="[" line="31" column="30" />
@@ -382,11 +391,11 @@
         <mark key="." line="3" column="28" />
         <mark key="^" line="3" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/UTM/utm-backend/src/main/java/com/thales/utm/web/operations/OperationResource.java" timestamp="1531497956337">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="9" column="6" />
+      <file name="$USER_HOME$/dev/UTM/utm-backend/src/main/java/com/thales/utm/web/operations/OperationResource.java" timestamp="1531600499630">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="7" column="6" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/dev/factory-cup/api/docker-compose.yml" timestamp="1526475789596">
         <mark key="[" line="5" column="12" />
@@ -570,8 +579,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="107" filename="$USER_HOME$/dev/factory-cup/client/src/components/Counter.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/dev/factory-cup/client/src/components/Counter.js" />
       <jump line="10" column="47" filename="$USER_HOME$/dev/factory-cup/client/src/components/Counter.js" />
       <jump line="29" column="0" filename="$USER_HOME$/dev/factory-cup/client/src/components/Counter.js" />
       <jump line="55" column="54" filename="$USER_HOME$/dev/factory-cup/client/src/components/events/MatchPrediction.js" />
@@ -670,6 +677,8 @@
       <jump line="110" column="0" filename="$USER_HOME$/dev/UTM/utm-backend/src/main/java/com/thales/utm/data/OperationsRepositoryDao.java" />
       <jump line="29" column="39" filename="$USER_HOME$/dev/UTM/utm-backend/src/main/java/com/thales/utm/web/operations/OperationService.java" />
       <jump line="24" column="66" filename="$USER_HOME$/dev/UTM/utm-backend/src/main/java/com/thales/utm/web/operations/OperationController.java" />
+      <jump line="29" column="17" filename="$USER_HOME$/dev/UTM/utm-backend/src/test/java/com/thales/utm/web/operations/OperationRepositoryTest.java" />
+      <jump line="4" column="0" filename="$USER_HOME$/dev/UTM/utm-backend/src/test/java/com/thales/utm/web/operations/OperationRepositoryTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -965,8 +974,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>findByApprovalStatusIn</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QFdlYk12Y1Rlc3QK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2493,7 +2502,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>findByApprovalStatusIn</text>
+        <text>OperationFR</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2508,7 +2517,7 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGxvbWJvay5HZXR0ZXI7Cg==</text>
+        <text encoding="base64">QFdlYk12Y1Rlc3QK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2522,31 +2531,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAucHV0KCJ1c2EiKQo=</text>
+        <text encoding="base64">QFJlcG9zaXRvcnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1dCgiZnJhIiwgT3BlcikK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS50aGFsZXMudXRtLmRkbW9kZWwub3BlcmF0aW9uLk9wZXJhdGlvbjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmNvbGxlY3QuTWFwczsK</text>
+        <text encoding="base64">CQkJPHZlcnNpb24+PC92ZXJzaW9uPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvdW50cnlUb09wZXJhdGlvbiA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
+        <text encoding="base64">aW1wb3J0IGxvbWJvay5CdWlsZGVyOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAKICBwcml2YXRlIHB1dCgpIAo=</text>
+        <text encoding="base64">QEJ1aWxkZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIE1hcHMuCg==</text>
+        <text encoding="base64">QEJ1aWxkZXIK</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvdW50cnlUb09wZXJhdGlvbi4K</text>
+        <text encoding="base64">ICAgIG9wZXJhdGlvbnMuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAuCg==</text>
+        <text encoding="base64">ICAgIEFwcHJvdmFsU3RhdHVzLnZhbHVlcygpWzBdOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
