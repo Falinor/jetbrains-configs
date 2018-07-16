@@ -29,7 +29,7 @@
         <mark key="^" line="20" column="31" />
         <mark key="." line="20" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/UTM/utm-backend/src/main/java/com/thales/utm/web/operations/OperationService.java" timestamp="1531728684376">
+      <file name="$USER_HOME$/dev/UTM/utm-backend/src/main/java/com/thales/utm/web/operations/OperationService.java" timestamp="1531731777931">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
@@ -163,7 +163,7 @@
         <mark key="." line="12" column="30" />
         <mark key="^" line="12" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/UTM/utm-backend/src/main/java/com/thales/utm/web/operations/OperationMapper.java" timestamp="1531572093632">
+      <file name="$USER_HOME$/dev/UTM/utm-backend/src/main/java/com/thales/utm/web/operations/OperationMapper.java" timestamp="1531732270440">
         <mark key="[" line="12" column="9" />
         <mark key="]" line="12" column="7" />
         <mark key="." line="12" column="7" />
@@ -178,11 +178,11 @@
       <file name="$USER_HOME$/dev/docker-redoc/.gitignore" timestamp="1530712775063">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/UTM/utm-backend/src/main/java/com/thales/utm/web/operations/OperationServiceImpl.java" timestamp="1531731681892">
-        <mark key="[" line="14" column="63" />
-        <mark key="]" line="15" column="1" />
-        <mark key="." line="15" column="1" />
-        <mark key="^" line="15" column="1" />
+      <file name="$USER_HOME$/dev/UTM/utm-backend/src/main/java/com/thales/utm/web/operations/OperationServiceImpl.java" timestamp="1531732243993">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="18" column="42" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/importer/Jenkinsfile" timestamp="1526027903597">
         <mark key="[" line="121" column="65" />
@@ -526,6 +526,11 @@
         <mark key="]" line="4" column="24" />
         <mark key="." line="4" column="24" />
         <mark key="^" line="4" column="24" />
+      </file>
+      <file name="$USER_HOME$/dev/UTM/utm-backend/src/test/java/com/thales/utm/web/operations/OperationServiceImplTest.java" timestamp="1531499422748">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/dev/UTM/utm-backend/src/main/java/com/thales/utm/config/DbConfig.java" timestamp="1531405987937">
         <mark key="[" line="14" column="0" />
@@ -966,8 +971,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIE1hcDxTdHJpbmcsIE9wZXJhdGlvblJlcG9zaXRvcnk+IGNvdW50cnlUb1JlcG9zaXRvcnkgPSBuZXcgSGFzaE1hcDw+KCk7Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2494,7 +2499,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+        <text>.</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2509,7 +2514,7 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIE9wZXJhdGlvblJlcG9zaXRvcnkgb3BlcmF0aW9uUmVwb3NpdG9yeTsK</text>
+        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIE1hcDxTdHJpbmcsIE9wZXJhdGlvblJlcG9zaXRvcnk+IGNvdW50cnlUb1JlcG9zaXRvcnkgPSBuZXcgSGFzaE1hcDw+KCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2523,31 +2528,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBPcGRkZAo=</text>
+        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIE1hcDxTdHJpbmcsIE9wZXJhdGlvblJlcG9zaXRvcnk+IGNvdW50cnlUb1JlcG9zaXRvcnkgPSBuZXcgSGFzaE1hcDw+KCk7CiAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBAQXV0b3dpcmVkCg==</text>
+        <text encoding="base64">ICBjb3VudHJ5VE9SZXBvKFN0cmluZyBjb3VudHJ5KTogUmVwb3NpdG9yeQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBvcGVyYXRpb25zOwo=</text>
+        <text encoding="base64">ICAgIENvbGxlY3Rpb248QXBwcm92YWxTdGF0dXM+IGJhc2VTdGF0dXNlcyA9IGFzTGlzdChBcHByb3ZhbFN0YXR1cy5BUFBST1ZFRCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFBhZ2Ugb3BlcmF0aW9ucyA9IG5ldyBQYWdlSW1wbDxPcGVyYXRpb25SZXNvdXJjZT4oQXJyYXlzLmFzTGlzdChuZXcgT3BlcmF0aW9uRlJBUmVzb3VyY2UoIjEyMyIpLCBuZXcgT3BlcmF0aW9uRlJBUmVzb3VyY2UoIjQ1NiIpLCBuZXcgT3BlcmF0aW9uRlJBUmVzb3VyY2UoIjc4OSIpKSk7Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIE9wZXJhdGlvblJlcG9zaXRvcnkgb3BlcmF0aW9uUmVwb3NpdG9yeTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG9wZXJhdGlvblJlcG9zaXRvcnkuZmluZEJ5QXBwcm92YWxTdGF0dXNJbigpOwo=</text>
+        <text encoding="base64">ICBPcGRkZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGkK</text>
+        <text encoding="base64">ICBAQXV0b3dpcmVkCg==</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG9wZXJhdGlvbnMuCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBvcGVyYXRpb25zOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG9wZXJhdGlvblJlcG9zaXRvcnkuZmluZEJ5QXBwcm92YWxTdGF0dXNJbigpCg==</text>
+        <text encoding="base64">ICAgIFBhZ2Ugb3BlcmF0aW9ucyA9IG5ldyBQYWdlSW1wbDxPcGVyYXRpb25SZXNvdXJjZT4oQXJyYXlzLmFzTGlzdChuZXcgT3BlcmF0aW9uRlJBUmVzb3VyY2UoIjEyMyIpLCBuZXcgT3BlcmF0aW9uRlJBUmVzb3VyY2UoIjQ1NiIpLCBuZXcgT3BlcmF0aW9uRlJBUmVzb3VyY2UoIjc4OSIpKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
