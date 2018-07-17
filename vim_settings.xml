@@ -363,10 +363,12 @@
       <file name="$USER_HOME$/dev/UTM/utm-backend/src/main/java/com/thales/utm/web/operations/Mapper.java" timestamp="1531564069498">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/UTM/utm-backend/.gitignore" timestamp="1531236945269">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
+      <file name="$USER_HOME$/dev/UTM/utm-backend/.gitignore" timestamp="1531834023569">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="44" column="6" />
+        <mark key="]" line="46" column="4" />
+        <mark key="." line="46" column="4" />
+        <mark key="^" line="46" column="4" />
       </file>
       <file name="$USER_HOME$/dev/UTM/utm-backend/src/main/java/com/thales/utm/broker/Consumer.java" timestamp="1531316460634">
         <mark key="[" line="5" column="22" />
@@ -595,10 +597,10 @@
         <mark key="^" line="16" column="8" />
         <mark key="." line="18" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531814102748">
+      <file name="/Dummy.txt" timestamp="1531834466193">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="15" />
-        <mark key="." line="0" column="15" />
+        <mark key="]" line="0" column="17" />
+        <mark key="." line="0" column="17" />
       </file>
       <file name="$USER_HOME$/dev/factory-cup/client/src/components/Scores.js" timestamp="1526652866281">
         <mark key="[" line="4" column="0" />
@@ -679,7 +681,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="19" filename="$USER_HOME$/dev/factory-cup/client/src/services/Auth.js" />
       <jump line="15" column="0" filename="$USER_HOME$/dev/factory-cup/client/src/components/AuthButton.js" />
       <jump line="2" column="29" filename="$USER_HOME$/dev/factory-cup/client/src/components/AuthButton.js" />
       <jump line="20" column="25" filename="$USER_HOME$/dev/factory-cup/client/src/components/AuthButton.js" />
@@ -779,6 +780,7 @@
       <jump line="49" column="2" filename="$USER_HOME$/dev/UTM/utm-backend/api/src/main/java/com/thales/utm/operations/OperationMapper.java" />
       <jump line="6" column="2" filename="$USER_HOME$/dev/UTM/utm-backend/api/src/main/java/com/thales/utm/operations/utils/OperationMapperI.java" />
       <jump line="36" column="5" filename="$USER_HOME$/dev/UTM/utm-backend/api/src/main/java/com/thales/utm/operations/utils/OperationMapperImpl.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/UTM/utm-backend/.gitignore" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1074,8 +1076,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHF1ZXJ5Lgo=</text>
+      <register name="&quot;" type="4">
+        <text>implement basic operation mapper</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2602,7 +2604,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>operationMa</text>
+        <text>implement basic operation mapper</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2658,7 +2660,7 @@
         <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -2710,10 +2712,10 @@
         <entry encoding="base64">JzwsJz5zL2V4cG9ydC8vZw==</entry>
         <entry encoding="base64">JzwsJz5zL14gKFtBLVpdKS8kMS9n</entry>
         <entry encoding="base64">JzwsJz5zL14oW0EtWl0pL2V4cG9ydCAkMS9n</entry>
-        <entry>wq</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL09wZXJhdGlvblJlc291cmNlL09wZXJhdGlvbi9n</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
