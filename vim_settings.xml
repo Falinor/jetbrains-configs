@@ -133,6 +133,12 @@
         <mark key="." line="4" column="5" />
         <mark key="^" line="4" column="5" />
       </file>
+      <file name="$USER_HOME$/dev/UTM/utm-backend/api/src/main/java/com/thales/utm/config/OperationProperties.java" timestamp="1531993250045">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/factory-cup/client/src/components/Matches/index.js" timestamp="1528653681877">
         <mark key="[" line="2" column="9" />
         <mark key="]" line="1" column="31" />
@@ -144,6 +150,13 @@
         <mark key="]" line="51" column="15" />
         <mark key="." line="51" column="15" />
         <mark key="^" line="51" column="15" />
+      </file>
+      <file name="$USER_HOME$/dev/UTM/utm-backend/api/src/test/java/com/thales/utm/config/OperationPropertiesTest.java" timestamp="1532001884832">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="14" column="30" />
+        <mark key="]" line="14" column="30" />
+        <mark key="^" line="14" column="35" />
+        <mark key="." line="14" column="30" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/routes/orders/mapper.test.js" timestamp="1527669003110">
         <mark key="[" line="32" column="22" />
@@ -353,7 +366,7 @@
         <mark key="." line="3" column="24" />
       </file>
       <file name="$USER_HOME$/dev/UTM/utm-backend/src/test/java/com/thales/utm/web/OperatorServicesTest.java" timestamp="1531647085268" />
-      <file name="$USER_HOME$/dev/UTM/utm-backend/api/src/main/resources/application.yml" timestamp="1531839170276">
+      <file name="$USER_HOME$/dev/UTM/utm-backend/api/src/main/resources/application.yml" timestamp="1532001625071">
         <mark key="[" line="4" column="9" />
         <mark key="]" line="4" column="10" />
         <mark key="^" line="4" column="10" />
@@ -674,13 +687,11 @@
         <mark key="^" line="2" column="81" />
         <mark key="." line="2" column="81" />
       </file>
-      <file name="/fragment.java" timestamp="1531988331255">
+      <file name="/fragment.java" timestamp="1531993267400">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="1" filename="$USER_HOME$/dev/factory-cup/client/src/components/PrivateRoute.js" />
-      <jump line="22" column="35" filename="$USER_HOME$/dev/factory-cup/client/src/components/PrivateRoute.js" />
       <jump line="0" column="34" filename="$USER_HOME$/dev/factory-cup/client/src/components/PrivateRoute.js" />
       <jump line="4" column="20" filename="$USER_HOME$/dev/factory-cup/client/src/screens/Login.js" />
       <jump line="6" column="29" filename="$USER_HOME$/dev/factory-cup/client/src/screens/Login.js" />
@@ -779,6 +790,8 @@
       <jump line="26" column="25" filename="$USER_HOME$/dev/UTM/utm-backend/api/src/test/java/com/thales/utm/operations/OperationMapperTest.java" />
       <jump line="14" column="1" filename="$USER_HOME$/dev/UTM/utm-backend/api/src/test/java/com/thales/utm/operations/OperationMapperTest.java" />
       <jump line="61" column="4" filename="$USER_HOME$/dev/UTM/utm-backend/api/src/test/java/com/thales/utm/operations/OperationMapperTest.java" />
+      <jump line="7" column="0" filename="$USER_HOME$/dev/UTM/utm-backend/api/src/main/java/com/thales/utm/config/OperationProperties.java" />
+      <jump line="25" column="0" filename="$USER_HOME$/dev/UTM/utm-backend/api/src/test/java/com/thales/utm/config/OperationPropertiesTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1074,8 +1087,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAuYW5kRXhwZWN0KGpzb25QYXRoKCIkWzBdLmlkIikudmFsdWUoIjEyMyIpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>spring</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2602,7 +2615,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>en OperationFR model to OperationFRA</text>
+        <text>spring</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2617,7 +2630,7 @@
         <text encoding="base64">ICAgIHJlc291cmNlLnNldERlc2NyaXB0aW9uKCJUaGlzIGlzIGFuIGFtYXppbmcgb3BlcmF0aW9uLiBUaGUgb3BlcmF0aW9uIG9mIHlvdXIgbGlmZSAhIik7CiAgICByZXNvdXJjZS5zZXRPcGVyYXRpb25UeXBlKCJBNiIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAuYW5kRXhwZWN0KGpzb25QYXRoKCIkWzBdLmlkIikudmFsdWUoIjEyMyIpKTsK</text>
+        <text encoding="base64">QFRlc3RDb25maWd1cmF0aW9uKCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2631,31 +2644,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAuYW5kRXhwZWN0KGpzb25QYXRoKCIkWzBdLmlkIikudmFsdWUoIjEyMyIpKTsK</text>
+        <text encoding="base64">QFNwcmluZ0Jvb3RUZXN0KCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIE1vY2tpdG8ud2hlbihvcGVyYXRpb25NYXBwZXIuKQo=</text>
+        <text encoding="base64">ICAgIHZhciBvcGVyYXRpb25Qcm9wZXJ0aWVzID0gb3BlcmF0aW9uUHJvcGVydGllczsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIG9wZXJhdGlvbk1hcHBlci50b1Jlc291cmNlKCkuCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgQFRlc3QKICBwdWJsaWMgdm9pZCBzZXRDb3VudHJ5KCkgewogIH0KCiAgQFRlc3QKICBwdWJsaWMgdm9pZCBnZXRDb3VudHJ5KCkgewogIH0=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG9wZXJhdGlvbk1hcHBlci4K</text>
+        <text encoding="base64">CjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBATW9ja0JlYW4KICBwcml2YXRlIE9wZXJhdGlvbk1hcHBlciBvcGVyYXRpb25NYXBwZXI7Cg==</text>
+        <text encoding="base64">ICBATm9ubmVnYXRpdmUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QFNwcmluZ0Jvb3RUZXN0KHdlYkVudmlyb25tZW50ID0gV2ViRW52aXJvbm1lbnQuREVGSU5FRF9QT1JUKQo=</text>
+        <text encoding="base64">ICBATm9ubnVsbAo=</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QFdlYk12Y1Rlc3QoY29udHJvbGxlcnMgPSBPcGVyYXRpb25Db250cm9sbGVyLmNsYXNzLCBzZWN1cmUgPSBmYWxzZSkKQFNwcmluZ0Jvb3RUZXN0KHdlYkVudmlyb25tZW50ID0gV2ViRW52aXJvbm1lbnQuREVGSU5FRF9QT1JUKQo=</text>
+        <text encoding="base64">ICBATm90Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QFZhbGlkYXRlZAo=</text>
+        <text encoding="base64">ICAgICAgICAuYW5kRXhwZWN0KGpzb25QYXRoKCIkWzBdLmlkIikudmFsdWUoIjEyMyIpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
