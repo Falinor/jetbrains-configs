@@ -742,13 +742,12 @@
         <mark key="^" line="9" column="9" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/UTM/utm-api-docs/openapi.yml" timestamp="1532099690803">
-        <mark key="'" line="247" column="43" />
-        <mark key="k" line="580" column="20" />
-        <mark key="[" line="224" column="21" />
-        <mark key="]" line="252" column="11" />
-        <mark key="^" line="252" column="11" />
-        <mark key="." line="252" column="11" />
+      <file name="$USER_HOME$/dev/UTM/utm-api-docs/openapi.yml" timestamp="1532100311690">
+        <mark key="'" line="245" column="43" />
+        <mark key="k" line="569" column="20" />
+        <mark key="[" line="217" column="0" />
+        <mark key="]" line="217" column="0" />
+        <mark key="." line="217" column="0" />
       </file>
       <file name="$USER_HOME$/dev/factory-cup/api/src/challenges/fifa-wc-2018/index.js" timestamp="1527497399407">
         <mark key="[" line="1" column="7" />
@@ -1616,8 +1615,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB3ZWJob29rVXJsOgogICAgICAgICAgdHlwZTogc3RyaW5nCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -3168,18 +3167,8 @@
         pilot:
           $ref: '#/components/schemas/Pilot'</text>
       </register>
-      <register name="1" type="4">
-        <text>name:
-          type: string
-        description:
-          type: string
-        volumes:
-          type: array
-          minItems: 1
-          items:
-            $ref: '#/components/schemas/OperationVolume'
-        pilot:
-          $ref: '#/components/schemas/Pilot'</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB3ZWJob29rVXJsOgogICAgICAgICAgdHlwZTogc3RyaW5nCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3193,31 +3182,41 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGZvcm1hdDogdXJpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB1cmk6CiAgICAgICAgICB0eXBlOiBzdHJpbmcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgcmVxdWlyZWQ6IFt1cmldCiAgICAgIHByb3BlcnRpZXM6Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IAogICAgICAgIHZhbHVlOgogICAgICAgICAgdHlwZTogbnVtYmVyCiAgICAgICAgICBmb3JtYXQ6IGRvdWJsZQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIFdlYmhvb2s6CiAgICAgIHR5cGU6IG9iamVjdAo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgdmFsdWU6CiAgICAgICAgICB0eXBlOiBudW1iZXIKICAgICAgICAgIGZvcm1hdDogZG91Ymxl</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB3ZWJob29rOgogICAgICAgICAgJHJlZjogJyMvY29tcG9uZW50cy9zY2hlbWFzL1dlYmhvb2snCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAtIHR5cGUK</text>
+      <register name="7" type="4">
+        <text>name:
+          type: string
+        description:
+          type: string
+        volumes:
+          type: array
+          minItems: 1
+          items:
+            $ref: '#/components/schemas/OperationVolume'
+        pilot:
+          $ref: '#/components/schemas/Pilot'</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWluSXRlbXM6IDEK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWluSXRlbXM6IDEK</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
