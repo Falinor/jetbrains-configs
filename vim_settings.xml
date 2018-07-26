@@ -619,11 +619,12 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="37" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/feature/shared/operation.service.ts" timestamp="1532593743155">
-        <mark key="[" line="6" column="38" />
-        <mark key="]" line="8" column="75" />
-        <mark key="^" line="8" column="75" />
-        <mark key="." line="8" column="75" />
+      <file name="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/feature/shared/operation.service.ts" timestamp="1532599443228">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="15" column="15" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/importer/manifest_prod.yml" timestamp="1525881840250">
         <mark key="'" line="29" column="326" />
@@ -1464,8 +1465,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/dev/UTM/utm-backend/.gitignore" />
-      <jump line="6" column="34" filename="$USER_HOME$/dev/UTM/utm-backend/api/src/main/java/com/thales/utm/operations/OperationService.java" />
       <jump line="7" column="2" filename="$USER_HOME$/dev/UTM/utm-backend/api/src/main/java/com/thales/utm/operations/OperationService.java" />
       <jump line="13" column="2" filename="$USER_HOME$/dev/UTM/utm-backend/api/src/main/java/com/thales/utm/operations/OperationService.java" />
       <jump line="16" column="0" filename="$USER_HOME$/dev/UTM/utm-backend/api/src/main/java/com/thales/utm/operations/OperationService.java" />
@@ -1564,6 +1563,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/UTM/utm-frontend-authority/src/environments/environment.ts" />
       <jump line="65" column="0" filename="$USER_HOME$/dev/UTM/utm-frontend-authority/src/environments/environment.ts" />
       <jump line="4" column="0" filename="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/shared/models/new/operation/index.ts" />
+      <jump line="4" column="45" filename="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/feature/shared/operation.service.ts" />
+      <jump line="5" column="0" filename="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/feature/shared/operation.service.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1859,8 +1860,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBPYnNlcnZhYmxlLm9mKFtdKTsK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -3387,7 +3388,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>as Operation[]</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -3412,7 +3413,7 @@
           $ref: '#/components/schemas/Pilot'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXgK</text>
+        <text encoding="base64">ICAgIHJldHVybiBPYnNlcnZhYmxlLm9mKFtdKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3426,31 +3427,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3IK</text>
+        <text encoding="base64">aW1wb3J0IHsgT2JzZXJ2YWJsZSB9IGZyb20gJ3J4anMnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9jb29yZGluYXRlcyc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgSHR0cENsaWVudCB9IGZyb20gJ0Bhbmd1bGFyL2NvbW1vbi9odHRwJzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9jb29yZGluYXRlcyc7Cg==</text>
+        <text encoding="base64">ZXgK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRGlzdGFuY2UgfSBmcm9tICdAYXBwL21vZHVsZXMvc2hhcmVkL21vZGVscy9uZXcvb3BlcmF0aW9uL2Rpc3RhbmNlJzsK</text>
+        <text encoding="base64">aW1wb3IK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRGlzdGFuY2UgfSBmcm9tICdAYXBwL21vZHVsZXMvc2hhcmVkL21vZGVscy9uZXcvb3BlcmF0aW9uL2Rpc3RhbmNlJzsK</text>
+        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9jb29yZGluYXRlcyc7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVWF2IH0gZnJvbSAnQGFwcC9tb2R1bGVzL3NoYXJlZC9tb2RlbHMvbmV3L29wZXJhdGlvbi91YXYnOwo=</text>
+        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9jb29yZGluYXRlcyc7Cg==</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBmbHlpbmdPdmVyUGVvcGxlPzogYm9vbGVhbjsK</text>
+        <text encoding="base64">aW1wb3J0IHsgRGlzdGFuY2UgfSBmcm9tICdAYXBwL21vZHVsZXMvc2hhcmVkL21vZGVscy9uZXcvb3BlcmF0aW9uL2Rpc3RhbmNlJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBXQVJfRlJBX1MxX1dFSUdIVAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgRGlzdGFuY2UgfSBmcm9tICdAYXBwL21vZHVsZXMvc2hhcmVkL21vZGVscy9uZXcvb3BlcmF0aW9uL2Rpc3RhbmNlJzsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
