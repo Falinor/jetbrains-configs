@@ -30,7 +30,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>18</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Reference">
@@ -38,6 +38,14 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'⌥⇧⌘C'</ShortCut>
           <Description>Copy Reference</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug">
+        <Item>
+          <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
+          <ShortCut>'⌘5'</ShortCut>
+          <Description>Debug</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -193,14 +201,6 @@
           <Count>4</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Rerun 'OperationService'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌘R'</ShortCut>
-          <Description>Rerun 'OperationService'</Description>
-          <Count>12</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Rerun 'PartEdge client'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -223,14 +223,6 @@
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
           <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run">
-        <Item>
-          <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
-          <ShortCut>'⌘4'</ShortCut>
-          <Description>Run</Description>
-          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'OperationService'">
@@ -302,7 +294,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'OperationService'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'PartEdge client'">
@@ -355,12 +347,28 @@
           <Count>430</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'OperationService'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'OperationService'</Description>
+          <Count>13</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Resume Program">
         <Item>
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run">
+        <Item>
+          <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
+          <ShortCut>'⌘4'</ShortCut>
+          <Description>Run</Description>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
