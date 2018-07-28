@@ -41,14 +41,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Debug">
-        <Item>
-          <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
-          <ShortCut>'⌘5'</ShortCut>
-          <Description>Debug</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Debug 'OperationService'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -78,7 +70,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Emoji &amp; Symbols">
@@ -86,14 +78,6 @@
           <IdeaActionID>EmojiAndSymbols</IdeaActionID>
           <ShortCut>'⌃⌘Space'</ShortCut>
           <Description>Emoji &amp; Symbols</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Find">
-        <Item>
-          <IdeaActionID>ActivateFindToolWindow</IdeaActionID>
-          <ShortCut>'⌘3'</ShortCut>
-          <Description>Find</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -222,7 +206,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'OperationService'">
@@ -255,6 +239,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'index.html'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Diff">
+        <Item>
+          <IdeaActionID>Diff.ShowDiff</IdeaActionID>
+          <ShortCut>'⌘D'</ShortCut>
+          <Description>Show Diff</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Into">
@@ -339,12 +331,28 @@
       </Statistic>
     </option>
     <option name="suppressed">
+      <Statistic Action="Debug">
+        <Item>
+          <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
+          <ShortCut>'⌘5'</ShortCut>
+          <Description>Debug</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Declaration">
         <Item>
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
           <Count>430</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Find">
+        <Item>
+          <IdeaActionID>ActivateFindToolWindow</IdeaActionID>
+          <ShortCut>'⌘3'</ShortCut>
+          <Description>Find</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'OperationService'">
