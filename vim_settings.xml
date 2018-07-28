@@ -242,11 +242,11 @@
         <mark key="^" line="2" column="2" />
         <mark key="." line="2" column="2" />
       </file>
-      <file name="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/shared/components/map/map.component.ts" timestamp="1532712455975">
-        <mark key="[" line="13" column="29" />
-        <mark key="]" line="16" column="13" />
-        <mark key="." line="16" column="13" />
-        <mark key="^" line="16" column="13" />
+      <file name="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/shared/components/map/map.component.ts" timestamp="1532778561896">
+        <mark key="[" line="10" column="18" />
+        <mark key="]" line="10" column="27" />
+        <mark key="." line="10" column="27" />
+        <mark key="^" line="10" column="27" />
       </file>
       <file name="$USER_HOME$/dev/factory-cup/client/src/screens/NewChallenge.js" timestamp="1526572498850">
         <mark key="'" line="6" column="11" />
@@ -352,11 +352,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/shared/components/map/map.component.spec.ts" timestamp="1532775533416">
-        <mark key="[" line="9" column="4" />
-        <mark key="]" line="9" column="4" />
-        <mark key="^" line="9" column="9" />
-        <mark key="." line="9" column="4" />
+      <file name="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/shared/components/map/map.component.spec.ts" timestamp="1532807366237">
+        <mark key="'" line="18" column="58" />
+        <mark key="[" line="36" column="58" />
+        <mark key="]" line="38" column="6" />
+        <mark key="." line="38" column="6" />
+        <mark key="^" line="38" column="6" />
       </file>
       <file name="$USER_HOME$/dev/UTM/utm-backend/api/src/main/java/com/thales/utm/operations/fra/OperationFRARepository.java" timestamp="1531927013403">
         <mark key="[" line="7" column="11" />
@@ -1664,7 +1665,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="0" filename="$USER_HOME$/dev/tdf/angular-design-system/projects/design-system/src/lib/design-system.module.ts" />
       <jump line="5" column="0" filename="$USER_HOME$/dev/tdf/angular-design-system/projects/design-system/src/lib/module-loader.ts" />
       <jump line="2" column="6" filename="$USER_HOME$/dev/tdf/angular-design-system/projects/design-system/src/lib/module-loader.ts" />
       <jump line="8" column="25" filename="$USER_HOME$/dev/tdf/angular-design-system/projects/design-system/src/lib/module-loader.ts" />
@@ -1764,6 +1764,7 @@
       <jump line="9" column="0" filename="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/feature/air-traffic-control/components/dashboard/dashboard.component.html" />
       <jump line="1" column="18" filename="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/feature/air-traffic-control/components/dashboard/dashboard.component.html" />
       <jump line="10" column="7" filename="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/feature/air-traffic-control/components/dashboard/dashboard.component.html" />
+      <jump line="18" column="58" filename="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/shared/components/map/map.component.spec.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2060,7 +2061,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">YXdhaXQg</text>
+        <text>toEqual</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -3587,7 +3588,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXdhaXQg</text>
+        <text>toEqual</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -3602,7 +3603,7 @@
         <text encoding="base64">ICAgICAgICAgIHRoaXMuYXV0aG9yaXR5U2VydmljZS5zZXRCZWFyZXIodGhpcy51c2VyLmFjY2Vzc190b2tlbik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBtaW4taGVpZ2h0OiA0MDBweDsK</text>
+        <text encoding="base64">ICAgIC8vIFRyaWdnZXIgZGF0YSBiaW5kaW5nCiAgICBmaXh0dXJlLmRldGVjdENoYW5nZXMoKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3616,34 +3617,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBoZWlnaHQ6IDQwMHB4Owo=</text>
+        <text encoding="base64">ICAgIG9wZXJhdGlvbi5kZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkaXNwbGF5OiBibG9jazsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIC8vIEMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgY29uc3RydWN0b3IoKSB7fQo=</text>
+        <text encoding="base64">ICAgIGZpeHR1cmUuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAuYWRkVG8odGhpcy5tYXApOwo=</text>
+        <text encoding="base64">ICAgIGNvbXBvbmVudC5kCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC5hZGRUbyh0aGlzLm1hcCk7Cg==</text>
+        <text encoding="base64">ICBkZXNjcmliZSkK</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
-      <register name="8" type="4">
-        <text>tileLayer(mapProvider, {
-      minZoom: 9,
-      maxZoom: 17
-    })</text>
+      <register name="8" type="2">
+        <text encoding="base64">CiAgZGVzY3JpYmUoJ8KnJywgZnVuY3Rpb24oKSB7fSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG1hcFByb3ZpZGVyCg==</text>
+        <text encoding="base64">ICBtaW4taGVpZ2h0OiA0MDBweDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
