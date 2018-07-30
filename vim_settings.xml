@@ -235,6 +235,12 @@
         <mark key="^" line="16" column="8" />
         <mark key="." line="34" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/shared/components/map/map.component.ts" timestamp="1532955675533">
+        <mark key="[" line="31" column="14" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="27" column="67" />
+      </file>
       <file name="$USER_HOME$/dev/factory-cup/client/src/screens/NewChallenge.js" timestamp="1526572498850">
         <mark key="'" line="6" column="11" />
         <mark key="[" line="4" column="17" />
@@ -410,12 +416,12 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/feature/air-traffic-control/components/dashboard/dashboard.component.ts" timestamp="1532945630224">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="89" column="42" />
-        <mark key="]" line="90" column="31" />
-        <mark key="." line="90" column="31" />
-        <mark key="^" line="90" column="31" />
+      <file name="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/feature/air-traffic-control/components/dashboard/dashboard.component.ts" timestamp="1532955131121">
+        <mark key="'" line="172" column="2" />
+        <mark key="[" line="181" column="0" />
+        <mark key="]" line="181" column="0" />
+        <mark key="." line="181" column="0" />
+        <mark key="^" line="181" column="38" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/src/store/modules/orders.js" timestamp="1528193794194">
         <mark key="[" line="129" column="0" />
@@ -615,6 +621,11 @@
         <mark key="]" line="7" column="90" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/feature/air-traffic-control/components/dashboard/dashboard.component.html" timestamp="1532954682531">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/feature/authority/components/masterboard/masterboard.component.ts" timestamp="1532424243856">
         <mark key="'" line="288" column="19" />
@@ -1393,10 +1404,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/dev/UTM/utm-backend/api/src/main/java/com/thales/utm/operations/OperationMapper.java" />
-      <jump line="64" column="4" filename="$USER_HOME$/dev/UTM/utm-backend/api/src/test/java/com/thales/utm/operations/OperationServiceTest.java" />
-      <jump line="10" column="64" filename="$USER_HOME$/dev/UTM/utm-backend/api/src/main/java/com/thales/utm/operations/OperationMapper.java" />
-      <jump line="18" column="1" filename="$USER_HOME$/dev/UTM/utm-backend/api/src/test/java/com/thales/utm/operations/OperationControllerTest.java" />
       <jump line="29" column="95" filename="$USER_HOME$/dev/UTM/utm-backend/api/src/test/java/com/thales/utm/operations/OperationControllerTest.java" />
       <jump line="41" column="42" filename="$USER_HOME$/dev/UTM/utm-backend/api/src/test/java/com/thales/utm/operations/OperationControllerTest.java" />
       <jump line="45" column="54" filename="$USER_HOME$/dev/UTM/utm-backend/api/src/test/java/com/thales/utm/operations/OperationControllerTest.java" />
@@ -1493,6 +1500,10 @@
       <jump line="40" column="4" filename="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/shared/components/table/table.component.ts" />
       <jump line="56" column="2" filename="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/shared/components/table/table.component.ts" />
       <jump line="35" column="4" filename="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/shared/components/table/table.component.ts" />
+      <jump line="82" column="0" filename="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/feature/air-traffic-control/components/dashboard/dashboard.component.ts" />
+      <jump line="51" column="9" filename="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/feature/air-traffic-control/components/dashboard/dashboard.component.ts" />
+      <jump line="52" column="31" filename="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/feature/air-traffic-control/components/dashboard/dashboard.component.ts" />
+      <jump line="172" column="2" filename="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/feature/air-traffic-control/components/dashboard/dashboard.component.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1789,7 +1800,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLnN1YnNjcmliZShvcHMgPT4gKHRoaXMudm9sdW1lcyA9IG9wc1swXS52b2x1bWVzKSk7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMubWFwLmZseVRvKGxpbGxlQWlycG9ydCk7Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -3316,7 +3327,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>duration</text>
+        <text>this.volumes[0] instanceof Point ? this.volumes[0].coordinates.lat : this.volumes[0].coordinates[0].lat,</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -3325,13 +3336,13 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>Bottomm</text>
+        <text>public</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">PFR5cG9ncmFwaHkgdmFyaWFudD0iZGlzcGxheTMiIGd1dHRlckJvdHRvbW0+CiAgICAgIEgyCiAgICA8L1R5cG9ncmFwaHk+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLnN1YnNjcmliZShvcHMgPT4gKHRoaXMudm9sdW1lcyA9IG9wc1swXS52b2x1bWVzKSk7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMubWFwLmZseVRvKGxpbGxlQWlycG9ydCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3345,48 +3356,47 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMub3BlcmF0aW9uU2VydmljZQogICAgICAuZmluZE9wZXJhdGlvbnMoKQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB0b2dnbGU0MjogYm9vbGVhbjsK</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLnZvbHVtZXMpIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy50b2dnbGU0ZGRPCg==</text>
+        <text encoding="base64">ICAgICAgICBsYXQ6ICh0aGlzLnZvbHVtZXNbMF0gYXMgYW55KS5jb29yZGluYXRlcy5sYXQsCiAgICAgICAgbG5nOiAodGhpcy52b2x1bWVzWzBdIGFzIGFueSkuY29vcmRpbmF0ZXMubG9uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm1pc3Npb25zTnVtYmVyID0gdGhpcy5vcGVyYXRpb25MaXN0Lmxlbmd0aDsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0kgaGF2ZSB2b2x1bWVzJywgdGhpcy52b2x1bWVzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBtaXNzaW9uc051bWJlcjogbnVtYmVyOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMub3BlcmF0aW9uRGV0YWlscyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">ICAgIHt7IHZvbHVtZXNbMF0udHlwZSB9fQo=</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxUZGZCdXR0b25zIGlkPSJidXR0b25zIiAvPgo9PT09PT09Cg==</text>
+        <text encoding="base64">ICAgIGMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCiAgICA8VGRmVHlwb2dyYXBoeSBpZD0idHlwb2dyYXBoeSIgLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBuZXcgQ29vcmRpbmF0ZXModm9sLmNvKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Bottomm</last-search>
+      <last-search>public</last-search>
       <last-offset />
-      <last-pattern>Bottomm</last-pattern>
-      <last-replace>Bottom</last-replace>
-      <last-substitute>Bottomm</last-substitute>
+      <last-pattern>public</last-pattern>
+      <last-replace />
+      <last-substitute>public</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>service</entry>
         <entry>knex</entry>
         <entry>citadelService</entry>
         <entry encoding="base64">XDxJTlRPXD4=</entry>
@@ -3406,10 +3416,9 @@
         <entry encoding="base64">XDxmcm9tXD4=</entry>
         <entry>inc</entry>
         <entry>Bottomm</entry>
+        <entry>public</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz53cQ==</entry>
-        <entry encoding="base64">JzwsJz5zL2xvdFN0b2NrL3BhcnROdW1iZXIvZw==</entry>
         <entry encoding="base64">JzwsJz5zLyBjbGFzcz0iaXRlbV9fY29udGVudCIvL2c=</entry>
         <entry>:w</entry>
         <entry encoding="base64">JzwsJz5zL3NtdHAvbWFpbC9n</entry>
@@ -3427,6 +3436,8 @@
         <entry>q</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL0JvdHRvbW0vQm90dG9tL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL3B1YmxpYy9n</entry>
+        <entry encoding="base64">JzwsJz5zL3B1YmxpYy8vZw==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
