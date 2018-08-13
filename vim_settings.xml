@@ -393,6 +393,12 @@
         <mark key="^" line="8" column="14" />
         <mark key="." line="8" column="14" />
       </file>
+      <file name="$USER_HOME$/dev/UTM/utm-backend/model/src/main/java/com/thales/utm/model/Pilot.java" timestamp="1534169844984">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="18" column="24" />
+        <mark key="^" line="18" column="24" />
+        <mark key="." line="18" column="24" />
+      </file>
       <file name="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/shared/models/operation.ts" timestamp="1532364502006">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -495,6 +501,12 @@
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/UTM/utm-backend/api/src/main/java/com/thales/utm/operations/resources/geo/PilotResource.java" timestamp="1534169145423">
+        <mark key="[" line="12" column="23" />
+        <mark key="]" line="14" column="24" />
+        <mark key="^" line="14" column="24" />
+        <mark key="." line="14" column="24" />
       </file>
       <file name="$USER_HOME$/dev/factory-cup/api/src/events/fifa-wc-2018/resolvers.js" timestamp="1528730407719">
         <mark key="[" line="24" column="0" />
@@ -714,6 +726,13 @@
         <mark key="^" line="14" column="26" />
         <mark key="." line="14" column="26" />
       </file>
+      <file name="$USER_HOME$/dev/UTM/utm-backend/api/src/main/resources/db/migration/V1_2__BaselineVersion.sql" timestamp="1534169640364">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="22" column="34" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/factory-cup/client/test/FifaWorldCup.test.js" timestamp="1528108494031">
         <mark key="'" line="3" column="45" />
         <mark key="[" line="11" column="4" />
@@ -813,11 +832,11 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="24" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533917966974">
+      <file name="/Dummy.txt" timestamp="1534170260496">
         <mark key="a" line="0" column="41" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="16" />
-        <mark key="." line="0" column="16" />
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="17" />
+        <mark key="." line="0" column="17" />
       </file>
       <file name="$USER_HOME$/dev/factory-cup/client/src/components/Scores.js" timestamp="1526652866281">
         <mark key="[" line="4" column="0" />
@@ -858,10 +877,10 @@
         <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/dev/UTM/utm-backend/api/src/main/java/com/thales/utm/operations/fra/OperationFRAResource.java" timestamp="1534151695293">
-        <mark key="[" line="13" column="42" />
-        <mark key="]" line="13" column="41" />
-        <mark key="^" line="13" column="41" />
-        <mark key="." line="13" column="41" />
+        <mark key="[" line="12" column="42" />
+        <mark key="]" line="12" column="41" />
+        <mark key="^" line="12" column="41" />
+        <mark key="." line="12" column="41" />
       </file>
       <file name="$USER_HOME$/Dev/tdf/react-adapter/package.json" timestamp="1532630778070">
         <mark key="[" line="10" column="13" />
@@ -1611,8 +1630,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="5" filename="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/shared/components/table/table.component.ts" />
-      <jump line="38" column="40" filename="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/shared/components/table/table.component.ts" />
       <jump line="53" column="8" filename="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/shared/components/table/table.component.ts" />
       <jump line="195" column="13" filename="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/feature/air-traffic-control/components/dashboard/dashboard.component.ts" />
       <jump line="67" column="12" filename="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/feature/air-traffic-control/components/dashboard/dashboard.component.ts" />
@@ -1711,6 +1728,8 @@
       <jump line="1" column="10" filename="$USER_HOME$/dev/tdf/tdf-react-adapter/scripts/preprocess.js" />
       <jump line="7" column="0" filename="$USER_HOME$/dev/tdf/tdf-react-adapter/scripts/preprocess.js" />
       <jump line="17" column="3" filename="$USER_HOME$/dev/tdf/tdf-react-adapter/scripts/preprocess.js" />
+      <jump line="17" column="2" filename="$USER_HOME$/dev/UTM/utm-backend/api/src/main/resources/db/migration/V1_2__BaselineVersion.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/UTM/utm-backend/api/src/main/resources/db/migration/V1_2__BaselineVersion.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2007,7 +2026,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">bG9uZ2VyIA==</text>
+        <text>add pilot company</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -3534,7 +3553,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bG9uZ2VyIA==</text>
+        <text>add pilot company</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -3545,11 +3564,11 @@
       <register name="/" type="4">
         <text>hover</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGN3ZDogam9pbihfX2Rpcm5hbWUsICcuLicpLAogICAgYWJzb2x1dGU6IHRydWUK</text>
+      <register name="0" type="4">
+        <text encoding="base64">CkFMVEVSIFRBQkxFICJwdWJsaWMiLiJvcGVyYXRpb25zZnJhIgpBREQgcGlsb3RfY29tcGFueSBjaGFyYWN0ZXIgdmFyeWluZygyNTUpIE5PVCBOVUxMOw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBObyBtb3JlIHVzZWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3563,31 +3582,48 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZpbGVzLmZvckVhY2goKQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text>CREATE TABLE &quot;public&quot;.&quot;airspace&quot; (
+    id character varying(255) NOT NULL,
+    control_type character varying(255),
+    designator_value character varying(255),
+    value character varying(255)
+) ;
+
+DROP TABLE &quot;public&quot;.&quot;operation_ctr_list&quot; ;
+
+CREATE TABLE &quot;public&quot;.&quot;operations_ctr_list&quot; (
+    operation_id character varying(255) NOT NULL,
+    ctr_list_id character varying(255) NOT NULL
+) ;
+
+CREATE TABLE &quot;public&quot;.&quot;operations_intersected_airspaces&quot; (
+    operation_id character varying(255) NOT NULL,
+    intersected_airspaces_id character varying(255) NOT NULL
+) ;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAKfSkK</text>
+        <text encoding="base64">CkFMVEUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBObyBtb3JlIHVzZWQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgCg==</text>
+        <text encoding="base64">ICAgIGZpbGVzLmZvckVhY2goKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXRpbC5wcm9taXNpZnkoZ2xvYikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Z2xvYmJpbmcuZ2xvYigpCg==</text>
+        <text encoding="base64">ICAKfSkK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CmZ1bmN0aW9uIGdsb2JDU1MoKSB7CiAgcmV0dXJuIG5ldyBQcm9taXNlKChyZXNvbHZlLCByZWplY3QpID0+IHsKICAgIAogIH0pOwp9Ow==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
