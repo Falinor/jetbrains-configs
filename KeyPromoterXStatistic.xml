@@ -14,7 +14,7 @@
           <IdeaActionID>CloseContent</IdeaActionID>
           <ShortCut>'⌘W'</ShortCut>
           <Description>Close</Description>
-          <Count>17</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Column Selection Mode">
@@ -30,7 +30,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>15</Count>
+          <Count>66</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Reference">
@@ -86,7 +86,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>8</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate...">
@@ -137,6 +137,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Method...">
+        <Item>
+          <IdeaActionID>ExtractMethod</IdeaActionID>
+          <ShortCut>'⌥⌘M'</ShortCut>
+          <Description>Method...</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Move...">
         <Item>
           <IdeaActionID>Move</IdeaActionID>
@@ -158,7 +166,15 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>47</Count>
+          <Count>48</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Reformat Code">
+        <Item>
+          <IdeaActionID>ReformatCode</IdeaActionID>
+          <ShortCut>'⌥⌘L'</ShortCut>
+          <Description>Reformat Code</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reformat with Prettier">
@@ -185,6 +201,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'statement'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'statement'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Restore Windows">
         <Item>
           <IdeaActionID>HideAllWindows</IdeaActionID>
@@ -198,7 +222,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -265,14 +289,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Terminal">
-        <Item>
-          <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
-          <ShortCut>'⌥F12'</ShortCut>
-          <Description>Terminal</Description>
-          <Count>65</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
         <Item>
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
@@ -281,20 +297,12 @@
           <Count>35</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Version Control">
-        <Item>
-          <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
-          <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
-          <Description>Version Control</Description>
-          <Count>21</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Vim Emulator">
         <Item>
           <IdeaActionID>VimPluginToggle</IdeaActionID>
           <ShortCut>'⌥⌘V'</ShortCut>
           <Description>Vim Emulator</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
     </option>
@@ -311,6 +319,22 @@
         <Item>
           <IdeaActionID>ActivateEventLogToolWindow</IdeaActionID>
           <Description>Event Log</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Terminal">
+        <Item>
+          <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
+          <ShortCut>'⌥F12'</ShortCut>
+          <Description>Terminal</Description>
+          <Count>71</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Version Control">
+        <Item>
+          <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
+          <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
+          <Description>Version Control</Description>
+          <Count>32</Count>
         </Item>
       </Statistic>
     </option>
