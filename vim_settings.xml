@@ -856,6 +856,11 @@
         <mark key="." line="50" column="28" />
         <mark key="^" line="50" column="28" />
       </file>
+      <file name="$USER_HOME$/dev/UTM/utm-backend/api/src/main/java/com/thales/utm/operations/mapper/MapperImpl.java" timestamp="1534846200447">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/UTM/utm-backend/src/main/java/com/thales/utm/config/DbConfig.java" timestamp="1531405987937">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -1452,6 +1457,9 @@
         <mark key="." line="43" column="15" />
         <mark key="^" line="43" column="15" />
       </file>
+      <file name="$USER_HOME$/dev/UTM/utm-backend/api/src/test/java/com/thales/utm/operations/countries/fra/OperationFRAMapperTest.java" timestamp="1534837510289">
+        <mark key="[" line="90" column="101" />
+      </file>
       <file name="$USER_HOME$/dev/UTM/utm-backend/api/src/main/java/com/thales/utm/data/OperationsRepository.java" timestamp="1531921191032">
         <mark key="[" line="17" column="26" />
         <mark key="]" line="17" column="26" />
@@ -2015,8 +2023,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>altittude</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICBtb2RlbE1hcHBlci50eXBlTWFwKFVhdi5jbGFzcywgbmV3IFR5cGVUb2tlbjxMaXN0PFVhdj4+KCkge30uZ2V0VHlwZSgpKQo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -3543,7 +3551,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>altittude</text>
+        <text>type</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -3558,7 +3566,7 @@
         <text encoding="base64">ICAgIGN3ZDogam9pbihfX2Rpcm5hbWUsICcuLicpLAogICAgYWJzb2x1dGU6IHRydWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmICh0KQo=</text>
+        <text encoding="base64">CiAgICBtb2RlbE1hcHBlci50eXBlTWFwKFVhdi5jbGFzcywgbmV3IFR5cGVUb2tlbjxMaXN0PFVhdj4+KCkge30uZ2V0VHlwZSgpKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3572,31 +3580,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG1pc3Npb24K</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5tb2RlbG1hcHBlci5UeXBlVG9rZW47Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMubWlzc2lvbkZvcm0udmFsdWUuCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheXM7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY29tcGFueSA9ICcnCg==</text>
+        <text encoding="base64">ICAgIFR5cGVUb2tlbjxUPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMubGRDbGllbnQuCg==</text>
+        <text encoding="base64">ICAgIGlmICh0KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IG1pc3Npb24K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMubGRDbGllbnQuCg==</text>
+        <text encoding="base64">ICAgIHRoaXMubWlzc2lvbkZvcm0udmFsdWUuCg==</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHRoaXMuY29tcGFueSA9ICcnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">TERDbGllbnQuCg==</text>
+        <text encoding="base64">ICAgIHRoaXMubGRDbGllbnQuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
