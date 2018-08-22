@@ -852,7 +852,7 @@
         <mark key="^" line="17" column="45" />
         <mark key="." line="17" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534868599811">
+      <file name="/Dummy.txt" timestamp="1534925441086">
         <mark key="a" line="0" column="41" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
@@ -1149,6 +1149,7 @@
         <mark key="^" line="91" column="0" />
         <mark key="." line="91" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/UTM/utm-backend/api/src/main/java/com/thales/utm/operations/OperationSpecs.java" timestamp="1534925734424" />
       <file name="$USER_HOME$/dev/part-edge/client/src/services/order.js" timestamp="1528192877896">
         <mark key="[" line="50" column="9" />
         <mark key="]" line="51" column="15" />
@@ -1564,6 +1565,12 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/UTM/utm-backend/api/src/main/java/com/thales/utm/operations/mapper/OperationMapperImpl.java" timestamp="1534925257572">
+        <mark key="[" line="26" column="4" />
+        <mark key="]" line="26" column="4" />
+        <mark key="^" line="26" column="8" />
+        <mark key="." line="26" column="4" />
+      </file>
       <file name="$USER_HOME$/dev/factory-cup/client/public/index.html" timestamp="1528281547007">
         <mark key="[" line="13" column="90" />
         <mark key="]" line="14" column="112" />
@@ -1687,10 +1694,11 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="23" column="8" />
       </file>
-      <file name="$USER_HOME$/dev/UTM/utm-backend/api/src/main/java/com/thales/utm/operations/countries/fra/OperationFRAMapper.java" timestamp="1534867194285">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/dev/UTM/utm-backend/api/src/main/java/com/thales/utm/operations/countries/fra/OperationFRAMapper.java" timestamp="1534925426899">
+        <mark key="[" line="31" column="37" />
+        <mark key="]" line="31" column="28" />
+        <mark key="." line="31" column="28" />
+        <mark key="^" line="31" column="28" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/src/config/index.js" timestamp="1528464597446">
         <mark key="[" line="50" column="50" />
@@ -2129,7 +2137,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>toResource</text>
+        <text>registerEntityMappings</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -3656,7 +3664,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>toResource</text>
+        <text>registerEntityMappings</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -3725,7 +3733,7 @@
     assertArrayEquals(entity.getWarnings().toArray(), resource.getWarnings().toArray());</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1hZAo=</text>
+        <text encoding="base64">ICAgIHN1cGVyLnJlCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3739,28 +3747,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZGQK</text>
+        <text encoding="base64">ICAgIG1hZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFzc2VydEFycmF5RXF1YWxzKGVudGl0eS5nZXRXYXJuaW5ncygpLnRvQXJyYXkoKSwgcmVzb3VyY2UuZ2V0V2FybmluZ3MoKS50b0FycmF5KCkpOwo=</text>
+        <text encoding="base64">ICAgIHRoaXMuZGQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFzc2VydEVxdWFscyhlbnRpdHkuZ2V0VWF2KCksIHJlc291cmNlLmdldFVhdnMoKS5nZXQoMCkpOwo=</text>
+        <text encoding="base64">ICAgIGFzc2VydEFycmF5RXF1YWxzKGVudGl0eS5nZXRXYXJuaW5ncygpLnRvQXJyYXkoKSwgcmVzb3VyY2UuZ2V0V2FybmluZ3MoKS50b0FycmF5KCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFzc2VydEVxdWFscyhlbnRpdHkuZ2V0U3RhcnRzQXQoKS50b0luc3RhbnQoKSwgcmVzb3VyY2UuZ2V0U3RhcnRzQXQoKS50b0luc3RhbnQoWm9uZU9mZnNldC5VVEMpKTsK</text>
+        <text encoding="base64">ICAgIGFzc2VydEVxdWFscyhlbnRpdHkuZ2V0VWF2KCksIHJlc291cmNlLmdldFVhdnMoKS5nZXQoMCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFzc2VydEFycmF5RXF1YWxzKGVudGl0eS5nZXRSdW53YXlJbnRlcnNlY3Rpb25zKCkudG9BcnJheSgpLCByZXNvdXJjZS5nZXRSdW53YXlJbnRlcnNlY3Rpb25zKCkudG9BcnJheSgpKTsK</text>
+        <text encoding="base64">ICAgIGFzc2VydEVxdWFscyhlbnRpdHkuZ2V0U3RhcnRzQXQoKS50b0luc3RhbnQoKSwgcmVzb3VyY2UuZ2V0U3RhcnRzQXQoKS50b0luc3RhbnQoWm9uZU9mZnNldC5VVEMpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFzc2VydEFycmF5RXF1YWxzKGVudGl0eS5nZXRPcGVyYXRpb25Wb2x1bWUoKS50b0FycmF5KCksIHJlc291cmNlLmdldFZvbHVtZXMoKS50b0FycmF5KCkpOwo=</text>
+        <text encoding="base64">ICAgIGFzc2VydEFycmF5RXF1YWxzKGVudGl0eS5nZXRSdW53YXlJbnRlcnNlY3Rpb25zKCkudG9BcnJheSgpLCByZXNvdXJjZS5nZXRSdW53YXlJbnRlcnNlY3Rpb25zKCkudG9BcnJheSgpKTsK</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFzc2VydEVxdWFscyhlbnRpdHkuZ2V0T3BlcmF0aW9uRGVzY3JpcHRpb24oKSwgcmVzb3VyY2UuZ2V0RGVzY3JpcHRpb24oKSk7Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydEFycmF5RXF1YWxzKGVudGl0eS5nZXRPcGVyYXRpb25Wb2x1bWUoKS50b0FycmF5KCksIHJlc291cmNlLmdldFZvbHVtZXMoKS50b0FycmF5KCkpOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIGFzc2VydEVxdWFscyhlbnRpdHkuZ2V0T3BlcmF0aW9uRGVzY3JpcHRpb24oKSwgcmVzb3VyY2UuZ2V0RGVzY3JpcHRpb24oKSk7Cg==</text>
