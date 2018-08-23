@@ -852,7 +852,7 @@
         <mark key="^" line="17" column="45" />
         <mark key="." line="17" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534925441086">
+      <file name="/Dummy.txt" timestamp="1535016667801">
         <mark key="a" line="0" column="41" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
@@ -1149,7 +1149,6 @@
         <mark key="^" line="91" column="0" />
         <mark key="." line="91" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/UTM/utm-backend/api/src/main/java/com/thales/utm/operations/OperationSpecs.java" timestamp="1534925734424" />
       <file name="$USER_HOME$/dev/part-edge/client/src/services/order.js" timestamp="1528192877896">
         <mark key="[" line="50" column="9" />
         <mark key="]" line="51" column="15" />
@@ -1528,12 +1527,12 @@
         <mark key="." line="43" column="15" />
         <mark key="^" line="43" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/UTM/utm-backend/api/src/test/java/com/thales/utm/operations/countries/fra/OperationFRAMapperTest.java" timestamp="1534867733728">
+      <file name="$USER_HOME$/dev/UTM/utm-backend/api/src/test/java/com/thales/utm/operations/countries/fra/OperationFRAMapperTest.java" timestamp="1535016646039">
         <mark key="'" line="43" column="4" />
-        <mark key="[" line="78" column="114" />
-        <mark key="]" line="78" column="111" />
-        <mark key="." line="78" column="111" />
-        <mark key="^" line="78" column="111" />
+        <mark key="[" line="78" column="94" />
+        <mark key="]" line="78" column="122" />
+        <mark key="." line="78" column="122" />
+        <mark key="^" line="78" column="122" />
       </file>
       <file name="$USER_HOME$/dev/UTM/utm-backend/api/src/main/java/com/thales/utm/data/OperationsRepository.java" timestamp="1531921191032">
         <mark key="[" line="17" column="26" />
@@ -1602,12 +1601,12 @@
         <mark key="." line="21" column="3" />
         <mark key="^" line="21" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/UTM/utm-backend/api/src/main/java/com/thales/utm/operations/countries/fra/resources/DocumentsResource.java" timestamp="1534866387047">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="11" column="32" />
-        <mark key="]" line="12" column="1" />
-        <mark key="." line="12" column="1" />
-        <mark key="^" line="12" column="1" />
+      <file name="$USER_HOME$/dev/UTM/utm-backend/api/src/main/java/com/thales/utm/operations/countries/fra/resources/DocumentsResource.java" timestamp="1535016616395">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="25" column="39" />
+        <mark key="]" line="25" column="22" />
+        <mark key="^" line="25" column="22" />
+        <mark key="." line="25" column="22" />
       </file>
       <file name="$USER_HOME$/Dev/tdf/react-adapter/src/lib/button-group/index.js" timestamp="1534628482584">
         <mark key="[" line="0" column="0" />
@@ -2137,7 +2136,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>registerEntityMappings</text>
+        <text>isCerfa</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -3664,7 +3663,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>registerEntityMappings</text>
+        <text>isCerfa</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -3675,65 +3674,11 @@
       <register name="/" type="4">
         <text>open</text>
       </register>
-      <register name="0" type="4">
-        <text>// Given
-    final OperationFRA entity = new OperationFRA();
-    entity.setApprovalStatus(ApprovalStatus.DENIED);
-    entity.setBvlos(true);
-    entity.setCountry(Collections.singletonList(Countries.FRA));
-    entity.setCtrList(Collections.singletonList(new Airspace()));
-    entity.setDocuments(new OperationFRADocuments());
-    entity.setEndsAt(new Date());
-    entity.setFlyingOverPopulatedArea(true);
-    entity.setHistory(Collections.singletonList(new UTMEvent()));
-    entity.setId(&quot;ABCD&quot;);
-    entity.setIntersectedAirspaces(Collections.singletonList(new Airspace()));
-    entity.setLastEdit(new Date());
-    entity.setMaxHorizontalDistance(new Distance());
-    entity.setName(&quot;Fake name&quot;);
-    entity.setOperationDescription(&quot;Fake description&quot;);
-    entity.setOperationVolume(Collections.singletonList(new OperationVolume()));
-    final Pilot pilot = new Pilot();
-    pilot.setCompany(&quot;Fake company&quot;);
-    pilot.setPilotEmail(&quot;Fake email&quot;);
-    pilot.setPilotName(&quot;Fake name&quot;);
-    pilot.setPilotPhoneNumber(&quot;Fake number&quot;);
-    entity.setPilot(pilot);
-    entity.setReceivedDate(new Date());
-    entity.setRunwayIntersections(Collections.singletonList(new RunwayIntersectionResponse()));
-    entity.setScenario(OperationFRAScenarios.S3);
-    entity.setStartsAt(new Date());
-    entity.setUav(new Uav());
-    entity.setWarnings(Arrays.asList(Warnings.WAR_FRA_S3_THEO, Warnings.WAR_FRA_S3_BVLOS));
-    // When
-    final OperationFRAResource resource = ((OperationFRAResource) opMapper.map(entity));
-    // Then
-    assertEquals(entity.isBvlos(), resource.isBvlos());
-    assertEquals(entity.getApprovalStatus(), resource.getApprovalStatus());
-    assertArrayEquals(entity.getCtrList().toArray(), resource.getCtrs().toArray());
-    assertEquals(entity.getDocuments().isCompetenceCertif(), resource.getDocuments().isCompetenceCertif());
-    assertEquals(entity.getDocuments().isConceptionCertif(), resource.getDocuments().isConceptionCertif());
-    assertEquals(entity.getDocuments().isMapDocument(), resource.getDocuments().isMapDocument());
-    assertEquals(entity.getDocuments().isPilotLicence(), resource.getDocuments().isPilotLicence());
-    assertEquals(entity.getDocuments().isPrefectureDeclaration(), resource.getDocuments().isPrefectureDeclaration());
-    assertEquals(entity.getEndsAt().toInstant(), resource.getEndsAt().toInstant(ZoneOffset.UTC));
-    assertEquals(entity.getHistory(), resource.getHistory());
-    assertEquals(entity.getId(), resource.getId());
-    assertEquals(entity.getMaxHorizontalDistance(), resource.getMaxHorizontalDistance());
-    assertEquals(entity.getPilot().getCompany(), resource.getPilot().getCompany());
-    assertEquals(entity.getPilot().getPilotName(), resource.getPilot().getName());
-    assertEquals(entity.getPilot().getPilotPhoneNumber(), resource.getPilot().getPhone());
-    assertEquals(entity.getPilot().getPilotEmail(), resource.getPilot().getEmail());
-    assertEquals(entity.getOperationDescription(), resource.getDescription());
-    assertArrayEquals(entity.getOperationVolume().toArray(), resource.getVolumes().toArray());
-    assertArrayEquals(entity.getRunwayIntersections().toArray(), resource.getRunwayIntersections().toArray());
-    assertEquals(entity.getScenario(), resource.getScenario());
-    assertEquals(entity.getStartsAt().toInstant(), resource.getStartsAt().toInstant(ZoneOffset.UTC));
-    assertEquals(entity.getUav(), resource.getUavs().get(0));
-    assertArrayEquals(entity.getWarnings().toArray(), resource.getWarnings().toArray());</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGFzc2VydEVxdWFscyhlbnRpdHkuZ2V0RG9jdW1lbnRzKCkuaXNDZXJmYSgpLCByZXNvdXJjZS5nZXREb2N1bWVudHMoKS5pc0NlcmZhKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN1cGVyLnJlCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3747,31 +3692,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1hZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZGQK</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgQERlcHJlY2F0ZWQKICAvLyBOb3QgdXNlZCBhbnltb3JlCiAgcHJpdmF0ZSBib29sZWFuIG9wZXJhdGlvblByZXBhcmF0aW9uRmlsZTs=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFzc2VydEFycmF5RXF1YWxzKGVudGl0eS5nZXRXYXJuaW5ncygpLnRvQXJyYXkoKSwgcmVzb3VyY2UuZ2V0V2FybmluZ3MoKS50b0FycmF5KCkpOwo=</text>
+        <text encoding="base64">ICAgIGVudGl0eS5nZXREb2N1bWVudHMoKS5pc1ByZWZlY3R1cmVEZWNsYXJhdGlvbigpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFzc2VydEVxdWFscyhlbnRpdHkuZ2V0VWF2KCksIHJlc291cmNlLmdldFVhdnMoKS5nZXQoMCkpOwo=</text>
+        <text encoding="base64">ICAgIHN1cGVyLnJlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFzc2VydEVxdWFscyhlbnRpdHkuZ2V0U3RhcnRzQXQoKS50b0luc3RhbnQoKSwgcmVzb3VyY2UuZ2V0U3RhcnRzQXQoKS50b0luc3RhbnQoWm9uZU9mZnNldC5VVEMpKTsK</text>
+        <text encoding="base64">ICAgIG1hZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFzc2VydEFycmF5RXF1YWxzKGVudGl0eS5nZXRSdW53YXlJbnRlcnNlY3Rpb25zKCkudG9BcnJheSgpLCByZXNvdXJjZS5nZXRSdW53YXlJbnRlcnNlY3Rpb25zKCkudG9BcnJheSgpKTsK</text>
+        <text encoding="base64">ICAgIHRoaXMuZGQK</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFzc2VydEFycmF5RXF1YWxzKGVudGl0eS5nZXRPcGVyYXRpb25Wb2x1bWUoKS50b0FycmF5KCksIHJlc291cmNlLmdldFZvbHVtZXMoKS50b0FycmF5KCkpOwo=</text>
+        <text encoding="base64">ICAgIGFzc2VydEFycmF5RXF1YWxzKGVudGl0eS5nZXRXYXJuaW5ncygpLnRvQXJyYXkoKSwgcmVzb3VyY2UuZ2V0V2FybmluZ3MoKS50b0FycmF5KCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFzc2VydEVxdWFscyhlbnRpdHkuZ2V0T3BlcmF0aW9uRGVzY3JpcHRpb24oKSwgcmVzb3VyY2UuZ2V0RGVzY3JpcHRpb24oKSk7Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydEVxdWFscyhlbnRpdHkuZ2V0VWF2KCksIHJlc291cmNlLmdldFVhdnMoKS5nZXQoMCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
