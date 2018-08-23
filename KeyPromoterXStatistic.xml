@@ -30,7 +30,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>75</Count>
+          <Count>83</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Reference">
@@ -102,7 +102,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>14</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Indent Selection">
@@ -118,7 +118,7 @@
           <IdeaActionID>ShowNavBar</IdeaActionID>
           <ShortCut>'⌘↑' or '⌥↖'</ShortCut>
           <Description>Jump to Navigation Bar</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Source">
@@ -327,6 +327,12 @@
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
           <Count>71</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="TypeScript 2.7.2">
+        <Item>
+          <IdeaActionID>ActivateTypeScript2.7.2ToolWindow</IdeaActionID>
+          <Description>TypeScript 2.7.2</Description>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
