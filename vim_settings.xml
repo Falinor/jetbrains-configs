@@ -144,7 +144,6 @@
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/tdf/tdf-react-adapter/src/assets/buttons.css" timestamp="1534952321955" />
       <file name="$USER_HOME$/dev/UTM/utm-backend/api/src/main/java/com/thales/utm/config/MapperConfig.java" timestamp="1531922791468">
         <mark key="[" line="8" column="2" />
         <mark key="]" line="10" column="28" />
@@ -262,7 +261,6 @@
         <mark key="^" line="29" column="1" />
         <mark key="." line="29" column="19" />
       </file>
-      <file name="/operation-generator.ts" timestamp="1534932182599" />
       <file name="$USER_HOME$/dev/UTM/utm-backend/api/src/main/java/com/thales/utm/operations/OperationQuery.java" timestamp="1531913729446">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -392,6 +390,7 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="51" column="70" />
       </file>
+      <file name="$USER_HOME$/dev/UTM/utm-backend/model/src/main/java/com/thales/utm/model/operation/status/OperationValidationStatus.java" timestamp="1535041115607" />
       <file name="$USER_HOME$/dev/UTM/utm-backend/src/main/java/com/thales/utm/broker/ReceiverImpl.java" timestamp="1531314797366">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -703,6 +702,7 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/UTM/utm-backend/api/src/main/java/com/thales/utm/web/AuthorityServices.java" timestamp="1535041612098" />
       <file name="$USER_HOME$/dev/tdf/tdf-react-adapter/src/lib/styles/palette.js" timestamp="1533830228223">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -713,7 +713,6 @@
         <mark key="]" line="9" column="4" />
         <mark key="." line="9" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/tdf/tdf-react-adapter/src/assets/links.css" timestamp="1534952176432" />
       <file name="$USER_HOME$/dev/UTM/utm-frontend-operator/tslint.json" timestamp="1533739982618">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="2" column="0" />
@@ -786,6 +785,11 @@
         <mark key="]" line="38" column="15" />
         <mark key="^" line="39" column="27" />
         <mark key="." line="38" column="15" />
+      </file>
+      <file name="$USER_HOME$/dev/UTM/utm-backend/api/src/main/java/com/thales/utm/operations/resources/OperationResource.java" timestamp="1535041471766">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/importer/ftp/citadel.js" timestamp="1526027698450">
         <mark key="'" line="20" column="21" />
@@ -924,12 +928,12 @@
         <mark key="^" line="32" column="9" />
         <mark key="." line="32" column="9" />
       </file>
-      <file name="$USER_HOME$/dev/UTM/utm-backend/api/src/main/java/com/thales/utm/operations/OperationController.java" timestamp="1531931619865">
-        <mark key="'" line="58" column="38" />
-        <mark key="[" line="58" column="29" />
-        <mark key="]" line="58" column="36" />
-        <mark key="^" line="58" column="36" />
-        <mark key="." line="58" column="36" />
+      <file name="$USER_HOME$/dev/UTM/utm-backend/api/src/main/java/com/thales/utm/operations/OperationController.java" timestamp="1535041814959">
+        <mark key="'" line="60" column="38" />
+        <mark key="[" line="86" column="97" />
+        <mark key="]" line="86" column="96" />
+        <mark key="^" line="86" column="96" />
+        <mark key="." line="86" column="96" />
       </file>
       <file name="$USER_HOME$/dev/tdf/tdf-react-adapter/src/demo/components/Buttons.js" timestamp="1534952368904">
         <mark key="'" line="13" column="0" />
@@ -2084,7 +2088,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>*</text>
+        <text>status</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -3611,7 +3615,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>status</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -3626,7 +3630,7 @@
         <text encoding="base64">ICAgICAgICAgIGxhdDogcmFuZG9tLm51bWJlcih7IG1pbjogNDAsIG1heDogNTAgfSksCiAgICAgICAgICBsb246IHJhbmRvbS5udW1iZXIoeyBtaW46IDAsIG1heDogMTAgfSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIFRPRE8gOiBSZXBsYWNlIHdpdGggbmV3IHJlZnJlc2ggc3RyYXRlZ3kKICAgICAgICAgIC8vIHRoaXMuY3JlYXRlU3RyZWFtT2JzZXJ2YWJsZSgpOwo=</text>
+        <text encoding="base64">ICAgIHRoaXMudWF2cy5hZGQodWF2KTsKICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3640,31 +3644,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgcHVibGljIHZvaWQgYWRkVUFWKFVhdiB1YXYpIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5vcGVyYXRpb25NYXAuc2V0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIFRPRE8gOiBSZXBsYWNlIHdpdGggbmV3IHJlZnJlc2ggc3RyYXRlZ3kKICAgICAgICAgIC8vIHRoaXMuY3JlYXRlU3RyZWFtT2JzZXJ2YWJsZSgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy5vcGVyYXRpb25NYXAuc2V0KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IE1hcDxzdHJpbmcsIE9wZXJhdGlvbj4oW10pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IE1hcDxzdHJpbmcsIE9wZXJhdGlvbj4oKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5vcGVyYXRpb25NYXAuc2V0KCkK</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5vCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IE1hcDxzdHJpbmcsIE9wZXJhdGlvbj4oW10pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3BlcnRpb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IE1hcDxzdHJpbmcsIE9wZXJhdGlvbj4oKQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
