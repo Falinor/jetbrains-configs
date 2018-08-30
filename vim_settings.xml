@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.15.RELEASE/spring-boot-1.5.15.RELEASE.jar!/org/springframework/boot/context/properties/ConfigurationProperties.class" timestamp="1535364625360" />
       <file name="$USER_HOME$/dev/UTM/utm-backend/api/src/main/java/com/thales/utm/operations/utils/OperationMapper.java" timestamp="1531831318905">
         <mark key="[" line="6" column="33" />
         <mark key="]" line="6" column="32" />
@@ -444,11 +443,6 @@
         <mark key="." line="3" column="28" />
         <mark key="^" line="3" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/core/core.module.ts" timestamp="1535017336675">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/UTM/utm-backend/api/src/main/java/com/thales/utm/operations/RepositoryManager.java" timestamp="1531750556171">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -494,6 +488,12 @@
         <mark key="]" line="4" column="37" />
         <mark key="^" line="4" column="37" />
         <mark key="." line="4" column="37" />
+      </file>
+      <file name="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/shared/components/accordion/accordion.component.ts" timestamp="1535619556813">
+        <mark key="[" line="34" column="17" />
+        <mark key="]" line="40" column="32" />
+        <mark key="^" line="40" column="32" />
+        <mark key="." line="40" column="32" />
       </file>
       <file name="$USER_HOME$/dev/UTM/utm-backend/api/src/main/java/com/thales/utm/operations/resources/OperationUpdateValidityResource.java" timestamp="1535383344010">
         <mark key="[" line="12" column="19" />
@@ -579,7 +579,7 @@
         <mark key="^" line="17" column="17" />
         <mark key="." line="17" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535445470853">
+      <file name="/Dummy.txt" timestamp="1535619572375">
         <mark key="a" line="0" column="41" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
@@ -942,10 +942,8 @@
         <mark key="^" line="31" column="28" />
         <mark key="." line="31" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/feature/government/components/dashboard/dashboard.component.ts" timestamp="1535033395779">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/feature/government/components/dashboard/dashboard.component.ts" timestamp="1535619529790">
+        <mark key="[" line="36" column="18" />
       </file>
       <file name="$USER_HOME$/dev/UTM/utm-backend/api/src/test/java/com/thales/utm/web/authorities/AuthorityUSAServicesTest.java" timestamp="1535122859536">
         <mark key="[" line="35" column="47" />
@@ -969,12 +967,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/feature/government/components/dashboard/dashboard.component.html" timestamp="1535024893155">
-        <mark key="[" line="2" column="51" />
-        <mark key="]" line="2" column="50" />
-        <mark key="^" line="2" column="50" />
-        <mark key="." line="2" column="50" />
       </file>
       <file name="$USER_HOME$/dev/tdf/tdf-react-adapter/src/demo/components/Forms.js" timestamp="1534952047292">
         <mark key="[" line="2" column="18" />
@@ -1226,11 +1218,12 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="25" column="2" />
       </file>
-      <file name="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/core/services/operation.service.ts" timestamp="1535019450737">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="71" column="24" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/core/services/operation.service.ts" timestamp="1535619520623">
+        <mark key="'" line="59" column="18" />
+        <mark key="[" line="105" column="7" />
+        <mark key="]" line="104" column="28" />
+        <mark key="^" line="104" column="28" />
+        <mark key="." line="104" column="28" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/api/test/api/data.js" timestamp="1527670358735">
         <mark key="[" line="158" column="7" />
@@ -1336,7 +1329,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="42" filename="$USER_HOME$/dev/tdf/tdf-react-adapter/package.json" />
       <jump line="2" column="32" filename="$USER_HOME$/dev/tdf/tdf-react-adapter/scripts/preprocess.js" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/tdf/tdf-react-adapter/scripts/preprocess.js" />
       <jump line="1" column="10" filename="$USER_HOME$/dev/tdf/tdf-react-adapter/scripts/preprocess.js" />
@@ -1436,6 +1428,7 @@
       <jump line="117" column="3" filename="$USER_HOME$/dev/UTM/utm-backend/api/src/test/java/com/thales/utm/operations/OperationControllerIT.java" />
       <jump line="87" column="4" filename="$USER_HOME$/dev/UTM/utm-backend/api/src/test/java/com/thales/utm/operations/OperationControllerIT.java" />
       <jump line="56" column="13" filename="$USER_HOME$/dev/UTM/utm-backend/api/src/test/java/com/thales/utm/operations/OperationControllerIT.java" />
+      <jump line="59" column="18" filename="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/core/services/operation.service.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
