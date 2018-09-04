@@ -277,11 +277,11 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="18" column="42" />
       </file>
-      <file name="$USER_HOME$/dev/UTM/utm-backend/api/src/test/java/com/thales/utm/model/OperationSortTest.java" timestamp="1535992592848">
+      <file name="$USER_HOME$/dev/UTM/utm-backend/api/src/test/java/com/thales/utm/model/OperationSortTest.java" timestamp="1535993429836">
         <mark key="[" line="15" column="10" />
-        <mark key="]" line="15" column="10" />
-        <mark key="." line="15" column="10" />
-        <mark key="^" line="15" column="9" />
+        <mark key="]" line="7" column="22" />
+        <mark key="." line="7" column="22" />
+        <mark key="^" line="7" column="22" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/importer/Jenkinsfile" timestamp="1526027903597">
         <mark key="[" line="121" column="65" />
@@ -377,12 +377,12 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/UTM/utm-backend/api/src/main/java/com/thales/utm/model/OperationSort.java" timestamp="1535986364389">
+      <file name="$USER_HOME$/dev/UTM/utm-backend/api/src/main/java/com/thales/utm/model/OperationSort.java" timestamp="1535993418335">
         <mark key="'" line="21" column="29" />
-        <mark key="[" line="18" column="30" />
-        <mark key="]" line="18" column="51" />
-        <mark key="." line="18" column="51" />
-        <mark key="^" line="18" column="51" />
+        <mark key="[" line="25" column="35" />
+        <mark key="]" line="25" column="39" />
+        <mark key="." line="25" column="39" />
+        <mark key="^" line="25" column="39" />
       </file>
       <file name="$USER_HOME$/dev/factory-cup/api/README.md" timestamp="1526475621394">
         <mark key="[" line="15" column="51" />
@@ -1861,7 +1861,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Same</text>
+        <text>sort</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -3388,7 +3388,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>Same</text>
+        <text>sort</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -3414,7 +3414,7 @@
   }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAKICBwcml2YXRlIHN0YXRpYyBTZXQ8U3RyaW5nPiBhbGxvd2VkUHJvcHMgPSBuZXcgSGFzaFNldDw+KCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3428,31 +3428,33 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvciAoT3JkZXIgb3JkZXIgOiBzb3J0KSB7CiAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihvcmRlcik7Cg==</text>
+        <text encoding="base64">ICAKICBIYXNoTWFwIG1hcCA9IG5ldyBJZGVudGl0eUhhc2hNYXAoKS4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgYXNzZXJ0QXJyYXlFcXVhbHMobmV3IFN0cmluZ1tdIHsgImlkIiwgInN0YXJ0c0F0IiB9LCBzb3J0Lik7Cg==</text>
+        <text encoding="base64">ICAgIGZpbmFsIExpc3Q8U3RyaW5nPiBwcm9wcyA9IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihzb3J0KTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGFzc2VydE5vdE51bGwoYWN0dWFsKTsK</text>
+      <register name="5" type="4">
+        <text>for (String prop : sortProps) {
+      
+    }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNvcnQuCg==</text>
+        <text encoding="base64">ICAgIHNvcnRQcm9wcy5yZW0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNvcnQuZm9yRWFjaChzIC0+IHMuKTsK</text>
+        <text encoding="base64">ICAgIHJldHVybiBzb3J0UHJvcHM7Cg==</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBASWdub3JlCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZvciAoT3JkZXIgb3JkZXIgOiBzb3J0KSB7CiAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihvcmRlcik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
