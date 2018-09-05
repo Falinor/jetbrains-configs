@@ -614,8 +614,8 @@
         <mark key="^" line="17" column="17" />
         <mark key="." line="17" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536070843202">
-        <mark key="[" line="0" column="11" />
+      <file name="/Dummy.txt" timestamp="1536152926543">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
@@ -814,6 +814,12 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/UTM/utm-api-docs/openapi.yml" timestamp="1536152799014">
+        <mark key="[" line="247" column="21" />
+        <mark key="]" line="240" column="21" />
+        <mark key="." line="240" column="21" />
+        <mark key="^" line="240" column="21" />
       </file>
       <file name="$USER_HOME$/dev/factory-cup/api/src/challenges/fifa-wc-2018/index.js" timestamp="1527497399407">
         <mark key="[" line="1" column="7" />
@@ -1417,7 +1423,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="13" filename="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/shared/components/map/map.component.ts" />
       <jump line="130" column="9" filename="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/shared/components/map/map.component.ts" />
       <jump line="53" column="26" filename="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/feature/air-traffic-control/components/dashboard/dashboard.component.ts" />
       <jump line="155" column="0" filename="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/feature/air-traffic-control/components/dashboard/dashboard.component.ts" />
@@ -1517,6 +1522,7 @@
       <jump line="35" column="0" filename="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/feature/government/components/dashboard/dashboard.component.html" />
       <jump line="93" column="22" filename="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/shared/components/accordion/accordion.component.html" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/shared/models/operation/operation.ts" />
+      <jump line="704" column="2" filename="$USER_HOME$/dev/UTM/utm-api-docs/openapi.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1812,8 +1818,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>eplace old isValid function by the new one</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -3340,7 +3346,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>eplace old isValid function by the new one</text>
+        <text>INVALID</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -3355,7 +3361,7 @@
         <text encoding="base64">PHN1cHByZXNzPgoJCTxub3Rlcz48IVtDREFUQVsKICAgCQkJZmlsZSBuYW1lOiBtb2RlbC0wLjAuMS1TTkFQU0hPVC5qYXIKICAgCQkJXV0+CiAgIAkJPC9ub3Rlcz4KCQk8Z2F2IHJlZ2V4PSJ0cnVlIj5eY29tXC50aGFsZXNcLnV0bTptb2RlbDouKiQ8L2dhdj4KCQk8Y3ZlPkNWRS0yMDE4LTExOTY8L2N2ZT4KCTwvc3VwcHJlc3M+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3368,32 +3374,32 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICBpdCgnc2hvdWxkIGJlIHRydWUgaWYgdGhlcmUgaXMgbm8gZGlzcGF0Y2ggZmllbGQnLCAoKSA9PiB7CiAgICAgIGNvbnN0IG9wZXJhdGlvbiA9IGdlbmVyYXRlT25lKCk7CiAgICAgIGRlbGV0ZSBvcGVyYXRpb24uZGlzcGF0Y2g7CiAgICAgIGNvbnN0IHJlc3VsdCA9IGlzTm90RGlzcGF0Y2hlZChvcGVyYXRpb24pOwogICAgICBleHBlY3QocmVzdWx0KS50b0JlKHRydWUpOwogICAgfSk7</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgZXhhbXBsZToKICAgICAgICBpZDogMTIzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZXhhbXBsZToKICAgICAgICBpZDogMTIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgaXNVbmRlZmluZWQgfSBmcm9tICdsb2Rhc2gvaXNVbmRlZmluZWQnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBleGFtcGxlOiAK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CgogIGNoYW5nZUZpbHRlcihuZXdGaWx0ZXI6IEdvdmVybm1lbnRzKSB7CiAgICBzd2l0Y2ggKG5ld0ZpbHRlcikgewogICAgICBjYXNlIEdvdmVybm1lbnRzLlBOOgogICAgICAgIHRoaXMuYWNjb3JkaW9uVGl0bGUgPSAnRGVtYW5kZXMgdHJhbnNtaXNlcyDDoCBsYSBwb2xpY2UgbmF0aW9uYWxlJzsKICAgICAgICB0aGlzLmZpbHRlcnMgPSB7IGZpbHRlckJ5R046IGZhbHNlLCBmaWx0ZXJCeVBOOiB0cnVlIH07CiAgICAgICAgdGhpcy5tZXRyaWNzU2VydmljZS5zZW5kQUlGaWx0ZXJFdmVudCgncG9saWNlJyk7CiAgICAgICAgYnJlYWs7CiAgICAgIGNhc2UgR292ZXJubWVudHMuR046CiAgICAgICAgdGhpcy5hY2NvcmRpb25UaXRsZSA9ICdEZW1hbmRlcyB0cmFuc21pc2VzIMOgIGxhIGdlbmRhcm1lcmllIG5hdGlvbmFsZSc7CiAgICAgICAgdGhpcy5maWx0ZXJzID0geyBmaWx0ZXJCeUdOOiB0cnVlLCBmaWx0ZXJCeVBOOiBmYWxzZSB9OwogICAgICAgIHRoaXMubWV0cmljc1NlcnZpY2Uuc2VuZEFJRmlsdGVyRXZlbnQoJ2dlbmRhcm1lcmllJyk7CiAgICAgICAgYnJlYWs7CiAgICAgIGRlZmF1bHQ6CiAgICAgICAgdGhpcy5hY2NvcmRpb25UaXRsZSA9ICdOb3V2ZWxsZXMgZGVtYW5kZXMnOwogICAgICAgIHRoaXMuZmlsdGVycyA9IHsgZmlsdGVyQnlHTjogZmFsc2UsIGZpbHRlckJ5UE46IGZhbHNlIH07CiAgICAgICAgYnJlYWs7CiAgICB9CiAgfQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMKPj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnRlbnQ6CiAgICAgICAgICAgIGFwcGxpY2F0aW9uL2pzb246Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCj09PT09PT0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBzY2hlbWE6CiAgICAgICAgICAgICAgICAkcmVmOiAnIy9jb21wb25lbnRzL3NjaGVtYXMvJwo=</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICRyZWY6ICcjLwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCiAgICAKICAgICAgICAgIDxkaXYKICAgICAgICAgICAgKm5nSWY9InRvZ2dsZTE1OSAmJiBpdGVtLnZhbGlkYXRpb25TdGF0dXMgJiYgaXRlbS52YWxpZGF0aW9uU3RhdHVzLnN1Z2dlc3RlZCIKPT09PT09PQo8PDw8PDw8IFVwZGF0ZWQgdXBzdHJlYW0KICAgICAgICA8L2Rpdj4KICAgICAgPC9kaXY+CiAgICAgIDxkaXYgY2xhc3M9InJvdyI+CiAgICAgICAgPGRpdiBjbGFzcz0iY29sIiBzdHlsZT0icGFkZGluZzoxNXB4OyI+CiAgICAgICAgICA8cD48Yj5EYXRlcyBkZSB2b2w8L2I+PC9wPgogICAgICAgICAgPHA+IER1IHt7IGl0ZW0uc3RhcnRzQXQgfCBkYXRlIDogJ2RkL01NJyB9fQogICAgICAgICAgICBhdSB7eyBpdGVtLmVuZHNBdHwgZGF0ZSA6ICdkZC9NTScgfX0KICAgICAgICAgICAgZGUge3sgaXRlbS5zdGFydHNBdCB8IGRhdGU6ICdoaDptbScgfX0KICAgICAgICAgICAgw6AgIHt7IGl0ZW0uZW5kc0F0IHwgZGF0ZTogJ2hoOm1tJyB9fTwvcD4KICAgICAgICAgIDxwPjxiPkRlc2NyaXB0aW9uIGR1IHZvbDwvYj48L3A+CiAgICAgICAgICA8cD57eyBpdGVtLmRlc2NyaXB0aW9uIH19PC9wPgogICAgICAgICAgPHA+PGI+QWx0aXR1ZGUgZGUgdm9sPC9iPjwvcD4KICAgICAgICAgIDxwPnt7IGl0ZW0udm9sdW1lc1swXS5hbHRpdHVkZS52YWx1ZSB9fSB7eyBpdGVtLnZvbHVtZXNbMF0/LmFsdGl0dWRlLnVuaXQgfCBsb3dlcmNhc2UgfX08L3A+CiAgICAgICAgICA8cD48Yj5Ecm9uZTwvYj48L3A+CiAgICAgICAgICA8cD57eyBpdGVtLnVhdnNbMF0udHlwZSB9fSBkZSB7eyBpdGVtLnVhdnNbMF0ud2VpZ2h0LnZhbHVlIH19IHt7IGl0ZW0udWF2c1swXS53ZWlnaHQudW5pdCB9fTwvcD4KICAgICAgICA8L2Rpdj4=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgIGRlc2NyaXB0aW9uCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
