@@ -15,6 +15,9 @@
         <mark key="^" line="35" column="32" />
         <mark key="." line="35" column="32" />
       </file>
+      <file name="/a.dummy" timestamp="1536154157469">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/UTM/utm-backend/src/main/java/com/thales/utm/web/operations/resources/OperationFRAResource.java" timestamp="1531490615726">
         <mark key="[" line="4" column="62" />
         <mark key="]" line="4" column="60" />
@@ -513,6 +516,12 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/UTM/utm-backend/api/src/main/java/com/thales/utm/operations/resources/OperationCreationResource.java" timestamp="1536154899769">
+        <mark key="[" line="23" column="35" />
+        <mark key="]" line="23" column="34" />
+        <mark key="^" line="23" column="34" />
+        <mark key="." line="23" column="34" />
+      </file>
       <file name="$USER_HOME$/dev/factory-cup/api/test/app.test.js" timestamp="1526391415228">
         <mark key="[" line="4" column="35" />
         <mark key="]" line="4" column="37" />
@@ -556,10 +565,10 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/UTM/utm-backend/api/src/main/java/com/thales/utm/operations/resources/OperationResource.java" timestamp="1536151590942">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
+      <file name="$USER_HOME$/dev/UTM/utm-backend/api/src/main/java/com/thales/utm/operations/resources/OperationResource.java" timestamp="1536153984965">
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="39" column="0" />
       </file>
       <file name="$USER_HOME$/dev/UTM/utm-backend/api/src/test/java/com/thales/utm/IntegrationTest.java" timestamp="1535122702496">
         <mark key="[" line="2" column="29" />
@@ -776,6 +785,12 @@
         <mark key="^" line="0" column="38" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/UTM/utm-backend/api/src/main/java/com/thales/utm/operations/resources/WeightResource.java" timestamp="1536154809229">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="11" column="9" />
+        <mark key="^" line="11" column="9" />
+        <mark key="." line="11" column="9" />
+      </file>
       <file name="$USER_HOME$/dev/docker-redoc/.dockerignore" timestamp="1530712768896">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -899,6 +914,12 @@
         <mark key="]" line="337" column="39" />
         <mark key="." line="337" column="39" />
         <mark key="^" line="337" column="39" />
+      </file>
+      <file name="$USER_HOME$/dev/UTM/utm-backend/api/src/main/java/com/thales/utm/operations/resources/UavResource.java" timestamp="1536154802034">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="11" column="9" />
+        <mark key="^" line="11" column="9" />
+        <mark key="." line="11" column="9" />
       </file>
       <file name="$USER_HOME$/dev/UTM/utm-backend/engine/src/main/java/com/thales/utm/engine/RulesEngine.java" timestamp="1532005532765">
         <mark key="[" line="4" column="0" />
@@ -1215,6 +1236,12 @@
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/UTM/utm-backend/api/src/main/java/com/thales/utm/operations/resources/PilotResource.java" timestamp="1536154715643">
+        <mark key="[" line="23" column="2" />
+        <mark key="]" line="23" column="2" />
+        <mark key="^" line="23" column="2" />
+        <mark key="." line="23" column="2" />
       </file>
       <file name="$USER_HOME$/dev/factory-cup/client/src/screens/events/FifaWorldCup.js" timestamp="1528652447798">
         <mark key="[" line="107" column="0" />
@@ -1814,7 +1841,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>eplace old isValid function by the new one</text>
+        <text>pilotResource</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -3341,7 +3368,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>eplace old isValid function by the new one</text>
+        <text>pilotResource</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -3369,32 +3396,32 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICBpdCgnc2hvdWxkIGJlIHRydWUgaWYgdGhlcmUgaXMgbm8gZGlzcGF0Y2ggZmllbGQnLCAoKSA9PiB7CiAgICAgIGNvbnN0IG9wZXJhdGlvbiA9IGdlbmVyYXRlT25lKCk7CiAgICAgIGRlbGV0ZSBvcGVyYXRpb24uZGlzcGF0Y2g7CiAgICAgIGNvbnN0IHJlc3VsdCA9IGlzTm90RGlzcGF0Y2hlZChvcGVyYXRpb24pOwogICAgICBleHBlY3QocmVzdWx0KS50b0JlKHRydWUpOwogICAgfSk7</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBATm90TnVsbAogIHByb3RlY3RlZCBQaWxvdFJlc291cmNlIHBpbG90UmVzb3VyY2U7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnZhbGlkYXRpb24uY29uc3RyYWludHMuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgaXNVbmRlZmluZWQgfSBmcm9tICdsb2Rhc2gvaXNVbmRlZmluZWQnOwo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnZhbGlkYXRpb24uY29uc3RyYWludHMuU2l6ZTsK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CgogIGNoYW5nZUZpbHRlcihuZXdGaWx0ZXI6IEdvdmVybm1lbnRzKSB7CiAgICBzd2l0Y2ggKG5ld0ZpbHRlcikgewogICAgICBjYXNlIEdvdmVybm1lbnRzLlBOOgogICAgICAgIHRoaXMuYWNjb3JkaW9uVGl0bGUgPSAnRGVtYW5kZXMgdHJhbnNtaXNlcyDDoCBsYSBwb2xpY2UgbmF0aW9uYWxlJzsKICAgICAgICB0aGlzLmZpbHRlcnMgPSB7IGZpbHRlckJ5R046IGZhbHNlLCBmaWx0ZXJCeVBOOiB0cnVlIH07CiAgICAgICAgdGhpcy5tZXRyaWNzU2VydmljZS5zZW5kQUlGaWx0ZXJFdmVudCgncG9saWNlJyk7CiAgICAgICAgYnJlYWs7CiAgICAgIGNhc2UgR292ZXJubWVudHMuR046CiAgICAgICAgdGhpcy5hY2NvcmRpb25UaXRsZSA9ICdEZW1hbmRlcyB0cmFuc21pc2VzIMOgIGxhIGdlbmRhcm1lcmllIG5hdGlvbmFsZSc7CiAgICAgICAgdGhpcy5maWx0ZXJzID0geyBmaWx0ZXJCeUdOOiB0cnVlLCBmaWx0ZXJCeVBOOiBmYWxzZSB9OwogICAgICAgIHRoaXMubWV0cmljc1NlcnZpY2Uuc2VuZEFJRmlsdGVyRXZlbnQoJ2dlbmRhcm1lcmllJyk7CiAgICAgICAgYnJlYWs7CiAgICAgIGRlZmF1bHQ6CiAgICAgICAgdGhpcy5hY2NvcmRpb25UaXRsZSA9ICdOb3V2ZWxsZXMgZGVtYW5kZXMnOwogICAgICAgIHRoaXMuZmlsdGVycyA9IHsgZmlsdGVyQnlHTjogZmFsc2UsIGZpbHRlckJ5UE46IGZhbHNlIH07CiAgICAgICAgYnJlYWs7CiAgICB9CiAgfQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBAU2l6ZWRkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMKPj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">ICBAU2l6ZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCj09PT09PT0K</text>
+        <text encoding="base64">ICBARGVmYXVsdAo=</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBATm90TnVsbAogIHByb3RlY3RlZCBTdHJpbmcgbmFtZTsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCiAgICAKICAgICAgICAgIDxkaXYKICAgICAgICAgICAgKm5nSWY9InRvZ2dsZTE1OSAmJiBpdGVtLnZhbGlkYXRpb25TdGF0dXMgJiYgaXRlbS52YWxpZGF0aW9uU3RhdHVzLnN1Z2dlc3RlZCIKPT09PT09PQo8PDw8PDw8IFVwZGF0ZWQgdXBzdHJlYW0KICAgICAgICA8L2Rpdj4KICAgICAgPC9kaXY+CiAgICAgIDxkaXYgY2xhc3M9InJvdyI+CiAgICAgICAgPGRpdiBjbGFzcz0iY29sIiBzdHlsZT0icGFkZGluZzoxNXB4OyI+CiAgICAgICAgICA8cD48Yj5EYXRlcyBkZSB2b2w8L2I+PC9wPgogICAgICAgICAgPHA+IER1IHt7IGl0ZW0uc3RhcnRzQXQgfCBkYXRlIDogJ2RkL01NJyB9fQogICAgICAgICAgICBhdSB7eyBpdGVtLmVuZHNBdHwgZGF0ZSA6ICdkZC9NTScgfX0KICAgICAgICAgICAgZGUge3sgaXRlbS5zdGFydHNBdCB8IGRhdGU6ICdoaDptbScgfX0KICAgICAgICAgICAgw6AgIHt7IGl0ZW0uZW5kc0F0IHwgZGF0ZTogJ2hoOm1tJyB9fTwvcD4KICAgICAgICAgIDxwPjxiPkRlc2NyaXB0aW9uIGR1IHZvbDwvYj48L3A+CiAgICAgICAgICA8cD57eyBpdGVtLmRlc2NyaXB0aW9uIH19PC9wPgogICAgICAgICAgPHA+PGI+QWx0aXR1ZGUgZGUgdm9sPC9iPjwvcD4KICAgICAgICAgIDxwPnt7IGl0ZW0udm9sdW1lc1swXS5hbHRpdHVkZS52YWx1ZSB9fSB7eyBpdGVtLnZvbHVtZXNbMF0/LmFsdGl0dWRlLnVuaXQgfCBsb3dlcmNhc2UgfX08L3A+CiAgICAgICAgICA8cD48Yj5Ecm9uZTwvYj48L3A+CiAgICAgICAgICA8cD57eyBpdGVtLnVhdnNbMF0udHlwZSB9fSBkZSB7eyBpdGVtLnVhdnNbMF0ud2VpZ2h0LnZhbHVlIH19IHt7IGl0ZW0udWF2c1swXS53ZWlnaHQudW5pdCB9fTwvcD4KICAgICAgICA8L2Rpdj4=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBwcm90ZWN0ZWQgU3RyaW5nIG5hbWU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
