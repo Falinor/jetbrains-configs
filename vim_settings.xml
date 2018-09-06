@@ -435,6 +435,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/core/components/header/header.component.html" timestamp="1536234430090">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="18" column="11" />
+        <mark key="." line="38" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/part-edge/importer/ftp/index.js" timestamp="1526026579490">
         <mark key="[" line="17" column="6" />
         <mark key="]" line="17" column="5" />
@@ -1053,6 +1059,11 @@
         <mark key="^" line="24" column="17" />
         <mark key="." line="24" column="17" />
       </file>
+      <file name="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/core/guards/auth-guard.service.ts" timestamp="1536228791111">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/tdf/tdf-react-adapter/src/demo/components/Forms.js" timestamp="1534952047292">
         <mark key="[" line="2" column="18" />
         <mark key="]" line="3" column="18" />
@@ -1436,8 +1447,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="130" column="9" filename="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/shared/components/map/map.component.ts" />
-      <jump line="53" column="26" filename="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/feature/air-traffic-control/components/dashboard/dashboard.component.ts" />
       <jump line="155" column="0" filename="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/feature/air-traffic-control/components/dashboard/dashboard.component.ts" />
       <jump line="127" column="23" filename="/map.component.ts" />
       <jump line="35" column="2" filename="/map.component.ts" />
@@ -1536,6 +1545,8 @@
       <jump line="93" column="22" filename="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/shared/components/accordion/accordion.component.html" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/shared/models/operation/operation.ts" />
       <jump line="704" column="2" filename="$USER_HOME$/dev/UTM/utm-api-docs/openapi.yml" />
+      <jump line="8" column="6" filename="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/core/components/header/header.component.html" />
+      <jump line="38" column="0" filename="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/core/components/header/header.component.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1832,7 +1843,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFBhZ2VzLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -3359,7 +3370,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>INVALID</text>
+        <text>div</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -3374,7 +3385,7 @@
         <text encoding="base64">PHN1cHByZXNzPgoJCTxub3Rlcz48IVtDREFUQVsKICAgCQkJZmlsZSBuYW1lOiBtb2RlbC0wLjAuMS1TTkFQU0hPVC5qYXIKICAgCQkJXV0+CiAgIAkJPC9ub3Rlcz4KCQk8Z2F2IHJlZ2V4PSJ0cnVlIj5eY29tXC50aGFsZXNcLnV0bTptb2RlbDouKiQ8L2dhdj4KCQk8Y3ZlPkNWRS0yMDE4LTExOTY8L2N2ZT4KCTwvc3VwcHJlc3M+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFBhZ2VzLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3387,32 +3398,32 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">PG1hdC1zZWxlY3QKICAjbGFuZ1NlbGVjdAogIChzZWxlY3Rpb25DaGFuZ2UpPSJ0cmFuc2xhdGUudXNlKGxhbmdTZWxlY3QudmFsdWUpIgogIFt2YWx1ZV09InRyYW5zbGF0ZS5jdXJyZW50TGFuZyIKPgogIDxtYXQtb3B0aW9uICpuZ0Zvcj0ibGV0IGxhbmcgb2YgdHJhbnNsYXRlLmdldExhbmdzKCkiIFt2YWx1ZV09ImxhbmciPgogICAge3sgbGFuZyB9fQogIDwvbWF0LW9wdGlvbj4KPC9tYXQtc2VsZWN0Pg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZXhhbXBsZToKICAgICAgICBpZDogMTIzCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiB0cnVlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZXhhbXBsZToKICAgICAgICBpZDogMTIK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBleGFtcGxlOiAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIFBhZ2VzLgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnRlbnQ6CiAgICAgICAgICAgIGFwcGxpY2F0aW9uL2pzb246Cg==</text>
+        <text encoding="base64">ICAgICAgZXhhbXBsZToKICAgICAgICBpZDogMTIzCg==</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBzY2hlbWE6CiAgICAgICAgICAgICAgICAkcmVmOiAnIy9jb21wb25lbnRzL3NjaGVtYXMvJwo=</text>
+        <text encoding="base64">ICAgICAgZXhhbXBsZToKICAgICAgICBpZDogMTIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICRyZWY6ICcjLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBleGFtcGxlOiAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
