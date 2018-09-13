@@ -256,10 +256,10 @@
         <mark key="^" line="15" column="40" />
         <mark key="." line="15" column="40" />
       </file>
-      <file name="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/feature/air-traffic-control/components/dashboard/dashboard.component.ts" timestamp="1536834077564">
-        <mark key="[" line="151" column="0" />
-        <mark key="]" line="151" column="0" />
-        <mark key="." line="151" column="0" />
+      <file name="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/feature/air-traffic-control/components/dashboard/dashboard.component.ts" timestamp="1536840631359">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/app.component.ts" timestamp="1536767342669">
         <mark key="[" line="0" column="0" />
@@ -365,12 +365,12 @@
         <mark key="^" line="29" column="59" />
         <mark key="." line="29" column="59" />
       </file>
-      <file name="$USER_HOME$/dev/UTM/utm-frontend-authority/src/assets/i18n/fr.json" timestamp="1536833705417">
-        <mark key="'" line="29" column="4" />
-        <mark key="[" line="39" column="41" />
-        <mark key="]" line="39" column="41" />
-        <mark key="." line="39" column="41" />
-        <mark key="^" line="29" column="3" />
+      <file name="$USER_HOME$/dev/UTM/utm-frontend-authority/src/assets/i18n/fr.json" timestamp="1536841559439">
+        <mark key="'" line="15" column="3" />
+        <mark key="[" line="48" column="3" />
+        <mark key="]" line="28" column="5" />
+        <mark key="." line="28" column="5" />
+        <mark key="^" line="28" column="5" />
       </file>
       <file name="$USER_HOME$/dev/factory-cup/api/test/app.test.js" timestamp="1526391415228">
         <mark key="[" line="4" column="35" />
@@ -389,6 +389,13 @@
         <mark key="]" line="151" column="19" />
         <mark key="^" line="151" column="19" />
         <mark key="." line="151" column="19" />
+      </file>
+      <file name="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/feature/air-traffic-control/components/dashboard/dashboard.component.html" timestamp="1536841547556">
+        <mark key="'" line="36" column="47" />
+        <mark key="[" line="43" column="25" />
+        <mark key="]" line="43" column="37" />
+        <mark key="." line="43" column="37" />
+        <mark key="^" line="43" column="37" />
       </file>
       <file name="$USER_HOME$/dev/UTM/utm-backend/api/src/test/java/com/thales/utm/IntegrationTest.java" timestamp="1535122702496">
         <mark key="[" line="2" column="29" />
@@ -1152,8 +1159,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="8" filename="$USER_HOME$/dev/UTM/utm-backend/api/src/test/java/com/thales/utm/services/ToggleServiceTest.java" />
-      <jump line="38" column="0" filename="$USER_HOME$/dev/UTM/utm-backend/api/src/test/java/com/thales/utm/services/ToggleServiceTest.java" />
       <jump line="15" column="2" filename="$USER_HOME$/dev/UTM/utm-backend/api/src/test/java/com/thales/utm/services/ToggleServiceTest.java" />
       <jump line="6" column="0" filename="$USER_HOME$/dev/UTM/utm-backend/api/src/test/java/com/thales/utm/operations/OperationControllerIT.java" />
       <jump line="34" column="0" filename="$USER_HOME$/dev/UTM/utm-backend/api/src/test/java/com/thales/utm/services/CaptchaServiceImplTest.java" />
@@ -1252,6 +1257,8 @@
       <jump line="4" column="3" filename="$USER_HOME$/dev/UTM/utm-frontend-authority/src/assets/i18n/fr.json" />
       <jump line="14" column="15" filename="$USER_HOME$/dev/UTM/utm-frontend-authority/src/assets/i18n/fr.json" />
       <jump line="29" column="4" filename="$USER_HOME$/dev/UTM/utm-frontend-authority/src/assets/i18n/fr.json" />
+      <jump line="36" column="47" filename="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/feature/air-traffic-control/components/dashboard/dashboard.component.html" />
+      <jump line="15" column="3" filename="$USER_HOME$/dev/UTM/utm-frontend-authority/src/assets/i18n/fr.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1547,8 +1554,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJlZm9yCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">TWlzc2lvbnMg</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -3075,7 +3082,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">TWlzc2lvbnMg</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -3087,10 +3094,10 @@
         <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8cD48Yj57eyAnb3BlcmF0aW9uLmZsaWdodC5hbHRpdHVkZScgfX08L2I+PC9wPgo=</text>
+        <text encoding="base64">ICAgICAgPHNwYW4gW2hpZGRlbl09ImZpbHRlcnMubGVuZ3RoID09PSAwIj5GaWx0cmVzIGFwcGxpcXXDqXM6PC9zcGFuPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJlZm9yCg==</text>
+        <text encoding="base64">ICAgICAgICAgIEFjdGl2aXTDqXMgcHLDqXZ1ZXMgbGUge3sgdG9kYXkgfCBkYXRlOiAnZCBNTU0geScgfX0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3104,34 +3111,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgPHNwYW4gW2hpZGRlbl09ImZpbHRlcnMubGVuZ3RoID09PSAwIj5GaWx0cmVzIGFwcGxpcXXDqXM6PC9zcGFuPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJwbGFubmVkIjogIlByw6l2dSIsCg==</text>
+        <text encoding="base64">ICAgICAgPCEtLTxzcGFuPkFDVElWSVTDiVMgREUgVk9MIERFIERST05FPC9zcGFuPi0tPgogICAgICA8IS0tPHNwYW4gY2xhc3M9ImV4YW1wbGUtc3BhY2VyIj48L3NwYW4+LS0+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJvZiI6ICJkZSIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgIG1hdC1zdHJva2VkLWJ1dHRvbgo=</text>
       </register>
-      <register name="5" type="4">
-        <text>&quot;user&quot;: {
-    &quot;logout&quot;: &quot;Se déconnecter&quot;,
-    &quot;settings&quot;: &quot;Paramètres utilisateur&quot;
-  },</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIG1hdC1zdHJva2VkLWJ1dHRvbgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJzZXR0aW5ncyI6ICJQYXJhbcOodHJlcyB1dGlsaXNhdGV1ciIsCg==</text>
+        <text encoding="base64">ICAgIG1vbWVudCgpLnV0YygpLnRvOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgInN1Z2dlc3RlZCI6ICJUcmFuc2ZlcnQgc3VnZ8OpcsOpIiwK</text>
+        <text encoding="base64">ICAgIGJlZm9yCg==</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgImFjdHVhbCI6ICJUcmFuc2bDqXLDqSDDoCIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgInBuIjogIlBvbGljZSBuYXRpb25hbGUiLAo=</text>
+        <text encoding="base64">ICAgICJwbGFubmVkIjogIlByw6l2dSIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
