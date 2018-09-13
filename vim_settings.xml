@@ -1180,11 +1180,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/src/domain/player.js" timestamp="1536529652600">
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/domain/player.js" timestamp="1536697244505">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="4" column="14" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+        <mark key="[" line="3" column="25" />
+        <mark key="]" line="5" column="2" />
+        <mark key="." line="5" column="2" />
+        <mark key="^" line="5" column="2" />
       </file>
       <file name="$USER_HOME$/dev/UTM/utm-backend/api/src/test/java/com/thales/utm/model/OperationTest.java" timestamp="1535123014935">
         <mark key="[" line="20" column="48" />
@@ -1395,6 +1396,11 @@
         <mark key="^" line="12" column="68" />
         <mark key="." line="12" column="68" />
       </file>
+      <file name="$USER_HOME$/Dev/baby-foot/api/.babelrc" timestamp="1536674931304">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Dev/baby-foot/api/src/app/player/get-player.js" timestamp="1536530218685">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -1464,6 +1470,13 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="1" column="7" />
       </file>
+      <file name="$USER_HOME$/Dev/baby-foot/api/test/unit/domain/player.test.js" timestamp="1536675069333">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="6" column="12" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/UTM/utm-backend/src/main/java/com/thales/utm/web/operations/OperationRepository.java" timestamp="1531726673802">
         <mark key="[" line="12" column="44" />
         <mark key="]" line="12" column="44" />
@@ -1482,7 +1495,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="155" column="0" filename="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/feature/air-traffic-control/components/dashboard/dashboard.component.ts" />
       <jump line="127" column="23" filename="/map.component.ts" />
       <jump line="35" column="2" filename="/map.component.ts" />
       <jump line="68" column="9" filename="/map.component.ts" />
@@ -1582,6 +1594,7 @@
       <jump line="704" column="2" filename="$USER_HOME$/dev/UTM/utm-api-docs/openapi.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/domain/player.js" />
       <jump line="1" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/domain/player.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/Dev/baby-foot/api/test/unit/domain/player.test.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1878,7 +1891,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBvdXRwdXRzOiAK</text>
+        <text encoding="base64">Ci8vIGltcG9ydCB0eXBlIHsgUGxheWVyIH0gZnJvbSAnLi4vLi4vLi4vc3JjL2RvbWFpbi9wbGF5ZXInOwo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -3405,7 +3418,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>opaque</text>
+        <text encoding="base64">UGxheWVyIA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -3420,7 +3433,7 @@
         <text encoding="base64">PHN1cHByZXNzPgoJCTxub3Rlcz48IVtDREFUQVsKICAgCQkJZmlsZSBuYW1lOiBtb2RlbC0wLjAuMS1TTkFQU0hPVC5qYXIKICAgCQkJXV0+CiAgIAkJPC9ub3Rlcz4KCQk8Z2F2IHJlZ2V4PSJ0cnVlIj5eY29tXC50aGFsZXNcLnV0bTptb2RlbDouKiQ8L2dhdj4KCQk8Y3ZlPkNWRS0yMDE4LTExOTY8L2N2ZT4KCTwvc3VwcHJlc3M+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBvdXRwdXRzOiAK</text>
+        <text encoding="base64">Ci8vIGltcG9ydCB0eXBlIHsgUGxheWVyIH0gZnJvbSAnLi4vLi4vLi4vc3JjL2RvbWFpbi9wbGF5ZXInOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3434,31 +3447,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHR5cGUgeyBQbGF5ZXIgfSBmcm9tICcuL3BsYXllcic7Cg==</text>
+        <text encoding="base64">Ly8gQGZsb3cK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAicGx1Z2lucyI6IFsiQGJhYmVsL3BsdWdpbi10cmFuc2Zvcm0tZmxvdy1zdHJpcC10eXBlcyJdLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHR5cGUgeyBQbGF5ZXIgfSBmcm9tICcuL3BsYXllcic7Cgo=</text>
+        <text encoding="base64">ICAgIHBsYXllcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHR5cGUgeyBQbGF5ZXIgfSBmcm9tICcuL3BsYXllcic7Cg==</text>
+        <text encoding="base64">ICAgIGkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHR5cGUgeyBUcmlncmFtIH0gZnJvbSAnLi90cmlncmFtJzsK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">aW50ZXJmYWNlIElucHV0VGVhbSB7CiAgaWQ6IHN0cmluZzsKICBwbGF5ZXJzOiBQbGF5ZXJbXTsKICBwb2ludHM6IG51bWJlcjsKfQo=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBvdXRwdXRzOiAK</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHR5cGUgeyBQbGF5ZXIgfSBmcm9tICcuL3BsYXllcic7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ci8vIEBmbG93Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
