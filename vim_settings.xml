@@ -3,10 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/shared/components/accordion/accordion.component.spec.ts" timestamp="1536590304234">
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/UTM/utm-backend/api/src/main/java/com/thales/utm/operations/utils/OperationMapper.java" timestamp="1531831318905">
         <mark key="[" line="6" column="33" />
         <mark key="]" line="6" column="32" />
@@ -529,11 +525,11 @@
         <mark key="^" line="4" column="37" />
         <mark key="." line="4" column="37" />
       </file>
-      <file name="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/shared/components/accordion/accordion.component.ts" timestamp="1536770987598">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="34" column="13" />
+      <file name="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/shared/components/accordion/accordion.component.ts" timestamp="1536824527751">
+        <mark key="[" line="13" column="75" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="14" column="0" />
       </file>
       <file name="$USER_HOME$/dev/UTM/utm-backend/api/src/main/java/com/thales/utm/operations/resources/OperationUpdateValidityResource.java" timestamp="1535383344010">
         <mark key="[" line="12" column="19" />
@@ -904,6 +900,12 @@
         <mark key="." line="56" column="0" />
         <mark key="^" line="56" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/shared/models/operation/index.ts" timestamp="1536824591252">
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="7" column="26" />
+        <mark key="^" line="7" column="26" />
+        <mark key="." line="7" column="26" />
+      </file>
       <file name="$USER_HOME$/dev/UTM/utm-backend/src/main/java/com/thales/utm/web/operations/OperationMapper.java" timestamp="1531732270440">
         <mark key="[" line="12" column="9" />
         <mark key="]" line="12" column="7" />
@@ -1153,6 +1155,12 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
         <mark key="^" line="35" column="5" />
+      </file>
+      <file name="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/shared/models/operation/slotDate.ts" timestamp="1536824615247">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="45" />
+        <mark key="^" line="0" column="45" />
+        <mark key="." line="0" column="45" />
       </file>
       <file name="$USER_HOME$/dev/UTM/utm-backend/api/src/main/java/com/thales/utm/config/AppConfig.java" timestamp="1535385471556">
         <mark key="[" line="8" column="0" />
@@ -1423,10 +1431,10 @@
         <mark key="." line="51" column="51" />
         <mark key="^" line="51" column="51" />
       </file>
-      <file name="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/core/services/i18n.service.ts" timestamp="1536770730421">
-        <mark key="[" line="55" column="4" />
-        <mark key="]" line="55" column="65" />
-        <mark key="." line="55" column="65" />
+      <file name="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/core/services/i18n.service.ts" timestamp="1536824425723">
+        <mark key="[" line="55" column="45" />
+        <mark key="]" line="55" column="45" />
+        <mark key="." line="55" column="45" />
         <mark key="^" line="55" column="65" />
       </file>
       <file name="$USER_HOME$/dev/UTM/utm-backend/api/src/main/java/com/thales/utm/operations/OperationUtils.java" timestamp="1531924743212">
@@ -1844,8 +1852,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -3372,7 +3380,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>dates</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -3387,7 +3395,7 @@
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1vbWVudC5sb2NhbGUoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gQHRzLWlnbm9yZQppbXBvcnQgbW9tZW50IGZyb20gJ21vbWVudC10aW1lem9uZSc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3401,31 +3409,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBtb21lbnQgPSBtb21lbnQ7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsKfSBmcm9tICdAYXBwL21vZHVsZXMvc2hhcmVkL21vZGVscy9vcGVyYXRpb24vb3BlcmF0aW9uJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIFNldCAK</text>
+        <text encoding="base64">ICBHb3Zlcm5tZW50cywKICBpc1ZhbGlkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLwo=</text>
+        <text encoding="base64">ICAgIG1vbWVudC5sb2NhbGUodmFsdWUpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlIHt7IG1vbWVudChpdGVtLnN0YXJ0c0F0KS5hZGQoMiwgJ2hvdXJzJykuZm9ybWF0KCdISDptbScpIH19Cg==</text>
+        <text encoding="base64">Ly8gQHRzLWlnbm9yZQppbXBvcnQgbW9tZW50IGZyb20gJ21vbWVudC10aW1lem9uZSc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8aDM+VGVzdHM8L2gzPgo=</text>
+        <text encoding="base64">ICBtb21lbnQgPSBtb21lbnQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8cD57eyBpdGVtLnN0YXJ0c0F0IH19PC9wPgogICAgICAgICAgICAgIDxwPmRlIHt7IGkxOG5TZXJ2aWNlLnRvTG9jYWxEYXRlKGl0ZW0uc3RhcnRzQXQpLmZvcm1hdCgnSEg6bW0gWiB6JykgfX08L3A+Cg==</text>
+        <text encoding="base64">ICAgIC8vIFNldCAK</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8cD5kZSB7eyBpMThuU2VydmljZS50b0xvY2FsRGF0ZShpdGVtLnN0YXJ0c0F0KS5mb3JtYXQoJ0hIOm1tIFogeicpIH19PC9wPgo=</text>
+        <text encoding="base64">ICAvLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH19Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlIHt7IG1vbWVudChpdGVtLnN0YXJ0c0F0KS5hZGQoMiwgJ2hvdXJzJykuZm9ybWF0KCdISDptbScpIH19Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
