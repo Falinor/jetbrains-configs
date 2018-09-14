@@ -439,12 +439,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/core/components/header/header.component.html" timestamp="1536829737551">
+      <file name="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/core/components/header/header.component.html" timestamp="1536919439899">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="8" column="15" />
-        <mark key="]" line="8" column="15" />
-        <mark key="." line="8" column="15" />
-        <mark key="^" line="8" column="14" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/importer/ftp/index.js" timestamp="1526026579490">
         <mark key="[" line="17" column="6" />
@@ -641,7 +640,7 @@
         <mark key="^" line="17" column="17" />
         <mark key="." line="17" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536912912434">
+      <file name="/Dummy.txt" timestamp="1536920061244">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -715,12 +714,7 @@
         <mark key="." line="4" column="73" />
         <mark key="^" line="4" column="73" />
       </file>
-      <file name="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/core/services/authentication.service.ts" timestamp="1536916331278">
-        <mark key="[" line="4" column="36" />
-        <mark key="]" line="4" column="40" />
-        <mark key="." line="4" column="40" />
-        <mark key="^" line="4" column="40" />
-      </file>
+      <file name="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/core/services/authentication.service.ts" timestamp="1536926449215" />
       <file name="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/shared/components/dialog/dialog-data.ts" timestamp="1535038216259">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="17" />
@@ -947,11 +941,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/core/components/header/header.component.ts" timestamp="1536825803775">
-        <mark key="[" line="29" column="25" />
-        <mark key="]" line="29" column="26" />
-        <mark key="^" line="29" column="26" />
-        <mark key="." line="29" column="26" />
+      <file name="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/core/components/header/header.component.ts" timestamp="1536919498134">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/shared/models/operation/pilot.ts" timestamp="1535035915234">
         <mark key="[" line="4" column="9" />
@@ -1908,8 +1901,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHN0b3JhZ2VSb2xlIAo=</text>
+      <register name="&quot;" type="4">
+        <text>this._user != null</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -3436,7 +3429,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>this._user != null</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -3451,7 +3444,7 @@
         <text encoding="base64">ICAgICAgPHNwYW4gW2hpZGRlbl09ImZpbHRlcnMubGVuZ3RoID09PSAwIj5GaWx0cmVzIGFwcGxpcXXDqXM6PC9zcGFuPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0b3JhZ2VSb2xlIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3465,31 +3458,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb2xvcm1lOiBhbnkgPSB7fTsK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBnZXQgdXNlcigpOiBVc2VyIHsKICAgIHJldHVybiB0aGlzLl91c2VyOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIC8vIHNldEludGVydmFsKCgpID0+IHsKICAgIC8vICAgY29uc29sZS5sb2coJ2ZldGNoaW5nIG1pc3Npb25zJyk7CiAgICAvLyAgIGlmICh0eXBlb2YgdGhpcy5zbG90RGF0ZSA9PT0gJ29iamVjdCcpIHsKICAgIC8vICAgICBjb25zb2xlLmxvZygndGhpcy5zbG90RGF0ZScsIHRoaXMuc2xvdERhdGUpOwogICAgLy8gICAgIGNvbnN0IHNpbmNlID0gbmV3IERhdGUoCiAgICAvLyAgICAgICB0aGlzLnNsb3REYXRlLmZyb21EYXRlLnllYXIsCiAgICAvLyAgICAgICB0aGlzLnNsb3REYXRlLmZyb21EYXRlLm1vbnRoIC0gMSwKICAgIC8vICAgICAgIHRoaXMuc2xvdERhdGUuZnJvbURhdGUuZGF5CiAgICAvLyAgICAgKTsKICAgIC8vICAgICBjb25zdCBiZWZvcmUgPSBuZXcgRGF0ZSgKICAgIC8vICAgICAgIHRoaXMuc2xvdERhdGUudG9EYXRlLnllYXIsCiAgICAvLyAgICAgICB0aGlzLnNsb3REYXRlLnRvRGF0ZS5tb250aCAtIDEsCiAgICAvLyAgICAgICB0aGlzLnNsb3REYXRlLnRvRGF0ZS5kYXkpOwogICAgLy8gICAgIHRoaXMuZmV0Y2hNaXNzaW9ucyh0aGlzLnNsb3REYXRlLmZyb21EYXRlLCB0aGlzLnNsb3REYXRlLnRvRGF0ZSk7CiAgICAvLyAgIH0KICAgIC8vICAgdGhpcy5mZXRjaE1pc3Npb25zKHRoaXMudG9kYXksIHRoaXMudG9tb3Jyb3cpOwogICAgLy8gfSwgMTAwMCk7</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLl91c2VyID0gdXNlcjsKICAgICAgICB0aGlzLnVzZXJTdWJqZWN0JC5uZXh0KHRoaXMuaXNMb2dnZWRJbigpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyogRnVuY3Rpb25zICAqLwppbXBvcnQgeyBzb3J0QnlTdGFydHNBdCB9IGZyb20gJ0BhcHAvbW9kdWxlcy9zaGFyZWQvZnVuY3Rpb25zL3NvcnQtYnktc3RhcnRzLWF0JzsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLl91c2VyID0gdXNlcjsKICAgICAgICB0aGlzLnVzZXJTdWJqZWN0JC5uZXh0KHRoaXMuaXNMb2dnZWRJbigpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgc29ydEJ5U3RhcnRzQXQgfSBmcm9tICdAYXBwL21vZHVsZXMvc2hhcmVkL2Z1bmN0aW9ucy9zb3J0LWJ5LXN0YXJ0cy1hdCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBmZWF0KGkxOG4pOiBhZGQgbWlzc2luZyB0cmFuc2xhdGlvbnMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc25hY2tCYXI6IE1hdFNuYWNrQmFyCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBPYnNlcnZhYmxlLmZyb21Qcm9taXNlKHRoaXMubWFuYWdlci5nZXRVc2VyKCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdHJhbnNsYXRlU2VydmljZTogVHJhbnNsYXRlU2VydmljZQo9PT09PT09Cg==</text>
+        <text encoding="base64">ICAvLyBpc0Rpc3BsYXllZDogT2JzZXJ2YWJsZTxVc2VyPjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
