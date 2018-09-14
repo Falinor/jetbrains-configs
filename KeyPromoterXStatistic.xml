@@ -54,7 +54,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>1</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'PartEdge client'">
@@ -222,7 +222,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'GovernmentDashboardComponent'</Description>
-          <Count>1</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Operation.#isInvalid'">
@@ -273,6 +273,14 @@
           <Count>13</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Resume Program">
+        <Item>
+          <IdeaActionID>Resume</IdeaActionID>
+          <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
+          <Description>Resume Program</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Revert...">
         <Item>
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
@@ -286,7 +294,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>16</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'index.html (1)'">
@@ -311,14 +319,6 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'index.html'</Description>
           <Count>5</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Step Over">
-        <Item>
-          <IdeaActionID>StepOver</IdeaActionID>
-          <ShortCut>'F8'</ShortCut>
-          <Description>Step Over</Description>
-          <Count>42</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'I18nService'">
@@ -358,7 +358,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>51</Count>
+          <Count>58</Count>
         </Item>
       </Statistic>
       <Statistic Action="Variable...">
@@ -413,6 +413,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Operation.#isDispatchedToGendarmerie'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Step Over">
+        <Item>
+          <IdeaActionID>StepOver</IdeaActionID>
+          <ShortCut>'F8'</ShortCut>
+          <Description>Step Over</Description>
+          <Count>100</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
