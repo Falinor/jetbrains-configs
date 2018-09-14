@@ -217,14 +217,6 @@
           <Count>5</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Rerun 'GovernmentDashboardComponent'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌘R'</ShortCut>
-          <Description>Rerun 'GovernmentDashboardComponent'</Description>
-          <Count>5</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Rerun 'Operation.#isInvalid'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -278,7 +270,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>6</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -321,6 +313,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Step Into">
+        <Item>
+          <IdeaActionID>StepInto</IdeaActionID>
+          <ShortCut>'F7'</ShortCut>
+          <Description>Step Into</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'I18nService'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -358,7 +358,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>60</Count>
+          <Count>63</Count>
         </Item>
       </Statistic>
       <Statistic Action="Variable...">
@@ -397,6 +397,14 @@
         <Item>
           <IdeaActionID>ActivateEventLogToolWindow</IdeaActionID>
           <Description>Event Log</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'GovernmentDashboardComponent'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'GovernmentDashboardComponent'</Description>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'I18nService'">
