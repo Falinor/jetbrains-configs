@@ -448,6 +448,13 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/thales-df/event-wall/web/src/styles.scss" timestamp="1537185922115">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="11" column="23" />
+        <mark key="]" line="12" column="23" />
+        <mark key="." line="12" column="23" />
+        <mark key="^" line="12" column="23" />
+      </file>
       <file name="$USER_HOME$/dev/part-edge/importer/ftp/index.js" timestamp="1526026579490">
         <mark key="[" line="17" column="6" />
         <mark key="]" line="17" column="5" />
@@ -591,10 +598,10 @@
         <mark key="^" line="12" column="11" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/thales-df/event-wall/web/src/assets/_variables.scss" timestamp="1537182291642">
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/dev/thales-df/event-wall/web/src/assets/_variables.scss" timestamp="1537185836767">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/dev/UTM/utm-backend/model/src/main/java/com/thales/utm/model/operation/OperationFRAScenarios.java" timestamp="1532008600359">
         <mark key="[" line="9" column="0" />
@@ -1044,6 +1051,13 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/thales-df/event-wall/web/src/assets/_reset.scss" timestamp="1537185795426">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/dev/factory-cup/api/src/events/fifa-wc-2018/matches/repository.js" timestamp="1527674547354">
         <mark key="[" line="31" column="30" />
@@ -1501,10 +1515,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="13" filename="$USER_HOME$/dev/UTM/utm-backend/api/src/test/java/com/thales/utm/operations/OperationControllerIT.java" />
-      <jump line="37" column="13" filename="$USER_HOME$/dev/UTM/utm-backend/api/src/test/java/com/thales/utm/operations/OperationRepositoryIT.java" />
-      <jump line="3" column="0" filename="$USER_HOME$/dev/UTM/utm-backend/api/src/test/java/com/thales/utm/operations/OperationRepositoryIT.java" />
-      <jump line="50" column="2" filename="$USER_HOME$/dev/UTM/utm-backend/api/src/test/java/com/thales/utm/web/authorities/AuthorityUSAServicesIT.java" />
       <jump line="90" column="6" filename="$USER_HOME$/dev/UTM/utm-backend/api/src/test/java/com/thales/utm/web/authorities/AuthorityUSAServicesIT.java" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/UTM/utm-backend/api/src/test/java/com/thales/utm/web/authorities/AuthorityFRAServicesIT.java" />
       <jump line="20" column="4" filename="$USER_HOME$/dev/UTM/utm-backend/api/src/test/java/com/thales/utm/operations/mapper/LocalDateTimeConverterTest.java" />
@@ -1601,6 +1611,10 @@
       <jump line="58" column="18" filename="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/feature/government/components/dashboard/dashboard.component.ts" />
       <jump line="98" column="11" filename="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/feature/government/components/dashboard/dashboard.component.ts" />
       <jump line="88" column="0" filename="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/feature/government/components/dashboard/dashboard.component.ts" />
+      <jump line="42" column="0" filename="$USER_HOME$/dev/thales-df/event-wall/web/src/assets/_reset.scss" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/thales-df/event-wall/web/src/assets/_reset.scss" />
+      <jump line="39" column="0" filename="$USER_HOME$/dev/thales-df/event-wall/web/src/assets/_reset.scss" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/thales-df/event-wall/web/src/styles.scss" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1897,7 +1911,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -3424,7 +3438,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>400</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -3439,7 +3453,7 @@
         <text encoding="base64">ICAgIGZpeHR1cmUuZGV0ZWN0Q2hhbmdlcygpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3453,31 +3467,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICBmb250LXdlaWdodDogbm9ybWFsOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIC8vIHNldEludGVydmFsKCgpID0+IHsKICAgIC8vICAgY29uc29sZS5sb2coJ2ZldGNoaW5nIG1pc3Npb25zJyk7CiAgICAvLyAgIGlmICh0eXBlb2YgdGhpcy5zbG90RGF0ZSA9PT0gJ29iamVjdCcpIHsKICAgIC8vICAgICBjb25zb2xlLmxvZygndGhpcy5zbG90RGF0ZScsIHRoaXMuc2xvdERhdGUpOwogICAgLy8gICAgIGNvbnN0IHNpbmNlID0gbmV3IERhdGUoCiAgICAvLyAgICAgICB0aGlzLnNsb3REYXRlLmZyb21EYXRlLnllYXIsCiAgICAvLyAgICAgICB0aGlzLnNsb3REYXRlLmZyb21EYXRlLm1vbnRoIC0gMSwKICAgIC8vICAgICAgIHRoaXMuc2xvdERhdGUuZnJvbURhdGUuZGF5CiAgICAvLyAgICAgKTsKICAgIC8vICAgICBjb25zdCBiZWZvcmUgPSBuZXcgRGF0ZSgKICAgIC8vICAgICAgIHRoaXMuc2xvdERhdGUudG9EYXRlLnllYXIsCiAgICAvLyAgICAgICB0aGlzLnNsb3REYXRlLnRvRGF0ZS5tb250aCAtIDEsCiAgICAvLyAgICAgICB0aGlzLnNsb3REYXRlLnRvRGF0ZS5kYXkpOwogICAgLy8gICAgIHRoaXMuZmV0Y2hNaXNzaW9ucyh0aGlzLnNsb3REYXRlLmZyb21EYXRlLCB0aGlzLnNsb3REYXRlLnRvRGF0ZSk7CiAgICAvLyAgIH0KICAgIC8vICAgdGhpcy5mZXRjaE1pc3Npb25zKHRoaXMudG9kYXksIHRoaXMudG9tb3Jyb3cpOwogICAgLy8gfSwgMTAwMCk7Cj09PT09PT0KPj4+Pj4+PiBmZWF0KGdvdik6IGZldGNoIG9wZXJhdGlvbnMgZXZlcnkgNjBz</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBmb250LXNpemU6IDQwMDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHN0YXJ0QWZ0ZXIgPSAwOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">CmJvZHkK</text>
+      </register>
       <register name="6" type="4">
-        <text encoding="base64">ICAgIHJldHVybiB0aGlzLm9wZXJhdGlvblNlcnZpY2UKICAgICAgLmZpbmRPcGVyYXRpb25zKHsKICAgICAgICBzaW5jZTogbmV3IERhdGUoKSwKICAgICAgICBzY2VuYXJpbzogb3BlcmF0aW9uRlJTY2VuYXJpb3MuUzMKICAgICAgfSkKICAgICAgLmRvKG9wZXJhdGlvbnMgPT4gewogICAgICAgIGNvbnNvbGUubG9nKCdGZXRjaCBvcGVyYXRpb25zJywgb3BlcmF0aW9ucyk7CiAgICAgIH0pCiAgICAgIC50YWtlVW50aWwodGhpcy5kZXN0cm95Q29tcG9uZW50JCkKICAgICAgLnN1YnNjcmliZShvcGVyYXRpb25zID0+IHsKICAgICAgICB0aGlzLm9wZXJhdGlvbnMgPSBvcGVyYXRpb25zOwogICAgICB9KTs=</text>
+        <text encoding="base64">Ci8qIFR5cG9ncmFwaHkgKi8KaDEsCmgyLApoMyB7CiAgCn0=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY29tcG9uZW50Lm9wZXJhdGlvbnMpOwo=</text>
+        <text encoding="base64">QEltcG9ydCAiIgo=</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIGV4cGVjdChjb21wb25lbnQpLnRvQmVUcnV0aHkoKTsKICAgIGV4cGVjdChjb21wb25lbnQub3BlcmF0aW9ucykudG9CZVRydXRoeSgpOwogICAgZXhwZWN0KGNvbXBvbmVudC5vcGVyYXRpb25zLmxlbmd0aCkudG9FcXVhbCgxMCk7</text>
+      <register name="8" type="2">
+        <text encoding="base64">JAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRpY2soNTAwKTsK</text>
+        <text encoding="base64">JGNvbG9yLXdoaXRlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
