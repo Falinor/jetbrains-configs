@@ -77,12 +77,12 @@
         <mark key="." line="11" column="9" />
         <mark key="^" line="11" column="9" />
       </file>
-      <file name="$USER_HOME$/dev/thales-df/event-wall/web/src/app/modules/feature/dashboard/components/dashboard/dashboard.component.scss" timestamp="1537288580780">
-        <mark key="'" line="53" column="0" />
-        <mark key="[" line="10" column="19" />
-        <mark key="]" line="10" column="24" />
-        <mark key="." line="10" column="24" />
-        <mark key="^" line="10" column="24" />
+      <file name="$USER_HOME$/dev/thales-df/event-wall/web/src/app/modules/feature/dashboard/components/dashboard/dashboard.component.scss" timestamp="1537289556125">
+        <mark key="'" line="47" column="0" />
+        <mark key="[" line="4" column="1" />
+        <mark key="]" line="7" column="13" />
+        <mark key="." line="7" column="13" />
+        <mark key="^" line="7" column="13" />
       </file>
       <file name="$USER_HOME$/dev/thales-df/event-wall/web/src/app/modules/shared/components/card/card.component.html" timestamp="1537287886775">
         <mark key="[" line="4" column="15" />
@@ -194,12 +194,12 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/thales-df/event-wall/web/src/app/modules/feature/dashboard/components/dashboard/dashboard.component.html" timestamp="1537288548747">
-        <mark key="'" line="2" column="20" />
-        <mark key="[" line="1" column="14" />
-        <mark key="]" line="1" column="26" />
-        <mark key="^" line="1" column="26" />
-        <mark key="." line="1" column="26" />
+      <file name="$USER_HOME$/dev/thales-df/event-wall/web/src/app/modules/feature/dashboard/components/dashboard/dashboard.component.html" timestamp="1537289541531">
+        <mark key="'" line="41" column="5" />
+        <mark key="[" line="1" column="20" />
+        <mark key="]" line="1" column="23" />
+        <mark key="^" line="1" column="23" />
+        <mark key="." line="1" column="23" />
       </file>
       <file name="$USER_HOME$/dev/thales-df/event-wall/web/src/app/modules/feature/dashboard/components/request/request.component.html" timestamp="1537266229125">
         <mark key="'" line="5" column="8" />
@@ -217,7 +217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="135" column="0" filename="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/shared/components/accordion/accordion.component.ts" />
       <jump line="33" column="0" filename="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/feature/government/components/dashboard/dashboard.component.ts" />
       <jump line="136" column="41" filename="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/shared/components/accordion/accordion.component.ts" />
       <jump line="134" column="32" filename="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/feature/government/components/dashboard/dashboard.component.ts" />
@@ -248,7 +247,6 @@
       <jump line="172" column="12" filename="$USER_HOME$/dev/thales-df/event-wall/web/node_modules/bootstrap/scss/_variables.scss" />
       <jump line="4" column="20" filename="$USER_HOME$/dev/thales-df/event-wall/web/src/app/modules/feature/dashboard/components/request/request.component.scss" />
       <jump line="15" column="5" filename="$USER_HOME$/dev/thales-df/event-wall/web/src/app/modules/feature/dashboard/components/dashboard/dashboard.component.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/thales-df/event-wall/web/src/app/modules/feature/dashboard/components/dashboard/dashboard.component.html" />
       <jump line="30" column="2" filename="$USER_HOME$/dev/thales-df/event-wall/web/src/app/modules/feature/dashboard/components/dashboard/dashboard.component.html" />
       <jump line="5" column="26" filename="$USER_HOME$/dev/thales-df/event-wall/web/src/app/modules/feature/dashboard/components/dashboard/dashboard.component.scss" />
       <jump line="1" column="33" filename="$USER_HOME$/dev/thales-df/event-wall/web/src/app/modules/feature/dashboard/components/dashboard/dashboard.component.scss" />
@@ -317,6 +315,8 @@
       <jump line="2307" column="3" filename="$USER_HOME$/dev/thales-df/event-wall/web/node_modules/bootstrap/dist/css/bootstrap.css" />
       <jump line="3" column="10" filename="$USER_HOME$/dev/thales-df/event-wall/web/src/app/modules/shared/components/card/card.component.scss" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/thales-df/event-wall/web/src/app/modules/shared/components/card/card.component.scss" />
+      <jump line="0" column="28" filename="$USER_HOME$/dev/thales-df/event-wall/web/src/app/modules/feature/dashboard/components/dashboard/dashboard.component.html" />
+      <jump line="41" column="5" filename="$USER_HOME$/dev/thales-df/event-wall/web/src/app/modules/feature/dashboard/components/dashboard/dashboard.component.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -613,7 +613,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>around</text>
+        <text>height</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2140,7 +2140,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>around</text>
+        <text>height</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2155,7 +2155,7 @@
         <text>{{ data.startsAt | date:'hh:MM' }}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBoZWlnaHQ6IDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2168,32 +2168,32 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBwYWRkaW5nOgo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">Ci5jLXRlc3QgewogIGRpc3BsYXk6IGZsZXg7CiAgZmxleC1mbG93OiBjb2x1bW4gbm93cmFwOwogIGp1c3RpZnktY29udGVudDogY2VudGVyOwp9</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGhlaWdodDogYXV0bzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vd2lkdGg6MjYycHg7CiAgICAvL2hlaWdodDoxOTlweDsK</text>
+        <text encoding="base64">ICBoZWlnaHQ6ICRib2R5LWhlaWdodC13aXRob3V0LW5hdmJhcjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8c21hbGwgKm5nSWY9Im5hbWUuaGFzIj48L3NtYWxsPgo=</text>
+        <text encoding="base64">ICBoZWlnaHQ6ICRib2R5LWhlaWdodC13aXRob3V0LW5hdmJhcjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB7eyBuYW1lLmVycm9ycyB9fQo=</text>
+        <text encoding="base64">ICBoZWlnaHQ6ICRib2R5LWhlaWdodC13aXRob3V0LW5hdmJhcjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5uYW1lLik7Cg==</text>
+        <text encoding="base64">ICBoZWlnaHQ6ICRib2R5LWhlaWdodC13aXRob3V0LW5hdmJhcjsK</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBoZWlnaHQ6IDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPHNtYWxsICpuZ0lmPSJuYW1lLmRpcnR5ICYmIG5hbWUudmFsaWQiIGNsYXNzPSJ2YWxpZC1mZWVkYmFjayI+TmljZSBuYW1lITwvc21hbGw+Cg==</text>
+        <text encoding="base64">ICBwYWRkaW5nOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
