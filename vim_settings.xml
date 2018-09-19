@@ -493,11 +493,11 @@
         <mark key="^" line="0" column="2" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/thales-df/event-wall/web/src/app/modules/feature/dashboard/components/dashboard/dashboard.component.scss" timestamp="1537289556125">
+      <file name="$USER_HOME$/dev/thales-df/event-wall/web/src/app/modules/feature/dashboard/components/dashboard/dashboard.component.scss" timestamp="1537345216600">
         <mark key="'" line="47" column="0" />
-        <mark key="[" line="4" column="1" />
-        <mark key="]" line="7" column="13" />
-        <mark key="." line="7" column="13" />
+        <mark key="[" line="7" column="10" />
+        <mark key="]" line="7" column="10" />
+        <mark key="." line="7" column="10" />
         <mark key="^" line="7" column="13" />
       </file>
       <file name="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/material/material.module.ts" timestamp="1535037494798">
@@ -1251,12 +1251,12 @@
         <mark key="." line="4" column="24" />
         <mark key="^" line="4" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/thales-df/event-wall/web/src/app/modules/feature/dashboard/components/dashboard/dashboard.component.html" timestamp="1537344269063">
-        <mark key="'" line="41" column="5" />
-        <mark key="[" line="18" column="10" />
-        <mark key="]" line="18" column="8" />
-        <mark key="^" line="18" column="8" />
-        <mark key="." line="18" column="8" />
+      <file name="$USER_HOME$/dev/thales-df/event-wall/web/src/app/modules/feature/dashboard/components/dashboard/dashboard.component.html" timestamp="1537345213982">
+        <mark key="'" line="13" column="12" />
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="0" column="33" />
+        <mark key="^" line="0" column="33" />
+        <mark key="." line="0" column="33" />
       </file>
       <file name="$USER_HOME$/dev/thales-df/event-wall/web/src/app/modules/feature/dashboard/components/request/request.component.html" timestamp="1537266229125">
         <mark key="'" line="5" column="8" />
@@ -1322,7 +1322,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="11" filename="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/feature/government/components/dashboard/dashboard.component.ts" />
       <jump line="88" column="0" filename="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/feature/government/components/dashboard/dashboard.component.ts" />
       <jump line="42" column="0" filename="$USER_HOME$/dev/thales-df/event-wall/web/src/assets/_reset.scss" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/thales-df/event-wall/web/src/assets/_reset.scss" />
@@ -1422,6 +1421,7 @@
       <jump line="3" column="0" filename="$USER_HOME$/dev/thales-df/event-wall/web/src/app/modules/shared/components/card/card.component.scss" />
       <jump line="78" column="2" filename="$USER_HOME$/dev/thales-df/event-wall/web/src/app/modules/shared/components/card/card.component.scss" />
       <jump line="4" column="26" filename="$USER_HOME$/dev/thales-df/event-wall/web/src/app/modules/shared/components/card/card.component.scss" />
+      <jump line="13" column="12" filename="$USER_HOME$/dev/thales-df/event-wall/web/src/app/modules/feature/dashboard/components/dashboard/dashboard.component.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1717,8 +1717,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="&quot;" type="4">
+        <text>%</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -3245,7 +3245,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cGFkZGVkIA==</text>
+        <text>%</text>
       </register>
       <register name="m" type="4">
         <keys>
