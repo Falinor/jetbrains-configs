@@ -137,6 +137,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Insert link">
+        <Item>
+          <IdeaActionID>MarkdownNavigator.InsertLink</IdeaActionID>
+          <ShortCut>'⌃L'</ShortCut>
+          <Description>Insert link</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Jump to Navigation Bar">
         <Item>
           <IdeaActionID>ShowNavBar</IdeaActionID>
