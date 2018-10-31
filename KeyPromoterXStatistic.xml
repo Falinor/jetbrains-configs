@@ -41,6 +41,14 @@
           <Count>85</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Copy">
+        <Item>
+          <IdeaActionID>$Copy</IdeaActionID>
+          <ShortCut>'⌘C'</ShortCut>
+          <Description>Copy</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Copy Reference">
         <Item>
           <IdeaActionID>CopyReference</IdeaActionID>
@@ -357,6 +365,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Operation.#isDispatchedToGendarmerie'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Structure">
+        <Item>
+          <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
+          <ShortCut>'⌘7'</ShortCut>
+          <Description>Structure</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
