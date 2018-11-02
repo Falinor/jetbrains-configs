@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dev/coffeemaker/src/app.ts" timestamp="1541074658045">
+      <file name="$USER_HOME$/Dev/coffeemaker/src/app.ts" timestamp="1541074659119">
         <mark key="'" line="5" column="16" />
         <mark key="[" line="5" column="17" />
-        <mark key="]" line="1" column="12" />
-        <mark key="." line="1" column="12" />
-        <mark key="^" line="1" column="12" />
+        <mark key="]" line="5" column="17" />
+        <mark key="." line="5" column="17" />
+        <mark key="^" line="5" column="17" />
       </file>
       <file name="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/feature/authority/components/detailboard/detailboard.component.ts" timestamp="1532357040336">
         <mark key="[" line="82" column="0" />
@@ -883,6 +883,7 @@
         <mark key="^" line="11" column="1" />
         <mark key="." line="11" column="1" />
       </file>
+      <file name="$USER_HOME$/Dev/coffeemaker/node_modules/@types/koa-router/index.d.ts" timestamp="1541162934740" />
       <file name="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/shared/functions/sortByStartsAt.spec.ts" timestamp="1534939830502">
         <mark key="[" line="11" column="44" />
         <mark key="]" line="1" column="43" />
@@ -1083,10 +1084,11 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/coffeemaker/src/router.ts" timestamp="1541004508747">
-        <mark key="[" line="2" column="28" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Dev/coffeemaker/src/router.ts" timestamp="1541163344564">
+        <mark key="[" line="14" column="13" />
+        <mark key="]" line="14" column="46" />
+        <mark key="." line="14" column="46" />
+        <mark key="^" line="14" column="46" />
       </file>
       <file name="$USER_HOME$/dev/UTM/utm-backend/api/src/main/java/com/thales/utm/operations/usa/OperationUSAResource.java" timestamp="1531928917441">
         <mark key="[" line="11" column="10" />
@@ -1885,8 +1887,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>?</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -3413,7 +3415,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>!</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -3428,7 +3430,7 @@
         <text encoding="base64">PHN1cHByZXNzPgoJCTxub3Rlcz48IVtDREFUQVsKICAgCQkJZmlsZSBuYW1lOiBtb2RlbC0wLjAuMS1TTkFQU0hPVC5qYXIKICAgCQkJXV0+CiAgIAkJPC9ub3Rlcz4KCQk8Z2F2IHJlZ2V4PSJ0cnVlIj5eY29tXC50aGFsZXNcLnV0bTptb2RlbDouKiQ8L2dhdj4KCQk8Y3ZlPkNWRS0yMDE4LTExOTY8L2N2ZT4KCTwvc3VwcHJlc3M+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3442,31 +3444,33 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CnJvdXRlci5wcmVmaXgoJy92MScpCg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CmV4cG9ydCBpbnRlcmZhY2UgTWlkZGxld2FyZSB7CiAg</text>
+        <text>ctx.body = {
+    
+  };</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB0ZXN0OiBzdHJpbmcK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">cm91dGVyLnJvdXRlKCcvJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgdAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CnJvdXRlci5wcmVmaXgoJy92MScpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CmNvbnN0IHQ6IE1pZGRsZXdhcmUgPSB7CiAgCn0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
