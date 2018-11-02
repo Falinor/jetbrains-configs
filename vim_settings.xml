@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dev/coffeemaker/src/app.ts" timestamp="1541074659119">
+      <file name="$USER_HOME$/Dev/coffeemaker/src/app.ts" timestamp="1541185466416">
         <mark key="'" line="5" column="16" />
-        <mark key="[" line="5" column="17" />
-        <mark key="]" line="5" column="17" />
-        <mark key="." line="5" column="17" />
-        <mark key="^" line="5" column="17" />
+        <mark key="[" line="11" column="30" />
+        <mark key="]" line="11" column="36" />
+        <mark key="." line="11" column="36" />
+        <mark key="^" line="11" column="36" />
       </file>
       <file name="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/feature/authority/components/detailboard/detailboard.component.ts" timestamp="1532357040336">
         <mark key="[" line="82" column="0" />
@@ -341,11 +341,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/coffeemaker/tsconfig.json" timestamp="1540999934218">
-        <mark key="[" line="13" column="46" />
-        <mark key="]" line="13" column="46" />
-        <mark key="." line="13" column="46" />
-        <mark key="^" line="13" column="18" />
+      <file name="$USER_HOME$/Dev/coffeemaker/tsconfig.json" timestamp="1541185448718">
+        <mark key="'" line="23" column="4" />
+        <mark key="[" line="23" column="4" />
+        <mark key="]" line="24" column="4" />
+        <mark key="." line="24" column="4" />
+        <mark key="^" line="24" column="4" />
       </file>
       <file name="$USER_HOME$/dev/docker-redoc/openapi.yml" timestamp="1530711418832">
         <mark key="[" line="2" column="13" />
@@ -1084,11 +1085,11 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/coffeemaker/src/router.ts" timestamp="1541163344564">
-        <mark key="[" line="14" column="13" />
-        <mark key="]" line="14" column="46" />
-        <mark key="." line="14" column="46" />
-        <mark key="^" line="14" column="46" />
+      <file name="$USER_HOME$/Dev/coffeemaker/src/router.ts" timestamp="1541185068367">
+        <mark key="[" line="14" column="29" />
+        <mark key="]" line="14" column="26" />
+        <mark key="." line="14" column="26" />
+        <mark key="^" line="14" column="26" />
       </file>
       <file name="$USER_HOME$/dev/UTM/utm-backend/api/src/main/java/com/thales/utm/operations/usa/OperationUSAResource.java" timestamp="1531928917441">
         <mark key="[" line="11" column="10" />
@@ -1492,7 +1493,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="13" filename="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/shared/models/operation/operation.ts" />
       <jump line="35" column="34" filename="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/shared/models/operation/operation.ts" />
       <jump line="47" column="0" filename="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/shared/models/operation/operation.ts" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/shared/models/operation/operation.ts" />
@@ -1592,6 +1592,7 @@
       <jump line="10" column="24" filename="$USER_HOME$/Dev/coffeemaker/src/app.ts" />
       <jump line="2" column="25" filename="$USER_HOME$/Dev/coffeemaker/src/app.ts" />
       <jump line="4" column="16" filename="$USER_HOME$/Dev/coffeemaker/src/app.ts" />
+      <jump line="23" column="4" filename="$USER_HOME$/Dev/coffeemaker/tsconfig.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1887,8 +1888,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>test</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -3415,7 +3416,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>test</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -3430,7 +3431,7 @@
         <text encoding="base64">PHN1cHByZXNzPgoJCTxub3Rlcz48IVtDREFUQVsKICAgCQkJZmlsZSBuYW1lOiBtb2RlbC0wLjAuMS1TTkFQU0hPVC5qYXIKICAgCQkJXV0+CiAgIAkJPC9ub3Rlcz4KCQk8Z2F2IHJlZ2V4PSJ0cnVlIj5eY29tXC50aGFsZXNcLnV0bTptb2RlbDouKiQ8L2dhdj4KCQk8Y3ZlPkNWRS0yMDE4LTExOTY8L2N2ZT4KCTwvc3VwcHJlc3M+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjdHguYm9keSAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3444,33 +3445,33 @@
         </keys>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">CnJvdXRlci5wcmVmaXgoJy92MScpCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>ctx.body = {
     
   };</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">cm91dGVyLnJvdXRlKCcvJykK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">cm91dGVyLnJvdXRlKCcvJykK</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CnJvdXRlci5wcmVmaXgoJy92MScpCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">CnJvdXRlci5wcmVmaXgoJy92MScpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
