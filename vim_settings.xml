@@ -1185,10 +1185,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/autobg/src/options/App.vue" timestamp="1541677191107">
-        <mark key="[" line="12" column="14" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/dev/autobg/src/options/App.vue" timestamp="1541684981944">
+        <mark key="[" line="52" column="16" />
+        <mark key="]" line="52" column="15" />
+        <mark key="." line="52" column="15" />
+        <mark key="^" line="52" column="15" />
       </file>
       <file name="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/shared/models/operation/pilot.ts" timestamp="1535035915234">
         <mark key="[" line="4" column="9" />
@@ -1480,12 +1481,11 @@
         <mark key="^" line="81" column="28" />
         <mark key="." line="28" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/autobg/src/manifest.json" timestamp="1541676382802">
+      <file name="$USER_HOME$/dev/autobg/src/manifest.json" timestamp="1541683017582">
         <mark key="'" line="3" column="21" />
-        <mark key="[" line="21" column="24" />
-        <mark key="]" line="21" column="24" />
-        <mark key="." line="21" column="24" />
-        <mark key="^" line="20" column="25" />
+        <mark key="[" line="19" column="35" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/shared/components/table/table.component.html" timestamp="1536913920983">
         <mark key="[" line="13" column="128" />
@@ -1503,6 +1503,12 @@
         <mark key="[" line="75" column="0" />
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/autobg/.prettierrc" timestamp="1541683976131">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="19" />
+        <mark key="." line="2" column="19" />
+        <mark key="^" line="2" column="19" />
       </file>
       <file name="$USER_HOME$/dev/floors-api/src/app.js" timestamp="1538398745338">
         <mark key="'" line="21" column="0" />
@@ -2337,7 +2343,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBkaXMK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -3864,7 +3870,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>img</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -3875,13 +3881,11 @@
       <register name="/" type="4">
         <text>'</text>
       </register>
-      <register name="0" type="4">
-        <text>;
-  } else {
-    console.log(</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHBhZGRpbmc6IDA7CiAgICBtYXJnaW46IDA7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBkaXMK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3895,22 +3899,24 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8YSBocmVmPSI8L2E+Cg==</text>
+        <text encoding="base64">ICBwYWRkaW5nOiAwOwogIG1hcmdpbjogMDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8ZGl2Pgo=</text>
+        <text encoding="base64">ICBwYWRkaW5nOiAwOwogIG1hcmdpbjogMDsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAib3B0aW9uc19wYWdlIjogIm9wdGlvbnMvb3B0aW9ucy5odG1sIiwK</text>
+      <register name="4" type="4">
+        <text>p {
+  font-size: 20px;
+}</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA8ZGl2PjxwPkhlbGxvIHdvcmxkITwvcD48L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgYnJvd3Nlci5ydW50aW1lLmdldFVSTCgnaW1hZ2VzL0xJTktFRElOL0JhbmRlYXVfbGlua2VkaW5fQW91dC5wbmcnKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0ICcuLi9zcmMvaW5kZXgnOwo=</text>
+        <text encoding="base64">ICBjb21wdQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIEFsbG93IGBpbXBvcnQgdGVzdCBmcm9tICdhdmEnO2AgaW5zdGVhZCBvZiBgaW1wb3J0IGF2YSBmcm9tICdhdmEnO2AKICAgIC8vIFNlZSBodHRwczovL2dpdGh1Yi5jb20vTWljcm9zb2Z0L3RzbGludC1taWNyb3NvZnQtY29udHJpYgo=</text>
+        <text encoding="base64">Ly8gY29uc3QgeyBicm93c2VyIH0gPSBnbG9iYWw7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3939,10 +3945,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBjaG9yZShkZXBzKTogYWRkIG55YzsgY29uZmlndXJlIGNvZGUgY292ZXJhZ2UK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coYnJvd3Nlcik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coYnJvd3Nlcik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
