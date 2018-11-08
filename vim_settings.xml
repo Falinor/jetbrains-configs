@@ -431,6 +431,12 @@
         <mark key="." line="13" column="71" />
         <mark key="^" line="13" column="71" />
       </file>
+      <file name="$USER_HOME$/dev/autobg/src/settings-service.js" timestamp="1541687061356">
+        <mark key="[" line="16" column="25" />
+        <mark key="]" line="16" column="39" />
+        <mark key="." line="16" column="39" />
+        <mark key="^" line="16" column="39" />
+      </file>
       <file name="$USER_HOME$/dev/UTM/utm-backend/api/src/test/java/com/thales/utm/web/temp/dto/DTOTest.java" timestamp="1535122942718">
         <mark key="[" line="27" column="48" />
         <mark key="]" line="27" column="0" />
@@ -1185,11 +1191,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/autobg/src/options/App.vue" timestamp="1541684981944">
-        <mark key="[" line="52" column="16" />
-        <mark key="]" line="52" column="15" />
-        <mark key="." line="52" column="15" />
-        <mark key="^" line="52" column="15" />
+      <file name="$USER_HOME$/dev/autobg/src/options/App.vue" timestamp="1541687031208">
+        <mark key="[" line="24" column="32" />
+        <mark key="]" line="24" column="32" />
+        <mark key="^" line="24" column="43" />
+        <mark key="." line="24" column="32" />
       </file>
       <file name="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/shared/models/operation/pilot.ts" timestamp="1535035915234">
         <mark key="[" line="4" column="9" />
@@ -1947,9 +1953,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="35" filename="$USER_HOME$/dev/thales-df/event-wall/web/src/app/modules/shared/components/dialog/event-creation/event-creation.component.ts" />
-      <jump line="21" column="2" filename="$USER_HOME$/dev/thales-df/event-wall/web/src/app/modules/shared/components/dialog/event-creation/event-creation.component.html" />
-      <jump line="2" column="5" filename="$USER_HOME$/dev/thales-df/event-wall/web/src/app/modules/shared/components/dialog/event-creation/event-creation.component.html" />
       <jump line="25" column="6" filename="$USER_HOME$/dev/thales-df/event-wall/web/src/app/modules/shared/components/dialog/event-creation/event-creation.component.html" />
       <jump line="3" column="8" filename="$USER_HOME$/dev/thales-df/event-wall/web/src/app/modules/shared/components/dialog/event-creation/event-creation.component.html" />
       <jump line="74" column="13" filename="$USER_HOME$/dev/thales-df/event-wall/web/src/app/modules/shared/components/dialog/event-creation/event-creation.component.html" />
@@ -2047,6 +2050,9 @@
       <jump line="6" column="101" filename="$USER_HOME$/dev/banque-casino/api/.nycrc" />
       <jump line="6" column="0" filename="$USER_HOME$/dev/banque-casino/api/src/index.ts" />
       <jump line="3" column="21" filename="$USER_HOME$/dev/autobg/src/manifest.json" />
+      <jump line="58" column="0" filename="$USER_HOME$/dev/autobg/src/options/App.vue" />
+      <jump line="1" column="1" filename="$USER_HOME$/dev/autobg/src/settings-service.js" />
+      <jump line="17" column="0" filename="$USER_HOME$/dev/autobg/src/options/App.vue" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2342,8 +2348,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBkaXMK</text>
+      <register name="&quot;" type="4">
+        <text>this</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -3870,7 +3876,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>img</text>
+        <text>this</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -3885,7 +3891,7 @@
         <text encoding="base64">ICAgIHBhZGRpbmc6IDA7CiAgICBtYXJnaW46IDA7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkaXMK</text>
+        <text encoding="base64">Owo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3898,25 +3904,23 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBwYWRkaW5nOiAwOwogIG1hcmdpbjogMDsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">CmNvbnN0IGJhc2VQYXRoID0gJzsKY29uc3QgbW9udGhzID0gWwogICdKYW52aWVyJywKICAnRmV2cmllcicsCiAgJ01hcnMnLAogICdBdnJpbCcsCiAgJ01haScsCiAgJ0p1aW4nLAogICdKdWlsbGV0JywKICAnQW91dCcsCiAgJ1NlcHRlbWJyZScsCiAgJ09jdG9icmUnLAogICdOb3ZlbWJyZScsCiAgJ0RlY2VtYnJlJywKXQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwYWRkaW5nOiAwOwogIG1hcmdpbjogMDsK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coY3VycmVudE1vbnRoKTsK</text>
       </register>
-      <register name="4" type="4">
-        <text>p {
-  font-size: 20px;
-}</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBjdXJyZW50TU9udGVyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYnJvd3Nlci5ydW50aW1lLmdldFVSTCgnaW1hZ2VzL0xJTktFRElOL0JhbmRlYXVfbGlua2VkaW5fQW91dC5wbmcnKQo=</text>
+        <text encoding="base64">bGV0IHNldHRpbmdzOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBjb21wdQo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">CmltZyB7CiAgbWF4LXdpZHRoOiAxMDAlOwogIGhlaWdodDogYXV0bzsKfQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gY29uc3QgeyBicm93c2VyIH0gPSBnbG9iYWw7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3945,10 +3949,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coYnJvd3Nlcik7Cg==</text>
+        <text encoding="base64">ICBwYWRkaW5nOiA4cHg7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coYnJvd3Nlcik7Cg==</text>
+        <text encoding="base64">ICBkaXMK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
