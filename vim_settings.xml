@@ -131,6 +131,9 @@
         <mark key="." line="8" column="20" />
         <mark key="^" line="8" column="20" />
       </file>
+      <file name="$USER_HOME$/dev/autobg/webpack.config.js" timestamp="1541677270718">
+        <mark key="[" line="62" column="59" />
+      </file>
       <file name="$USER_HOME$/dev/UTM/utm-frontend-operator/src/assets/i18n/fr.json" timestamp="1533906331643">
         <mark key="[" line="52" column="56" />
         <mark key="]" line="42" column="17" />
@@ -1182,6 +1185,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/autobg/src/options/App.vue" timestamp="1541677191107">
+        <mark key="[" line="12" column="14" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/shared/models/operation/pilot.ts" timestamp="1535035915234">
         <mark key="[" line="4" column="9" />
         <mark key="]" line="5" column="0" />
@@ -1471,6 +1479,13 @@
         <mark key="]" line="28" column="18" />
         <mark key="^" line="81" column="28" />
         <mark key="." line="28" column="18" />
+      </file>
+      <file name="$USER_HOME$/dev/autobg/src/manifest.json" timestamp="1541676382802">
+        <mark key="'" line="3" column="21" />
+        <mark key="[" line="21" column="24" />
+        <mark key="]" line="21" column="24" />
+        <mark key="." line="21" column="24" />
+        <mark key="^" line="20" column="25" />
       </file>
       <file name="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/shared/components/table/table.component.html" timestamp="1536913920983">
         <mark key="[" line="13" column="128" />
@@ -1926,7 +1941,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="38" filename="$USER_HOME$/dev/thales-df/event-wall/web/src/app/modules/shared/components/dialog/event-creation/event-creation.component.ts" />
       <jump line="8" column="35" filename="$USER_HOME$/dev/thales-df/event-wall/web/src/app/modules/shared/components/dialog/event-creation/event-creation.component.ts" />
       <jump line="21" column="2" filename="$USER_HOME$/dev/thales-df/event-wall/web/src/app/modules/shared/components/dialog/event-creation/event-creation.component.html" />
       <jump line="2" column="5" filename="$USER_HOME$/dev/thales-df/event-wall/web/src/app/modules/shared/components/dialog/event-creation/event-creation.component.html" />
@@ -2026,6 +2040,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/banque-casino/api/tsconfig.json" />
       <jump line="6" column="101" filename="$USER_HOME$/dev/banque-casino/api/.nycrc" />
       <jump line="6" column="0" filename="$USER_HOME$/dev/banque-casino/api/src/index.ts" />
+      <jump line="3" column="21" filename="$USER_HOME$/dev/autobg/src/manifest.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2322,7 +2337,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0ICcuLi9zcmMvaW5kZXgnOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -3849,7 +3864,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>test</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -3866,7 +3881,7 @@
     console.log(</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0ICcuLi9zcmMvaW5kZXgnOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3880,22 +3895,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIEFsbG93IGBpbXBvcnQgdGVzdCBmcm9tICdhdmEnO2AgaW5zdGVhZCBvZiBgaW1wb3J0IGF2YSBmcm9tICdhdmEnO2AKICAgIC8vIFNlZSBodHRwczovL2dpdGh1Yi5jb20vTWljcm9zb2Z0L3RzbGludC1taWNyb3NvZnQtY29udHJpYgo=</text>
+        <text encoding="base64">ICAgICAgICA8YSBocmVmPSI8L2E+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBjaG9yZShkZXBzKTogYWRkIG55YzsgY29uZmlndXJlIGNvZGUgY292ZXJhZ2UK</text>
+        <text encoding="base64">ICA8ZGl2Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAib3B0aW9uc19wYWdlIjogIm9wdGlvbnMvb3B0aW9ucy5odG1sIiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICA8ZGl2PjxwPkhlbGxvIHdvcmxkITwvcD48L2Rpdj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAicmVxdWlyZSI6IFsKICBdLAo=</text>
+        <text encoding="base64">aW1wb3J0ICcuLi9zcmMvaW5kZXgnOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJ0cy1ub2RlL3JlZ2lzdGVyIgo=</text>
+        <text encoding="base64">ICAgIC8vIEFsbG93IGBpbXBvcnQgdGVzdCBmcm9tICdhdmEnO2AgaW5zdGVhZCBvZiBgaW1wb3J0IGF2YSBmcm9tICdhdmEnO2AKICAgIC8vIFNlZSBodHRwczovL2dpdGh1Yi5jb20vTWljcm9zb2Z0L3RzbGludC1taWNyb3NvZnQtY29udHJpYgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3924,13 +3939,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJzb3VyY2UtbWFwLXN1cHBvcnQvcmVnaXN0ZXIiCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBjaG9yZShkZXBzKTogYWRkIG55YzsgY29uZmlndXJlIGNvZGUgY292ZXJhZ2UK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAicmVxdWlyZSI6IFsKICBdLAo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -3982,10 +3997,10 @@
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>x</entry>
         <entry>W</entry>
-        <entry>wq</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
