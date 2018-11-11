@@ -693,6 +693,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Dev/autobg/src/manifest.json" timestamp="1541971267866">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="10" column="13" />
+        <mark key="^" line="10" column="13" />
+        <mark key="." line="10" column="13" />
+      </file>
       <file name="$USER_HOME$/dev/part-edge/client/src/components/auth/LogOut.vue" timestamp="1527094142764">
         <mark key="[" line="1" column="6" />
         <mark key="]" line="1" column="5" />
@@ -825,12 +831,12 @@
         <mark key="^" line="10" column="33" />
         <mark key="." line="10" column="33" />
       </file>
-      <file name="$USER_HOME$/Dev/autobg/src/background.js" timestamp="1541970345751">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="7" column="2" />
-        <mark key="]" line="7" column="12" />
-        <mark key="." line="7" column="12" />
-        <mark key="^" line="7" column="12" />
+      <file name="$USER_HOME$/Dev/autobg/src/background.js" timestamp="1541971177422">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="15" column="38" />
+        <mark key="]" line="16" column="17" />
+        <mark key="^" line="16" column="17" />
+        <mark key="." line="16" column="17" />
       </file>
       <file name="$USER_HOME$/dev/UTM/utm-backend/src/main/java/com/thales/utm/broker/Sender.java" timestamp="1531315846688">
         <mark key="[" line="3" column="39" />
@@ -1888,8 +1894,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>alert</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY29kZTogYGNvbnNvbGUubG9nKCdsb2NhdGlvbjonLCB3aW5kb3cubG9jYXRpb24uaHJlZik7YAo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -3416,7 +3422,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>alert</text>
+        <text>log</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -3431,7 +3437,7 @@
         <text encoding="base64">PHN1cHByZXNzPgoJCTxub3Rlcz48IVtDREFUQVsKICAgCQkJZmlsZSBuYW1lOiBtb2RlbC0wLjAuMS1TTkFQU0hPVC5qYXIKICAgCQkJXV0+CiAgIAkJPC9ub3Rlcz4KCQk8Z2F2IHJlZ2V4PSJ0cnVlIj5eY29tXC50aGFsZXNcLnV0bTptb2RlbDouKiQ8L2dhdj4KCQk8Y3ZlPkNWRS0yMDE4LTExOTY8L2N2ZT4KCTwvc3VwcHJlc3M+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">d2luZG93LmFkZEV2ZW50TGlzdGVuZXIoJ2xvYWQnLCAoKSA9PiB7Cg==</text>
+        <text encoding="base64">ICAgICAgY29kZTogYGNvbnNvbGUubG9nKCdsb2NhdGlvbjonLCB3aW5kb3cubG9jYXRpb24uaHJlZik7YAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3444,37 +3450,38 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>const node = document.querySelector(
-      'a[data-control-name=&quot;identity_profile_photo&quot;]'
-    );
-    alert(document);</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBhbGVydCgpCg==</text>
+        <text encoding="base64">c2V0VGltZW91dCgoKSA9PiB7CiAgY29uc29sZS5sb2coZG9jdW1lbnQpOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ZG9jdW1lbnQuYWRkRXZlbnRMaXN0ZW5lcigncmVhZHknLCAoKSA9PiB7CiAgICAgIAogICAgfSk7</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAKfSwgMjAwMDApOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="5" type="4">
+        <text>const node = document.querySelector(
+    'a[data-control-name=identity_profile_photo]'
+  );
+  console.log(node);</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fSkoKTsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgaWQgfSA9IHRhYjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">KGFzeW5jICgpID0+IHsK</text>
+        <text encoding="base64">d2luZG93LmFkZEV2ZW50TGlzdGVuZXIoJ2xvYWQnLCAoKSA9PiB7Cg==</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="4">
-        <text>browser.tabs.create({
-  url: 'https://www.linkedin.com/'
-});</text>
+        <text>const node = document.querySelector(
+      'a[data-control-name=&quot;identity_profile_photo&quot;]'
+    );
+    alert(document);</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmFsZXJ0KCdIZWxsbyB3b3JsZCEnKTsK</text>
+        <text encoding="base64">ICBhbGVydCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
