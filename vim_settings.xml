@@ -1132,12 +1132,11 @@
         <mark key="." line="70" column="3" />
         <mark key="^" line="70" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/api/README.md" timestamp="1542033066638">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="86" column="52" />
-        <mark key="]" line="90" column="36" />
-        <mark key="." line="90" column="36" />
+      <file name="$USER_HOME$/dev/banque-casino/api/README.md" timestamp="1542039961689">
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="123" column="0" />
         <mark key="^" line="90" column="36" />
+        <mark key="." line="123" column="0" />
       </file>
       <file name="$USER_HOME$/dev/thales-df/event-wall/web/src/app/modules/shared/components/chip/chip.component.html" timestamp="1537372213502">
         <mark key="'" line="2" column="5" />
@@ -1948,11 +1947,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/api/package.json" timestamp="1541609056484">
-        <mark key="[" line="12" column="18" />
-        <mark key="]" line="12" column="16" />
-        <mark key="." line="12" column="16" />
-        <mark key="^" line="12" column="16" />
+      <file name="$USER_HOME$/dev/banque-casino/api/package.json" timestamp="1542038593819">
+        <mark key="[" line="46" column="39" />
+        <mark key="]" line="46" column="39" />
+        <mark key="." line="46" column="39" />
+        <mark key="^" line="46" column="22" />
       </file>
       <file name="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/shared/models/operation/documents.ts" timestamp="1535024200267">
         <mark key="[" line="0" column="23" />
@@ -2025,8 +2024,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="1" filename="$USER_HOME$/dev/thales-df/event-wall/web/src/app/modules/core/services/event.service.ts" />
-      <jump line="46" column="37" filename="$USER_HOME$/dev/thales-df/event-wall/web/src/app/modules/feature/dashboard/components/dashboard/dashboard.component.ts" />
       <jump line="18" column="7" filename="$USER_HOME$/dev/thales-df/event-wall/web/src/app/modules/core/services/event.service.ts" />
       <jump line="31" column="32" filename="$USER_HOME$/dev/thales-df/event-wall/web/src/app/modules/core/models/outlook-event.ts" />
       <jump line="10" column="26" filename="$USER_HOME$/dev/thales-df/event-wall/web/src/app/modules/core/models/outlook-event.ts" />
@@ -2125,6 +2122,8 @@
       <jump line="6" column="5" filename="$USER_HOME$/dev/banque-casino/api/src/core/logger.ts" />
       <jump line="14" column="1" filename="$USER_HOME$/dev/banque-casino/api/src/core/logger.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/banque-casino/api/src/core/logger.ts" />
+      <jump line="99" column="0" filename="$USER_HOME$/dev/banque-casino/api/README.md" />
+      <jump line="124" column="0" filename="$USER_HOME$/dev/banque-casino/api/README.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2420,8 +2419,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>index</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -3948,7 +3947,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>index</text>
+        <text>,</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -3963,7 +3962,7 @@
         <text encoding="base64">ICB0cmFjZTogTG9nRm47Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlYnVnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3976,23 +3975,23 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCB7CiAgICB0cmFjZSwK</text>
+      <register name="2" type="4">
+        <text encoding="base64">PT09PT09PQpgZ2l0IGNsb25lIGdpdEBnaXRodWIuY29tOnphbGFuZG8vemFsbHkuZ2l0IHphbGx5CmNkIHphbGx5CgojIERpc2FibGUgYXV0aGVudGljYXRpb24gYW5kIHN0YXJ0IGEgbG9jYWwgdmVyc2lvbiBvZiBaYWxseSBzZXJ2ZXIKCmNkIHNlcnZlcgouL2dyYWRsZXcgY2xlYW4gYnVpbGQKLi9ncmFkbGV3IGJvb3RSdW4KY2QgLi4KCiMgQnVpbGQgQ0xJCgpnbyBnZXQgZ2l0aHViLmNvbS96YWxhbmRvL3phbGx5L2NsaS96YWxseQpjZCBcJEdPUEFUSC9zcmMvZ2l0aHViLmNvbS96YWxhbmRvL3phbGx5L2NsaS96YWxseQpnbyBidWlsZGBUaGVuIHlvdSBjYW4gdXNlIDpgLi96YWxseSBsaW50IC9wYXRoL3RvL3N3YWdnZXIvZGVmaW5pdGlvbi55YW1sYCB0byBydW4gdGhlIGxpbnRlci4KPj4+Pj4+PiBkb2NzKG9wZW5hcGkpOiBhZGQgemFsbHkgaW5zdHJ1Y3Rpb25zIGFuZCBjb3JyZWN0IG9wZW5hcGkueWFtbCBmaWxl</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Owo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlYnVnOiBidW55YW5Mb2dnZXIuZGVidWcK</text>
+        <text encoding="base64">Pj4+Pj4+PiBkb2NzKG9wZW5hcGkpOiBhZGQgemFsbHkgaW5zdHJ1Y3Rpb25zIGFuZCBjb3JyZWN0IG9wZW5hcGkueWFtbCBmaWxlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICByZXR1cm4gewogICAgdHJhY2U6IGJ1bnlhbkxvZ2dlci50cmFjZSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCBsb2dnZXIgPSAK</text>
+      <register name="6" type="4">
+        <text encoding="base64">PDw8PDw8PCBIRUFECmBnaXQgY2xvbmUgZ2l0QGdpdGh1Yi5jb206emFsYW5kby96YWxseS5naXQgemFsbHkKY2QgemFsbHkKCiMgRGlzYWJsZSBhdXRoZW50aWNhdGlvbiBhbmQgc3RhcnQgYSBsb2NhbCB2ZXJzaW9uIG9mIFphbGx5IHNlcnZlcgoKY2Qgc2VydmVyCi4vZ3JhZGxldyBjbGVhbiBidWlsZAouL2dyYWRsZXcgYm9vdFJ1bgpjZCAuLgoKIyBCdWlsZCBDTEkKCmdvIGdldCBnaXRodWIuY29tL3phbGFuZG8vemFsbHkvY2xpL3phbGx5CmNkIFwkR09QQVRIL3NyYy9naXRodWIuY29tL3phbGFuZG8vemFsbHkvY2xpL3phbGx5CmdvIGJ1aWxkYFRoZW4geW91IGNhbiB1c2UgOmAuL3phbGx5IGxpbnQgL3BhdGgvdG8vc3dhZ2dlci9kZWZpbml0aW9uLnlhbWxgIHRvIHJ1biB0aGUgbGludGVyLgo9PT09PT09</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4021,13 +4020,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBmYXRhbChtc2c6IGFueSwgLi4ucGFyYW1zOiBhbnlbXSk6IHZvaWQ7Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBkb2NzKG9wZW5hcGkpOiBhZGQgemFsbHkgaW5zdHJ1Y3Rpb25zIGFuZCBjb3JyZWN0IG9wZW5hcGkueWFtbCBmaWxlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB3YXJuKG1zZzogYW55LCAuLi5wYXJhbXM6IGFueVtdKTogdm9pZDsKICBlcnJvcihtc2c6IGFueSwgLi4ucGFyYW1zOiBhbnlbXSk6IHZvaWQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -4081,8 +4080,8 @@
         <entry>W</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
