@@ -693,11 +693,11 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/autobg/src/manifest.json" timestamp="1541971267866">
-        <mark key="[" line="10" column="4" />
-        <mark key="]" line="10" column="13" />
-        <mark key="^" line="10" column="13" />
-        <mark key="." line="10" column="13" />
+      <file name="$USER_HOME$/Dev/autobg/src/manifest.json" timestamp="1542064617963">
+        <mark key="[" line="10" column="30" />
+        <mark key="]" line="10" column="30" />
+        <mark key="^" line="10" column="30" />
+        <mark key="." line="10" column="30" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/client/src/components/auth/LogOut.vue" timestamp="1527094142764">
         <mark key="[" line="1" column="6" />
@@ -831,12 +831,12 @@
         <mark key="^" line="10" column="33" />
         <mark key="." line="10" column="33" />
       </file>
-      <file name="$USER_HOME$/Dev/autobg/src/background.js" timestamp="1541971177422">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="15" column="38" />
-        <mark key="]" line="16" column="17" />
-        <mark key="^" line="16" column="17" />
-        <mark key="." line="16" column="17" />
+      <file name="$USER_HOME$/Dev/autobg/src/background.js" timestamp="1542066351405">
+        <mark key="'" line="9" column="18" />
+        <mark key="[" line="8" column="3" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="3" column="26" />
       </file>
       <file name="$USER_HOME$/dev/UTM/utm-backend/src/main/java/com/thales/utm/broker/Sender.java" timestamp="1531315846688">
         <mark key="[" line="3" column="39" />
@@ -1499,7 +1499,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="0" filename="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/shared/models/operation/operation.ts" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/shared/models/operation/operation.ts" />
       <jump line="31" column="12" filename="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/shared/models/operation/operation.ts" />
       <jump line="4" column="6" filename="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/shared/models/operation/operation.ts" />
@@ -1599,6 +1598,7 @@
       <jump line="4" column="16" filename="$USER_HOME$/Dev/coffeemaker/src/app.ts" />
       <jump line="23" column="4" filename="$USER_HOME$/Dev/coffeemaker/tsconfig.json" />
       <jump line="2" column="0" filename="$USER_HOME$/Dev/autobg/src/background.js" />
+      <jump line="9" column="18" filename="$USER_HOME$/Dev/autobg/src/background.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1895,7 +1895,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29kZTogYGNvbnNvbGUubG9nKCdsb2NhdGlvbjonLCB3aW5kb3cubG9jYXRpb24uaHJlZik7YAo=</text>
+        <text encoding="base64">ICAvLyB9LCA1MDAwKTsK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -3422,7 +3422,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>log</text>
+        <text>setTimeout</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -3437,7 +3437,7 @@
         <text encoding="base64">PHN1cHByZXNzPgoJCTxub3Rlcz48IVtDREFUQVsKICAgCQkJZmlsZSBuYW1lOiBtb2RlbC0wLjAuMS1TTkFQU0hPVC5qYXIKICAgCQkJXV0+CiAgIAkJPC9ub3Rlcz4KCQk8Z2F2IHJlZ2V4PSJ0cnVlIj5eY29tXC50aGFsZXNcLnV0bTptb2RlbDouKiQ8L2dhdj4KCQk8Y3ZlPkNWRS0yMDE4LTExOTY8L2N2ZT4KCTwvc3VwcHJlc3M+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29kZTogYGNvbnNvbGUubG9nKCdsb2NhdGlvbjonLCB3aW5kb3cubG9jYXRpb24uaHJlZik7YAo=</text>
+        <text encoding="base64">ICAvLyB9LCA1MDAwKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3451,37 +3451,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBzZXRUaW1lb3V0KCgpID0+IHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2V0VGltZW91dCgoKSA9PiB7CiAgY29uc29sZS5sb2coZG9jdW1lbnQpOwo=</text>
+        <text encoding="base64">ICB3aW5kCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAKfSwgMjAwMDApOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBub2RlLmhyZWY7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>const node = document.querySelector(
-    'a[data-control-name=identity_profile_photo]'
-  );
-  console.log(node);</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgaWQgfSA9IHRhYjsK</text>
+        <text encoding="base64">ICBjb25zb2xlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">d2luZG93LmFkZEV2ZW50TGlzdGVuZXIoJ2xvYWQnLCAoKSA9PiB7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5vZGUuaHJlZik7Cg==</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
-      <register name="8" type="4">
-        <text>const node = document.querySelector(
-      'a[data-control-name=&quot;identity_profile_photo&quot;]'
-    );
-    alert(document);</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhbGVydCgpCg==</text>
+        <text encoding="base64">ICAgIHMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
