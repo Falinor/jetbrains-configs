@@ -345,6 +345,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/banque-casino/api/src/core/validation.ts" timestamp="1542970957158">
+        <mark key="[" line="40" column="14" />
+        <mark key="]" line="40" column="14" />
+        <mark key="." line="40" column="14" />
+        <mark key="^" line="38" column="51" />
+      </file>
       <file name="$USER_HOME$/dev/banque-casino/api/test/core/config.test.ts" timestamp="1542621056529">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -1181,6 +1187,7 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
+      <file name="$USER_HOME$/dev/banque-casino/api/node_modules/@types/koa/index.d.ts" timestamp="1542970818264" />
       <file name="$USER_HOME$/dev/UTM/utm-backend/model/src/main/java/com/thales/utm/model/operation/Operation.java" timestamp="1531908702675">
         <mark key="[" line="43" column="62" />
         <mark key="]" line="43" column="87" />
@@ -1977,6 +1984,13 @@
         <mark key="." line="15" column="15" />
         <mark key="^" line="15" column="15" />
       </file>
+      <file name="$USER_HOME$/dev/banque-casino/api/test/core/validation.test.ts" timestamp="1542970996337">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+        <mark key="^" line="25" column="9" />
+      </file>
       <file name="$USER_HOME$/dev/factory-cup/client/src/screens/fifa-world-cup/Matches.js" timestamp="1528731418644">
         <mark key="[" line="92" column="0" />
         <mark key="]" line="92" column="0" />
@@ -2281,7 +2295,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="2" filename="$USER_HOME$/dev/banque-casino/api/tsconfig.json" />
       <jump line="19" column="4" filename="$USER_HOME$/dev/banque-casino/api/tsconfig.json" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/banque-casino/api/tsconfig.json" />
       <jump line="6" column="101" filename="$USER_HOME$/dev/banque-casino/api/.nycrc" />
@@ -2381,6 +2394,7 @@
       <jump line="31" column="1" filename="$USER_HOME$/dev/banque-casino/api/src/core/base-controller.ts" />
       <jump line="18" column="76" filename="$USER_HOME$/dev/banque-casino/api/test/core/base-controller.test.ts" />
       <jump line="4" column="0" filename="$USER_HOME$/dev/banque-casino/api/test/core/base-controller.test.ts" />
+      <jump line="5" column="0" filename="$USER_HOME$/dev/banque-casino/api/test/core/validation.test.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2677,7 +2691,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjdHJsLmluZGV4KGN0eCwgbmV4dCk7Cg==</text>
+        <text encoding="base64">ICAgIHQubG9nKGN0eC5yZXF1ZXN0KTsK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -4204,7 +4218,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">a2V5b2Yg</text>
+        <text>.</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -4215,11 +4229,11 @@
       <register name="/" type="4">
         <text>this.</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBjcmVhdGU6ICgpID0+IHt9Cg==</text>
+      <register name="0" type="4">
+        <text>{ [key in SchemaKeys]: ObjectSchema };</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjdHJsLmluZGV4KGN0eCwgbmV4dCk7Cg==</text>
+        <text encoding="base64">ICAgIHQubG9nKGN0eC5yZXF1ZXN0KTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -4233,22 +4247,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlcXVlc3Q6IHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSU1pZGRsZXdhcmUsIElSb3V0ZXJDb250ZXh0IH0gZnJvbSAna29hLXJvdXRlcic7Cg==</text>
+        <text encoding="base64">ICAgIHJlcXVlc3Q6IHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ29udHJvbGxlciB9IGZyb20gJy4uLy4uL3NyYy9jb3JlJzsK</text>
+        <text encoding="base64">ICAgICAgfSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjdHJsZGQK</text>
+        <text encoding="base64">ICAgIHJlcXVlc3Q6IHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0LnBsYW4oMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9KQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4277,10 +4291,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gSWYgd2UgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdC5wYXNzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
