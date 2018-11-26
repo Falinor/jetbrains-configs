@@ -267,12 +267,12 @@
         <mark key="." line="12" column="20" />
         <mark key="^" line="12" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/api/src/demand/router.ts" timestamp="1542906803708">
-        <mark key="'" line="7" column="23" />
-        <mark key="[" line="9" column="47" />
-        <mark key="]" line="9" column="51" />
-        <mark key="." line="9" column="51" />
-        <mark key="^" line="9" column="51" />
+      <file name="$USER_HOME$/dev/banque-casino/api/src/demand/router.ts" timestamp="1543221754216">
+        <mark key="'" line="12" column="23" />
+        <mark key="[" line="9" column="30" />
+        <mark key="]" line="11" column="51" />
+        <mark key="." line="11" column="51" />
+        <mark key="^" line="11" column="51" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/importer/ftp/index.js" timestamp="1526026579490">
         <mark key="[" line="17" column="6" />
@@ -497,6 +497,11 @@
         <mark key="]" line="5" column="31" />
         <mark key="^" line="5" column="31" />
         <mark key="." line="5" column="31" />
+      </file>
+      <file name="$USER_HOME$/dev/banque-casino/api/src/core/config.ts" timestamp="1543221835735">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/dev/factory-cup/api/src/app.js" timestamp="1528729271415">
         <mark key="[" line="27" column="0" />
@@ -1050,7 +1055,6 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/api/node_modules/@types/koa/index.d.ts" timestamp="1542970818264" />
       <file name="$USER_HOME$/dev/UTM/utm-backend/model/src/main/java/com/thales/utm/model/operation/Operation.java" timestamp="1531908702675">
         <mark key="[" line="43" column="62" />
         <mark key="]" line="43" column="87" />
@@ -2391,8 +2395,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PSA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkZWZhdWx0OiBudWxsLAo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -3942,7 +3946,7 @@
   t.is(output.product, 'ppc');</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXIK</text>
+        <text encoding="base64">ICAgICAgICBkZWZhdWx0OiBudWxsLAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3956,22 +3960,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXIK</text>
+        <text encoding="base64">ICAgICAgICAgIGRlZmF1bHQ6IG51bGwsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAxCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGRlZmF1bHQ6IG51bGwsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB0LmlzKGVycm9yZGQpCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB0LmlzKCkK</text>
+        <text encoding="base64">ICAgICAgcmV0dXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBuZXcgRXJyb3IK</text>
+        <text encoding="base64">ICAgIHJldHVybiAxCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0LmlzKG91dHB1dC5wcm9kdWN0LCAncHBjJyk7Cg==</text>
+        <text encoding="base64">ICB0LmlzKGVycm9yZGQpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4000,10 +4004,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB0LnRydXRoeShvdXRwdXQuaWQpOwo=</text>
+        <text encoding="base64">ICB0LmlzKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb3NudCB7IHJlfQo=</text>
+        <text encoding="base64">ICBuZXcgRXJyb3IK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
