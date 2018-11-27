@@ -190,10 +190,11 @@
         <mark key="." line="12" column="20" />
         <mark key="^" line="12" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/api/src/demand/router.ts" timestamp="1543328352019">
+      <file name="$USER_HOME$/dev/banque-casino/api/src/demand/router.ts" timestamp="1543334324874">
         <mark key="'" line="34" column="23" />
-        <mark key="[" line="36" column="26" />
-        <mark key="." line="36" column="18" />
+        <mark key="[" line="36" column="25" />
+        <mark key="]" line="36" column="25" />
+        <mark key="." line="36" column="25" />
       </file>
       <file name="$USER_HOME$/dev/part-edge/importer/ftp/index.js" timestamp="1526026579490">
         <mark key="[" line="17" column="6" />
@@ -556,9 +557,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="13" column="60" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/api/src/demand/models/schema.ts" timestamp="1543327862640">
+      <file name="$USER_HOME$/dev/banque-casino/api/src/demand/models/schema.ts" timestamp="1543334206065">
         <mark key="'" line="0" column="9" />
-        <mark key="[" line="7" column="24" />
+        <mark key="[" line="5" column="25" />
+        <mark key="]" line="5" column="23" />
+        <mark key="." line="5" column="23" />
+        <mark key="^" line="5" column="23" />
       </file>
       <file name="$USER_HOME$/dev/banque-casino/api/.nycrc" timestamp="1541611115308">
         <mark key="[" line="15" column="0" />
@@ -747,11 +751,10 @@
         <mark key="." line="17" column="49" />
         <mark key="^" line="17" column="49" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/api/src/demand/controller.ts" timestamp="1543328748816">
-        <mark key="[" line="12" column="15" />
-        <mark key="]" line="12" column="49" />
-        <mark key="." line="12" column="49" />
-        <mark key="^" line="12" column="49" />
+      <file name="$USER_HOME$/dev/banque-casino/api/src/demand/controller.ts" timestamp="1543334484744">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/dev/UTM/utm-backend/api/src/test/java/com/thales/utm/operations/OperationServiceTest.java" timestamp="1535618749573">
         <mark key="[" line="123" column="0" />
@@ -1526,7 +1529,7 @@
         <mark key="." line="82" column="15" />
         <mark key="^" line="82" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/api/src/demand/models/bca-demand-output.ts" timestamp="1543328892733">
+      <file name="$USER_HOME$/dev/banque-casino/api/src/demand/models/bca-demand-output.ts" timestamp="1543332300026">
         <mark key="[" line="3" column="37" />
         <mark key="]" line="3" column="51" />
         <mark key="^" line="3" column="51" />
@@ -2069,8 +2072,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>BcaDemandOutput</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGN0eC5zZXQoJ0xvY2F0aW9uJywpCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -3597,7 +3600,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>BcaDemandOutput</text>
+        <text encoding="base64">IGNyZWF0ZVZhbGlkYXRvcihkZW1hbmRTY2hlbWFzLmNyZWF0ZSks</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -3612,7 +3615,7 @@
         <text encoding="base64">ICAgICAgYWxsb3dhbmNlc0hvdXNpbmc6IHJhbmRvbS5udW1iZXIoMjAwMCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLi4uZGF0YSwKICAgIH0gYXMgYW55Owo=</text>
+        <text encoding="base64">ICAgIGN0eC5zZXQoJ0xvY2F0aW9uJywpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3625,23 +3628,24 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB7CiAgICAgIC8vIEZJWE1FOiBtYXAgQmNhRGVtYW5kT3V0cHV0IHRvIERlbWFuZAo=</text>
+      <register name="2" type="4">
+        <text>1;
+    ctx.body = loan;</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgcHJvamVjdHMgPSBwcm9qZWN0S2V5czsK</text>
+        <text encoding="base64">ICBib2R5OiBKCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IAo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICBhbW91bnQ6IEpvaS5udW1iZXIoKSwKICAgIGR1cmF0aW9uOiBKb2kubnVtYmVyKCkKICAgICAgLmludGVnZXIoKQogICAgICAubWluKDMpCiAgICAgIC5tYXgoNDgpCiAgICAgIC5yZXF1aXJlZCgpLAogICAgcHJvamVjdDogSm9pLnN0cmluZygpCiAgICAgIC52YWxpZChwcm9qZWN0S2V5cykKICAgICAgLmluc2Vuc2l0aXZlKCkKICAgICAgLnJlcXVpcmVkKCksCiAgfSks</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC4uLmNvbnNvbGUKICB9Owo=</text>
+        <text encoding="base64">ICAgICAgLi4uZGF0YSwKICAgIH0gYXMgYW55Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByZXR1cm4gewogICAgCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiB7CiAgICAgIC8vIEZJWE1FOiBtYXAgQmNhRGVtYW5kT3V0cHV0IHRvIERlbWFuZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBodHRwOiAK</text>
+        <text encoding="base64">Y29uc3QgcHJvamVjdHMgPSBwcm9qZWN0S2V5czsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3669,15 +3673,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text>createHttpClient({
-    token: config.get('bca.token'),
-    pfx: config.get('bca.cert.pfx'),
-    passphrase: config.get('bca.cert.passphrase'),
-  }),</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY3JlYXRlSHR0cENsaWVudCB9IGZyb20gJy4vY29yZS9odHRwJzsK</text>
+        <text encoding="base64">ICAgIC4uLmNvbnNvbGUKICB9Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
