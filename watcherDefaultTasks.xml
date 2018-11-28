@@ -66,9 +66,9 @@
         <option name="checkSyntaxErrors" value="true" />
         <option name="description" />
         <option name="exitCodeBehavior" value="ERROR" />
-        <option name="fileExtension" value="*" />
+        <option name="fileExtension" value="vue" />
         <option name="immediateSync" value="false" />
-        <option name="name" value="Prettier for any file" />
+        <option name="name" value="Prettier for Vue" />
         <option name="output" value="$FilePathRelativeToProjectRoot$" />
         <option name="outputFilters">
           <array />
@@ -102,7 +102,7 @@
         <envs />
       </TaskOptions>
       <TaskOptions>
-        <option name="arguments" value="--write $FilePathRelativeToProjectRoot$" />
+        <option name="arguments" value="--single-quote --trailing-comma=all --write $FilePathRelativeToProjectRoot$" />
         <option name="checkSyntaxErrors" value="true" />
         <option name="description" />
         <option name="exitCodeBehavior" value="ERROR" />

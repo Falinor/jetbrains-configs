@@ -403,6 +403,14 @@
       </Statistic>
     </option>
     <option name="suppressed">
+      <Statistic Action="Actual Size">
+        <Item>
+          <IdeaActionID>Images.Editor.ActualSize</IdeaActionID>
+          <ShortCut>'⌘NumPad /' or '⌘/'</ShortCut>
+          <Description>Actual Size</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Annotate">
         <Item>
           <IdeaActionID>Annotate</IdeaActionID>
