@@ -1876,11 +1876,12 @@
         <mark key="^" line="3" column="42" />
         <mark key="." line="3" column="42" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/api/test/core/container.test.ts" timestamp="1543514792494">
-        <mark key="[" line="4" column="4" />
-        <mark key="]" line="6" column="2" />
-        <mark key="^" line="6" column="2" />
-        <mark key="." line="6" column="2" />
+      <file name="$USER_HOME$/dev/banque-casino/api/test/core/container.test.ts" timestamp="1543574576212">
+        <mark key="'" line="10" column="31" />
+        <mark key="[" line="19" column="34" />
+        <mark key="]" line="20" column="25" />
+        <mark key="^" line="20" column="25" />
+        <mark key="." line="20" column="25" />
       </file>
       <file name="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/shared/components/accordion/accordion.component.scss" timestamp="1536833373445">
         <mark key="[" line="177" column="0" />
@@ -2147,11 +2148,11 @@
         <mark key="." line="20" column="46" />
         <mark key="^" line="22" column="40" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/api/src/core/container.ts" timestamp="1543515042643">
-        <mark key="[" line="4" column="28" />
-        <mark key="]" line="4" column="28" />
-        <mark key="." line="4" column="28" />
-        <mark key="^" line="4" column="28" />
+      <file name="$USER_HOME$/dev/banque-casino/api/src/core/container.ts" timestamp="1543574207077">
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="6" column="25" />
+        <mark key="." line="6" column="25" />
+        <mark key="^" line="6" column="25" />
       </file>
       <file name="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/core/services/authentication.service.spec.ts" timestamp="1535017282717">
         <mark key="[" line="13" column="0" />
@@ -2259,9 +2260,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="1" filename="$USER_HOME$/dev/banque-casino/api/src/simulation/bca-repository.ts" />
-      <jump line="27" column="0" filename="$USER_HOME$/dev/banque-casino/api/src/core/http.ts" />
-      <jump line="11" column="53" filename="$USER_HOME$/dev/banque-casino/api/src/core/http.ts" />
       <jump line="2" column="19" filename="$USER_HOME$/dev/banque-casino/api/src/core/http.ts" />
       <jump line="6" column="49" filename="$USER_HOME$/dev/banque-casino/api/src/core/http.ts" />
       <jump line="9" column="24" filename="$USER_HOME$/dev/banque-casino/api/src/core/http.ts" />
@@ -2359,6 +2357,9 @@
       <jump line="4" column="1" filename="$USER_HOME$/dev/banque-casino/api/integ/error.test.ts" />
       <jump line="7" column="26" filename="$USER_HOME$/dev/banque-casino/api/integ/error.test.ts" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/banque-casino/api/integ/error.test.ts" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/banque-casino/api/test/core/container.test.ts" />
+      <jump line="5" column="49" filename="$USER_HOME$/dev/banque-casino/api/test/core/container.test.ts" />
+      <jump line="10" column="31" filename="$USER_HOME$/dev/banque-casino/api/test/core/container.test.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2655,7 +2656,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">YXNGdW5jdGlvbiA=</text>
+        <text>http</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -4182,7 +4183,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXNGdW5jdGlvbiA=</text>
+        <text>http</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -4197,7 +4198,7 @@
         <text encoding="base64">ICAgICd4LWFwaS1rZXknOiAnZGVmYXVsdDg2N2Y3ZTA4OTJiYjQ3YmM4ZjJlN2UyZjE0MGExYjcwJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb250YWluZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -4211,22 +4212,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb250YWluZXIucmVnCg==</text>
+        <text encoding="base64">ICBjb25zdCBjb250YWluZXIgPSBjcmVhdGVDb250YWluZXIoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb250YWluZXIuCg==</text>
+        <text encoding="base64">ICBjb25zdCBjb250YWluZXIgPSBjcmVhdGVDb250YWluZXIoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb250YWluZXIuCg==</text>
+        <text encoding="base64">ICBjb250YQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlKTsK</text>
+        <text encoding="base64">ICBhbGlhc1RvKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGluamVjdGlvbk1vZGU6ICdQUk9YWScK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4255,13 +4256,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCAK</text>
+        <text encoding="base64">ICAgICAgaW5qZWN0b3I6IGNvbnRhaW5lcjEgPT4gY29udGFpbmVyMQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHR5cGVvZiBQcm9qZWN0KTsK</text>
+        <text encoding="base64">ICB9KQo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -4314,9 +4315,9 @@
         <entry encoding="base64">JzwsJz5zLz0vOi9n</entry>
         <entry encoding="base64">JzwsJz5zL3Nvb24vZnV0dXJlL2c=</entry>
         <entry encoding="base64">JzwsJz5zLzovPzovZw==</entry>
-        <entry>w</entry>
         <entry>q</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
