@@ -718,11 +718,12 @@
         <mark key="." line="8" column="1" />
         <mark key="^" line="8" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/api/test/project/mapper.test.ts" timestamp="1544023941774">
-        <mark key="[" line="22" column="57" />
-        <mark key="]" line="22" column="56" />
-        <mark key="^" line="22" column="56" />
-        <mark key="." line="22" column="56" />
+      <file name="$USER_HOME$/dev/banque-casino/api/test/project/mapper.test.ts" timestamp="1544025820409">
+        <mark key="'" line="14" column="4" />
+        <mark key="[" line="36" column="4" />
+        <mark key="]" line="39" column="1" />
+        <mark key="^" line="39" column="1" />
+        <mark key="." line="39" column="1" />
       </file>
       <file name="$USER_HOME$/dev/tdf/tdf-react-adapter/src/demo/components/Forms.js" timestamp="1534952047292">
         <mark key="[" line="2" column="18" />
@@ -1517,9 +1518,9 @@
         <mark key="." line="7" column="7" />
         <mark key="^" line="8" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/api/src/resources/project/mapper.ts" timestamp="1544023988360">
+      <file name="$USER_HOME$/dev/banque-casino/api/src/resources/project/mapper.ts" timestamp="1544025720823">
         <mark key="'" line="13" column="26" />
-        <mark key="[" line="32" column="28" />
+        <mark key="[" line="21" column="28" />
         <mark key="]" line="32" column="39" />
         <mark key="." line="32" column="39" />
         <mark key="^" line="32" column="39" />
@@ -1927,8 +1928,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="21" filename="$USER_HOME$/dev/banque-casino/api/src/core/container.ts" />
-      <jump line="27" column="27" filename="$USER_HOME$/dev/banque-casino/api/src/core/container.ts" />
       <jump line="22" column="0" filename="$USER_HOME$/dev/banque-casino/api/src/core/container.ts" />
       <jump line="19" column="0" filename="$USER_HOME$/dev/banque-casino/api/src/core/container.ts" />
       <jump line="15" column="32" filename="$USER_HOME$/dev/banque-casino/api/test/core/container.test.ts" />
@@ -2027,6 +2026,8 @@
       <jump line="6" column="0" filename="$USER_HOME$/dev/banque-casino/api/src/resources/project/models/project.ts" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/banque-casino/api/src/resources/project/models/project.ts" />
       <jump line="0" column="17" filename="$USER_HOME$/dev/banque-casino/api/src/resources/project/models/project.ts" />
+      <jump line="28" column="23" filename="$USER_HOME$/dev/banque-casino/api/test/project/mapper.test.ts" />
+      <jump line="14" column="4" filename="$USER_HOME$/dev/banque-casino/api/test/project/mapper.test.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2322,8 +2323,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>internalCode</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIG1heEFtb3VudDogNjAwMDAsCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -3862,40 +3863,46 @@
         <text>: any</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">dGVzdCgnR2l2ZW4gYSBmdWxseSBmZWF0dXJlZCB0ZXN0IHNlcnZlciwgd2hlbiBJIFBPU1QgL3NpbXVsYXRpb25zIHdpdGggYSBjb3JyZWN0IGJvZHksIHRoZW4gaXQgc2hvdWxkIG5vdCByZXNwb25kIDUwMCcsIGFzeW5jIHQgPT4gewogIGNvbnN0IGNvbnRhaW5lciA9IGNyZWF0ZUNvbnRhaW5lcigpOwogIGNvbnRhaW5lci5jb25maWd1cmUoKTsKICBjb25zdCByb3V0ZXIgPSBjcmVhdGVSb3V0ZXIoY29udGFpbmVyLnJlc29sdmUoJ3NpbXVsYXRpb25Sb3V0ZXInKSk7CiAgY29uc3QgYXBwID0gY3JlYXRlVGVzdFNlcnZlcihyb3V0ZXIpOwogIGNvbnN0IHJlcyA9IGF3YWl0IHN1cGVydGVzdChhcHApCiAgICAucG9zdCgnL3YyL3NpbXVsYXRpb25zJykKICAgIC5zZW5kKHsKICAgICAgYW1vdW50OiA1MDAwLAogICAgICBkdXJhdGlvbjogMTIsCiAgICAgIHByb2plY3Q6ICdBbnknLAogICAgfSkKICAgIC5zZXQoJ0FjY2VwdCcsICdhcHBsaWNhdGlvbi9qc29uJykKICAgIC5zZXQoJ0NvbnRlbnQtVHlwZScsICdhcHBsaWNhdGlvbi9qc29uJyk7CiAgdC5pcyh0eXBlb2YgcmVzLCAnb2JqZWN0Jyk7CiAgdC50cnVlKHJlcy5zdGF0dXMgPCA1MDApOwp9KTs=</text>
+        <text>id: 'id',
+    label: 'label',
+    minDuration: 6,
+    maxDuration: 80,
+    minAmount: 500,
+    maxAmount: 60000,
+    internalCode: '5',</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIG1heEFtb3VudDogNjAwMDAsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Cgpjb25zdCBwOiBQcm9qZWN0ID0gewogIGlkOiAnaWQnLAogIGxhYmVsOiAnbGFiZWwnLAogIG1pbkR1cmF0aW9uOiA2LAogIG1heER1cmF0aW9uOiA4MCwKICBtaW5BbW91bnQ6IDUwMCwKICBtYXhBbW91bnQ6IDYwMDAwLAp9Ow==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGludGVybmFsQ29kZTogJzUnLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpbnRlcm5hbENvZGU6ICc1JywK</text>
+        <text encoding="base64">ICB0LmlzKGVudGl0eS5pbnRlcm5hbENvZGUsIHByb2plY3QuKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB0b3RvOiAnMTIzJywK</text>
+        <text encoding="base64">fQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBba2V5OiBzdHJpbmddOiBhbnk7Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">Cgpjb25zdCBwOiBQcm9qZWN0ID0gewogIGlkOiAnaWQnLAogIGxhYmVsOiAnbGFiZWwnLAogIG1pbkR1cmF0aW9uOiA2LAogIG1heER1cmF0aW9uOiA4MCwKICBtaW5BbW91bnQ6IDUwMCwKICBtYXhBbW91bnQ6IDYwMDAwLAp9Ow==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBba2V5OiBzdHJpbmddOiBhbnk7Cg==</text>
+        <text encoding="base64">ICBpbnRlcm5hbENvZGU6ICc1JywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0b3RvOiAnMTIzJwo=</text>
+        <text encoding="base64">ICB0b3RvOiAnMTIzJywK</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpbnRlcm5hbENvZGU6IHN0cmluZzsK</text>
+        <text encoding="base64">ICBba2V5OiBzdHJpbmddOiBhbnk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpbnRlcm5hbENvZGU6IHN0cmluZzsK</text>
+        <text encoding="base64">ICBba2V5OiBzdHJpbmddOiBhbnk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLzogYW55Ly9n</text>
