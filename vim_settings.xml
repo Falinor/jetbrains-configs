@@ -1306,6 +1306,12 @@
         <mark key="^" line="2" column="8" />
         <mark key="." line="2" column="8" />
       </file>
+      <file name="$USER_HOME$/dev/banque-casino/api/integ/project.test.ts" timestamp="1544191026758">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="24" column="3" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/banque-casino/api/test/simulation/models/project.test.ts" timestamp="1543323721872">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="18" />
@@ -2421,7 +2427,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0Lgo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -3973,38 +3979,37 @@
   const dto: ProjectDto = toProjectDto(project);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0Lgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">CnRlc3QoJ0dpdmVuIGEgcHJvamVjdCBEVE8sIHdoZW4gSSBtYXAgdG8gYSBwcm9qZWN0LCB0aGVuIEkgc2hvdWxkIGdldCBhIHByb2plY3QnLCB0ID0+IHsKICBjb25zdCBkdG86IFByb2plY3REdG8gPSB7CiAgICBpZDogJ2lkJywKICAgIGxhYmVsOiAnbGFiZWwnLAogICAgbWluRHVyYXRpb246IDYsCiAgICBtYXhEdXJhdGlvbjogODAsCiAgICBtaW5BbW91bnQ6IDUwMCwKICAgIG1heEFtb3VudDogNjAwMDAsCiAgfTsKICBjb25zdCBwcm9qZWN0OiBQcm9qZWN0ID0gZnJvbVByb2plY3REdG8oZHRvKTsKICB0LmRlZXBFcXVhbChwcm9qZWN0LCBkdG8pOwp9KTs=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGFub3RoZXJBZGRpdGlvbmFsRmllbGQ6ICd0ZXN0JywK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGludGVybmFsQ29kZTogJzUnLAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAncHJvamVjdE1hcHBlcicsCg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY3JlYXRlUHJvamVjdE1hcHBlciB9IGZyb20gJy4uL3Jlc291cmNlcy9wcm9qZWN0L21hcHBlcic7Cg==</text>
+        <text encoding="base64">ICAncHJvamVjdE1hcHBlcicsCg==</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyBAdHMtaWdub3JlCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgY3JlYXRlUHJvamVjdE1hcHBlciB9IGZyb20gJy4uL3Jlc291cmNlcy9wcm9qZWN0L21hcHBlcic7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>qual(dto, project);
-  // @ts-igno</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAvLyBAdHMtaWdub3JlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
