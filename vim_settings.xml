@@ -1477,12 +1477,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="7" column="9" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/api/src/assets/openapi.yml" timestamp="1544434285015">
-        <mark key="'" line="45" column="50" />
-        <mark key="[" line="250" column="28" />
-        <mark key="]" line="238" column="52" />
-        <mark key="." line="238" column="52" />
-        <mark key="^" line="238" column="52" />
+      <file name="$USER_HOME$/dev/banque-casino/api/src/assets/openapi.yml" timestamp="1544436163322">
+        <mark key="'" line="254" column="50" />
+        <mark key="[" line="243" column="25" />
+        <mark key="]" line="243" column="25" />
+        <mark key="." line="243" column="25" />
+        <mark key="^" line="243" column="25" />
       </file>
       <file name="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/shared/models/operation/slotDate.ts" timestamp="1536824615247">
         <mark key="[" line="0" column="0" />
@@ -1827,7 +1827,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="12" filename="$USER_HOME$/dev/banque-casino/api/src/resources/project/models/project-entity.ts" />
       <jump line="26" column="0" filename="$USER_HOME$/dev/banque-casino/api/src/core/base-controller.ts" />
       <jump line="60" column="37" filename="$USER_HOME$/dev/banque-casino/api/src/core/base-controller.ts" />
       <jump line="16" column="2" filename="$USER_HOME$/dev/banque-casino/api/src/core/base-controller.ts" />
@@ -1927,6 +1926,7 @@
       <jump line="5" column="17" filename="$USER_HOME$/dev/banque-casino/api/test/core/error-handler.test.ts" />
       <jump line="7" column="20" filename="$USER_HOME$/dev/banque-casino/api/src/core/middlewares/error-handler.ts" />
       <jump line="45" column="50" filename="$USER_HOME$/dev/banque-casino/api/src/assets/openapi.yml" />
+      <jump line="248" column="50" filename="$USER_HOME$/dev/banque-casino/api/src/assets/openapi.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2223,7 +2223,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgIGxpbmtzOgogICAgICAgIA==</text>
+        <text>:</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -3750,7 +3750,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>error</text>
+        <text>:</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -3761,45 +3761,44 @@
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlbWFuZExvYW46IGFzeW5jICgpID0+ICh7fSkgYXMgRGVtYW5kLAo=</text>
+      <register name="0" type="4">
+        <text>example:
+            name: badrequesterror
+            message: failed validating the request body.
+            statuscode: 400</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAgIGxpbmtzOgogICAgICAgIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBodHRwczovL2h0dHBzdGF0dXNlcy5jb20vNDAwCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRlc2NyaXB0aW9uOiAnQmFkIHJlcXVlc3QgZXJyb3IK</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>'
-          content:
-            application/json:
-              schema:
-                $ref: '#/components/schemas/Error'</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgU2VlIFtIVFRQIDQyOV0oaHR0cHM6Ly9odHRwc3RhdHVzZXMuY29tLzQyOSkuCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHJlZjogJyMvY29tCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAtIG5hbWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY29uc3RhbnRzIH0gZnJvbSAnaHR0cDInOwo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgIGxpbmtzOgogICAgICAgIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY29uc3RhbnRzIH0gZnJvbSAnaHR0cDInOwo=</text>
+        <text encoding="base64">ICAgICAgICBodHRwczovL2h0dHBzdGF0dXNlcy5jb20vNDAwCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
