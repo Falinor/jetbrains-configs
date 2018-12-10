@@ -1477,11 +1477,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="7" column="9" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/api/src/assets/openapi.yml" timestamp="1544395527504">
-        <mark key="[" line="164" column="9" />
-        <mark key="]" line="164" column="14" />
-        <mark key="." line="164" column="14" />
-        <mark key="^" line="164" column="14" />
+      <file name="$USER_HOME$/dev/banque-casino/api/src/assets/openapi.yml" timestamp="1544396859848">
+        <mark key="'" line="45" column="50" />
+        <mark key="[" line="237" column="30" />
+        <mark key="]" line="237" column="29" />
+        <mark key="^" line="237" column="29" />
+        <mark key="." line="237" column="29" />
       </file>
       <file name="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/shared/models/operation/slotDate.ts" timestamp="1536824615247">
         <mark key="[" line="0" column="0" />
@@ -1826,7 +1827,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="$USER_HOME$/dev/banque-casino/api/src/resources/project/models/project-entity.ts" />
       <jump line="3" column="12" filename="$USER_HOME$/dev/banque-casino/api/src/resources/project/models/project-entity.ts" />
       <jump line="26" column="0" filename="$USER_HOME$/dev/banque-casino/api/src/core/base-controller.ts" />
       <jump line="60" column="37" filename="$USER_HOME$/dev/banque-casino/api/src/core/base-controller.ts" />
@@ -1926,6 +1926,7 @@
       <jump line="4" column="0" filename="$USER_HOME$/dev/banque-casino/api/test/core/error-handler.test.ts" />
       <jump line="5" column="17" filename="$USER_HOME$/dev/banque-casino/api/test/core/error-handler.test.ts" />
       <jump line="7" column="20" filename="$USER_HOME$/dev/banque-casino/api/src/core/middlewares/error-handler.ts" />
+      <jump line="45" column="50" filename="$USER_HOME$/dev/banque-casino/api/src/assets/openapi.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2221,8 +2222,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAtIG5hbWUK</text>
+      <register name="&quot;" type="4">
+        <text>error</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -3749,7 +3750,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>error</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -3764,37 +3765,41 @@
         <text encoding="base64">ICAgIGRlbWFuZExvYW46IGFzeW5jICgpID0+ICh7fSkgYXMgRGVtYW5kLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAtIG5hbWUK</text>
+        <text encoding="base64">ICAgICAgICAgIGRlc2NyaXB0aW9uOiAnQmFkIHJlcXVlc3QgZXJyb3IK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY29uc3RhbnRzIH0gZnJvbSAnaHR0cDInOwo=</text>
+      <register name="2" type="4">
+        <text>'
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY29uc3RhbnRzIH0gZnJvbSAnaHR0cDInOwo=</text>
+        <text encoding="base64">ICAgICAgICAtIG5hbWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB0LmxvZyhjdHgpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgY29uc3RhbnRzIH0gZnJvbSAnaHR0cDInOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgY29uc3RhbnRzIH0gZnJvbSAnaHR0cDInOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCBuZXh0ID0K</text>
+        <text encoding="base64">ICB0LmxvZyhjdHgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBlcnJvckhhbmRsZXIuCg==</text>
+        <text encoding="base64">ICBjb25zdCBuZXh0ID0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTWlkZGxld2FyZSB9IGZyb20gJ2tvYSc7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
