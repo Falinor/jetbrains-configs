@@ -1477,12 +1477,13 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="7" column="9" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/api/src/assets/openapi.yml" timestamp="1544436163322">
-        <mark key="'" line="254" column="50" />
-        <mark key="[" line="243" column="25" />
-        <mark key="]" line="243" column="25" />
-        <mark key="." line="243" column="25" />
-        <mark key="^" line="243" column="25" />
+      <file name="$USER_HOME$/dev/banque-casino/api/src/assets/openapi.yml" timestamp="1544438204943">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="0" />
+        <mark key="." line="109" column="0" />
+        <mark key="^" line="71" column="49" />
+        <mark key="n" line="108" column="0" />
       </file>
       <file name="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/shared/models/operation/slotDate.ts" timestamp="1536824615247">
         <mark key="[" line="0" column="0" />
@@ -1827,8 +1828,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="0" filename="$USER_HOME$/dev/banque-casino/api/src/core/base-controller.ts" />
-      <jump line="60" column="37" filename="$USER_HOME$/dev/banque-casino/api/src/core/base-controller.ts" />
       <jump line="16" column="2" filename="$USER_HOME$/dev/banque-casino/api/src/core/base-controller.ts" />
       <jump line="62" column="1" filename="$USER_HOME$/dev/banque-casino/api/src/core/base-controller.ts" />
       <jump line="23" column="7" filename="$USER_HOME$/dev/banque-casino/api/src/core/base-controller.ts" />
@@ -1927,6 +1926,8 @@
       <jump line="7" column="20" filename="$USER_HOME$/dev/banque-casino/api/src/core/middlewares/error-handler.ts" />
       <jump line="45" column="50" filename="$USER_HOME$/dev/banque-casino/api/src/assets/openapi.yml" />
       <jump line="248" column="50" filename="$USER_HOME$/dev/banque-casino/api/src/assets/openapi.yml" />
+      <jump line="55" column="59" filename="$USER_HOME$/dev/banque-casino/api/src/assets/openapi.yml" />
+      <jump line="54" column="0" filename="$USER_HOME$/dev/banque-casino/api/src/assets/openapi.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2222,8 +2223,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA1MDA6CiAgICAgICAgICAkcmVmOiAnIy9jb21wb25lbnRzL3Jlc3BvbnNlcy9JbnRlcm5hbFNlcnZlckVycm9yJwo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -3768,37 +3769,37 @@
             statuscode: 400</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICA1MDA6CiAgICAgICAgICAkcmVmOiAnIy9jb21wb25lbnRzL3Jlc3BvbnNlcy9JbnRlcm5hbFNlcnZlckVycm9yJwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICA1MDA6CiAgICAgICAgICAkcmVmOiAnIy9jb21wb25lbnRzL3Jlc3BvbnNlcy9JbnRlcm5hbFNlcnZlckVycm9yJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICA1MDA6CiAgICAgICAgICAkcmVmOiAnIy9jb21wb25lbnRzL3Jlc3BvbnNlcy9JbnRlcm5hbFNlcnZlckVycm9yJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgU2VlIFtIVFRQIDQyOV0oaHR0cHM6Ly9odHRwc3RhdHVzZXMuY29tLzQyOSkuCg==</text>
+        <text encoding="base64">ICAgICAgICA0MjI6CiAgICAgICAgICAkcmVmOiAnIy9jb21wb25lbnRzL3Jlc3BvbnNlcy9VbnByb2Nlc3NhYmxlRW50aXR5Jwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJlZjogJyMvY29tCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgIGxpbmtzOgogICAgICAgIA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgU2VlIFtIVFRQIDQyOV0oaHR0cHM6Ly9odHRwc3RhdHVzZXMuY29tLzQyOSkuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBodHRwczovL2h0dHBzdGF0dXNlcy5jb20vNDAwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHJlZjogJyMvY29tCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
