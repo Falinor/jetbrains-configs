@@ -196,11 +196,11 @@
         <mark key="." line="14" column="6" />
         <mark key="^" line="14" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/api-demo-client/components/customer-form.vue" timestamp="1544520364867">
-        <mark key="[" line="21" column="9" />
-        <mark key="]" line="21" column="20" />
-        <mark key="." line="21" column="20" />
-        <mark key="^" line="21" column="20" />
+      <file name="$USER_HOME$/dev/banque-casino/api-demo-client/components/customer-form.vue" timestamp="1544524921528">
+        <mark key="[" line="21" column="14" />
+        <mark key="]" line="21" column="14" />
+        <mark key="^" line="21" column="14" />
+        <mark key="." line="21" column="14" />
       </file>
       <file name="$USER_HOME$/dev/UTM/utm-backend/api/src/test/java/com/thales/utm/operations/countries/fra/OperationFRAMapperTest.java" timestamp="1535123154439">
         <mark key="[" line="30" column="48" />
@@ -395,11 +395,10 @@
         <mark key="^" line="1" column="22" />
         <mark key="." line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/api-demo-client/pages/index.vue" timestamp="1544519716682">
-        <mark key="[" line="31" column="30" />
-        <mark key="]" line="31" column="31" />
-        <mark key="^" line="31" column="31" />
-        <mark key="." line="31" column="31" />
+      <file name="$USER_HOME$/dev/banque-casino/api-demo-client/pages/index.vue" timestamp="1544524014661">
+        <mark key="[" line="97" column="16" />
+        <mark key="]" line="97" column="16" />
+        <mark key="." line="97" column="16" />
       </file>
       <file name="$USER_HOME$/dev/UTM/utm-backend/api/src/test/java/com/thales/utm/config/MapperConfigTest.java" timestamp="1535123055957">
         <mark key="[" line="11" column="48" />
@@ -847,6 +846,9 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="77" />
       </file>
+      <file name="$USER_HOME$/dev/banque-casino/api-demo-client/.prettierrc" timestamp="1544524510518">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/factory-cup/api/test/unit/citadel.test.js" timestamp="1526545428668">
         <mark key="[" line="38" column="9" />
         <mark key="]" line="43" column="15" />
@@ -1221,11 +1223,12 @@
         <mark key="^" line="17" column="49" />
         <mark key="." line="9" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/api-demo-client/pages/demand/new.vue" timestamp="1544520341713">
-        <mark key="[" line="37" column="24" />
-        <mark key="]" line="37" column="25" />
-        <mark key="." line="37" column="25" />
-        <mark key="^" line="37" column="25" />
+      <file name="$USER_HOME$/dev/banque-casino/api-demo-client/pages/demand/new.vue" timestamp="1544525547203">
+        <mark key="'" line="101" column="4" />
+        <mark key="[" line="111" column="2" />
+        <mark key="]" line="113" column="4" />
+        <mark key="." line="111" column="2" />
+        <mark key="^" line="111" column="1" />
       </file>
       <file name="$USER_HOME$/dev/factory-cup/client/src/components/events/MatchPrediction.js" timestamp="1528619353004">
         <mark key="[" line="162" column="35" />
@@ -1346,6 +1349,11 @@
         <mark key="]" line="30" column="29" />
         <mark key="." line="30" column="29" />
         <mark key="^" line="30" column="29" />
+      </file>
+      <file name="$USER_HOME$/dev/banque-casino/api-demo-client/.eslintrc.js" timestamp="1544524660007">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/dev/banque-casino/api/src/simulation/models/schema.ts" timestamp="1543930837713">
         <mark key="[" line="22" column="20" />
@@ -1819,7 +1827,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/dev/banque-casino/api/test/project/mock-repository.test.ts" />
       <jump line="5" column="2" filename="$USER_HOME$/dev/banque-casino/api/src/resources/project/mock-repository.ts" />
       <jump line="22" column="9" filename="$USER_HOME$/dev/banque-casino/api/src/resources/project/mock-repository.ts" />
       <jump line="9" column="0" filename="$USER_HOME$/dev/banque-casino/api/test/project/mock-repository.test.ts" />
@@ -1919,6 +1926,7 @@
       <jump line="26" column="0" filename="$USER_HOME$/dev/banque-casino/api-demo-client/components/simulation-form.vue" />
       <jump line="33" column="14" filename="$USER_HOME$/dev/banque-casino/api-demo-client/pages/index.vue" />
       <jump line="34" column="8" filename="$USER_HOME$/dev/banque-casino/api-demo-client/components/simulation-form.vue" />
+      <jump line="101" column="4" filename="$USER_HOME$/dev/banque-casino/api-demo-client/pages/demand/new.vue" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2215,7 +2223,9 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>form</text>
+        <text>async created() {
+    return this.$store.dispatch('initProjects');
+  },</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -3742,7 +3752,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>form</text>
+        <text>d</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -3754,40 +3764,42 @@
         <text>projects</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vIEB0cy1pZ25vcmUK</text>
+        <text encoding="base64">ICAgIDx2LWZsZXggeHMxMiBtZD4K</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">PCEtLSBBbW91bnQgLS0+CiAgICAgICAgICA8di10ZXh0LWZpZWxkCiAgICAgICAgICAgIDp2YWx1ZT0iYW1vdW50IgogICAgICAgICAgICBsYWJlbD0iTW9udGFudCIKICAgICAgICAgICAgcmVxdWlyZWQKICAgICAgICAgICAgQGlucHV0PSJ1cGRhdGVBbW91bnQiCiAgICAgICAgICAvPgogICAgICAgICAgPCEtLSBEdXJhdGlvbiAtLT4KICAgICAgICAgIDx2LXRleHQtZmllbGQKICAgICAgICAgICAgOnZhbHVlPSJkdXJhdGlvbiIKICAgICAgICAgICAgbGFiZWw9IkR1csOpZSIKICAgICAgICAgICAgcmVxdWlyZWQKICAgICAgICAgICAgQGlucHV0PSJ1cGRhdGVEdXJhdGlvbiIKICAgICAgICAgIC8+CiAgICAgICAgICA8IS0tIFByb2plY3QgLS0+CiAgICAgICAgICA8di1zZWxlY3QKICAgICAgICAgICAgOml0ZW1zPSJwcm9qZWN0cyIKICAgICAgICAgICAgaXRlbS10ZXh0PSJsYWJlbCIKICAgICAgICAgICAgaXRlbS12YWx1ZT0iaWQiCiAgICAgICAgICAgIGhpbnQ9IkQnYXV0cmVzIHByb2pldHMgc29udCBkaXNwb25pYmxlcyBwbHVzIGJhcyBkYW5zIGxhIGxpc3RlIgogICAgICAgICAgICBsYWJlbD0iUXVlbCBlc3Qgdm90cmUgcHJvamV0ID8iCiAgICAgICAgICAgIEBpbnB1dD0idXBkYXRlUHJvamVjdCIvPg==</text>
+        <text>async created() {
+    return this.$store.dispatch('initProjects');
+  },</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC4uLm1hCg==</text>
+        <text encoding="base64">ICAgICdwbHVnaW46cHJldHRpZXIvcmVjb21tZW5kZWQnLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8L3NwYW4+Cg==</text>
+        <text encoding="base64">ICAgIHNpbmdsZXF1b3RlLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA8c3Bhbj4K</text>
+        <text encoding="base64">ICAgIHByZXR0aWVyOiAnJywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA8di1jb250YWluZXI+Cg==</text>
+        <text encoding="base64">aW1wb3J0IEN1c3RvbWVyRm9ybSBmcm9tICcuLi9jb21wb25lbnRzL2N1c3RvbWVyLWZvcm0nOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOnZhbHVlPSJwcm9qZWN0Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLi4ucGF5bG9hZCwK</text>
+      <register name="8" type="4">
+        <text encoding="base64">PCEtLSBBbW91bnQgLS0+CiAgICAgICAgICA8di10ZXh0LWZpZWxkCiAgICAgICAgICAgIDp2YWx1ZT0iYW1vdW50IgogICAgICAgICAgICBsYWJlbD0iTW9udGFudCIKICAgICAgICAgICAgcmVxdWlyZWQKICAgICAgICAgICAgQGlucHV0PSJ1cGRhdGVBbW91bnQiCiAgICAgICAgICAvPgogICAgICAgICAgPCEtLSBEdXJhdGlvbiAtLT4KICAgICAgICAgIDx2LXRleHQtZmllbGQKICAgICAgICAgICAgOnZhbHVlPSJkdXJhdGlvbiIKICAgICAgICAgICAgbGFiZWw9IkR1csOpZSIKICAgICAgICAgICAgcmVxdWlyZWQKICAgICAgICAgICAgQGlucHV0PSJ1cGRhdGVEdXJhdGlvbiIKICAgICAgICAgIC8+CiAgICAgICAgICA8IS0tIFByb2plY3QgLS0+CiAgICAgICAgICA8di1zZWxlY3QKICAgICAgICAgICAgOml0ZW1zPSJwcm9qZWN0cyIKICAgICAgICAgICAgaXRlbS10ZXh0PSJsYWJlbCIKICAgICAgICAgICAgaXRlbS12YWx1ZT0iaWQiCiAgICAgICAgICAgIGhpbnQ9IkQnYXV0cmVzIHByb2pldHMgc29udCBkaXNwb25pYmxlcyBwbHVzIGJhcyBkYW5zIGxhIGxpc3RlIgogICAgICAgICAgICBsYWJlbD0iUXVlbCBlc3Qgdm90cmUgcHJvamV0ID8iCiAgICAgICAgICAgIEBpbnB1dD0idXBkYXRlUHJvamVjdCIvPg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvamVjdDogJ3RvdG8nLAo=</text>
+        <text encoding="base64">ICAgIC4uLm1hCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
