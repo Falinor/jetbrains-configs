@@ -12,5 +12,16 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="material-components-web" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_material-components-web@latest_dist_material-components-web.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_material-components-web@latest_dist_material-components-web.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
   </component>
 </application>
