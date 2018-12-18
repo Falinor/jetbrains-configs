@@ -822,11 +822,6 @@
         <mark key="^" line="12" column="68" />
         <mark key="." line="12" column="68" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/public/styles/_colors.scss" timestamp="1545135842590">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/UTM/utm-backend/api/src/main/java/com/thales/utm/services/CaptchaServiceImpl.java" timestamp="1535452030464">
         <mark key="[" line="25" column="69" />
         <mark key="]" line="25" column="101" />
@@ -1058,11 +1053,11 @@
         <mark key="." line="85" column="0" />
         <mark key="^" line="32" column="43" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/developer-portal/package.json" timestamp="1545143853421">
-        <mark key="[" line="10" column="67" />
-        <mark key="]" line="11" column="33" />
-        <mark key="." line="11" column="33" />
-        <mark key="^" line="11" column="33" />
+      <file name="$USER_HOME$/dev/banque-casino/developer-portal/package.json" timestamp="1545167188488">
+        <mark key="[" line="9" column="113" />
+        <mark key="]" line="9" column="113" />
+        <mark key="." line="9" column="113" />
+        <mark key="^" line="9" column="35" />
       </file>
       <file name="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/feature/authority/services/operation-query.ts" timestamp="1532417369977">
         <mark key="[" line="2" column="2" />
@@ -1621,12 +1616,12 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="20" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/core/router.js" timestamp="1545153831291">
+      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/core/router.js" timestamp="1545168094029">
         <mark key="'" line="0" column="43" />
-        <mark key="[" line="16" column="23" />
-        <mark key="]" line="16" column="23" />
-        <mark key="." line="16" column="23" />
-        <mark key="^" line="37" column="51" />
+        <mark key="[" line="19" column="49" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="27" column="0" />
       </file>
       <file name="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/core/services/operation.service.ts" timestamp="1536827259731">
         <mark key="[" line="27" column="0" />
@@ -1829,11 +1824,11 @@
         <mark key="^" line="3" column="14" />
         <mark key="." line="3" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/index.js" timestamp="1545154020159">
+      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/index.js" timestamp="1545167682945">
         <mark key="'" line="16" column="19" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="68" />
-        <mark key="." line="3" column="0" />
+        <mark key="[" line="13" column="38" />
+        <mark key="]" line="13" column="38" />
+        <mark key="." line="13" column="38" />
         <mark key="^" line="1" column="27" />
       </file>
       <file name="$USER_HOME$/dev/UTM/utm-backend/api/src/test/java/com/thales/utm/operations/OperationRepositoryTest.java" timestamp="1535124971281">
@@ -1919,6 +1914,13 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/scss/pages/_docs.scss" timestamp="1545168155867">
+        <mark key="'" line="2" column="38" />
+        <mark key="[" line="23" column="3" />
+        <mark key="]" line="22" column="37" />
+        <mark key="^" line="22" column="37" />
+        <mark key="." line="22" column="37" />
       </file>
       <file name="$USER_HOME$/dev/banque-casino/api/src/demand/models/demand-input.ts" timestamp="1543328588741">
         <mark key="[" line="10" column="21" />
@@ -2080,7 +2082,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="17" filename="$USER_HOME$/dev/banque-casino/api/test/core/error-handler.test.ts" />
       <jump line="7" column="20" filename="$USER_HOME$/dev/banque-casino/api/src/core/middlewares/error-handler.ts" />
       <jump line="45" column="50" filename="$USER_HOME$/dev/banque-casino/api/src/assets/openapi.yml" />
       <jump line="248" column="50" filename="$USER_HOME$/dev/banque-casino/api/src/assets/openapi.yml" />
@@ -2180,6 +2181,7 @@
       <jump line="40" column="20" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/core/router.js" />
       <jump line="0" column="43" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/core/router.js" />
       <jump line="5" column="0" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/public/styles/index.scss" />
+      <jump line="2" column="38" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/scss/pages/_docs.scss" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2475,8 +2477,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>-</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -4003,7 +4005,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHsgd2hvOiAnd29ybGQnIA==</text>
+        <text>-</text>
       </register>
       <register name="m" type="4">
         <keys>
