@@ -1334,8 +1334,11 @@
         <mark key="." line="147" column="0" />
         <mark key="^" line="146" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/public/partials/navbar.pug" timestamp="1545042708388">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/public/partials/navbar.pug" timestamp="1545122027294">
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="5" />
+        <mark key="." line="4" column="5" />
+        <mark key="^" line="4" column="5" />
       </file>
       <file name="$USER_HOME$/dev/factory-cup/client/src/components/events/MatchPrediction.js" timestamp="1528619353004">
         <mark key="[" line="162" column="35" />
@@ -1997,7 +2000,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="0" filename="$USER_HOME$/dev/banque-casino/api/test/simulation/models/schema.test.ts" />
       <jump line="5" column="16" filename="$USER_HOME$/dev/banque-casino/api/src/resources/simulation/models/simulation-input.ts" />
       <jump line="7" column="10" filename="$USER_HOME$/dev/banque-casino/api/src/resources/simulation/models/simulation.ts" />
       <jump line="14" column="4" filename="$USER_HOME$/dev/banque-casino/api/src/resources/simulation/models/simulation.ts" />
@@ -2097,6 +2099,7 @@
       <jump line="7" column="11" filename="$USER_HOME$/dev/banque-casino/developer-portal/.gitignore" />
       <jump line="73" column="0" filename="$USER_HOME$/dev/banque-casino/developer-portal/.gitignore" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/banque-casino/developer-portal/.gitignore" />
+      <jump line="7" column="8" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/public/partials/navbar.pug" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2392,8 +2395,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>~</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -3920,7 +3923,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>~</text>
+        <text encoding="base64">PC8=</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -3935,30 +3938,28 @@
         <text>s</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByZWZpeAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByZWZpeDogJy9zdHlsZXMnLAo=</text>
+        <text encoding="base64">PC9oZWFkZXI+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByZWZpeDogJy9zdHlsZXMnLAo=</text>
+        <text encoding="base64">PC9zZWN0aW9uPgo8L2Rpdj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">PHNwYW4gY2xhc3M9Im1kYy10b3AtYXBwLWJhcl9fdGl0bGUiPlRpdGxlPC9zcGFuPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZGVzdDogcGF0aC5qb2luKF9fZGlybmFtZSwgJ3B1YmxpYycsICdzdHlsZXMnLCAnY3NzJyksCg==</text>
+        <text encoding="base64">ICAgIHByZWZpeAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobWlkZGxld2FyZSk7Cg==</text>
+        <text encoding="base64">ICAgIHByZWZpeDogJy9zdHlsZXMnLAo=</text>
       </register>
-      <register name="7" type="4">
-        <text>createPugRenderer({
-      viewPath: path.join(__dirname, 'public', 'pages'),
-    }),</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByZWZpeDogJy9zdHlsZXMnLAo=</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
@@ -3967,7 +3968,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBtZGMuYXV0b0luaXQoKTsK</text>
+        <text encoding="base64">ICAgICAgZGVzdDogcGF0aC5qb2luKF9fZGlybmFtZSwgJ3B1YmxpYycsICdzdHlsZXMnLCAnY3NzJyksCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
