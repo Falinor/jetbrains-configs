@@ -41,12 +41,12 @@
       <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/public/pages/docs/getting-started.md" timestamp="1545153954081">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/api-management/gateway/apps/sample-api-1.json" timestamp="1545846369039">
+      <file name="$USER_HOME$/dev/banque-casino/api-management/gateway/apps/sample-api-1.json" timestamp="1545858154995">
         <mark key="'" line="44" column="6" />
-        <mark key="[" line="34" column="7" />
-        <mark key="]" line="34" column="16" />
-        <mark key="^" line="34" column="16" />
-        <mark key="." line="34" column="16" />
+        <mark key="[" line="54" column="27" />
+        <mark key="]" line="54" column="44" />
+        <mark key="^" line="54" column="44" />
+        <mark key="." line="54" column="44" />
       </file>
       <file name="$USER_HOME$/dev/banque-casino/api/test/simulation/models/schema.test.ts" timestamp="1544260846097">
         <mark key="'" line="32" column="0" />
@@ -811,7 +811,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>TokenCreated</text>
+        <text>onKeyCreated</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2338,7 +2338,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>TokenCreated</text>
+        <text>onKeyCreated</text>
       </register>
       <register name="m" type="4">
         <keys>
