@@ -41,12 +41,12 @@
       <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/public/pages/docs/getting-started.md" timestamp="1545153954081">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/api-management/gateway/apps/sample-api-1.json" timestamp="1545858154995">
-        <mark key="'" line="44" column="6" />
-        <mark key="[" line="54" column="27" />
-        <mark key="]" line="54" column="44" />
-        <mark key="^" line="54" column="44" />
-        <mark key="." line="54" column="44" />
+      <file name="$USER_HOME$/dev/banque-casino/api-management/gateway/apps/sample-api-1.json" timestamp="1545859866182">
+        <mark key="'" line="55" column="6" />
+        <mark key="[" line="14" column="21" />
+        <mark key="]" line="15" column="25" />
+        <mark key="^" line="15" column="25" />
+        <mark key="." line="15" column="25" />
       </file>
       <file name="$USER_HOME$/dev/banque-casino/api/test/simulation/models/schema.test.ts" timestamp="1544260846097">
         <mark key="'" line="32" column="0" />
@@ -810,8 +810,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>onKeyCreated</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgImF1dGhvcml6YXRpb25fY29kZSIsCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2338,7 +2338,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>onKeyCreated</text>
+        <text>true</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2359,25 +2359,25 @@
         }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgImF1dGhvcml6YXRpb25fY29kZSIsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCBzY29wZSA9ICdyZWFkOnByb2plY3RzIHJlYWQ6ZGVtYW5kcyB3cml0ZTpkZW1hbmRzIHdyaXRlOnNpbXVsYXRpb25zJzsK</text>
+        <text encoding="base64">ICAgICAgImNvZGUiLAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyBSZXRyaWV2ZSBzY29wZXMgZnJvbSBtZW1vcnkuCg==</text>
+        <text encoding="base64">ICBjb25zdCBzY29wZSA9ICdyZWFkOnByb2plY3RzIHJlYWQ6ZGVtYW5kcyB3cml0ZTpkZW1hbmRzIHdyaXRlOnNpbXVsYXRpb25zJzsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IERFTUFORF9TQ09QRV9WQUxVRVM6IHN0cmluZ1tdID0gT2JqZWN0LnZhbHVlcyhEZW1hbmRTY29wZXMpOwpjb25zb2xlLmxvZyhERU1BTkRfU0NPUEVfVkFMVUVTKTsK</text>
+        <text encoding="base64">ICAvLyBSZXRyaWV2ZSBzY29wZXMgZnJvbSBtZW1vcnkuCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -2385,11 +2385,11 @@
       <register name="w" type="4">
         <text>ww</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CmV4cG9ydCBjb25zdCBTSU1VTEFUSU9OX1NDT1BFX1ZBTFVFUzogU2ltdWxhdGlvblNjb3Blc1tdID0gT2JqZWN0LnZhbHVlcygKICBTaW11bGF0aW9uU2NvcGVzCik7</text>
+      <register name="8" type="2">
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IERFTUFORF9TQ09QRV9WQUxVRVM6IHN0cmluZ1tdID0gT2JqZWN0LnZhbHVlcyhEZW1hbmRTY29wZXMpOwpjb25zb2xlLmxvZyhERU1BTkRfU0NPUEVfVkFMVUVTKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCBzY29wZTogc3RyaW5nID0gWwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
