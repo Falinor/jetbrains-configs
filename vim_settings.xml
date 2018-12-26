@@ -41,6 +41,13 @@
       <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/public/pages/docs/getting-started.md" timestamp="1545153954081">
         <mark key="[" line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/banque-casino/api-management/gateway/apps/sample-api-1.json" timestamp="1545846369039">
+        <mark key="'" line="44" column="6" />
+        <mark key="[" line="34" column="7" />
+        <mark key="]" line="34" column="16" />
+        <mark key="^" line="34" column="16" />
+        <mark key="." line="34" column="16" />
+      </file>
       <file name="$USER_HOME$/dev/banque-casino/api/test/simulation/models/schema.test.ts" timestamp="1544260846097">
         <mark key="'" line="32" column="0" />
         <mark key="[" line="20" column="0" />
@@ -117,6 +124,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/banque-casino/api-management/gateway/event_handlers/on-key-created.js" timestamp="1545845633622">
+        <mark key="[" line="11" column="5" />
+        <mark key="]" line="11" column="4" />
+        <mark key="^" line="11" column="4" />
+        <mark key="." line="11" column="4" />
       </file>
       <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/pages/home.pug" timestamp="1544808523914">
         <mark key="[" line="0" column="0" />
@@ -209,7 +222,6 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="11" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/api/integ/project.test.ts" timestamp="1545829928080" />
       <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/views/layout/navbar.pug" timestamp="1545217689752">
         <mark key="[" line="11" column="17" />
         <mark key="]" line="11" column="16" />
@@ -317,6 +329,12 @@
         <mark key="^" line="16" column="66" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/banque-casino/api-management/gateway/Dockerfile.web" timestamp="1545845914162">
+        <mark key="[" line="38" column="33" />
+        <mark key="]" line="39" column="52" />
+        <mark key="." line="39" column="52" />
+        <mark key="^" line="39" column="52" />
+      </file>
       <file name="$USER_HOME$/dev/banque-casino/api/src/core/middlewares/scope.ts" timestamp="1545834948620">
         <mark key="'" line="20" column="2" />
         <mark key="[" line="26" column="6" />
@@ -397,8 +415,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="1" filename="$USER_HOME$/dev/banque-casino/api-demo-client/components/simulation-form.vue" />
-      <jump line="25" column="8" filename="$USER_HOME$/dev/banque-casino/api-demo-client/components/simulation-form.vue" />
       <jump line="26" column="0" filename="$USER_HOME$/dev/banque-casino/api-demo-client/components/simulation-form.vue" />
       <jump line="33" column="14" filename="$USER_HOME$/dev/banque-casino/api-demo-client/pages/index.vue" />
       <jump line="34" column="8" filename="$USER_HOME$/dev/banque-casino/api-demo-client/components/simulation-form.vue" />
@@ -497,6 +513,8 @@
       <jump line="63" column="22" filename="$USER_HOME$/dev/banque-casino/api/test/core/container.test.ts" />
       <jump line="33" column="0" filename="$USER_HOME$/dev/banque-casino/api/test/core/scope.test.ts" />
       <jump line="17" column="2" filename="$USER_HOME$/dev/banque-casino/api/src/core/middlewares/scope.ts" />
+      <jump line="31" column="6" filename="$USER_HOME$/dev/banque-casino/api-management/gateway/apps/sample-api-1.json" />
+      <jump line="35" column="6" filename="$USER_HOME$/dev/banque-casino/api-management/gateway/apps/sample-api-1.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -793,7 +811,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">bGluZSA=</text>
+        <text>TokenCreated</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2320,7 +2338,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bGluZSA=</text>
+        <text>TokenCreated</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2331,8 +2349,14 @@
       <register name="/" type="4">
         <text>fs</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ29udGV4dCwgTWlkZGxld2FyZSB9IGZyb20gJ2tvYSc7Cg==</text>
+      <register name="0" type="4">
+        <text>{
+          &quot;handler_name&quot;: &quot;onKeyCreated&quot;,
+          &quot;handler_meta&quot;: {
+            &quot;name&quot;: &quot;onKeyCreated&quot;,
+            &quot;path&quot;: &quot;event_handlers/on-key-created.js&quot;
+          }
+        }</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -2368,7 +2392,7 @@
         <text encoding="base64">ICBjb25zdCBzY29wZTogc3RyaW5nID0gWwo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLyIvJy9n</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -2421,9 +2445,9 @@
         <entry encoding="base64">JzwsJz5zL1Byb2plY3QvT2xkUHJvamVjdC9n</entry>
         <entry encoding="base64">JzwsJz5zLyIoLiopIjovJDEvZw==</entry>
         <entry encoding="base64">JzwsJz5zLyIvL2c=</entry>
-        <entry>wq</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
+        <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
