@@ -89,12 +89,12 @@
         <mark key="." line="27" column="40" />
         <mark key="^" line="27" column="40" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/services/dashboard.js" timestamp="1545926126849">
+      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/services/dashboard.js" timestamp="1545926818120">
         <mark key="'" line="0" column="27" />
-        <mark key="[" line="8" column="27" />
-        <mark key="]" line="8" column="27" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
         <mark key="^" line="8" column="21" />
-        <mark key="." line="8" column="27" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/routes/docs.js" timestamp="1545170967995">
         <mark key="'" line="4" column="1" />
@@ -233,12 +233,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/index.js" timestamp="1545925870809">
+      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/index.js" timestamp="1545941056403">
         <mark key="'" line="10" column="42" />
         <mark key="[" line="11" column="13" />
-        <mark key="]" line="11" column="12" />
-        <mark key="." line="11" column="12" />
-        <mark key="^" line="11" column="12" />
+        <mark key="]" line="11" column="30" />
+        <mark key="." line="11" column="30" />
+        <mark key="^" line="11" column="30" />
       </file>
       <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/views/pages/contact.pug" timestamp="1545916565148">
         <mark key="[" line="3" column="0" />
@@ -426,7 +426,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="26" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/developer-portal/package.json" timestamp="1545214783928">
+      <file name="$USER_HOME$/dev/banque-casino/developer-portal/package.json" timestamp="1545927144749">
         <mark key="[" line="9" column="113" />
         <mark key="]" line="9" column="113" />
         <mark key="." line="9" column="113" />
@@ -839,7 +839,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>`</text>
+        <text>ac21af98fd53402bdw050a555e66750b22b</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2366,7 +2366,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text>ac21af98fd53402bdw050a555e66750b22b</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2381,18 +2381,24 @@
         <text encoding="base64">ICAgIEBpbmNsdWRlIG1kYy10eXBvZ3JhcGh5KGJvZHkxKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGRhdGE7Cg==</text>
+        <text encoding="base64">ICAgIGFwaUtleTogJycsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgeyBjcmVhdGVEYXNoYm9hcmRTZXJ2aWNlIH0gPSByZXF1aXJlKCcuL3NlcnZpY2VzL2Rhc2hib2FyZCcpLmNyZWF0ZURhc2hib2FyZFNlcnZpY2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXRhKTsK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIGRhdGE7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Y29uc3QgeyBjcmVhdGVEYXNoYm9hcmRTZXJ2aWNlIH0gPSByZXF1aXJlKCcuL3NlcnZpY2VzL2Rhc2hib2FyZCcpLmNyZWF0ZURhc2hib2FyZFNlcnZpY2U7Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICBjb25zdCBodHRwID0gCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>axios.create({
     baseURL,
     headers: {
@@ -2400,23 +2406,17 @@
     },
   });</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGFzeW5jIGdldERldmVsb3BlckJ5RW1haWwoZW1haWwpIHt9LAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhKGhyZWY9Jy8nKQo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBoMyBVbiBwcm9ibMOobWUgPwo=</text>
+        <text encoding="base64">ICAgIGFzeW5jIGdldERldmVsb3BlckJ5RW1haWwoZW1haWwpIHt9LAo=</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBhKGhyZWY9Jy8nKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBoMyBVbiBwcm9ibMOobWUgPwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
