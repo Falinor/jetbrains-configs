@@ -89,6 +89,13 @@
         <mark key="." line="27" column="40" />
         <mark key="^" line="27" column="40" />
       </file>
+      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/services/dashboard.js" timestamp="1545868958090">
+        <mark key="'" line="0" column="27" />
+        <mark key="[" line="18" column="4" />
+        <mark key="]" line="18" column="4" />
+        <mark key="^" line="17" column="28" />
+        <mark key="." line="18" column="4" />
+      </file>
       <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/routes/docs.js" timestamp="1545170967995">
         <mark key="'" line="4" column="1" />
         <mark key="[" line="3" column="5" />
@@ -421,8 +428,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="0" filename="$USER_HOME$/dev/banque-casino/api-demo-client/components/simulation-form.vue" />
-      <jump line="33" column="14" filename="$USER_HOME$/dev/banque-casino/api-demo-client/pages/index.vue" />
       <jump line="34" column="8" filename="$USER_HOME$/dev/banque-casino/api-demo-client/components/simulation-form.vue" />
       <jump line="101" column="4" filename="$USER_HOME$/dev/banque-casino/api-demo-client/pages/demand/new.vue" />
       <jump line="3" column="44" filename="$USER_HOME$/dev/banque-casino/api/src/resources/simulation/domain/domain.ts" />
@@ -521,6 +526,8 @@
       <jump line="17" column="2" filename="$USER_HOME$/dev/banque-casino/api/src/core/middlewares/scope.ts" />
       <jump line="31" column="6" filename="$USER_HOME$/dev/banque-casino/api-management/gateway/apps/sample-api-1.json" />
       <jump line="35" column="6" filename="$USER_HOME$/dev/banque-casino/api-management/gateway/apps/sample-api-1.json" />
+      <jump line="2" column="44" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/services/dashboard.js" />
+      <jump line="0" column="27" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/services/dashboard.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -816,8 +823,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>fin</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2344,7 +2351,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>8080</text>
+        <text>fin</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2365,25 +2372,25 @@
         }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICAgICAgIktleUV4cGlyZWQiOiBbCiAgICAgICAgewogICAgICAgICAgImhhbmRsZXJfbmFtZSI6ICJlaF9keW5hbWljX2hhbmRsZXIiLAogICAgICAgICAgImhhbmRsZXJfbWV0YSI6IHsKICAgICAgICAgICAgIm5hbWUiOiAib25LZXlDcmVhdGVkIiwKICAgICAgICAgICAgInBhdGgiOiAiZXZlbnRfaGFuZGxlcnMvb24ta2V5LWNyZWF0ZWQuanMiCiAgICAgICAgICB9CiAgICAgICAgfQogICAgICBdLA==</text>
+        <text encoding="base64">CmNvbnN0IGh0dHAgPSBheGlvcy5jcmVhdGUoewogIAp9KQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgImF1dGhvcml6YXRpb25fY29kZSIsCg==</text>
+        <text encoding="base64">YXhpb3MuY3JlYXRlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgImNvZGUiLAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBjb25zdHJ1Y3RvcigpCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCBzY29wZSA9ICdyZWFkOnByb2plY3RzIHJlYWQ6ZGVtYW5kcyB3cml0ZTpkZW1hbmRzIHdyaXRlOnNpbXVsYXRpb25zJzsK</text>
+        <text encoding="base64">ZnVuY3Rpb24gY3JlYXRlRGFzaGJvYXJkCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -2391,11 +2398,11 @@
       <register name="w" type="4">
         <text>ww</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAvLyBSZXRyaWV2ZSBzY29wZXMgZnJvbSBtZW1vcnkuCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgIktleUV4cGlyZWQiOiBbCiAgICAgICAgewogICAgICAgICAgImhhbmRsZXJfbmFtZSI6ICJlaF9keW5hbWljX2hhbmRsZXIiLAogICAgICAgICAgImhhbmRsZXJfbWV0YSI6IHsKICAgICAgICAgICAgIm5hbWUiOiAib25LZXlDcmVhdGVkIiwKICAgICAgICAgICAgInBhdGgiOiAiZXZlbnRfaGFuZGxlcnMvb24ta2V5LWNyZWF0ZWQuanMiCiAgICAgICAgICB9CiAgICAgICAgfQogICAgICBdLA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgImF1dGhvcml6YXRpb25fY29kZSIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
