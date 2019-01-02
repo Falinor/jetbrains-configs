@@ -59,12 +59,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/index.js" timestamp="1546418365717">
-        <mark key="'" line="25" column="10" />
-        <mark key="[" line="59" column="36" />
-        <mark key="]" line="59" column="51" />
-        <mark key="." line="59" column="51" />
-        <mark key="^" line="59" column="51" />
+      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/index.js" timestamp="1546421378036">
+        <mark key="'" line="8" column="14" />
+        <mark key="[" line="26" column="21" />
+        <mark key="]" line="26" column="21" />
+        <mark key="." line="26" column="21" />
       </file>
       <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/views/layout/page.pug" timestamp="1546027671023">
         <mark key="[" line="5" column="14" />
@@ -92,11 +91,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/core/server.js" timestamp="1546418181849">
-        <mark key="'" line="21" column="21" />
-        <mark key="[" line="16" column="9" />
-        <mark key="]" line="16" column="9" />
-        <mark key="." line="16" column="9" />
+      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/core/server.js" timestamp="1546420634046">
+        <mark key="[" line="3" column="48" />
+        <mark key="]" line="11" column="22" />
+        <mark key="^" line="11" column="22" />
+        <mark key="." line="11" column="22" />
       </file>
       <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/views/pages/index.pug" timestamp="1546027813931">
         <mark key="[" line="3" column="20" />
@@ -142,10 +141,12 @@
         <mark key="." line="9" column="113" />
         <mark key="^" line="9" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/routes/auth/router.js" timestamp="1546418404183">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/routes/auth/router.js" timestamp="1546421760360">
+        <mark key="'" line="10" column="14" />
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="11" column="31" />
+        <mark key="^" line="11" column="31" />
+        <mark key="." line="11" column="31" />
       </file>
       <file name="$USER_HOME$/dev/banque-casino/api/src/core/middlewares/scoped-container.ts" timestamp="1545830618781">
         <mark key="[" line="0" column="0" />
@@ -154,8 +155,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="11" filename="$USER_HOME$/dev/banque-casino/developer-portal/.gitignore" />
-      <jump line="73" column="0" filename="$USER_HOME$/dev/banque-casino/developer-portal/.gitignore" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/banque-casino/developer-portal/.gitignore" />
       <jump line="7" column="8" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/public/partials/navbar.pug" />
       <jump line="6767" column="10" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/public/styles/index.css" />
@@ -254,6 +253,8 @@
       <jump line="21" column="32" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/index.js" />
       <jump line="20" column="19" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/index.js" />
       <jump line="25" column="10" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/index.js" />
+      <jump line="58" column="14" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/index.js" />
+      <jump line="9" column="14" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/routes/auth/router.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -549,8 +550,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjdHguc2Vzc2lvbi5zYXZlKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>login</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2077,7 +2078,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>createAUthRouter</text>
+        <text>login</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2089,40 +2090,68 @@
         <text encoding="base64">XDx0eXBlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YXBwLnVzZShtYWluUm91dGVyLnJvdXRlcygpKTsK</text>
+        <text encoding="base64">Ly8gICAgIGNyZWF0ZURvY3NSb3V0ZXIocGF0aC5qb2luKF9fZGlybmFtZSwgJ2RvY3MnKSksCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjdHguc2Vzc2lvbi5zYXZlKCk7Cg==</text>
+      <register name="1" type="4">
+        <text>;
+
+// const app = createServer({
+//   mainRouter,
+//   middlewares: [
+//     createBodyParserMiddleware(),
+//     createPugRenderer({
+//       viewPath: path.join(__dirname, 'views', 'pages'),
+//     }),
+//     createStaticServer({
+//       root: path.join(__dirname, 'public'),
+//     }),
+//   ],
+//   routers: [
+//     createDocsRouter(path.join(__dirname, 'docs')),
+//     createAuthRouter(dashboardService),
+//   ],
+// });</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YXBwLnVzZSgpCg==</text>
+        <text encoding="base64">Y29uc3QgcGFzc3BvcnQgPSByZXF1aXJlKCdrb2EtcGFzc3BvcnQnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjcmVhdGVQYXNzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YXBwLnVzZSgpCmFwcC51c2UobWFpblJvdXRlcik7Cg==</text>
+        <text encoding="base64">ICBjcmVhdGVTZXNzaW9uTWlkZGxld2FyZShhcHApLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgS29hID0gcmVxdWlyZSgna29hJyk7Cg==</text>
+        <text encoding="base64">Y29uc3QgY3JlYXRlU2Vzc2lvbk1pZGRsZXdhcmUgPSByZXF1aXJlKCdrb2Etc2Vzc2lvbicpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgYXNwcCA9IG5lCg==</text>
+        <text encoding="base64">Y29uc3QgeyB9ID0gcmVxdWlyZSgnLi4vLi4vc2VydmljZXMvZGFzaGJvYXJkJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjdHgK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY3R4LnNlc3Npb24sIGN0eC5zZXNzaW9uLmlzTmV3KTsK</text>
+      <register name="8" type="4">
+        <text>app.use(createBodyParserMiddleware());
+app.use(
+  createPugRenderer({
+    viewPath: path.join(__dirname, 'views', 'pages'),
+  }),
+);
+app.use(
+  createStaticServer({
+    root: path.join(__dirname, 'public'),
+  }),
+);
+app.use(createSessionMiddleware(app));</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc2Vzc2lvbicsIGN0eC5zZXNzaW9uLmlzTmV3KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
