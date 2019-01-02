@@ -26,16 +26,19 @@
         <mark key="^" line="27" column="4" />
         <mark key="." line="27" column="4" />
       </file>
+      <file name="$USER_HOME$/dev/banque-casino/api-management/gateway/tyk.conf.tpl" timestamp="1546423254881">
+        <mark key="'" line="7" column="24" />
+        <mark key="[" line="33" column="15" />
+        <mark key="]" line="37" column="37" />
+        <mark key="." line="37" column="37" />
+        <mark key="^" line="37" column="37" />
+      </file>
       <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/views/pages/log-in.pug" timestamp="1546030563938">
         <mark key="'" line="5" column="6" />
         <mark key="[" line="16" column="54" />
         <mark key="]" line="13" column="62" />
         <mark key="^" line="13" column="62" />
         <mark key="." line="13" column="62" />
-      </file>
-      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/scss/_typography.scss" timestamp="1545947906111">
-        <mark key="'" line="6" column="0" />
-        <mark key="^" line="1" column="32" />
       </file>
       <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/views/pages/auth.pug" timestamp="1546267892397">
         <mark key="'" line="7" column="68" />
@@ -97,6 +100,12 @@
         <mark key="^" line="11" column="22" />
         <mark key="." line="11" column="22" />
       </file>
+      <file name="$USER_HOME$/dev/banque-casino/api-management/gateway/Dockerfile.web" timestamp="1546423383207">
+        <mark key="[" line="38" column="33" />
+        <mark key="]" line="39" column="52" />
+        <mark key="." line="39" column="52" />
+        <mark key="^" line="39" column="52" />
+      </file>
       <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/views/pages/index.pug" timestamp="1546027813931">
         <mark key="[" line="3" column="20" />
         <mark key="]" line="3" column="20" />
@@ -155,7 +164,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/dev/banque-casino/developer-portal/.gitignore" />
       <jump line="7" column="8" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/public/partials/navbar.pug" />
       <jump line="6767" column="10" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/public/styles/index.css" />
       <jump line="1" column="13" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/core/middlewares/static.js" />
@@ -255,6 +263,7 @@
       <jump line="25" column="10" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/index.js" />
       <jump line="58" column="14" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/index.js" />
       <jump line="9" column="14" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/routes/auth/router.js" />
+      <jump line="7" column="24" filename="$USER_HOME$/dev/banque-casino/api-management/gateway/tyk.conf.tpl" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -550,8 +559,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>login</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJwb2xpY3lfc291cmNlIjogImZpbGUiLAogICAgInBvbGljeV9yZWNvcmRfbmFtZSI6ICIvb3B0L3R5ay1nYXRld2F5L3BvbGljaWVzL3BvbGljaWVzLmpzb24iCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2078,7 +2087,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>login</text>
+        <text>false</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2092,7 +2101,13 @@
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgIGNyZWF0ZURvY3NSb3V0ZXIocGF0aC5qb2luKF9fZGlybmFtZSwgJ2RvY3MnKSksCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICJwb2xpY3lfc291cmNlIjogImZpbGUiLAogICAgInBvbGljeV9yZWNvcmRfbmFtZSI6ICIvb3B0L3R5ay1nYXRld2F5L3BvbGljaWVzL3BvbGljaWVzLmpzb24iCg==</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="4">
         <text>;
 
 // const app = createServer({
@@ -2112,31 +2127,28 @@
 //   ],
 // });</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Y29uc3QgcGFzc3BvcnQgPSByZXF1aXJlKCdrb2EtcGFzc3BvcnQnKTsK</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICBjcmVhdGVQYXNzCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICBjcmVhdGVTZXNzaW9uTWlkZGxld2FyZShhcHApLAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Y29uc3QgY3JlYXRlU2Vzc2lvbk1pZGRsZXdhcmUgPSByZXF1aXJlKCdrb2Etc2Vzc2lvbicpOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgeyB9ID0gcmVxdWlyZSgnLi4vLi4vc2VydmljZXMvZGFzaGJvYXJkJyk7Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgeyB9ID0gcmVxdWlyZSgnLi4vLi4vc2VydmljZXMvZGFzaGJvYXJkJyk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
-      <register name="8" type="4">
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
         <text>app.use(createBodyParserMiddleware());
 app.use(
   createPugRenderer({
@@ -2149,9 +2161,6 @@ app.use(
   }),
 );
 app.use(createSessionMiddleware(app));</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
