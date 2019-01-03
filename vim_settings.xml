@@ -109,12 +109,12 @@
         <mark key="^" line="36" column="32" />
         <mark key="." line="36" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/index.js" timestamp="1546450476414">
-        <mark key="'" line="28" column="26" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="24" column="13" />
+      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/index.js" timestamp="1546508491299">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="26" column="17" />
       </file>
       <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/views/pages/contact.pug" timestamp="1545916565148">
         <mark key="[" line="3" column="0" />
@@ -250,7 +250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="21" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/public/styles/layout/_navbar.scss" />
       <jump line="8" column="28" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/public/styles/layout/_getting-started.scss" />
       <jump line="9" column="10" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/public/styles/layout/_navbar.scss" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/public/styles/layout/_navbar.scss" />
@@ -350,6 +349,7 @@
       <jump line="6" column="17" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/index.js" />
       <jump line="29" column="26" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/index.js" />
       <jump line="48" column="30" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/core/auth.js" />
+      <jump line="42" column="0" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -645,8 +645,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>dashboard</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2173,7 +2173,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>dashboard</text>
+        <text>createDashboardService({ apiKey }),</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2188,37 +2188,37 @@
         <text encoding="base64">IFsna2JqMTI5aWZqZGFrbjEzOGZka21hc2QnXTs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC5yZWRpcmVjdCgnL2F1dGgnLCAnL2F1dGgvbG9naW4nKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Y29uc3QgbWFpblJvdXRlciA9IGNyZWF0ZVJvdXRlcih7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gVE9ETzogc3RvcmUgc2Vzc2lvbiBpbiBhIG1vcmUgc2VjdXJlIHN0b3JlIHRoYW4gY29va2llcyBpbiB0aGUgZnV0dXJlLi4uCg==</text>
+        <text encoding="base64">ICBkYXNoYm9hcmRTZXJ2aWNlLAp9KTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICAgIGFzeW5jIGxvZ0luKHsgdXNlcm5hbWUsIHBhc3N3b3JkIH0pIHsKICAgICAgYXdhaXQgaHR0cC5wb3N0KCcvcG9ydGFsL2RldmVsb3BlcnMvdmVyaWZ5X2NyZWRlbnRpYWxzJywgewogICAgICAgIHVzZXJuYW1lLAogICAgICAgIHBhc3N3b3JkLAogICAgICB9KTsKICAgIH0s</text>
+        <text encoding="base64">Cgpjb25zdCBkYXNoYm9hcmRTZXJ2aWNlID0gY3JlYXRlRGFzaGJvYXJkU2VydmljZSh7CiAgYXBpS2V5LAp9KTs=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmYWlsdXJlRmxhc2g6IHRydWUsCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBmZWF0KHJvdXRlcyk6IGFkZCBhdXRoIHJvdXRlcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY3R4KTsK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY3R4LmZsYXNoKTsK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY3R4LnNlc3Npb24sIGN0eC5zdGF0ZS51c2VyLCBjdHguaXNBdXRoZW50aWNhdGVkKCkpOwo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
