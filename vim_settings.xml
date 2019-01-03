@@ -50,18 +50,18 @@
         <mark key="." line="27" column="40" />
         <mark key="^" line="27" column="40" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/services/dashboard.js" timestamp="1546379065346">
-        <mark key="'" line="0" column="27" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/banque-casino/developer-portal/test/services/dashboard.test.js" timestamp="1546024885495">
         <mark key="'" line="18" column="9" />
         <mark key="[" line="27" column="4" />
         <mark key="]" line="27" column="4" />
         <mark key="^" line="27" column="4" />
         <mark key="." line="27" column="4" />
+      </file>
+      <file name="$USER_HOME$/dev/banque-casino/developer-portal/test/services/auth.test.js" timestamp="1546505394855">
+        <mark key="[" line="4" column="55" />
+        <mark key="]" line="4" column="58" />
+        <mark key="^" line="4" column="58" />
+        <mark key="." line="4" column="58" />
       </file>
       <file name="$USER_HOME$/dev/banque-casino/api-management/gateway/tyk.conf.tpl" timestamp="1546423254881">
         <mark key="'" line="7" column="24" />
@@ -645,8 +645,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC5yZWRpcmVjdCgnL2F1dGgnLCAnL2F1dGgvbG9naW4nKQo=</text>
+      <register name="&quot;" type="4">
+        <text>dashboard</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2173,7 +2173,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>error</text>
+        <text>dashboard</text>
       </register>
       <register name="m" type="4">
         <keys>
