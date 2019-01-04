@@ -143,6 +143,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/scss/pages/_catalog.scss" timestamp="1546612652262">
+        <mark key="[" line="39" column="3" />
+        <mark key="]" line="42" column="17" />
+        <mark key="^" line="42" column="17" />
+        <mark key="." line="42" column="17" />
+      </file>
       <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/views/layout/navbar.pug" timestamp="1545920741974">
         <mark key="[" line="5" column="8" />
         <mark key="]" line="5" column="8" />
@@ -186,6 +192,13 @@
         <mark key="]" line="3" column="24" />
         <mark key="^" line="3" column="41" />
         <mark key="." line="3" column="24" />
+      </file>
+      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/views/pages/catalog.pug" timestamp="1546612937482">
+        <mark key="'" line="24" column="25" />
+        <mark key="[" line="20" column="47" />
+        <mark key="]" line="20" column="50" />
+        <mark key="." line="20" column="50" />
+        <mark key="^" line="20" column="50" />
       </file>
       <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/core/server.js" timestamp="1546441112621">
         <mark key="[" line="1" column="0" />
@@ -279,7 +292,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/dev/banque-casino/api/src/core/middlewares/scope.ts" />
       <jump line="22" column="46" filename="$USER_HOME$/dev/banque-casino/api/src/core/middlewares/scope.ts" />
       <jump line="96" column="17" filename="$USER_HOME$/dev/banque-casino/api/src/core/container.ts" />
       <jump line="0" column="42" filename="$USER_HOME$/dev/banque-casino/api/src/core/middlewares/scoped-container.ts" />
@@ -379,6 +391,7 @@
       <jump line="20" column="90" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/core/auth/middleware.js" />
       <jump line="9" column="0" filename="$USER_HOME$/dev/banque-casino/developer-portal/test/di-container.test.js" />
       <jump line="0" column="2" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/core/di-container.js" />
+      <jump line="23" column="25" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/views/pages/catalog.pug" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -674,8 +687,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGNvbnRhaW5lci5yZWcK</text>
+      <register name="&quot;" type="4">
+        <text>inner</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2202,7 +2215,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>createContainer</text>
+        <text>inner</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2217,37 +2230,37 @@
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2codXVpZChuYW1lc3BhY2UpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGNvbnRhaW5lci5yZWcK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCB7IGFzRnVuY3Rpb24sfQo=</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4KCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBhd2lsaXguCg==</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CnRlc3QoaXNTYXRpc2ZpZWREZXBlbmRlbmN5LCBkZXApOwo=</text>
+        <text encoding="base64">ICAgICAgICA8YnV0dG9uIGNsYXNzPSJtYXRlcmlhbC1pY29ucyBtZGMtaWNvbi1idXR0b24gbWRjLWNhcmRfX2FjdGlvbiBtZGMtY2FyZF9fYWN0aW9uLS1pY29uIiB0aXRsZT0iTW9yZSBvcHRpb25zIj5tb3JlX3ZlcnQ8L2J1dHRvbj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">SWwgcydhZ2l0IGQndW4gZmxvdyAK</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJtZGMtY2FyZF9fYWN0aW9uLWljb25zIj4KICAgICAgICA8YnV0dG9uIGNsYXNzPSJtYXRlcmlhbC1pY29ucyBtZGMtaWNvbi1idXR0b24gbWRjLWNhcmRfX2FjdGlvbiBtZGMtY2FyZF9fYWN0aW9uLS1pY29uIiB0aXRsZT0iU2hhcmUiPnNoYXJlPC9idXR0b24+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGN0eC5zdGF0ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8YnV0dG9uIGNsYXNzPSJtZGMtYnV0dG9uIG1kYy1jYXJkX19hY3Rpb24gbWRjLWNhcmRfX2FjdGlvbi0tYnV0dG9uIj5BY3Rpb24gMjwvYnV0dG9uPgogICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sZGRkb2coaWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJtZGMtY2FyZF9fYWN0aW9uLWJ1dHRvbnMiPgogICAgICAgIDxidXR0b24gY2xhc3M9Im1kYy1idXR0b24gbWRjLWNhcmRfX2FjdGlvbiBtZGMtY2FyZF9fYWN0aW9uLS1idXR0b24iPkFjdGlvbiAxPC9idXR0b24+Cg==</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codXVpZChuYW1lc3BhY2UpKTsKICAgICAgY29uc29sZS5sb2codXVpZChuYW1lc3BhY2UpKTsK</text>
+        <text encoding="base64">ICAgICAgICA8IS0tIC4uLiBjb250ZW50IC4uLiAtLT4KICAgICAgICA8ZGl2IGNsYXNzPSJtZGMtY2FyZF9fYWN0aW9ucyI+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codXVpZChuYW1lc3BhY2UpKTsKICAgICAgY29uc29sZS5sb2codXVpZChuYW1lc3BhY2UpKTsK</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJtZGMtY2FyZF9fbWVkaWEtY29udGVudCI+VGl0bGU8L2Rpdj4KICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
