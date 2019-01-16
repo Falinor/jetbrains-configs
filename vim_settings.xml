@@ -8,11 +8,11 @@
         <mark key="]" line="7" column="18" />
         <mark key="." line="7" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/views/pages/catalog-item.pug" timestamp="1547578025246">
-        <mark key="[" line="10" column="10" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="8" column="38" />
+      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/views/pages/catalog-item.pug" timestamp="1547579738950">
+        <mark key="[" line="8" column="38" />
+        <mark key="]" line="8" column="39" />
+        <mark key="." line="8" column="39" />
+        <mark key="^" line="11" column="56" />
       </file>
       <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/scss/layout/_footer.scss" timestamp="1546450065352">
         <mark key="[" line="4" column="24" />
@@ -342,6 +342,12 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/banque-casino/api/src/core/middlewares/api-doc.ts" timestamp="1547579592574">
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="12" column="20" />
+        <mark key="^" line="12" column="20" />
+        <mark key="." line="12" column="20" />
       </file>
       <file name="$USER_HOME$/dev/banque-casino/developer-portal/test/core/auth/memory-repository.test.js" timestamp="1546527893197">
         <mark key="[" line="6" column="12" />
@@ -846,8 +852,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIFRoaXMgcG9saWN5IGdpdmVzIGFjY2VzcyB0byB0aGUgZm9sbG93aW5nIEFQSXMK</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="i" type="4">
         <keys>
@@ -2374,7 +2380,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>mdc-layout-grid--fixed-column-width</text>
+        <text />
       </register>
       <register name="m" type="4">
         <keys>
@@ -2389,37 +2395,37 @@
         <text encoding="base64">ICAgICAgICAgICAgY29udC5yZXNvbHZlKCdjb25maWcnKS5nZXQoJ2RvY3NGb2xkZXInKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIFRoaXMgcG9saWN5IGdpdmVzIGFjY2VzcyB0byB0aGUgZm9sbG93aW5nIEFQSXMK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJzID0gZnMuY3JlYXRlUmVhZFN0cmVhbShmaWxlLCAndXRmOCcpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfSBjYXRjaCB7CiAgICAgICAgdGhpcy5pc1N1Y2Nlc3MgPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICAgIFRoaXMgcG9saWN5IGdpdmVzIGFjY2VzcyB0byB0aGUgZm9sbG93aW5nIEFQSXMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmlzU3VjY2VzcyA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgfSBjYXRjaCB7CiAgICAgICAgdGhpcy5pc1N1Y2Nlc3MgPSBmYWxzZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmRpc3BsYXlTbmFja2JhciA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmlzU3VjY2VzcyA9IHRydWU7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLmRpc3BsYXlTbmFja2JhciA9IHRydWU7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfSBmaW5hbGx5IHsKICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmRpc3BsYXlTbmFja2JhciA9IHRydWU7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmRpc3BsYXlTbmFja2JhciA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgfSBmaW5hbGx5IHsKICAgICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0ZS5lcnJvciA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmRpc3BsYXlTbmFja2JhciA9IGZhbHNlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0ZS5lcnJvciA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGF0ZS5lcnJvciA9IGZhbHNlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
