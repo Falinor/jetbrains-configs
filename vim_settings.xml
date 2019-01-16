@@ -8,11 +8,11 @@
         <mark key="]" line="7" column="18" />
         <mark key="." line="7" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/views/pages/catalog-item.pug" timestamp="1547579738950">
-        <mark key="[" line="8" column="38" />
-        <mark key="]" line="8" column="39" />
-        <mark key="." line="8" column="39" />
-        <mark key="^" line="11" column="56" />
+      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/views/pages/catalog-item.pug" timestamp="1547641616563">
+        <mark key="[" line="16" column="15" />
+        <mark key="]" line="14" column="13" />
+        <mark key="." line="14" column="13" />
+        <mark key="^" line="14" column="13" />
       </file>
       <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/scss/layout/_footer.scss" timestamp="1546450065352">
         <mark key="[" line="4" column="24" />
@@ -62,10 +62,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/core/apim.js" timestamp="1547633828157">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
+      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/core/apim.js" timestamp="1547636934725">
+        <mark key="'" line="74" column="6" />
+        <mark key="[" line="98" column="20" />
+        <mark key="]" line="98" column="20" />
+        <mark key="." line="98" column="20" />
+        <mark key="^" line="98" column="32" />
       </file>
       <file name="$USER_HOME$/dev/banque-casino/api-management/docker-compose.yml" timestamp="1545865104012">
         <mark key="[" line="27" column="41" />
@@ -411,12 +413,12 @@
         <mark key="^" line="47" column="23" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/routes/catalog/controller.js" timestamp="1547627893382">
+      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/routes/catalog/controller.js" timestamp="1547641697941">
         <mark key="'" line="3" column="5" />
-        <mark key="[" line="16" column="16" />
-        <mark key="]" line="17" column="9" />
-        <mark key="." line="17" column="9" />
-        <mark key="^" line="17" column="9" />
+        <mark key="[" line="26" column="6" />
+        <mark key="]" line="23" column="33" />
+        <mark key="." line="23" column="33" />
+        <mark key="^" line="23" column="33" />
       </file>
       <file name="$USER_HOME$/dev/banque-casino/demo-client/store/index.js" timestamp="1547576988823">
         <mark key="[" line="101" column="13" />
@@ -456,12 +458,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="6" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/views/pages/log-in.pug" />
-      <jump line="5" column="26" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/routes/auth/router.js" />
-      <jump line="8" column="55" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/routes/auth/router.js" />
-      <jump line="7" column="68" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/views/pages/auth.pug" />
-      <jump line="21" column="32" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/index.js" />
-      <jump line="20" column="19" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/index.js" />
       <jump line="25" column="10" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/index.js" />
       <jump line="58" column="14" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/index.js" />
       <jump line="9" column="14" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/routes/auth/router.js" />
@@ -556,6 +552,12 @@
       <jump line="7" column="21" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/routes/catalog/router.js" />
       <jump line="3" column="5" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/routes/catalog/controller.js" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/core/config.js" />
+      <jump line="84" column="20" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/core/apim.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/core/apim.js" />
+      <jump line="128" column="0" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/core/apim.js" />
+      <jump line="88" column="5" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/core/apim.js" />
+      <jump line="76" column="6" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/core/apim.js" />
+      <jump line="74" column="6" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/core/apim.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -851,8 +853,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2379,7 +2381,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>tyk</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2388,60 +2390,70 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>&quot;</text>
+        <text>console.log(err)</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBBdXRob3JpemF0aW9uOiBkYXNoYm9hcmRBcGlLZXksCiAgICAgICAgICAgICAgJ0NvbnRlbnQtVHlwZSc6ICdhcHBsaWNhdGlvbi9qc29uJywK</text>
+      <register name="0" type="4">
+        <text>try {
+        const { data } = await http.get(`${dashboardUrl}/api/apis/${id}`, {
+          headers: {
+            Authorization: dashboardApiKey,
+            'Content-Type': 'application/json',
+          },
+        });
+        console.log(`Get API ${id}: ${data}`);
+        return data;
+      } catch (err) {
+        console.error(err);
+      }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXRhKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYXBpczogT2JqZWN0LnZhbHVlcyhwb2xpY3kuYWNjZXNzX3JpZ2h0cyksCg==</text>
+        <text encoding="base64">ICAgICAgb2F1dGhDbGllbnRzLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHByb21pc2VzIAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHByb21pc2VzID0gCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IGFwaW1TZXJ2aWNlLmdldEFQSShhcGlfaWQpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZpbHRlcmVkKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IAo=</text>
+        <text encoding="base64">ICAgIC8vIFJlZG4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBvbGljeSk7Cg==</text>
+        <text encoding="base64">ICAgIC8vIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IGFwaW1TZXJ2aWNlLgo=</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IHZhbGlkYXRlIHBhcmFtcwo=</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJzID0gZnMuY3JlYXRlUmVhZFN0cmVhbShmaWxlLCAndXRmOCcpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3VsdCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIFRoaXMgcG9saWN5IGdpdmVzIGFjY2VzcyB0byB0aGUgZm9sbG93aW5nIEFQSXMK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGFwaXMgPSBhcGlzLmZpbHRlcihhcGkgPT4gY2F0YWxvZ0FwaXMuaW5jbHVkZXMoYXBpLmFwaV9kZWZpbml0aW9uLmFwaV9pZCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>&quot;</last-search>
+      <last-search>console.log(err)</last-search>
       <last-offset />
-      <last-pattern>&quot;</last-pattern>
-      <last-replace>'</last-replace>
-      <last-substitute>&quot;</last-substitute>
+      <last-pattern>console.log(err)</last-pattern>
+      <last-replace>console.error(err)</last-replace>
+      <last-substitute>console.log(err)</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>fakerStatic.</entry>
         <entry>=</entry>
         <entry>soon</entry>
         <entry>:</entry>
@@ -2461,9 +2473,9 @@
         <entry>display</entry>
         <entry encoding="base64">XDx0eXBlXD4=</entry>
         <entry>&quot;</entry>
+        <entry>console.log(err)</entry>
       </history-search>
       <history-cmd>
-        <entry>W</entry>
         <entry encoding="base64">JzwsJz5zL3RoaXMuLy9n</entry>
         <entry encoding="base64">JzwsJz5zL2Zha2VyU3RhdGljLy9n</entry>
         <entry encoding="base64">JzwsJz5zL2Zha2VyU3RhdGljLi8vZw==</entry>
@@ -2482,6 +2494,7 @@
         <entry encoding="base64">JzwsJz5zL2Rpc3BsYXkvaGVhZGxpbmUvZw==</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
+        <entry encoding="base64">JzwsJz5zL2NvbnNvbGUubG9nKGVycikvY29uc29sZS5lcnJvcihlcnIpL2c=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
