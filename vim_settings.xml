@@ -3,14 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/views/pages/catalog-item.pug" timestamp="1547727938774">
-        <mark key="'" line="13" column="10" />
-        <mark key="[" line="26" column="57" />
+      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/views/pages/catalog-item.pug" timestamp="1547734694245">
+        <mark key="'" line="26" column="33" />
+        <mark key="[" line="26" column="51" />
         <mark key="k" line="11" column="22" />
-        <mark key="]" line="20" column="7" />
+        <mark key="]" line="26" column="51" />
         <mark key="m" line="18" column="10" />
-        <mark key="." line="20" column="7" />
-        <mark key="^" line="20" column="7" />
+        <mark key="." line="26" column="51" />
+        <mark key="^" line="26" column="52" />
       </file>
       <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/core/config.js" timestamp="1547573726497">
         <mark key="'" line="3" column="0" />
@@ -123,8 +123,8 @@
         <mark key="." line="7" column="16" />
         <mark key="^" line="7" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/routes/apps/controller.js" timestamp="1547716846554">
-        <mark key="[" line="30" column="4" />
+      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/routes/apps/controller.js" timestamp="1547732772137">
+        <mark key="[" line="26" column="7" />
         <mark key="]" line="30" column="6" />
         <mark key="^" line="30" column="6" />
         <mark key="." line="30" column="6" />
@@ -164,6 +164,11 @@
         <mark key="." line="23" column="81" />
         <mark key="^" line="23" column="81" />
       </file>
+      <file name="/Dummy.txt" timestamp="1547735353666">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="37" />
+        <mark key="." line="0" column="37" />
+      </file>
       <file name="$USER_HOME$/dev/banque-casino/developer-portal/test/core/http.test.js" timestamp="1546523925700">
         <mark key="'" line="7" column="0" />
         <mark key="[" line="16" column="0" />
@@ -197,12 +202,12 @@
         <mark key="^" line="47" column="23" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/routes/catalog/controller.js" timestamp="1547721215776">
+      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/routes/catalog/controller.js" timestamp="1547734054006">
         <mark key="'" line="3" column="5" />
-        <mark key="[" line="12" column="33" />
-        <mark key="]" line="12" column="30" />
-        <mark key="." line="12" column="30" />
-        <mark key="^" line="12" column="30" />
+        <mark key="[" line="24" column="59" />
+        <mark key="]" line="24" column="70" />
+        <mark key="." line="24" column="70" />
+        <mark key="^" line="24" column="70" />
       </file>
       <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/public/scripts/swagger-ui.js" timestamp="1547718408518">
         <mark key="[" line="4" column="18" />
@@ -224,7 +229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="0" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/core/auth.js" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/core/auth.js" />
       <jump line="7" column="0" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/core/http.js" />
       <jump line="0" column="5" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/core/http.js" />
@@ -324,6 +328,7 @@
       <jump line="13" column="10" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/views/pages/catalog-item.pug" />
       <jump line="5" column="3" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/scss/pages/_catalog-item.scss" />
       <jump line="9" column="0" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/scss/pages/_catalog-item.scss" />
+      <jump line="26" column="33" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/views/pages/catalog-item.pug" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -620,8 +625,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>section.mdc-layout-grid__cell.mdc-layout-grid__cell--span-8
-        div#api-ref</text>
+        <text>dotenv file</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2148,7 +2152,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>Metadonnées</text>
+        <text>dotenv file</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2157,55 +2161,54 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxidXR0b25cPg==</text>
+        <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="4">
         <text>@include mdc-typography(caption);
       @include mdc-typography-baseline-top(16px);
       @include mdc-theme-prop(color, text-hint-on-background);</text>
       </register>
-      <register name="1" type="4">
-        <text>section.mdc-layout-grid__cell.mdc-layout-grid__cell--span-8
-        div#api-ref</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdMT0cnLCBhcGlzKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBoND0gbmFtZQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYXBpcyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBoND0gbmFtZQo=</text>
+        <text encoding="base64">ICAgICk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBoNiBNZXRhZG9ubsOpZXMK</text>
+        <text encoding="base64">ICAgICAgICBhcGlzWzBdLmFwaV9kZWZpbml0aW9uLnNsdWcKICAgICAgfS92Mi9vcGVuYXBpLnltbGAsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBoND0gbmFtZQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKAogICAgICBgaHR0cHM6Ly9iYW5xdWUtY2FzaW5vLmNsb3VkLnR5ay5pby8kewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtYXJnaW4tYm90dG9tOiAwOwogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZpbHRlcmVkQXBpcyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICY6bGFzdC1jaGlsZCB7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZpbHRlcmVkQXBpcyk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZGlzcGxheTogZgo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZmlsdGVyZWRBcGlzW2ldLm9hdXRoX2NsaWVudHMpOwogICAgfSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgQGluY2x1ZGUgbWRjLXR5cG9ncmFwaHktYmFzZWxpbmUtdG9wKDE2cHgpOwo=</text>
+        <text encoding="base64">ICAgIGZpbHRlcmVkQXBpcy5mb3JFYWNoKChhcGksIGkpID0+IHsKICAgICAgZmlsdGVyZWRBcGlzW2ldLm9hdXRoX2NsaWVudHMgPSBhcGlPQXV0aENsaWVudHNbaV07Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxidXR0b25cPg==</last-search>
+      <last-search encoding="base64">XDwoXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxidXR0b25cPg==</last-pattern>
+      <last-pattern encoding="base64">XDwoXD4=</last-pattern>
       <last-replace>console.error(err)</last-replace>
       <last-substitute>console.log(err)</last-substitute>
       <last-dir>-1</last-dir>
@@ -2213,7 +2216,6 @@
     </search>
     <history>
       <history-search>
-        <entry>soon</entry>
         <entry>:</entry>
         <entry>ctx</entry>
         <entry encoding="base64">XDxQcm9kdWN0QW5kUHJvamVjdFw+</entry>
@@ -2233,6 +2235,7 @@
         <entry>&quot;</entry>
         <entry>console.log(err)</entry>
         <entry encoding="base64">XDxidXR0b25cPg==</entry>
+        <entry encoding="base64">XDwoXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3RoaXMuLy9n</entry>
