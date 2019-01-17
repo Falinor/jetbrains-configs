@@ -226,6 +226,12 @@
         <mark key="." line="18" column="40" />
         <mark key="^" line="18" column="40" />
       </file>
+      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/scss/pages/_catalog.scss" timestamp="1547657497122">
+        <mark key="[" line="4" column="3" />
+        <mark key="]" line="7" column="16" />
+        <mark key="." line="7" column="16" />
+        <mark key="^" line="7" column="16" />
+      </file>
       <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/views/layout/navbar.pug" timestamp="1545920741974">
         <mark key="[" line="5" column="8" />
         <mark key="]" line="5" column="8" />
@@ -276,12 +282,12 @@
         <mark key="." line="10" column="1" />
         <mark key="^" line="10" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/routes/catalog/router.js" timestamp="1547571386672">
+      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/routes/catalog/router.js" timestamp="1547658586870">
         <mark key="'" line="7" column="21" />
-        <mark key="[" line="4" column="30" />
-        <mark key="]" line="4" column="52" />
+        <mark key="[" line="5" column="11" />
+        <mark key="]" line="5" column="11" />
         <mark key="^" line="4" column="52" />
-        <mark key="." line="4" column="52" />
+        <mark key="." line="5" column="11" />
       </file>
       <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/public/pages/docs/docs.pug" timestamp="1545145575510">
         <mark key="[" line="3" column="24" />
@@ -289,12 +295,13 @@
         <mark key="^" line="3" column="41" />
         <mark key="." line="3" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/views/pages/catalog.pug" timestamp="1547656681308">
-        <mark key="'" line="12" column="29" />
-        <mark key="[" line="18" column="36" />
-        <mark key="]" line="18" column="60" />
-        <mark key="." line="18" column="60" />
-        <mark key="^" line="18" column="60" />
+      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/views/pages/catalog.pug" timestamp="1547658475387">
+        <mark key="'" line="23" column="16" />
+        <mark key="[" line="23" column="71" />
+        <mark key="k" line="16" column="39" />
+        <mark key="]" line="23" column="86" />
+        <mark key="." line="23" column="86" />
+        <mark key="^" line="23" column="86" />
       </file>
       <file name="$USER_HOME$/dev/banque-casino/demo-client/pages/demand/new.vue" timestamp="1547577229846">
         <mark key="[" line="78" column="27" />
@@ -488,7 +495,6 @@
       <jump line="20" column="90" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/core/auth/middleware.js" />
       <jump line="9" column="0" filename="$USER_HOME$/dev/banque-casino/developer-portal/test/di-container.test.js" />
       <jump line="0" column="2" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/core/di-container.js" />
-      <jump line="23" column="25" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/views/pages/catalog.pug" />
       <jump line="34" column="0" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/scss/pages/_catalog.scss" />
       <jump line="52" column="1" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/scss/pages/_catalog.scss" />
       <jump line="10" column="30" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/views/pages/catalog.pug" />
@@ -537,6 +543,7 @@
       <jump line="8" column="3" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/scss/pages/_catalog-item.scss" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/scss/pages/_catalog-item.scss" />
       <jump line="5" column="2" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/scss/pages/_catalog-item.scss" />
+      <jump line="23" column="16" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/views/pages/catalog.pug" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -833,7 +840,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>mdc-card__action--button D</text>
+        <text>catalog</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2360,7 +2367,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>mdc-card__action--button D</text>
+        <text>catalog</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2369,52 +2376,52 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>console.log(err)</text>
+        <text encoding="base64">XDxidXR0b25cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGJ1dHRvbi5tZGMtYnV0dG9uLm1kYy1jYXJkX19hY3Rpb24tLWJ1dHRvbih0eXBlPSdzdWJtaXQnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGEubWRjLWNhcmRfX2FjdGlvbi5tZGMtY2FyZF9fYWN0aW9uLS1idXR0b24oaHJlZj1gL2NhdGFsb2cvJHthcGkucG9saWN5X2lkfWApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgZGl2Lm1kYy1jYXJkX19hY3Rpb24tYnV0dG9ucwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgYnV0dG9uLm1kYy1idXR0b24ubWRjLWJ1dHRvbi0tdW5lbGV2YXRlZCh0eXBlPSdzdWJtaXQnKSBBcHBzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhKGhyZWY9YC9jYXRhbG9nLyR7YXBpLnBvbGljeV9pZH1gKQogICAgICAgICAgICAgICAgICAgICAgYnV0dG9uLm1kYy1idXR0b24ubWRjLWNhcmRfX2FjdGlvbi0tYnV0dG9uIERvY3VtZW50YXRpb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGEubWRjLWNhcmRfX2FjdGlvbi5tZGMtY2FyZF9fYWN0aW9uLS1idXR0b24oaHJlZj1gL2NhdGFsb2cvJHthcGkucG9saWN5X2lkfWApCiAgICAgICAgICAgICAgICAgIGJ1dHRvbi5tZGMtYnV0dG9uIERvY3VtZW50YXRpb24K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGJ1dHRvbi5tZGMtYnV0dG9uLm1kYy1jYXJkX19hY3Rpb24tLWJ1dHRvbiBEb2N1bWVudGF0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tZGMtY2FyZF9fYnV0dAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaS5tYXRlcmlhbC1pY29ucy5tZGMtYnV0dG9uX19pY29uKGFyaWEtaGlkZGVuPXRydWUpIGFwcHMKICAgICAgICAgICAgICAgICAgICAgICAgc3Bhbi5tZGMtYnV0dG9uX19sYWJlbCBBcHBzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJtZGMtYnV0dG9uX19sYWJlbCI+QnV0dG9uPC9zcGFuPgo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgLm1kYy1jYXJkX19jb250ZW50IHsKICAgIHBhZGRpbmc6IDFyZW07CiAgfQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJtYXRlcmlhbC1pY29ucyBtZGMtYnV0dG9uX19pY29uIiBhcmlhLWhpZGRlbj0idHJ1ZSI+ZmF2b3JpdGU8L2k+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgZGl2Lm1kYy1jYXJkX19hY3Rpb24tYnV0dG9ucwo=</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBmb3JtLmdldEFwaUtleS1mb3JtKGFjdGlvbj0nL2FwcHMvbmV3JyBtZXRob2Q9J3Bvc3QnKQogICAgICAgICAgICAgICAgaW5wdXQubWRjLXRleHQtZmllbGRfX2lucHV0KHR5cGU9J2hpZGRlbicgbmFtZT0ncG9saWN5X2lkJyB2YWx1ZT1hcGkucG9saWN5X2lkKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhKGhyZWY9YC9jYXRhbG9nLyR7YXBpLnBvbGljeV9pZH1gKQogICAgICAgICAgICAgICAgICAgICAgYnV0dG9uLm1kYy1idXR0b24ubWRjLWNhcmRfX2FjdGlvbi0tYnV0dG9uIERvY3VtZW50YXRpb24K</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>console.log(err)</last-search>
+      <last-search encoding="base64">XDxidXR0b25cPg==</last-search>
       <last-offset />
-      <last-pattern>console.log(err)</last-pattern>
+      <last-pattern encoding="base64">XDxidXR0b25cPg==</last-pattern>
       <last-replace>console.error(err)</last-replace>
       <last-substitute>console.log(err)</last-substitute>
       <last-dir>-1</last-dir>
@@ -2422,7 +2429,6 @@
     </search>
     <history>
       <history-search>
-        <entry>=</entry>
         <entry>soon</entry>
         <entry>:</entry>
         <entry>ctx</entry>
@@ -2442,6 +2448,7 @@
         <entry encoding="base64">XDx0eXBlXD4=</entry>
         <entry>&quot;</entry>
         <entry>console.log(err)</entry>
+        <entry encoding="base64">XDxidXR0b25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3RoaXMuLy9n</entry>
