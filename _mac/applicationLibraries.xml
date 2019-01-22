@@ -12,6 +12,17 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="clipboard" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_clipboard@2_dist_clipboard.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_clipboard@2_dist_clipboard.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="index" type="javaScript">
       <properties>
         <sourceFilesUrls>
