@@ -55,11 +55,11 @@
         <mark key="^" line="0" column="4921" />
         <mark key="." line="0" column="4921" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/docs/getting-started.md" timestamp="1548255232705">
-        <mark key="[" line="47" column="49" />
-        <mark key="]" line="49" column="78" />
-        <mark key="^" line="49" column="78" />
-        <mark key="." line="49" column="78" />
+      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/docs/getting-started.md" timestamp="1548263365036">
+        <mark key="[" line="43" column="49" />
+        <mark key="]" line="48" column="7" />
+        <mark key="^" line="42" column="31" />
+        <mark key="." line="48" column="7" />
       </file>
       <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/core/apim.js" timestamp="1548253516894">
         <mark key="'" line="74" column="6" />
@@ -910,7 +910,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGRhbnM=</text>
+        <text encoding="base64">CnsKICAiYW1vdW50QXNrZWQiOiA2MDAwLAogICJkdXJhdGlvbiI6IDEyLAogICJhbW91bnRNb250aGx5IjogMSwKICAiaW5zdXJhbmNlTW9udGhseSI6IDgsCiAgInRvdGFsTW9udGhseSI6IDE1NywKICAidG90YWxBbW91bnREdWUiOiA2Mzc5LAogICJ0bmMiOiA0LjI3LAogICJ0YWVnIjogNi4yMSwKICAiZmVlcyI6IDAsCiAgInByb2R1Y3QiOiAicmV2b2x2aW5nIgp9</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2437,7 +2437,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGRhbnM=</text>
+        <text>simulations</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2452,6 +2452,26 @@
         <text encoding="base64">ICAgICAgICBhLm1kYy10b3AtYXBwLWJhcl9fdGl0bGUoaHJlZj0nL2NhdGFsb2cnKSBBUElzCg==</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">CnsKICAiYW1vdW50QXNrZWQiOiA2MDAwLAogICJkdXJhdGlvbiI6IDEyLAogICJhbW91bnRNb250aGx5IjogMSwKICAiaW5zdXJhbmNlTW9udGhseSI6IDgsCiAgInRvdGFsTW9udGhseSI6IDE1NywKICAidG90YWxBbW91bnREdWUiOiA2Mzc5LAogICJ0bmMiOiA0LjI3LAogICJ0YWVnIjogNi4yMSwKICAiZmVlcyI6IDAsCiAgInByb2R1Y3QiOiAicmV2b2x2aW5nIgp9</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAtWCBQT1NUIFwK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAtZCAneyJhbW91bnQiOiA2MDAwLCAicHJvamVjdCI6ICJuZXctdmVoaWNsZSIsICJkdXJhdGlvbiI6IDEyfScgXAo=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgLWQgJ3siYW1vdW50IjogNjAwMCwgInByb2plY3QiOiAibmV3LXZlaGljbGUiLCAiZHVyYXRpb24iOiAxMn0nIFw=</text>
+      </register>
+      <register name="5" type="4">
+        <text>Simulation d'un crédit
+Simulez un crédit dont le montant est 6000 euros et dont le projet est l'achat
+d'un véhicule neuf remboursable en 12 mois :</text>
+      </register>
+      <register name="6" type="4">
         <text>{
       '5c07f7b0f77cdb0001d871fd': [
         {
@@ -2467,35 +2487,17 @@
       ],
     };</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">eyJhbW91bnRBc2tlZCI6NjAwMCwiZHVyYXRpb24iOjEyLCJvYW1vdW50TW9udGhseSI6MSwiaW5zdXJhbmNlTW9udGhseSI6OCwidG90YWxNb250aGx5IjoxNTcsInRvdGFsQW1vdW50RHVlIjo2Mzc5LCJ0bmMiOjQuMjcwMDAwMDAwMDAwMDAwNSwidGFlZyI6Ni4yMSwiZmVlcyI6MCwicHJvZHVjdCI6InJldm9sdmluZyJ9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAtSCAiQXV0aG9yaXphdGlvbjogQmVhcmVyIDx2b3RyZSB0b2tlbiBkJ2FjY8Oocz4iIFwK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">CmBgYApjdXJsIGh0dHBzOi8vYmFucXVlLWNhc2luby5jbG91ZC50eWsuaW8vbG9hbnMtc2FuZGJveC9vYXV0aC90b2tlbj9ncmFudF90eXBlPWNsaWVudF9jcmVkZW50aWFscyBcCiAgLVggUE9TVCBcCiAgLUggJ0NvbnRlbnQtVHlwZTogYXBwbGljYXRpb24vanNvbicgXAogIC1IICdDYWNoZS1Db250cm9sOiBuby1jYWNoZScgXAogIC1IICJBdXRob3JpemF0aW9uOiBCYXNpYyAkKGVjaG8gLW4gNDMzNjM5NGE1YWEwNGMyYjhlMWRiOWY5NDZiMTIxNzM6Tm1RMU56UmxPREl0WlRNeE5TMDBNV1V6TFdFeU5HRXRabUk0T0RZNFpUSXdNekJsIHwgYmFzZTY0KSIgXAogIC1kICd7ImNsaWVudF9pZCI6ICI0MzM2Mzk0YTVhYTA0YzJiOGUxZGI5Zjk0NmIxMjE3MyIsICJjbGllbnRfc2VjcmV0IjogIk5tUTFOelJsT0RJdFpUTXhOUzAwTVdVekxXRXlOR0V0Wm1JNE9EWTRaVEl3TXpCbCJ9JwpgYGA=</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">eyJhbW91bnRBc2tlZCI6NjAwMCwiZHVyYXRpb24iOjEyLCJvYW1vdW50TW9udGhseSI6MSwiaW5zdXJhbmNlTW9udGhseSI6OCwidG90YWxNb250aGx5IjoxNTcsInRvdGFsQW1vdW50RHVlIjo2Mzc5LCJ0bmMiOjQuMjcwMDAwMDAwMDAwMDAwNSwidGFlZyI6Ni4yMSwiZmVlcyI6MCwicHJvZHVjdCI6InJldm9sdmluZyJ9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Q0xJRU5UX0lEPSI0MzM2Mzk0YTVhYTA0YzJiOGUxZGI5Zjk0NmIxMjE3MyIKQ0xJRU5UX1NFQ1JFVD0iTm1RMU56UmxPREl0WlRNeE5TMDBNV1V6TFdFeU5HRXRabUk0T0RZNFpUSXdNekJsIgo=</text>
+        <text encoding="base64">ICAtSCAiQXV0aG9yaXphdGlvbjogQmVhcmVyIDx2b3RyZSB0b2tlbiBkJ2FjY8Oocz4iIFwK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1xcIi8iL2c=</text>
