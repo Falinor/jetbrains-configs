@@ -55,18 +55,12 @@
         <mark key="^" line="0" column="4921" />
         <mark key="." line="0" column="4921" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/docs/getting-started.md" timestamp="1548175976519">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-        <mark key="^" line="49" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/core/apim.js" timestamp="1547801380673">
+      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/core/apim.js" timestamp="1548253516894">
         <mark key="'" line="74" column="6" />
-        <mark key="[" line="98" column="46" />
-        <mark key="]" line="99" column="19" />
-        <mark key="." line="99" column="19" />
-        <mark key="^" line="99" column="19" />
+        <mark key="[" line="112" column="45" />
+        <mark key="]" line="112" column="44" />
+        <mark key="." line="112" column="44" />
+        <mark key="^" line="112" column="44" />
       </file>
       <file name="$USER_HOME$/dev/banque-casino/api-management/docker-compose.yml" timestamp="1545865104012">
         <mark key="[" line="27" column="41" />
@@ -285,12 +279,12 @@
         <mark key="^" line="30" column="27" />
         <mark key="." line="30" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/routes/apps/controller.js" timestamp="1547820837538">
-        <mark key="'" line="20" column="15" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="20" column="27" />
+      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/routes/apps/controller.js" timestamp="1548252877474">
+        <mark key="'" line="7" column="15" />
+        <mark key="[" line="32" column="50" />
+        <mark key="]" line="32" column="50" />
+        <mark key="." line="32" column="50" />
+        <mark key="^" line="32" column="50" />
       </file>
       <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/views/layout/navbar.pug" timestamp="1548088362334">
         <mark key="[" line="9" column="50" />
@@ -322,12 +316,11 @@
         <mark key="." line="7" column="15" />
         <mark key="^" line="7" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/views/pages/docs.pug" timestamp="1548167723597">
+      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/views/pages/docs.pug" timestamp="1548252328033">
         <mark key="'" line="5" column="61" />
-        <mark key="[" line="27" column="66" />
-        <mark key="]" line="27" column="66" />
-        <mark key="^" line="27" column="64" />
-        <mark key="." line="27" column="66" />
+        <mark key="[" line="5" column="22" />
+        <mark key="]" line="5" column="22" />
+        <mark key="." line="5" column="22" />
       </file>
       <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/core/errors/user-not-found.js" timestamp="1546874389160">
         <mark key="'" line="2" column="36" />
@@ -335,12 +328,6 @@
         <mark key="]" line="4" column="35" />
         <mark key="." line="4" column="35" />
         <mark key="^" line="4" column="35" />
-      </file>
-      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/scss/pages/_docs.scss" timestamp="1548175956318">
-        <mark key="[" line="65" column="23" />
-        <mark key="]" line="66" column="23" />
-        <mark key="." line="66" column="23" />
-        <mark key="^" line="66" column="23" />
       </file>
       <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/routes/catalog/router.js" timestamp="1547718775045">
         <mark key="'" line="5" column="21" />
@@ -360,6 +347,11 @@
         <mark key="]" line="78" column="27" />
         <mark key="^" line="78" column="9" />
         <mark key="." line="78" column="27" />
+      </file>
+      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/views/pages/catalog.pug" timestamp="1548253410537">
+        <mark key="[" line="9" column="11" />
+        <mark key="]" line="9" column="11" />
+        <mark key="." line="9" column="11" />
       </file>
       <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/core/server.js" timestamp="1546441112621">
         <mark key="[" line="1" column="0" />
@@ -911,8 +903,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Catalog</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2439,7 +2431,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>NmQ1NzRlODItZTMxNS00MWUzLWEyNGEtZmI4ODY4ZTIwMzBl</text>
+        <text>Catalog</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2453,38 +2445,51 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhLm1kYy10b3AtYXBwLWJhcl9fdGl0bGUoaHJlZj0nL2NhdGFsb2cnKSBBUElzCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>{
+      '5c07f7b0f77cdb0001d871fd': [
+        {
+          client_id: 'd79d0123b061430da6c360de2ce5ff8b',
+          secret: 'MWFlMDUxOTAtZWY0Yi00NjAyLTg4NzUtYTFjOWM5MTU5Mzlh',
+          redirect_uri: '',
+        },
+        {
+          client_id: '137477642d824892937da7bac547c9b8',
+          secret: 'MzNhZWQxYzgtOWIzNy00ZWVhLTljYWMtYzZmODU5NzZkZjAw',
+          redirect_uri: '',
+        },
+      ],
+    };</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">eyJhbW91bnRBc2tlZCI6NjAwMCwiZHVyYXRpb24iOjEyLCJvYW1vdW50TW9udGhseSI6MSwiaW5zdXJhbmNlTW9udGhseSI6OCwidG90YWxNb250aGx5IjoxNTcsInRvdGFsQW1vdW50RHVlIjo2Mzc5LCJ0bmMiOjQuMjcwMDAwMDAwMDAwMDAwNSwidGFlZyI6Ni4yMSwiZmVlcyI6MCwicHJvZHVjdCI6InJldm9sdmluZyJ9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAtSCAiQXV0aG9yaXphdGlvbjogQmVhcmVyIDx2b3RyZSB0b2tlbiBkJ2FjY8Oocz4iIFwK</text>
+        <text encoding="base64">eyJhbW91bnRBc2tlZCI6NjAwMCwiZHVyYXRpb24iOjEyLCJvYW1vdW50TW9udGhseSI6MSwiaW5zdXJhbmNlTW9udGhseSI6OCwidG90YWxNb250aGx5IjoxNTcsInRvdGFsQW1vdW50RHVlIjo2Mzc5LCJ0bmMiOjQuMjcwMDAwMDAwMDAwMDAwNSwidGFlZyI6Ni4yMSwiZmVlcyI6MCwicHJvZHVjdCI6InJldm9sdmluZyJ9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAtSCAiQXV0aG9yaXphdGlvbjogQmVhcmVyIDx2b3RyZSB0b2tlbiBkJ2FjY8Oocz4iIFwK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CmBgYApjdXJsIGh0dHBzOi8vYmFucXVlLWNhc2luby5jbG91ZC50eWsuaW8vbG9hbnMtc2FuZGJveC9vYXV0aC90b2tlbj9ncmFudF90eXBlPWNsaWVudF9jcmVkZW50aWFscyBcCiAgLVggUE9TVCBcCiAgLUggJ0NvbnRlbnQtVHlwZTogYXBwbGljYXRpb24vanNvbicgXAogIC1IICdDYWNoZS1Db250cm9sOiBuby1jYWNoZScgXAogIC1IICJBdXRob3JpemF0aW9uOiBCYXNpYyAkKGVjaG8gLW4gNDMzNjM5NGE1YWEwNGMyYjhlMWRiOWY5NDZiMTIxNzM6Tm1RMU56UmxPREl0WlRNeE5TMDBNV1V6TFdFeU5HRXRabUk0T0RZNFpUSXdNekJsIHwgYmFzZTY0KSIgXAogIC1kICd7ImNsaWVudF9pZCI6ICI0MzM2Mzk0YTVhYTA0YzJiOGUxZGI5Zjk0NmIxMjE3MyIsICJjbGllbnRfc2VjcmV0IjogIk5tUTFOelJsT0RJdFpUTXhOUzAwTVdVekxXRXlOR0V0Wm1JNE9EWTRaVEl3TXpCbCJ9JwpgYGA=</text>
-      </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">CmBgYApjdXJsIGh0dHBzOi8vYmFucXVlLWNhc2luby5jbG91ZC50eWsuaW8vbG9hbnMtc2FuZGJveC9vYXV0aC90b2tlbj9ncmFudF90eXBlPWNsaWVudF9jcmVkZW50aWFscyBcCiAgLVggUE9TVCBcCiAgLUggJ0NvbnRlbnQtVHlwZTogYXBwbGljYXRpb24vanNvbicgXAogIC1IICdDYWNoZS1Db250cm9sOiBuby1jYWNoZScgXAogIC1IICJBdXRob3JpemF0aW9uOiBCYXNpYyAkKGVjaG8gLW4gNDMzNjM5NGE1YWEwNGMyYjhlMWRiOWY5NDZiMTIxNzM6Tm1RMU56UmxPREl0WlRNeE5TMDBNV1V6TFdFeU5HRXRabUk0T0RZNFpUSXdNekJsIHwgYmFzZTY0KSIgXAogIC1kICd7ImNsaWVudF9pZCI6ICI0MzM2Mzk0YTVhYTA0YzJiOGUxZGI5Zjk0NmIxMjE3MyIsICJjbGllbnRfc2VjcmV0IjogIk5tUTFOelJsT0RJdFpUTXhOUzAwTVdVekxXRXlOR0V0Wm1JNE9EWTRaVEl3TXpCbCJ9JwpgYGA=</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Q0xJRU5UX0lEPSI0MzM2Mzk0YTVhYTA0YzJiOGUxZGI5Zjk0NmIxMjE3MyIKQ0xJRU5UX1NFQ1JFVD0iTm1RMU56UmxPREl0WlRNeE5TMDBNV1V6TFdFeU5HRXRabUk0T0RZNFpUSXdNekJsIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dG90bz0kKGVjaG8gIjQzMzYzOTRhNWFhMDRjMmI4ZTFkYjlmOTQ2YjEyMTczOk5tUTFOelJsT0RJdFpUTXhOUzAwTVdVekxXRXlOR0V0Wm1JNE9EWTRaVEl3TXpCbAo=</text>
+        <text encoding="base64">Q0xJRU5UX0lEPSI0MzM2Mzk0YTVhYTA0YzJiOGUxZGI5Zjk0NmIxMjE3MyIKQ0xJRU5UX1NFQ1JFVD0iTm1RMU56UmxPREl0WlRNeE5TMDBNV1V6TFdFeU5HRXRabUk0T0RZNFpUSXdNekJsIgo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1xcIi8iL2c=</text>
