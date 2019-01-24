@@ -3,12 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/docs/envs.md" timestamp="1548168581746">
+      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/core/auth/memory-repository.js" timestamp="1548319459943">
+        <mark key="[" line="2" column="44" />
+        <mark key="]" line="2" column="44" />
+        <mark key="." line="2" column="44" />
+      </file>
+      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/docs/envs.md" timestamp="1548319474732">
         <mark key="'" line="10" column="0" />
-        <mark key="[" line="4" column="30" />
-        <mark key="]" line="4" column="42" />
+        <mark key="[" line="8" column="47" />
+        <mark key="]" line="8" column="47" />
         <mark key="^" line="4" column="42" />
-        <mark key="." line="4" column="42" />
+        <mark key="." line="8" column="47" />
       </file>
       <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/scss/layout/_footer.scss" timestamp="1548088639012">
         <mark key="'" line="0" column="0" />
@@ -17,11 +22,11 @@
         <mark key="^" line="14" column="10" />
         <mark key="." line="14" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/core/config.js" timestamp="1547744539485">
+      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/core/config.js" timestamp="1548319234992">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+        <mark key="[" line="34" column="18" />
+        <mark key="]" line="34" column="18" />
+        <mark key="." line="34" column="18" />
         <mark key="^" line="51" column="23" />
       </file>
       <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/public/styles/scss/index.scss" timestamp="1545077586731">
@@ -55,18 +60,18 @@
         <mark key="^" line="0" column="4921" />
         <mark key="." line="0" column="4921" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/docs/getting-started.md" timestamp="1548266058671">
-        <mark key="[" line="65" column="4" />
-        <mark key="]" line="65" column="4" />
-        <mark key="." line="65" column="4" />
-        <mark key="^" line="65" column="2" />
+      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/docs/getting-started.md" timestamp="1548319448854">
+        <mark key="[" line="40" column="13" />
+        <mark key="]" line="40" column="13" />
+        <mark key="." line="40" column="13" />
+        <mark key="^" line="33" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/core/apim.js" timestamp="1548264816554">
-        <mark key="'" line="78" column="6" />
-        <mark key="[" line="55" column="28" />
-        <mark key="]" line="55" column="19" />
-        <mark key="." line="55" column="19" />
-        <mark key="^" line="55" column="19" />
+      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/core/apim.js" timestamp="1548318669549">
+        <mark key="'" line="80" column="6" />
+        <mark key="[" line="27" column="43" />
+        <mark key="]" line="27" column="11" />
+        <mark key="." line="27" column="11" />
+        <mark key="^" line="27" column="11" />
       </file>
       <file name="$USER_HOME$/dev/banque-casino/api-management/docker-compose.yml" timestamp="1545865104012">
         <mark key="[" line="27" column="41" />
@@ -456,12 +461,12 @@
         <mark key="^" line="47" column="23" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/routes/catalog/controller.js" timestamp="1547741769113">
+      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/routes/catalog/controller.js" timestamp="1548319743746">
         <mark key="'" line="3" column="5" />
-        <mark key="[" line="24" column="59" />
-        <mark key="]" line="24" column="70" />
-        <mark key="." line="24" column="70" />
-        <mark key="^" line="24" column="70" />
+        <mark key="[" line="21" column="27" />
+        <mark key="]" line="21" column="27" />
+        <mark key="." line="21" column="27" />
+        <mark key="^" line="21" column="47" />
       </file>
       <file name="$USER_HOME$/dev/banque-casino/demo-client/store/index.js" timestamp="1547576988823">
         <mark key="[" line="101" column="13" />
@@ -910,7 +915,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgeyAgCiAgICAiaWQiOiJlY28tdmVoaWNsZSIsCiAgICAibGFiZWwiOiJWw6loaWN1bGUgw6lsZWN0cmlxdWUgb3UgaHlicmlkZSIsCiAgICAibWluQW1vdW50Ijo1MDAsCiAgICAibWF4QW1vdW50IjozODAwMCwKICAgICJtaW5EdXJhdGlvbiI6NiwKICAgICJtYXhEdXJhdGlvbiI6ODQKICB9</text>
+        <text>104.40.210.16:8080</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2437,7 +2442,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>104.40.210.16:8080</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2452,37 +2457,39 @@
         <text encoding="base64">ICAgICAgICBhLm1kYy10b3AtYXBwLWJhcl9fdGl0bGUoaHJlZj0nL2NhdGFsb2cnKSBBUElzCg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CiAgeyAgCiAgICAiaWQiOiJlY28tdmVoaWNsZSIsCiAgICAibGFiZWwiOiJWw6loaWN1bGUgw6lsZWN0cmlxdWUgb3UgaHlicmlkZSIsCiAgICAibWluQW1vdW50Ijo1MDAsCiAgICAibWF4QW1vdW50IjozODAwMCwKICAgICJtaW5EdXJhdGlvbiI6NiwKICAgICJtYXhEdXJhdGlvbiI6ODQKICB9</text>
+        <text>${
+      filteredApis[0].api_definition.slug
+    }</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICB7ICAK</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICBjb25zb2xlLmxvZyhkb2N1bWVudGF0aW9uKTs=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAiaWQiOiJtb3RvIiwKICAgICJsYWJlbCI6Ik1vdG8iLAogICAgIm1pbkFtb3VudCI6NTAwLAogICAgIm1heEFtb3VudCI6MzgwMDAsCiAgICAibWluRHVyYXRpb24iOjYsCiAgICAibWF4RHVyYXRpb24iOjg0CiAgfSwKICB7ICAKICAgICJpZCI6ImNhbXBpbmctY2FyIiwKICAgICJsYWJlbCI6IkNhbXBpbmcgY2FyIiwKICAgICJtaW5BbW91bnQiOjUwMCwKICAgICJtYXhBbW91bnQiOjUwMDAwLAogICAgIm1pbkR1cmF0aW9uIjo2LAogICAgIm1heER1cmF0aW9uIjo4NAogIH0sCiAgeyAgCiAgICAiaWQiOiJib2F0IiwKICAgICJsYWJlbCI6IkJhdGVhdSIsCiAgICAibWluQW1vdW50Ijo1MDAsCiAgICAibWF4QW1vdW50Ijo1MDAwMCwKICAgICJtaW5EdXJhdGlvbiI6NiwKICAgICJtYXhEdXJhdGlvbiI6ODQKICB9LAogIHsgIAogICAgImlkIjoiY29uc3VtcHRpb24iLAogICAgImxhYmVsIjoiQ29uc28iLAogICAgIm1pbkFtb3VudCI6NTAwLAogICAgIm1heEFtb3VudCI6MTUwMDAsCiAgICAibWluRHVyYXRpb24iOjYsCiAgICAibWF4RHVyYXRpb24iOjYwCiAgfSwKICB7ICAKICAgICJpZCI6ImVjby1lbmVyZ3kiLAogICAgImxhYmVsIjoiw4ljb25vbWllIGQnw6luZXJnaWUiLAogICAgIm1pbkFtb3VudCI6NTAwLAogICAgIm1heEFtb3VudCI6MTUwMDAsCiAgICAibWluRHVyYXRpb24iOjYsCiAgICAibWF4RHVyYXRpb24iOjYwCiAgfSwKICB7ICAKICAgICJpZCI6ImhvYmJpZXMiLAogICAgImxhYmVsIjoiTG9pc2lycyIsCiAgICAibWluQW1vdW50Ijo1MDAsCiAgICAibWF4QW1vdW50IjoxNTAwMCwKICAgICJtaW5EdXJhdGlvbiI6NiwKICAgICJtYXhEdXJhdGlvbiI6NjAKICB9LAogIHsgIAogICAgImlkIjoibWFycmlhZ2UiLAogICAgImxhYmVsIjoiTWFyaWFnZSIsCiAgICAibWluQW1vdW50Ijo1MDAsCiAgICAibWF4QW1vdW50IjoxNTAwMCwKICAgICJtaW5EdXJhdGlvbiI6NiwKICAgICJtYXhEdXJhdGlvbiI6NjAKICB9LAogIHsgIAogICAgImlkIjoiZnVuZHMiLAogICAgImxhYmVsIjoiVHLDqXNvcmVyaWUiLAogICAgIm1pbkFtb3VudCI6NTAwLAogICAgIm1heEFtb3VudCI6MTUwMDAsCiAgICAibWluRHVyYXRpb24iOjYsCiAgICAibWF4RHVyYXRpb24iOjYwCiAgfSwKICB7ICAKICAgICJpZCI6InRyYXZlbCIsCiAgICAibGFiZWwiOiJWb3lhZ2VzIiwKICAgICJtaW5BbW91bnQiOjUwMCwKICAgICJtYXhBbW91bnQiOjE1MDAwLAogICAgIm1pbkR1cmF0aW9uIjo2LAogICAgIm1heER1cmF0aW9uIjo2MAogIH0sCiAgeyAgCiAgICAiaWQiOiJ3b3JrcyIsCiAgICAibGFiZWwiOiJUcmF2YXV4IiwKICAgICJtaW5BbW91bnQiOjUwMCwKICAgICJtYXhBbW91bnQiOjQwMDAwLAogICAgIm1pbkR1cmF0aW9uIjo2LAogICAgIm1heER1cmF0aW9uIjo4NAogIH0=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgYwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBvbGljaWVzTmFtZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgZG9jdW1lbnRhdGlvbiwK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBvbGljaWVzTmFtZSk7Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgeyAgCiAgICAiaWQiOiJlY28tdmVoaWNsZSIsCiAgICAibGFiZWwiOiJWw6loaWN1bGUgw6lsZWN0cmlxdWUgb3UgaHlicmlkZSIsCiAgICAibWluQW1vdW50Ijo1MDAsCiAgICAibWF4QW1vdW50IjozODAwMCwKICAgICJtaW5EdXJhdGlvbiI6NiwKICAgICJtYXhEdXJhdGlvbiI6ODQKICB9</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CnsKICAiYW1vdW50QXNrZWQiOiA2MDAwLAogICJkdXJhdGlvbiI6IDEyLAogICJhbW91bnRNb250aGx5IjogMSwKICAiaW5zdXJhbmNlTW9udGhseSI6IDgsCiAgInRvdGFsTW9udGhseSI6IDE1NywKICAidG90YWxBbW91bnREdWUiOiA2Mzc5LAogICJ0bmMiOiA0LjI3LAogICJ0YWVnIjogNi4yMSwKICAiZmVlcyI6IDAsCiAgInByb2R1Y3QiOiAicmV2b2x2aW5nIgp9</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICB7ICAK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAtWCBQT1NUIFwK</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAiaWQiOiJtb3RvIiwKICAgICJsYWJlbCI6Ik1vdG8iLAogICAgIm1pbkFtb3VudCI6NTAwLAogICAgIm1heEFtb3VudCI6MzgwMDAsCiAgICAibWluRHVyYXRpb24iOjYsCiAgICAibWF4RHVyYXRpb24iOjg0CiAgfSwKICB7ICAKICAgICJpZCI6ImNhbXBpbmctY2FyIiwKICAgICJsYWJlbCI6IkNhbXBpbmcgY2FyIiwKICAgICJtaW5BbW91bnQiOjUwMCwKICAgICJtYXhBbW91bnQiOjUwMDAwLAogICAgIm1pbkR1cmF0aW9uIjo2LAogICAgIm1heER1cmF0aW9uIjo4NAogIH0sCiAgeyAgCiAgICAiaWQiOiJib2F0IiwKICAgICJsYWJlbCI6IkJhdGVhdSIsCiAgICAibWluQW1vdW50Ijo1MDAsCiAgICAibWF4QW1vdW50Ijo1MDAwMCwKICAgICJtaW5EdXJhdGlvbiI6NiwKICAgICJtYXhEdXJhdGlvbiI6ODQKICB9LAogIHsgIAogICAgImlkIjoiY29uc3VtcHRpb24iLAogICAgImxhYmVsIjoiQ29uc28iLAogICAgIm1pbkFtb3VudCI6NTAwLAogICAgIm1heEFtb3VudCI6MTUwMDAsCiAgICAibWluRHVyYXRpb24iOjYsCiAgICAibWF4RHVyYXRpb24iOjYwCiAgfSwKICB7ICAKICAgICJpZCI6ImVjby1lbmVyZ3kiLAogICAgImxhYmVsIjoiw4ljb25vbWllIGQnw6luZXJnaWUiLAogICAgIm1pbkFtb3VudCI6NTAwLAogICAgIm1heEFtb3VudCI6MTUwMDAsCiAgICAibWluRHVyYXRpb24iOjYsCiAgICAibWF4RHVyYXRpb24iOjYwCiAgfSwKICB7ICAKICAgICJpZCI6ImhvYmJpZXMiLAogICAgImxhYmVsIjoiTG9pc2lycyIsCiAgICAibWluQW1vdW50Ijo1MDAsCiAgICAibWF4QW1vdW50IjoxNTAwMCwKICAgICJtaW5EdXJhdGlvbiI6NiwKICAgICJtYXhEdXJhdGlvbiI6NjAKICB9LAogIHsgIAogICAgImlkIjoibWFycmlhZ2UiLAogICAgImxhYmVsIjoiTWFyaWFnZSIsCiAgICAibWluQW1vdW50Ijo1MDAsCiAgICAibWF4QW1vdW50IjoxNTAwMCwKICAgICJtaW5EdXJhdGlvbiI6NiwKICAgICJtYXhEdXJhdGlvbiI6NjAKICB9LAogIHsgIAogICAgImlkIjoiZnVuZHMiLAogICAgImxhYmVsIjoiVHLDqXNvcmVyaWUiLAogICAgIm1pbkFtb3VudCI6NTAwLAogICAgIm1heEFtb3VudCI6MTUwMDAsCiAgICAibWluRHVyYXRpb24iOjYsCiAgICAibWF4RHVyYXRpb24iOjYwCiAgfSwKICB7ICAKICAgICJpZCI6InRyYXZlbCIsCiAgICAibGFiZWwiOiJWb3lhZ2VzIiwKICAgICJtaW5BbW91bnQiOjUwMCwKICAgICJtYXhBbW91bnQiOjE1MDAwLAogICAgIm1pbkR1cmF0aW9uIjo2LAogICAgIm1heER1cmF0aW9uIjo2MAogIH0sCiAgeyAgCiAgICAiaWQiOiJ3b3JrcyIsCiAgICAibGFiZWwiOiJUcmF2YXV4IiwKICAgICJtaW5BbW91bnQiOjUwMCwKICAgICJtYXhBbW91bnQiOjQwMDAwLAogICAgIm1pbkR1cmF0aW9uIjo2LAogICAgIm1heER1cmF0aW9uIjo4NAogIH0=</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAtZCAneyJhbW91bnQiOiA2MDAwLCAicHJvamVjdCI6ICJuZXctdmVoaWNsZSIsICJkdXJhdGlvbiI6IDEyfScgXAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBvbGljaWVzTmFtZSk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgLWQgJ3siYW1vdW50IjogNjAwMCwgInByb2plY3QiOiAibmV3LXZlaGljbGUiLCAiZHVyYXRpb24iOiAxMn0nIFw=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBvbGljaWVzTmFtZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1xcIi8iL2c=</text>
