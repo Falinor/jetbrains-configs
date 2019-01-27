@@ -137,6 +137,12 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/Dev/kong-examples/package.json" timestamp="1548543654226">
+        <mark key="[" line="9" column="13" />
+        <mark key="]" line="9" column="16" />
+        <mark key="." line="9" column="16" />
+        <mark key="^" line="9" column="16" />
+      </file>
       <file name="$USER_HOME$/Dev/baby-foot/api/src/app/use-case.ts" timestamp="1544874869517">
         <mark key="'" line="0" column="20" />
         <mark key="[" line="7" column="2" />
@@ -465,6 +471,13 @@
         <mark key="]" line="3" column="40" />
         <mark key="." line="3" column="40" />
         <mark key="^" line="3" column="40" />
+      </file>
+      <file name="$USER_HOME$/Dev/kong-examples/src/open-httpbin-api/index.test.js" timestamp="1548544534058">
+        <mark key="'" line="6" column="8" />
+        <mark key="[" line="9" column="2" />
+        <mark key="]" line="9" column="1" />
+        <mark key="." line="9" column="1" />
+        <mark key="^" line="9" column="1" />
       </file>
       <file name="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/shared/models/operation/duration.ts" timestamp="1534930365166">
         <mark key="[" line="5" column="0" />
@@ -1414,9 +1427,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/dev/UTM/utm-frontend-authority/src/app/modules/shared/models/operation/operation.ts" />
-      <jump line="704" column="2" filename="$USER_HOME$/dev/UTM/utm-api-docs/openapi.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/domain/player.js" />
       <jump line="1" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/domain/player.js" />
       <jump line="1" column="0" filename="$USER_HOME$/Dev/baby-foot/api/test/unit/domain/player.test.js" />
       <jump line="11" column="16" filename="$USER_HOME$/Dev/coffeemaker/src/index.ts" />
@@ -1514,6 +1524,9 @@
       <jump line="9" column="7" filename="$USER_HOME$/Dev/baby-foot/api/src/interfaces/http/middlewares/index.js" />
       <jump line="9" column="2" filename="$USER_HOME$/Dev/baby-foot/api/src/app/match/find-matches.js" />
       <jump line="8" column="8" filename="$USER_HOME$/Dev/baby-foot/api/src/app/match/create-match.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/Dev/kong-examples/src/open-httpbin-api/index.test.js" />
+      <jump line="13" column="4" filename="$USER_HOME$/Dev/kong-examples/src/open-httpbin-api/index.test.js" />
+      <jump line="6" column="8" filename="$USER_HOME$/Dev/kong-examples/src/open-httpbin-api/index.test.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1810,7 +1823,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>fromInfra</text>
+        <text encoding="base64">YXdhaXQg</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -3337,7 +3350,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>fromInfra</text>
+        <text encoding="base64">YXdhaXQg</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -3352,7 +3365,7 @@
         <text encoding="base64">PHN1cHByZXNzPgoJCTxub3Rlcz48IVtDREFUQVsKICAgCQkJZmlsZSBuYW1lOiBtb2RlbC0wLjAuMS1TTkFQU0hPVC5qYXIKICAgCQkJXV0+CiAgIAkJPC9ub3Rlcz4KCQk8Z2F2IHJlZ2V4PSJ0cnVlIj5eY29tXC50aGFsZXNcLnV0bTptb2RlbDouKiQ8L2dhdj4KCQk8Y3ZlPkNWRS0yMDE4LTExOTY8L2N2ZT4KCTwvc3VwcHJlc3M+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICByZXR1cm4gT2JqZWN0LnZhbHVlcyhMb2dMZXZlbCkubWFwKGtleSA9PiAoeyBba2V5XTogYnVueWFuW2tleV0gfSkpCg==</text>
+        <text encoding="base64">ICB0LmlzKHJlcy5zdGF0dXMsIDIwMCk7CiAgdC5sb2cocmVzKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3366,34 +3379,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFtMb2ddCg==</text>
+        <text encoding="base64">ICAgIC5leHBlY3QoJ0NvbnRlbnQtVHlwZScsIC9qc29uLykKICAgIC5leHBlY3QoMjAwKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjcmVhdGVCdW55YW5Mb2dnZXIoKS4K</text>
+        <text encoding="base64">ICB0LmlzKHJlcy5oZWFkZXIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC5leHBlY3QoewogICAgICB1dWlkCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">b3V0cHV0cyA9IHsKICAgIFNVQ0NFU1M6ICdzdWNjZXNzJywKICAgIEVSUk9SOiAnZXJyb3InLAogIH07Cg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>outputs = {
-    SUCCESS: 'success',
-    ERROR: 'error',
-  }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC5lbmQoZnVuY3Rpb24oZXJyLCByZXMpIHsKICAgICAgaWYgKGVycikgdGhyb3cgZXJyOwo=</text>
       </register>
       <register name="w" type="4">
-        <text>w</text>
+        <keys>
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="9" mods="0" />
+        </keys>
       </register>
-      <register name="8" type="4">
-        <text>outputs = {
-    SUCCESS: 'success',
-    ERROR: 'error',
-  }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICB0LmlzKHJlcy5zdGF0dXMsIDIwMDoK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
