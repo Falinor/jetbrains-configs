@@ -111,7 +111,7 @@
         <mark key="^" line="13" column="15" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/api/src/assets/api-doc/index.yml" timestamp="1548065826446">
+      <file name="$USER_HOME$/dev/banque-casino/api/src/assets/api-doc/index.yml" timestamp="1548672205059">
         <mark key="[" line="29" column="27" />
         <mark key="]" line="29" column="27" />
         <mark key="." line="29" column="27" />
@@ -303,6 +303,13 @@
         <mark key="." line="9" column="56" />
         <mark key="^" line="9" column="56" />
       </file>
+      <file name="$USER_HOME$/dev/banque-casino/api/src/assets/README.md" timestamp="1548673330303">
+        <mark key="'" line="44" column="71" />
+        <mark key="[" line="28" column="13" />
+        <mark key="]" line="27" column="8" />
+        <mark key="." line="27" column="8" />
+        <mark key="^" line="27" column="8" />
+      </file>
       <file name="$USER_HOME$/dev/banque-casino/developer-portal/test/core/apim.test.js" timestamp="1547565678900">
         <mark key="[" line="4" column="33" />
         <mark key="]" line="4" column="32" />
@@ -388,6 +395,7 @@
         <mark key="^" line="12" column="20" />
         <mark key="." line="12" column="20" />
       </file>
+      <file name="$USER_HOME$/dev/banque-casino/api/src/assets/projects.json" timestamp="1548671139549" />
       <file name="$USER_HOME$/dev/banque-casino/developer-portal/test/core/auth/memory-repository.test.js" timestamp="1546527893197">
         <mark key="[" line="6" column="12" />
         <mark key="]" line="6" column="11" />
@@ -506,6 +514,11 @@
         <mark key="^" line="59" column="27" />
         <mark key="." line="59" column="27" />
       </file>
+      <file name="$USER_HOME$/dev/banque-casino/api/src/resources/project/data/mock-repository.ts" timestamp="1548671136586">
+        <mark key="[" line="15" column="63" />
+        <mark key="]" line="15" column="63" />
+        <mark key="." line="15" column="63" />
+      </file>
       <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/routes/auth/router.js" timestamp="1547804338839">
         <mark key="[" line="6" column="25" />
         <mark key="]" line="6" column="25" />
@@ -519,10 +532,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="14" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/core/auth/middleware.js" />
-      <jump line="18" column="4" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/core/auth/tyk.js" />
-      <jump line="48" column="22" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/index.js" />
-      <jump line="24" column="1" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/core/auth/index.js" />
       <jump line="17" column="25" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/index.js" />
       <jump line="2" column="38" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/core/auth/middleware.js" />
       <jump line="13" column="45" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/core/auth/middleware.js" />
@@ -619,6 +628,10 @@
       <jump line="10" column="0" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/docs/envs.md" />
       <jump line="35" column="133" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/docs/getting-started.md" />
       <jump line="47" column="133" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/docs/getting-started.md" />
+      <jump line="8" column="68" filename="$USER_HOME$/dev/banque-casino/api/src/assets/README.md" />
+      <jump line="3" column="8" filename="$USER_HOME$/dev/banque-casino/api/src/assets/README.md" />
+      <jump line="2" column="0" filename="$USER_HOME$/dev/banque-casino/api/src/assets/README.md" />
+      <jump line="11" column="71" filename="$USER_HOME$/dev/banque-casino/api/src/assets/README.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -915,7 +928,12 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>104.40.210.16:8080</text>
+        <text>customer.yml
+    ├── decision.yml
+    ├── demand
+    │   ├── demand-input.yml
+    │   └── demand-output.yml
+    ├── error.yml</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2442,7 +2460,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>104.40.210.16:8080</text>
+        <text encoding="base64">IGBpbmRleC55bWxg</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2457,39 +2475,44 @@
         <text encoding="base64">ICAgICAgICBhLm1kYy10b3AtYXBwLWJhcl9fdGl0bGUoaHJlZj0nL2NhdGFsb2cnKSBBUElzCg==</text>
       </register>
       <register name="1" type="4">
-        <text>${
-      filteredApis[0].api_definition.slug
-    }</text>
+        <text>customer.yml
+    ├── decision.yml
+    ├── demand
+    │   ├── demand-input.yml
+    │   └── demand-output.yml
+    ├── error.yml</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CiAgICBjb25zb2xlLmxvZyhkb2N1bWVudGF0aW9uKTs=</text>
+        <text encoding="base64">CiAgICDilJzilIDilIAgcHJvZHVjdC55bWwKICAgIOKUnOKUgOKUgCBwcm9qZWN0CiAgICDilILCoMKgIOKUnOKUgOKUgCBwcm9qZWN0LnltbAogICAg4pSCwqDCoCDilJTilIDilIAgcHJvamVjdHMueW1sCiAgICDilJTilIDilIAgc2ltdWxhdGlvbgogICAgICAgIOKUnOKUgOKUgCBzaW11bGF0aW9uLWlucHV0LnltbAogICAgICAgIOKUlOKUgOKUgCBzaW11bGF0aW9uLW91dHB1dC55bWw=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZG9jdW1lbnRhdGlvbiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">CiAgeyAgCiAgICAiaWQiOiJlY28tdmVoaWNsZSIsCiAgICAibGFiZWwiOiJWw6loaWN1bGUgw6lsZWN0cmlxdWUgb3UgaHlicmlkZSIsCiAgICAibWluQW1vdW50Ijo1MDAsCiAgICAibWF4QW1vdW50IjozODAwMCwKICAgICJtaW5EdXJhdGlvbiI6NiwKICAgICJtYXhEdXJhdGlvbiI6ODQKICB9</text>
+        <text encoding="base64">CnwKfC0KfC0KfC0=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB7ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAiaWQiOiJtb3RvIiwKICAgICJsYWJlbCI6Ik1vdG8iLAogICAgIm1pbkFtb3VudCI6NTAwLAogICAgIm1heEFtb3VudCI6MzgwMDAsCiAgICAibWluRHVyYXRpb24iOjYsCiAgICAibWF4RHVyYXRpb24iOjg0CiAgfSwKICB7ICAKICAgICJpZCI6ImNhbXBpbmctY2FyIiwKICAgICJsYWJlbCI6IkNhbXBpbmcgY2FyIiwKICAgICJtaW5BbW91bnQiOjUwMCwKICAgICJtYXhBbW91bnQiOjUwMDAwLAogICAgIm1pbkR1cmF0aW9uIjo2LAogICAgIm1heER1cmF0aW9uIjo4NAogIH0sCiAgeyAgCiAgICAiaWQiOiJib2F0IiwKICAgICJsYWJlbCI6IkJhdGVhdSIsCiAgICAibWluQW1vdW50Ijo1MDAsCiAgICAibWF4QW1vdW50Ijo1MDAwMCwKICAgICJtaW5EdXJhdGlvbiI6NiwKICAgICJtYXhEdXJhdGlvbiI6ODQKICB9LAogIHsgIAogICAgImlkIjoiY29uc3VtcHRpb24iLAogICAgImxhYmVsIjoiQ29uc28iLAogICAgIm1pbkFtb3VudCI6NTAwLAogICAgIm1heEFtb3VudCI6MTUwMDAsCiAgICAibWluRHVyYXRpb24iOjYsCiAgICAibWF4RHVyYXRpb24iOjYwCiAgfSwKICB7ICAKICAgICJpZCI6ImVjby1lbmVyZ3kiLAogICAgImxhYmVsIjoiw4ljb25vbWllIGQnw6luZXJnaWUiLAogICAgIm1pbkFtb3VudCI6NTAwLAogICAgIm1heEFtb3VudCI6MTUwMDAsCiAgICAibWluRHVyYXRpb24iOjYsCiAgICAibWF4RHVyYXRpb24iOjYwCiAgfSwKICB7ICAKICAgICJpZCI6ImhvYmJpZXMiLAogICAgImxhYmVsIjoiTG9pc2lycyIsCiAgICAibWluQW1vdW50Ijo1MDAsCiAgICAibWF4QW1vdW50IjoxNTAwMCwKICAgICJtaW5EdXJhdGlvbiI6NiwKICAgICJtYXhEdXJhdGlvbiI6NjAKICB9LAogIHsgIAogICAgImlkIjoibWFycmlhZ2UiLAogICAgImxhYmVsIjoiTWFyaWFnZSIsCiAgICAibWluQW1vdW50Ijo1MDAsCiAgICAibWF4QW1vdW50IjoxNTAwMCwKICAgICJtaW5EdXJhdGlvbiI6NiwKICAgICJtYXhEdXJhdGlvbiI6NjAKICB9LAogIHsgIAogICAgImlkIjoiZnVuZHMiLAogICAgImxhYmVsIjoiVHLDqXNvcmVyaWUiLAogICAgIm1pbkFtb3VudCI6NTAwLAogICAgIm1heEFtb3VudCI6MTUwMDAsCiAgICAibWluRHVyYXRpb24iOjYsCiAgICAibWF4RHVyYXRpb24iOjYwCiAgfSwKICB7ICAKICAgICJpZCI6InRyYXZlbCIsCiAgICAibGFiZWwiOiJWb3lhZ2VzIiwKICAgICJtaW5BbW91bnQiOjUwMCwKICAgICJtYXhBbW91bnQiOjE1MDAwLAogICAgIm1pbkR1cmF0aW9uIjo2LAogICAgIm1heER1cmF0aW9uIjo2MAogIH0sCiAgeyAgCiAgICAiaWQiOiJ3b3JrcyIsCiAgICAibGFiZWwiOiJUcmF2YXV4IiwKICAgICJtaW5BbW91bnQiOjUwMCwKICAgICJtYXhBbW91bnQiOjQwMDAwLAogICAgIm1pbkR1cmF0aW9uIjo2LAogICAgIm1heER1cmF0aW9uIjo4NAogIH0=</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBvbGljaWVzTmFtZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBvbGljaWVzTmFtZSk7Cg==</text>
+      <register name="9" type="4">
+        <text>${
+      filteredApis[0].api_definition.slug
+    }</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1xcIi8iL2c=</text>
