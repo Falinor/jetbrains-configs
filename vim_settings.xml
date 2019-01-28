@@ -1174,6 +1174,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/Dev/kong-examples/docker-compose.yml" timestamp="1548715380675">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+      </file>
       <file name="$USER_HOME$/Dev/baby-foot/api/src/domain/player.js" timestamp="1536697244505">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="3" column="25" />
@@ -1192,6 +1197,13 @@
         <mark key="]" line="24" column="17" />
         <mark key="^" line="24" column="17" />
         <mark key="." line="24" column="17" />
+      </file>
+      <file name="$USER_HOME$/Dev/kong-examples/README.md" timestamp="1548716072155">
+        <mark key="'" line="14" column="46" />
+        <mark key="[" line="27" column="59" />
+        <mark key="]" line="27" column="59" />
+        <mark key="^" line="27" column="59" />
+        <mark key="." line="27" column="59" />
       </file>
       <file name="$USER_HOME$/Dev/tdf/react-adapter/src/lib/index.js" timestamp="1532585755754">
         <mark key="[" line="2" column="41" />
@@ -1278,12 +1290,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="15" column="25" />
       </file>
-      <file name="$USER_HOME$/Dev/kong-examples/src/open-httpbin-api/index.js" timestamp="1548709053303">
-        <mark key="'" line="18" column="32" />
-        <mark key="[" line="12" column="30" />
-        <mark key="]" line="12" column="2" />
-        <mark key="^" line="12" column="2" />
-        <mark key="." line="12" column="2" />
+      <file name="$USER_HOME$/Dev/kong-examples/src/open-httpbin-api/index.js" timestamp="1548715180131">
+        <mark key="'" line="19" column="32" />
+        <mark key="[" line="19" column="34" />
+        <mark key="]" line="19" column="34" />
+        <mark key="." line="19" column="34" />
+        <mark key="^" line="19" column="34" />
       </file>
       <file name="$USER_HOME$/dev/tdf/tdf-react-adapter/test/index.test.js" timestamp="1533738755774">
         <mark key="[" line="10" column="19" />
@@ -1434,11 +1446,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/Dev/baby-foot/api/test/unit/domain/player.test.js" />
-      <jump line="11" column="16" filename="$USER_HOME$/Dev/coffeemaker/src/index.ts" />
-      <jump line="5" column="0" filename="$USER_HOME$/Dev/coffeemaker/src/index.ts" />
-      <jump line="12" column="30" filename="$USER_HOME$/Dev/coffeemaker/src/router.ts" />
-      <jump line="0" column="21" filename="$USER_HOME$/Dev/coffeemaker/src/app.ts" />
       <jump line="10" column="24" filename="$USER_HOME$/Dev/coffeemaker/src/app.ts" />
       <jump line="2" column="25" filename="$USER_HOME$/Dev/coffeemaker/src/app.ts" />
       <jump line="4" column="16" filename="$USER_HOME$/Dev/coffeemaker/src/app.ts" />
@@ -1534,6 +1541,11 @@
       <jump line="13" column="4" filename="$USER_HOME$/Dev/kong-examples/src/open-httpbin-api/index.test.js" />
       <jump line="6" column="1" filename="$USER_HOME$/Dev/kong-examples/src/open-httpbin-api/index.test.js" />
       <jump line="18" column="32" filename="$USER_HOME$/Dev/kong-examples/src/open-httpbin-api/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dev/kong-examples/docker-compose.yml" />
+      <jump line="55" column="0" filename="$USER_HOME$/Dev/kong-examples/docker-compose.yml" />
+      <jump line="22" column="0" filename="$USER_HOME$/Dev/kong-examples/README.md" />
+      <jump line="0" column="14" filename="$USER_HOME$/Dev/kong-examples/README.md" />
+      <jump line="14" column="46" filename="$USER_HOME$/Dev/kong-examples/README.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1829,8 +1841,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>{service name or id}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -3357,7 +3369,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>{service name or id}</text>
+        <text>shell</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -3372,7 +3384,7 @@
         <text encoding="base64">PHN1cHByZXNzPgoJCTxub3Rlcz48IVtDREFUQVsKICAgCQkJZmlsZSBuYW1lOiBtb2RlbC0wLjAuMS1TTkFQU0hPVC5qYXIKICAgCQkJXV0+CiAgIAkJPC9ub3Rlcz4KCQk8Z2F2IHJlZ2V4PSJ0cnVlIj5eY29tXC50aGFsZXNcLnV0bTptb2RlbDouKiQ8L2dhdj4KCQk8Y3ZlPkNWRS0yMDE4LTExOTY8L2N2ZT4KCTwvc3VwcHJlc3M+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3386,22 +3398,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">JCB5YXJuIHRlc3QKYGBgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bGV0IGlkOwo=</text>
+        <text encoding="base64">CmBgYHNoZWxsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpZCA9IGRhdGEuaWQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBzZXJ2aWNlLgo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiMjIElzc3VlcwoKSWYgeW91IGhhdmUgYW55IHByb2JsZW1zIHdpdGggb3IgcXVlc3Rpb25zIGFib3V0IHRoaXMgaW1hZ2UsIHBsZWFzZSBjb250YWN0IHVzIHRocm91Z2ggYSBbR2l0SHViIGlzc3VlXVtnaXRodWItbmV3LWlzc3VlXS4KCltrb25nLXNpdGUtdXJsXTogaHR0cHM6Ly9rb25naHEuY29tLwpba29uZy1kb2NzLXVybF06IGh0dHBzOi8vZG9jcy5rb25naHEuY29tLw==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzZXJ2aWNlcwo=</text>
+        <text encoding="base64">W2dpdGh1Yi1uZXctaXNzdWVdOiBodHRwczovL2dpdGh1Yi5jb20vS29uZy9kb2NrZXIta29uZy9pc3N1ZXMvbmV3Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgYWRtaW5BUEkgPSAnaHR0cDovL2xvY2FsaG9zdDo4MDAxJzsK</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiMjIENvbnRyaWJ1dGluZwoKWW91IGFyZSBpbnZpdGVkIHRvIGNvbnRyaWJ1dGUgbmV3IGZlYXR1cmVzLCBmaXhlcywgb3IgdXBkYXRlcywgbGFyZ2Ugb3Igc21hbGw7IHdlIGFyZSBhbHdheXMgdGhyaWxsZWQgdG8gcmVjZWl2ZSBwdWxsIHJlcXVlc3RzLCBhbmQgZG8gb3VyIGJlc3QgdG8gcHJvY2VzcyB0aGVtIGFzIGZhc3QgYXMgd2UgY2FuLgoKQmVmb3JlIHlvdSBzdGFydCB0byBjb2RlLCB3ZSByZWNvbW1lbmQgZGlzY3Vzc2luZyB5b3VyIHBsYW5zIHRocm91Z2ggYSBbR2l0SHViIGlzc3VlXVtnaXRodWItbmV3LWlzc3VlXSwgZXNwZWNpYWxseSBmb3IgbW9yZSBhbWJpdGlvdXMgY29udHJpYnV0aW9ucy4gVGhpcyBnaXZlcyBvdGhlciBjb250cmlidXRvcnMgYSBjaGFuY2UgdG8gcG9pbnQgeW91IGluIHRoZSByaWdodCBkaXJlY3Rpb24sIGdpdmUgeW91IGZlZWRiYWNrIG9uIHlvdXIgZGVzaWduLCBhbmQgaGVscCB5b3UgZmluZCBvdXQgaWYgc29tZW9uZSBlbHNlIGlzIHdvcmtpbmcgb24gdGhlIHNhbWUgdGhpbmcuCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3413,10 +3425,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXAsCiAgICBkb3duCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bWlncmF0aW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
