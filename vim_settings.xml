@@ -220,7 +220,13 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/reports-end-of-month.json5" timestamp="1548758972460" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/reports-end-of-month.json5" timestamp="1548761325551">
+        <mark key="'" line="2" column="36" />
+        <mark key="[" line="12" column="46" />
+        <mark key="]" line="5" column="12" />
+        <mark key="." line="5" column="12" />
+        <mark key="^" line="5" column="12" />
+      </file>
       <file name="$USER_HOME$/dev/banque-casino/developer-portal/test/core/auth/index.test.js" timestamp="1547564193886">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="8" column="15" />
@@ -560,8 +566,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="90" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/core/auth/middleware.js" />
-      <jump line="9" column="0" filename="$USER_HOME$/dev/banque-casino/developer-portal/test/di-container.test.js" />
       <jump line="0" column="2" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/core/di-container.js" />
       <jump line="34" column="0" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/scss/pages/_catalog.scss" />
       <jump line="52" column="1" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/scss/pages/_catalog.scss" />
@@ -660,6 +664,8 @@
       <jump line="15" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" />
       <jump line="15" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.json5" />
       <jump line="9" column="19" filename="$USER_HOME$/dev/banque-casino/api/src/core/README.md" />
+      <jump line="19" column="17" filename="$APPLICATION_CONFIG_DIR$/scratches/reports-end-of-month.json5" />
+      <jump line="2" column="36" filename="$APPLICATION_CONFIG_DIR$/scratches/reports-end-of-month.json5" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -956,7 +962,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">bGF5ZXIg</text>
+        <text>reportId</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2483,7 +2489,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bGF5ZXIg</text>
+        <text>reportId</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2498,38 +2504,37 @@
         <text encoding="base64">ICAgICAgICBhLm1kYy10b3AtYXBwLWJhcl9fdGl0bGUoaHJlZj0nL2NhdGFsb2cnKSBBUElzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">TWF5YmUgdGhlIG1vc3QgaW1wCg==</text>
+        <text encoding="base64">Ly8gfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>There can be many implementations
-including in-memory repository, MongoDB repository an</text>
+      <register name="2" type="2">
+        <text encoding="base64">Ly8gewovLyAgIGlkOiBzdHJpbmcsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICovCg==</text>
+        <text encoding="base64">Ly8gICBwZXJpb2Q6IHN0cmluZyBhcyAnWVktTU0nCi8vICAgY3JlYXRlZEF0OiBzdHJpbmcgYXMgSVNPIGRhdGV0aW1lCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIHtAbGluayBDb250YWluZXIucmVzb2x2ZX0K</text>
+        <text encoding="base64">ICAgICAgICBdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICoge0BsaW5rIENvbnRhaW5lcn0K</text>
+        <text encoding="base64">ICAgICAgICAgICd1dWlkOCcsCiAgICAgICAgICAndXVpZDknCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogQGluaGVyaXREb2MK</text>
+        <text encoding="base64">ICAgICAgICBmdW5kZWQ6IFsKICAgICAgICAgICd1dWlkNycsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogQHBhcmFtIHtib29sZWFufSBbdmFsaWRhdGVDb25maWc9dHJ1ZV0gLSB0aGlzIGlzIGRlZmF1bHQgcGFyYW0uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICd1dWlkNicK</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogQHBhcmFtIHtudW1iZXJ9IFt2YWxpZGF0ZUNvbmZpZz10cnVlXSAtIHRoaXMgaXMgZGVmYXVsdCBwYXJhbS4K</text>
+        <text encoding="base64">ICAgICAgICAgICd1dWlkNCcsCiAgICAgICAgICAndXVpZDUnLAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfSwK</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAgcmVqZWN0ZWQ6IFsgLy8gQW4gYXJyYXkgb2YgZGVtYW5kIElEcwogICAgICAgICAgJ3V1aWQxJywKICAgICAgICAgICd1dWlkMicsCiAgICAgICAgICAndXVpZDMnCiAgICAgICAgXSw=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
