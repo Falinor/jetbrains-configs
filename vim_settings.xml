@@ -269,12 +269,12 @@
         <mark key="^" line="16" column="27" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/get-dossiers.json5" timestamp="1548770792067">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/get-dossiers.json5" timestamp="1548771407965">
         <mark key="'" line="12" column="17" />
-        <mark key="[" line="16" column="1" />
-        <mark key="]" line="2" column="4" />
-        <mark key="^" line="2" column="4" />
-        <mark key="." line="2" column="4" />
+        <mark key="[" line="14" column="38" />
+        <mark key="]" line="14" column="36" />
+        <mark key="^" line="14" column="36" />
+        <mark key="." line="14" column="36" />
       </file>
       <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/scss/index.scss" timestamp="1547722855018">
         <mark key="[" line="16" column="28" />
@@ -985,7 +985,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBdCg==</text>
+        <text encoding="base64">ICAgIGNyZWF0ZWRBdDogJzIwMTgtMDEtMDFUMDA6MDA6MDBaJywK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2512,7 +2512,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>pending</text>
+        <text>, // Date de création de la demande</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2527,49 +2527,40 @@
         <text encoding="base64">ICAgICAgICBhLm1kYy10b3AtYXBwLWJhcl9fdGl0bGUoaHJlZj0nL2NhdGFsb2cnKSBBUElzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBdCg==</text>
+        <text encoding="base64">ICAgIGNyZWF0ZWRBdDogJzIwMTgtMDEtMDFUMDA6MDA6MDBaJywK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhY2NlcHRlZDogWwo=</text>
+        <text encoding="base64">ICAgIHN0YXR1czogJ2FjY2VwdGVkJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gR0VUIC9yZXBvcnRzL3tpZCBvciBwZXJpb2R9IGUuZy4gL3JlcG9ydHMvMTA5ZGEtMTkzcy1tdmwxMjkgb3IgL3JlcG9ydHMvMjAxOC0wMgo=</text>
+        <text encoding="base64">ICAgICAgICBhY2NlcHRlZDogWwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjcmVhdGVkQXQ6ICcyMDE4LTAxLTAxVDAwOjAwOjAwWicsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gR0VUIC9yZXBvcnRzL3tpZCBvciBwZXJpb2R9IGUuZy4gL3JlcG9ydHMvMTA5ZGEtMTkzcy1tdmwxMjkgb3IgL3JlcG9ydHMvMjAxOC0wMgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjcmVhdGVkQXQ6ICcyMDE4LTAxLTAxVDAwOjAwOjAwWicsCg==</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
-      <register name="8" type="4">
-        <text>// GET /dossiers (ou équivalent)
-[
-  {
-    id: 'uuid', // Demand ID
-    createdAt: '2018-01-01T00:00:00Z', // Creation date
-    partners: [
-
-    ]
-  }
-]</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2623,8 +2614,8 @@
         <entry encoding="base64">JzwsJz5zLyIvXFwiL2c=</entry>
         <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
         <entry encoding="base64">JzwsJz5zL1xcIi8iL2c=</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
