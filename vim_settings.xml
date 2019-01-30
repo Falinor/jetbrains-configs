@@ -118,12 +118,12 @@
         <mark key="^" line="12" column="47" />
         <mark key="." line="12" column="47" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/developer-portal/test/core/auth/index.test.js" timestamp="1547564193886">
+      <file name="$USER_HOME$/dev/banque-casino/developer-portal/test/core/auth/index.test.js" timestamp="1548860097040">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="8" column="15" />
-        <mark key="]" line="10" column="13" />
-        <mark key="." line="10" column="13" />
-        <mark key="^" line="10" column="13" />
+        <mark key="[" line="25" column="38" />
+        <mark key="]" line="25" column="36" />
+        <mark key="." line="25" column="36" />
+        <mark key="^" line="25" column="36" />
       </file>
       <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/views/pages/auth.pug" timestamp="1547808666711">
         <mark key="'" line="7" column="68" />
@@ -485,13 +485,10 @@
         <mark key="." line="9" column="56" />
         <mark key="^" line="9" column="56" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/api/src/assets/README.md" timestamp="1548679263023">
-        <mark key="'" line="39" column="71" />
-      </file>
-      <file name="$USER_HOME$/dev/banque-casino/developer-portal/test/core/apim.test.js" timestamp="1547565678900">
-        <mark key="[" line="4" column="33" />
-        <mark key="]" line="4" column="32" />
-        <mark key="." line="4" column="32" />
+      <file name="$USER_HOME$/dev/banque-casino/developer-portal/test/core/apim.test.js" timestamp="1548859864867">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
         <mark key="^" line="4" column="32" />
       </file>
       <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/views/pages/catalog.pug" timestamp="1548253410537">
@@ -537,19 +534,11 @@
         <mark key="]" line="10" column="13" />
         <mark key="." line="10" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/routes/router.js" timestamp="1547820784276">
-        <mark key="[" line="17" column="9" />
-        <mark key="]" line="17" column="7" />
-        <mark key="." line="17" column="7" />
-        <mark key="^" line="17" column="7" />
-      </file>
+      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/routes/router.js" timestamp="1548860822927" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/reports.json5" timestamp="1548757983440">
         <mark key="[" line="8" column="19" />
         <mark key="]" line="8" column="19" />
         <mark key="." line="8" column="19" />
-      </file>
-      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/routes/catalog/controller.js" timestamp="1548319743746">
-        <mark key="'" line="3" column="5" />
       </file>
       <file name="$USER_HOME$/dev/banque-casino/demo-client/store/index.js" timestamp="1547576988823">
         <mark key="[" line="101" column="13" />
@@ -606,7 +595,6 @@
       <jump line="2" column="0" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/public/scripts/swagger-ui.js" />
       <jump line="20" column="52" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/routes/router.js" />
       <jump line="19" column="6" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/routes/router.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/banque-casino/developer-portal/test/core/auth/index.test.js" />
       <jump line="30" column="39" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/core/di-container.js" />
       <jump line="8" column="35" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/core/di-container.js" />
       <jump line="25" column="51" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/core/di-container.js" />
@@ -683,6 +671,7 @@
       <jump line="6" column="0" filename="$USER_HOME$/dev/banque-casino/api/src/resources/README.md" />
       <jump line="31" column="0" filename="$USER_HOME$/dev/banque-casino/api/src/resources/README.md" />
       <jump line="4" column="0" filename="$USER_HOME$/dev/banque-casino/api/src/resources/README.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/banque-casino/developer-portal/test/core/auth/index.test.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -979,7 +968,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Common behavior</text>
+        <text encoding="base64">CiAgICAgIC8vIFRPRE86IHJlbW92ZSAiYW5vdGhlci0iCiAgICAgIC5nZXQoJy9hbm90aGVyLWNhdGFsb2cnLCBhdXRoU2VydmljZS5pc0F1dGhlbnRpY2F0ZWQoKSwgYXN5bmMgY3R4ID0+IHsKICAgICAgICBjb25zb2xlLmxvZyhhcGltU2VydmljZSk7CiAgICAgICAgY29uc3QgY2F0YWxvZyA9IGF3YWl0IGFwaW1TZXJ2aWNlLmZpbmRDYXRhbG9ndWVBUElzKCk7CiAgICAgICAgY29uc3QgYXBpcyA9IGNhdGFsb2cuYXBpczsKICAgICAgICBjdHgucmVuZGVyKCdjYXRhbG9nJywgeyBhcGlzIH0pOwogICAgICB9KQ==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2520,39 +2509,39 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhLm1kYy10b3AtYXBwLWJhcl9fdGl0bGUoaHJlZj0nL2NhdGFsb2cnKSBBUElzCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CkFsc28sIGVhY2ggbGF5ZXIgCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgIC8vIFRPRE86IHJlbW92ZSAiYW5vdGhlci0iCiAgICAgIC5nZXQoJy9hbm90aGVyLWNhdGFsb2cnLCBhdXRoU2VydmljZS5pc0F1dGhlbnRpY2F0ZWQoKSwgYXN5bmMgY3R4ID0+IHsKICAgICAgICBjb25zb2xlLmxvZyhhcGltU2VydmljZSk7CiAgICAgICAgY29uc3QgY2F0YWxvZyA9IGF3YWl0IGFwaW1TZXJ2aWNlLmZpbmRDYXRhbG9ndWVBUElzKCk7CiAgICAgICAgY29uc3QgYXBpcyA9IGNhdGFsb2cuYXBpczsKICAgICAgICBjdHgucmVuZGVyKCdjYXRhbG9nJywgeyBhcGlzIH0pOwogICAgICB9KQ==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0LnRydXRoeShyZXBvLmNyZWF0ZVJlcXVlc3RBcGlLZXkpOwogIHQudHJ1dGh5KHJlcG8uYXBwcm92ZVJlcXVlc3RBcGlLZXkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CkFsc28sIGVhY2ggbGF5ZXIgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZVRva2VuSW5mb01pZGRsZXdhcmUoKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">SG93ZXZlciwgdGhlcmUgaXMgb2Z0ZW4gbm8gbmVlZCB0byBoYXZlIGEgZG9tYWluIGxheWVyIGFzIGl0IHdvdWxkIGJlIHBhc3NpbmcgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>If Banque Casino had supported it,
-we would have implemented an HTTP repository retrieving data from their API.</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNyZWF0ZVRva2VuSW5mb01pZGRsZXdhcmUoKSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZWRBdDogJzIwMTgtMDEtMDFUMDA6MDA6MDBaJywK</text>
+        <text encoding="base64">SG93ZXZlciwgdGhlcmUgaXMgb2Z0ZW4gbm8gbmVlZCB0byBoYXZlIGEgZG9tYWluIGxheWVyIGFzIGl0IHdvdWxkIGJlIHBhc3NpbmcgCg==</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHN0YXR1czogJ2FjY2VwdGVkJwo=</text>
+      <register name="8" type="4">
+        <text>If Banque Casino had supported it,
+we would have implemented an HTTP repository retrieving data from their API.</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBdCg==</text>
+        <text encoding="base64">ICAgIGNyZWF0ZWRBdDogJzIwMTgtMDEtMDFUMDA6MDA6MDBaJywK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
