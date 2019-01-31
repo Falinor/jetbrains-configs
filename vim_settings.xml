@@ -227,6 +227,12 @@
         <mark key="." line="4" column="35" />
         <mark key="^" line="4" column="35" />
       </file>
+      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/views/pages/docs.pug" timestamp="1548950538754">
+        <mark key="[" line="15" column="37" />
+        <mark key="]" line="15" column="40" />
+        <mark key="^" line="15" column="40" />
+        <mark key="." line="15" column="40" />
+      </file>
       <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/routes/catalog/router.js" timestamp="1547718775045">
         <mark key="'" line="5" column="21" />
         <mark key="[" line="3" column="62" />
@@ -265,11 +271,11 @@
         <mark key="^" line="47" column="34" />
         <mark key="." line="47" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/routes/docs/router.js" timestamp="1548949243304">
-        <mark key="[" line="44" column="33" />
-        <mark key="]" line="7" column="12" />
-        <mark key="^" line="7" column="12" />
-        <mark key="." line="7" column="12" />
+      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/routes/docs/router.js" timestamp="1548950962297">
+        <mark key="[" line="16" column="8" />
+        <mark key="]" line="18" column="21" />
+        <mark key="^" line="18" column="21" />
+        <mark key="." line="18" column="21" />
       </file>
       <file name="$USER_HOME$/dev/banque-casino/developer-portal/test/core/http.test.js" timestamp="1546523925700">
         <mark key="'" line="7" column="0" />
@@ -1010,8 +1016,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBidWlsZFJvdXRlLAo=</text>
+      <register name="&quot;" type="4">
+        <text>if (fs.statSync(path.join(docsFolder, fileName))) return fileName;</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2538,7 +2544,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>if (fs.statSync(path.join(docsFolder, fileName))) return fileName;</text>
       </register>
       <register name="m" type="4">
         <keys>
