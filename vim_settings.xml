@@ -39,11 +39,11 @@
         <mark key="." line="40" column="13" />
         <mark key="^" line="33" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/api/src/resources/demand/data/mapper.ts" timestamp="1549365609863">
+      <file name="$USER_HOME$/dev/banque-casino/api/src/resources/demand/data/mapper.ts" timestamp="1549373056155">
         <mark key="'" line="39" column="4" />
-        <mark key="[" line="17" column="44" />
-        <mark key="]" line="17" column="44" />
-        <mark key="." line="17" column="44" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="21" />
+        <mark key="." line="29" column="0" />
         <mark key="^" line="17" column="44" />
       </file>
       <file name="$USER_HOME$/dev/banque-casino/api/test/demand/presentation-mapper.test.ts" timestamp="1549361319709">
@@ -228,11 +228,11 @@
         <mark key="^" line="47" column="34" />
         <mark key="." line="47" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/api/src/resources/demand/domain/models/customer.ts" timestamp="1549361447437">
-        <mark key="[" line="26" column="21" />
-        <mark key="]" line="26" column="37" />
-        <mark key="." line="26" column="37" />
-        <mark key="^" line="26" column="37" />
+      <file name="$USER_HOME$/dev/banque-casino/api/src/resources/demand/domain/models/customer.ts" timestamp="1549372279921">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="6" column="37" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/dev/banque-casino/api/src/resources/demand/data/models/from-demand-entity.ts" timestamp="1549362891740">
         <mark key="[" line="6" column="23" />
@@ -296,12 +296,12 @@
         <mark key="^" line="0" column="8" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/api/test/demand/data-mapper.test.ts" timestamp="1549371423264">
+      <file name="$USER_HOME$/dev/banque-casino/api/test/demand/data-mapper.test.ts" timestamp="1549373200481">
         <mark key="'" line="33" column="9" />
-        <mark key="[" line="36" column="4" />
-        <mark key="]" line="36" column="2" />
-        <mark key="." line="36" column="2" />
-        <mark key="^" line="36" column="2" />
+        <mark key="[" line="46" column="24" />
+        <mark key="]" line="47" column="46" />
+        <mark key="." line="47" column="46" />
+        <mark key="^" line="47" column="46" />
       </file>
       <file name="$USER_HOME$/dev/banque-casino/api/src/resources/demand/presentation/mapper.ts" timestamp="1549361235621">
         <mark key="'" line="18" column="19" />
@@ -481,11 +481,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="4" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/api/src/resources/demand/domain/models/demand.ts" timestamp="1549361489727">
-        <mark key="[" line="10" column="28" />
-        <mark key="]" line="10" column="28" />
-        <mark key="." line="10" column="28" />
-        <mark key="^" line="10" column="31" />
+      <file name="$USER_HOME$/dev/banque-casino/api/src/resources/demand/domain/models/demand.ts" timestamp="1549372636157">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="18" column="19" />
       </file>
       <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/views/pages/catalog.pug" timestamp="1548253410537">
         <mark key="[" line="9" column="11" />
@@ -525,6 +525,12 @@
         <mark key="[" line="10" column="13" />
         <mark key="]" line="10" column="13" />
         <mark key="." line="10" column="13" />
+      </file>
+      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/routes/router.js" timestamp="1548944348422">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="3" />
+        <mark key="^" line="7" column="3" />
+        <mark key="." line="7" column="3" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/reports.json5" timestamp="1548757983440">
         <mark key="[" line="8" column="19" />
@@ -964,8 +970,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Demand</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByb2plY3RDb2RlOiAnNScsCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2507,37 +2513,50 @@
         <text encoding="base64">ICAgIHNwb3V6ZToge30sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcm9qZWN0Q29kZTogc3RyaW5nOwo=</text>
+        <text encoding="base64">ICAgIHByb2plY3RDb2RlOiAnNScsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcm9qZWN0Q29kZTogc3RyaW5nOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBwcm9qZWN0Q29kZTogc3RyaW5nOwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgIGlkOiAnbXl3b25kZXJmdWxpZCcsCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGdlbmRlcjogZW50aXR5LmdlbmRlciwK</text>
+      <register name="3" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGZpcnN0bmFtZTogY3VzdG9tZXIuZmlyc3RuYW1lCiAgICBsYXN0bmFtZTogY3VzdG9tZXIubGFzdG5hbWUsCg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Y29uc3QgZGVtYW5kIAo=</text>
+      </register>
+      <register name="5" type="4">
+        <text>= {
+  amount: 400,
+  duration: 400,
+  customer: {} as Customer,
+  toto: 'tata'</text>
+      </register>
+      <register name="6" type="4">
+        <text>}
+const demand = {
+  amount: 400,
+  duration: 400,
+  customer: {} as Customer,
+  toto: 'tata'
+}</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICB0b3RvOiAndGF0YScK</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHByb2plY3Q6IGZyb21FbnRpdHkucHJvamVjdENvZGUsCg==</text>
+      <register name="9" type="4">
+        <text>gender: string;
+  firstname: string;
+  lastname: string;
+  mobilePhone?: string;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
