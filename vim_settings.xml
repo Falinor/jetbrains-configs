@@ -48,11 +48,11 @@
         <mark key="^" line="0" column="4921" />
         <mark key="." line="0" column="4921" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/docs/getting-started.md" timestamp="1548319448854">
-        <mark key="[" line="40" column="13" />
-        <mark key="]" line="40" column="13" />
-        <mark key="." line="40" column="13" />
-        <mark key="^" line="33" column="27" />
+      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/docs/getting-started.md" timestamp="1549546443767">
+        <mark key="[" line="46" column="20" />
+        <mark key="]" line="46" column="31" />
+        <mark key="." line="46" column="31" />
+        <mark key="^" line="46" column="31" />
       </file>
       <file name="$USER_HOME$/dev/banque-casino/api/src/core/middlewares/token-info.ts" timestamp="1549445841182">
         <mark key="[" line="10" column="0" />
@@ -1268,8 +1268,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAtZCAie1wiY2xpZW50X2lkXCI6IFwiJENMSUVOVF9JRFwiLCBcImNsaWVudF9zZWNyZXRcIjogXCIkQ0xJRU5UX1NFQ1JFVFwifSIK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2796,7 +2796,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>terminal</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2834,7 +2834,7 @@
     Then The response status code should be 201</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB2YWx1ZS4K</text>
+        <text encoding="base64">ICAtZCAie1wiY2xpZW50X2lkXCI6IFwiJENMSUVOVF9JRFwiLCBcImNsaWVudF9zZWNyZXRcIjogXCIkQ0xJRU5UX1NFQ1JFVFwifSIK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -2843,31 +2843,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBraWRzOiBudW1iZXI7Cg==</text>
+        <text encoding="base64">Q0xJRU5UX0lEPSIiCkNMSUVOVF9TRUNSRVQ9Ik5UQTVaRE0yWkRNdE9HRTVPQzAwWWpSaUxXRm1NREF0WkRVeU5qQTBNRFpqTm1SbCIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpbnB1dC5jdXN0b21lci5raWRzID0K</text>
+        <text encoding="base64">ICB2YWx1ZS4K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CnRlc3QoJ0dpdmVuIGEgY3VzdG9tZXIgd2l0aG91dCBraWRzLCB0aGVuIGl0IHNob3VsZCBkZWZhdWx0IHRvIDAga2lkcycsIHQgPT4gewogIAp9KTs=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBraWRzOiBudW1iZXI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QE9OTFkK</text>
+        <text encoding="base64">ICBpbnB1dC5jdXN0b21lci5raWRzID0K</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICByZXR1cm4ga2V5LnNob3VsZC5iZS5saWtlKHZhbHVlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICB0LmlzKGRlbWFuZC5jdXN0b21lci5iaXJ0aC5uYW1lKQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">CnRlc3QoJ0dpdmVuIGEgY3VzdG9tZXIgd2l0aG91dCBraWRzLCB0aGVuIGl0IHNob3VsZCBkZWZhdWx0IHRvIDAga2lkcycsIHQgPT4gewogIAp9KTs=</text>
       </register>
       <register name=":" type="4">
-        <text>qa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2921,8 +2921,8 @@
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL2N1c3RvbWVyL2R0by9n</entry>
         <entry>qo</entry>
-        <entry>w</entry>
         <entry>qa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
