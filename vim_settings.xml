@@ -309,12 +309,12 @@
         <mark key="." line="4" column="35" />
         <mark key="^" line="4" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/views/pages/docs.pug" timestamp="1549637853032">
-        <mark key="'" line="16" column="31" />
-        <mark key="[" line="10" column="25" />
-        <mark key="]" line="10" column="33" />
-        <mark key="." line="10" column="33" />
-        <mark key="^" line="10" column="33" />
+      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/views/pages/docs.pug" timestamp="1549639190151">
+        <mark key="'" line="17" column="16" />
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="8" column="18" />
+        <mark key="." line="8" column="18" />
+        <mark key="^" line="8" column="18" />
       </file>
       <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/routes/catalog/router.js" timestamp="1547718775045">
         <mark key="'" line="5" column="21" />
@@ -373,12 +373,12 @@
         <mark key="^" line="26" column="23" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/routes/docs/router.js" timestamp="1549635854218">
+      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/routes/docs/router.js" timestamp="1549639227813">
         <mark key="'" line="59" column="0" />
-        <mark key="[" line="59" column="5" />
-        <mark key="]" line="58" column="30" />
-        <mark key="." line="58" column="30" />
-        <mark key="^" line="58" column="30" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
+        <mark key="^" line="26" column="17" />
       </file>
       <file name="$USER_HOME$/dev/banque-casino/developer-portal/test/core/http.test.js" timestamp="1546523925700">
         <mark key="'" line="7" column="0" />
@@ -768,6 +768,12 @@
         <mark key="." line="61" column="34" />
         <mark key="^" line="61" column="34" />
       </file>
+      <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/scss/pages/_docs.scss" timestamp="1549639577360">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="17" />
+        <mark key="." line="0" column="17" />
+        <mark key="^" line="0" column="17" />
+      </file>
       <file name="$USER_HOME$/dev/banque-casino/api/src/resources/demand/domain/models/demand.ts" timestamp="1549384105095">
         <mark key="[" line="0" column="16" />
         <mark key="]" line="0" column="16" />
@@ -885,7 +891,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/dev/banque-casino/api/src/resources/demand/presentation/mapper.ts" />
       <jump line="58" column="0" filename="$USER_HOME$/dev/banque-casino/api/src/resources/demand/presentation/mapper.ts" />
       <jump line="28" column="0" filename="$USER_HOME$/dev/banque-casino/api/src/resources/demand/presentation/mapper.ts" />
       <jump line="28" column="24" filename="$USER_HOME$/dev/banque-casino/api/src/resources/demand/presentation/controller.ts" />
@@ -985,6 +990,7 @@
       <jump line="31" column="1" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/routes/docs/file-utils.js" />
       <jump line="4" column="17" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/routes/docs/controller.js" />
       <jump line="16" column="31" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/views/pages/docs.pug" />
+      <jump line="17" column="16" filename="$USER_HOME$/dev/banque-casino/developer-portal/src/views/pages/docs.pug" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1281,7 +1287,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">YS5tZGMtbGlzdC1pdGVtKGhyZWY9YC9kb2NzLyR7ZmlsZS5yb3V0ZX1gIGFyaWEtc2VsZWN0ZWQ9J3RydWUnIGNsYXNzPWlzU2VsZWN0ZWQoZmlsZS5wYXRoKSA/ICdtZGMtbGlzdC1pdGVtLS1hY3RpdmF0ZWQnIDogJycpCiAgICAgICAgICAgICAgICAgIC8vIERpc3BsYXkgdGhlIHRpdGxlIHNldCBpbiB0aGUgZmlsZSBmcm9udC1tYXR0ZXIgbWV0YWRhdGEuCiAgICAgICAgICAgICAgICAgIC8vIEZhbGwgYmFjayB0byB0aGUgZmlsZSBuYW1lIHRyYW5zZm9ybWVkIHRvIGEgcmVhZGFibGUgdGl0bGUuCiAgICAgICAgICAgICAgICAgIHNwYW4ubWRjLWxpc3QtaXRlbV9fdGV4dD0gZmlsZS5tZXRhZGF0YSAmJiBmaWxlLm1ldGFkYXRhLnRpdGxlIHx8IGZpbGUudGl0bGU=</text>
+        <text>components</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2808,7 +2814,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>directory</text>
+        <text>components</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2817,7 +2823,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>customer</text>
+        <text>file</text>
       </register>
       <register name="0" type="4">
         <text>const files = [
@@ -2831,55 +2837,54 @@
   ];
   const callback = spy();</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">YS5tZGMtbGlzdC1pdGVtKGhyZWY9YC9kb2NzLyR7ZmlsZS5yb3V0ZX1gIGFyaWEtc2VsZWN0ZWQ9J3RydWUnIGNsYXNzPWlzU2VsZWN0ZWQoZmlsZS5wYXRoKSA/ICdtZGMtbGlzdC1pdGVtLS1hY3RpdmF0ZWQnIDogJycpCiAgICAgICAgICAgICAgICAgIC8vIERpc3BsYXkgdGhlIHRpdGxlIHNldCBpbiB0aGUgZmlsZSBmcm9udC1tYXR0ZXIgbWV0YWRhdGEuCiAgICAgICAgICAgICAgICAgIC8vIEZhbGwgYmFjayB0byB0aGUgZmlsZSBuYW1lIHRyYW5zZm9ybWVkIHRvIGEgcmVhZGFibGUgdGl0bGUuCiAgICAgICAgICAgICAgICAgIHNwYW4ubWRjLWxpc3QtaXRlbV9fdGV4dD0gZmlsZS5tZXRhZGF0YSAmJiBmaWxlLm1ldGFkYXRhLnRpdGxlIHx8IGZpbGUudGl0bGU=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBlbHNlCg==</text>
+        <text encoding="base64">CiAgY29uc29sZS5sb2cocm91dGVyKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBpZiBpc0RpcmVjdG9yeShmaWxlKSAmJiBmaWxlLmNoaWxkcmVuICYmIGZpbGUuY2hpbGRyZW4ubGVuZ3RoID4gMAogICAgICAgICAgICAgICAgK2RpcmVjdG9yeShmaWxlKQo=</text>
+        <text encoding="base64">ICBzcGFuLm1kYy1pCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBpZiBpc0RpcmVjdG9yeShmaWxlKSAmJiBmaWxlLmNoaWxkcmVuICYmIGZpbGUuY2hpbGRyZW4ubGVuZ3RoID4gMAogICAgICAgICAgICAgICAgK2RpcmVjdG9yeShmaWxlKQo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">CgptaXhpbiBmaWxlVHJlZShmaWxlcykKICBmb3IgZmlsZSBpbiBmaWxlcwogICAgZmlsZU9yRGlyZWN0b3J5KGZpbGUp</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bWl4aW4gZGlyZWN0b3J5KCkKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWFjaCBmaWxlIGluIGZpbGVzCiAgICAgICAgICAgICAgK2ZpbGVPckRpcmVjdG9yeShmaWxlKQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNwYW4ubWRjLWxpc3QK</text>
+      <register name="6" type="4">
+        <text encoding="base64">YS5tZGMtbGlzdC1pdGVtKGhyZWY9YC9kb2NzLyR7ZmlsZS5yb3V0ZX1gIGFyaWEtc2VsZWN0ZWQ9J3RydWUnIGNsYXNzPWlzU2VsZWN0ZWQoZmlsZS5wYXRoKSA/ICdtZGMtbGlzdC1pdGVtLS1hY3RpdmF0ZWQnIDogJycpCiAgICAgICAgICAgICAgICAgIC8vIERpc3BsYXkgdGhlIHRpdGxlIHNldCBpbiB0aGUgZmlsZSBmcm9udC1tYXR0ZXIgbWV0YWRhdGEuCiAgICAgICAgICAgICAgICAgIC8vIEZhbGwgYmFjayB0byB0aGUgZmlsZSBuYW1lIHRyYW5zZm9ybWVkIHRvIGEgcmVhZGFibGUgdGl0bGUuCiAgICAgICAgICAgICAgICAgIHNwYW4ubWRjLWxpc3QtaXRlbV9fdGV4dD0gZmlsZS5tZXRhZGF0YSAmJiBmaWxlLm1ldGFkYXRhLnRpdGxlIHx8IGZpbGUudGl0bGU=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IGV2ZW50dWFsbHkgcmVtb3ZlIGxlYWRpbmcgc2xhc2gsIGlmIGFueQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBlbHNlCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBpZiBpc0RpcmVjdG9yeShmaWxlKSAmJiBmaWxlLmNoaWxkcmVuICYmIGZpbGUuY2hpbGRyZW4ubGVuZ3RoID4gMAogICAgICAgICAgICAgICAgK2RpcmVjdG9yeShmaWxlKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBmaWxlID0+IHJvdXRlci5nZXQoYCR7ZmlsZS5yb3V0ZX1gLCBtYXJrZG93bkhhbmRsZXIoZmlsZSkpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBpZiBpc0RpcmVjdG9yeShmaWxlKSAmJiBmaWxlLmNoaWxkcmVuICYmIGZpbGUuY2hpbGRyZW4ubGVuZ3RoID4gMAogICAgICAgICAgICAgICAgK2RpcmVjdG9yeShmaWxlKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zL2ZpbGUvaXRlbS9n</text>
       </register>
     </registers>
     <search>
-      <last-search>customer</last-search>
+      <last-search>file</last-search>
       <last-offset />
-      <last-pattern>customer</last-pattern>
-      <last-replace>dto</last-replace>
-      <last-substitute>customer</last-substitute>
+      <last-pattern>file</last-pattern>
+      <last-replace>item</last-replace>
+      <last-substitute>file</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxidXR0b25cPg==</entry>
         <entry encoding="base64">XDwoXD4=</entry>
         <entry>node</entry>
         <entry>&quot;&quot; '</entry>
@@ -2899,9 +2904,9 @@
         <entry>:</entry>
         <entry>mapper</entry>
         <entry>customer</entry>
+        <entry>file</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLyIiICc=</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry encoding="base64">JzwsJz5zLyIvXCIvZw==</entry>
         <entry encoding="base64">JzwsJz5zLyIvXFwiL2c=</entry>
@@ -2921,6 +2926,7 @@
         <entry>qo</entry>
         <entry>qa</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL2ZpbGUvaXRlbS9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
