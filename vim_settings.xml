@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/dev/banque-casino/api/src/core/config.ts" timestamp="1549383902329">
@@ -234,6 +234,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="26" column="23" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/banque-casino/api/integ/demand/domain.test.ts" timestamp="1549989376717">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/scss/index.scss" timestamp="1547722855018">
         <mark key="[" line="16" column="28" />
@@ -499,12 +504,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/api/test/demand/schema.test.ts" timestamp="1549907130614">
+      <file name="$USER_HOME$/dev/banque-casino/api/test/demand/schema.test.ts" timestamp="1549989940930">
         <mark key="'" line="96" column="2" />
-        <mark key="[" line="67" column="63" />
-        <mark key="]" line="67" column="66" />
-        <mark key="." line="67" column="66" />
-        <mark key="^" line="67" column="66" />
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="123" column="0" />
+        <mark key="." line="123" column="0" />
+        <mark key="^" line="128" column="54" />
       </file>
       <file name="/fragment.ts" timestamp="1549902352648">
         <mark key="[" line="0" column="0" />
@@ -559,8 +564,8 @@
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/api/src/resources/demand/presentation/schema.ts" timestamp="1549907158225">
-        <mark key="[" line="54" column="8" />
+      <file name="$USER_HOME$/dev/banque-casino/api/src/resources/demand/presentation/schema.ts" timestamp="1549989675468">
+        <mark key="[" line="54" column="18" />
         <mark key="]" line="54" column="9" />
         <mark key="." line="54" column="9" />
         <mark key="^" line="54" column="9" />
@@ -1032,7 +1037,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">QE9OTFkK</text>
+        <text encoding="base64">ICBpbnB1dC5jdXN0b21lci5iYW5rU2VuaW9yaXR5ID0gJzIwMDUnOwo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2559,7 +2564,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>does not specify a date at all</text>
+        <text>is</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2597,40 +2602,40 @@
     Then The response status code should be 400</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QE9OTFkK</text>
+        <text encoding="base64">ICBpbnB1dC5jdXN0b21lci5iYW5rU2VuaW9yaXR5ID0gJzIwMDUnOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QE9OTFkK</text>
+        <text encoding="base64">ICB0Lgo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">QE9OTFkK</text>
+      <register name="3" type="4">
+        <text encoding="base64">CnRlc3QoJ0dpdmVuIGEgbW9jayByZXBvc2l0b3J5LCBXaGVuIEkgZGVtYW5kIGEgbG9hbiwgVGhlbiBJIHNob3VsZCBnZXQgZGVtYW5kIGJhY2snLCBhc3luYyB0ID0+IHsKICAvLyBHaXZlbgogIGNvbnN0IG1vY2tSZXBvID0gY3JlYXRlTW9ja0RlbWFuZFJlcG9zaXRvcnkoKTsKICBjb25zdCBtb2NrRG9tYWluID0gY3JlYXRlRGVtYW5kRG9tYWluKG1vY2tSZXBvKTsKICBjb25zdCByZWFsUmVwbyA9IGNyZWF0ZURlbWFuZFJlcG9zaXRvcnkodC5jb250ZXh0Lm1vY2tBeGlvcywgJ3RvdG8nKTsKICBjb25zdCByZWFsRG9tYWluID0gY3JlYXRlRGVtYW5kRG9tYWluKHJlYWxSZXBvKTsKICBjb25zdCBkZW1hbmQ6IERlbWFuZCA9IGdlbmVyYXRlRGVtYW5kKCk7CiAgY29uc3Qgb3JpZ2luOiBPcmlnaW4gPSB7IGNvZGU6ICdTRU8nIH07CiAgdC5jb250ZXh0Lmh0dHBNb2NrCiAgICAub25Qb3N0KCdmYWtlX3VybC9kZW1hbmRzL3BwcicpCiAgICAucmVwbHlPbmNlKDIwMSwgeyBpZDogJ2lkJyB9KTsKICAvLyBXaGVuCiAgY29uc3QgbW9ja1Jlc3BvbnNlID0gYXdhaXQgbW9ja0RvbWFpbi5kZW1hbmRMb2FuKGRlbWFuZCwgb3JpZ2luKTsKICBjb25zdCBlbnRpdHlSZXNwb25zZSA9IGF3YWl0IHJlYWxEb21haW4uZGVtYW5kTG9hbihkZW1hbmQsIG9yaWdpbik7CiAgLy8gVGhlbgp9KTs=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFRoZW4gVGhlIHZhbHVlIGF0ICQuLmN1c3RvbWVyLmxhc3RuYW1lIHNob3VsZCBlcXVhbHMgIkRVUE9OVCIK</text>
+        <text encoding="base64">QE9OTFkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICJuYW1lIjogIkxlZmV2cmUiCg==</text>
+        <text encoding="base64">QE9OTFkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">QE9OTFkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIFRoZW4gVGhlIHZhbHVlIGF0ICQuLmN1c3RvbWVyLmxhc3RuYW1lIHNob3VsZCBlcXVhbHMgIkRVUE9OVCIK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICJuYW1lIjogIkxlZmV2cmUiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
@@ -2681,11 +2686,11 @@
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL2N1c3RvbWVyL2R0by9n</entry>
         <entry>qo</entry>
-        <entry>qa</entry>
         <entry encoding="base64">JzwsJz5zL2ZpbGUvaXRlbS9n</entry>
         <entry encoding="base64">JzwsJz5zL2ZpbGUvZGlyL2c=</entry>
         <entry>w</entry>
         <entry>wq</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
