@@ -127,11 +127,9 @@
         <mark key="^" line="27" column="41" />
       </file>
       <file name="$USER_HOME$/dev/banque-casino/api-tests/features/demands/create/create.demands.201.feature" timestamp="1550076546300">
-        <mark key="'" line="156" column="36" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-        <mark key="^" line="40" column="40" />
       </file>
       <file name="$USER_HOME$/dev/banque-casino/api/test/demand/repository.test.ts" timestamp="1549443726666">
         <mark key="'" line="16" column="18" />
@@ -263,7 +261,7 @@
         <mark key="." line="9" column="26" />
         <mark key="^" line="9" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/api-tests/features/oauth2/client_credentials/token_info.feature" timestamp="1550239400870">
+      <file name="$USER_HOME$/dev/banque-casino/api-tests/features/oauth2/client_credentials/token_info.feature" timestamp="1550480229898">
         <mark key="'" line="30" column="6" />
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -380,13 +378,6 @@
         <mark key="." line="48" column="18" />
         <mark key="^" line="48" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/api/integ/demand.test.ts" timestamp="1550156108440">
-        <mark key="'" line="131" column="10" />
-        <mark key="[" line="41" column="26" />
-        <mark key="]" line="41" column="25" />
-        <mark key="^" line="41" column="25" />
-        <mark key="." line="41" column="25" />
-      </file>
       <file name="$USER_HOME$/dev/banque-casino/api/src/resources/demand/presentation/controller.ts" timestamp="1550161603548">
         <mark key="'" line="11" column="55" />
         <mark key="[" line="43" column="18" />
@@ -463,6 +454,11 @@
         <mark key="]" line="54" column="13" />
         <mark key="." line="54" column="13" />
         <mark key="^" line="54" column="13" />
+      </file>
+      <file name="$USER_HOME$/dev/banque-casino/api/src/core/oauth2/mock.ts" timestamp="1550480592252">
+        <mark key="[" line="11" column="21" />
+        <mark key="]" line="11" column="21" />
+        <mark key="." line="11" column="21" />
       </file>
       <file name="$USER_HOME$/dev/banque-casino/api/src/assets/api-doc/paths/demands.yml" timestamp="1550156555504">
         <mark key="[" line="41" column="0" />
@@ -880,8 +876,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CnRlc3QuYWZ0ZXJFYWNoLmFsd2F5cyh0ID0+IHt9KTsK</text>
+      <register name="&quot;" type="4">
+        <text>c</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2408,7 +2404,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>get</text>
+        <text>c</text>
       </register>
       <register name="m" type="4">
         <keys>
