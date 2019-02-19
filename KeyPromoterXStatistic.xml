@@ -17,14 +17,6 @@
           <Count>4</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Close">
-        <Item>
-          <IdeaActionID>CloseContent</IdeaActionID>
-          <ShortCut>'⌘W'</ShortCut>
-          <Description>Close</Description>
-          <Count>21</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Column Selection Mode">
         <Item>
           <IdeaActionID>EditorToggleColumnMode</IdeaActionID>
@@ -447,6 +439,14 @@
         <Item>
           <IdeaActionID>Annotate</IdeaActionID>
           <Description>Annotate</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Close">
+        <Item>
+          <IdeaActionID>CloseContent</IdeaActionID>
+          <ShortCut>'⌘W'</ShortCut>
+          <Description>Close</Description>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
