@@ -66,7 +66,7 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="23" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/api/test/demand/data-mapper/demand.test.ts" timestamp="1550653640666">
+      <file name="$USER_HOME$/dev/banque-casino/api/test/demand/data-mapper/demand.test.ts" timestamp="1550654726197">
         <mark key="'" line="96" column="2" />
         <mark key="[" line="83" column="14" />
         <mark key="]" line="84" column="21" />
@@ -216,12 +216,12 @@
         <mark key="." line="10" column="62" />
         <mark key="^" line="9" column="8" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/api/test/demand/data-mapper/customer.test.ts" timestamp="1550651284919">
-        <mark key="'" line="7" column="2" />
-        <mark key="[" line="45" column="14" />
-        <mark key="]" line="45" column="52" />
-        <mark key="." line="45" column="52" />
-        <mark key="^" line="45" column="52" />
+      <file name="$USER_HOME$/dev/banque-casino/api/test/demand/data-mapper/customer.test.ts" timestamp="1550655302083">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="58" column="44" />
+        <mark key="]" line="59" column="50" />
+        <mark key="." line="59" column="50" />
+        <mark key="^" line="59" column="50" />
       </file>
       <file name="$USER_HOME$/dev/banque-casino/api/src/resources/index.ts" timestamp="1550161484781">
         <mark key="'" line="2" column="0" />
@@ -602,11 +602,11 @@
         <mark key="^" line="13" column="5" />
       </file>
       <file name="$USER_HOME$/dev/banque-casino/api/src/resources/demand/data/mapper/customer.ts" timestamp="1550652368457">
-        <mark key="'" line="41" column="34" />
-        <mark key="[" line="65" column="57" />
-        <mark key="]" line="66" column="2" />
-        <mark key="." line="66" column="2" />
-        <mark key="^" line="66" column="2" />
+        <mark key="'" line="40" column="34" />
+        <mark key="[" line="64" column="57" />
+        <mark key="]" line="65" column="2" />
+        <mark key="." line="65" column="2" />
+        <mark key="^" line="65" column="2" />
       </file>
       <file name="$USER_HOME$/dev/banque-casino/developer-portal/src/scss/layout/_directory.scss" timestamp="1549659700495">
         <mark key="'" line="15" column="35" />
@@ -645,8 +645,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="18" filename="$USER_HOME$/dev/banque-casino/api/src/resources/demand/domain/rules.ts" />
-      <jump line="7" column="1" filename="$USER_HOME$/dev/banque-casino/api/src/resources/demand/domain/errors/contract-dates.ts" />
       <jump line="143" column="9" filename="$USER_HOME$/dev/banque-casino/api/test/demand/domain.test.ts" />
       <jump line="33" column="0" filename="$USER_HOME$/dev/banque-casino/api/src/assets/api-doc/schemas/customer/index.yml" />
       <jump line="9" column="0" filename="$USER_HOME$/dev/banque-casino/api/src/assets/api-doc/schemas/customer/job.yml" />
@@ -745,6 +743,8 @@
       <jump line="4" column="0" filename="$USER_HOME$/dev/banque-casino/api/test/demand/data-mapper/demand.test.ts" />
       <jump line="108" column="0" filename="$USER_HOME$/dev/banque-casino/api/test/demand/data-mapper/demand.test.ts" />
       <jump line="96" column="2" filename="$USER_HOME$/dev/banque-casino/api/test/demand/data-mapper/demand.test.ts" />
+      <jump line="34" column="37" filename="$USER_HOME$/dev/banque-casino/api/test/demand/data-mapper/customer.test.ts" />
+      <jump line="10" column="0" filename="$USER_HOME$/dev/banque-casino/api/test/demand/data-mapper/customer.test.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1041,7 +1041,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB0LmlzKGFjdHVhbCkK</text>
+        <text encoding="base64">ICB0LmlzKGFjdHVhbC5iaXJ0aC5uYW1lKQo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2568,7 +2568,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>is</text>
+        <text>birthDepartment</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2610,81 +2610,40 @@
     bankSeniority: '2005',</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB0LmlzKGFjdHVhbCkK</text>
+        <text encoding="base64">ICB0LmlzKGFjdHVhbC5iaXJ0aC5uYW1lKQo=</text>
       </register>
       <register name="q" type="4">
         <text>www</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICB0LmlzKGFjdHVhbC5iaXJ0aC5kZXBhcnRtZW50KQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICB0LmlzKGFjdHVhbC5iaXJ0aC5uYW1lLCBlbnRpdHkubWFpZGVuTmFtZSk7Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="3" type="4">
-        <text>t.deepEqual(actual, {
-    amount: 10000,
-    duration: 48,
-    projectCode: '5',
-    originCode: 'SEO',
-    profileCode: 'STAND',
-    optin: false,
-    insuranceCode: Insurance.No,
-    creditCode: '0007233017',
-    offerCode: '054001',
-    channel: 'WEB',
-    support: 'WEB',
-    sourcing: 'SPO',
-    workflow: 'REGULAR',
-    sessionId: 'BC1545052674019591',
-    ip: '165.225.77.53',
-  });</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">Cgp0ZXN0KCdHaXZlbiBhIGRvbWFpbiBkZW1hbmQgd2l0aCBhbiBhZGRpdGlvbmFsIGFkZHJlc3MsIHdoZW4gSSBtYXAgdG8gZW50aXR5LCB0aGVuIGl0IHNob3VsZCByZXR1cm4gYW4gaW5wdXQgZW50aXR5IHdpdGggYWRkcmVzczInLCB0ID0+IHsKICAvLyBHaXZlbgogIGNvbnN0IHsgZGVtYW5kIH0gPSB0LmNvbnRleHQ7CiAgZGVtYW5kLmN1c3RvbWVyLmFkZGl0aW9uYWxBZGRyZXNzID0gJ0JBVCA0NkMnOwogIC8vIFdoZW4KICBjb25zdCBhY3R1YWw6IERlbWFuZENyZWF0aW9uRW50aXR5ID0gdG9DcmVhdGlvbkVudGl0eShkZW1hbmQpOwogIC8vIFRoZW4KICB0LmlzKGFjdHVhbC5jdXN0b21lci5hZGRyZXNzMiwgJ0JBVCA0NkMnKTsKfSk7Cgp0ZXN0KCdHaXZlbiBhIGRvbWFpbiBkZW1hbmQgd2l0aCBjdXN0b21lciBwaG9uZSwgd2hlbiBJIG1hcCB0byBlbnRpdHksIHRoZW4gaXQgc2hvdWxkIHJldHVybiBhbiBpbnB1dCBlbnRpdHkgd2l0aCBjdXN0b21lciBwaG9uZScsIHQgPT4gewogIC8vIEdpdmVuCiAgY29uc3QgeyBkZW1hbmQgfSA9IHQuY29udGV4dDsKICBkZW1hbmQuY3VzdG9tZXIucGhvbmUgPSAnMDEwMjAzMDQwNSc7CiAgLy8gV2hlbgogIGNvbnN0IGFjdHVhbDogRGVtYW5kQ3JlYXRpb25FbnRpdHkgPSB0b0NyZWF0aW9uRW50aXR5KGRlbWFuZCk7CiAgLy8gVGhlbgogIHQuaXMoYWN0dWFsLmN1c3RvbWVyLnBob25lLCAnMDEwMjAzMDQwNScpOwp9KTsKCnRlc3QoJ0dpdmVuIGEgZG9tYWluIGRlbWFuZCB3aXRoIGN1c3RvbWVyIGtpZHMsIHdoZW4gSSBtYXAgdG8gZW50aXR5LCB0aGVuIGl0IHNob3VsZCByZXR1cm4gYW4gaW5wdXQgZW50aXR5IHdpdGggY3VzdG9tZXIga2lkcycsIHQgPT4gewogIC8vIEdpdmVuCiAgY29uc3QgeyBkZW1hbmQgfSA9IHQuY29udGV4dDsKICBkZW1hbmQuY3VzdG9tZXIua2lkcyA9IDI7CiAgLy8gV2hlbgogIGNvbnN0IGFjdHVhbDogRGVtYW5kQ3JlYXRpb25FbnRpdHkgPSB0b0NyZWF0aW9uRW50aXR5KGRlbWFuZCk7CiAgLy8gVGhlbgogIHQuaXMoYWN0dWFsLmN1c3RvbWVyLmtpZHMsIDIpOwp9KTsKCnRlc3QoJ0dpdmVuIGEgZG9tYWluIGRlbWFuZCB3aXRoIGN1c3RvbWVyIGFkZGl0aW9uYWwgYWRkcmVzcywgd2hlbiBJIG1hcCB0byBlbnRpdHksIHRoZW4gaXQgc2hvdWxkIHJldHVybiBhbiBpbnB1dCBlbnRpdHkgd2l0aCBhZHJlc3MgMicsIHQgPT4gewogIC8vIEdpdmVuCiAgY29uc3QgeyBkZW1hbmQgfSA9IHQuY29udGV4dDsKICBkZW1hbmQuY3VzdG9tZXIuYWRkaXRpb25hbEFkZHJlc3MgPSAnQkFUIEM4JzsKICAvLyBXaGVuCiAgY29uc3QgYWN0dWFsOiBEZW1hbmRDcmVhdGlvbkVudGl0eSA9IHRvQ3JlYXRpb25FbnRpdHkoZGVtYW5kKTsKICAvLyBUaGVuCiAgdC5pcyhhY3R1YWwuY3VzdG9tZXIuYWRkcmVzczIsICdCQVQgQzgnKTsKfSk7</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICwK</text>
+        <text encoding="base64">ICB0LmlzKGFjdHVhbC5iaXJ0aC4sIGVudGl0eS5iaXJ0aERlcGFydG1lbnQpCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>customer: {
-      gender: 'm',
-      firstname: 'Jean',
-      lastname: 'Dupont',
-      address: '34 avenue de l opera',
-      zipcode: '75002',
-      city: 'Paris',
-      nationality: Nationality.French,
-      email: 'bca.oggy@octo.com',
-      mobilePhone: '0601020304',
-      birthDate: '1970-01-01',
-      birthCountry: BirthCountry.EuropeanUnion,
-      birthDepartment: '69',
-      birthCity: 'Bron',
-      maritalStatus: MaritalStatus.Married,
-      contractOfEmployment: EmploymentContract.Permanent,
-      employmentStart: '2005-01-01',
-      employmentEnd: '',
-      income: 5000,
-      incomeMonths: 12,
-      incomeOther: 2000,
-      mortgages: 200,
-      ownerStatus: Habitation.OwnerWithCredit,
-      profession: '9',
-      bankSeniority: '2005',
-    }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaW50ZXJuYWxDb2RlOiAnNScsCiAgICAgIC8vIFJlbW92ZSBzb21lIGZpZWxkcyBmb3IgY2xhcml0eSBwdXJwb3NlCg==</text>
+        <text encoding="base64">ICB9Owo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYmFua1Nlbmlvcml0eTogJzIwMDUnLAo=</text>
+        <text encoding="base64">ICAgIGN1c3RvbWVyOiB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZW1haWw6ICdiY2Eub2dneUBvY3RvLmNvbScsCiAgICAgIG1vYmlsZVBob25lOiAnMDYwMTAyMDMwNCcsCg==</text>
+        <text encoding="base64">ICB0LmlzKGFjdHVhbCkK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2738,8 +2697,8 @@
         <entry encoding="base64">JzwsJz5zL2lkL2R1cmF0aW9uL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2lkL3Byb2R1Y3QvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2JhbmtTZW5pb3JpdHkvbmF0aW9uYWxpdHkvZw==</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
