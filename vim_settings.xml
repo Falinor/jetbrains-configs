@@ -392,6 +392,13 @@
         <mark key="." line="54" column="13" />
         <mark key="^" line="54" column="13" />
       </file>
+      <file name="$USER_HOME$/dev/banque-casino/api/test/session/domain.test.ts" timestamp="1550761856902">
+        <mark key="'" line="34" column="10" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="^" line="51" column="16" />
+        <mark key="." line="51" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/banque-casino/api/test/demand/data-mapper/country.test.ts" timestamp="1550650927780">
         <mark key="'" line="25" column="34" />
         <mark key="[" line="28" column="16" />
@@ -539,6 +546,13 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="11" column="48" />
       </file>
+      <file name="$USER_HOME$/dev/banque-casino/api/src/resources/session/errors/invalid-session-id.ts" timestamp="1550762885255">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="7" column="28" />
+        <mark key="]" line="7" column="83" />
+        <mark key="." line="7" column="83" />
+        <mark key="^" line="7" column="83" />
+      </file>
       <file name="$USER_HOME$/dev/banque-casino/api-tests/features/oauth2/client_credentials/token_info.feature" timestamp="1550480229898">
         <mark key="'" line="30" column="6" />
         <mark key="[" line="33" column="0" />
@@ -558,12 +572,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/api/src/resources/session/domain.ts" timestamp="1550746024602">
-        <mark key="'" line="4" column="43" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="5" column="1" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/dev/banque-casino/api/src/resources/session/domain.ts" timestamp="1550763800047">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="48" column="28" />
+        <mark key="]" line="48" column="27" />
+        <mark key="." line="48" column="27" />
+        <mark key="^" line="48" column="27" />
       </file>
       <file name="$USER_HOME$/dev/banque-casino/api/test/demand/schema.test.ts" timestamp="1550673675602">
         <mark key="'" line="183" column="22" />
@@ -662,20 +676,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="29" filename="$USER_HOME$/dev/banque-casino/api/test/demand/mapper/nationality.test.ts" />
-      <jump line="39" column="22" filename="$USER_HOME$/dev/banque-casino/api/test/demand/mapper/nationality.test.ts" />
-      <jump line="43" column="20" filename="$USER_HOME$/dev/banque-casino/api/test/demand/mapper/nationality.test.ts" />
-      <jump line="32" column="1" filename="$USER_HOME$/dev/banque-casino/api/src/resources/demand/presentation/models/customer-creation-dto.ts" />
-      <jump line="1" column="0" filename="$USER_HOME$/dev/banque-casino/api/src/resources/demand/presentation/models/customer-creation-dto.ts" />
-      <jump line="25" column="32" filename="$USER_HOME$/dev/banque-casino/api/src/resources/demand/presentation/models/customer-creation-dto.ts" />
-      <jump line="9" column="15" filename="$USER_HOME$/dev/banque-casino/api/src/resources/demand/domain/models/birth.ts" />
-      <jump line="5" column="13" filename="$USER_HOME$/dev/banque-casino/api/src/resources/demand/domain/models/customer.ts" />
-      <jump line="7" column="2" filename="$USER_HOME$/dev/banque-casino/api/src/resources/demand/presentation/models/birth-dto.ts" />
-      <jump line="2" column="47" filename="$USER_HOME$/dev/banque-casino/api/src/resources/demand/presentation/mapper/birth.ts" />
-      <jump line="10" column="0" filename="$USER_HOME$/dev/banque-casino/api/src/resources/demand/presentation/mapper/birth.ts" />
-      <jump line="8" column="0" filename="$USER_HOME$/dev/banque-casino/api/src/resources/demand/presentation/mapper/country.ts" />
-      <jump line="2" column="87" filename="$USER_HOME$/dev/banque-casino/api/test/demand/mapper/country.test.ts" />
-      <jump line="9" column="39" filename="$USER_HOME$/dev/banque-casino/api/src/resources/demand/presentation/mapper/birth.ts" />
       <jump line="7" column="4" filename="$USER_HOME$/dev/banque-casino/api/src/resources/demand/presentation/mapper/birth.ts" />
       <jump line="18" column="19" filename="$USER_HOME$/dev/banque-casino/api/src/resources/demand/presentation/mapper/birth.ts" />
       <jump line="17" column="0" filename="$USER_HOME$/dev/banque-casino/api/src/resources/demand/presentation/mapper/birth.ts" />
@@ -761,7 +761,21 @@
       <jump line="120" column="39" filename="$USER_HOME$/dev/banque-casino/api/integ/demand.test.ts" />
       <jump line="321" column="5" filename="$USER_HOME$/dev/banque-casino/api/integ/demand.test.ts" />
       <jump line="1" column="43" filename="$USER_HOME$/dev/banque-casino/api/src/resources/session/domain.ts" />
-      <jump line="4" column="43" filename="$USER_HOME$/dev/banque-casino/api/src/resources/session/domain.ts" />
+      <jump line="10" column="0" filename="$USER_HOME$/dev/banque-casino/api/test/session/domain.test.ts" />
+      <jump line="16" column="44" filename="$USER_HOME$/dev/banque-casino/api/src/resources/session/domain.ts" />
+      <jump line="6" column="19" filename="$USER_HOME$/dev/banque-casino/api/test/session/domain.test.ts" />
+      <jump line="15" column="2" filename="$USER_HOME$/dev/banque-casino/api/test/session/domain.test.ts" />
+      <jump line="4" column="0" filename="$USER_HOME$/dev/banque-casino/api/src/resources/session/domain.ts" />
+      <jump line="32" column="36" filename="$USER_HOME$/dev/banque-casino/api/src/resources/session/domain.ts" />
+      <jump line="30" column="3" filename="$USER_HOME$/dev/banque-casino/api/test/session/domain.test.ts" />
+      <jump line="37" column="70" filename="$USER_HOME$/dev/banque-casino/api/test/session/domain.test.ts" />
+      <jump line="44" column="70" filename="$USER_HOME$/dev/banque-casino/api/test/session/domain.test.ts" />
+      <jump line="23" column="2" filename="$USER_HOME$/dev/banque-casino/api/test/session/domain.test.ts" />
+      <jump line="34" column="10" filename="$USER_HOME$/dev/banque-casino/api/test/session/domain.test.ts" />
+      <jump line="8" column="0" filename="$USER_HOME$/dev/banque-casino/api/src/resources/session/errors/invalid-session-id.ts" />
+      <jump line="11" column="0" filename="$USER_HOME$/dev/banque-casino/api/src/resources/session/domain.ts" />
+      <jump line="31" column="4" filename="$USER_HOME$/dev/banque-casino/api/src/resources/session/domain.ts" />
+      <jump line="5" column="0" filename="$USER_HOME$/dev/banque-casino/api/src/resources/session/domain.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1058,7 +1072,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBKb2kuc3RyaW5nKCkuCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2585,7 +2599,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>Error</text>
+        <text>validateSessionId</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2597,40 +2611,40 @@
         <text>additional</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFRoZW4gVGhlIHZhbHVlIGF0ICQuLmN1c3RvbWVyLmJpcnRoLmRhdGUgc2hvdWxkIGVxdWFsICIxOTcwLTAxLTAxVDAwOjAwOjAwLjAwMFoiCg==</text>
+        <text encoding="base64">ICB7IG9yaWdpbkNvZGU6ICdDT01QVycsIGlwQWRkcmVzczogJzE5Mi4xNjguMC4xJyB9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBKb2kuc3RyaW5nKCkuCg==</text>
       </register>
       <register name="q" type="4">
         <text>www</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbGlkYXRlU2Vzc2lvbklkOiBKb2kudmFsaWRhdGUoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">dHlwZSB2YWxpZGF0ZVNlc3Npb25TaWduYXR1cmUgPSAoKSA9PiBib29sZWFuOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBTZXNzaW9uIHsKICBzZXNzaW9uSWQ6IHN0cmluZzsK</text>
+        <text encoding="base64">ZXhwb3IK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">CmV4cG9ydCAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBTZXNzaW9uIHsKICBzZXNzaW9uSWQ6IHN0cmluZzsK</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICByZWFkb25seSBkZXRhaWxzOiBzdHJpbmc7Cg==</text>
       </register>
       <register name="w" type="4">
-        <text />
+        <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LwoK</text>
+        <text encoding="base64">ICAgIGNvbnN0IG1lc3NhZ2U6IHN0cmluZyA9IGBgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwYXlsb2FkCg==</text>
+        <text encoding="base64">ICAgIHN1cGVyKG1lc3NhZ2UpOyAvLyAnRXJyb3InIGJyZWFrcyBwcm90b3R5cGUgY2hhaW4gaGVyZQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
