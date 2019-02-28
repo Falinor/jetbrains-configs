@@ -10,12 +10,6 @@
         <mark key="^" line="29" column="68" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/api/src/core/config/config-opts.ts" timestamp="1551349576879">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/banque-casino/api/src/assets/api-doc/paths/session.yml" timestamp="1550848071853">
         <mark key="[" line="23" column="21" />
         <mark key="]" line="23" column="28" />
@@ -62,7 +56,7 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="17" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/api/test/demand/controller.test.ts" timestamp="1550873298703">
+      <file name="$USER_HOME$/dev/banque-casino/api/test/demand/controller.test.ts" timestamp="1551369947523">
         <mark key="'" line="92" column="26" />
         <mark key="[" line="72" column="60" />
         <mark key="]" line="71" column="0" />
@@ -97,7 +91,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/api/src/core/config/config-keys.ts" timestamp="1551347999019">
+      <file name="$USER_HOME$/dev/banque-casino/api/src/core/config/config-keys.ts" timestamp="1551370416798">
         <mark key="'" line="20" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -129,8 +123,8 @@
         <mark key="." line="47" column="4" />
         <mark key="^" line="47" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/api/integ/demand.test.ts" timestamp="1551366080826">
-        <mark key="[" line="1" column="0" />
+      <file name="$USER_HOME$/dev/banque-casino/api/integ/demand.test.ts" timestamp="1551370670114">
+        <mark key="[" line="60" column="6" />
         <mark key="]" line="1" column="34" />
         <mark key="^" line="94" column="2" />
         <mark key="." line="94" column="2" />
@@ -188,6 +182,13 @@
       </file>
       <file name="$USER_HOME$/dev/banque-casino/api-tests/features/step_definitions/steps.js" timestamp="1551355714772" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1551356114830" />
+      <file name="$USER_HOME$/dev/banque-casino/api-tests/features/demands/create/create.demands.201.feature" timestamp="1551370673008">
+        <mark key="'" line="228" column="63" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="228" column="63" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/banque-casino/api/src/core/middlewares/error-handler.ts" timestamp="1550854931222">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -277,12 +278,12 @@
         <mark key="." line="45" column="26" />
         <mark key="^" line="45" column="46" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/api/integ/anti-fraud.test.ts" timestamp="1551366503912">
-        <mark key="'" line="48" column="3" />
-        <mark key="[" line="65" column="12" />
-        <mark key="]" line="65" column="12" />
-        <mark key="^" line="55" column="11" />
-        <mark key="." line="65" column="12" />
+      <file name="$USER_HOME$/dev/banque-casino/api/integ/anti-fraud.test.ts" timestamp="1551370115756">
+        <mark key="'" line="106" column="3" />
+        <mark key="[" line="117" column="25" />
+        <mark key="]" line="117" column="33" />
+        <mark key="^" line="117" column="33" />
+        <mark key="." line="117" column="33" />
       </file>
       <file name="$USER_HOME$/dev/banque-casino/api/src/resources/session/controller.ts" timestamp="1550857364982">
         <mark key="'" line="7" column="0" />
@@ -293,8 +294,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="70" filename="$USER_HOME$/dev/banque-casino/api/test/session/domain.test.ts" />
-      <jump line="44" column="70" filename="$USER_HOME$/dev/banque-casino/api/test/session/domain.test.ts" />
       <jump line="23" column="2" filename="$USER_HOME$/dev/banque-casino/api/test/session/domain.test.ts" />
       <jump line="34" column="10" filename="$USER_HOME$/dev/banque-casino/api/test/session/domain.test.ts" />
       <jump line="8" column="0" filename="$USER_HOME$/dev/banque-casino/api/src/resources/session/errors/invalid-session-id.ts" />
@@ -393,6 +392,8 @@
       <jump line="25" column="46" filename="$USER_HOME$/dev/banque-casino/api/src/resources/session/errors/index.ts" />
       <jump line="97" column="0" filename="$USER_HOME$/dev/banque-casino/api/integ/demand.test.ts" />
       <jump line="48" column="3" filename="$USER_HOME$/dev/banque-casino/api/integ/anti-fraud.test.ts" />
+      <jump line="102" column="8" filename="$USER_HOME$/dev/banque-casino/api/integ/anti-fraud.test.ts" />
+      <jump line="106" column="3" filename="$USER_HOME$/dev/banque-casino/api/integ/anti-fraud.test.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -689,7 +690,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>f</text>
+        <text>id</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2216,7 +2217,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>id</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2227,38 +2228,46 @@
       <register name="/" type="4">
         <text>422</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHN1cGVydGVzdCBmcm9tICdzdXBlcnRlc3QnOwo=</text>
+      <register name="0" type="4">
+        <text>.set('Content-Type', 'application/json')
+    .set(
+      'Authorization',
+      'Bearer 5bebf9f60380490001ee898142ac48a4712b456f9dfa9037c3611b88'
+    )
+    .set('x-client-id', 'df9e3788ab4d42e2a0dc97f9df36ddcb');</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBUaGVuLCBjcmVhdGUgCg==</text>
+        <text encoding="base64">ICB0LmxvZyhjcmVhdGlvblJlcy5ib2R5KTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC5zZXQoJ1gtU2Vzc2lvbi1JZCcsIHNlc3Npb25JZCk7Cg==</text>
+        <text encoding="base64">ICB0LmlzCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgY29uc3QgeyBib2R5IH0gPSByZXM7CiAgdC5pcyhib2R5LmFtb3VudCwgNTAwMCk7CiAgdC5pcyhib2R5LmR1cmF0aW9uLCAxMik7CiAgdC5mYWxzeShib2R5LnByb2plY3QpOwogIHQuaXMoYm9keS5jdXN0b21lci5nZW5kZXIsICdtJyk7CiAgdC5yZWdleChib2R5LmN1c3RvbWVyLmZpcnN0bmFtZSwgL15kYW5pZWwkL2kpOwogIHQucmVnZXgoYm9keS5jdXN0b21lci5sYXN0bmFtZSwgL15zYWJpbiQvaSk7CiAgdC5pcyhib2R5LmN1c3RvbWVyLnppcGNvZGUsICc3NTAwMicpOwogIHQucmVnZXgoYm9keS5jdXN0b21lci5jaXR5LCAvXnBhcmlzJC9pKTsKICB0LmlzKHR5cGVvZiBib2R5LmN1c3RvbWVyLmJpcnRoLCAnb2JqZWN0Jyk7CiAgdC50cnVlKGJvZHkuY3VzdG9tZXIuYmlydGguZGF0ZS5zdGFydHNXaXRoKCcyMDAwLTAxLTAxJykpOwogIHQuaXMoYm9keS5jdXN0b21lci5lbWFpbCwgJ2RzYUBkZWZhdWx0LmNvbScpOwogIHQuaXMoYm9keS5jdXN0b21lci5tb2JpbGVQaG9uZSwgJzA2MDIwMzA0MDUnKTsKICB0LmlzKGJvZHkuZGVjaXNpb24sICdhY2NlcHRlZCcpOwogIHQuaXMoYm9keS5jdXN0b21lci5iYW5rU2VuaW9yaXR5LCAnMjAxMicpOwogIHQuaXMoYm9keS5jdXN0b21lci5hZGRpdGlvbmFsQWRkcmVzcywgJ0JBVCAyJyk7</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC5zZXQoJ0FjY2VwdCcsICdhcHBsaWNhdGlvbi9qc29uJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Owo=</text>
+        <text encoding="base64">ICAgIC5zZXQoJycpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHN1cGVydGVzdCBmcm9tICcuL2RlbWFuZC50ZXN0JzsK</text>
+        <text encoding="base64">ICB0LmNvbnRleHQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyBDcmVhdGUgYSB0ZXN0IHNlcnZlcgo=</text>
+        <text encoding="base64">ICBjb25zdCBhcHAgPSBjcmVhdGVUZXN0U2VydmVyKHJvdXRlcik7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCBhcHAgPSAK</text>
+      <register name="7" type="4">
+        <text>const router = createRouter(
+    container.resolve('demandRouter'),
+    container.resolve('sessionRouter')
+  );</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCB7IGFwcCwgc2FtcGxlRGVtYW5kIH0gPSB0LmNvbnRleHQ7Cg==</text>
+        <text encoding="base64">ICBjb25zdCBjb250YWluZXIgPSBjcmVhdGVDb250YWluZXIoKTsKICBjb250YWluZXIuY29uZmlndXJlKCk7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
