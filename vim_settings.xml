@@ -298,6 +298,13 @@
         <mark key="^" line="2" column="34" />
         <mark key="." line="2" column="34" />
       </file>
+      <file name="$USER_HOME$/dev/banque-casino/api/test/demand/rules.test.ts" timestamp="1551434059086">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="35" column="33" />
+        <mark key="]" line="34" column="18" />
+        <mark key="^" line="34" column="18" />
+        <mark key="." line="34" column="18" />
+      </file>
       <file name="$USER_HOME$/dev/banque-casino/api/src/core/middlewares/scope.ts" timestamp="1551356058172" />
       <file name="$USER_HOME$/dev/banque-casino/api/src/resources/demand/domain/models/customer.ts" timestamp="1550672877906">
         <mark key="'" line="8" column="0" />
@@ -488,6 +495,9 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/banque-casino/api/test/demand/domain.test.ts" timestamp="1551434195339">
+        <mark key="'" line="83" column="21" />
+      </file>
       <file name="$USER_HOME$/dev/banque-casino/api-tests/features/demands/create/create.demands.422.feature" timestamp="1550856636655">
         <mark key="'" line="7" column="21" />
         <mark key="[" line="16" column="36" />
@@ -636,6 +646,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/banque-casino/api/src/core/helpers.ts" timestamp="1551434250167">
+        <mark key="[" line="12" column="20" />
+        <mark key="]" line="12" column="36" />
+        <mark key="." line="12" column="36" />
+        <mark key="^" line="12" column="36" />
+      </file>
       <file name="$USER_HOME$/dev/banque-casino/api-tests/features/demands/create/create.demands.422.outline.feature" timestamp="1550856629794">
         <mark key="[" line="18" column="4" />
         <mark key="]" line="18" column="1" />
@@ -734,8 +750,8 @@
         <mark key="^" line="50" column="45" />
         <mark key="." line="50" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/api/integ/anti-fraud.test.ts" timestamp="1551370115756">
-        <mark key="'" line="106" column="3" />
+      <file name="$USER_HOME$/dev/banque-casino/api/integ/anti-fraud.test.ts" timestamp="1551433944075">
+        <mark key="'" line="98" column="21" />
         <mark key="[" line="117" column="25" />
         <mark key="]" line="117" column="33" />
         <mark key="^" line="117" column="33" />
@@ -777,9 +793,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/dev/banque-casino/api/src/resources/session/domain.ts" />
-      <jump line="4" column="24" filename="$USER_HOME$/dev/banque-casino/api/src/resources/session/domain.ts" />
-      <jump line="33" column="7" filename="$USER_HOME$/dev/banque-casino/api/src/resources/session/domain.ts" />
       <jump line="0" column="22" filename="$USER_HOME$/dev/banque-casino/api/src/resources/session/controller.ts" />
       <jump line="6" column="33" filename="$USER_HOME$/dev/banque-casino/api/src/resources/session/controller.ts" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/banque-casino/api/src/resources/session/controller.ts" />
@@ -877,6 +890,9 @@
       <jump line="85" column="10" filename="$USER_HOME$/dev/banque-casino/api/src/resources/demand/presentation/schema.ts" />
       <jump line="99" column="13" filename="$USER_HOME$/dev/banque-casino/api/src/resources/demand/presentation/schema.ts" />
       <jump line="134" column="0" filename="$USER_HOME$/dev/banque-casino/api/src/resources/demand/presentation/schema.ts" />
+      <jump line="98" column="21" filename="$USER_HOME$/dev/banque-casino/api/integ/anti-fraud.test.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/banque-casino/api/test/demand/rules.test.ts" />
+      <jump line="83" column="21" filename="$USER_HOME$/dev/banque-casino/api/test/demand/domain.test.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
