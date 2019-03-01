@@ -734,12 +734,12 @@
         <mark key="." line="12" column="21" />
         <mark key="^" line="13" column="5" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/roles.ts" timestamp="1551457599235">
-        <mark key="'" line="32" column="24" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="6" />
-        <mark key="." line="26" column="6" />
-        <mark key="^" line="27" column="3" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/roles.ts" timestamp="1551458357379">
+        <mark key="'" line="26" column="24" />
+        <mark key="[" line="25" column="11" />
+        <mark key="]" line="25" column="11" />
+        <mark key="^" line="19" column="83" />
+        <mark key="." line="25" column="11" />
       </file>
       <file name="$USER_HOME$/dev/banque-casino/api/src/resources/demand/data/mapper/customer.ts" timestamp="1550846819589">
         <mark key="'" line="41" column="34" />
@@ -1200,7 +1200,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>originCode</text>
+        <text>server</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2727,7 +2727,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>originCode</text>
+        <text>server</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2747,12 +2747,24 @@
     .set('x-client-id', 'df9e3788ab4d42e2a0dc97f9df36ddcb');</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB1c2VyOiB7fSwK</text>
+        <text encoding="base64">ICAgICAgJ2RlbWFuZDpyZWFkJywK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgfSwK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBuYW1lOiAndXNlcjoqJywKICAgICAgICB3aGVuOiBhc3luYyBwYXJhbXMgPT4gcGFyYW1zLmlkID09PSBwYXJhbXMudXNlcklkLAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgJ3VzZXI6Y3JlYXRlJywKICAgICAgewo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICB1c2VyOiB7fSwK</text>
+      </register>
+      <register name="6" type="4">
         <text>export enum Roles {
   Admin,
   Gathering,
@@ -2760,29 +2772,17 @@
   User,
 }</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHF1ZXJ5LnBhcnRuZXJzLjsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">CmNvbnN0IHNhbXBsZURlbWFuZCA9IHsKICBhbW91bnQ6IDUwMDAsCiAgZHVyYXRpb246IDEyLAogIHByb2plY3Q6ICd1c2VkLXZlaGljbGUnLAogIGN1c3RvbWVyOiB7CiAgICBnZW5kZXI6ICdtJywKICAgIGZpcnN0bmFtZTogJ2RhbmllbCcsCiAgICBsYXN0bmFtZTogJ3NhYmluJywKICAgIGFkZHJlc3M6ICczNCBhdmVudWUgZGUgbCBvcGVyYScsCiAgICBhZGRpdGlvbmFsQWRkcmVzczogJ0JBVCAyJywKICAgIHppcGNvZGU6ICc3NTAwMicsCiAgICBjaXR5OiAncGFyaXMnLAogICAgZW1haWw6ICdkc2FAZGVmYXVsdC5jb20nLAogICAgbW9iaWxlUGhvbmU6ICcwNjAyMDMwNDA1JywKICAgIGJhbmtTZW5pb3JpdHk6ICcyMDEyLTA4LTIwVDEyOjAwOjAwWicsCiAgICBuYXRpb25hbGl0eTogJ0ZSJywKICAgIGJpcnRoOiB7CiAgICAgIGRhdGU6ICcyMDAwLTAxLTAxJywKICAgICAgY291bnRyeTogJ0VVJywKICAgICAgY2l0eTogJ1BhcmlzJywKICAgICAgZGVwYXJ0bWVudDogNzUsCiAgICB9LAogICAgam9iOiB7CiAgICAgIGNvbnRyYWN0OiAnQ0RJJywKICAgICAgc3RhcnRlZEF0OiAnMjAxMi0wMS0wMScsCiAgICAgIHByb2Zlc3Npb246IDQyLAogICAgfSwKICB9LAp9Ow==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByYW5kb20uZAo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkdXJhdGlvbisrOwo=</text>
+        <text encoding="base64">ICAgIHF1ZXJ5LnBhcnRuZXJzLjsK</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkdXJhdGlvbi5kZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkdXJhdGlvbgo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">CmNvbnN0IHNhbXBsZURlbWFuZCA9IHsKICBhbW91bnQ6IDUwMDAsCiAgZHVyYXRpb246IDEyLAogIHByb2plY3Q6ICd1c2VkLXZlaGljbGUnLAogIGN1c3RvbWVyOiB7CiAgICBnZW5kZXI6ICdtJywKICAgIGZpcnN0bmFtZTogJ2RhbmllbCcsCiAgICBsYXN0bmFtZTogJ3NhYmluJywKICAgIGFkZHJlc3M6ICczNCBhdmVudWUgZGUgbCBvcGVyYScsCiAgICBhZGRpdGlvbmFsQWRkcmVzczogJ0JBVCAyJywKICAgIHppcGNvZGU6ICc3NTAwMicsCiAgICBjaXR5OiAncGFyaXMnLAogICAgZW1haWw6ICdkc2FAZGVmYXVsdC5jb20nLAogICAgbW9iaWxlUGhvbmU6ICcwNjAyMDMwNDA1JywKICAgIGJhbmtTZW5pb3JpdHk6ICcyMDEyLTA4LTIwVDEyOjAwOjAwWicsCiAgICBuYXRpb25hbGl0eTogJ0ZSJywKICAgIGJpcnRoOiB7CiAgICAgIGRhdGU6ICcyMDAwLTAxLTAxJywKICAgICAgY291bnRyeTogJ0VVJywKICAgICAgY2l0eTogJ1BhcmlzJywKICAgICAgZGVwYXJ0bWVudDogNzUsCiAgICB9LAogICAgam9iOiB7CiAgICAgIGNvbnRyYWN0OiAnQ0RJJywKICAgICAgc3RhcnRlZEF0OiAnMjAxMi0wMS0wMScsCiAgICAgIHByb2Zlc3Npb246IDQyLAogICAgfSwKICB9LAp9Ow==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
