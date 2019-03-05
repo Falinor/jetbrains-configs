@@ -385,14 +385,6 @@
           <Count>3</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Toggle Line Breakpoint">
-        <Item>
-          <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
-          <ShortCut>'⌘F8'</ShortCut>
-          <Description>Toggle Line Breakpoint</Description>
-          <Count>119</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Variable...">
         <Item>
           <IdeaActionID>IntroduceVariable</IdeaActionID>
@@ -543,6 +535,14 @@
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
           <Count>71</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Toggle Line Breakpoint">
+        <Item>
+          <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
+          <ShortCut>'⌘F8'</ShortCut>
+          <Description>Toggle Line Breakpoint</Description>
+          <Count>120</Count>
         </Item>
       </Statistic>
       <Statistic Action="TypeScript 2.7.2">
