@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/banque-casino/api/src/core/config.ts" timestamp="1551348150392">
+      <file name="$USER_HOME$/dev/banque-casino/api/src/core/config.ts" timestamp="1551782077285">
         <mark key="'" line="29" column="68" />
-        <mark key="[" line="26" column="35" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="29" column="68" />
-        <mark key="." line="7" column="0" />
+        <mark key="[" line="4" column="26" />
+        <mark key="]" line="4" column="23" />
+        <mark key="^" line="4" column="23" />
+        <mark key="." line="4" column="23" />
       </file>
       <file name="$USER_HOME$/dev/banque-casino/api/src/resources/demand/presentation/mapper/demand.ts" timestamp="1551372032519" />
       <file name="$USER_HOME$/dev/banque-casino/api/src/assets/api-doc/paths/session.yml" timestamp="1550848071853">
@@ -42,11 +42,10 @@
         <mark key="." line="82" column="33" />
         <mark key="^" line="82" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/api/src/index.ts" timestamp="1550827159206">
-        <mark key="[" line="13" column="36" />
-        <mark key="]" line="13" column="36" />
-        <mark key="." line="13" column="36" />
-        <mark key="^" line="13" column="36" />
+      <file name="$USER_HOME$/dev/banque-casino/api/src/index.ts" timestamp="1551781941881">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/dev/banque-casino/api/src/assets/api-doc/index.yml" timestamp="1551371192078">
         <mark key="[" line="33" column="0" />
@@ -74,11 +73,10 @@
         <mark key="^" line="3" column="16" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/banque-casino/api/src/core/container.ts" timestamp="1551349733573">
-        <mark key="[" line="60" column="12" />
-        <mark key="]" line="60" column="12" />
-        <mark key="." line="60" column="12" />
-        <mark key="^" line="60" column="12" />
+      <file name="$USER_HOME$/dev/banque-casino/api/src/core/container.ts" timestamp="1551781841627">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/dev/banque-casino/api/src/resources/demand/data/mapper/index.ts" timestamp="1550593176874">
         <mark key="[" line="0" column="0" />
@@ -359,6 +357,7 @@
         <mark key="]" line="100" column="3" />
         <mark key="." line="100" column="3" />
       </file>
+      <file name="$USER_HOME$/dev/banque-casino/api/src/core/logger.ts" timestamp="1551780938256" />
       <file name="$USER_HOME$/dev/banque-casino/api/src/resources/session/schema.ts" timestamp="1550832673135">
         <mark key="'" line="5" column="7" />
         <mark key="[" line="8" column="11" />
@@ -855,8 +854,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJ0bmVycy5wdXNoKG9yaWdpbi5jb2RlKTsK</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2383,7 +2382,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZWxzZSA=</text>
+        <text>t</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2398,41 +2397,37 @@
         <text encoding="base64">ICAgICAgICBwYXJ0bmVycy5wdXNoKG9yaWdpbi5jb2RlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJ0bmVycy5wdXNoKG9yaWdpbi5jb2RlKTsK</text>
+        <text encoding="base64">aWYgKGNvbmZpZy5nZXQ8Ym9vbGVhbj4oJ21vbml0b3JpbmcuZW5hYmxlJykpIHsKfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvcmlnaW4ucm9sZSA9PT0gUm9sZXMuR3JvdXBPZlBhcnRuZXJzCg==</text>
+        <text encoding="base64">ICBjcmVhdGVMb2dnZXIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJ0bmVycy5wdXNoKG9yaWdpbi5jb2RlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaWYgKG9yaWdpbi5yb2xlICkK</text>
+      <register name="4" type="4">
+        <text encoding="base64">CmRlZiBpbml0TW9uaXRvcmluZyhvcHRzKToKICBwcm9maWxlKHsKICAgIGNvbnRyb2xsZXJIb3N0TmFtZTogb3B0cy5jb250cm9sbGVySG9zdE5hbWUsCiAgfSk=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCkK</text>
+        <text encoding="base64">ICB9KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICBjcmVhdGVNb25pdG9yaW5nKHsKICAgIGNvbnRyb2xsZXJIb3N0TmFtZTogCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>if (origin.role === Roles.GroupOfPartners) {
-          partners.push()
-      }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBjb250YWluZXIucmVzb2x2ZTxNb25pdG9yaW5nPignbW9uaXRvcmluZycpCg==</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
-      <register name="8" type="4">
-        <text>if (origin.role === Roles.GroupOfPartners) {
-        partners.push()
-      }</text>
+      <register name="8" type="2">
+        <text encoding="base64">aWYgKGNvbmZpZy5nZXQoJ2VudicpID09PSAncHJvZHVjdGlvbicpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYgKG9yaWdpbi5yb2xlICkK</text>
+        <text encoding="base64">Y29uc3QgbG9nZ2VyID0gY3JlYXRlTG9nZ2VyKCk7Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
