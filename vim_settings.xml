@@ -24,12 +24,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/test/app/match/create-match.test.js" timestamp="1552148522174">
+      <file name="$USER_HOME$/Dev/baby-foot/api/test/app/match/create-match.test.js" timestamp="1552149451894">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="25" column="2" />
-        <mark key="]" line="26" column="34" />
-        <mark key="." line="25" column="2" />
-        <mark key="^" line="25" column="1" />
+        <mark key="[" line="24" column="27" />
+        <mark key="]" line="24" column="43" />
+        <mark key="." line="24" column="43" />
+        <mark key="^" line="24" column="43" />
       </file>
       <file name="$USER_HOME$/Dev/baby-foot/api/src/core/config.js" timestamp="1552002555429">
         <mark key="'" line="3" column="6" />
@@ -70,43 +70,42 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>// When
-  await matchRepository.execute();</text>
+        <text>create</text>
       </register>
       <register name="-" type="4">
-        <text>match</text>
+        <text>create</text>
       </register>
       <register name="0" type="4">
         <text>// When
   await matchRepository.execute();</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="2" type="4">
         <text>// When
   await matchRepository.execute();</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIHQuaXMob3V0cHV0KQo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHQuaXMoKQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICB1c2VDYXNlLm9uKCkK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICBhcAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICBjb25zdCBtYXRjaFJlcG9zaXRvcnkgPSBjcmVhdGVBZGRNYXRjaFVzZUNhc2Uob3B0cyk7Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAKICBjb25zdCBvcHRzID0geyBtYXRjaFJlcG9zaXRvcnk6IHt9IH07Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICB9Owo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCBvcHRzID0gewo=</text>
+        <text encoding="base64">ICB9Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
