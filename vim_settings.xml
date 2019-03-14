@@ -74,17 +74,18 @@
         <mark key="." line="2" column="36" />
         <mark key="^" line="2" column="36" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/test/interfaces/http/match/schemas.test.js" timestamp="1552516084304">
-        <mark key="[" line="4" column="42" />
-        <mark key="]" line="4" column="45" />
-        <mark key="^" line="4" column="45" />
-        <mark key="." line="4" column="45" />
+      <file name="$USER_HOME$/Dev/baby-foot/api/test/interfaces/http/match/schemas.test.js" timestamp="1552548602980">
+        <mark key="'" line="1" column="17" />
+        <mark key="[" line="10" column="43" />
+        <mark key="]" line="10" column="42" />
+        <mark key="^" line="10" column="42" />
+        <mark key="." line="10" column="42" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/src/interfaces/http/match/schemas.js" timestamp="1552433380907">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="3" column="7" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/interfaces/http/match/schemas.js" timestamp="1552548681404">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="0" column="16" />
+        <mark key="^" line="0" column="16" />
       </file>
       <file name="$USER_HOME$/Dev/baby-foot/api/src/domain/team.d.ts" timestamp="1551999949429">
         <mark key="[" line="6" column="0" />
@@ -131,53 +132,46 @@
       <jump line="6" column="22" filename="$USER_HOME$/Dev/baby-foot/api/src/interfaces/http/match/schemas.js" />
       <jump line="0" column="7" filename="$USER_HOME$/Dev/baby-foot/api/src/interfaces/http/match/schemas.js" />
       <jump line="6" column="40" filename="$USER_HOME$/Dev/baby-foot/api/src/interfaces/http/match/index.js" />
+      <jump line="9" column="13" filename="$USER_HOME$/Dev/baby-foot/api/test/interfaces/http/match/schemas.test.js" />
+      <jump line="1" column="17" filename="$USER_HOME$/Dev/baby-foot/api/test/interfaces/http/match/schemas.test.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJ2pvaSc7Cgo=</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3RyaW5nIA==</text>
+        <text>.</text>
       </register>
       <register name="0" type="4">
         <text>// When
   await matchRepository.execute();</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJ2pvaSc7Cgo=</text>
+        <text encoding="base64">b3B0aW9ucyh7fSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIHJlZDogb2JqZWN0KHt9KSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIGVycm9ySGFuZGxlcihsb2dnZXIpIHsKfQo=</text>
+        <text encoding="base64">ICBibHVlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICByZXR1cm4gYXN5bmMgKGN0eCkK</text>
+        <text encoding="base64">aW1wb3J0IHsgfSBmcm9tICdqb2knOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJ2pvaSc7Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyBhd2FpdCB1c2VjYXNlCg==</text>
+        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIGVycm9ySGFuZGxlcihsb2dnZXIpIHsKfQo=</text>
       </register>
-      <register name="8" type="4">
-        <text>const match = {
-    red: {
-      points: 10,
-      players: ['ABC', 'DEF'],
-    },
-    blue: {
-      points: 6,
-      players: ['GHI', 'JKL'],
-    },
-  };</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICByZXR1cm4gYXN5bmMgKGN0eCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHQuaXNkZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -198,6 +192,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
