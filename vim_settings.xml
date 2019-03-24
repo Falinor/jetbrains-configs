@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dev/cookbook/src/App.vue" timestamp="1552826978635">
-        <mark key="[" line="1" column="13" />
-        <mark key="]" line="1" column="13" />
-        <mark key="." line="1" column="13" />
-        <mark key="^" line="1" column="13" />
-      </file>
       <file name="$USER_HOME$/Dev/cookbook/.prettierrc" timestamp="1553429044383">
         <mark key="[" line="0" column="0" />
       </file>
@@ -18,6 +12,18 @@
         <mark key="]" line="33" column="0" />
         <mark key="^" line="26" column="32" />
         <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/cookbook/vue.config.js" timestamp="1552688492101">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="8" column="1" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/cookbook/src/App.vue" timestamp="1552826978635">
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="1" column="13" />
+        <mark key="." line="1" column="13" />
+        <mark key="^" line="1" column="13" />
       </file>
       <file name="$USER_HOME$/Dev/baby-foot/api/integ/utils.js" timestamp="1553440778130">
         <mark key="'" line="32" column="37" />
@@ -44,6 +50,12 @@
         <mark key="^" line="5" column="12" />
         <mark key="." line="5" column="12" />
       </file>
+      <file name="$USER_HOME$/Dev/baby-foot/api/types/repository.d.ts" timestamp="1553446390987">
+        <mark key="[" line="4" column="10" />
+        <mark key="]" line="4" column="10" />
+        <mark key="^" line="3" column="5" />
+        <mark key="." line="4" column="10" />
+      </file>
       <file name="$USER_HOME$/Dev/cookbook/src/services/svg.js" timestamp="1553430593513">
         <mark key="'" line="18" column="29" />
         <mark key="[" line="4" column="38" />
@@ -55,12 +67,6 @@
         <mark key="[" line="23" column="20" />
         <mark key="]" line="23" column="20" />
         <mark key="." line="23" column="20" />
-      </file>
-      <file name="$USER_HOME$/Dev/cookbook/vue.config.js" timestamp="1552688492101">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="8" column="1" />
-        <mark key="." line="3" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -85,7 +91,7 @@
         <text encoding="base64">ICByZXR1cm4gcmVzb3VyY2VzLm1hcChyID0+IGNvbnRhaW5lci5yZXNvbHZlKHIpKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>item: T</text>
       </register>
       <register name="2" type="4">
         <text>match: 'matchRouter',
@@ -117,7 +123,7 @@
         <text>wq</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>item: T</text>
       </register>
     </registers>
     <search>
