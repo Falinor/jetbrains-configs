@@ -2,14 +2,89 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
-    <jumps />
-    <registers />
+    <filemarks>
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/utils/index.js" timestamp="1554544013852">
+        <mark key="[" line="5" column="33" />
+        <mark key="]" line="5" column="33" />
+        <mark key="^" line="5" column="60" />
+        <mark key="." line="5" column="33" />
+      </file>
+      <file name="$USER_HOME$/Dev/baby-foot/api/integ/matches.test.js" timestamp="1554540867483">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/baby-foot/api/integ/utils.js" timestamp="1554544223847">
+        <mark key="[" line="44" column="38" />
+        <mark key="]" line="45" column="31" />
+        <mark key="." line="45" column="31" />
+        <mark key="^" line="45" column="31" />
+      </file>
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/interfaces/http/server.js" timestamp="1554541252422">
+        <mark key="[" line="10" column="35" />
+        <mark key="]" line="10" column="34" />
+        <mark key="." line="10" column="34" />
+        <mark key="^" line="10" column="34" />
+      </file>
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/interfaces/http/match/index.js" timestamp="1554544032608">
+        <mark key="a" line="5" column="41" />
+        <mark key="'" line="6" column="13" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="45" />
+        <mark key="^" line="6" column="13" />
+        <mark key="." line="3" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="22" column="31" filename="$USER_HOME$/Dev/baby-foot/api/integ/matches.test.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dev/baby-foot/api/integ/matches.test.js" />
+      <jump line="6" column="13" filename="$USER_HOME$/Dev/baby-foot/api/src/interfaces/http/match/index.js" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IHsgcGFzc1Rocm91Z2ggfSBmcm9tICcuLi8uLi8uLi91dGlscyc7Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHsgcGFzc1Rocm91Z2ggfSBmcm9tICcuLi8uLi8uLi91dGlscyc7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IFJvdXRlciBmcm9tICdrb2Etcm91dGVyJzsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICB2YWxpZGF0ZUlucHV0ID0gcGFzc1Rocm91Z2hNaWRkbGV3YXJlLAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCduYW1lJywgcm91dGVyKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgY29uc3Qgcm91dGVyID0gcm91dGVyTWFwW3Jlc291cmNlXTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgY29uc3Qgcm91dGUK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC5tYXAocmVzb3VyY2UgPT4gcm91dGVyTWFwW3Jlc291cmNlXSkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgT2JqZWN0LmtleXMocm91dGVyKTsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgY29udGFpbmVyLnJlZ2lzdGVyKHJvdXRlcik7CiAgICAgIGNvbnNvbGUubG9nKCduYW1lJywgcm91dGVyKTsK</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>Middleware</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+    </history>
     <shortcut-conflicts />
   </component>
 </application>
