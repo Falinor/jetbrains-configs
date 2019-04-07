@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/app/match/create-match.js" timestamp="1554550158292">
+        <mark key="[" line="51" column="63" />
+        <mark key="]" line="51" column="81" />
+        <mark key="." line="51" column="81" />
+        <mark key="^" line="51" column="81" />
+      </file>
       <file name="$USER_HOME$/Dev/baby-foot/api/src/utils/index.js" timestamp="1554544013852">
         <mark key="[" line="5" column="33" />
         <mark key="]" line="5" column="33" />
@@ -12,11 +18,22 @@
       <file name="$USER_HOME$/Dev/baby-foot/api/integ/matches.test.js" timestamp="1554540867483">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/integ/utils.js" timestamp="1554544223847">
-        <mark key="[" line="44" column="38" />
-        <mark key="]" line="45" column="31" />
-        <mark key="." line="45" column="31" />
-        <mark key="^" line="45" column="31" />
+      <file name="$USER_HOME$/Dev/baby-foot/api/integ/utils.js" timestamp="1554653506777">
+        <mark key="'" line="3" column="21" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/core/container.js" timestamp="1554654576316">
+        <mark key="[" line="10" column="44" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="43" />
+      </file>
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/interfaces/http/match/controller.js" timestamp="1554549376774">
+        <mark key="[" line="33" column="17" />
+        <mark key="]" line="33" column="27" />
+        <mark key="." line="33" column="27" />
+        <mark key="^" line="33" column="27" />
       </file>
       <file name="$USER_HOME$/Dev/baby-foot/api/src/interfaces/http/server.js" timestamp="1554541252422">
         <mark key="[" line="10" column="35" />
@@ -24,56 +41,83 @@
         <mark key="." line="10" column="34" />
         <mark key="^" line="10" column="34" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/src/interfaces/http/match/index.js" timestamp="1554544032608">
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/infra/match/index.js" timestamp="1554550068324">
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="3" column="27" />
+        <mark key="^" line="3" column="27" />
+        <mark key="." line="3" column="27" />
+      </file>
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/interfaces/http/match/index.js" timestamp="1554653567334">
         <mark key="a" line="5" column="41" />
-        <mark key="'" line="6" column="13" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="45" />
-        <mark key="^" line="6" column="13" />
-        <mark key="." line="3" column="0" />
+        <mark key="[" line="9" column="14" />
+        <mark key="]" line="9" column="14" />
+        <mark key="." line="9" column="14" />
+      </file>
+      <file name="$USER_HOME$/Dev/baby-foot/api/integ/container.test.js" timestamp="1554654025689">
+        <mark key="[" line="17" column="2" />
+        <mark key="]" line="17" column="18" />
+        <mark key="^" line="17" column="18" />
+        <mark key="." line="17" column="18" />
+      </file>
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/container.js" timestamp="1554550053019">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/baby-foot/api/integ/container.test.ts" timestamp="1554653908312">
+        <mark key="[" line="6" column="32" />
+        <mark key="]" line="6" column="31" />
+        <mark key="^" line="6" column="31" />
+        <mark key="." line="6" column="31" />
       </file>
     </filemarks>
     <jumps>
       <jump line="22" column="31" filename="$USER_HOME$/Dev/baby-foot/api/integ/matches.test.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Dev/baby-foot/api/integ/matches.test.js" />
       <jump line="6" column="13" filename="$USER_HOME$/Dev/baby-foot/api/src/interfaces/http/match/index.js" />
+      <jump line="17" column="19" filename="$USER_HOME$/Dev/baby-foot/api/integ/utils.js" />
+      <jump line="3" column="21" filename="$USER_HOME$/Dev/baby-foot/api/integ/utils.js" />
+      <jump line="4" column="22" filename="$USER_HOME$/Dev/baby-foot/api/src/container.js" />
+      <jump line="17" column="28" filename="$USER_HOME$/Dev/baby-foot/api/src/container.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dev/baby-foot/api/src/container.js" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgcGFzc1Rocm91Z2ggfSBmcm9tICcuLi8uLi8uLi91dGlscyc7Cg==</text>
+        <text encoding="base64">ICAgIGluamVjdGlvbk1vZGU6IEluamVjdGlvbk1vZGUuUFJPWFksCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgcGFzc1Rocm91Z2ggfSBmcm9tICcuLi8uLi8uLi91dGlscyc7Cg==</text>
+        <text encoding="base64">ICAgIGluamVjdGlvbk1vZGU6IEluamVjdGlvbk1vZGUuUFJPWFksCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IFJvdXRlciBmcm9tICdrb2Etcm91dGVyJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB2YWxpZGF0ZUlucHV0ID0gcGFzc1Rocm91Z2hNaWRkbGV3YXJlLAo=</text>
+        <text encoding="base64">ICAKfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCduYW1lJywgcm91dGVyKTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhjb250YWluZXIucmVzb2x2ZSgnbWF0Y2hDb250cm9sbGVyJykpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgcm91dGVyID0gcm91dGVyTWFwW3Jlc291cmNlXTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgcm91dGUK</text>
+        <text encoding="base64">ICBjb25zdCByZXNvdXJjZU1hcCA9IHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC5tYXAocmVzb3VyY2UgPT4gcm91dGVyTWFwW3Jlc291cmNlXSkK</text>
+        <text encoding="base64">ICAgIG1hdGNoOiBtYXRjaFJlc291cmNlLAogICAgLy8gdGVhbTogY3JlYXRlVGVhbVJvdXRlciwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgT2JqZWN0LmtleXMocm91dGVyKTsK</text>
+        <text encoding="base64">ICAgIC8vIHBsYXllcjogY3JlYXRlUGxheWVyUm91dGVyLAogIH07Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29udGFpbmVyLnJlZ2lzdGVyKHJvdXRlcik7CiAgICAgIGNvbnNvbGUubG9nKCduYW1lJywgcm91dGVyKTsK</text>
+        <text encoding="base64">ICBjb25zdCByZXNvdXJjZXMgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>Middleware</text>
+        <text>CLASSIC</text>
       </register>
     </registers>
     <search>
