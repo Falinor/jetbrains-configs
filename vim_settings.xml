@@ -13,11 +13,21 @@
         <mark key="^" line="5" column="15" />
         <mark key="." line="5" column="15" />
       </file>
+      <file name="$USER_HOME$/dev/formio-poc/docker-compose.yml" timestamp="1555411992110">
+        <mark key="[" line="37" column="17" />
+        <mark key="]" line="37" column="18" />
+        <mark key="." line="37" column="18" />
+      </file>
       <file name="$USER_HOME$/Dev/cookbook/vue.config.js" timestamp="1552688492101">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="^" line="8" column="1" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/formio-poc/config/default.json" timestamp="1555412000309">
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="1" column="14" />
+        <mark key="." line="1" column="14" />
       </file>
       <file name="$USER_HOME$/Dev/cookbook/src/components/HelloWorld.vue" timestamp="1553428519412">
         <mark key="'" line="22" column="4" />
@@ -50,37 +60,38 @@
       <jump line="7" column="0" filename="$USER_HOME$/Dev/cookbook/src/components/HelloWorld.vue" />
       <jump line="23" column="4" filename="$USER_HOME$/Dev/cookbook/src/components/HelloWorld.vue" />
       <jump line="14" column="29" filename="$USER_HOME$/Dev/cookbook/src/services/svg.js" />
+      <jump line="45" column="6" filename="$USER_HOME$/dev/formio-poc/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICB3aGlsZSAocG9pbnQpCg==</text>
+        <text encoding="base64">ICAgICAgUE9SVDogMzAwMQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>apiUrl</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgUE9SVDogMzAwMQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBsZXQgCg==</text>
+        <text encoding="base64">ICAgIGVudmlyb25tZW50Ogo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAK</text>
+        <text encoding="base64">ICAgICAgUE9SVDogMzAwMQogICAgICBNT05HTzogbW9uZ29kYjovL21vbmdvOjI3MDE3L2Zvcm1pb2FwcAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpZiAoaXNJbnNpZGUocG9pbnQsIHNoYXBlcykpCiAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICB3aGlsZSAocG9pbnQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJwcmUiCg==</text>
+        <text encoding="base64">ICBsZXQgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZWx0LmFkZEV2ZW50TGlzdGVuZXIoJ2NsaWNrJywgKCkgPT4gewogICAgICAgIHN2Zy56b29tQXRQb2ludCgyLCB7IHg6IDEwMDAsIHk6IDUwMCB9KTsK</text>
+        <text encoding="base64">ICBpZiAoaXNJbnNpZGUocG9pbnQsIHNoYXBlcykpCiAgICByZXR1cm4gCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdmcuem9vbUF0UG9pbnQoMiwgZWx0LmdldEJCb3goKSk7Cg==</text>
+        <text encoding="base64">ICAgICJwcmUiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgfSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
@@ -102,7 +113,11 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
     <editor>
       <key-repeat enabled="false" />
     </editor>
