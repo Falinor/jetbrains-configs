@@ -24,5 +24,16 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="formio.full" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_formiojs@latest_dist_formio.full.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_formiojs@latest_dist_formio.full.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
   </component>
 </application>
