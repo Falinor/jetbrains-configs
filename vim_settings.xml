@@ -9,6 +9,16 @@
         <mark key="^" line="5" column="60" />
         <mark key="." line="5" column="33" />
       </file>
+      <file name="$USER_HOME$/Dev/vue-katapi-client/src/services/product-service.js" timestamp="1556089354046">
+        <mark key="'" line="0" column="28" />
+        <mark key="[" line="9" column="2" />
+        <mark key="]" line="9" column="7" />
+        <mark key="^" line="9" column="7" />
+        <mark key="." line="9" column="7" />
+      </file>
+      <file name="$USER_HOME$/Dev/vue-katapi-client/src/views/Home.vue" timestamp="1556089424957">
+        <mark key="[" line="8" column="41" />
+      </file>
       <file name="$USER_HOME$/Dev/baby-foot/api/src/interfaces/http/match/controller.js" timestamp="1554671261255">
         <mark key="[" line="23" column="7" />
         <mark key="]" line="23" column="7" />
@@ -20,6 +30,7 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/Dev/vue-katapi-client/tests/unit/example.spec.js" timestamp="1556088648636" />
       <file name="$USER_HOME$/Dev/baby-foot/api/src/infra/match/index.js" timestamp="1554658027530">
         <mark key="[" line="15" column="28" />
         <mark key="]" line="15" column="35" />
@@ -43,7 +54,6 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/baby-foot/api/src/domain/match.d.ts" timestamp="1554657336378" />
       <file name="$USER_HOME$/Dev/baby-foot/api/integ/matches.test.js" timestamp="1554671473325">
         <mark key="'" line="39" column="8" />
         <mark key="[" line="14" column="5" />
@@ -95,6 +105,12 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="33" column="35" />
       </file>
+      <file name="$USER_HOME$/Dev/vue-katapi-client/src/components/Product.vue" timestamp="1556089002616">
+        <mark key="[" line="16" column="2" />
+        <mark key="]" line="16" column="1" />
+        <mark key="^" line="16" column="1" />
+        <mark key="." line="16" column="1" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="22" column="31" filename="$USER_HOME$/Dev/baby-foot/api/integ/matches.test.js" />
@@ -109,43 +125,44 @@
       <jump line="38" column="21" filename="$USER_HOME$/Dev/baby-foot/api/src/container.js" />
       <jump line="30" column="14" filename="$USER_HOME$/Dev/baby-foot/api/src/interfaces/http/server.js" />
       <jump line="39" column="8" filename="$USER_HOME$/Dev/baby-foot/api/integ/matches.test.js" />
+      <jump line="0" column="28" filename="$USER_HOME$/Dev/vue-katapi-client/src/services/product-service.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>serial</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>serial</text>
+        <text>t</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHsgbWV0aG9kOiAnZ2V0JywgcGF0aDogJy92MS9tYXRjaGVzJyB9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBDaGVjayBpdHMgaXRlbXMK</text>
+        <text encoding="base64">Y2xhc3MgUHJvZHVjdFNlcnZpY2Uge30K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9KQo=</text>
+        <text encoding="base64">ZXhwb3J0IFByb2R1Y3RTZXJ2aWNlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBzYW1wbGVNYXRjaGVzLmZvckVhY2gobSA9PiB7CiAgICB0LmRlZXBFcXVhbCgpCg==</text>
+        <text encoding="base64">ICAgIEhlbGxvV29ybGQsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCByCg==</text>
+        <text encoding="base64">aW1wb3J0IEhlbGxvV29ybGQgZnJvbSAnQC9jb21wb25lbnRzL1Byb2R1Y3QudnVlJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyBHaXZlbgo=</text>
+        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJob21lIj4KICA8L2Rpdj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9KTsK</text>
+        <text encoding="base64">ICAgIDxpbWcgYWx0PSJWdWUgbG9nbyIgc3JjPSIuLi9hc3NldHMvbG9nby5wbmciPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBmaW5kTWF0Y2hlc1VzZUNhc2Uub25jZShTVUNDRVNTLCBtYXRjaGVzID0+IHsKICAgIGNvbnNvbGUubG9nKG1hdGNoZXMpOwo=</text>
+        <text encoding="base64">ICAgIDxIZWxsb1dvcmxkIG1zZz0iV2VsY29tZSB0byBZb3VyIFZ1ZS5qcyBBcHAiLz4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXMpOwo=</text>
+        <text encoding="base64">ICAgIG1zZzogc3RyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY3R4LmJvZHkpOwo=</text>
+        <text encoding="base64">ICAvLyBDaGVjayBpdHMgaXRlbXMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -156,9 +173,12 @@
       <show-last>false</show-last>
     </search>
     <history>
+      <history-search />
       <history-cmd>
         <entry>w</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts />
   </component>
