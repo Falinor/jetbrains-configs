@@ -97,6 +97,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Expand All">
+        <Item>
+          <IdeaActionID>ExpandAllRegions</IdeaActionID>
+          <ShortCut>'⇧⌘+' or '⇧⌘='</ShortCut>
+          <Description>Expand All</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Find">
         <Item>
           <IdeaActionID>ActivateFindToolWindow</IdeaActionID>
