@@ -53,11 +53,11 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="33" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/club-med/gmfeedback/src/views/index.html" timestamp="1556538671287">
-        <mark key="[" line="5" column="18" />
-        <mark key="]" line="5" column="23" />
-        <mark key="." line="5" column="23" />
-        <mark key="^" line="5" column="23" />
+      <file name="$USER_HOME$/dev/club-med/gmfeedback/src/views/index.html" timestamp="1556541666802">
+        <mark key="[" line="6" column="28" />
+        <mark key="]" line="6" column="26" />
+        <mark key="." line="6" column="26" />
+        <mark key="^" line="6" column="26" />
       </file>
       <file name="$USER_HOME$/Dev/baby-foot/api/src/core/config.js" timestamp="1554667031410">
         <mark key="[" line="39" column="17" />
@@ -165,11 +165,11 @@
       <jump line="0" column="6" filename="$USER_HOME$/dev/club-med/gmfeedback/src/views/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">JT4K</text>
+      <register name="&quot;" type="4">
+        <text>createForm</text>
       </register>
       <register name="-" type="4">
-        <text>body</text>
+        <text>createForm</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">JnF1b3Q7</text>
@@ -178,31 +178,31 @@
         <text encoding="base64">ICAgIHsgbWV0aG9kOiAnZ2V0JywgcGF0aDogJy92MS9tYXRjaGVzJyB9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">JT4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PCUtIGxheW91dCgndGVtcGxhdGUnKQo=</text>
+        <text encoding="base64">ICAgIGF3YWl0IGZvcm0ucmVuZGVyKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">JT4K</text>
+        <text encoding="base64">ICAgIGZvcm0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PCU9Cg==</text>
+        <text encoding="base64">ICAgIGF3YWl0IEZvcm1pby5jcmVhdGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAlPgo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZvcm0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA8JT0K</text>
+        <text encoding="base64">JT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAoKQo=</text>
+        <text encoding="base64">PCUtIGxheW91dCgndGVtcGxhdGUnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8c2NyaXB0IHNyYz0iaHR0cHM6Ly91bnBrZy5jb20vZm9ybWlvanNAbGF0ZXN0L2Rpc3QvZm9ybWlvLmZ1bGwubWluLmpzIj48L3NjcmlwdD4KICA8ZGl2IGlkPSJ3aXphcmQiPjwvZGl2Pgo=</text>
+        <text encoding="base64">JT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PCU9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -228,7 +228,11 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
     <editor>
       <key-repeat enabled="false" />
     </editor>
