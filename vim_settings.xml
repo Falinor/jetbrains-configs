@@ -15,6 +15,9 @@
         <mark key="." line="15" column="44" />
         <mark key="^" line="15" column="44" />
       </file>
+      <file name="/a.dummy" timestamp="1556576745605">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Dev/baby-foot/api/src/infra/match/index.js" timestamp="1554658027530">
         <mark key="[" line="15" column="28" />
         <mark key="]" line="15" column="35" />
@@ -45,12 +48,12 @@
         <mark key="^" line="8" column="37" />
         <mark key="." line="8" column="37" />
       </file>
-      <file name="$USER_HOME$/Dev/vue-katapi-client/src/store.js" timestamp="1556573620865">
-        <mark key="'" line="19" column="20" />
-        <mark key="[" line="23" column="21" />
-        <mark key="]" line="23" column="21" />
-        <mark key="." line="23" column="21" />
-        <mark key="^" line="23" column="27" />
+      <file name="$USER_HOME$/Dev/vue-katapi-client/src/store.js" timestamp="1556576743411">
+        <mark key="'" line="22" column="20" />
+        <mark key="[" line="27" column="16" />
+        <mark key="]" line="27" column="15" />
+        <mark key="." line="27" column="15" />
+        <mark key="^" line="27" column="15" />
       </file>
       <file name="$USER_HOME$/dev/club-med/gmfeedback/src/user.js" timestamp="1556093512788">
         <mark key="[" line="15" column="2" />
@@ -94,10 +97,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="10" column="17" />
       </file>
-      <file name="$USER_HOME$/Dev/vue-katapi-client/src/mutation-types.js" timestamp="1556573012863">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Dev/vue-katapi-client/src/mutation-types.js" timestamp="1556576940746">
+        <mark key="[" line="0" column="28" />
+        <mark key="]" line="0" column="28" />
+        <mark key="." line="0" column="28" />
+        <mark key="^" line="0" column="24" />
       </file>
       <file name="$USER_HOME$/dev/club-med/gmfeedback/src/renderer.js" timestamp="1556042332453">
         <mark key="'" line="8" column="31" />
@@ -155,6 +159,9 @@
         <mark key="^" line="31" column="40" />
         <mark key="." line="31" column="40" />
       </file>
+      <file name="$USER_HOME$/Dev/baby-foot/api/src/interfaces/http/server.js" timestamp="1554667881169">
+        <mark key="[" line="0" column="7" />
+      </file>
       <file name="$USER_HOME$/Dev/baby-foot/api/integ/container.test.js" timestamp="1554656431810">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="10" column="59" />
@@ -208,43 +215,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">c3RhdGUg</text>
+        <text>ADD_TO_CART</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3RhdGUg</text>
+        <text>ADD_TO_CART</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">JnF1b3Q7</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHsgbWV0aG9kOiAnZ2V0JywgcGF0aDogJy92MS9tYXRjaGVzJyB9LAo=</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IEFERF9UT19DQVJUID0gJ0FERF9UT19DQVJUJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU0VUX1BST0RVQ1RTIH0gZnJvbSAnQC9tdXRhdGlvbi10eXBlcyc7Cg==</text>
+        <text encoding="base64">ICAgICAgc3RhdGUucHJvZHVjdHMgPSBwcm9kdWN0czsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgcHJvZHVjdFNlcnZpY2UgPSBuZXcgUHJvZHVjdFNlcnZpY2UoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgU0VUX1BST0RVQ1RTIH0gZnJvbSAnQC9tdXRhdGlvbi10eXBlcyc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IAo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBtdXRhdGlvbnM6IHt9LAo=</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBtdXRhdGlvbnM6IHt9LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
