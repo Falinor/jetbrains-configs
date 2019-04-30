@@ -84,12 +84,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="10" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/club-med/gmfeedback/src/App.vue" timestamp="1556613383229">
-        <mark key="'" line="54" column="0" />
-        <mark key="[" line="49" column="1" />
-        <mark key="]" line="2" column="25" />
-        <mark key="." line="2" column="25" />
-        <mark key="^" line="2" column="25" />
+      <file name="$USER_HOME$/dev/club-med/gmfeedback/src/App.vue" timestamp="1556615937654">
+        <mark key="'" line="61" column="0" />
+        <mark key="[" line="6" column="66" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/baby-foot/api/src/infra/match/index.js" timestamp="1554658027530">
         <mark key="[" line="15" column="28" />
@@ -115,11 +114,10 @@
         <mark key="^" line="2" column="63" />
         <mark key="." line="2" column="63" />
       </file>
-      <file name="$USER_HOME$/dev/club-med/gmfeedback/src/components/Form.vue" timestamp="1556612363804">
-        <mark key="[" line="5" column="15" />
-        <mark key="]" line="5" column="15" />
-        <mark key="." line="5" column="15" />
-        <mark key="^" line="5" column="23" />
+      <file name="$USER_HOME$/dev/club-med/gmfeedback/src/components/Form.vue" timestamp="1556615541943">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/dev/club-med/gmfeedback/src/renderer.js" timestamp="1556042332453">
         <mark key="'" line="8" column="31" />
@@ -187,11 +185,11 @@
       <jump line="50" column="0" filename="$USER_HOME$/dev/club-med/gmfeedback/src/App.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">UHJvdmlkZXIg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgWW91IGNhbiAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">UHJvdmlkZXIg</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>Boolean</text>
@@ -200,31 +198,38 @@
         <text encoding="base64">ICAgICAgICB0cmFuc3BvcnRhdGlvbjogQm9vbGVhbiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJ3Z1ZS1mb3JtaW8nJycK</text>
+        <text encoding="base64">ICAgICAgWW91IGNhbiAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxQcmVGaWxsIC8+Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Ci5sZWdlbmQgewogIG1hcmdpbjogNDhweDsKfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIDwvYnV0dG9uPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAuZm9ybSAK</text>
+        <text encoding="base64">ICAgIDxidXR0b24+CiAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBqdXN0aWZ5LWNvbnRlbnQ6IHNwYWNlOwo=</text>
+        <text encoding="base64">ICAgIDxwPnt7IHN1Ym1pc3Npb24gfX08L3A+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBzdWJtaXNzaW9uOiB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LmxlZ2VuZCB7CiAgbWFyZ2luOiAzMnB4Owo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBmbGV4OiAyOwp9Cg==</text>
+      <register name="9" type="4">
+        <text>transportation: Boolean,
+    newMember: Boolean,
+    children: Boolean,
+    juniorClubMed: Boolean,
+    miniClub: Boolean,
+    babyClub: Boolean,
+    babyWelcome: Boolean,
+    ski: Boolean,</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
