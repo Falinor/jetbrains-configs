@@ -37,6 +37,11 @@
         <mark key="^" line="4" column="18" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Dev/vue-katapi-client/src/services/in-memory-product-service.js" timestamp="1556749617218">
+        <mark key="[" line="28" column="19" />
+        <mark key="]" line="28" column="19" />
+        <mark key="." line="28" column="19" />
+      </file>
       <file name="$USER_HOME$/Dev/vue-katapi-client/src/components/Navbar.vue" timestamp="1556567906277">
         <mark key="'" line="5" column="10" />
         <mark key="[" line="18" column="21" />
@@ -142,7 +147,13 @@
         <mark key="^" line="6" column="30" />
         <mark key="." line="6" column="30" />
       </file>
-      <file name="$USER_HOME$/Dev/vue-katapi-client/src/services/product-service.js" timestamp="1556605742731" />
+      <file name="$USER_HOME$/Dev/vue-katapi-client/src/services/product-service.js" timestamp="1556749746079">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="6" column="37" />
+        <mark key="]" line="6" column="41" />
+        <mark key="." line="6" column="41" />
+        <mark key="^" line="6" column="41" />
+      </file>
       <file name="$USER_HOME$/Dev/vue-katapi-client/src/components/ProductList.vue" timestamp="1556744531721">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="25" column="8" />
@@ -256,13 +267,14 @@
       <jump line="5" column="10" filename="$USER_HOME$/Dev/vue-katapi-client/src/components/Total.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/Dev/vue-katapi-client/src/components/Total.vue" />
       <jump line="6" column="14" filename="$USER_HOME$/Dev/vue-katapi-client/src/views/Checkout.vue" />
+      <jump line="1" column="0" filename="$USER_HOME$/Dev/vue-katapi-client/src/services/product-service.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>api</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>api</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">JnF1b3Q7</text>
@@ -271,31 +283,31 @@
         <text encoding="base64">ZXhwb3J0IGNvbnN0IEFERF9UT19DQVJUID0gJ0FERF9UT19DQVJUJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAogICAgICAgIDwvZm9vdGVyPgo=</text>
+        <text encoding="base64">ICBjb25zdHJ1Y3Rvcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDx2LWZvb3Rlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgIAogICAgICAgIDwvZm9vdGVyPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDx2LWZvb3Rlcgo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgPHYtZm9vdGVyCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">PHYtYnRuIGNvbG9yPSJwcmltYXJ5IiBAY2xpY2s9InBheSI+CiAgICAgICAgICBQYXkKICAgICAgICA8L3YtYnRuPg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICA8di1zdWJoZWFkZXI+VG90YWw8L3Ytc3ViaGVhZGVyPgo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">PGRpdj4KICAgICAgICA8ZGl2IGNsYXNzPSJ0b3RhbCI+CiAgICAgICAgICA8c3Bhbj57eyBjYXJ0Lmxlbmd0aCB9fSBwcm9kdWN0czwvc3Bhbj4KICAgICAgICAgIDxzcGFuPnt7IHRvdGFsUHJpY2UgfX0gZXVyb3M8L3NwYW4+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2Pg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8di1zdWJoZWFkZXI+VG90YWw8L3Ytc3ViaGVhZGVyPgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8di1zdWJoZWFkZXI+VG90YWw8L3Ytc3ViaGVhZGVyPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -324,6 +336,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
