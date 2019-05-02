@@ -22,7 +22,7 @@
         <mark key="^" line="26" column="20" />
         <mark key="." line="27" column="6" />
       </file>
-      <file name="/a.dummy" timestamp="1556576745605">
+      <file name="/a.dummy" timestamp="1556822841081">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/baby-foot/api/src/infra/match/index.js" timestamp="1554658027530">
@@ -61,13 +61,13 @@
         <mark key="^" line="8" column="37" />
         <mark key="." line="8" column="37" />
       </file>
-      <file name="$USER_HOME$/Dev/vue-katapi-client/src/store.js" timestamp="1556821826703">
+      <file name="$USER_HOME$/Dev/vue-katapi-client/src/store.js" timestamp="1556823156016">
         <mark key="d" line="0" column="8" />
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="30" column="13" />
-        <mark key="]" line="30" column="13" />
-        <mark key="." line="30" column="13" />
-        <mark key="^" line="30" column="26" />
+        <mark key="[" line="33" column="32" />
+        <mark key="]" line="32" column="30" />
+        <mark key="." line="32" column="30" />
+        <mark key="^" line="32" column="30" />
       </file>
       <file name="$USER_HOME$/dev/club-med/gmfeedback/src/user.js" timestamp="1556093512788">
         <mark key="[" line="15" column="2" />
@@ -231,6 +231,12 @@
         <mark key="^" line="33" column="35" />
       </file>
       <file name="$USER_HOME$/Dev/vue-katapi-client/src/main.js" timestamp="1556750592306" />
+      <file name="$USER_HOME$/Dev/vue-katapi-client/.eslintrc.js" timestamp="1556822903898">
+        <mark key="[" line="12" column="22" />
+        <mark key="]" line="12" column="22" />
+        <mark key="^" line="12" column="22" />
+        <mark key="." line="12" column="22" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="22" column="31" filename="$USER_HOME$/Dev/baby-foot/api/integ/matches.test.js" />
@@ -286,10 +292,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>CLEAR_PRODUCTS</text>
+        <text>cartService</text>
       </register>
       <register name="-" type="4">
-        <text>CLEAR_PRODUCTS</text>
+        <text>cartService</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">JnF1b3Q7</text>
@@ -298,31 +304,31 @@
         <text encoding="base64">aW1wb3J0IHsgUHJvZHVjdFNlcnZpY2UgfSBmcm9tICdAL3NlcnZpY2VzL2luLW1lbW9yeS1wcm9kdWN0LXNlcnZpY2UnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLy8gZXNsaW50LWRpc2FibGUtbmV4dC1saW5lIG5vLXBhcmFtLXJlYXNzaWduCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgcHJvZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgfSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHByb2R1Y3RzICYmIHByb2R1Y3RzLmxlbmd0aCA+IDApIHsK</text>
+        <text encoding="base64">ICAgICAgcHJvZHVjdHMuZm9yRWFjaCgocHJvZHVjdCkgPT4gewogICAgICAgIGNvbW1pdChTRVRfUFJPRFVDVFMsIHByb2R1Y3QpOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">PHByb2R1Y3QtbGlzdCAvPgogICAgICAgIDx0b3RhbCAvPgogICAgICAgIDxmb290ZXI+CiAgICAgICAgICA8di1idG4gY29sb3I9InByaW1hcnkiIEBjbGljaz0iJHN0b3JlLmRpc3BhdGNoKCdwYXknKSI+CiAgICAgICAgICAgIFBheQogICAgICAgICAgPC92LWJ0bj4KICAgICAgICA8L2Zvb3Rlcj4=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgLy8gZXNsaW50LWRpc2FibGUtbmV4dC1saW5lIG5vLXBhcmFtLXJlYXNzaWduCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+        <text encoding="base64">ICAgIFtDTEVBUl9QUk9EVUNUU10oc3RhdGUpIHsKICAgICAgc3RhdGUucHJvZHVjdHMgPSBbXTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBtZXRob2RzOiB7CiAgICBwYXkoKSB7fQo=</text>
+        <text encoding="base64">ICAgICAgLy8gZXNsaW50LWRpc2FibGUtbmV4dC1saW5lIG5vLXBhcmFtLXJlYXNzaWduCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZDogJzEyMy03ODktNzg5LTAxMicsCg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZDogJzEyMy00NTYtNzg5LTAxMicsCg==</text>
+        <text encoding="base64">ICAgICAgaWYgKHByb2R1Y3RzICYmIHByb2R1Y3RzLmxlbmd0aCA+IDApIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
