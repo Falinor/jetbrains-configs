@@ -61,13 +61,13 @@
         <mark key="^" line="8" column="37" />
         <mark key="." line="8" column="37" />
       </file>
-      <file name="$USER_HOME$/Dev/vue-katapi-client/src/store.js" timestamp="1556835937326">
+      <file name="$USER_HOME$/Dev/vue-katapi-client/src/store.js" timestamp="1556837320851">
         <mark key="d" line="0" column="8" />
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="33" column="35" />
-        <mark key="]" line="33" column="32" />
-        <mark key="." line="33" column="32" />
-        <mark key="^" line="33" column="32" />
+        <mark key="'" line="48" column="5" />
+        <mark key="[" line="21" column="17" />
+        <mark key="]" line="21" column="15" />
+        <mark key="." line="21" column="15" />
+        <mark key="^" line="21" column="15" />
       </file>
       <file name="$USER_HOME$/dev/club-med/gmfeedback/src/user.js" timestamp="1556093512788">
         <mark key="[" line="15" column="2" />
@@ -192,12 +192,12 @@
         <mark key="." line="39" column="21" />
         <mark key="^" line="39" column="21" />
       </file>
-      <file name="$USER_HOME$/Dev/vue-katapi-client/src/services/order-service.js" timestamp="1556836014820">
+      <file name="$USER_HOME$/Dev/vue-katapi-client/src/services/order-service.js" timestamp="1556836761042">
         <mark key="'" line="15" column="2" />
-        <mark key="[" line="12" column="30" />
-        <mark key="]" line="12" column="43" />
-        <mark key="." line="12" column="43" />
-        <mark key="^" line="12" column="43" />
+        <mark key="[" line="14" column="7" />
+        <mark key="]" line="14" column="5" />
+        <mark key="." line="14" column="5" />
+        <mark key="^" line="14" column="5" />
       </file>
       <file name="$USER_HOME$/Dev/baby-foot/api/integ/container.test.ts" timestamp="1554653908312">
         <mark key="[" line="6" column="32" />
@@ -300,13 +300,14 @@
       <jump line="1" column="0" filename="$USER_HOME$/Dev/vue-katapi-client/src/store.js" />
       <jump line="15" column="2" filename="$USER_HOME$/Dev/vue-katapi-client/src/services/order-service.js" />
       <jump line="0" column="42" filename="$USER_HOME$/Dev/vue-katapi-client/src/mutation-types.js" />
+      <jump line="47" column="5" filename="$USER_HOME$/Dev/vue-katapi-client/src/store.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHByb2R1Y3RMaXN0ID0gcHJvZHVjdAo=</text>
+      <register name="&quot;" type="4">
+        <text>CREATE_ORDER</text>
       </register>
       <register name="-" type="4">
-        <text>products</text>
+        <text>CREATE_ORDER</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">JnF1b3Q7</text>
