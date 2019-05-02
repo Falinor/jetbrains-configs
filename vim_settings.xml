@@ -61,13 +61,13 @@
         <mark key="^" line="8" column="37" />
         <mark key="." line="8" column="37" />
       </file>
-      <file name="$USER_HOME$/Dev/vue-katapi-client/src/store.js" timestamp="1556823156016">
+      <file name="$USER_HOME$/Dev/vue-katapi-client/src/store.js" timestamp="1556829155347">
         <mark key="d" line="0" column="8" />
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="33" column="32" />
-        <mark key="]" line="32" column="30" />
-        <mark key="." line="32" column="30" />
-        <mark key="^" line="32" column="30" />
+        <mark key="[" line="16" column="4" />
+        <mark key="]" line="9" column="21" />
+        <mark key="." line="9" column="21" />
+        <mark key="^" line="9" column="21" />
       </file>
       <file name="$USER_HOME$/dev/club-med/gmfeedback/src/user.js" timestamp="1556093512788">
         <mark key="[" line="15" column="2" />
@@ -190,6 +190,13 @@
         <mark key="." line="39" column="21" />
         <mark key="^" line="39" column="21" />
       </file>
+      <file name="$USER_HOME$/Dev/vue-katapi-client/src/services/order-service.js" timestamp="1556829144162">
+        <mark key="'" line="15" column="2" />
+        <mark key="[" line="16" column="1" />
+        <mark key="]" line="15" column="2" />
+        <mark key="^" line="15" column="2" />
+        <mark key="." line="15" column="2" />
+      </file>
       <file name="$USER_HOME$/Dev/baby-foot/api/integ/container.test.ts" timestamp="1554653908312">
         <mark key="[" line="6" column="32" />
         <mark key="]" line="6" column="31" />
@@ -289,13 +296,14 @@
       <jump line="1" column="0" filename="$USER_HOME$/Dev/vue-katapi-client/src/services/product-service.js" />
       <jump line="5" column="20" filename="$USER_HOME$/Dev/vue-katapi-client/src/store.js" />
       <jump line="1" column="0" filename="$USER_HOME$/Dev/vue-katapi-client/src/store.js" />
+      <jump line="15" column="2" filename="$USER_HOME$/Dev/vue-katapi-client/src/services/order-service.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>cartService</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>cartService</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">JnF1b3Q7</text>
@@ -304,31 +312,31 @@
         <text encoding="base64">aW1wb3J0IHsgUHJvZHVjdFNlcnZpY2UgfSBmcm9tICdAL3NlcnZpY2VzL2luLW1lbW9yeS1wcm9kdWN0LXNlcnZpY2UnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgcHJvZAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcHJvZHVjdHMuZm9yRWFjaCgocHJvZHVjdCkgPT4gewogICAgICAgIGNvbW1pdChTRVRfUFJPRFVDVFMsIHByb2R1Y3QpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy8gZXNsaW50LWRpc2FibGUtbmV4dC1saW5lIG5vLXBhcmFtLXJlYXNzaWduCg==</text>
+        <text encoding="base64">ICAgIHRoaXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">ICAgIG9yZGVyLnByb2R1Y3RzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFtDTEVBUl9QUk9EVUNUU10oc3RhdGUpIHsKICAgICAgc3RhdGUucHJvZHVjdHMgPSBbXTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8gZXNsaW50LWRpc2FibGUtbmV4dC1saW5lIG5vLXBhcmFtLXJlYXNzaWduCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgfQo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgY29uc3Qgb3JkZXIgPSB7CiAgICAgICAgCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHByb2R1Y3RzICYmIHByb2R1Y3RzLmxlbmd0aCA+IDApIHsK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgcHJvZAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
