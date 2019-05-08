@@ -70,12 +70,10 @@
         <mark key="^" line="15" column="35" />
         <mark key="." line="15" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/club-med/gmfeedback/src/components/check-matrix.js" timestamp="1557318900956">
-        <mark key="'" line="6" column="15" />
-        <mark key="[" line="6" column="69" />
-        <mark key="]" line="6" column="69" />
-        <mark key="." line="6" column="69" />
-        <mark key="^" line="6" column="21" />
+      <file name="$USER_HOME$/dev/club-med/gmfeedback/src/components/check-matrix.js" timestamp="1557320933133">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/baby-foot/api/integ/utils.js" timestamp="1554669725410">
         <mark key="'" line="3" column="21" />
@@ -289,7 +287,6 @@
       <jump line="4" column="6" filename="$USER_HOME$/dev/formation-anode/src/controllers/order-controller.js" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/formation-anode/src/controllers/order-controller.js" />
       <jump line="9" column="41" filename="$USER_HOME$/dev/formation-anode/src/controllers/order-controller.js" />
-      <jump line="148" column="61" filename="$USER_HOME$/dev/club-med/gmfeedback/src/components/check-matrix.js" />
       <jump line="3" column="13" filename="$USER_HOME$/dev/club-med/gmfeedback/src/components/FormBuilder.vue" />
       <jump line="13" column="7" filename="$USER_HOME$/dev/club-med/gmfeedback/src/App.vue" />
       <jump line="15" column="0" filename="$USER_HOME$/dev/club-med/gmfeedback/src/App.vue" />
@@ -298,13 +295,15 @@
       <jump line="152" column="11" filename="$USER_HOME$/dev/club-med/gmfeedback/src/components/check-matrix.js" />
       <jump line="7" column="1" filename="$USER_HOME$/dev/club-med/gmfeedback/src/components/check-matrix.js" />
       <jump line="6" column="15" filename="$USER_HOME$/dev/club-med/gmfeedback/src/components/check-matrix.js" />
+      <jump line="147" column="0" filename="$USER_HOME$/dev/club-med/gmfeedback/src/components/check-matrix.js" />
+      <jump line="148" column="61" filename="$USER_HOME$/dev/club-med/gmfeedback/src/components/check-matrix.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>display</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Q29tcG9uZW50cy5hZGRDbwo=</text>
       </register>
       <register name="-" type="4">
-        <text>display</text>
+        <text>'checkmatrix', CheckMatrixComponent);</text>
       </register>
       <register name="/" type="4">
         <text>Product</text>
@@ -313,12 +312,33 @@
         <text encoding="base64">Y29uc29sZS5sb2coQ29tcG9uZW50cy5hZGRDb21wb25lbnQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZWRpdEZvcm0uCg==</text>
+        <text encoding="base64">Q29tcG9uZW50cy5hZGRDbwo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Rm9ybWlvLkNvbXBvbmVudHMudGFibGVkCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Q29tcG9uZW50cy5hZGRDb21wb25lbnQoCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IENvbXBvbmVudHMgZnJvbSAnZm9ybWlvanMvY29tcG9uZW50cy9Db21wb25lbnRzJzsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Rm9ybWlvLkNvbXBvbmVudHMuCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZWRpdEZvcm0uCg==</text>
+      </register>
+      <register name="w" type="4">
+        <text />
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="9" type="4">
         <text>basic: false,
       advanced: false,
       data: false,
@@ -331,40 +351,6 @@
           checkmatrix: true,
         },
       },</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="5" type="4">
-        <text>builder{
-        basic: false,
-        advanced: false,
-        data: false,
-        layout: false,
-        customBasic: {
-          title: 'Basic Components',
-          default: true,
-          weight: 0,
-          components: {
-            checkmatrix: true,
-          },
-        },
-      },</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Q29tcG9uZW50cy5hZGRDb21wb25lbnQoJ2NoZWNrbWF0cml4JywgQ2hlY2tNYXRyaXhDb21wb25lbnQpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSdodHRwczovL3VucGtnLmNvbS9mb3JtaW9qc0BsYXRlc3QvZGlzdC9mb3JtaW8uZnVsbC5taW4uanMnPjwvc2NyaXB0Pgo=</text>
-      </register>
-      <register name="w" type="4">
-        <text />
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Q29tcG9uZW50cy4K</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Q29tcG9uZW50cy5hZGRDb21wb25lbnQoJ2NoZWNrbWF0cml4JywgQ2hlY2tNYXRyaXhDb21wb25lbnQpOwoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
