@@ -70,7 +70,8 @@
         <mark key="^" line="15" column="35" />
         <mark key="." line="15" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/club-med/gmfeedback/src/components/check-matrix.js" timestamp="1557320933133">
+      <file name="$USER_HOME$/dev/club-med/gmfeedback/src/components/check-matrix.js" timestamp="1557389902435">
+        <mark key="'" line="150" column="0" />
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
@@ -111,11 +112,11 @@
         <mark key="." line="39" column="21" />
         <mark key="^" line="39" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/club-med/gmfeedback/src/components/Builder.vue" timestamp="1557318624059">
-        <mark key="[" line="17" column="16" />
-        <mark key="]" line="17" column="16" />
-        <mark key="^" line="17" column="16" />
-        <mark key="." line="17" column="16" />
+      <file name="$USER_HOME$/dev/club-med/gmfeedback/src/components/Builder.vue" timestamp="1557390105144">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="9" column="19" />
       </file>
       <file name="$USER_HOME$/Dev/baby-foot/api/src/app/match/find-matches.js" timestamp="1554669795432">
         <mark key="[" line="16" column="0" />
@@ -291,19 +292,22 @@
       <jump line="13" column="7" filename="$USER_HOME$/dev/club-med/gmfeedback/src/App.vue" />
       <jump line="15" column="0" filename="$USER_HOME$/dev/club-med/gmfeedback/src/App.vue" />
       <jump line="149" column="0" filename="$USER_HOME$/dev/club-med/gmfeedback/src/components/check-matrix.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/club-med/gmfeedback/src/components/check-matrix.js" />
-      <jump line="152" column="11" filename="$USER_HOME$/dev/club-med/gmfeedback/src/components/check-matrix.js" />
       <jump line="7" column="1" filename="$USER_HOME$/dev/club-med/gmfeedback/src/components/check-matrix.js" />
       <jump line="6" column="15" filename="$USER_HOME$/dev/club-med/gmfeedback/src/components/check-matrix.js" />
-      <jump line="147" column="0" filename="$USER_HOME$/dev/club-med/gmfeedback/src/components/check-matrix.js" />
-      <jump line="148" column="61" filename="$USER_HOME$/dev/club-med/gmfeedback/src/components/check-matrix.js" />
+      <jump line="147" column="58" filename="$USER_HOME$/dev/club-med/gmfeedback/src/components/check-matrix.js" />
+      <jump line="8" column="29" filename="$USER_HOME$/dev/club-med/gmfeedback/src/components/check-matrix.js" />
+      <jump line="148" column="17" filename="$USER_HOME$/dev/club-med/gmfeedback/src/components/check-matrix.js" />
+      <jump line="136" column="40" filename="$USER_HOME$/dev/club-med/gmfeedback/src/components/check-matrix.js" />
+      <jump line="152" column="0" filename="$USER_HOME$/dev/club-med/gmfeedback/src/components/check-matrix.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/club-med/gmfeedback/src/components/check-matrix.js" />
+      <jump line="151" column="0" filename="$USER_HOME$/dev/club-med/gmfeedback/src/components/check-matrix.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Q29tcG9uZW50cy5hZGRDbwo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coRm9ybUJ1aWxkZXIpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>'checkmatrix', CheckMatrixComponent);</text>
+        <text>components</text>
       </register>
       <register name="/" type="4">
         <text>Product</text>
@@ -312,45 +316,34 @@
         <text encoding="base64">Y29uc29sZS5sb2coQ29tcG9uZW50cy5hZGRDb21wb25lbnQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Q29tcG9uZW50cy5hZGRDbwo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coRm9ybUJ1aWxkZXIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Rm9ybWlvLkNvbXBvbmVudHMudGFibGVkCg==</text>
+        <text encoding="base64">Rm9ybUJ1aWxkZXIuYWRkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Q29tcG9uZW50cy5hZGRDb21wb25lbnQoCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coQ29tcG9uZW50cy5hZGRDb21wb25lbnQoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IENvbXBvbmVudHMgZnJvbSAnZm9ybWlvanMvY29tcG9uZW50cy9Db21wb25lbnRzJzsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IHsgRm9ybWlvIH0gZnJvbSAnZm9ybWlvanMnOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Rm9ybWlvLkNvbXBvbmVudHMuCg==</text>
+        <text encoding="base64">Y29uc3QgZm9ybWlvID0gbmV3IEZvcm1pbygnaHR0cHM6Ly9leGFtcGxlcy5mb3JtLmlvL2V4YW1wbGUnKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZWRpdEZvcm0uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">Zm9ybWlvLmxvYWRGb3JtKGZvcm0gPT4gewogIGNvbnNvbGUubG9nKGZvcm0pOwogIGZvcm1pbwogICAgLnNhdmVTdWJtaXNzaW9uKHsKICAgICAgZGF0YTogewogICAgICAgIGZpcnN0TmFtZTogJ0pvZScsCiAgICAgICAgbGFzdE5hbWU6ICdTbWl0aCcsCiAgICAgICAgZW1haWw6ICdqb2VAZXhhbXBsZS5jb20nLAogICAgICB9LAogICAgfSkKICAgIC50aGVuKHN1Ym1pc3Npb24gPT4gewogICAgICBjb25zb2xlLmxvZyhzdWJtaXNzaW9uKTsKICAgIH0pOwp9KTs=</text>
       </register>
-      <register name="9" type="4">
-        <text>basic: false,
-      advanced: false,
-      data: false,
-      layout: false,
-      customBasic: {
-        title: 'Basic Components',
-        default: true,
-        weight: 0,
-        components: {
-          checkmatrix: true,
-        },
-      },</text>
+      <register name="9" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coRm9ybWlvKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
