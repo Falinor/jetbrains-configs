@@ -15,6 +15,13 @@
         <mark key="." line="6" column="33" />
         <mark key="^" line="6" column="25" />
       </file>
+      <file name="$USER_HOME$/dev/club-med/gmfeedback/src/components/custom-textfield.js" timestamp="1557418918869">
+        <mark key="'" line="52" column="20" />
+        <mark key="[" line="28" column="25" />
+        <mark key="]" line="29" column="75" />
+        <mark key="." line="28" column="6" />
+        <mark key="^" line="28" column="5" />
+      </file>
       <file name="$USER_HOME$/dev/club-med/gmfeedback/src/views/index.html" timestamp="1556543317958">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="56" />
@@ -63,11 +70,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/club-med/gmfeedback/src/components/Builder.vue" timestamp="1557416076790">
-        <mark key="[" line="17" column="16" />
-        <mark key="]" line="17" column="19" />
-        <mark key="." line="17" column="19" />
-        <mark key="^" line="17" column="19" />
+      <file name="$USER_HOME$/dev/club-med/gmfeedback/src/components/Builder.vue" timestamp="1557417726170">
+        <mark key="[" line="11" column="17" />
+        <mark key="]" line="11" column="25" />
+        <mark key="." line="11" column="25" />
+        <mark key="^" line="11" column="25" />
       </file>
       <file name="$USER_HOME$/Dev/baby-foot/api/src/app/match/find-matches.js" timestamp="1554669795432">
         <mark key="[" line="16" column="0" />
@@ -250,13 +257,15 @@
       <jump line="39" column="4" filename="$USER_HOME$/dev/club-med/gmfeedback/src/components/custom-panel.js" />
       <jump line="78" column="2" filename="$USER_HOME$/dev/club-med/gmfeedback/src/components/custom-panel.js" />
       <jump line="41" column="51" filename="$USER_HOME$/dev/club-med/gmfeedback/src/components/custom-panel.js" />
+      <jump line="51" column="20" filename="$USER_HOME$/dev/club-med/gmfeedback/src/components/custom-textfield.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>wizard</text>
+        <text>customConditional =
+  //   'show = villages.includes(submission.metadata[&quot;village&quot;]) || false';</text>
       </register>
       <register name="-" type="4">
-        <text>wizard</text>
+        <text>favoriteThings</text>
       </register>
       <register name="/" type="4">
         <text>BaseComponent</text>
@@ -264,35 +273,36 @@
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IEJhc2VDb21wb25lbnQgZnJvbSAnZm9ybWlvanMvY29tcG9uZW50cy9iYXNlL0Jhc2UnOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">PCEtLSAgICAgIDpmb3JtPSJ7IGRpc3BsYXk6ICd3aXphcmQnIH0iLS0+Cg==</text>
+      <register name="1" type="4">
+        <text>customConditional =
+  //   'show = villages.includes(submission.metadata[&quot;village&quot;]) || false';</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Q3VzdG9tUGFuZWxDb21wb25lbnQuZWRpdEZvcm0oKTsK</text>
+        <text encoding="base64">Q3VzdG9tVGV4dEZpZWxkQ29tcG9uZW50LmVkaXRGb3JtKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHt7IHN1Ym1pc3Npb24gfX0K</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnQ29tcG9uZW50cycsIGNvbmRUYWIuY29tcG9uZW50cyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnVGFicycsIHRhYnMpOwogIGNvbnNvbGUubG9nKCdGb3JtJywgZm9ybSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjcmVhdGVkKCkgewogICAgY29uc29sZS5sb2codGhpcy5zdWJtaXNzaW9uKTsK</text>
+        <text encoding="base64">PCEtLSAgICAgIDpmb3JtPSJ7IGRpc3BsYXk6ICd3aXphcmQnIH0iLS0+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvCg==</text>
+        <text encoding="base64">Q3VzdG9tUGFuZWxDb21wb25lbnQuZWRpdEZvcm0oKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbQo=</text>
+        <text encoding="base64">ICAgIHt7IHN1Ym1pc3Npb24gfX0K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVXRpbHMgfSBmcm9tICdmb3JtaW9qcyc7ClV0aWxzLgo=</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGFiZWw6ICJXYXJtIFdvb2xlbiBNaXR0ZW5zIgogICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICBjcmVhdGVkKCkgewogICAgY29uc29sZS5sb2codGhpcy5zdWJtaXNzaW9uKTsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0Jhc2VDb21wb25lbnQvUGFuZWxDb21wb25lbnQvZw==</text>
