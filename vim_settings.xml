@@ -71,16 +71,23 @@
         <mark key="." line="4" column="26" />
         <mark key="^" line="4" column="26" />
       </file>
+      <file name="$USER_HOME$/dev/club-med/gmfeedback/src/components/Renderer.vue" timestamp="1557422803703">
+        <mark key="'" line="6" column="28" />
+        <mark key="[" line="6" column="7" />
+        <mark key="]" line="6" column="12" />
+        <mark key="^" line="6" column="12" />
+        <mark key="." line="6" column="12" />
+      </file>
       <file name="$USER_HOME$/dev/club-med/gmfeedback/public/index.html" timestamp="1557318556445">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/club-med/gmfeedback/src/components/Builder.vue" timestamp="1557419952689">
+      <file name="$USER_HOME$/dev/club-med/gmfeedback/src/components/Builder.vue" timestamp="1557422707334">
         <mark key="'" line="7" column="7" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/baby-foot/api/src/app/match/find-matches.js" timestamp="1554669795432">
         <mark key="[" line="16" column="0" />
@@ -92,12 +99,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/club-med/gmfeedback/src/App.vue" timestamp="1557313686996">
+      <file name="$USER_HOME$/dev/club-med/gmfeedback/src/App.vue" timestamp="1557422456862">
         <mark key="'" line="15" column="0" />
-        <mark key="[" line="68" column="20" />
-        <mark key="]" line="67" column="16" />
-        <mark key="." line="67" column="16" />
-        <mark key="^" line="67" column="16" />
+        <mark key="[" line="32" column="10" />
+        <mark key="]" line="32" column="11" />
+        <mark key="^" line="32" column="11" />
+        <mark key="." line="32" column="11" />
       </file>
       <file name="$USER_HOME$/Dev/baby-foot/api/src/core/container.js" timestamp="1554669611329">
         <mark key="[" line="10" column="42" />
@@ -125,11 +132,12 @@
         <mark key="." line="5" column="41" />
         <mark key="^" line="5" column="41" />
       </file>
-      <file name="$USER_HOME$/dev/club-med/gmfeedback/src/components/Form.vue" timestamp="1557416071864">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="7" column="23" />
+      <file name="$USER_HOME$/dev/club-med/gmfeedback/src/components/Form.vue" timestamp="1557420882468">
+        <mark key="'" line="33" column="12" />
+        <mark key="[" line="2" column="68" />
+        <mark key="]" line="2" column="68" />
+        <mark key="." line="2" column="68" />
+        <mark key="^" line="2" column="71" />
       </file>
       <file name="$USER_HOME$/dev/formation-anode/src/routes/products.js" timestamp="1557237285212">
         <mark key="'" line="3" column="77" />
@@ -266,13 +274,15 @@
       <jump line="51" column="20" filename="$USER_HOME$/dev/club-med/gmfeedback/src/components/custom-textfield.js" />
       <jump line="6" column="0" filename="$USER_HOME$/dev/club-med/gmfeedback/src/components/Builder.vue" />
       <jump line="7" column="7" filename="$USER_HOME$/dev/club-med/gmfeedback/src/components/Builder.vue" />
+      <jump line="33" column="12" filename="$USER_HOME$/dev/club-med/gmfeedback/src/components/Form.vue" />
+      <jump line="6" column="28" filename="$USER_HOME$/dev/club-med/gmfeedback/src/components/Renderer.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+      <register name="&quot;" type="4">
+        <text>formChange</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>formChange</text>
       </register>
       <register name="/" type="4">
         <text>BaseComponent</text>
@@ -281,35 +291,34 @@
         <text encoding="base64">aW1wb3J0IEJhc2VDb21wb25lbnQgZnJvbSAnZm9ybWlvanMvY29tcG9uZW50cy9iYXNlL0Jhc2UnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5mb3JtID0gZm9ybTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvcm06IHsKICAgICAgZGlzcGxheTogJ2Zvcm0nLAo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0Zvcm0nLCB0aGlzLmZvcm0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGZvcm06IHt9LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IFRleHRGaWVsZENvbXBvbmVudCBmcm9tICdmb3JtaW9qcy9jb21wb25lbnRzL3RleHRmaWVsZC9UZXh0RmllbGQnOwppbXBvcnQgdGV4dEZpZWxkRm9ybSBmcm9tICdmb3JtaW9qcy9jb21wb25lbnRzL3RleHRmaWVsZC9UZXh0RmllbGQuZm9ybSc7Cg==</text>
+        <text encoding="base64">ICBhc3luYyBjcmVhdGVkKCkge30sCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>customConditional =
-  //   'show = villages.includes(submission.metadata[&quot;village&quot;]) || false';</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGt5IGZyb20gJ2t5JzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Q3VzdG9tVGV4dEZpZWxkQ29tcG9uZW50LmVkaXRGb3JtKCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGt5IGZyb20gJ2t5JzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnQ29tcG9uZW50cycsIGNvbmRUYWIuY29tcG9uZW50cyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnVGFicycsIHRhYnMpOwogIGNvbnNvbGUubG9nKCdGb3JtJywgZm9ybSk7Cg==</text>
+        <text encoding="base64">ICB0aGlzLmZvcm0gPSBhd2FpdCBreS5nZXQoJ2h0dHA6Ly9sb2NhbGhvc3Q6MzAwMS9nbWZlZWRiYWNrJykuanNvbigpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PCEtLSAgICAgIDpmb3JtPSJ7IGRpc3BsYXk6ICd3aXphcmQnIH0iLS0+Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
