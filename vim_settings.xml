@@ -46,6 +46,10 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="10" column="17" />
       </file>
+      <file name="$USER_HOME$/dev/react-app-starterkit/src/components/CheckMatrix.js" timestamp="1557476495137">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="49" />
+      </file>
       <file name="$USER_HOME$/dev/club-med/gmfeedback/src/components/check-matrix.js" timestamp="1557392681886">
         <mark key="[" line="145" column="0" />
         <mark key="]" line="145" column="0" />
@@ -70,12 +74,13 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/react-app-starterkit/src/components/custom-textfield.js" timestamp="1557475799553">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="63" column="19" />
-        <mark key="]" line="63" column="19" />
-        <mark key="." line="63" column="19" />
-        <mark key="^" line="63" column="19" />
+      <file name="$USER_HOME$/dev/react-app-starterkit/src/components/custom-textfield.js" timestamp="1557477906448">
+        <mark key="d" line="72" column="39" />
+        <mark key="'" line="19" column="58" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+        <mark key="^" line="70" column="41" />
       </file>
       <file name="$USER_HOME$/dev/club-med/api/client/src/custom-components/custom-textfield.js" timestamp="1557419383074">
         <mark key="[" line="4" column="27" />
@@ -183,6 +188,12 @@
         <mark key="^" line="23" column="49" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/react-app-starterkit/src/index.js" timestamp="1557478904001">
+        <mark key="[" line="24" column="32" />
+        <mark key="]" line="24" column="54" />
+        <mark key="^" line="24" column="54" />
+        <mark key="." line="24" column="54" />
+      </file>
       <file name="$USER_HOME$/dev/formation-anode/src/schemas/order-schema.js" timestamp="1557236398053">
         <mark key="'" line="9" column="9" />
         <mark key="[" line="10" column="0" />
@@ -196,6 +207,12 @@
         <mark key="]" line="1" column="7" />
         <mark key="." line="1" column="7" />
         <mark key="^" line="1" column="7" />
+      </file>
+      <file name="$USER_HOME$/dev/react-app-starterkit/src/config.js" timestamp="1557477406537">
+        <mark key="'" line="9" column="1" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -297,49 +314,51 @@
       <jump line="86" column="0" filename="$USER_HOME$/dev/react-app-starterkit/src/components/custom-textfield.js" />
       <jump line="85" column="0" filename="$USER_HOME$/dev/react-app-starterkit/src/components/custom-textfield.js" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/react-app-starterkit/src/components/custom-textfield.js" />
+      <jump line="19" column="58" filename="$USER_HOME$/dev/react-app-starterkit/src/components/custom-textfield.js" />
+      <jump line="9" column="1" filename="$USER_HOME$/dev/react-app-starterkit/src/config.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>'punta-cana'</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>'punta-cana'</text>
       </register>
       <register name="/" type="4">
         <text>BaseComponent</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IEJhc2VDb21wb25lbnQgZnJvbSAnZm9ybWlvanMvY29tcG9uZW50cy9iYXNlL0Jhc2UnOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0lOU1RBTkNFJywgaW5zdGFuY2UpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjdXN0b21UZXh0ZmllbGQK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0lOU1RBTkNFJywgaW5zdGFuY2UpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdGb3JtJywgZm9ybSk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0NPTVBPTkVOVCcsIGNvbXBvbmVudCk7CiAgICAgIGNvbnNvbGUubG9nKCdWSUxMQUdFUycsIHZpbGxhZ2VzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ1ZJTExBR0VTJywgdmlsbGFnZXMpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAnc2hvdyA9IHZpbGxhZ2VzLmluY2x1ZGVzKHN1Ym1pc3Npb24ubWV0YWRhdGFbInZpbGxhZ2UiXSkgfHwgZmFsc2UnLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cn07Cg==</text>
+        <text encoding="base64">ICAgICAgYAogICAgICAgIC8vICdzaG93ID0gdmlsbGFnZXMuaW5jbHVkZXMoc3VibWlzc2lvbi5tZXRhZGF0YVsidmlsbGFnZSJdKSB8fCBmYWxzZScsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gVXNlIHRoZSB0YWJsZSBjb21wb25lbnQgZWRpdCBmb3JtLgpDdXN0b21UZXh0RmllbGRDb21wb25lbnQuZWRpdEZvcm0gPSAoKSA9PiB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIHRleHRmaWVsZC4K</text>
+        <text encoding="base64">CmxvY2EK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZvcm0pOwogICAgLy8gY29uc3QgdGV4dGZpZWxkID0gZm9ybS5jb21wb25lbnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
