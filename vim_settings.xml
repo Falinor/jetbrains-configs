@@ -58,6 +58,13 @@
         <mark key="^" line="31" column="21" />
       </file>
       <file name="$USER_HOME$/dev/invivo/docker-compose/marketplace-api/api/repositories/index.js" timestamp="1558366315023" />
+      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/repositories/products.repository.js" timestamp="1558368689620">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="0" column="25" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/invivo/docker-compose/marketplace-api/api/repositories/products.repository.js" timestamp="1558365847462" />
       <file name="$USER_HOME$/dev/club-med/gmfeedback/src/components/Renderer.vue" timestamp="1557422803703">
         <mark key="'" line="6" column="28" />
@@ -71,6 +78,11 @@
         <mark key="]" line="4" column="47" />
         <mark key="^" line="5" column="12" />
         <mark key="." line="4" column="47" />
+      </file>
+      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/repositories/cooperatives.repository.js" timestamp="1558369090497">
+        <mark key="[" line="8" column="13" />
+        <mark key="]" line="8" column="13" />
+        <mark key="." line="8" column="13" />
       </file>
       <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/routes/index.js" timestamp="1558359241659" />
       <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/repositories/index.js" timestamp="1558366309885">
@@ -248,7 +260,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="17" filename="$USER_HOME$/dev/club-med/gmfeedback/src/renderer.js" />
       <jump line="0" column="21" filename="$USER_HOME$/dev/club-med/gmfeedback/src/renderer.js" />
       <jump line="10" column="2" filename="$USER_HOME$/dev/club-med/gmfeedback/src/renderer.js" />
       <jump line="2" column="6" filename="$USER_HOME$/dev/club-med/gmfeedback/src/renderer.js" />
@@ -348,13 +359,14 @@
       <jump line="6" column="21" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/utils/mysql.adapter.wrapper.js" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/utils/mysql.adapter.wrapper.js" />
       <jump line="9" column="0" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/utils/document.adapter.wrapper.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/repositories/products.repository.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dwnetwork</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>dwnetwork</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>BaseComponent</text>
