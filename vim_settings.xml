@@ -23,6 +23,11 @@
         <mark key="." line="7" column="3" />
       </file>
       <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/config.js" timestamp="1558359524399" />
+      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/orders/test/order.mailer.test.js" timestamp="1558363766350">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/club-med/gmfeedback/src/views/index.html" timestamp="1556543317958">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="56" />
@@ -33,9 +38,11 @@
         <mark key="]" line="6" column="31" />
         <mark key="." line="6" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/react-app-starterkit/src/components/CheckMatrix.js" timestamp="1557476495137">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="49" />
+      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/utils/test/mysql.adapter.test.js" timestamp="1558363690385">
+        <mark key="[" line="4" column="47" />
+        <mark key="]" line="4" column="47" />
+        <mark key="^" line="5" column="12" />
+        <mark key="." line="4" column="47" />
       </file>
       <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/routes/index.js" timestamp="1558359241659" />
       <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/repositories/index.js" timestamp="1558360641193">
@@ -43,7 +50,12 @@
         <mark key="]" line="33" column="3" />
         <mark key="." line="33" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/utils/test/document.adapter.test.js" timestamp="1558362275813" />
+      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/utils/test/document.adapter.test.js" timestamp="1558363691744">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="61" />
+        <mark key="^" line="4" column="61" />
+        <mark key="." line="4" column="61" />
+      </file>
       <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/utils/document.adapter.wrapper.js" timestamp="1558361497559">
         <mark key="'" line="0" column="10" />
         <mark key="[" line="0" column="0" />
@@ -107,12 +119,6 @@
         <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/routes.js" timestamp="1558360267691" />
-      <file name="$USER_HOME$/dev/club-med/gmfeedback/src/components/Builder.vue" timestamp="1557422707334">
-        <mark key="'" line="7" column="7" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
       <file name="$USER_HOME$/Dev/baby-foot/api/src/app/match/find-matches.js" timestamp="1554669795432">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -130,12 +136,6 @@
       </file>
       <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/utils/document.adapter.js" timestamp="1558360803728">
         <mark key="'" line="12" column="37" />
-      </file>
-      <file name="$USER_HOME$/dev/react-app-starterkit/src/config.js" timestamp="1557477406537">
-        <mark key="'" line="9" column="1" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -242,10 +242,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0OnVuaXQiOiAiTk9ERV9FTlY9dGVzdCBtb2NoYSAtciAnQGJhYmVsL3BvbHlmaWxsJyAtciAnQGJhYmVsL3JlZ2lzdGVyIC0tcmVjdXJzaXZlIC4vYXBpLyoqL3Rlc3QvdW5pdC8qLnRlc3QuanMiLAo=</text>
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
       <register name="-" type="4">
-        <text>unit</text>
+        <text>away</text>
       </register>
       <register name="/" type="4">
         <text>BaseComponent</text>
@@ -254,24 +254,33 @@
         <text encoding="base64">ICAgICJ0ZXN0OnVuaXQiOiAiTk9ERV9FTlY9dGVzdCBtb2NoYSAtciAnQGJhYmVsL3BvbHlmaWxsJyAtciAnQGJhYmVsL3JlZ2lzdGVyIC0tcmVjdXJzaXZlIC4vYXBpLyoqL3Rlc3QvdW5pdC8qLnRlc3QuanMiLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0OnVuaXQiOiAiTk9ERV9FTlY9dGVzdCBtb2NoYSAtciAnQGJhYmVsL3BvbHlmaWxsJyAtciAnQGJhYmVsL3JlZ2lzdGVyIC0tcmVjdXJzaXZlIC4vYXBpLyoqL3Rlc3QvdW5pdC8qLnRlc3QuanMiLAo=</text>
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0OmludGVnIjogIk5PREVfRU5WPXRlc3QgbW9jaGEgLXIgJ0BiYWJlbC9wb2x5ZmlsbCcgLXIgJ0BiYWJlbC9yZWdpc3RlciAtLXJlY3Vyc2l2ZSAuL2FwaS8qKi90ZXN0L2ludGVncmF0aW9uLyoudGVzdC5qcyIsCg==</text>
+        <text encoding="base64">ICAgIGRlc2NyaWJlKCcnLCBmdW5jdGlvbiAoKSB7CiAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICJ0ZXN0OnVuaXQiOiAiTk9ERV9FTlY9dGVzdCBtb2NoYSAtciAnQGJhYmVsL3BvbHlmaWxsJyAtciAnQGJhYmVsL3JlZ2lzdGVyIC0tcmVjdXJzaXZlIC4vYXBpLyoqL3Rlc3QvdW5pdC8qLnRlc3QuanMiLAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICJ0ZXN0OmludGVnIjogIk5PREVfRU5WPXRlc3QgbW9jaGEgLXIgJ0BiYWJlbC9wb2x5ZmlsbCcgLXIgJ0BiYWJlbC9yZWdpc3RlciAtLXJlY3Vyc2l2ZSAuL2FwaS8qKi90ZXN0L2ludGVncmF0aW9uLyoudGVzdC5qcyIsCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">LyogZ2xvYmFsIGJlZm9yZSwgYWZ0ZXIgKi8K</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CgogIGdldCBwcm9kdWN0cyAoKSB7CiAgICBpZiAoIXRoaXMucHJvZHVjdHNSZXBvc2l0b3J5KSB7CiAgICAgIHRoaXMucHJvZHVjdHNSZXBvc2l0b3J5ID0gbmV3IFByb2R1Y3RzUmVwb3NpdG9yeSgpCiAgICB9CiAgICByZXR1cm4gdGhpcy5wcm9kdWN0c1JlcG9zaXRvcnkKICB9CgogIGdldCB0ZWNobmljYWxTYWxlcyAoKSB7CiAgICBpZiAodGhpcy50ZWNobmljYWxTYWxlc1JlcG9zaXRvcnkpIHJldHVybiB0aGlzLnRlY2huaWNhbFNhbGVzUmVwb3NpdG9yeQogICAgdGhpcy50ZWNobmljYWxTYWxlc1JlcG9zaXRvcnkgPSBuZXcgVGVjaG5pY2FsU2FsZXNSZXBvc2l0b3J5KCkKCiAgICByZXR1cm4gdGhpcy50ZWNobmljYWxTYWxlc1JlcG9zaXRvcnkKICB9CgogIGdldCB1c2FnZXMgKCkgewogICAgaWYgKCF0aGlzLnVzYWdlc1JlcG9zaXRvcnkpIHsKICAgICAgdGhpcy51c2FnZXNSZXBvc2l0b3J5ID0gbmV3IFVzYWdlc1JlcG9zaXRvcnkoKQogICAgfQogICAgcmV0dXJuIHRoaXMudXNhZ2VzUmVwb3NpdG9yeQogIH0KCiAgZ2V0IHVzZXJzICgpIHsKICAgIGlmICh0aGlzLnVzZXJzUmVwb3NpdG9yeSkgewogICAgICByZXR1cm4gdGhpcy51c2Vyc1JlcG9zaXRvcnkKICAgIH0KICAgIHRoaXMudXNlcnNSZXBvc2l0b3J5ID0gbmV3IFVzZXJzUmVwb3NpdG9yeSgpCiAgICB0aGlzLnVzZXJzUmVwb3NpdG9yeS5tb2RlbC5iZWxvbmdzVG9NYW55KHRoaXMuY29vcGVyYXRpdmVzLm1vZGVsLCB7CiAgICAgIHRocm91Z2g6ICdjb29wZXJhdGl2ZXNfdXNlcnMnLAogICAgICBmb3JlaWduS2V5OiAndXNlcl9pZCcsCiAgICAgIG90aGVyS2V5OiAnY29vcGVyYXRpdmVfaWQnCiAgICB9KQogICAgdGhpcy51c2Vyc1JlcG9zaXRvcnkubW9kZWwuYmVsb25nc1RvTWFueSh0aGlzLmNyb3BzLm1vZGVsLCB7CiAgICAgIHRocm91Z2g6ICdjcm9wc191c2VycycsCiAgICAgIGZvcmVpZ25LZXk6ICd1c2VyX2lkJywKICAgICAgb3RoZXJLZXk6ICdjcm9wX2lkJwogICAgfSkKICAgIHRoaXMudXNlcnNSZXBvc2l0b3J5Lm1vZGVsLmhhc01hbnkodGhpcy5vcmRlcnMubW9kZWwsIHsKICAgICAgZm9yZWlnbktleTogJ3VzZXJfaWQnCiAgICB9KQogICAgdGhpcy51c2Vyc1JlcG9zaXRvcnkubW9kZWwuaGFzTWFueSh0aGlzLm9yZGVycy5tb2RlbCwgewogICAgICBmb3JlaWduS2V5OiAndXNlcl9pZCcKICAgIH0pCiAgICB0aGlzLnVzZXJzUmVwb3NpdG9yeS5tb2RlbC5iZWxvbmdzVG9NYW55KHRoaXMudGVjaG5pY2FsU2FsZXMubW9kZWwsIHsKICAgICAgdGhyb3VnaDogJ3RlY2huaWNhbF9zYWxlc191c2VycycsCiAgICAgIGZvcmVpZ25LZXk6ICd1c2VyX2lkJywKICAgICAgb3RoZXJLZXk6ICd0ZWNobmljYWxfc2FsZV9pZCcKICAgIH0pCiAgICB0aGlzLnVzZXJzUmVwb3NpdG9yeS5tb2RlbC5oYXNNYW55KHRoaXMubm90aWZpY2F0aW9ucy5tb2RlbCwgewogICAgICBmb3JlaWduS2V5OiAndXNlcl9pZCcKICAgIH0pCiAgICByZXR1cm4gdGhpcy51c2Vyc1JlcG9zaXRvcnkKICB9</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CgogIGdldCBub3RpZmljYXRpb25zICgpIHsKICAgIGlmICh0aGlzLm5vdGlmaWNhdGlvbnNSZXBvc2l0b3J5KSB7CiAgICAgIHJldHVybiB0aGlzLm5vdGlmaWNhdGlvbnNSZXBvc2l0b3J5CiAgICB9CiAgICB0aGlzLm5vdGlmaWNhdGlvbnNSZXBvc2l0b3J5ID0gbmV3IE5vdGlmaWNhdGlvbnNSZXBvc2l0b3J5KCkKICAgIHRoaXMubm90aWZpY2F0aW9uc1JlcG9zaXRvcnkubW9kZWwuYmVsb25nc1RvKHRoaXMudXNlcnMubW9kZWwsIHsKICAgICAgZm9yZWlnbktleTogJ3VzZXJfaWQnCiAgICB9KQogICAgcmV0dXJuIHRoaXMubm90aWZpY2F0aW9uc1JlcG9zaXRvcnkKICB9</text>
       </register>
-      <register name="6" type="2">
+      <register name="w" type="4">
+        <text />
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAKCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>get contents () {
     if (this.contentsRepository) {
       return this.contentsRepository
@@ -319,15 +328,6 @@
     }
     return this.cropsUsersRepository
   }</text>
-      </register>
-      <register name="w" type="4">
-        <text />
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
