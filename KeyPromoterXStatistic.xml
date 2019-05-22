@@ -209,14 +209,6 @@
           <Count>3</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Reformat with Prettier">
-        <Item>
-          <IdeaActionID>ReformatWithPrettierAction</IdeaActionID>
-          <ShortCut>'⌥⇧⌘P'</ShortCut>
-          <Description>Reformat with Prettier</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Rename...">
         <Item>
           <IdeaActionID>RenameElement</IdeaActionID>
@@ -521,6 +513,14 @@
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
           <Count>51</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Reformat with Prettier">
+        <Item>
+          <IdeaActionID>ReformatWithPrettierAction</IdeaActionID>
+          <ShortCut>'⌥⇧⌘P'</ShortCut>
+          <Description>Reformat with Prettier</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'GovernmentDashboardComponent'">
