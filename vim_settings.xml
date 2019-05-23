@@ -205,12 +205,12 @@
         <mark key="." line="6" column="33" />
         <mark key="^" line="6" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/orders/orders.models.js" timestamp="1558599001087">
-        <mark key="'" line="5" column="8" />
-        <mark key="[" line="111" column="7" />
-        <mark key="]" line="111" column="6" />
-        <mark key="." line="111" column="6" />
-        <mark key="^" line="111" column="6" />
+      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/orders/orders.models.js" timestamp="1558600384096">
+        <mark key="'" line="93" column="6" />
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/utils/logger.js" timestamp="1558365491665">
         <mark key="[" line="83" column="3" />
@@ -359,10 +359,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="31" filename="$USER_HOME$/dev/formation-anode/src/middlewares/validator.js" />
-      <jump line="4" column="2" filename="$USER_HOME$/dev/formation-anode/src/middlewares/validator.js" />
-      <jump line="3" column="3" filename="$USER_HOME$/dev/formation-anode/src/middlewares/error-handler.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/dev/formation-anode/src/middlewares/error-handler.js" />
       <jump line="4" column="9" filename="$USER_HOME$/dev/formation-anode/src/repositories/product-repository.js" />
       <jump line="11" column="2" filename="$USER_HOME$/dev/formation-anode/src/repositories/product-repository.js" />
       <jump line="5" column="47" filename="$USER_HOME$/dev/formation-anode/src/routes/products.js" />
@@ -459,60 +455,64 @@
       <jump line="5" column="8" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/orders/orders.models.js" />
       <jump line="42" column="6" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/seeds/seed.integration.js" />
       <jump line="2" column="6" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/seeds/seed.integration.js" />
+      <jump line="9" column="6" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/orders/orders.models.js" />
+      <jump line="0" column="7" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/orders/orders.models.js" />
+      <jump line="111" column="0" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/orders/orders.models.js" />
+      <jump line="93" column="6" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/orders/orders.models.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">U2VxdWVsaXplIA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text encoding="base64">U2VxdWVsaXplIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpdFw+</text>
+        <text>Sequelize.</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ewogICAgbWV0aG9kOiAnR0VUJywKICAgIHBhdGg6ICcvdjEvb3JkZXJzL3tvcmRlcl9pZH0nLAogICAgY29uZmlnOiB7CiAgICAgIHRhZ3M6IFsnYXBpJywgJ29yZGVycyddLAogICAgICBjb3JzOiB0cnVlLAogICAgICBhdXRoOiAnYXV0aDAnLAogICAgICB2YWxpZGF0ZTogewogICAgICAgIHBhcmFtczogewogICAgICAgICAgb3JkZXJfaWQ6IEpvaS5udW1iZXIoKS5pbnRlZ2VyKCkucmVxdWlyZWQoKQogICAgICAgIH0sCiAgICAgICAgb3B0aW9uczogewogICAgICAgICAgYWxsb3dVbmtub3duOiB0cnVlCiAgICAgICAgfQogICAgICB9LAogICAgICByZXNwb25zZTogewogICAgICAgIHNjaGVtYTogT3JkZXJPdXRwdXRNb2RlbCwKICAgICAgICBtb2RpZnk6IHRydWUsCiAgICAgICAgZmFpbEFjdGlvbjogYXN5bmMgKHJlcXVlc3QsIGgsIGVycikgPT4gewogICAgICAgICAgLyogaXN0YW5idWwgaWdub3JlIG5leHQgKi8KICAgICAgICAgIGRlYnVnKGVycikKICAgICAgICAgIHRocm93IGVycgogICAgICAgIH0KICAgICAgfSwKICAgICAgZGVzY3JpcHRpb246ICdHZXQgYW4gb3JkZXInLAogICAgICBub3RlczogJ1JldHVybnMgdGhlIG9yZGVyIGlkZW50aWZpZWQgYnkgdGhlIGdpdmVuIHtvcmRlcl9pZH0nLAogICAgICBwbHVnaW5zOiB7CiAgICAgICAgJ2hhcGktc3dhZ2dlcic6IHsKICAgICAgICAgIHJlc3BvbnNlczogewogICAgICAgICAgICAnMjAwJzogewogICAgICAgICAgICAgICdkZXNjcmlwdGlvbic6ICdTdWNjZXNzJywKICAgICAgICAgICAgICAnc2NoZW1hJzogb3JkZXJTY2hlbWEsCiAgICAgICAgICAgICAgJ2V4YW1wbGVzJzoge30KICAgICAgICAgICAgfSwKICAgICAgICAgICAgJzQwMSc6IHsgJ2Rlc2NyaXB0aW9uJzogJ1VuYXV0aG9yaXplZCcgfSwKICAgICAgICAgICAgJzQwMyc6IHsgJ2Rlc2NyaXB0aW9uJzogJ0ZvcmJpZGRlbicgfSwKICAgICAgICAgICAgJzQwNCc6IHsgJ2Rlc2NyaXB0aW9uJzogJ1Jlc291cmNlIG5vdCBmb3VuZCcgfSwKICAgICAgICAgICAgJzUwMCc6IHsgJ2Rlc2NyaXB0aW9uJzogJ0ludGVybmFsIHNlcnZlciBlcnJvcicgfSwKICAgICAgICAgICAgJzUwMic6IHsgJ2Rlc2NyaXB0aW9uJzogJ0JhZCBnYXRld2F5JyB9LAogICAgICAgICAgICAnNTAzJzogeyAnZGVzY3JpcHRpb24nOiAnU2VydmljZSB1bmF2YWlsYWJsZScgfQogICAgICAgICAgfQogICAgICAgIH0KICAgICAgfQogICAgfSwKICAgIGhhbmRsZXI6IG9yZGVyc0NvbnRyb2xsZXIuc2hvdy5iaW5kKG9yZGVyc0NvbnRyb2xsZXIpCiAgfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U2VxdWVsaXplLklJTlRFR0VSCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IHsgc2VlZCwgZGVzdHJveSB9Cg==</text>
+        <text encoding="base64">U2VxdWVsaXplLkZMT0FUCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLgo=</text>
+        <text encoding="base64">ZXhwb3J0IHsgc2VlZCwgZGVzdHJveSB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgQm9vbS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBvcmRlciA9IHsgaWQ6IH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGl0KCdzaG91bGQgcmVzcG9uZCA0MDQnKQo=</text>
+        <text encoding="base64">ICAgICAgQm9vbS4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpdFw+</last-search>
+      <last-search>Sequelize.</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpdFw+</last-pattern>
-      <last-replace>PanelComponent</last-replace>
-      <last-substitute>BaseComponent</last-substitute>
+      <last-pattern>Sequelize.</last-pattern>
+      <last-replace />
+      <last-substitute>Sequelize.</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -529,6 +529,8 @@
         <entry>CheckMatrix</entry>
         <entry>BaseComponent</entry>
         <entry encoding="base64">XDxpdFw+</entry>
+        <entry>Sequelize</entry>
+        <entry>Sequelize.</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyZxdW90Oy8nL2c=</entry>
@@ -543,6 +545,8 @@
         <entry encoding="base64">JzwsJz5zL0NoZWNrTWF0cml4L0N1c3RvbVBhbmVsL2c=</entry>
         <entry encoding="base64">JzwsJz5zL0Jhc2VDb21wb25lbnQvUGFuZWxDb21wb25lbnQvZw==</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JzwsJz5zL1NlcXVlbGl6ZS8vZw==</entry>
+        <entry encoding="base64">JzwsJz5zL1NlcXVlbGl6ZS4vL2c=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
