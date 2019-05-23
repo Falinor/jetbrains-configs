@@ -233,6 +233,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'GET /v1/orders/{id}.should respond 200 OK'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'GET /v1/orders/{id}.should respond 200 OK'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'GovernmentDashboardComponent.should create'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -281,6 +289,30 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'OrdersRepository'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'OrdersRepository'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'OrdersRepository.#get'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'OrdersRepository.#get'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'OrdersRepository.#get.The order exists'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'OrdersRepository.#get.The order exists'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'PartEdge client'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -326,7 +358,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>29</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'index.html (1)'">
@@ -369,12 +401,12 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Step Into">
+      <Statistic Action="Stop 'GET /v1/orders/{id}'">
         <Item>
-          <IdeaActionID>StepInto</IdeaActionID>
-          <ShortCut>'F7'</ShortCut>
-          <Description>Step Into</Description>
-          <Count>2</Count>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'GET /v1/orders/{id}'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'GovernmentDashboardComponent'">
@@ -563,6 +595,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'GET /v1/orders/{id}'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'GET /v1/orders/{id}'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'GovernmentDashboardComponent'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -607,6 +647,14 @@
         <Item>
           <IdeaActionID>MarkdownNavigator.EditorOnlyLayoutChange</IdeaActionID>
           <Description>Show editor only</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Step Into">
+        <Item>
+          <IdeaActionID>StepInto</IdeaActionID>
+          <ShortCut>'F7'</ShortCut>
+          <Description>Step Into</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Over">
