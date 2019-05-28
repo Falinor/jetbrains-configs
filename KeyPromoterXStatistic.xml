@@ -209,6 +209,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Refactor This...">
+        <Item>
+          <IdeaActionID>Refactorings.QuickListPopupAction</IdeaActionID>
+          <ShortCut>'⌃T'</ShortCut>
+          <Description>Refactor This...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Reformat Code">
         <Item>
           <IdeaActionID>ReformatCode</IdeaActionID>
@@ -310,7 +318,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Integration: CooperativesRepository'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'MysqlAdapter'">
@@ -470,7 +478,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>46</Count>
+          <Count>49</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'index.html (1)'">
