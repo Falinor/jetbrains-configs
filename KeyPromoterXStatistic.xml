@@ -345,6 +345,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'OrdersController.#create.the cooperative exists.some products and variants match the given line items.the line items creation failed.should throw an error'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'OrdersController.#create.the cooperative exists.some products and variants match the given line items.the line items creation failed.should throw an error'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'OrdersController.#show'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
