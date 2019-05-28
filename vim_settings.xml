@@ -1,13 +1,13 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/orders/orders.controller.js" timestamp="1559032548053">
-        <mark key="[" line="70" column="30" />
-        <mark key="]" line="70" column="30" />
-        <mark key="." line="70" column="30" />
-        <mark key="^" line="70" column="30" />
+      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/orders/orders.controller.js" timestamp="1559036907010">
+        <mark key="[" line="95" column="68" />
+        <mark key="]" line="95" column="68" />
+        <mark key="." line="95" column="68" />
+        <mark key="^" line="95" column="68" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.yml" timestamp="1558966796909">
         <mark key="[" line="9" column="2" />
@@ -28,6 +28,11 @@
         <mark key="]" line="6" column="34" />
         <mark key="." line="6" column="34" />
         <mark key="^" line="6" column="34" />
+      </file>
+      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/seeds/cooperatives.json" timestamp="1559035521901">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/orders/orders.repository.js" timestamp="1558691058750">
         <mark key="'" line="39" column="2" />
@@ -90,6 +95,7 @@
       <file name="$USER_HOME$/dev/sezane/test-spa/src/main.js" timestamp="1558711739964">
         <mark key="[" line="17" column="11" />
       </file>
+      <file name="$USER_HOME$/dev/invivo/docker-compose/marketplace-api/api/repositories/data/cooperatives.json" timestamp="1559035401800" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" timestamp="1558627463246">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="3" column="3" />
@@ -187,6 +193,9 @@
         <mark key="." line="1" column="7" />
         <mark key="^" line="1" column="7" />
       </file>
+      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/seeds/data.js" timestamp="1559035702064">
+        <mark key="^" line="0" column="7" />
+      </file>
       <file name="$USER_HOME$/dev/formation-anode/src/routes/orders.js" timestamp="1557236007217">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="6" column="33" />
@@ -216,19 +225,18 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/invivo/docker-compose/marketplace-api/api/orders/order.serializer.js" timestamp="1558973052889" />
-      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/orders/test/orders.controller.test.js" timestamp="1559032626499">
-        <mark key="'" line="60" column="15" />
-        <mark key="[" line="189" column="58" />
-        <mark key="]" line="189" column="94" />
-        <mark key="." line="189" column="58" />
-        <mark key="^" line="183" column="58" />
+      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/orders/test/orders.controller.test.js" timestamp="1559037730592">
+        <mark key="'" line="58" column="15" />
+        <mark key="[" line="217" column="45" />
+        <mark key="]" line="217" column="43" />
+        <mark key="." line="217" column="43" />
+        <mark key="^" line="217" column="43" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/seeds/seed.integration.js" timestamp="1558623107236">
-        <mark key="'" line="37" column="1" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="35" column="14" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/seeds/seed.integration.js" timestamp="1559035957615">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="72" />
+        <mark key="^" line="2" column="15" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/invivo/docker-compose/marketplace-api/api/utils/base.mailer.js" timestamp="1558705305824">
         <mark key="[" line="11" column="4" />
@@ -251,9 +259,6 @@
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="12" />
-      </file>
-      <file name="$USER_HOME$/dev/invivo/docker-compose/marketplace-api/api/orders/orders.controller.js" timestamp="1558963205321">
-        <mark key="'" line="24" column="6" />
       </file>
       <file name="$USER_HOME$/Dev/baby-foot/api/integ/utils.js" timestamp="1554669725410">
         <mark key="'" line="3" column="21" />
@@ -294,6 +299,12 @@
         <mark key="^" line="8" column="26" />
         <mark key="." line="8" column="26" />
       </file>
+      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/seeds/cooperatives.js" timestamp="1559035661677">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/formation-anode/src/controllers/order-controller.js" timestamp="1557237517281">
         <mark key="'" line="9" column="41" />
         <mark key="[" line="12" column="9" />
@@ -317,9 +328,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="58" filename="$USER_HOME$/dev/react-app-starterkit/src/components/custom-textfield.js" />
-      <jump line="9" column="1" filename="$USER_HOME$/dev/react-app-starterkit/src/config.js" />
-      <jump line="82" column="1" filename="$USER_HOME$/dev/react-app-starterkit/src/components/custom-panel.js" />
       <jump line="54" column="5" filename="$USER_HOME$/dev/react-app-starterkit/src/components/custom-panel.js" />
       <jump line="30" column="6" filename="$USER_HOME$/dev/react-app-starterkit/src/components/custom-panel.js" />
       <jump line="87" column="0" filename="$USER_HOME$/dev/react-app-starterkit/src/components/custom-panel.js" />
@@ -417,49 +425,52 @@
       <jump line="73" column="38" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/orders/orders.controller.js" />
       <jump line="66" column="10" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/orders/orders.controller.js" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/orders/errors/cooperative-belonging.error.js" />
+      <jump line="13" column="0" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/seeds/cooperatives.js" />
+      <jump line="28" column="0" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/seeds/seed.integration.js" />
+      <jump line="21" column="0" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/seeds/seed.integration.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>variant</text>
+        <text>order</text>
       </register>
       <register name="-" type="4">
-        <text>variant</text>
+        <text>order</text>
       </register>
       <register name="/" type="4">
         <text>item</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZGVidWcoZXJyb3IpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIG9mZmVyc1JlcG9zaXRvcnkuZmluZENvb3BlcmF0aXZlc09mZmVycy5yZXNvbHZlcyhbeyBpZDogMTIzIH1dKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb2ZmZXJzUmVwb3NpdG9yeS5maW5kQ29vcGVyYXRpdmVzT2ZmZXJzLnJlc29sdmVzKFt7IGlkOiAxMjMgfV0pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1ZyhlcnJvcikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3JkZXJzUmVwb3NpdG9yeS5jcmVhdGUucmV0dXJucygpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVGhlbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0gY2F0Y2ggKGVycikgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyhlcnIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBleHBlY3QoZXJyKS50bwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRocm93IG5ldyBFcnJvcignVGhlIGNvb3BlcmF0aXZlIGRvZXMgbm90IHNlbGwgdGhpcyBwcm9kdWN0JykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiByZXBseQogICAgICAgICAgICAucmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWFuX2NvZGU6IGxpbmVJdGVtLmVhbl9jb2RlLAogICAgICAgICAgICBxdWFudGl0eTogbGluZUl0ZW0ucXVhbnRpdHkK</text>
+        <text encoding="base64">ICAgICAgcmVxdWVzdC5sb2dnZXIuc2V0QWN0aW9uKCdhZGRUb0NhcnQnLCB7IG9yZGVyLCBjcmVhdGVkTGluZUl0ZW0gfSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -532,6 +543,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
