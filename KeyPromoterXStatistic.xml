@@ -241,14 +241,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Rerun '/v1/orders'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌘R'</ShortCut>
-          <Description>Rerun '/v1/orders'</Description>
-          <Count>5</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Rerun '/v1/orders.POST /v1/orders'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -473,14 +465,6 @@
           <Count>5</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Run">
-        <Item>
-          <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
-          <ShortCut>'⌘4'</ShortCut>
-          <Description>Run</Description>
-          <Count>53</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Run 'index.html (1)'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -582,6 +566,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Integration: CooperativesRepository'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Integration: CooperativesRepository.#exists.The API responds with a client error'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Integration: CooperativesRepository.#exists.The API responds with a client error'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -694,7 +686,7 @@
           <IdeaActionID>VimPluginToggle</IdeaActionID>
           <ShortCut>'⌥⌘V'</ShortCut>
           <Description>Vim Emulator</Description>
-          <Count>28</Count>
+          <Count>29</Count>
         </Item>
       </Statistic>
       <Statistic Action="Zoom In">
@@ -787,6 +779,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun '/v1/orders'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun '/v1/orders'</Description>
+          <Count>10</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'GET /v1/orders/{id}'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -833,6 +833,14 @@
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
           <Count>20</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run">
+        <Item>
+          <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
+          <ShortCut>'⌘4'</ShortCut>
+          <Description>Run</Description>
+          <Count>54</Count>
         </Item>
       </Statistic>
       <Statistic Action="Scratch File">
