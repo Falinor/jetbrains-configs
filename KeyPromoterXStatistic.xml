@@ -313,6 +313,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Line items API v1'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'Line items API v1'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'MysqlAdapter'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -342,15 +350,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Order API v1'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'OrdersController'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌘R'</ShortCut>
-          <Description>Rerun 'OrdersController'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'OrdersController.#create'">
@@ -833,6 +833,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Operation.#isDispatchedToGendarmerie'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'OrdersController'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'OrdersController'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'OrdersRepository.#get.The given order does not exist'">
