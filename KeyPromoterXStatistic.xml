@@ -649,6 +649,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'Integration | API | Order v1.POST /v1/orders'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Integration | API | Order v1.POST /v1/orders'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'Integration | API | Order v1.POST /v1/orders.201 Created without line items'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
