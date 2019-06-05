@@ -54,7 +54,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'PartEdge client'">
@@ -313,6 +313,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Integration | API | Line items v1.POST /v1/orders/{order_id}/line_items.201 Created - updated existing line item quantity'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'Integration | API | Line items v1.POST /v1/orders/{order_id}/line_items.201 Created - updated existing line item quantity'</Description>
+          <Count>10</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Integration | API | Line items v1.PUT /v1/orders/{order_id}/line_items/{line_item_id}'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -534,7 +542,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Unit | Controller | Orders'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Unit | Domain | Order'">
