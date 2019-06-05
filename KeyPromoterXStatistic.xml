@@ -310,7 +310,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Integration | API | Order v1'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Integration | API | Order v1.POST /v1/orders.201 Created without line items'">
@@ -639,6 +639,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'I18nService'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Integration | API | Order v1'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Integration | API | Order v1'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Integration | API | Order v1.POST /v1/orders.201 Created without line items'">
