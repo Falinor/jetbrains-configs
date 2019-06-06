@@ -46,7 +46,7 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'⌥⇧⌘C'</ShortCut>
           <Description>Copy Reference</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -54,7 +54,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'PartEdge client'">
@@ -63,6 +63,14 @@
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'PartEdge client'</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'Unit | Controller | Orders.#addLineItem… its quantity.should respond 201 Created'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'Unit | Controller | Orders.#addLineItem… its quantity.should respond 201 Created'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'index.html (2)'">
@@ -94,7 +102,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Expand All">
@@ -166,7 +174,7 @@
           <IdeaActionID>EditSource</IdeaActionID>
           <ShortCut>'F4'</ShortCut>
           <Description>Jump to Source</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -310,7 +318,15 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Integration | API | Line items v1'</Description>
-          <Count>1</Count>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Integration | API | Line items v1.POST /v1/orders/{order_id}/line_items.201 Created - create line item'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'Integration | API | Line items v1.POST /v1/orders/{order_id}/line_items.201 Created - create line item'</Description>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Integration | API | Line items v1.POST /v1/orders/{order_id}/line_items.201 Created - updated existing line item quantity'">
@@ -542,7 +558,31 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Unit | Controller | Orders'</Description>
-          <Count>4</Count>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Unit | Controller | Orders.#addLineItem'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'Unit | Controller | Orders.#addLineItem'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Unit | Controller | Orders.#addLineItem.The order was found.The line item exists in this order, update its quantity'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'Unit | Controller | Orders.#addLineItem.The order was found.The line item exists in this order, update its quantity'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Unit | Controller | Orders.#addLineItem.The order was found.The line item exists in this order, update its quantity.should respond 201 Created'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'Unit | Controller | Orders.#addLineItem.The order was found.The line item exists in this order, update its quantity.should respond 201 Created'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Unit | Domain | Order'">
@@ -617,6 +657,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Show Code Coverage Data">
+        <Item>
+          <IdeaActionID>SwitchCoverage</IdeaActionID>
+          <ShortCut>'⌥⌘F6'</ShortCut>
+          <Description>Show Code Coverage Data</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Step Out">
         <Item>
           <IdeaActionID>StepOut</IdeaActionID>
@@ -671,6 +719,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'I18nService'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Integration | API | Line items v1.POST /v1/orders/{order_id}/line_items.201 Created - create line item'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Integration | API | Line items v1.POST /v1/orders/{order_id}/line_items.201 Created - create line item'</Description>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Integration | API | Order v1'">
@@ -809,6 +865,22 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'Unit | Controller | Orders.#addLineItem.The order was found.The line item exists in this order, update its quantity'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Unit | Controller | Orders.#addLineItem.The order was found.The line item exists in this order, update its quantity'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Unit | Controller | Orders.#addLineItem.The order was found.The line item exists in this order, update its quantity.should respond 201 Created'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Unit | Controller | Orders.#addLineItem.The order was found.The line item exists in this order, update its quantity.should respond 201 Created'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'Unit | Domain | Order'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -823,6 +895,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'http://localhost:8080/auth'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop...">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop...</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
