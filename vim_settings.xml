@@ -25,11 +25,6 @@
         <mark key="." line="3" column="37" />
         <mark key="^" line="3" column="37" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/seeds/offers.js" timestamp="1559829964024">
-        <mark key="[" line="5" column="11" />
-        <mark key="]" line="5" column="11" />
-        <mark key="." line="5" column="11" />
-      </file>
       <file name="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/views/VLayoutMinimal/VLayoutMinimal.vue" timestamp="1560272170493">
         <mark key="[" line="0" column="27" />
         <mark key="]" line="0" column="26" />
@@ -42,16 +37,18 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/components/CMainMenu/CMainMenu.js" timestamp="1560334107865">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/filters/date.filter.js" timestamp="1560436375314">
+        <mark key="'" line="2" column="1" />
+        <mark key="[" line="4" column="20" />
+        <mark key="]" line="4" column="20" />
+        <mark key="." line="4" column="20" />
+        <mark key="^" line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/views/VOrderList/VOrderList.html" timestamp="1560420346614">
-        <mark key="[" line="15" column="58" />
-        <mark key="]" line="15" column="58" />
-        <mark key="^" line="15" column="58" />
-        <mark key="." line="15" column="58" />
+      <file name="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/views/VOrderList/VOrderList.html" timestamp="1560435399591">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="17" column="11" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/views/VOrderList/VOrderList.scss" timestamp="1560415567509">
         <mark key="'" line="6" column="0" />
@@ -79,16 +76,17 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
+      <file name="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/filters/index.js" timestamp="1560435617155">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="64" />
+        <mark key="." line="0" column="64" />
+        <mark key="^" line="0" column="64" />
+      </file>
       <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/orders/orders.routes.js" timestamp="1559836096722">
         <mark key="[" line="312" column="22" />
         <mark key="]" line="314" column="22" />
         <mark key="^" line="314" column="22" />
         <mark key="." line="314" column="22" />
-      </file>
-      <file name="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/directives/tests/Test.spec.js" timestamp="1560332363766">
-        <mark key="[" line="4" column="12" />
-        <mark key="]" line="0" column="30" />
-        <mark key="." line="0" column="30" />
       </file>
       <file name="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/components/COfferForm/COfferForm.js" timestamp="1560353491265">
         <mark key="[" line="3" column="9" />
@@ -131,6 +129,13 @@
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="24" />
+      </file>
+      <file name="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/filters/date.filter.spec.js" timestamp="1560436390417">
+        <mark key="'" line="9" column="31" />
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="19" column="33" />
+        <mark key="." line="19" column="33" />
+        <mark key="^" line="19" column="33" />
       </file>
       <file name="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/views/VOrders/VOrders.vue" timestamp="1560356098014">
         <mark key="[" line="4" column="7" />
@@ -181,16 +186,6 @@
         <mark key="^" line="1" column="35" />
         <mark key="." line="1" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/tests/e2e/specs/test.js" timestamp="1560267551795">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/orders.test.js" timestamp="1559773517198">
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/views/VOrders/VOrders.js" timestamp="1560353672066">
         <mark key="[" line="0" column="16" />
         <mark key="]" line="0" column="16" />
@@ -203,30 +198,25 @@
         <mark key="]" line="15" column="55" />
         <mark key="." line="15" column="55" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/services/order.service.js" timestamp="1560420241710">
+      <file name="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/services/order.service.js" timestamp="1560435185072">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="185" column="0" />
-        <mark key="]" line="185" column="14" />
-        <mark key="^" line="185" column="14" />
-        <mark key="." line="185" column="14" />
+        <mark key="[" line="160" column="56" />
+        <mark key="]" line="161" column="33" />
+        <mark key="." line="161" column="33" />
+        <mark key="^" line="161" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/views/VOrderList/VOrderList.js" timestamp="1560420652389">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="7" column="43" />
-        <mark key="]" line="7" column="42" />
-        <mark key="." line="7" column="42" />
-        <mark key="^" line="7" column="42" />
+      <file name="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/views/VOrderList/VOrderList.js" timestamp="1560436404193">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="1" column="13" />
+        <mark key="." line="1" column="13" />
+        <mark key="^" line="1" column="13" />
       </file>
       <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/utils/sequelize/migrations/20190522092200-create-line-items.js" timestamp="1559657979604">
         <mark key="[" line="14" column="19" />
         <mark key="]" line="14" column="23" />
         <mark key="." line="14" column="23" />
         <mark key="^" line="14" column="23" />
-      </file>
-      <file name="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/directives/index.js" timestamp="1560332666168">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="64" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/directives/Test.js" timestamp="1560333841075">
         <mark key="'" line="26" column="0" />
@@ -237,15 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/.env.test" />
-      <jump line="13" column="0" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/.env.example" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/.env.example" />
-      <jump line="14" column="0" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/.env.example" />
-      <jump line="20" column="15" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/cooperatives/cooperatives.repository.js" />
-      <jump line="25" column="14" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/cooperatives/cooperatives.repository.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/cooperatives/cooperatives.repository.js" />
-      <jump line="8" column="1" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/offers/offers.repository.js" />
-      <jump line="1" column="43" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/offers/offers.repository.js" />
       <jump line="2" column="30" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/offers/offers.repository.js" />
       <jump line="3" column="32" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/offers/offers.repository.js" />
       <jump line="8" column="24" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/orders/line-items.repository.js" />
@@ -337,40 +318,53 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/services/order.service.js" />
       <jump line="1" column="7" filename="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/services/offer.service.js" />
       <jump line="4" column="36" filename="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/services/index.js" />
+      <jump line="2" column="1" filename="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/filters/date.filter.js" />
+      <jump line="7" column="7" filename="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/views/VOrderList/VOrderList.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/views/VOrderList/VOrderList.js" />
+      <jump line="0" column="20" filename="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/filters/date.filter.spec.js" />
+      <jump line="13" column="2" filename="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/filters/date.filter.spec.js" />
+      <jump line="2" column="7" filename="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/filters/date.filter.spec.js" />
+      <jump line="11" column="0" filename="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/filters/date.filter.spec.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/filters/date.filter.spec.js" />
+      <jump line="9" column="31" filename="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/filters/date.filter.spec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMub3JkZXJzKWRkCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZGF0ZSA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b3JkZXJuYW1lIA==</text>
+        <text encoding="base64">ZGF0ZSA=</text>
       </register>
       <register name="/" type="4">
         <text>vue-test</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB3aWR0aDogMTAwJTsK</text>
+        <text encoding="base64">ICAgIGRheTogJzItZGlnaXQnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMub3JkZXJzKWRkCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBtZXRob2RzOiB7CiAgfQo=</text>
+      <register name="2" type="4">
+        <text>locale, {
+    
+  })</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="3" type="4">
+        <text>{
+    
+  })</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFzeW5jIHJldHJpZXZlT3JkZXJMaXN0KCkgewogICAgICB0aGlzLm9yZGVycyA9IGF3YWl0IG9yZGVyU2VydmljZS5saXN0KCkK</text>
+        <text encoding="base64">ICBkZWMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBib3JkZXI6IHsKICB9Cg==</text>
+        <text encoding="base64">ICBpdCgnc2hvbHUnKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRvcDogMXB4IHNvbGlkICNkNWRjZTM7CiAgICBib3R0b206IDFweCBzb2xpZCAjZDVkY2UzOwo=</text>
+        <text encoding="base64">ICB0ZXN0KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Lm9yZGVyLWxpc3Qgewp9Cg==</text>
+        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJy4vZGF0ZS5maWx0ZXInCgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -379,10 +373,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBtYXJnaW46IDE2cHggMDsK</text>
+        <text encoding="base64">Ly8gZXNsaW50LWRpc2FibGUtbmV4dC1saW5lIGltcG9ydC9wcmVmZXItZGVmYXVsdC1leHBvcnQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkaXNwbGF5OiBibG9jazsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
