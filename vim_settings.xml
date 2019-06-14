@@ -10,6 +10,11 @@
         <mark key="^" line="3" column="21" />
         <mark key="." line="3" column="21" />
       </file>
+      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/orders/orders.controller.js" timestamp="1560522957859">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/router.js" timestamp="1560353172688">
         <mark key="'" line="92" column="25" />
         <mark key="[" line="8" column="53" />
@@ -101,6 +106,9 @@
         <mark key="^" line="15" column="67" />
         <mark key="." line="15" column="67" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" timestamp="1560520739712">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/views/VOrderList/VOrderList.vue" timestamp="1560414208512">
         <mark key="[" line="4" column="39" />
         <mark key="]" line="4" column="39" />
@@ -172,6 +180,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scopes.js" timestamp="1560521333635">
+        <mark key="[" line="5" column="33" />
+        <mark key="]" line="13" column="33" />
+        <mark key="." line="13" column="36" />
+        <mark key="^" line="13" column="33" />
+      </file>
       <file name="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/filters/date/date.filter.js" timestamp="1560499424798">
         <mark key="'" line="6" column="47" />
         <mark key="[" line="0" column="0" />
@@ -202,6 +216,12 @@
         <mark key="[" line="16" column="31" />
         <mark key="]" line="15" column="55" />
         <mark key="." line="15" column="55" />
+      </file>
+      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/scopes.js" timestamp="1560522916310">
+        <mark key="[" line="20" column="42" />
+        <mark key="]" line="20" column="42" />
+        <mark key="^" line="20" column="42" />
+        <mark key="." line="20" column="42" />
       </file>
       <file name="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/views/VOrderList/VOrderList.js" timestamp="1560441457761">
         <mark key="'" line="9" column="7" />
@@ -340,10 +360,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIDx0ZD4uLi48L3RkPgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>now.getHours() * 60 + now.getMinutes() - (date.getHours() * 60 + date.getMinutes())</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text>UTC</text>
@@ -352,25 +372,25 @@
         <text encoding="base64">ICAgICAgICAkeycyMDAwLTAxLTAxVDAxOjAwOjAwWid9IHwgJHsnMjAwMC0wMS0wMVQwMTowMToxNVonfSB8ICR7J0lsIHkgYSAxbSd9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDx0ZD4uLi48L3RkPgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bm8K</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHJldHVybiBmaW5kU2NvcGUocy5jaGlsZHJlbikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhkYXRlLCB2YWx1ZSkK</text>
+        <text encoding="base64">ICAgIGlmIChzLmNoaWxkcmVuKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhkYXRlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1pbnNBZ28pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1pbnNBZ28pCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">Cgpjb25zdCBzY29wZVRyZWUgPSBzY29wZXMuZmxhdE1hcChzY29wZSA9PgogIHNjb3BlLmNoaWxkcmVuICYmIHNjb3BlLmNoaWxkcmVuLmxlbmd0aCA+IDAgPyBzY29wZS5jaGlsZHJlbiA6IHNjb3BlCik=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -379,10 +399,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBgJHtnZXRNaW51dGVzQWdvKGRhdGUsIG5vdyl9bWAK</text>
+        <text encoding="base64">CmV4cG9ydCBjb25zdCBzY29wZXMgPSB7fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCBtaW5zQWdvID0gZ2V0TWludXRlc0FnbyhkYXRlLCBub3cpCg==</text>
+        <text encoding="base64">ICAgIGNoaWxkcmVuOiBkZAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
