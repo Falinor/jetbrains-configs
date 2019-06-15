@@ -103,10 +103,11 @@
         <mark key="]" line="8" column="54" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/orders/test/orders.controller.test.js" timestamp="1560620756259">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
+      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/orders/test/orders.controller.test.js" timestamp="1560627245688">
+        <mark key="[" line="81" column="37" />
+        <mark key="]" line="43" column="8" />
+        <mark key="." line="43" column="8" />
+        <mark key="^" line="43" column="8" />
       </file>
       <file name="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/views/VOrders/VOrders.scss" timestamp="1560413296923">
         <mark key="'" line="16" column="4" />
@@ -179,11 +180,11 @@
         <mark key="." line="21" column="39" />
         <mark key="^" line="21" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/orders.integ.test.js" timestamp="1560625913092">
+      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/orders.integ.test.js" timestamp="1560625914551">
         <mark key="[" line="72" column="38" />
-        <mark key="]" line="72" column="37" />
-        <mark key="." line="72" column="37" />
-        <mark key="^" line="72" column="37" />
+        <mark key="]" line="72" column="38" />
+        <mark key="." line="72" column="38" />
+        <mark key="^" line="72" column="38" />
       </file>
       <file name="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/directives/Test.js" timestamp="1560333841075">
         <mark key="'" line="26" column="0" />
@@ -297,17 +298,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>body</text>
+        <text>let</text>
       </register>
       <register name="-" type="4">
-        <text>body</text>
+        <text>let</text>
       </register>
       <register name="/" type="4">
         <text>UTC</text>
       </register>
-      <register name="0" type="4">
-        <text>order: [['validated_at', 'DESC']],
-      include: [this.lineItemsModel]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBleHBlY3QocmVwbHkuY29kZSkudG8uaGF2ZS5iZWVuLmNhbGxlZE9uY2VXaXRoRXhhY3RseSgyMDApCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
