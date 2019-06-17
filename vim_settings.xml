@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/orders/orders.controller.js" timestamp="1560759667304">
-        <mark key="[" line="345" column="0" />
-        <mark key="]" line="345" column="0" />
-        <mark key="^" line="345" column="15" />
-        <mark key="." line="345" column="0" />
+      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/orders/orders.controller.js" timestamp="1560762090529">
+        <mark key="[" line="2" column="50" />
+        <mark key="]" line="2" column="24" />
+        <mark key="^" line="2" column="24" />
+        <mark key="." line="2" column="24" />
       </file>
       <file name="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/views/VLayoutMinimal/VLayoutMinimal.vue" timestamp="1560272170493">
         <mark key="[" line="0" column="27" />
@@ -27,6 +27,13 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/views/VOrderList/VOrderList.html" timestamp="1560762867451">
+        <mark key="'" line="12" column="13" />
+        <mark key="[" line="30" column="23" />
+        <mark key="]" line="30" column="23" />
+        <mark key="^" line="30" column="23" />
+        <mark key="." line="30" column="23" />
       </file>
       <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/seeds/orders.js" timestamp="1560620598890">
         <mark key="[" line="23" column="20" />
@@ -90,6 +97,9 @@
         <mark key="^" line="23" column="17" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/services/user.service.js" timestamp="1560762494907">
+        <mark key="[" line="8" column="45" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/calcul-du-prix.txt" timestamp="1559829908524">
         <mark key="[" line="1" column="36" />
         <mark key="]" line="1" column="35" />
@@ -110,18 +120,23 @@
         <mark key="^" line="0" column="16" />
       </file>
       <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/orders.test.js" timestamp="1560526389061" />
-      <file name="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/services/order.service.js" timestamp="1560760787495">
+      <file name="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/services/order.service.js" timestamp="1560762996871">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="180" column="60" />
-        <mark key="]" line="180" column="58" />
-        <mark key="." line="180" column="58" />
-        <mark key="^" line="180" column="58" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="19" column="58" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/utils/sequelize/migrations/20190522092200-create-line-items.js" timestamp="1559657979604">
         <mark key="[" line="14" column="19" />
         <mark key="]" line="14" column="23" />
         <mark key="." line="14" column="23" />
         <mark key="^" line="14" column="23" />
+      </file>
+      <file name="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/views/VLayoutMain/VLayoutMain.scss" timestamp="1560763040460">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/views/VLayoutMain/VLayoutMain.html" timestamp="1560413834352">
         <mark key="[" line="3" column="39" />
@@ -151,6 +166,9 @@
         <mark key="]" line="11" column="14" />
         <mark key="." line="11" column="14" />
         <mark key="^" line="11" column="14" />
+      </file>
+      <file name="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/services/tests/user.service.spec.js" timestamp="1560763282039">
+        <mark key="[" line="84" column="107" />
       </file>
       <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/scopes.test.js" timestamp="1560526785464">
         <mark key="'" line="0" column="15" />
@@ -195,6 +213,12 @@
         <mark key="]" line="13" column="33" />
         <mark key="." line="13" column="36" />
         <mark key="^" line="13" column="33" />
+      </file>
+      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/token.js" timestamp="1560762595599">
+        <mark key="[" line="14" column="11" />
+        <mark key="]" line="6" column="56" />
+        <mark key="^" line="6" column="56" />
+        <mark key="." line="6" column="56" />
       </file>
       <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/scopes.js" timestamp="1560618492110">
         <mark key="[" line="7" column="21" />
@@ -325,11 +349,11 @@
       <jump line="64" column="0" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/orders.integ.test.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>colspan</text>
       </register>
       <register name="/" type="4">
         <text>UTC</text>
@@ -338,25 +362,167 @@
         <text encoding="base64">ICAgICAgICAgIG1lc3NhZ2U6IGBNaXNzaW5nIHJlcXVpcmVkIHNjb3BlICR7c2NvcGVzLk9SREVSU19SRUFEX1VTRVJ9IG9yICR7c2NvcGVzLk9SREVSU19SRUFEX0NPT1B9YAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBPUkRFUlMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIHJldHVybiB0aGlzLmFwaS5nZXQoJy8nKS50aGVuKHJlc3BvbnNlID0+IHsKICAgIC8vICAgcmV0dXJuIHJlc3BvbnNlLmRhdGEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sZG9nKGVycm9yKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAucXVlcnkoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CgogIGRlc2NyaWJlKCcjZmluZEFsbCcsICgpID0+IHsKICAgIGNvbnN0IHVzZXJJZCA9IDEKICAgIGxldCBvcmRlcnNNb2RlbAogICAgbGV0IG9yZGVyc1JlcG9zaXRvcnkKCiAgICBiZWZvcmVFYWNoKCdzZXR1cCcsICgpID0+IHsKICAgICAgb3JkZXJzTW9kZWwgPSB7IGZpbmRBbGw6IHNpbm9uLnN0dWIoKS5yZXNvbHZlcyhbXSkgfQogICAgICBvcmRlcnNSZXBvc2l0b3J5ID0gbmV3IE9yZGVyc1JlcG9zaXRvcnkob3JkZXJzTW9kZWwsIGxpbmVJdGVtc01vZGVsKQogICAgfSkKICB9KQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">Ywo=</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IAogICAgaXQoJ3Nob3VsZCBmaW5kIGFsbCBvcmRlcnMgYnkgY29vcGVyYXRpdmUgYW5kIHVzZXInLCAoKSA9PiB7CiAgICAgIAogICAgfSk=</text>
+        <text>onst COOPERATIVES = [
+  { name: 'Agora' },
+  { name: 'Bourgogne du sud' },
+  { name: 'Cerena' },
+  { name: 'La Dauphinoise' },
+  { name: 'EMC2' },
+  { name: 'Maïsadour' },
+  { name: 'NatUp' },
+  { name: 'Noriap' },
+  { name: 'Océalia' },
+  { name: 'Unéal' },
+  { name: 'Val de Gascogne' }
+]
+
+const OFFERS = [
+  {
+    id: 341,
+    price: 1000,
+    created_at: '2019-05-22T13:04:04.000Z',
+    updated_at: '2019-05-29T08:56:23.000Z',
+    cooperativeVariant: {
+      id: 338,
+      associated: true,
+      published: true,
+      cooperative: COOPERATIVES[0],
+      variant: {
+        eanCode: 'string',
+        name: 'string',
+        company: 'string',
+        measureQuantity: '1',
+        measureUnit: 'L',
+        type: 'string',
+        product: {
+          id: 'string',
+          name: 'string',
+          unit: 'string',
+          company: 'string',
+          marketAuthorization: 'string',
+          organic: true,
+          bioControl: true,
+          kind: 'string',
+          images: [],
+          formulation: 'string',
+          old: true
+        }
+      }
+    }
+  },
+  {
+    id: 2,
+    price: 1000,
+    cooperativeVariant: {
+      id: 3,
+      associated: true,
+      published: true,
+      cooperative: {},
+      variant: {
+        eanCode: 'string',
+        name: 'string',
+        company: 'string',
+        measureQuantity: 'string',
+        measureUnit: 'string',
+        type: 'string',
+        product: {
+          id: 'string',
+          name: 'string',
+          unit: 'string',
+          company: 'string',
+          marketAuthorization: 'string',
+          organic: true,
+          bioControl: true,
+          kind: 'string',
+          images: [{}],
+          formulation: 'string',
+          old: true
+        }
+      }
+    }
+  }
+]
+
+const LINE_ITEMS = [
+  {
+    id: 1,
+    product_name: 'A beautiful product',
+    company: 'ACME',
+    image_url: '',
+    variant: 'WHATEVER 1 L',
+    ean_code: '3550910049203',
+    measure_quantity: 1,
+    totalQuantity: 1,
+    unit_price: 10,
+    measure_unit: 'L',
+    total_price: 10,
+    order_id: 3,
+    offer_id: OFFERS[0].id
+  },
+  {
+    id: 2,
+    product_name: 'Another beautiful product',
+    company: 'ACME bis',
+    image_url: '',
+    variant: 'WHATEVER 5 L',
+    ean_code: '4660910049204',
+    measure_quantity: 5,
+    totalQuantity: 5,
+    unit_price: 10,
+    measure_unit: 'L',
+    total_price: 2100,
+    order_id: 2,
+    offer_id: OFFERS[0].id
+  },
+  {
+    id: 3,
+    product_name: 'Another beautiful product',
+    company: 'ACME bis',
+    image_url: '',
+    variant: 'WHATEVER 5 L',
+    ean_code: '4660910049204',
+    measure_quantity: 5,
+    totalQuantity: 5,
+    unit_price: 10,
+    measure_unit: 'L',
+    total_price: 2100,
+    order_id: 4,
+    offer_id: OFFERS[1].id
+  },
+  {
+    id: 4,
+    product_name: 'Another beautiful product',
+    company: 'ACME bis',
+    image_url: '',
+    variant: 'WHATEVER 5 L',
+    ean_code: '4660910049204',
+    measure_quantity: 5,
+    totalQuantity: 5,
+    unit_price: 10,
+    measure_unit: 'L',
+    total_price: 2100,
+    order_id: 5,
+    offer_id: OFFERS[0].id
+  }
+]</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -364,11 +530,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZpbmRPcHRzKQo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">CmNvbnN0IE9SREVSUyA9IFsKICB7CiAgICBpZDogMSwKICAgIHVzZXJfaWQ6IDQyLAogICAgY29vcGVyYXRpdmVfaWQ6IDEsCiAgICBsaW5lX2l0ZW1zOiBbXSwKICAgIGNyZWF0ZWRfYXQ6IG5ldyBEYXRlKCkudG9KU09OKCkKICB9LAogIHsKICAgIGlkOiAyLAogICAgdXNlcl9pZDogNDIsCiAgICBjb29wZXJhdGl2ZV9pZDogMywKICAgIGxpbmVfaXRlbXM6IExJTkVfSVRFTVMuZmlsdGVyKGwgPT4gbC5vcmRlcl9pZCA9PT0gMiksCiAgICBjcmVhdGVkX2F0OiBuZXcgRGF0ZSgpLnRvSlNPTigpCiAgfQpd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gY29vcAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
