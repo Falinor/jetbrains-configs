@@ -17,6 +17,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Collapse All">
+        <Item>
+          <IdeaActionID>CollapseAllRegions</IdeaActionID>
+          <ShortCut>'⇧⌘-' or '⇧⌘-'</ShortCut>
+          <Description>Collapse All</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Column Selection Mode">
         <Item>
           <IdeaActionID>EditorToggleColumnMode</IdeaActionID>
