@@ -15,6 +15,13 @@
         <mark key="." line="36" column="34" />
         <mark key="^" line="24" column="42" />
       </file>
+      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/utils/test/auth0.scheme.test.js" timestamp="1560872132209">
+        <mark key="'" line="7" column="25" />
+        <mark key="[" line="7" column="26" />
+        <mark key="]" line="1" column="27" />
+        <mark key="." line="1" column="27" />
+        <mark key="^" line="1" column="27" />
+      </file>
       <file name="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/views/VLayoutMinimal/VLayoutMinimal.vue" timestamp="1560272170493">
         <mark key="[" line="0" column="27" />
         <mark key="]" line="0" column="26" />
@@ -229,11 +236,11 @@
         <mark key="." line="72" column="0" />
         <mark key="^" line="71" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/utils/auth0.scheme.js" timestamp="1560863998748">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="14" column="83" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/utils/auth0.scheme.js" timestamp="1560871621750">
+        <mark key="[" line="16" column="10" />
+        <mark key="]" line="16" column="12" />
+        <mark key="^" line="16" column="12" />
+        <mark key="." line="16" column="12" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1559829918672">
         <mark key="[" line="1" column="44" />
@@ -292,7 +299,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="0" filename="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/services/user.service.js" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/views/VSearch/VSearch.js" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/views/VSearch/tests/VSearch.spec.js" />
       <jump line="2" column="21" filename="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/directives/test.directive.js" />
@@ -392,40 +398,41 @@
       <jump line="12" column="0" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/seeds/user.js" />
       <jump line="8" column="0" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/orders.repository.integ.test.js" />
       <jump line="92" column="14" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/seeds.test.js" />
+      <jump line="4" column="25" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/utils/test/auth0.scheme.test.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">c3R1YiA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b3JkZXJzIA==</text>
+        <text encoding="base64">c3R1YiA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PDw8</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBzZXF1ZWxpemVDb2xsZWN0aW9ucy5wdXNoKGF3YWl0IG9yZGVyc01vZGVsLmJ1bGtDcmVhdGUob3JkZXJzKSkK</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0LmNvb3BlcmF0aXZlcyA9IHJlcXVlc3QudXNlci5jb29wZXJhdGl2ZXMgfHwgW2RlY29kZWRUb2tlbltDT09QX1FVQV9LRVldXSB8fCBbXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBjb25zdCB1c2Vyc3JlcG9zaXRvcnkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyB0cmFuc2Zvcm0gdGhpcyBpbnN0YW5jZSB0byBhIGphdmFzY3JpcHQgb2JqZWN0IHdpdGhvdXQgc2VxdWVsaXplIGFkZGVkIG5vaXNlCiAgY29uc3QgW3NlZWRPcmRlcnMsIHNlZWRMaW5lSXRlbXNdID0gc2VxdWVsaXplQ29sbGVjdGlvbnMubWFwKGNvbGwgPT4gY29sbC5tYXAoaW5zdGFuY2UgPT4gaW5zdGFuY2UudG9KU09OKCkpKQo=</text>
+        <text encoding="base64">ICBjb25zdCBjcmVhdGVBdXRoMFNjaGVtZSA9ICgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyB0cmFuc2Zvcm0gdGhpcyBpbnN0YW5jZSB0byBhIGphdmFzY3JpcHQgb2JqZWN0IHdpdGhvdXQgc2VxdWVsaXplIGFkZGVkIG5vaXNlCiAgY29uc3QgW3NlZWRPcmRlcnMsIHNlZWRMaW5lSXRlbXNdID0gc2VxdWVsaXplQ29sbGVjdGlvbnMubWFwKGNvbGwgPT4gY29sbC5tYXAoaW5zdGFuY2UgPT4gaW5zdGFuY2UudG9KU09OKCkpKQo=</text>
+        <text encoding="base64">ICBpdCgnZGRPJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyBGb3IgZWFjaCBzZXF1ZWxpemUgbGlzdCAob3JkZXJzLCBsaW5lSXRlbXMpIHJldHVybmVkLAogIC8vIGZvciBlYWNoIHNlcXVlbGl6ZSBpbnN0YW5jZSBpbiB0aGlzIGNvbGxlY3Rpb24sCg==</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0LmNvb3BlcmF0aXZlcyA9IHJlcXVlc3QudXNlci5jb29wZXJhdGl2ZXMgfHwgW2RlY29kZWRUb2tlbltDT09QX1FVQV9LRVldXSB8fCBbXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdCBzZXF1ZWxpemVDb2xsZWN0aW9ucyA9IFtdCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICApCg==</text>
+        <text encoding="base64">ICAvLyB0cmFuc2Zvcm0gdGhpcyBpbnN0YW5jZSB0byBhIGphdmFzY3JpcHQgb2JqZWN0IHdpdGhvdXQgc2VxdWVsaXplIGFkZGVkIG5vaXNlCiAgY29uc3QgW3NlZWRPcmRlcnMsIHNlZWRMaW5lSXRlbXNdID0gc2VxdWVsaXplQ29sbGVjdGlvbnMubWFwKGNvbGwgPT4gY29sbC5tYXAoaW5zdGFuY2UgPT4gaW5zdGFuY2UudG9KU09OKCkpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCBzZXF1ZWxpemVDb2xsZWN0aW9ucyA9IGF3YWl0IFByb21pc2UuYWxsKAogICAgCg==</text>
+        <text encoding="base64">ICAvLyB0cmFuc2Zvcm0gdGhpcyBpbnN0YW5jZSB0byBhIGphdmFzY3JpcHQgb2JqZWN0IHdpdGhvdXQgc2VxdWVsaXplIGFkZGVkIG5vaXNlCiAgY29uc3QgW3NlZWRPcmRlcnMsIHNlZWRMaW5lSXRlbXNdID0gc2VxdWVsaXplQ29sbGVjdGlvbnMubWFwKGNvbGwgPT4gY29sbC5tYXAoaW5zdGFuY2UgPT4gaW5zdGFuY2UudG9KU09OKCkpKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -434,10 +441,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCBzZXF1ZWxpemVDb2xsZWN0aW9ucyA9IGF3YWl0IFByb21pc2UuYWxsKFtvcmRlcnNNb2RlbC5idWxrQ3JlYXRlKG9yZGVycyksIGxpbmVJdGVtc01vZGVsLmJ1bGtDcmVhdGUobGluZUl0ZW1zKV0pCg==</text>
+        <text encoding="base64">ICAvLyBGb3IgZWFjaCBzZXF1ZWxpemUgbGlzdCAob3JkZXJzLCBsaW5lSXRlbXMpIHJldHVybmVkLAogIC8vIGZvciBlYWNoIHNlcXVlbGl6ZSBpbnN0YW5jZSBpbiB0aGlzIGNvbGxlY3Rpb24sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCAK</text>
+        <text encoding="base64">ICBjb25zdCBzZXF1ZWxpemVDb2xsZWN0aW9ucyA9IFtdCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
