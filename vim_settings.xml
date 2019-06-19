@@ -257,6 +257,10 @@
         <mark key="." line="13" column="36" />
         <mark key="^" line="13" column="33" />
       </file>
+      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/ansible/group_vars/all/vars.yml" timestamp="1560946189772">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="40" />
+      </file>
       <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/token.js" timestamp="1560779412423">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -386,8 +390,8 @@
       <jump line="2" column="7" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/orders/test/orders.controller.test.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YXBpX2hvc3Rfb2ZmZXI6ICdodHRwczovL3t7IGhvc3RuYW1lIH19Jwo=</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -395,12 +399,8 @@
       <register name="/" type="4">
         <text>sinon</text>
       </register>
-      <register name="0" type="4">
-        <text>await queryInterface.changeColumn('orders', 'total_price', {
-      type: Sequelize.FLOAT(10, 2),
-      allowNull: false,
-      defaultValue: 0
-    })</text>
+      <register name="0" type="2">
+        <text encoding="base64">YXBpX2hvc3Rfb2ZmZXI6ICdodHRwczovL3t7IGhvc3RuYW1lIH19Jwo=</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">b3JkZXJzQ29udHJvbGxlciA9IHsKICAgICAgaW5kZXg6ICgpID0+IHt9LAogICAgICBjcmVhdGU6ICgpID0+IHt9LAogICAgICB1cGRhdGU6ICgpID0+IHt9LAogICAgICBzaG93OiAoKSA9PiB7fSwKICAgICAgYWRkTGluZUl0ZW06ICgpID0+IHt9LAogICAgICB1cGRhdGVMaW5lSXRlbTogKCkgPT4ge30sCiAgICAgIGRlc3Ryb3lMaW5lSXRlbTogKCkgPT4ge30sCiAgICAgIHZhbGlkYXRlOiBzaW5vbi5zdHViKCkucmVqZWN0cygpCiAgICB9</text>
