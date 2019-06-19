@@ -401,6 +401,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Integration | API | Order v1.PATCH /v1/orders/{order_id}'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'Integration | API | Order v1.PATCH /v1/orders/{order_id}'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Integration | API | Order v1.POST /v1/orders.201 Created without line items'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -646,7 +654,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Unit | Controller | Orders'</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Unit | Controller | Orders.#addLineItem'">
@@ -863,6 +871,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Integration | API | Order v1'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Integration | API | Order v1.PATCH /v1/orders/{order_id}'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Integration | API | Order v1.PATCH /v1/orders/{order_id}'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Integration | API | Order v1.POST /v1/orders'">
@@ -1094,7 +1110,7 @@
           <IdeaActionID>VimPluginToggle</IdeaActionID>
           <ShortCut>'⌥⌘V'</ShortCut>
           <Description>Vim Emulator</Description>
-          <Count>32</Count>
+          <Count>34</Count>
         </Item>
       </Statistic>
       <Statistic Action="Zoom In">
@@ -1217,6 +1233,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'I18nService'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Integration | Repository | Orders.#update'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'Integration | Repository | Orders.#update'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Operation.#isDispatchedToGendarmerie'">
