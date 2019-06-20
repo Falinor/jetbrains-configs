@@ -44,9 +44,6 @@
         <mark key="^" line="12" column="50" />
         <mark key="." line="12" column="50" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/utils/sequelize/migrations/20190521163000-create-orders.js" timestamp="1560936290678">
-        <mark key="[" line="21" column="29" />
-      </file>
       <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/orders/orders.routes.js" timestamp="1560937632714">
         <mark key="[" line="8" column="16" />
         <mark key="]" line="329" column="23" />
@@ -157,11 +154,11 @@
         <mark key="." line="14" column="44" />
       </file>
       <file name="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/views/VLogin/VLogin.html" timestamp="1560952667040" />
-      <file name="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/filters/date/date.filter.js" timestamp="1561027400543">
-        <mark key="[" line="26" column="44" />
-        <mark key="]" line="26" column="45" />
-        <mark key="^" line="30" column="27" />
-        <mark key="." line="26" column="45" />
+      <file name="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/filters/date/date.filter.js" timestamp="1561034728262">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="19" column="13" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/ansible/group_vars/all/vars.yml" timestamp="1560946189772">
         <mark key="[" line="15" column="0" />
@@ -173,15 +170,23 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/filters/date/date.filter.spec.js" timestamp="1561026829893">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="45" column="76" />
+      <file name="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/package.json" timestamp="1561034078991">
+        <mark key="[" line="16" column="18" />
+        <mark key="]" line="16" column="18" />
+        <mark key="." line="16" column="18" />
+        <mark key="^" line="16" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/views/VOrderList/VOrderList.js" timestamp="1560963412803">
-        <mark key="[" line="53" column="4" />
-        <mark key="]" line="53" column="50" />
+      <file name="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/filters/date/date.filter.spec.js" timestamp="1561033925060">
+        <mark key="[" line="49" column="66" />
+        <mark key="]" line="49" column="66" />
+        <mark key="." line="49" column="66" />
+        <mark key="^" line="46" column="76" />
+      </file>
+      <file name="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/views/VOrderList/VOrderList.js" timestamp="1561035802393">
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="8" column="16" />
+        <mark key="^" line="8" column="20" />
+        <mark key="." line="8" column="16" />
       </file>
       <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/orders.integ.test.js" timestamp="1560962080279">
         <mark key="'" line="211" column="6" />
@@ -294,10 +299,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Paris</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>Paris</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">Pj4+</text>
@@ -306,25 +311,25 @@
         <text encoding="base64">ICByZXR1cm4gcmVxdWVzdC5jb29wZXJhdGl2ZXMuZmluZChjb29wID0+IGNvb3AuaWQgPT09IGNvb3BlcmF0aXZlSWQpICE9PSBudWxsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkeycyMDAwLTAxLTAxVDAxOjAwOjMwWid9IHwgJHsnMjAwMC0wMS0wMVQwMTowMToxNVonfSB8ICR7IsOgIGwnaW5zdGFudCJ9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkeycyMDAwLTAxLTAxVDAwOjU3OjMwWid9IHwgJHsnMjAwMC0wMS0wMVQwMTowMDowMFonfSB8ICR7J0lsIHkgYSAybSd9CiAgICAgICAgJHsnMjAwMC0wMS0wMVQwMTowMDowMFonfSB8ICR7JzIwMDAtMDEtMDFUMDE6MDE6MTVaJ30gfCAkeydJbCB5IGEgMW0nfQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkeycyMDAwLTAxLTAxVDAxOjQ1OjAwWid9IHwgJHsnMjAwMC0wMS0wMVQwMjowMDowMFonfSB8ICR7J0lsIHkgYSAxNW0nfQogICAgICAgICR7JzIwMDAtMDEtMDFUMDA6NTU6MDBaJ30gfCAkeycyMDAwLTAxLTAxVDAxOjAwOjAwWid9IHwgJHsnSWwgeSBhIDVtJ30K</text>
+        <text encoding="base64">ICAgIHRpbWVab25lOiAnJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkeycyMDAwLTAxLTAxVDAwOjQ1OjAwWid9IHwgJHsnMjAwMC0wMS0wMVQwMTozMDowMFonfSB8ICR7J0lsIHkgYSA0NW0nfQogICAgICAgICR7JzIwMDAtMDEtMDFUMDE6MTU6MDBaJ30gfCAkeycyMDAwLTAxLTAxVDAxOjQ1OjAwWid9IHwgJHsnSWwgeSBhIDMwbSd9Cg==</text>
+        <text encoding="base64">ICBjb25zdCBmb3JtYXQgPSBuZXcgSW50bC5EYXRlVGltZUZvcm1hdCgnZnInLCB7CiAgY29uc29sZS5sb2coZm9ybWF0LmZvcm1hdChuZXcgRGF0ZSgpKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBHaXZlbgo=</text>
+        <text encoding="base64">ICAgIGRheTogJzItZGlnaXQnLAogICAgbW9udGg6ICcyLWRpZ2l0JywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBleHBlY3RlZCA9ICcwMS8wMS8yMDAwJwo=</text>
+        <text encoding="base64">ICAgIHllYXI6ICdudW1lcmljJywKICB9KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB2YWx1ZSA9ICcyMDAwLTAxLTAxVDAwOjAwOjAwWicKICAgICAgICBjb25zdCBub3cgPSBuZXcgRGF0ZSgnMjAwMC0wMS0wM1QwMDowMDowMFonKQo=</text>
+        <text encoding="base64">ICAgIHRpbWVab25lOiAnRXVyb3BlL1BhcmlzJwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -333,10 +338,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBUUkFOU0FDLTUxIHVwZGF0ZSBFUlAgb3JkZXIgSUQgb24gYmx1cgo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhmb3JtYXQuZm9ybWF0KG5ldyBEYXRlKCkpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9LAogIG1ldGhvZHM6IHsK</text>
+        <text encoding="base64">ICAgIHRpbWVab25lOiAnRXVyb3BlL1BhcmlzJwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
