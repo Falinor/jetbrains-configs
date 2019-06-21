@@ -16,6 +16,12 @@
         <mark key="." line="36" column="34" />
         <mark key="^" line="24" column="42" />
       </file>
+      <file name="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/views/VOrderList/tests/VOrderList.spec.js" timestamp="1561124245913">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="15" column="74" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/orders/orders.repository.js" timestamp="1560961968780">
         <mark key="'" line="90" column="39" />
         <mark key="[" line="91" column="19" />
@@ -29,12 +35,12 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/views/VOrderList/VOrderList.html" timestamp="1561044957091">
+      <file name="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/views/VOrderList/VOrderList.html" timestamp="1561122651987">
         <mark key="'" line="13" column="13" />
-        <mark key="[" line="34" column="27" />
-        <mark key="]" line="35" column="58" />
-        <mark key="." line="35" column="58" />
-        <mark key="^" line="35" column="58" />
+        <mark key="[" line="3" column="11" />
+        <mark key="]" line="3" column="36" />
+        <mark key="." line="3" column="36" />
+        <mark key="^" line="3" column="36" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/javascript/extLibs/global-types/node_modules/@types/sinon/index.d.ts" timestamp="1560783328947" />
       <file name="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/views/VOrderList/VOrderList.scss" timestamp="1561045237783">
@@ -203,8 +209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="15" filename="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/filters/date.filter.js" />
-      <jump line="8" column="24" filename="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/filters/time/time.filter.spec.js" />
       <jump line="0" column="20" filename="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/filters/time/time.filter.spec.js" />
       <jump line="9" column="7" filename="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/views/VOrderList/VOrderList.js" />
       <jump line="12" column="60" filename="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/filters/date/date.filter.js" />
@@ -303,13 +307,15 @@
       <jump line="80" column="0" filename="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/views/VOrderList/VOrderList.js" />
       <jump line="68" column="10" filename="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/views/VOrderList/VOrderList.js" />
       <jump line="66" column="57" filename="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/views/VOrderList/VOrderList.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/views/VOrderList/tests/VOrderList.spec.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/views/VOrderList/tests/VOrderList.spec.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRhdGFPcmRlcnM6IFtdLAo=</text>
+        <text encoding="base64">ICAgICAgICB3cmFwcGVyLnZtLmxvYWRpbmcgPSB0cnVlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>dataOrders</text>
+        <text>message</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">Pj4+</text>
@@ -318,25 +324,25 @@
         <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKG9yZGVyLnVwZGF0ZVN0YXR1cykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRhdGFPcmRlcnM6IFtdLAo=</text>
+        <text encoding="base64">ICAgICAgICB3cmFwcGVyLnZtLmxvYWRpbmcgPSB0cnVlCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CmItZm9ybS1pbnB1dHsKICBib3JkZXItcmFkaXVzOiA0cHg7Cn0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB3cmEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgaHR0cC5tb2NrUmV0dXJuVmFsdWUoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IFZ1ZXggZnJvbSAndnVleCcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMudXBkYXRpbmdPcmRlciA9IG9yZGVyCiAgICAgICAgfQo=</text>
+        <text encoding="base64">Y29uc3QgbG9jYWxWdWUgPSBjcmVhdGVMb2NhbFZ1ZSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgc2V0KG9yZGVyKSB7CiAgICAgICAgaWYgKG9yZGVyICYmIHRoaXMudXBkYXRpbmdPcmRlci5pZCAhPT0gb3JkZXIuaWQpIHsK</text>
+        <text encoding="base64">bG9jYWxWdWUudXNlKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gb3JkZXIgPT4gdGhpcy51cGRhdGluZ09yZGVyLmlkID09PSBvcmRlci5pZAogICAgICB9LAo=</text>
+        <text encoding="base64">ZGVzY3I5YmUiCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -345,10 +351,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlzVXBkYXRpbmc6IHsKICAgICAgZ2V0KCkgewo=</text>
+        <text encoding="base64">ICAgIGRhdGFPcmRlcnM6IFtdLAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMuJHNldChvcmRlciwgcHJvcCwgdmFsdWUpCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CmItZm9ybS1pbnB1dHsKICBib3JkZXItcmFkaXVzOiA0cHg7Cn0=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
