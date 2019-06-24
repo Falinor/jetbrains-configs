@@ -1057,6 +1057,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'VOrderList.vue'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'VOrderList.vue'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'http://localhost:8080/auth'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1273,6 +1281,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'OrdersRepository.#get.The given order does not exist'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'VOrderList.vue'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'VOrderList.vue'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
