@@ -1,5 +1,13 @@
 <application>
   <component name="libraryTable">
+    <library name="@types/chai" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/chai-as-promised" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="@types/convict" type="javaScript">
       <CLASSES />
       <SOURCES />
@@ -9,6 +17,10 @@
       <SOURCES />
     </library>
     <library name="@types/faker" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/hapi__joi" type="javaScript">
       <CLASSES />
       <SOURCES />
     </library>
@@ -28,7 +40,15 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="@types/mocha" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="@types/sinon" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/sinon-chai" type="javaScript">
       <CLASSES />
       <SOURCES />
     </library>
