@@ -113,12 +113,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/server.js" timestamp="1560790695379">
-        <mark key="'" line="72" column="0" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
-        <mark key="^" line="71" column="24" />
+      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/server.js" timestamp="1561543283368">
+        <mark key="'" line="73" column="0" />
+        <mark key="[" line="41" column="42" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
+        <mark key="^" line="72" column="24" />
       </file>
       <file name="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/filters/time/time.filter.spec.js" timestamp="1561026615311">
         <mark key="[" line="26" column="67" />
@@ -137,6 +137,18 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/utils/auth0.scheme.js" timestamp="1561542981901">
+        <mark key="[" line="19" column="18" />
+        <mark key="]" line="19" column="16" />
+        <mark key="." line="19" column="16" />
+        <mark key="^" line="19" column="16" />
+      </file>
+      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/shipping-rates/shipping-rates.scopes.js" timestamp="1561550620953">
+        <mark key="[" line="1" column="28" />
+        <mark key="]" line="1" column="13" />
+        <mark key="^" line="1" column="12" />
+        <mark key="." line="1" column="13" />
+      </file>
       <file name="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/lib/_variables.scss" timestamp="1560845440415">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -151,6 +163,13 @@
       </file>
       <file name="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/views/VLogin/VLogin.scss" timestamp="1561394077413" />
       <file name="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/views/VLogin/VLogin.html" timestamp="1561394048378" />
+      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/shipping-rates/shipping-rates.routes.js" timestamp="1561550932962">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="9" column="27" />
+        <mark key="^" line="9" column="27" />
+        <mark key="." line="10" column="48" />
+      </file>
       <file name="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/filters/date/date.filter.js" timestamp="1561034728262">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -216,10 +235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="20" filename="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/filters/time/time.filter.js" />
-      <jump line="4" column="46" filename="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/filters/time/time.filter.js" />
-      <jump line="29" column="2" filename="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/filters/time/time.filter.js" />
-      <jump line="12" column="13" filename="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/views/VOrderList/VOrderList.html" />
       <jump line="19" column="0" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/seeds/user.js" />
       <jump line="9" column="30" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/utils/auth0.scheme.js" />
       <jump line="24" column="2" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/scopes.js" />
@@ -316,6 +331,10 @@
       <jump line="62" column="2" filename="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/views/VOrderList/tests/VOrderList.spec.js" />
       <jump line="52" column="10" filename="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/views/VOrderList/tests/VOrderList.spec.js" />
       <jump line="102" column="29" filename="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/views/VOrderList/tests/VOrderList.spec.js" />
+      <jump line="1" column="8" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/shipping-rates/shipping-rates.routes.js" />
+      <jump line="7" column="24" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/shipping-rates/shipping-rates.routes.js" />
+      <jump line="9" column="19" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/shipping-rates/shipping-rates.routes.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/shipping-rates/shipping-rates.routes.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -331,11 +350,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      <register name="&quot;" type="4">
+        <text>scopes</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>scopes</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">Pj4+</text>
@@ -344,25 +363,25 @@
         <text encoding="base64">ICAgICAgICAgIGlucHV0LnRyaWdnZXIoJ2JsdXInKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICBdCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Cj09PT09PT0KICAgICAgICAgIDx0ciB2LWlmPSJvcmRlci5zaG93Ij4KICAgICAgICAgICAgPHRkIGNvbHNwYW49IjciIGNsYXNzPSJwLTAiPgogICAgICAgICAgICAgIDx0YWJsZSBjbGFzcz0ib3JkZXJfX3RhYmxlX19kZXRhaWwiIHYtaWY9Im9yZGVyLmxpbmVfaXRlbXMgJiYgb3JkZXIubGluZV9pdGVtcy5sZW5ndGggPiAwIj4KICAgICAgICAgICAgICAgIDx0aGVhZD4KICAgICAgICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgICAgICAgIDx0aD5Qcm9kdWl0PC90aD4KICAgICAgICAgICAgICAgICAgICA8dGg+UXVhbnRpdMOpPC90aD4KICAgICAgICAgICAgICAgICAgICA8dGg+TW9udGFudCBUVEM8L3RoPgogICAgICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICAgICAgPC90aGVhZD4KICAgICAgICAgICAgICAgIDx0Ym9keT4KICAgICAgICAgICAgICAgICAgPHRyIHYtZm9yPSJsaW5lSXRlbSBpbiBvcmRlci5saW5lX2l0ZW1zIj4KICAgICAgICAgICAgICAgICAgICA8dGQ+CiAgICAgICAgICAgICAgICAgICAgICA8cD57eyBsaW5lSXRlbS5wcm9kdWN0X25hbWUgfX08L3A+CiAgICAgICAgICAgICAgICAgICAgICA8cD57eyBsaW5lSXRlbS5lYW5fY29kZSB9fTwvcD4KICAgICAgICAgICAgICAgICAgICA8L3RkPgogICAgICAgICAgICAgICAgICAgIDx0ZD57eyBsaW5lSXRlbS5xdWFudGl0eSB8IHF1YW50aXR5KGxpbmVJdGVtLm1lYXN1cmVfcXVhbnRpdHksIGxpbmVJdGVtLm1lYXN1cmVfdW5pdCl9fTwvdGQ+CiAgICAgICAgICAgICAgICAgICAgPHRkPnt7IGxpbmVJdGVtLnRvdGFsX3ByaWNlIH194oKsPC90ZD4KICAgICAgICAgICAgICAgICAgPC90cj4KICAgICAgICAgICAgICAgIDwvdGJvZHk+CiAgICAgICAgICAgICAgPC90YWJsZT4KICAgICAgICAgICAgICA8ZGl2IHYtZWxzZT4KICAgICAgICAgICAgICAgIFVuZSBlcnJldXIgZXN0IHN1cnZlbnVlLCBsZXMgbGlnbmVzIGRlIGNvbW1hbmRlcyBzb250IGludHJvdXZhYmxlcy4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC90ZD4KICAgICAgICAgIDwvdHI+Cj4+Pj4+Pj4gQlNSIGFkZCB2aXN1YWwgZmVlZGJhY2sgdG8gdGhlIEVSUCBvcmRlciBlZGl0aW9uIGZpZWxk</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICByZXR1cm4gWwogICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBCU1IgYWRkIHZpc3VhbCBmZWVkYmFjayB0byB0aGUgRVJQIG9yZGVyIGVkaXRpb24gZmllbGQK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iaW5wdXQtY2VsbCI+Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">Cj09PT09PT0KICAgICAgICAgIDx0ciB2LWlmPSJvcmRlci5zaG93Ij4KICAgICAgICAgICAgPHRkIGNvbHNwYW49IjciIGNsYXNzPSJwLTAiPgogICAgICAgICAgICAgIDx0YWJsZSBjbGFzcz0ib3JkZXJfX3RhYmxlX19kZXRhaWwiIHYtaWY9Im9yZGVyLmxpbmVfaXRlbXMgJiYgb3JkZXIubGluZV9pdGVtcy5sZW5ndGggPiAwIj4KICAgICAgICAgICAgICAgIDx0aGVhZD4KICAgICAgICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgICAgICAgIDx0aD5Qcm9kdWl0PC90aD4KICAgICAgICAgICAgICAgICAgICA8dGg+UXVhbnRpdMOpPC90aD4KICAgICAgICAgICAgICAgICAgICA8dGg+TW9udGFudCBUVEM8L3RoPgogICAgICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICAgICAgPC90aGVhZD4KICAgICAgICAgICAgICAgIDx0Ym9keT4KICAgICAgICAgICAgICAgICAgPHRyIHYtZm9yPSJsaW5lSXRlbSBpbiBvcmRlci5saW5lX2l0ZW1zIj4KICAgICAgICAgICAgICAgICAgICA8dGQ+CiAgICAgICAgICAgICAgICAgICAgICA8cD57eyBsaW5lSXRlbS5wcm9kdWN0X25hbWUgfX08L3A+CiAgICAgICAgICAgICAgICAgICAgICA8cD57eyBsaW5lSXRlbS5lYW5fY29kZSB9fTwvcD4KICAgICAgICAgICAgICAgICAgICA8L3RkPgogICAgICAgICAgICAgICAgICAgIDx0ZD57eyBsaW5lSXRlbS5xdWFudGl0eSB8IHF1YW50aXR5KGxpbmVJdGVtLm1lYXN1cmVfcXVhbnRpdHksIGxpbmVJdGVtLm1lYXN1cmVfdW5pdCl9fTwvdGQ+CiAgICAgICAgICAgICAgICAgICAgPHRkPnt7IGxpbmVJdGVtLnRvdGFsX3ByaWNlIH194oKsPC90ZD4KICAgICAgICAgICAgICAgICAgPC90cj4KICAgICAgICAgICAgICAgIDwvdGJvZHk+CiAgICAgICAgICAgICAgPC90YWJsZT4KICAgICAgICAgICAgICA8ZGl2IHYtZWxzZT4KICAgICAgICAgICAgICAgIFVuZSBlcnJldXIgZXN0IHN1cnZlbnVlLCBsZXMgbGlnbmVzIGRlIGNvbW1hbmRlcyBzb250IGludHJvdXZhYmxlcy4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC90ZD4KICAgICAgICAgIDwvdHI+Cj4+Pj4+Pj4gQlNSIGFkZCB2aXN1YWwgZmVlZGJhY2sgdG8gdGhlIEVSUCBvcmRlciBlZGl0aW9uIGZpZWxk</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxiLWZvcm0taW5wdXQKICAgICAgICAgICAgICAgICAgYXJpYS1sYWJlbD0iQ2hhbXBzIGRlIHNhaXNpZSBkdSBudW3DqXJvIEVSUCIK</text>
+        <text encoding="base64">Pj4+Pj4+PiBCU1IgYWRkIHZpc3VhbCBmZWVkYmFjayB0byB0aGUgRVJQIG9yZGVyIGVkaXRpb24gZmllbGQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgOnN0YXRlPSJvcmRlci51cGRhdGVTdGF0dXMiCj09PT09PT0K</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iaW5wdXQtY2VsbCI+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgOnZhbHVlPSJvcmRlci5lcnBfb3JkZXJfaWQiCiAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxiLWZvcm0taW5wdXQKICAgICAgICAgICAgICAgICAgYXJpYS1sYWJlbD0iQ2hhbXBzIGRlIHNhaXNpZSBkdSBudW3DqXJvIEVSUCIK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -371,10 +390,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgQGJsdXIuc3RvcD0idXBkYXRlT3JkZXIob3JkZXIsICdlcnBfb3JkZXJfaWQnLCAkZXZlbnQudGFyZ2V0LnZhbHVlKSIKICAgICAgICAgICAgICAgIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgOnN0YXRlPSJvcmRlci51cGRhdGVTdGF0dXMiCj09PT09PT0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgQGtleXVwLmVudGVyPSIkZXZlbnQudGFyZ2V0LmJsdXIoKSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgOnZhbHVlPSJvcmRlci5lcnBfb3JkZXJfaWQiCiAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
