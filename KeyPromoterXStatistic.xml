@@ -62,7 +62,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'PartEdge client'">
@@ -422,6 +422,22 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Integration | API | Shipping rate v1'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Integration | API | Shipping rate v1.POST /v1/shipping-rates'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'Integration | API | Shipping rate v1.POST /v1/shipping-rates'</Description>
+          <Count>18</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Integration | API | Shipping rate v1.POST /v1/shipping-rates.400 Bad request - cannot sort shipping ranges'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'Integration | API | Shipping rate v1.POST /v1/shipping-rates.400 Bad request - cannot sort shipping ranges'</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
@@ -919,6 +935,22 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Integration | API | Shipping rate v1'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Integration | API | Shipping rate v1.POST /v1/shipping-rates'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Integration | API | Shipping rate v1.POST /v1/shipping-rates'</Description>
+          <Count>17</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Integration | API | Shipping rate v1.POST /v1/shipping-rates.400 Bad request - cannot sort shipping ranges'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Integration | API | Shipping rate v1.POST /v1/shipping-rates.400 Bad request - cannot sort shipping ranges'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Integration: CooperativesRepository'">
