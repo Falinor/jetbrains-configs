@@ -769,6 +769,22 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Unit | Domain | Shipping rate.#isValid'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'Unit | Domain | Shipping rate.#isValid'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Unit | Domain | Shipping rate.#isValid.Given ranges where each range has a &quot;max&quot; property'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'Unit | Domain | Shipping rate.#isValid.Given ranges where each range has a &quot;max&quot; property'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'statement'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
