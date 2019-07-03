@@ -294,11 +294,12 @@
         <mark key="^" line="4" column="73" />
         <mark key="." line="4" column="73" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/shipping-rates/shipping-rates.routes.js" timestamp="1562140863870">
-        <mark key="'" line="65" column="18" />
-        <mark key="[" line="118" column="0" />
-        <mark key="]" line="118" column="0" />
-        <mark key="." line="118" column="0" />
+      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/shipping-rates/shipping-rates.routes.js" timestamp="1562145821757">
+        <mark key="'" line="34" column="11" />
+        <mark key="[" line="12" column="11" />
+        <mark key="]" line="13" column="14" />
+        <mark key="." line="13" column="14" />
+        <mark key="^" line="13" column="14" />
       </file>
       <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/shipping-rates/ranges.model.js" timestamp="1561556276415">
         <mark key="'" line="18" column="18" />
@@ -366,7 +367,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="176" column="27" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/shipping-rates.integ.test.js" />
       <jump line="20" column="30" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/shipping-rates.integ.test.js" />
       <jump line="24" column="9" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/shipping-rates/test/create-shipping-rate.use-case.test.js" />
       <jump line="28" column="39" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/shipping-rates/test/create-shipping-rate.use-case.test.js" />
@@ -466,6 +466,7 @@
       <jump line="15" column="30" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/shipping-rates/shipping-rates.repository.js" />
       <jump line="123" column="9" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/shipping-rates.repository.integ.test.js" />
       <jump line="16" column="51" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/shipping-rates/test/create-shipping-rate.use-case.test.js" />
+      <jump line="28" column="11" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/shipping-rates/shipping-rates.routes.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -474,41 +475,43 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>-create-shipping-rate.use-case'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>-create-shipping-rate.use-case'</text>
+        <text>max</text>
       </register>
       <register name="/" type="4">
         <text>async</text>
       </register>
-      <register name="0" type="4">
-        <text>{ min: 0, max: 6, price: 30 },
-        { min: 6, max: 12, price: 42 },
-        { min: 12, max: 15, price: 48 },
-        { min: 15, price: 50 }</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAubm90ZXMoYFJlcXVpcmVzIHRoZSBzY29wZSAke1NISVBQSU5HX1JBVEVTX1JFQUR9LmApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsKfSBmcm9tICcuLi9kb21haW4vY3JlYXRlLXNoaXBwaW5nLXJhdGUudXNlLWNhc2UnCg==</text>
+        <text encoding="base64">ICAgIC4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBOT1RfQ09PUEVSQVRJVkVfTUVNQkVSX0VWRU5ULAogIFNVQ0NFU1NfRVZFTlQK</text>
+        <text encoding="base64">ICAgIC5leGFtcGxlKDUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBESVNDT05USU5PVVNfUkFOR0VTX0VWRU5ULAogIEVSUk9SX0VWRU5ULAo=</text>
+        <text encoding="base64">ICAgIC5leGFtcGxlKDEwKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTk9UX0NPT1BFUkFUSVZFX01FTUJFUl9FVkVOVCB9IGZyb20gJy4uL2RvbWFpbicK</text>
+        <text encoding="base64">ICAgIC5sYWJlbCgnU2hpcHBpbmcgcmFuZ2VzJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBOT1RfQ09PUEVSQVRJVkVfTUVNQkVSX0VWRU5ULAo=</text>
+        <text encoding="base64">ICAgIC5leGFtcGxlKGQpCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBESVNDT05USU5PVVNfUkFOR0VTX0VWRU5ULAogIElOVkFMSURfUkFOR0VTX0VWRU5ULAo=</text>
+      <register name="7" type="4">
+        <text>.example([
+      { min: 5, max: 15, price: 10 },
+      { min: 15, max: 20, price: 15 },
+      { min: 20, max: 25, price: 20 },
+      { min: 25, price: 30 }
+    ])</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -517,10 +520,15 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KGJvZHkuc2hpcHBpbmdfcmFuZ2VzKS50by5zYXRpc2Z5KHJhbmdlcyA9PiB7Cg==</text>
+        <text encoding="base64">ICAuZXhhbXBsZSh7fSkK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmFuZ2VzLmV2ZXJ5CiAgICAgIH0pCg==</text>
+      <register name="9" type="4">
+        <text>shipping_ranges: [
+      { min: 5, max: 15, price: 10 },
+      { min: 15, max: 20, price: 15 },
+      { min: 20, max: 25, price: 20 },
+      { min: 25, price: 30 }
+    ]</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Bvc3QvcHV0L2c=</text>
