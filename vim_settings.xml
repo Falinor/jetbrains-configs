@@ -83,7 +83,7 @@
         <mark key="]" line="34" column="9" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/orders/orders.routes.js" timestamp="1562071740705">
+      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/orders/orders.routes.js" timestamp="1562145990926">
         <mark key="'" line="125" column="5" />
         <mark key="[" line="8" column="16" />
         <mark key="]" line="329" column="23" />
@@ -294,12 +294,12 @@
         <mark key="^" line="4" column="73" />
         <mark key="." line="4" column="73" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/shipping-rates/shipping-rates.routes.js" timestamp="1562145821757">
+      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/shipping-rates/shipping-rates.routes.js" timestamp="1562147928951">
         <mark key="'" line="34" column="11" />
-        <mark key="[" line="12" column="11" />
-        <mark key="]" line="13" column="14" />
-        <mark key="." line="13" column="14" />
-        <mark key="^" line="13" column="14" />
+        <mark key="[" line="170" column="16" />
+        <mark key="]" line="4" column="31" />
+        <mark key="." line="4" column="31" />
+        <mark key="^" line="4" column="31" />
       </file>
       <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/shipping-rates/ranges.model.js" timestamp="1561556276415">
         <mark key="'" line="18" column="18" />
@@ -475,11 +475,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>happened</text>
       </register>
       <register name="-" type="4">
-        <text>max</text>
+        <text>happened</text>
       </register>
       <register name="/" type="4">
         <text>async</text>
@@ -487,31 +487,26 @@
       <register name="0" type="2">
         <text encoding="base64">ICAubm90ZXMoYFJlcXVpcmVzIHRoZSBzY29wZSAke1NISVBQSU5HX1JBVEVTX1JFQUR9LmApCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIGNvb3BlcmF0aXZlX2lkOiBKb2kubnVtYmVyKCkKICAgICAgICAgICAgICAuaW50ZWdlcigpCiAgICAgICAgICAgICAgLmRlc2NyaXB0aW9uKCdUaGUgY29vcGVyYXRpdmUgSUQnKQogICAgICAgICAgICAgIC5leGFtcGxlKDYpCiAgICAgICAgICAgICAgLm5vdGVzKFsKICAgICAgICAgICAgICAgICdZb3UgbXVzdCBiZSBhIG1lbWJlciBvZiB0aGUgcmVxdWVzdGVkIGNvb3BlcmF0aXZlJywKICAgICAgICAgICAgICAgIGBSZXF1aXJlcyB0aGUgc2NvcGUgJHtTSElQUElOR19SQVRFU19XUklURX0uIElmIG5vdCBncmFudGVkLCBpdCB3aWxsIHJldHVybiB0aGUgdXNlcidzIG9yZGVycy5gCiAgICAgICAgICAgICAgXSkKICAgICAgICAgICAgICAucmVxdWlyZWQoKSwKICAgICAgICAgICAgc2hpcHBpbmdfcmFuZ2VzOiBKb2kuYXJyYXkoKQogICAgICAgICAgICAgIC5taW4oMikKICAgICAgICAgICAgICAuaXRlbXMoc2hpcHBpbmdSYW5nZSwgc2hpcHBpbmdSYW5nZVdpdGhvdXRNYXgpCiAgICAgICAgICAgICAgLnJlcXVpcmVkKCk=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC5leGFtcGxlKDUpCg==</text>
+        <text encoding="base64">ICAgIC4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC5leGFtcGxlKDEwKQo=</text>
+        <text encoding="base64">ICAgIC5leGFtcGxlKDUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC5sYWJlbCgnU2hpcHBpbmcgcmFuZ2VzJykK</text>
+        <text encoding="base64">ICAgIC5leGFtcGxlKDEwKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC5leGFtcGxlKGQpCg==</text>
+        <text encoding="base64">ICAgIC5sYWJlbCgnU2hpcHBpbmcgcmFuZ2VzJykK</text>
       </register>
-      <register name="7" type="4">
-        <text>.example([
-      { min: 5, max: 15, price: 10 },
-      { min: 15, max: 20, price: 15 },
-      { min: 20, max: 25, price: 20 },
-      { min: 25, price: 30 }
-    ])</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC5leGFtcGxlKGQpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -519,16 +514,16 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAuZXhhbXBsZSh7fSkK</text>
-      </register>
-      <register name="9" type="4">
-        <text>shipping_ranges: [
+      <register name="8" type="4">
+        <text>.example([
       { min: 5, max: 15, price: 10 },
       { min: 15, max: 20, price: 15 },
       { min: 20, max: 25, price: 20 },
       { min: 25, price: 30 }
-    ]</text>
+    ])</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAuZXhhbXBsZSh7fSkK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Bvc3QvcHV0L2c=</text>
