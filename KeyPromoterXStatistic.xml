@@ -705,6 +705,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Seeds.#factory'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'Seeds.#factory'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Seeds.#generateEntity(&quot;order&quot;).When I create an order with overrides'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
