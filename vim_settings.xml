@@ -34,7 +34,6 @@
         <mark key="^" line="19" column="65" />
         <mark key="." line="19" column="65" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/orders/orders.repository.js" timestamp="1562082736151" />
       <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/shipping-rates/domain/index.js" timestamp="1562087561214">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="13" column="17" />
@@ -121,12 +120,12 @@
         <mark key="^" line="10" column="77" />
         <mark key="." line="10" column="77" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/seeds/seeds.js" timestamp="1562215195754">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="0" column="16" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/seeds/seeds.js" timestamp="1562316576759">
+        <mark key="'" line="7" column="16" />
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="1" column="9" />
+        <mark key="." line="1" column="9" />
+        <mark key="^" line="1" column="15" />
       </file>
       <file name="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/lib/_variables.scss" timestamp="1560845440415">
         <mark key="[" line="28" column="0" />
@@ -141,7 +140,6 @@
         <mark key="." line="8" column="81" />
         <mark key="^" line="8" column="81" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/utils/mysql.adapter.js" timestamp="1562173214575" />
       <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/shipping-rates.integ.test.js" timestamp="1562091416675">
         <mark key="'" line="233" column="17" />
         <mark key="[" line="273" column="44" />
@@ -168,12 +166,12 @@
         <mark key="." line="18" column="34" />
         <mark key="^" line="18" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/seeds.test.js" timestamp="1562163823020">
-        <mark key="'" line="112" column="9" />
-        <mark key="[" line="5" column="9" />
-        <mark key="]" line="5" column="9" />
-        <mark key="." line="5" column="9" />
-        <mark key="^" line="112" column="9" />
+      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/seeds.test.js" timestamp="1562316154189">
+        <mark key="'" line="113" column="9" />
+        <mark key="[" line="111" column="15" />
+        <mark key="]" line="111" column="20" />
+        <mark key="." line="111" column="20" />
+        <mark key="^" line="111" column="20" />
       </file>
       <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/shipping-rates/test/create-shipping-rate.use-case.test.js" timestamp="1562091996788">
         <mark key="'" line="16" column="51" />
@@ -256,7 +254,6 @@
         <mark key="." line="47" column="31" />
         <mark key="^" line="47" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/package.json" timestamp="1562140983730" />
       <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/routes.js" timestamp="1561562167343">
         <mark key="[" line="4" column="75" />
         <mark key="]" line="4" column="73" />
@@ -422,14 +419,14 @@
       <jump line="3" column="0" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/seeds/seeds.js" />
       <jump line="9" column="0" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/seeds/seeds.js" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/seeds/seeds.js" />
-      <jump line="4" column="0" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/seeds/seeds.js" />
       <jump line="14" column="0" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/seeds/seeds.js" />
       <jump line="8" column="0" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/seeds/seeds.js" />
       <jump line="16" column="9" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/seeds/seeds.js" />
       <jump line="24" column="20" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/seeds/seeds.js" />
       <jump line="19" column="27" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/seeds/seeds.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/seeds/seeds.js" />
       <jump line="20" column="0" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/seeds/seeds.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/seeds/seeds.js" />
+      <jump line="5" column="16" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/seeds/seeds.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -438,11 +435,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbmZpZyBmcm9tICcuLi8uLi8uLi9jb25maWcnCmNvbnNvbGUubG9nKGNvbmZpZykK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cmFuZG9tIA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U2VxdWVsaXplQWRhcHRlciA=</text>
+        <text encoding="base64">cmFuZG9tIA==</text>
       </register>
       <register name="/" type="4">
         <text>moment</text>
@@ -451,62 +448,25 @@
         <text encoding="base64">ICAubm90ZXMoYFJlcXVpcmVzIHRoZSBzY29wZSAke1NISVBQSU5HX1JBVEVTX1JFQUR9LmApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbmZpZyBmcm9tICcuLi8uLi8uLi9jb25maWcnCmNvbnNvbGUubG9nKGNvbmZpZykK</text>
+        <text encoding="base64">ICBpZDogZmFjdG9yeS5zZXF1ZW5jZSgpLAogIGNvb3BlcmF0aXZlSWQ6IGZhY3RvcnkuY2hhbmNlKCdib29sJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU2VxdWVsaXplLCBPcCwgTW9kZWwsIFNUUklORywgVElOWUlOVCB9IGZyb20gJ3NlcXVlbGl6ZScK</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2VuZXJhdGVFbnRpdHkgfSBmcm9tICcuL2luZGV4Jwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZmFjdG9yeS5idWlsZCgnU2hpcHBpbmdSYXRlJykK</text>
       </register>
-      <register name="5" type="4">
-        <text>export function call() {
-  class Test extends Model {}
-
-  function createTestModel(sequelize) {
-    Test.init(
-      {
-        title: STRING,
-        rating: { type: TINYINT, defaultValue: 3 }
-      },
-      {
-        sequelize: new Sequelize(),
-        modelName: 'test'
-      }
-    )
-    return Test
-  }
-
-  createTestModel(
-    new Sequelize(config.database, config.user, config.password, {
-      host: config.host,
-      dialect: 'mysql',
-      operatorsAliases: Op,
-      define: {
-        charset: 'utf8',
-        collate: 'utf8_general_ci',
-        timestamps: true
-      },
-      pool: {
-        max: Number(config.poolSize) || 10,
-        min: 0,
-        acquire: 30000,
-        idle: 10000
-      },
-      underscored: true,
-      logging: false
-    })
-  )
-}</text>
+      <register name="5" type="2">
+        <text encoding="base64">ZmFjdG9yeS4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbmZpZyBmcm9tICcuLi8uLi8uLi9jb25maWcnCmNvbnNvbGUubG9nKGNvbmZpZykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZGlhCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgU2VxdWVsaXplLCBPcCwgTW9kZWwsIFNUUklORywgVElOWUlOVCB9IGZyb20gJ3NlcXVlbGl6ZScK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -515,10 +475,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZGlhbGVjdDogLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjbGFzcyBUZXN0IGV4dGVuZHMgTW9kZWwge30K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Bvc3QvcHV0L2c=</text>
