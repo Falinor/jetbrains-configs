@@ -62,7 +62,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>17</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'PartEdge client'">
@@ -433,6 +433,14 @@
           <Count>22</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Integration | API | Shipping rate v1.GET /v1/shipping-rates'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'Integration | API | Shipping rate v1.GET /v1/shipping-rates'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Integration | API | Shipping rate v1.GET /v1/shipping-rates.200 OK'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -710,7 +718,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Seeds.#factory'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Seeds.#generateEntity(&quot;order&quot;).When I create an order with overrides'">
@@ -1057,6 +1065,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'Integration | API | Shipping rate v1.GET /v1/shipping-rates'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Integration | API | Shipping rate v1.GET /v1/shipping-rates'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'Integration | API | Shipping rate v1.GET /v1/shipping-rates.200 OK'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1222,6 +1238,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Seeds'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Seeds.#factory'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Seeds.#factory'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
