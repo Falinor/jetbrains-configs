@@ -62,7 +62,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>18</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'PartEdge client'">
@@ -398,7 +398,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Integration | API | Line items v1.PUT /v1/orders/{order_id}/line_items/{line_item_id}'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Integration | API | Order v1'">
@@ -1041,6 +1041,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'Integration | API | Line items v1.PUT /v1/orders/{order_id}/line_items/{line_item_id}.400 Bad request'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Integration | API | Line items v1.PUT /v1/orders/{order_id}/line_items/{line_item_id}.400 Bad request'</Description>
+          <Count>10</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'Integration | API | Order v1'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1512,6 +1520,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'I18nService'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Integration | API | Line items v1.PUT /v1/orders/{order_id}/line_items/{line_item_id}.400 Bad request'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'Integration | API | Line items v1.PUT /v1/orders/{order_id}/line_items/{line_item_id}.400 Bad request'</Description>
           <Count>3</Count>
         </Item>
       </Statistic>
