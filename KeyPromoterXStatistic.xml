@@ -385,6 +385,14 @@
           <Count>10</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Integration | API | Line items v1.POST /v1/orders/{order_id}/line_items.201 Created'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'Integration | API | Line items v1.POST /v1/orders/{order_id}/line_items.201 Created'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Integration | API | Line items v1.PUT /v1/orders/{order_id}/line_items/{line_item_id}'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
