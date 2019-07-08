@@ -1022,7 +1022,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Integration | API | Line items v1'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Integration | API | Line items v1.POST /v1/orders/{order_id}/line_items.201 Created - create line item'">
@@ -1031,6 +1031,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Integration | API | Line items v1.POST /v1/orders/{order_id}/line_items.201 Created - create line item'</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Integration | API | Line items v1.PUT /v1/orders/{order_id}/line_items/{line_item_id}'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Integration | API | Line items v1.PUT /v1/orders/{order_id}/line_items/{line_item_id}'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Integration | API | Order v1'">
