@@ -62,7 +62,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>21</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'PartEdge client'">
@@ -369,6 +369,14 @@
           <Count>9</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Integration | API | Line items v1.POST /v1/orders/{order_id}/line_items'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'Integration | API | Line items v1.POST /v1/orders/{order_id}/line_items'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Integration | API | Line items v1.POST /v1/orders/{order_id}/line_items.201 Created - create line item'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -431,6 +439,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Integration | API | Order v1.POST /v1/orders.201 Created without line items'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Integration | API | Order v1.PUT /v1/orders/{order_id}/validate'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'Integration | API | Order v1.PUT /v1/orders/{order_id}/validate'</Description>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Integration | API | Shipping rate v1'">
@@ -873,6 +889,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Unit | Serializer | Orders'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'Unit | Serializer | Orders'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'statement'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1079,6 +1103,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Integration | API | Order v1.POST /v1/orders.201 Created without line items'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Integration | API | Order v1.PUT /v1/orders/{order_id}/validate'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Integration | API | Order v1.PUT /v1/orders/{order_id}/validate'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Integration | API | Shipping rate v1'">
