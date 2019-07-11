@@ -414,7 +414,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Integration | API | Order v1'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Integration | API | Order v1.GET /v1/orders'">
@@ -918,7 +918,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Restore Windows</Description>
-          <Count>31</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1001,6 +1001,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'API'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'API'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'BaseMailer'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1078,7 +1086,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Integration | API | Order v1'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Integration | API | Order v1.PATCH /v1/orders/{order_id}'">
@@ -1335,6 +1343,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Unit | Controller | Orders.#addLineItem.The order was found.The line item exists in this order, update its quantity.should respond 201 Created'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Unit | Controller | Payment methods.#index.When the domain emits a ${NOT_FOUND_EVENT} event.should reply 404 NOT_FOUND'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Unit | Controller | Payment methods.#index.When the domain emits a ${NOT_FOUND_EVENT} event.should reply 404 NOT_FOUND'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Unit | Controller | Shipping rate.#create'">
