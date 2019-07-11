@@ -41,10 +41,12 @@
         <mark key="^" line="31" column="8" />
         <mark key="." line="31" column="8" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/payment-methods/payment-methods.routes.js" timestamp="1562839968540">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/payment-methods/payment-methods.routes.js" timestamp="1562856108007">
+        <mark key="'" line="34" column="43" />
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="34" column="43" />
+        <mark key="." line="34" column="43" />
+        <mark key="^" line="34" column="43" />
       </file>
       <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/orders/orders.routes.js" timestamp="1562839918570">
         <mark key="'" line="437" column="4" />
@@ -161,7 +163,7 @@
         <mark key="." line="0" column="8" />
       </file>
       <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/utils/auth0.scheme.js" timestamp="1562770601921" />
-      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/shipping-rates/shipping-rates.routes.js" timestamp="1562767485930" />
+      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/shipping-rates/shipping-rates.routes.js" timestamp="1562856005183" />
       <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/orders.integ.test.js" timestamp="1562839028669">
         <mark key="'" line="392" column="5" />
         <mark key="w" line="335" column="24" />
@@ -174,10 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/shipping-rates/domain/index.js" />
-      <jump line="27" column="18" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/factory.js" />
-      <jump line="75" column="23" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/shipping-rates/shipping-rates.controller.js" />
-      <jump line="234" column="17" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/shipping-rates.integ.test.js" />
       <jump line="15" column="30" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/shipping-rates/shipping-rates.repository.js" />
       <jump line="123" column="9" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/shipping-rates.repository.integ.test.js" />
       <jump line="16" column="51" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/shipping-rates/test/create-shipping-rate.use-case.test.js" />
@@ -274,6 +272,10 @@
       <jump line="150" column="31" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/orders/orders.controller.js" />
       <jump line="15" column="7" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/orders/test/orders.controller.test.js" />
       <jump line="956" column="53" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/orders/test/orders.controller.test.js" />
+      <jump line="28" column="43" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/payment-methods/payment-methods.routes.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/payment-methods/payment-methods.routes.js" />
+      <jump line="46" column="0" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/payment-methods/payment-methods.routes.js" />
+      <jump line="32" column="43" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/payment-methods/payment-methods.routes.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -282,11 +284,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBwYXJhbXMgdmFsaWRhdGlvbgo=</text>
+      <register name="&quot;" type="4">
+        <text>outputShippingRate</text>
       </register>
       <register name="-" type="4">
-        <text>cooperative_account</text>
+        <text>outputShippingRate</text>
       </register>
       <register name="/" type="4">
         <text>validate</text>
