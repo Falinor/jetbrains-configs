@@ -425,6 +425,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Integration | API | Order v1.GET /v1/orders/{id}/payment-methods.200 OK'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'Integration | API | Order v1.GET /v1/orders/{id}/payment-methods.200 OK'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Integration | API | Order v1.PATCH /v1/orders/{order_id}'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
