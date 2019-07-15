@@ -69,12 +69,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/payment-methods/test/list-payment-methods.use-case.test.js" timestamp="1563178671439">
-        <mark key="'" line="88" column="73" />
-        <mark key="[" line="82" column="23" />
-        <mark key="]" line="82" column="23" />
-        <mark key="." line="82" column="23" />
-        <mark key="^" line="82" column="23" />
+      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/payment-methods/test/list-payment-methods.use-case.test.js" timestamp="1563189138361">
+        <mark key="'" line="79" column="30" />
+        <mark key="[" line="120" column="12" />
+        <mark key="]" line="120" column="17" />
+        <mark key="." line="120" column="17" />
+        <mark key="^" line="120" column="17" />
       </file>
       <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/payment-methods/payment-methods.routes.js" timestamp="1562935575084">
         <mark key="'" line="6" column="24" />
@@ -96,12 +96,12 @@
         <mark key="^" line="52" column="62" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/seeds/index.js" timestamp="1563178849869">
-        <mark key="'" line="144" column="10" />
-        <mark key="[" line="1" column="34" />
-        <mark key="]" line="1" column="34" />
-        <mark key="." line="1" column="34" />
-        <mark key="^" line="127" column="26" />
+      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/seeds/index.js" timestamp="1563189028761">
+        <mark key="'" line="149" column="10" />
+        <mark key="[" line="50" column="38" />
+        <mark key="]" line="50" column="65" />
+        <mark key="." line="50" column="65" />
+        <mark key="^" line="50" column="65" />
       </file>
       <file name="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/components/CMainMenu/CMainMenu.html" timestamp="1560845422054">
         <mark key="[" line="19" column="4" />
@@ -246,18 +246,17 @@
         <mark key="^" line="0" column="31" />
         <mark key="." line="0" column="31" />
       </file>
-      <file name="/JavaScript Console" timestamp="1563180623098">
+      <file name="/JavaScript Console" timestamp="1563189083769">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/payment-methods/domain/list-payment-methods.use-case.js" timestamp="1563178253695">
+      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/payment-methods/domain/list-payment-methods.use-case.js" timestamp="1563188912986">
         <mark key="'" line="0" column="18" />
-        <mark key="[" line="49" column="43" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="0" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1562774128012">
         <mark key="[" line="0" column="8" />
@@ -319,7 +318,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="206" column="12" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/orders.integ.test.js" />
       <jump line="184" column="6" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/orders.integ.test.js" />
       <jump line="185" column="6" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/orders.integ.test.js" />
       <jump line="194" column="12" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/orders.integ.test.js" />
@@ -419,6 +417,7 @@
       <jump line="0" column="18" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/payment-methods/domain/list-payment-methods.use-case.js" />
       <jump line="0" column="13" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/orders/statuses.enum.js" />
       <jump line="88" column="73" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/payment-methods/test/list-payment-methods.use-case.test.js" />
+      <jump line="79" column="30" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/payment-methods/test/list-payment-methods.use-case.test.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -427,11 +426,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cGF5bWVudE1ldGhvZEtpbmRzIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIGxldCBvcmRlcnMKCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cGF5bWVudE1ldGhvZEtpbmRzIA==</text>
+        <text encoding="base64">Y29uc3Qg</text>
       </register>
       <register name="/" type="4">
         <text>validate</text>
@@ -440,7 +439,7 @@
         <text encoding="base64">ICAgICAgcGF5bWVudE1ldGhvZDogQXZhaWxhYmxlUGF5bWVudE1ldGhvZHMuQ09PUEVSQVRJVkVfQUNDT1VOVAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBheW1lbnRNZXRob2RLaW5kcwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGxldCBvcmRlcnMKCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -453,22 +452,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cob3JkZXJzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgcGF5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coYWN0dWFsUGF5bWVudE1ldGhvZE5hbWVzKQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIEdlbmVyYXRlIG9uZSBvciBtb3JlIHN0YXR1c2VzIGFuZCBhdHRhY2ggdGhlbSB0byB0aGUgZ2VuZXJhdGVkIG9yZGVyLgogICAgLy8gU3RhdHVzZXMgd2lsbCBoYXZlIGF0bGVhc3QgInBlbmRpbmciIHN0YXR1cyBhbmQgbWF5IGhhdmUgbW9yZSBzdGF0dXNlcy4K</text>
+      <register name="4" type="4">
+        <text encoding="base64">bWV0aG9kcyA9PiB7CiAgICAgICAgICAgICAgcmV0dXJuIG1ldGhvZHMubWFwKG1ldGhvZCA9PiBtZXRob2QubmFtZSkuaW5jbHVkZXMoQXZhaWxhYmxlUGF5bWVudE1ldGhvZHMuQ09PUEVSQVRJVkVfQUNDT1VOVCkKICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcGF5bWVudF9tZXRoZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyhhY3R1YWxQYXltZW50TWV0aG9kcykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByZXR1cm4gZ2VuZXJhdGVkT3JkZXJzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coYWN0dWFsUGF5bWVudE1ldGhvZHMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygnT3JkZXJzJywgZ2VuZXJhdGVkT3JkZXJzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coYWN0dWFsUGF5bWVudE1ldGhvZHMpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -477,10 +476,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygnU3RhdHVzJywgc3RhdHVzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICByZXR1cm4gbWV0aG9kcy5maW5kKG1ldGhvZCA9PiBtZXRob2QubmFtZSA9PT0gQXZhaWxhYmxlUGF5bWVudE1ldGhvZHMuQ09PUEVSQVRJVkVfQUNDT1VOVCkgPT09IHVuZGVmaW5lZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0KGFjdHVhbFBheW1lbnRNZXRob2RzKQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>

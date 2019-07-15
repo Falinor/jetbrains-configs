@@ -62,7 +62,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>25</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'PartEdge client'">
@@ -86,6 +86,14 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'index.html (2)'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'should disallow to pay with cooperative account'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'should disallow to pay with cooperative account'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -918,7 +926,31 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Unit | Use case | ListPaymentMethods'</Description>
-          <Count>19</Count>
+          <Count>42</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Unit | Use case | ListPaymentMethods.When the order belongs to the user.When all the payment methods are authorized'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'Unit | Use case | ListPaymentMethods.When the order belongs to the user.When all the payment methods are authorized'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Unit | Use case | ListPaymentMethods.When the order belongs to the user.When all the payment methods are authorized.When I have 10 000 euros on my cooperative account.When I order for 10001 euros.should disallow to pay with cooperative account'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'Unit | Use case | ListPaymentMethods.When the order belongs to the user.When all the payment methods are authorized.When I have 10 000 euros on my cooperative account.When I order for 10001 euros.should disallow to pay with cooperative account'</Description>
+          <Count>14</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Unit | Use case | ListPaymentMethods.When the order belongs to the user.When all the payment methods are authorized.When I have 10 000 euros on my cooperative account.When I order for 9 000 euros.should allow to pay with cooperative account'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'Unit | Use case | ListPaymentMethods.When the order belongs to the user.When all the payment methods are authorized.When I have 10 000 euros on my cooperative account.When I order for 9 000 euros.should allow to pay with cooperative account'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'statement'">
@@ -1406,7 +1438,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Unit | Use case | ListPaymentMethods'</Description>
-          <Count>1</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'VOrderList.vue'">
