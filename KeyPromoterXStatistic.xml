@@ -62,7 +62,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>35</Count>
+          <Count>36</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'PartEdge client'">
@@ -423,6 +423,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Integration | API | Order payment methods v1'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Integration | API | Order payment methods v1.GET /v1/orders/{id}/payment-methods.200 OK - authorize only SEPA'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'Integration | API | Order payment methods v1.GET /v1/orders/{id}/payment-methods.200 OK - authorize only SEPA'</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Integration | API | Order payment methods v1.GET /v1/orders/{id}/payment-methods.200 OK'">
