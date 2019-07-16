@@ -62,7 +62,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>34</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'PartEdge client'">
@@ -438,7 +438,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Integration | API | Order v1'</Description>
-          <Count>40</Count>
+          <Count>43</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Integration | API | Order v1.GET /v1/orders'">
@@ -543,6 +543,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Integration | Repository | Orders'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Integration | Repository | Orders.#update.Given an ID and a new status'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'Integration | Repository | Orders.#update.Given an ID and a new status'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Integration | Repository | Shipping rate v1'">
@@ -1158,7 +1166,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Integration | API | Order v1'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Integration | API | Order v1.PATCH /v1/orders/{order_id}'">
@@ -1390,6 +1398,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Seeds.#generateEntity(&quot;order&quot;).When I create an order with overrides'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Seeds.#generateEntity(&quot;order&quot;).When I create an unknown entity.should throw a type error'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Seeds.#generateEntity(&quot;order&quot;).When I create an unknown entity.should throw a type error'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
