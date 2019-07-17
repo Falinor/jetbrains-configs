@@ -217,6 +217,12 @@
         <mark key="." line="20" column="4" />
       </file>
       <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/shipping-rates/test/create-shipping-rate.use-case.test.js" timestamp="1562833394916" />
+      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/monitoring.integ.test.js" timestamp="1563353029199">
+        <mark key="[" line="1" column="30" />
+        <mark key="]" line="1" column="29" />
+        <mark key="^" line="1" column="29" />
+        <mark key="." line="1" column="29" />
+      </file>
       <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/orders/test/orders.serializer.test.js" timestamp="1562657439761">
         <mark key="[" line="7" column="45" />
         <mark key="]" line="8" column="31" />
@@ -238,6 +244,13 @@
       </file>
       <file name="internal/fs/utils.js" timestamp="1562588105323">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/logger.integ.test.js" timestamp="1563353064509">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="8" column="12" />
+        <mark key="]" line="8" column="11" />
+        <mark key="." line="8" column="11" />
+        <mark key="^" line="8" column="11" />
       </file>
       <file name="internal/async_hooks.js" timestamp="1562588122618">
         <mark key="[" line="0" column="0" />
@@ -353,7 +366,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="10" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/seeds/index.js" />
       <jump line="6" column="33" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/payment-methods/payment-methods.controller.js" />
       <jump line="13" column="12" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/payment-methods/payment-methods.controller.js" />
       <jump line="24" column="8" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/payment-methods/test/list-payment-methods.use-case.test.js" />
@@ -453,6 +465,7 @@
       <jump line="90" column="9" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/payment-methods/test/list-payment-methods.use-case.test.js" />
       <jump line="196" column="8" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/payment-methods/test/list-payment-methods.use-case.test.js" />
       <jump line="238" column="10" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/payment-methods/test/list-payment-methods.use-case.test.js" />
+      <jump line="25" column="0" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/logger.integ.test.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -461,8 +474,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>healthcheck</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -471,7 +484,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(),</text>
+        <text>healthcheck</text>
       </register>
       <register name="/" type="4">
         <text>findAl</text>
