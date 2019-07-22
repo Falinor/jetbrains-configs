@@ -77,12 +77,12 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/shipping-rates/domain/create-shipping-rate.use-case.js" timestamp="1563471536476">
+      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/shipping-rates/domain/create-shipping-rate.use-case.js" timestamp="1563786109634">
         <mark key="'" line="11" column="18" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="11" column="18" />
-        <mark key="." line="0" column="0" />
+        <mark key="[" line="13" column="37" />
+        <mark key="]" line="13" column="39" />
+        <mark key="^" line="13" column="39" />
+        <mark key="." line="13" column="39" />
       </file>
       <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/payment-methods/test/list-payment-methods.use-case.test.js" timestamp="1563471530838">
         <mark key="'" line="8" column="65" />
@@ -132,12 +132,12 @@
         <mark key="." line="29" column="11" />
         <mark key="^" line="29" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/shipping-rates/shipping-rates.controller.js" timestamp="1563466113928">
+      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/shipping-rates/shipping-rates.controller.js" timestamp="1563786327663">
         <mark key="'" line="48" column="25" />
-        <mark key="[" line="39" column="52" />
-        <mark key="]" line="39" column="63" />
-        <mark key="." line="39" column="63" />
-        <mark key="^" line="39" column="63" />
+        <mark key="[" line="26" column="30" />
+        <mark key="]" line="26" column="33" />
+        <mark key="." line="26" column="33" />
+        <mark key="^" line="26" column="33" />
         <mark key="o" line="47" column="20" />
       </file>
       <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/orders/statuses.enum.js" timestamp="1563175673897">
@@ -222,12 +222,12 @@
         <mark key="^" line="20" column="4" />
         <mark key="." line="20" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/shipping-rates/test/create-shipping-rate.use-case.test.js" timestamp="1563465114323">
-        <mark key="'" line="24" column="37" />
-        <mark key="[" line="104" column="46" />
-        <mark key="]" line="104" column="26" />
-        <mark key="^" line="104" column="26" />
-        <mark key="." line="104" column="26" />
+      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/shipping-rates/test/create-shipping-rate.use-case.test.js" timestamp="1563786742168">
+        <mark key="'" line="120" column="14" />
+        <mark key="[" line="34" column="21" />
+        <mark key="]" line="34" column="23" />
+        <mark key="^" line="34" column="23" />
+        <mark key="." line="34" column="23" />
       </file>
       <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/monitoring.integ.test.js" timestamp="1563353029199">
         <mark key="[" line="1" column="30" />
@@ -347,7 +347,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="8" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/payment-methods/test/list-payment-methods.use-case.test.js" />
       <jump line="3" column="0" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/payment-methods/test/list-payment-methods.use-case.test.js" />
       <jump line="86" column="7" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/payment-methods/test/list-payment-methods.use-case.test.js" />
       <jump line="13" column="21" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/payment-methods/test/list-payment-methods.use-case.test.js" />
@@ -447,6 +446,7 @@
       <jump line="106" column="0" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/payment-methods/test/payment-methods.controller.test.js" />
       <jump line="87" column="8" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/payment-methods/test/payment-methods.controller.test.js" />
       <jump line="7" column="65" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/payment-methods/test/list-payment-methods.use-case.test.js" />
+      <jump line="119" column="14" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/shipping-rates/test/create-shipping-rate.use-case.test.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -455,8 +455,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>[</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -465,7 +465,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>calledWithExactly</text>
+        <text>[</text>
       </register>
       <register name="/" type="4">
         <text>findAl</text>
@@ -477,7 +477,7 @@
         })</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KG5vdENvb3BlcmF0aXZlTWVtYmVyKS50by5oYXZlLmJlZW4uY2FsbGVkV2l0aEV4YWN0bHkoJycpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -490,22 +490,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IFNVQ0NFU1NfRVZFTlQgPSAnc3VjY2VzcycKZXhwb3J0IGNvbnN0IE5PVF9GT1VORF9FVkVOVCA9ICdub3QtZm91bmQnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QocmVwbHkucmVzcG9uc2UpLnRvLmhhdmUuYmVlbi5jYWxsZWRXaXRoRXhhY3RseSh7CiAgICAgICAgfSkK</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IFNVQ0NFU1NfRVZFTlQgPSAnc3VjY2VzcycKZXhwb3J0IGNvbnN0IE5PVF9GT1VORF9FVkVOVCA9ICdub3QtZm91bmQnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvZGU6ICdGT1JCSURERU4nLAogICAgICAgICAgbWVzc2FnZTogb29wcwo=</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3QocmVwbHkucmVzcG9uc2UpLnRvLmhhdmUuYmVlbi5jYWxsZWRXaXRoRXhhY3RseSh7CiAgICAgICAgfSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1lc3NhZ2U6IG9vcHMK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvZGU6ICdGT1JCSURERU4nLAogICAgICAgICAgbWVzc2FnZTogb29wcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QocmVwbHkucmVzcG9uc2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIG1lc3NhZ2U6IG9vcHMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1lc3NhZ2U6IG9vcHMK</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3QocmVwbHkucmVzcG9uc2UpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -514,10 +514,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIG1lc3NhZ2U6IG9vcHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHVzZUNhc2UuZW1pdChPUkRFUl9PV05FUlNISVBfRVJST1IsIHsgbWVzc2FnZTogb29wcyB9KQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
