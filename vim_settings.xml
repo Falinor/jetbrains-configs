@@ -77,8 +77,8 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/payment-methods/test/list-payment-methods.use-case.test.js" timestamp="1563471530838">
-        <mark key="'" line="8" column="65" />
+      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/payment-methods/test/list-payment-methods.use-case.test.js" timestamp="1563804287633">
+        <mark key="'" line="18" column="31" />
         <mark key="[" line="2" column="34" />
         <mark key="]" line="3" column="0" />
         <mark key="^" line="3" column="0" />
@@ -125,11 +125,12 @@
         <mark key="." line="29" column="11" />
         <mark key="^" line="29" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/orders/test/orders.controller.validate.test.js" timestamp="1563787840412">
-        <mark key="'" line="188" column="48" />
-        <mark key="[" line="198" column="53" />
-        <mark key="]" line="206" column="0" />
-        <mark key="." line="206" column="0" />
+      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/orders/test/orders.controller.validate.test.js" timestamp="1563804246420">
+        <mark key="'" line="212" column="16" />
+        <mark key="[" line="197" column="21" />
+        <mark key="]" line="197" column="54" />
+        <mark key="." line="197" column="54" />
+        <mark key="^" line="197" column="54" />
       </file>
       <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/.env.test" timestamp="1563796061936">
         <mark key="[" line="11" column="31" />
@@ -338,8 +339,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="8" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/payment-methods/test/list-payment-methods.use-case.test.js" />
-      <jump line="11" column="9" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/payment-methods/test/list-payment-methods.use-case.test.js" />
       <jump line="31" column="8" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/payment-methods/test/list-payment-methods.use-case.test.js" />
       <jump line="380" column="5" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/orders.integ.test.js" />
       <jump line="371" column="4" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/orders.integ.test.js" />
@@ -438,6 +437,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/shipping-rates/test/create-shipping-rate.use-case.test.js" />
       <jump line="188" column="48" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/orders/test/orders.controller.validate.test.js" />
       <jump line="29" column="5" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/payment-methods/payment-methods.controller.js" />
+      <jump line="212" column="16" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/orders/test/orders.controller.validate.test.js" />
+      <jump line="18" column="31" filename="$USER_HOME$/dev/invivo/marketplace-api-transac/api/payment-methods/test/list-payment-methods.use-case.test.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -447,7 +448,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>log</text>
+        <text>authorized</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -456,7 +457,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>log</text>
+        <text>authorized</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PDw=</text>
