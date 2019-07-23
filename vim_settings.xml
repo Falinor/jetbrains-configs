@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/orders/orders.controller.js" timestamp="1563888902338">
+      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/orders/orders.controller.js" timestamp="1563896630080">
         <mark key="'" line="81" column="31" />
-        <mark key="[" line="355" column="63" />
-        <mark key="]" line="356" column="63" />
-        <mark key="." line="356" column="63" />
-        <mark key="^" line="356" column="63" />
+        <mark key="[" line="265" column="70" />
+        <mark key="]" line="265" column="68" />
+        <mark key="." line="265" column="68" />
+        <mark key="^" line="265" column="68" />
       </file>
       <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/token.test.js" timestamp="1560779462183">
         <mark key="[" line="36" column="34" />
@@ -86,6 +86,12 @@
         <mark key="]" line="98" column="26" />
         <mark key="^" line="98" column="26" />
         <mark key="." line="98" column="26" />
+      </file>
+      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/shipping-methods/shipping-methods.routes.js" timestamp="1563896786187">
+        <mark key="[" line="9" column="7" />
+        <mark key="]" line="9" column="9" />
+        <mark key="^" line="9" column="9" />
+        <mark key="." line="9" column="9" />
       </file>
       <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/payment-methods/test/list-payment-methods.use-case.test.js" timestamp="1563804287633">
         <mark key="'" line="18" column="31" />
@@ -196,6 +202,12 @@
         <mark key="]" line="2" column="41" />
         <mark key="." line="2" column="41" />
         <mark key="^" line="2" column="41" />
+      </file>
+      <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/shipping-methods/test/list-shipping-methods.use-case.test.js" timestamp="1563896487337">
+        <mark key="[" line="123" column="73" />
+        <mark key="]" line="123" column="73" />
+        <mark key="^" line="123" column="73" />
+        <mark key="." line="123" column="73" />
       </file>
       <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/orders.repository.integ.test.js" timestamp="1563806022168">
         <mark key="[" line="64" column="0" />
@@ -430,8 +442,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgYWxsb3dOdWxsOiBmYWxzZSwK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">OiA=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -440,7 +452,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">OiA=</text>
       </register>
       <register name="/" type="4">
         <text>validate</text>
@@ -449,7 +461,7 @@
         <text encoding="base64">ICAgIHRvdGFsX3ByaWNlLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYWxsb3dOdWxsOiBmYWxzZSwK</text>
+        <text encoding="base64">ICAgICAgICAgIHRvdGFsV2VpZ2h0OiBsaW5lSXRlbS50b3RhbF93ZWlnaHQK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -462,22 +474,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHdlaWdodDogbGluZUl0ZW0ud2VpZ2h0CiAgICAgICAgfSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAoCg==</text>
+        <text encoding="base64">ICAgICAgICBsaW5lSXRlbS50b3RhbF93ZWlnaHQgPSBjb21wdXRlTGluZUl0ZW1Ub3RhbFdlaWdodCh7CiAgICAgICAgICBxdWFudGl0eTogbGluZUl0ZW0ucXVhbnRpdHksCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgdG90YWxXZWlnaHQgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgIHRvdGFsX3dlaWdodDogY29tcHV0ZU9yZGVyVG90YWxXZWlnaHQob3JkZXIubGluZV9pdGVtcykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRvdGFsV2VpZ2h0OiBsaW5lSXRlbS50b3RhbF93ZWlnaHQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYm9keSkK</text>
+        <text encoding="base64">ICAgICAgICB3ZWlnaHQ6IGxpbmVJdGVtLnVuaXRfd2VpZ2h0CiAgICAgIH0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRvdGFsUHJpY2U6IGxpbmVJdGVtLnRvdGFsX3ByaWNlLAo=</text>
+        <text encoding="base64">ICAgICAgbGluZUl0ZW0udG90YWxfd2VpZ2h0ID0gY29tcHV0ZUxpbmVJdGVtVG90YWxXZWlnaHQoewogICAgICAgIHF1YW50aXR5OiBsaW5lSXRlbS5xdWFudGl0eSwK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -486,13 +498,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IHF1ZXJ5SW50ZXJmYWNlLnJlbW92ZUNvbHVtbignbGluZV9pdGVtcycsICdzaGlwcGluZ19lbmRfZGF0ZScpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcXVhbnRpdHk6IHBheWxvYWQucXVhbnRpdHkKICAgICAgICAgIH0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdHlwZTogU2VxdWVsaXplLkRBVEUKICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRvdGFsX3dlaWdodDogY29tcHV0ZUxpbmVJdGVtVG90YWxXZWlnaHQoewogICAgICAgICAgICB3ZWlnaHQsCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -546,8 +558,8 @@
         <entry encoding="base64">JzwsJz5zL0ZMT0FUL1NlcXVlbGl6ZS5GTE9BVC9n</entry>
         <entry encoding="base64">JzwsJz5zL3Bvc3QvcHV0L2c=</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
