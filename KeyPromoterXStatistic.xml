@@ -462,7 +462,15 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Integration | API | Order shipping methods v1.GET /v1/orders/{id}/shipping-methods.Authorized'</Description>
-          <Count>7</Count>
+          <Count>27</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Integration | API | Order shipping methods v1.GET /v1/orders/{id}/shipping-methods.Authorized.responds with the shipping methods'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'Integration | API | Order shipping methods v1.GET /v1/orders/{id}/shipping-methods.Authorized.responds with the shipping methods'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Integration | API | Order v1'">
@@ -814,7 +822,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Rerun Failed Tests'</Description>
-          <Count>13</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Seeds'">
@@ -1023,6 +1031,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Unit | Use case | ListShippingMethods'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Unit | Use case | ListShippingMethods.When the order belongs to the user.When the cooperative has the shipping addresses'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'Unit | Use case | ListShippingMethods.When the order belongs to the user.When the cooperative has the shipping addresses'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'statement'">
@@ -1238,7 +1254,23 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Integration | API | Order shipping methods v1'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Integration | API | Order shipping methods v1.GET /v1/orders/{id}/shipping-methods.Authorized'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Integration | API | Order shipping methods v1.GET /v1/orders/{id}/shipping-methods.Authorized'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Integration | API | Order shipping methods v1.GET /v1/orders/{id}/shipping-methods.Authorized.responds with the shipping methods'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Integration | API | Order shipping methods v1.GET /v1/orders/{id}/shipping-methods.Authorized.responds with the shipping methods'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Integration | API | Order v1'">
@@ -1470,7 +1502,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Rerun Failed Tests'</Description>
-          <Count>3</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Seeds'">
@@ -1574,6 +1606,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Unit | Use case | ListPaymentMethods.When the order belongs to the user.When all the payment methods are authorized.When I have 10 000 euros on my cooperative account.When aSdjkklasjdlhave a pending for 8001 euros'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Unit | Use case | ListShippingMethods.When the order belongs to the user.When the cooperative has the shipping addresses'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Unit | Use case | ListShippingMethods.When the order belongs to the user.When the cooperative has the shipping addresses'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
