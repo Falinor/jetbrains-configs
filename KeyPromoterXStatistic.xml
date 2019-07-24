@@ -62,7 +62,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>38</Count>
+          <Count>46</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'PartEdge client'">
@@ -999,6 +999,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Unit | Use case | ListPaymentMethods.When the order belongs to the user.When all the payment methods are authorized.When I have 10 000 euros on my cooperative account.When I order for 9 000 euros.should allow to pay with cooperative account'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Unit | Use case | ListShippingMethods'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'Unit | Use case | ListShippingMethods'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'statement'">
