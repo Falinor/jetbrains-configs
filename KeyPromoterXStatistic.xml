@@ -537,6 +537,14 @@
           <Count>10</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Integration | API | Order v1.PUT /v1/orders/{order_id}/validate.should save shipping address method and respond with 200 OK'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'Integration | API | Order v1.PUT /v1/orders/{order_id}/validate.should save shipping address method and respond with 200 OK'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Integration | API | Shipping rate v1'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
