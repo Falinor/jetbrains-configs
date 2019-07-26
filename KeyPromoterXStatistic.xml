@@ -265,6 +265,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Remove from Project View">
+        <Item>
+          <IdeaActionID>$Delete</IdeaActionID>
+          <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
+          <Description>Remove from Project View</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rename...">
         <Item>
           <IdeaActionID>RenameElement</IdeaActionID>
