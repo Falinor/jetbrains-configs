@@ -4,25 +4,25 @@
     <extensionMap>
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern=".env.test" type="PLAIN_TEXT" />
-      <mapping pattern="TODO" type="PLAIN_TEXT" />
-      <mapping pattern=".env.local" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="cross-env" type="PLAIN_TEXT" />
-      <mapping pattern=".env.example" type="PLAIN_TEXT" />
-      <mapping pattern="OperationControllerIntegrationTest" type="PLAIN_TEXT" />
-      <mapping pattern=".nycrc" type="PLAIN_TEXT" />
-      <mapping pattern="instrument-select.ts" type="PLAIN_TEXT" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="floor" type="PLAIN_TEXT" />
       <mapping pattern="photo1" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern=".env.docker" type="PLAIN_TEXT" />
       <mapping pattern="v2" type="PLAIN_TEXT" />
-      <mapping pattern="Caddyfile" type="PLAIN_TEXT" />
-      <mapping pattern="README" type="PLAIN_TEXT" />
-      <mapping pattern="Procfile" type="PLAIN_TEXT" />
-      <mapping pattern="project" type="PLAIN_TEXT" />
       <mapping pattern="META-INF" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern=".env.docker" type="PLAIN_TEXT" />
+      <mapping pattern="instrument-select.ts" type="PLAIN_TEXT" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern=".env.test" type="PLAIN_TEXT" />
+      <mapping pattern=".nycrc" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="OperationControllerIntegrationTest" type="PLAIN_TEXT" />
+      <mapping pattern="TODO" type="PLAIN_TEXT" />
+      <mapping pattern="Caddyfile" type="PLAIN_TEXT" />
+      <mapping pattern="project" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping ext="bf" type="PLAIN_TEXT" />
       <mapping ext="info" type="PLAIN_TEXT" />
       <mapping ext="testjs" type="PLAIN_TEXT" />
