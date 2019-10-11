@@ -15,11 +15,11 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/Dev/team-counter/src/components/Counter.vue" timestamp="1570815052288">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
+      <file name="$USER_HOME$/Dev/team-counter/src/components/Counter.vue" timestamp="1570815681260">
+        <mark key="[" line="3" column="68" />
+        <mark key="]" line="3" column="68" />
         <mark key="^" line="27" column="7" />
-        <mark key="." line="27" column="0" />
+        <mark key="." line="3" column="68" />
       </file>
       <file name="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/views/VOrderList/tests/VOrderList.spec.js" timestamp="1561367596781">
         <mark key="'" line="2" column="22" />
@@ -122,6 +122,11 @@
         <mark key="." line="91" column="16" />
         <mark key="^" line="91" column="16" />
       </file>
+      <file name="$USER_HOME$/Dev/team-counter/src/store.js" timestamp="1570815760691">
+        <mark key="[" line="24" column="30" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/scopes.test.js" timestamp="1560776408810">
         <mark key="'" line="0" column="15" />
         <mark key="[" line="2" column="36" />
@@ -213,10 +218,10 @@
     <jumps />
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgPz8K</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGVhbSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>new Map()</text>
+        <text>{ id, points }</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">Pj4+</text>
@@ -225,25 +230,25 @@
         <text encoding="base64">amVzdC5tb2NrKCdAL3NlcnZpY2VzL29yZGVyLnNlcnZpY2UnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPz8K</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGVhbSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgPz8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBtZXRob2RzOiB7CiAgICAK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bmV3IE9yZGVyU2VydmljZSgpCg==</text>
+        <text encoding="base64">ICBtZXRob2RzOiB7CiAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gamVzdC5tb2NrKCdAL3NlcnZpY2VzJykK</text>
+        <text encoding="base64">bmV3IE9yZGVyU2VydmljZSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gamVzdC5tb2NrKCdheGlvcycpCg==</text>
+        <text encoding="base64">Ly8gamVzdC5tb2NrKCdAL3NlcnZpY2VzJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdDQUxMRUQnKWRkCg==</text>
+        <text encoding="base64">Ly8gamVzdC5tb2NrKCdheGlvcycpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -252,10 +257,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gamVzdC5tb2NrKCdheGlvcycpCi8vIGplc3QubW9jaygnQC9zZXJ2aWNlcycpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdDQUxMRUQnKWRkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">Ly8gamVzdC5tb2NrKCdheGlvcycpCi8vIGplc3QubW9jaygnQC9zZXJ2aWNlcycpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
