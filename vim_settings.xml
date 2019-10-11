@@ -15,11 +15,11 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/Dev/team-counter/src/components/Counter.vue" timestamp="1570815681260">
-        <mark key="[" line="3" column="68" />
-        <mark key="]" line="3" column="68" />
-        <mark key="^" line="27" column="7" />
-        <mark key="." line="3" column="68" />
+      <file name="$USER_HOME$/Dev/team-counter/src/components/Counter.vue" timestamp="1570818541197">
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="2" column="34" />
+        <mark key="^" line="2" column="34" />
+        <mark key="." line="2" column="34" />
       </file>
       <file name="$USER_HOME$/dev/invivo/docker-compose/marketplace-front-sellers/src/views/VOrderList/tests/VOrderList.spec.js" timestamp="1561367596781">
         <mark key="'" line="2" column="22" />
@@ -70,6 +70,12 @@
         <mark key="]" line="19" column="0" />
         <mark key="^" line="19" column="13" />
         <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/team-counter/public/index.html" timestamp="1570818811302">
+        <mark key="[" line="6" column="55" />
+        <mark key="]" line="7" column="26" />
+        <mark key="^" line="7" column="26" />
+        <mark key="." line="7" column="72" />
       </file>
       <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/api/test/token.test.js" timestamp="1560779462183">
         <mark key="[" line="36" column="34" />
@@ -122,8 +128,9 @@
         <mark key="." line="91" column="16" />
         <mark key="^" line="91" column="16" />
       </file>
-      <file name="$USER_HOME$/Dev/team-counter/src/store.js" timestamp="1570815760691">
-        <mark key="[" line="24" column="30" />
+      <file name="$USER_HOME$/Dev/team-counter/src/store.js" timestamp="1570818573070">
+        <mark key="'" line="33" column="60" />
+        <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
@@ -158,6 +165,14 @@
         <mark key="[" line="217" column="0" />
         <mark key="]" line="217" column="0" />
         <mark key="." line="217" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/team-counter/src/App.vue" timestamp="1570818117903">
+        <mark key="'" line="26" column="6" />
+        <mark key="k" line="16" column="0" />
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="4" column="12" />
+        <mark key="." line="4" column="12" />
+        <mark key="^" line="4" column="12" />
       </file>
       <file name="$USER_HOME$/dev/invivo/marketplace-api-transac/ansible/group_vars/all/vars.yml" timestamp="1560946189772">
         <mark key="[" line="15" column="0" />
@@ -215,40 +230,44 @@
         <mark key="." line="14" column="44" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="26" column="6" filename="$USER_HOME$/Dev/team-counter/src/App.vue" />
+      <jump line="27" column="34" filename="$USER_HOME$/Dev/team-counter/src/store.js" />
+      <jump line="33" column="60" filename="$USER_HOME$/Dev/team-counter/src/store.js" />
+    </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGVhbSk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGVhbSkK</text>
       </register>
       <register name="-" type="4">
-        <text>{ id, points }</text>
+        <text>index</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">Pj4+</text>
+        <text encoding="base64">XDxwb2ludHNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">amVzdC5tb2NrKCdAL3NlcnZpY2VzL29yZGVyLnNlcnZpY2UnKQo=</text>
+        <text encoding="base64">ICAgICAgICBWdWUuc2V0KHN0YXRlLnRlYW1zLCBpbmRleCwgeyAuLi50ZWFtLCBwb2ludHM6IHRlYW0ucG9pbnRzICsgMSB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGVhbSk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGVhbSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPz8K</text>
+        <text encoding="base64">ICAgICAgICBWdWUuc2V0KHN0YXRlLnRlYW1zLCBpbmRleCwgeyAuLi50ZWFtLCBwb2ludHM6IHRlYW0ucG9pbnRzICsgMSB9KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB0ZWFtLnBvaW50cyAtPSAxOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBtZXRob2RzOiB7CiAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzdGF0ZS50ZWFtc1tpbmRleF0gPSB7IC4uLnRlYW0sIHBvaW50czogdGVhbS5wb2ludHMgKyAxIH07Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bmV3IE9yZGVyU2VydmljZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBWdWUuc2V0KHN0YXRlLnRlYW1zLCBpbmRleCwgeyAuLi50ZWFtLCBwb2ludHM6IHRlYW0ucG9pbnRzICsgMSB9KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gamVzdC5tb2NrKCdAL3NlcnZpY2VzJykK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGVhbSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gamVzdC5tb2NrKCdheGlvcycpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzdGF0ZS50ZWFtcykK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -257,28 +276,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdDQUxMRUQnKWRkCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaW5kZXgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gamVzdC5tb2NrKCdheGlvcycpCi8vIGplc3QubW9jaygnQC9zZXJ2aWNlcycpCg==</text>
+        <text encoding="base64">ICAgICAgICBzdGF0ZS50ZWFtc1tpbmRleF0gPSB7IC4uLnRlYW0sIHBvaW50czogdGVhbS5wb2ludHMgKyAxIH07Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">Pj4+</last-search>
+      <last-search encoding="base64">XDxwb2ludHNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">Pj4+</last-pattern>
+      <last-pattern encoding="base64">XDxwb2ludHNcPg==</last-pattern>
       <last-replace>match</last-replace>
       <last-substitute>sinon.match</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjdXJyZW50VXNlclw+</entry>
-        <entry>allow</entry>
         <entry>allowUnk</entry>
         <entry>item</entry>
         <entry>api</entry>
@@ -297,6 +314,8 @@
         <entry>sinon</entry>
         <entry>expect</entry>
         <entry encoding="base64">Pj4+</entry>
+        <entry encoding="base64">XDx0ZWFtXD4=</entry>
+        <entry encoding="base64">XDxwb2ludHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3RydWUvZmxhZ1R5cGUvZw==</entry>
