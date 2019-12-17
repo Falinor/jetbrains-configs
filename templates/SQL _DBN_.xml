@@ -1,0 +1,8 @@
+<templateSet group="SQL (DBN)">
+  <template name="ins:s" value="insert into $TABLE$ ($COLUMNS1$) select $COLUMNS2$ from $TABLE$ where ($END$);" description="INSERT INTO dataset SELECT" toReformat="true" toShortenFQNames="false">
+    <variable name="TABLE" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <variable name="COLUMNS1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="COLUMNS1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>
