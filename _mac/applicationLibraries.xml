@@ -16,5 +16,16 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="adyen" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_checkoutshopper-live.adyen.com_checkoutshopper_sdk_3.6.0_adyen.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_checkoutshopper-live.adyen.com_checkoutshopper_sdk_3.6.0_adyen.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
   </component>
 </application>
