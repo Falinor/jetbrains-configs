@@ -164,11 +164,6 @@
       <file name="/" timestamp="1587730845214">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/vue-route-generator/tsconfig.json" timestamp="1587719544911">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/vue-route-generator/src/index.ts" timestamp="1587743426756">
         <mark key="'" line="25" column="27" />
         <mark key="[" line="46" column="43" />
@@ -188,11 +183,15 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="19" />
       </file>
+      <file name="$USER_HOME$/dev/vue-route-generator/README.md" timestamp="1587846171346">
+        <mark key="'" line="39" column="10" />
+        <mark key="[" line="109" column="12" />
+        <mark key="]" line="109" column="18" />
+        <mark key="^" line="109" column="18" />
+        <mark key="." line="109" column="17" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/dev/invivo/dev-portal/src/assets/guides/routes.ts" />
-      <jump line="11" column="20" filename="$USER_HOME$/dev/invivo/dev-portal/markdown-auto-routing-plugin/markdown-auto-routing-plugin.js" />
-      <jump line="0" column="30" filename="$USER_HOME$/dev/invivo/dev-portal/markdown-auto-routing-plugin/route-generator.js" />
       <jump line="1" column="2" filename="$USER_HOME$/dev/invivo/dev-portal/markdown-auto-routing-plugin/route-generator.js" />
       <jump line="16" column="10" filename="$USER_HOME$/dev/invivo/dev-portal/src/services/markdown-loader.ts" />
       <jump line="45" column="0" filename="$USER_HOME$/dev/invivo/dev-portal/src/services/markdown-loader.ts" />
@@ -290,6 +289,9 @@
       <jump line="36" column="2" filename="$USER_HOME$/dev/vue-route-generator/test/__snapshots__/route-template.spec.ts.snap" />
       <jump line="31" column="41" filename="$USER_HOME$/dev/vue-auto-routing/test/webpack-plugin.spec.ts" />
       <jump line="190" column="0" filename="$USER_HOME$/dev/vue-auto-routing/test/webpack-plugin.spec.ts" />
+      <jump line="41" column="2" filename="$USER_HOME$/dev/vue-route-generator/README.md" />
+      <jump line="49" column="8" filename="$USER_HOME$/dev/vue-route-generator/README.md" />
+      <jump line="39" column="10" filename="$USER_HOME$/dev/vue-route-generator/README.md" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -303,7 +305,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>o</text>
+        <text>index</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -319,7 +321,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>index</text>
       </register>
       <register name="/" type="4">
         <text>pages</text>
@@ -328,37 +330,37 @@
         <text encoding="base64">ICAgICAgICBhd2FpdCB3cmFwcGVyLnZtLiRuZXh0VGljaygpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwYXRoLmpvaW4oJ2ZpeHR1cmVzL2Fzc2V0cycsIHApKQo=</text>
+        <text encoding="base64">PC90ZW1wbGF0ZT4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8cm91dGUtbWV0YT4KICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAicmVxdWlyZXNBdXRoIjogdHJ1ZQogICAgICAgICAgICAgIH0KICAgICAgICAgICAgICA8L3JvdXRlLW1ldGE+</text>
+        <text encoding="base64">PHRlbXBsYXRlPgogIDxoMT5IZWxsbzwvaDE+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8cm91dGUtbWV0YT4KICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAicmVxdWlyZXNBdXRoIjogdHJ1ZSwKICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgPC9yb3V0ZS1tZXRhPg==</text>
+        <text encoding="base64">cm91dGUtbWV0YT4KewogICJyZXF1aXJlc0F1dGgiOiB0cnVlCn0KPC9yb3V0ZS1tZXRhPg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ewogICAgICAgICAgICBuYW1lOiAndXNlcnMtaWQnLAogICAgICAgICAgICBwYXRoOiAnOmlkJywKICAgICAgICAgICAgY29tcG9uZW50OiAoKSA9PiBpbXBvcnQoJ0AvYXNzZXRzL2d1aWRlcy9mb28ubWQnKQogICAgICAgICAgfQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CmV4cG9ydHNbYFJvdXRlIHRlbXBsYXRlIHNob3VsZCBnZW5lcmF0ZSBzdGF0aWMgaW1wb3J0IGNvZGUgMWBdID0gYAoiaW1wb3J0IEZvbyBmcm9tICdAL2Fzc2V0cy9mb28ubWQnCmltcG9ydCBCYXIgZnJvbSAnQC9hc3NldHMvYmFyLm1kJwoKZXhwb3J0IGRlZmF1bHQgWwogIHsKICAgIG5hbWU6ICdmb28nLAogICAgcGF0aDogJy9mb28nLAogICAgY29tcG9uZW50OiBGb28KICB9LAogIHsKICAgIG5hbWU6ICdiYXInLAogICAgcGF0aDogJy9iYXInLAogICAgY29tcG9uZW50OiBCYXIKICB9Cl0KIgpgOw==</text>
+        <text encoding="base64">ICAgICAgICBjaGlsZHJlbjogWwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">XQo=</text>
+        <text encoding="base64">ICAgIHJlZGlyZWN0OiAnL2d1aWRlcycK</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CiAgICAgIGNoaWxkcmVuOiBbCiAgICAgICAgewogICAgICAgICAgdmFsdWU6IHsKICAgICAgICAgICAgbmFtZTogJ2Zvby1pbmRleCcsCiAgICAgICAgICAgIHNwZWNpZmllcjogJ0Zvb0luZGV4JywKICAgICAgICAgICAgcGF0aDogJycsCiAgICAgICAgICAgIHBhdGhTZWdtZW50czogWydmb28nXSwKICAgICAgICAgICAgY29tcG9uZW50OiAnQC9wYWdlcy9mb28vaW5kZXgubWQnCiAgICAgICAgICB9CiAgICAgICAgfQogICAgICBd</text>
+        <text encoding="base64">ewogICAgbmFtZTogJ3VzZXJzJywKICAgIHBhdGg6ICcvdXNlcnMnLAogICAgY29tcG9uZW50OiAoKSA9PiBpbXBvcnQoJ0AvcGFnZXMvdXNlcnMudnVlJyksCiAgICBjaGlsZHJlbjogWwogICAgICB7CiAgICAgICAgbmFtZTogJ3VzZXJzLWlkJywKICAgICAgICBwYXRoOiAnOmlkJywKICAgICAgICBjb21wb25lbnQ6ICgpID0+IGltcG9ydCgnQC9wYWdlcy91c2Vycy9faWQudnVlJykKICAgICAgfQogICAgXQogIH0=</text>
       </register>
       <register name="w" type="4">
         <text>www</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBvbmVudDogKCkgPT4gaW1wb3J0KCdAL2Fzc2V0cy9ndWlkZXMvJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmV4cG9ydHNbYFJvdXRlIHRlbXBsYXRlIHNob3VsZCBnZW5lcmF0ZSByb3V0ZSBtZXRhIDFgXSA9IGAKImltcG9ydCBGb28gZnJvbSAnQC9hc3NldHMvZm9vLm1kJwoKZXhwb3J0IGRlZmF1bHQgWwogIHsKICAgIG5hbWU6ICdmb28nLAogICAgcGF0aDogJy9mb28nLAogICAgY29tcG9uZW50OiBGb28sCiAgICBtZXRhOiB7CiAgICAgIHRpdGxlOiAnSGVsbG8nCiAgICB9CiAgfQpdCiIKYDs=</text>
+        <text encoding="base64">CmNvbnNvbGUubG9nKGNvZGUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
