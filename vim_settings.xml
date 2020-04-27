@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>token</entry>
         <entry>\/v2\/orders</entry>
         <entry>this.</entry>
         <entry>const</entry>
@@ -27,6 +26,7 @@
         <entry>props</entry>
         <entry encoding="base64">XDwiXD4=</entry>
         <entry>pages</entry>
+        <entry encoding="base64">XDx2YWx1ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLykvIC9n</entry>
@@ -79,12 +79,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/invivo/dev-portal/vue.config.js" timestamp="1587997036235">
+      <file name="$USER_HOME$/dev/invivo/dev-portal/vue.config.js" timestamp="1588000493731">
         <mark key="'" line="37" column="0" />
-        <mark key="[" line="35" column="45" />
-        <mark key="]" line="36" column="40" />
-        <mark key="^" line="36" column="40" />
-        <mark key="." line="36" column="39" />
+        <mark key="[" line="55" column="12" />
+        <mark key="]" line="46" column="0" />
+        <mark key="^" line="45" column="35" />
+        <mark key="." line="46" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1588001813150">
+        <mark key="[" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/dev/invivo/dev-portal/node_modules/vue-markdown-routing/index.js" timestamp="1587997249554" />
       <file name="$USER_HOME$/dev/invivo/dev-portal/src/assets/code-samples/update-order.md" timestamp="1587997828791">
@@ -100,32 +103,53 @@
         <mark key="^" line="71" column="26" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/dev-portal/src/presenters/PTree/PNode.vue" timestamp="1587992061369" />
-      <file name="$USER_HOME$/dev/invivo/dev-portal/src/views/VMainLayout/VMainLayout.vue" timestamp="1587992379654" />
-      <file name="$USER_HOME$/dev/invivo/dev-portal/src/presenters/PMarkdown/PMarkdown.vue" timestamp="1587995677452" />
+      <file name="$USER_HOME$/dev/vue-auto-routing/test/__snapshots__/webpack-plugin.spec.ts.snap" timestamp="1588003986432" />
+      <file name="$USER_HOME$/dev/invivo/dev-portal/src/presenters/PTree/PNode.vue" timestamp="1588002172175">
+        <mark key="'" line="25" column="7" />
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="9" />
+        <mark key="^" line="0" column="9" />
+        <mark key="." line="0" column="8" />
+      </file>
       <file name="$USER_HOME$/dev/invivo/dev-portal/src/assets/code-samples/list-orders.md" timestamp="1587997825653">
         <mark key="[" line="4" column="7" />
         <mark key="]" line="4" column="7" />
         <mark key="." line="4" column="6" />
         <mark key="^" line="4" column="7" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/dev-portal/node_modules/vue-markdown-routing/index.d.ts" timestamp="1587992179808">
-        <mark key="[" line="9" column="33" />
-        <mark key="]" line="9" column="33" />
-        <mark key="." line="9" column="33" />
+      <file name="$USER_HOME$/dev/invivo/dev-portal/src/presenters/PTree/PNode.ts" timestamp="1588001811187">
+        <mark key="[" line="16" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/dev-portal/node_modules/markdown-it/lib/index.js" timestamp="1587994243213" />
-      <file name="$USER_HOME$/dev/invivo/dev-portal/src/router/guides.ts" timestamp="1587992904839">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/dev/vue-auto-routing/README.md" timestamp="1588005001375">
+        <mark key="[" line="42" column="8" />
+        <mark key="]" line="42" column="10" />
+        <mark key="." line="42" column="9" />
+        <mark key="^" line="42" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/dev-portal/node_modules/@vue/cli-service/webpack.config.js" timestamp="1587993884298" />
+      <file name="$USER_HOME$/dev/invivo/dev-portal/src/router/guides.ts" timestamp="1588004509112">
+        <mark key="'" line="4" column="9" />
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="7" column="18" />
+        <mark key="." line="7" column="18" />
+        <mark key="^" line="7" column="19" />
+      </file>
+      <file name="$USER_HOME$/dev/invivo/dev-portal/src/assets/guides/test.md" timestamp="1587999996282">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="3" />
+        <mark key="^" line="0" column="3" />
+        <mark key="." line="0" column="2" />
+      </file>
       <file name="$USER_HOME$/dev/invivo/dev-portal/src/presenters/PMarkdown/PMarkdown.ts" timestamp="1587995745725">
         <mark key="[" line="12" column="60" />
         <mark key="]" line="12" column="60" />
         <mark key="." line="12" column="60" />
+      </file>
+      <file name="$USER_HOME$/dev/vue-route-generator/test/tree.spec.ts" timestamp="1588006017842">
+        <mark key="'" line="135" column="12" />
+        <mark key="[" line="138" column="53" />
+        <mark key="]" line="138" column="49" />
+        <mark key="^" line="138" column="49" />
+        <mark key="." line="138" column="48" />
       </file>
       <file name="$USER_HOME$/dev/invivo/dev-portal/src/assets/guides/introduction.md" timestamp="1587997075172">
         <mark key="[" line="4" column="2" />
@@ -140,25 +164,26 @@
         <mark key="." line="0" column="6" />
       </file>
       <file name="$USER_HOME$/dev/invivo/dev-portal/node_modules/vue-router/types/router.d.ts" timestamp="1587997201457" />
-      <file name="$USER_HOME$/dev/invivo/dev-portal/src/router/index.ts" timestamp="1587992376549">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/dev/vue-route-generator/src/tree.ts" timestamp="1588006211909">
+        <mark key="k" line="51" column="0" />
+        <mark key="[" line="53" column="2" />
+        <mark key="]" line="53" column="18" />
+        <mark key="." line="53" column="17" />
+        <mark key="^" line="53" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/dev-portal/src/views/VGuides/VGuides.vue" timestamp="1587995647504" />
-      <file name="$USER_HOME$/dev/invivo/dev-portal/package.json" timestamp="1587996761376">
-        <mark key="[" line="55" column="27" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/dev/invivo/dev-portal/src/lib/_variables.scss" timestamp="1588000280948">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/invivo/dev-portal/package.json" timestamp="1588000459140">
+        <mark key="[" line="50" column="4" />
+        <mark key="]" line="53" column="34" />
+        <mark key="." line="50" column="4" />
+        <mark key="^" line="50" column="4" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/dev/invivo/dev-portal/src/presenters/PTree/tree.ts" />
-      <jump line="10" column="18" filename="$USER_HOME$/dev/invivo/dev-portal/src/components/CSidebar/CSidebar.ts" />
-      <jump line="1" column="9" filename="$USER_HOME$/dev/invivo/dev-portal/src/presenters/PTree/PTree.vue" />
-      <jump line="2" column="61" filename="$USER_HOME$/dev/invivo/dev-portal/src/presenters/PTree/PTree.vue" />
-      <jump line="13" column="0" filename="$USER_HOME$/dev/invivo/dev-portal/src/services/markdown-loader.ts" />
-      <jump line="13" column="37" filename="$USER_HOME$/dev/invivo/dev-portal/src/router/index.ts" />
       <jump line="24" column="23" filename="$USER_HOME$/dev/invivo/dev-portal/src/router/index.ts" />
       <jump line="30" column="55" filename="$USER_HOME$/dev/invivo/dev-portal/src/components/CSidebar/CSidebar.spec.ts" />
       <jump line="39" column="0" filename="$USER_HOME$/dev/invivo/dev-portal/src/components/CSidebar/CSidebar.spec.ts" />
@@ -217,7 +242,6 @@
       <jump line="20" column="7" filename="$USER_HOME$/dev/vue-route-generator/test/__snapshots__/resolve.spec.ts.snap" />
       <jump line="67" column="4" filename="$USER_HOME$/dev/vue-route-generator/test/__snapshots__/resolve.spec.ts.snap" />
       <jump line="1" column="30" filename="$USER_HOME$/dev/vue-route-generator/src/template/routes.ts" />
-      <jump line="0" column="12" filename="$USER_HOME$/dev/vue-route-generator/src/tree.ts" />
       <jump line="3" column="20" filename="$USER_HOME$/dev/vue-route-generator/tsconfig.json" />
       <jump line="90" column="2" filename="$USER_HOME$/dev/vue-route-generator/test/__snapshots__/route-template.spec.ts.snap" />
       <jump line="37" column="0" filename="$USER_HOME$/dev/vue-route-generator/test/route-template.spec.ts" />
@@ -253,6 +277,13 @@
       <jump line="40" column="23" filename="$USER_HOME$/dev/vue-route-generator/src/index.ts" />
       <jump line="12" column="1" filename="$USER_HOME$/dev/invivo/dev-portal/src/router/guides.ts" />
       <jump line="35" column="0" filename="$USER_HOME$/dev/invivo/dev-portal/vue.config.js" />
+      <jump line="4" column="9" filename="$USER_HOME$/dev/invivo/dev-portal/src/router/guides.ts" />
+      <jump line="25" column="7" filename="$USER_HOME$/dev/invivo/dev-portal/src/presenters/PTree/PNode.vue" />
+      <jump line="69" column="29" filename="$USER_HOME$/dev/vue-route-generator/test/tree.spec.ts" />
+      <jump line="136" column="10" filename="$USER_HOME$/dev/vue-route-generator/test/tree.spec.ts" />
+      <jump line="135" column="12" filename="$USER_HOME$/dev/vue-route-generator/test/tree.spec.ts" />
+      <jump line="54" column="0" filename="$USER_HOME$/dev/vue-route-generator/src/tree.ts" />
+      <jump line="0" column="12" filename="$USER_HOME$/dev/vue-route-generator/src/tree.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -265,8 +296,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHNvdXJjZSkK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -282,46 +313,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGF0YSA=</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
-        <text>pages</text>
+        <text encoding="base64">XDx2YWx1ZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcGF0aC5yZXNvbHZlKF9fZGlybmFtZSwgJ2ZpeHR1cmVzJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgeyB2YWx1ZTogMiB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHNvdXJjZSkK</text>
+        <text encoding="base64">ICBpZiAodHJlZS5jaGlsZHJlbikK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiBzb3VyY2UK</text>
+        <text encoding="base64">aW1wb3J0IHNvcnRCeSBmcm9tICdsb2Rhc2guc29ydGJ5JwoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIGRvIGFueSB0aGluZwo=</text>
+        <text encoding="base64">ICB0cmVlLmNoaWxkcmVuID0gc29ydEJ5PFQ+KHRyZWUuY2hpbGRyZW4sIGZuKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmF3OiB0cnVlCg==</text>
+        <text encoding="base64">ICB0cmVlPy5jaGlsZHJlbi5zb3J0KGZuKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB1c2U6IFtyZXF1aXJlKCdtYXJrZG93bi1pdC1wcmlzbScpXQo=</text>
+        <text encoding="base64">ICB0cmVlLmNoaWxkcmVuLnNvbWUoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBicmVha3M6IHRydWUsCg==</text>
+        <text encoding="base64">ICB9KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmVzZXQ6ICdkZWZhdWx0JywK</text>
+        <text encoding="base64">ICByZXR1cm4gbWFwKHRyZWUsIChub2RlOiBULCBjaGlsZHJlbj86IFRyZWU8VD5bXSkgPT4gewogICAgcmV0dXJuIG5vZGUK</text>
       </register>
       <register name="w" type="4">
         <text>www</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNoaWxkcmVuPy5zb3J0KGZuKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LQo=</text>
+        <text encoding="base64">ICAgIGNoaWxkcmVuID0gc29ydEJ5KGNoaWxkcmVuLCBmbikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -330,9 +361,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>pages</last-search>
+      <last-search encoding="base64">XDx2YWx1ZVw+</last-search>
       <last-offset />
-      <last-pattern>pages</last-pattern>
+      <last-pattern encoding="base64">XDx2YWx1ZVw+</last-pattern>
       <last-replace>assets</last-replace>
       <last-substitute>pages</last-substitute>
       <last-dir>-1</last-dir>
