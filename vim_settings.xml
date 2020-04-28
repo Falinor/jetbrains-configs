@@ -96,13 +96,6 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/vue-route-generator/src/template/routes.ts" timestamp="1587997243670">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="71" column="26" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/vue-auto-routing/test/__snapshots__/webpack-plugin.spec.ts.snap" timestamp="1588003986432" />
       <file name="$USER_HOME$/dev/invivo/dev-portal/src/presenters/PTree/PNode.vue" timestamp="1588002172175">
         <mark key="'" line="25" column="7" />
@@ -110,6 +103,12 @@
         <mark key="]" line="0" column="9" />
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="8" />
+      </file>
+      <file name="$USER_HOME$/dev/vue-auto-routing/package.json" timestamp="1588062649407">
+        <mark key="[" line="24" column="46" />
+        <mark key="]" line="24" column="54" />
+        <mark key="^" line="24" column="54" />
+        <mark key="." line="24" column="53" />
       </file>
       <file name="$USER_HOME$/dev/invivo/dev-portal/src/assets/code-samples/list-orders.md" timestamp="1587997825653">
         <mark key="[" line="4" column="7" />
@@ -120,11 +119,11 @@
       <file name="$USER_HOME$/dev/invivo/dev-portal/src/presenters/PTree/PNode.ts" timestamp="1588001811187">
         <mark key="[" line="16" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/vue-auto-routing/README.md" timestamp="1588007038057">
-        <mark key="[" line="53" column="50" />
-        <mark key="]" line="53" column="58" />
-        <mark key="." line="53" column="57" />
-        <mark key="^" line="53" column="58" />
+      <file name="$USER_HOME$/dev/vue-auto-routing/README.md" timestamp="1588062770069">
+        <mark key="[" line="67" column="40" />
+        <mark key="]" line="67" column="17" />
+        <mark key="^" line="67" column="17" />
+        <mark key="." line="67" column="16" />
       </file>
       <file name="$USER_HOME$/dev/invivo/dev-portal/src/router/guides.ts" timestamp="1588004509112">
         <mark key="'" line="4" column="9" />
@@ -303,7 +302,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>auto</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -319,7 +318,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>auto</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWx1ZVw+</text>
@@ -328,37 +327,37 @@
         <text encoding="base64">ICAgICAgICBwYXRoLnJlc29sdmUoX19kaXJuYW1lLCAnc3JjJywgJ2Fzc2V0cycsICdndWlkZXMnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IC8vIFlvdXIgbWFya2Rvd24gYXNzZXQgZGlyZWN0b3JpZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">WW91IG1heSB3YW50IHRvIHVzZSBbdnVlLW1hcmtkb3duLXJvdXRpbmddKGh0dHBzOi8vZ2l0aHViLmNvbS9GYWxpbm9yL3Z1ZS1tYXJrZG93bi1yb3V0aW5nKSBnZW5lcmF0aW5nIHJvdXRpbmcuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LSBbdnVlLXJvdXRlci1sYXlvdXRdKGh0dHBzOi8vZ2l0aHViLmNvbS9rdHNuL3Z1ZS1yb3V0ZXItbGF5b3V0KTogTGlnaHR3ZWlnaHQgbGF5b3V0IHJlc29sdmVyIGZvciBWdWUgUm91dGVyLgo=</text>
+        <text encoding="base64">dnVlLW1kLWF1dG8tcm91dGluZyByZXNvbHZlcyBWdWUgUm91dGVyIHJvdXRpbmcgYXV0b21hdGljYWxseSBieSB1c2luZyBbdnVlLXJvdXRlLWdlbmVyYXRvcl0oaHR0cHM6Ly9naXRodWIuY29tL2t0c24vdnVlLXJvdXRlLWdlbmVyYXRvcikuClRoZSByb3V0ZXMgYXJlIGdlbmVyYXRlZCB3aXRoIHRoZSBzYW1lIHJ1bGVzIHdpdGggW051eHQgcm91dGluZ10oaHR0cHM6Ly9udXh0anMub3JnL2d1aWRlL3JvdXRpbmcpLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LSBbdnVlLWNsaS1wbHVnaW4tYXV0by1yb3V0aW5nXShodHRwczovL2dpdGh1Yi5jb20va3Rzbi92dWUtY2xpLXBsdWdpbi1hdXRvLXJvdXRpbmcpOiBWdWUgQ0xJIHBsdWdpbiBpbmNsdWRpbmcgYXV0byBwYWdlcyBhbmQgbGF5b3V0cyByZXNvbHV0aW9uLgo=</text>
+        <text encoding="base64">CllvdSBtYXkgd2FudCB0byB1c2UgW3Z1ZS1jbGktcGx1Z2luLWF1dG8tcm91dGluZ10oaHR0cHM6Ly9naXRodWIuY29tL2t0c24vdnVlLWNsaS1wbHVnaW4tYXV0by1yb3V0aW5nKSB3aGljaCBpbmNsdWRlcyBhbGwgdXNlZnVsIGZlYXR1cmVzIG9uIHJvdXRpbmcuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">IC8vIFlvdXIgbWFya2Rvd24gYXNzZXQgZGlyZWN0b3JpZXMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgIGNvbXBvbmVudDogKCkgPT4gaW1wb3J0KCdAL2Fzc2V0cy9ndWlkZXMvZm9vLm1kJykK</text>
+        <text encoding="base64">WW91IG1heSB3YW50IHRvIHVzZSBbdnVlLW1hcmtkb3duLXJvdXRpbmddKGh0dHBzOi8vZ2l0aHViLmNvbS9GYWxpbm9yL3Z1ZS1tYXJrZG93bi1yb3V0aW5nKSBnZW5lcmF0aW5nIHJvdXRpbmcuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBuYW1lOiAnZ3VpZGVzLWZvbycsCiAgICAgICAgcGF0aDogJ2ZvbycsCg==</text>
+        <text encoding="base64">LSBbdnVlLXJvdXRlci1sYXlvdXRdKGh0dHBzOi8vZ2l0aHViLmNvbS9rdHNuL3Z1ZS1yb3V0ZXItbGF5b3V0KTogTGlnaHR3ZWlnaHQgbGF5b3V0IHJlc29sdmVyIGZvciBWdWUgUm91dGVyLgo=</text>
       </register>
       <register name="w" type="4">
         <text>www</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Rm9yIGV4YW1wbGUsIGlmIGBpbmRleC52dWVgIGhhcyB0aGUgZm9sbG93aW5nIGA8cm91dGUtbWV0YT5gIGJsb2NrOgo=</text>
+        <text encoding="base64">LSBbdnVlLWNsaS1wbHVnaW4tYXV0by1yb3V0aW5nXShodHRwczovL2dpdGh1Yi5jb20va3Rzbi92dWUtY2xpLXBsdWdpbi1hdXRvLXJvdXRpbmcpOiBWdWUgQ0xJIHBsdWdpbiBpbmNsdWRpbmcgYXV0byBwYWdlcyBhbmQgbGF5b3V0cyByZXNvbHV0aW9uLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
