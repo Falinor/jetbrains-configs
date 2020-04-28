@@ -102,7 +102,7 @@
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="8" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/api-transac/api/orders/v2/templates/farmer.validation.mail.html" timestamp="1588084210433" />
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/orders/v2/templates/farmer.validation.mail.html" timestamp="1588086106084" />
       <file name="/farmer.validation.mail.html" timestamp="1588082335712" />
       <file name="$USER_HOME$/dev/vue-route-generator/test/tree.spec.ts" timestamp="1588006017842">
         <mark key="'" line="135" column="12" />
@@ -111,11 +111,12 @@
         <mark key="^" line="138" column="49" />
         <mark key="." line="138" column="48" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/api-transac/api/orders/v2/order.mailer.js" timestamp="1588080321087">
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/orders/v2/order.mailer.js" timestamp="1588086152335">
         <mark key="'" line="36" column="4" />
-        <mark key="[" line="158" column="0" />
-        <mark key="]" line="158" column="0" />
-        <mark key="." line="158" column="0" />
+        <mark key="[" line="158" column="84" />
+        <mark key="]" line="158" column="83" />
+        <mark key="." line="158" column="82" />
+        <mark key="^" line="158" column="83" />
       </file>
       <file name="$USER_HOME$/dev/invivo/dev-portal/src/views/VArticleLayout/VArticleLayout.vue" timestamp="1588063533036">
         <mark key="[" line="11" column="23" />
@@ -129,11 +130,11 @@
         <mark key="^" line="24" column="54" />
         <mark key="." line="24" column="53" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/api-transac/api/orders/v2/test/order.mailer.test.js" timestamp="1588080301010">
-        <mark key="[" line="489" column="59" />
-        <mark key="]" line="489" column="59" />
-        <mark key="^" line="489" column="59" />
-        <mark key="." line="489" column="58" />
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/orders/v2/test/order.mailer.test.js" timestamp="1588086125309">
+        <mark key="[" line="489" column="32" />
+        <mark key="]" line="489" column="43" />
+        <mark key="^" line="489" column="43" />
+        <mark key="." line="489" column="42" />
       </file>
       <file name="$USER_HOME$/dev/invivo/dev-portal/README.md" timestamp="1588061005526">
         <mark key="'" line="10" column="60" />
@@ -295,7 +296,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjdXN0b21lcl9zdXBwb3J0X25vX3NwYWNlc19waG9uZV9ubzogY29vcGVyYXRpdmUuY3VzdG9tZXJfc3VwcG9ydF9waG9uZV9uby5yZXBsYWNlKC9ccy9nLCAnJykK</text>
+        <text encoding="base64">ICAgICAgICAgIDogJycK</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -311,7 +312,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>noSpacesPhoneNumber</text>
+        <text>match</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWx1ZVw+</text>
@@ -320,28 +321,28 @@
         <text encoding="base64">ICAgICAgICBwYXRoLnJlc29sdmUoX19kaXJuYW1lLCAnc3JjJywgJ2Fzc2V0cycsICdndWlkZXMnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjdXN0b21lcl9zdXBwb3J0X25vX3NwYWNlc19waG9uZV9ubzogY29vcGVyYXRpdmUuY3VzdG9tZXJfc3VwcG9ydF9waG9uZV9uby5yZXBsYWNlKC9ccy9nLCAnJykK</text>
+        <text encoding="base64">ICAgICAgICAgIDogJycK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgbGV0IHRlbXBsYXRlCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBjdXN0b21lcl9zdXBwb3J0X25vX3NwYWNlc19waG9uZV9ubzogY29vcGVyYXRpdmUuY3VzdG9tZXJfc3VwcG9ydF9waG9uZV9uby5yZXBsYWNlKC9ccy9nLCAnJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgfSkgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgbGV0IHRlbXBsYXRlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgYmVmb3JlKCgpID0+IHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgfSkgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgZXhwZWN0KHRlbXBsYXRlKS4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgYmVmb3JlKCgpID0+IHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uZmlnLnZhbGlkYQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgZXhwZWN0KHRlbXBsYXRlKS4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uZmlnLnZhbGlkYQo=</text>
       </register>
       <register name="w" type="4">
         <text>www</text>
@@ -350,7 +351,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dnVlLW1kLWF1dG8tcm91dGluZyByZXNvbHZlcyBWdWUgUm91dGVyIHJvdXRpbmcgYXV0b21hdGljYWxseSBieSB1c2luZyBbdnVlLXJvdXRlLWdlbmVyYXRvcl0oaHR0cHM6Ly9naXRodWIuY29tL2t0c24vdnVlLXJvdXRlLWdlbmVyYXRvcikuClRoZSByb3V0ZXMgYXJlIGdlbmVyYXRlZCB3aXRoIHRoZSBzYW1lIHJ1bGVzIHdpdGggW051eHQgcm91dGluZ10oaHR0cHM6Ly9udXh0anMub3JnL2d1aWRlL3JvdXRpbmcpLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
