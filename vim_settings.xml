@@ -102,7 +102,7 @@
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="8" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/api-transac/api/orders/v2/templates/farmer.validation.mail.html" timestamp="1588066036485" />
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/orders/v2/templates/farmer.validation.mail.html" timestamp="1588079387368" />
       <file name="/a.dummy" timestamp="1588001813150">
         <mark key="[" line="0" column="1" />
       </file>
@@ -113,12 +113,11 @@
         <mark key="^" line="138" column="49" />
         <mark key="." line="138" column="48" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/api-transac/api/orders/v2/order.mailer.js" timestamp="1588075354052">
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/orders/v2/order.mailer.js" timestamp="1588080321087">
         <mark key="'" line="36" column="4" />
-        <mark key="[" line="157" column="23" />
-        <mark key="]" line="158" column="101" />
-        <mark key="^" line="158" column="101" />
-        <mark key="." line="158" column="100" />
+        <mark key="[" line="158" column="0" />
+        <mark key="]" line="158" column="0" />
+        <mark key="." line="158" column="0" />
       </file>
       <file name="$USER_HOME$/dev/invivo/dev-portal/src/views/VArticleLayout/VArticleLayout.vue" timestamp="1588063533036">
         <mark key="[" line="11" column="23" />
@@ -132,15 +131,18 @@
         <mark key="^" line="24" column="54" />
         <mark key="." line="24" column="53" />
       </file>
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/orders/v2/test/order.mailer.test.js" timestamp="1588080301010">
+        <mark key="[" line="489" column="59" />
+        <mark key="]" line="489" column="59" />
+        <mark key="^" line="489" column="59" />
+        <mark key="." line="489" column="58" />
+      </file>
       <file name="$USER_HOME$/dev/invivo/dev-portal/README.md" timestamp="1588061005526">
         <mark key="'" line="10" column="60" />
         <mark key="[" line="43" column="61" />
         <mark key="]" line="10" column="61" />
         <mark key="." line="10" column="60" />
         <mark key="^" line="10" column="61" />
-      </file>
-      <file name="$USER_HOME$/dev/invivo/dev-portal/src/presenters/PTree/PNode.ts" timestamp="1588001811187">
-        <mark key="[" line="16" column="3" />
       </file>
       <file name="$USER_HOME$/dev/vue-auto-routing/README.md" timestamp="1588062770069">
         <mark key="[" line="67" column="40" />
@@ -160,11 +162,7 @@
         <mark key="." line="9" column="26" />
         <mark key="^" line="9" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/dev-portal/package.json" timestamp="1588000459140">
-        <mark key="[" line="49" column="4" />
-        <mark key="." line="49" column="4" />
-        <mark key="^" line="49" column="4" />
-      </file>
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/test/seeds/user.js" timestamp="1588079424385" />
       <file name="$USER_HOME$/dev/vue-route-generator/package.json" timestamp="1588007054911">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="2" column="19" />
@@ -299,7 +297,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uZmlnLnZhbGlkYQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBjdXN0b21lcl9zdXBwb3J0X25vX3NwYWNlc19waG9uZV9ubzogY29vcGVyYXRpdmUuY3VzdG9tZXJfc3VwcG9ydF9waG9uZV9uby5yZXBsYWNlKC9ccy9nLCAnJykK</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -315,7 +313,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>noSpacesPhoneNumber</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWx1ZVw+</text>
@@ -324,37 +322,37 @@
         <text encoding="base64">ICAgICAgICBwYXRoLnJlc29sdmUoX19kaXJuYW1lLCAnc3JjJywgJ2Fzc2V0cycsICdndWlkZXMnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uZmlnLnZhbGlkYQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBjdXN0b21lcl9zdXBwb3J0X25vX3NwYWNlc19waG9uZV9ubzogY29vcGVyYXRpdmUuY3VzdG9tZXJfc3VwcG9ydF9waG9uZV9uby5yZXBsYWNlKC9ccy9nLCAnJykK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgbGV0IHRlbXBsYXRlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgfSkgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dnVlLW1kLWF1dG8tcm91dGluZyByZXNvbHZlcyBWdWUgUm91dGVyIHJvdXRpbmcgYXV0b21hdGljYWxseSBieSB1c2luZyBbdnVlLXJvdXRlLWdlbmVyYXRvcl0oaHR0cHM6Ly9naXRodWIuY29tL2t0c24vdnVlLXJvdXRlLWdlbmVyYXRvcikuClRoZSByb3V0ZXMgYXJlIGdlbmVyYXRlZCB3aXRoIHRoZSBzYW1lIHJ1bGVzIHdpdGggW051eHQgcm91dGluZ10oaHR0cHM6Ly9udXh0anMub3JnL2d1aWRlL3JvdXRpbmcpLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgYmVmb3JlKCgpID0+IHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CllvdSBtYXkgd2FudCB0byB1c2UgW3Z1ZS1jbGktcGx1Z2luLWF1dG8tcm91dGluZ10oaHR0cHM6Ly9naXRodWIuY29tL2t0c24vdnVlLWNsaS1wbHVnaW4tYXV0by1yb3V0aW5nKSB3aGljaCBpbmNsdWRlcyBhbGwgdXNlZnVsIGZlYXR1cmVzIG9uIHJvdXRpbmcuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgZXhwZWN0KHRlbXBsYXRlKS4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IC8vIFlvdXIgbWFya2Rvd24gYXNzZXQgZGlyZWN0b3JpZXMK</text>
+        <text encoding="base64">Y29uZmlnLnZhbGlkYQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">WW91IG1heSB3YW50IHRvIHVzZSBbdnVlLW1hcmtkb3duLXJvdXRpbmddKGh0dHBzOi8vZ2l0aHViLmNvbS9GYWxpbm9yL3Z1ZS1tYXJrZG93bi1yb3V0aW5nKSBnZW5lcmF0aW5nIHJvdXRpbmcuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>www</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LSBbdnVlLXJvdXRlci1sYXlvdXRdKGh0dHBzOi8vZ2l0aHViLmNvbS9rdHNuL3Z1ZS1yb3V0ZXItbGF5b3V0KTogTGlnaHR3ZWlnaHQgbGF5b3V0IHJlc29sdmVyIGZvciBWdWUgUm91dGVyLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LSBbdnVlLWNsaS1wbHVnaW4tYXV0by1yb3V0aW5nXShodHRwczovL2dpdGh1Yi5jb20va3Rzbi92dWUtY2xpLXBsdWdpbi1hdXRvLXJvdXRpbmcpOiBWdWUgQ0xJIHBsdWdpbiBpbmNsdWRpbmcgYXV0byBwYWdlcyBhbmQgbGF5b3V0cyByZXNvbHV0aW9uLgo=</text>
+        <text encoding="base64">dnVlLW1kLWF1dG8tcm91dGluZyByZXNvbHZlcyBWdWUgUm91dGVyIHJvdXRpbmcgYXV0b21hdGljYWxseSBieSB1c2luZyBbdnVlLXJvdXRlLWdlbmVyYXRvcl0oaHR0cHM6Ly9naXRodWIuY29tL2t0c24vdnVlLXJvdXRlLWdlbmVyYXRvcikuClRoZSByb3V0ZXMgYXJlIGdlbmVyYXRlZCB3aXRoIHRoZSBzYW1lIHJ1bGVzIHdpdGggW051eHQgcm91dGluZ10oaHR0cHM6Ly9udXh0anMub3JnL2d1aWRlL3JvdXRpbmcpLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
