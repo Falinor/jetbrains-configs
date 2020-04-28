@@ -145,6 +145,13 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="19" />
       </file>
+      <file name="$USER_HOME$/dev/vue-route-generator/README.md" timestamp="1588062093296">
+        <mark key="'" line="38" column="10" />
+        <mark key="[" line="64" column="46" />
+        <mark key="]" line="64" column="47" />
+        <mark key="." line="64" column="46" />
+        <mark key="^" line="64" column="47" />
+      </file>
       <file name="$USER_HOME$/dev/vue-route-generator/test/tree.spec.ts" timestamp="1588006017842">
         <mark key="'" line="135" column="12" />
         <mark key="[" line="138" column="53" />
@@ -152,19 +159,12 @@
         <mark key="^" line="138" column="49" />
         <mark key="." line="138" column="48" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/dev-portal/src/assets/guides/introduction.md" timestamp="1587997075172">
-        <mark key="[" line="4" column="2" />
-        <mark key="]" line="4" column="14" />
-        <mark key="^" line="4" column="14" />
-        <mark key="." line="4" column="13" />
-      </file>
       <file name="$USER_HOME$/dev/invivo/dev-portal/src/assets/code-samples/cancel-order.md" timestamp="1587997822086">
         <mark key="[" line="0" column="7" />
         <mark key="]" line="0" column="7" />
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/dev-portal/node_modules/vue-router/types/router.d.ts" timestamp="1587997201457" />
       <file name="$USER_HOME$/dev/vue-route-generator/src/tree.ts" timestamp="1588007151530">
         <mark key="k" line="51" column="0" />
         <mark key="[" line="54" column="0" />
@@ -176,6 +176,13 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/invivo/dev-portal/README.md" timestamp="1588061005526">
+        <mark key="'" line="10" column="60" />
+        <mark key="[" line="43" column="61" />
+        <mark key="]" line="10" column="61" />
+        <mark key="." line="10" column="60" />
+        <mark key="^" line="10" column="61" />
+      </file>
       <file name="$USER_HOME$/dev/invivo/dev-portal/package.json" timestamp="1588000459140">
         <mark key="[" line="49" column="4" />
         <mark key="." line="49" column="4" />
@@ -183,8 +190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="23" filename="$USER_HOME$/dev/invivo/dev-portal/src/router/index.ts" />
-      <jump line="30" column="55" filename="$USER_HOME$/dev/invivo/dev-portal/src/components/CSidebar/CSidebar.spec.ts" />
       <jump line="39" column="0" filename="$USER_HOME$/dev/invivo/dev-portal/src/components/CSidebar/CSidebar.spec.ts" />
       <jump line="16" column="63" filename="$USER_HOME$/dev/invivo/dev-portal/src/components/CSidebar/CSidebar.ts" />
       <jump line="5" column="0" filename="$USER_HOME$/dev/invivo/dev-portal/src/components/CSidebar/CSidebar.spec.ts" />
@@ -283,6 +288,8 @@
       <jump line="135" column="12" filename="$USER_HOME$/dev/vue-route-generator/test/tree.spec.ts" />
       <jump line="54" column="0" filename="$USER_HOME$/dev/vue-route-generator/src/tree.ts" />
       <jump line="0" column="12" filename="$USER_HOME$/dev/vue-route-generator/src/tree.ts" />
+      <jump line="31" column="0" filename="$USER_HOME$/dev/invivo/dev-portal/README.md" />
+      <jump line="10" column="60" filename="$USER_HOME$/dev/invivo/dev-portal/README.md" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -295,8 +302,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh0cmVlLmNoaWxkcmVuKQo=</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -312,7 +319,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>guides</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWx1ZVw+</text>
@@ -321,37 +328,37 @@
         <text encoding="base64">ICAgICAgICBwYXRoLnJlc29sdmUoX19kaXJuYW1lLCAnc3JjJywgJ2Fzc2V0cycsICdndWlkZXMnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh0cmVlLmNoaWxkcmVuKQo=</text>
+        <text encoding="base64">IC8vIFlvdXIgbWFya2Rvd24gYXNzZXQgZGlyZWN0b3JpZXMK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">WW91IG1heSB3YW50IHRvIHVzZSBbdnVlLW1hcmtkb3duLXJvdXRpbmddKGh0dHBzOi8vZ2l0aHViLmNvbS9GYWxpbm9yL3Z1ZS1tYXJrZG93bi1yb3V0aW5nKSBnZW5lcmF0aW5nIHJvdXRpbmcuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KiBbdnVlLXJvdXRlci1sYXlvdXRdKGh0dHBzOi8vZ2l0aHViLmNvbS9rdHNuL3Z1ZS1yb3V0ZXItbGF5b3V0KTogTGlnaHR3ZWlnaHQgbGF5b3V0IHJlc29sdmVyIGZvciBWdWUgUm91dGVyLgo=</text>
+        <text encoding="base64">LSBbdnVlLXJvdXRlci1sYXlvdXRdKGh0dHBzOi8vZ2l0aHViLmNvbS9rdHNuL3Z1ZS1yb3V0ZXItbGF5b3V0KTogTGlnaHR3ZWlnaHQgbGF5b3V0IHJlc29sdmVyIGZvciBWdWUgUm91dGVyLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">KiBbdnVlLWNsaS1wbHVnaW4tYXV0by1yb3V0aW5nXShodHRwczovL2dpdGh1Yi5jb20va3Rzbi92dWUtY2xpLXBsdWdpbi1hdXRvLXJvdXRpbmcpOiBWdWUgQ0xJIHBsdWdpbiBpbmNsdWRpbmcgYXV0byBwYWdlcyBhbmQgbGF5b3V0cyByZXNvbHV0aW9uLgo=</text>
+        <text encoding="base64">LSBbdnVlLWNsaS1wbHVnaW4tYXV0by1yb3V0aW5nXShodHRwczovL2dpdGh1Yi5jb20va3Rzbi92dWUtY2xpLXBsdWdpbi1hdXRvLXJvdXRpbmcpOiBWdWUgQ0xJIHBsdWdpbiBpbmNsdWRpbmcgYXV0byBwYWdlcyBhbmQgbGF5b3V0cyByZXNvbHV0aW9uLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpZiAodHJlZS5jaGlsZHJlbikK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHNvcnRCeSBmcm9tICdsb2Rhc2guc29ydGJ5JwoK</text>
+        <text encoding="base64">ICAgICAgewogICAgICAgIGNvbXBvbmVudDogKCkgPT4gaW1wb3J0KCdAL2Fzc2V0cy9ndWlkZXMvZm9vLm1kJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0cmVlLmNoaWxkcmVuID0gc29ydEJ5PFQ+KHRyZWUuY2hpbGRyZW4sIGZuKQo=</text>
+        <text encoding="base64">ICAgICAgICBuYW1lOiAnZ3VpZGVzLWZvbycsCiAgICAgICAgcGF0aDogJ2ZvbycsCg==</text>
       </register>
       <register name="w" type="4">
         <text>www</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB0cmVlPy5jaGlsZHJlbi5zb3J0KGZuKQo=</text>
+        <text encoding="base64">Rm9yIGV4YW1wbGUsIGlmIGBpbmRleC52dWVgIGhhcyB0aGUgZm9sbG93aW5nIGA8cm91dGUtbWV0YT5gIGJsb2NrOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB0cmVlLmNoaWxkcmVuLnNvbWUoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
