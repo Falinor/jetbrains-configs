@@ -268,7 +268,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgbGlzdHNEb21haW4sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -293,41 +293,41 @@
         <text encoding="base64">ICAgICAgICBwYXRoLnJlc29sdmUoX19kaXJuYW1lLCAnc3JjJywgJ2Fzc2V0cycsICdndWlkZXMnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgbGlzdHNEb21haW4sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgbGlzdHNEb21haW4sCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>this.logUseCase('create-checkout', {
       membershipNumber: user.profiles[0].membership_number,
       checkout: body,
       request
     })</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIHJldHVybiByZXBseQogICAgICAucmVzcG9uc2UoYm9keSkKICAgICAgLmNvZGUoY29kZSkKICAgICAgLmxvY2F0aW9uKGxvY2F0aW9uKQo=</text>
-      </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIENyZWF0ZSBjaGVja291dAogICAgY29uc3QgeyBib2R5LCBjb2RlLCBsb2NhdGlvbiB9ID0gYXdhaXQgdGhpcy5pbnNlcnRDaGVja291dChjYXJ0LCB1cFRvRGF0ZUNhcnRPZmZlcnMpCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIHJldHVybiByZXBseQogICAgICAucmVzcG9uc2UoYm9keSkKICAgICAgLmNvZGUoY29kZSkKICAgICAgLmxvY2F0aW9uKGxvY2F0aW9uKQo=</text>
       </register>
       <register name="w" type="4">
         <text>www</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDogJycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjdXN0b21lcl9zdXBwb3J0X25vX3NwYWNlc19waG9uZV9ubzogY29vcGVyYXRpdmUuY3VzdG9tZXJfc3VwcG9ydF9waG9uZV9uby5yZXBsYWNlKC9ccy9nLCAnJykK</text>
+        <text encoding="base64">ICAgIC8vIENyZWF0ZSBjaGVja291dAogICAgY29uc3QgeyBib2R5LCBjb2RlLCBsb2NhdGlvbiB9ID0gYXdhaXQgdGhpcy5pbnNlcnRDaGVja291dChjYXJ0LCB1cFRvRGF0ZUNhcnRPZmZlcnMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
