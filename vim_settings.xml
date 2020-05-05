@@ -95,6 +95,13 @@
         <mark key="^" line="45" column="35" />
         <mark key="." line="46" column="0" />
       </file>
+      <file name="/carts.controller.js" timestamp="1588670087221" />
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/carts/carts.controller.js" timestamp="1588670083405">
+        <mark key="[" line="226" column="3" />
+        <mark key="]" line="207" column="6" />
+        <mark key="^" line="203" column="4" />
+        <mark key="." line="203" column="4" />
+      </file>
       <file name="$USER_HOME$/dev/invivo/api-transac/api/orders/v2/order.mailer.js" timestamp="1588087741944">
         <mark key="'" line="36" column="4" />
         <mark key="[" line="158" column="17" />
@@ -108,6 +115,11 @@
         <mark key="^" line="11" column="25" />
         <mark key="." line="11" column="24" />
       </file>
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/checkouts/test/checkouts.controller.test.js" timestamp="1588672673697">
+        <mark key="[" line="138" column="17" />
+        <mark key="]" line="139" column="0" />
+        <mark key="." line="139" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/vue-auto-routing/package.json" timestamp="1588062649407">
         <mark key="[" line="24" column="46" />
         <mark key="]" line="24" column="54" />
@@ -119,13 +131,6 @@
         <mark key="]" line="489" column="43" />
         <mark key="^" line="489" column="43" />
         <mark key="." line="489" column="42" />
-      </file>
-      <file name="$USER_HOME$/dev/invivo/dev-portal/README.md" timestamp="1588061005526">
-        <mark key="'" line="10" column="60" />
-        <mark key="[" line="43" column="61" />
-        <mark key="]" line="10" column="61" />
-        <mark key="." line="10" column="60" />
-        <mark key="^" line="10" column="61" />
       </file>
       <file name="/" timestamp="1588602557681">
         <mark key="[" line="0" column="0" />
@@ -147,19 +152,6 @@
         <mark key="]" line="9" column="27" />
         <mark key="." line="9" column="26" />
         <mark key="^" line="9" column="27" />
-      </file>
-      <file name="$USER_HOME$/dev/vue-route-generator/README.md" timestamp="1588062093296">
-        <mark key="'" line="38" column="10" />
-        <mark key="[" line="64" column="46" />
-        <mark key="]" line="64" column="47" />
-        <mark key="." line="64" column="46" />
-        <mark key="^" line="64" column="47" />
-      </file>
-      <file name="$USER_HOME$/dev/vue-route-generator/src/tree.ts" timestamp="1588007151530">
-        <mark key="k" line="51" column="0" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -275,8 +267,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">JiYg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgbGlzdHNEb21haW4sCg==</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -292,7 +284,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JiYg</text>
+        <text encoding="base64">ICAgICAgICAgICAg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWx1ZVw+</text>
@@ -301,37 +293,41 @@
         <text encoding="base64">ICAgICAgICBwYXRoLnJlc29sdmUoX19kaXJuYW1lLCAnc3JjJywgJ2Fzc2V0cycsICdndWlkZXMnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDogJycK</text>
+        <text encoding="base64">ICAgICAgbGlzdHNEb21haW4sCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjdXN0b21lcl9zdXBwb3J0X25vX3NwYWNlc19waG9uZV9ubzogY29vcGVyYXRpdmUuY3VzdG9tZXJfc3VwcG9ydF9waG9uZV9uby5yZXBsYWNlKC9ccy9nLCAnJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgbGV0IHRlbXBsYXRlCg==</text>
+      <register name="3" type="4">
+        <text>this.logUseCase('create-checkout', {
+      membershipNumber: user.profiles[0].membership_number,
+      checkout: body,
+      request
+    })</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgfSkgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgYmVmb3JlKCgpID0+IHsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIHJldHVybiByZXBseQogICAgICAucmVzcG9uc2UoYm9keSkKICAgICAgLmNvZGUoY29kZSkKICAgICAgLmxvY2F0aW9uKGxvY2F0aW9uKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgZXhwZWN0KHRlbXBsYXRlKS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uZmlnLnZhbGlkYQo=</text>
+        <text encoding="base64">ICAgIC8vIENyZWF0ZSBjaGVja291dAogICAgY29uc3QgeyBib2R5LCBjb2RlLCBsb2NhdGlvbiB9ID0gYXdhaXQgdGhpcy5pbnNlcnRDaGVja291dChjYXJ0LCB1cFRvRGF0ZUNhcnRPZmZlcnMpCg==</text>
       </register>
       <register name="w" type="4">
         <text>www</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDogJycK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBjdXN0b21lcl9zdXBwb3J0X25vX3NwYWNlc19waG9uZV9ubzogY29vcGVyYXRpdmUuY3VzdG9tZXJfc3VwcG9ydF9waG9uZV9uby5yZXBsYWNlKC9ccy9nLCAnJykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
