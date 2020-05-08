@@ -92,16 +92,6 @@
         <mark key="^" line="2" column="14" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/api-transac/node_modules/ts-sinon/dist/index.d.ts" timestamp="1588866274545" />
-      <file name="$USER_HOME$/dev/invivo/api-transac/api/shipping-rates/domain/shipping-rate-interface.ts" timestamp="1588858319965">
-        <mark key="^" line="0" column="5" />
-      </file>
-      <file name="$USER_HOME$/dev/mix-it/mono-repo/package.json" timestamp="1588946094179" />
-      <file name="$USER_HOME$/dev/invivo/api-transac/api/utils/response.ts" timestamp="1588944962587">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/invivo/api-transac/node_modules/@types/hapi__hapi/index.d.ts" timestamp="1588865593004">
         <mark key="'" line="903" column="6" />
       </file>
@@ -111,12 +101,19 @@
         <mark key="^" line="15" column="53" />
         <mark key="." line="15" column="52" />
       </file>
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/shipping-rates/domain/shipping-rate-interface.ts" timestamp="1588858319965">
+        <mark key="^" line="0" column="5" />
+      </file>
       <file name="$USER_HOME$/dev/invivo/api-transac/api/carts/carts.query.js" timestamp="1588859923407">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/mix-it/mono-repo/node_modules/@vue/eslint-config-airbnb/index.js" timestamp="1588946847367" />
+      <file name="$USER_HOME$/dev/mix-it/mono-repo/packages/mix-it-client/src/main.ts" timestamp="1588947445050">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/invivo/api-transac/ansible/roles/deploy-marketplace-api-transac/tasks/deploy-cron-job.yml" timestamp="1588864184669">
         <mark key="[" line="33" column="29" />
         <mark key="]" line="33" column="29" />
@@ -157,6 +154,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/utils/response.ts" timestamp="1588944962587">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -272,8 +274,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>plugin:vue/essential', '@vue/airbnb', '@vue/typescript', 'plugin:prettier/recommended'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Yml0ZQo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -303,37 +305,37 @@
         <text encoding="base64">ICAiaW5jbHVkZSI6IFsiLi9pbmRleC50cyIsICIuLyouanMiLCAiLi8qKi8qbW9kZWwuanMiLCAiLi9hcGkvdXRpbHMvc2VxdWVsaXplLyoqLyouanMiXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUmVzcG9uc2VUb29sa2l0IH0gZnJvbSAnQGhhcGkvaGFwaScKCg==</text>
+        <text encoding="base64">Yml0ZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CnR5cGUgU3VjY2Vzc0Z1bmN0aW9uPFQ+ID0gKHJlc3NvdXJjZTogVCkgPT4gU3VjY2Vzc1Jlc3BvbnNlPFQ+Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgUmVzcG9uc2VUb29sa2l0IH0gZnJvbSAnQGhhcGkvaGFwaScKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CnR5cGUgU3VjY2Vzc0Z1bmN0aW9uPFQ+ID0gKHJlc3NvdXJjZTogVCkgPT4gU3VjY2Vzc1Jlc3BvbnNlPFQ+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmV4cG9ydCBmdW5jdGlvbiBjcmVhdGVk</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmV4cG9ydCBmdW5jdGlvbiBjcmVhdGVk</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CmV4cG9ydCBjb25zdCBvayA9IDxUIGV4dGVuZHMgb2JqZWN0PihyZXNzb3VyY2U6IFQpOiBTdWNjZXNzUmVzcG9uc2U8VD4gewogIHJldHVybiBzdWNjZXNzKHJlc3NvdXJjZSwgMjAwKQp9</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmV4cG9ydCBjb25zdCBvayA9IDxUIGV4dGVuZHMgb2JqZWN0PihyZXNzb3VyY2U6IFQpOiBTdWNjZXNzUmVzcG9uc2U8VD4gewogIHJldHVybiBzdWNjZXNzKHJlc3NvdXJjZSwgMjAwKQp9</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICByZXR1cm4gewogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvZGUsCiAgICBib2R5OiByZXNzb3VyY2UsCg==</text>
+        <text encoding="base64">ICByZXR1cm4gewogIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
