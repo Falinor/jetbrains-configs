@@ -79,9 +79,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588855736178">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/invivo/api-transac/.sequelizerc" timestamp="1588856970993">
         <mark key="[" line="0" column="29" />
         <mark key="]" line="0" column="29" />
@@ -96,6 +93,15 @@
         <mark key="." line="2" column="13" />
       </file>
       <file name="$USER_HOME$/dev/invivo/api-transac/node_modules/ts-sinon/dist/index.d.ts" timestamp="1588866274545" />
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/shipping-rates/domain/shipping-rate-interface.ts" timestamp="1588858319965">
+        <mark key="^" line="0" column="5" />
+      </file>
+      <file name="$USER_HOME$/dev/mix-it/mono-repo/package.json" timestamp="1588946094179" />
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/utils/response.ts" timestamp="1588944962587">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/invivo/api-transac/node_modules/@types/hapi__hapi/index.d.ts" timestamp="1588865593004">
         <mark key="'" line="903" column="6" />
       </file>
@@ -105,9 +111,6 @@
         <mark key="^" line="15" column="53" />
         <mark key="." line="15" column="52" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/api-transac/api/shipping-rates/domain/shipping-rate-interface.ts" timestamp="1588858319965">
-        <mark key="^" line="0" column="5" />
-      </file>
       <file name="$USER_HOME$/dev/invivo/api-transac/api/carts/carts.query.js" timestamp="1588859923407">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -115,13 +118,6 @@
       </file>
       <file name="/" timestamp="1588856322729">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/invivo/api-transac/api/shipping-rates/test/shipping-rate.test-copy.ts" timestamp="1588855338602">
-        <mark key="'" line="31" column="46" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="31" column="95" />
       </file>
       <file name="$USER_HOME$/dev/invivo/api-transac/ansible/roles/deploy-marketplace-api-transac/tasks/deploy-cron-job.yml" timestamp="1588864184669">
         <mark key="[" line="33" column="29" />
@@ -145,6 +141,12 @@
         <mark key="^" line="16" column="24" />
         <mark key="." line="16" column="23" />
       </file>
+      <file name="$USER_HOME$/dev/mix-it/mono-repo/packages/mix-it-client/.eslintrc.js" timestamp="1588946227418">
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="5" column="13" />
+        <mark key="^" line="0" column="18" />
+        <mark key="." line="5" column="13" />
+      </file>
       <file name="$USER_HOME$/dev/invivo/api-transac/package.json" timestamp="1588866052732">
         <mark key="'" line="118" column="0" />
         <mark key="[" line="48" column="0" />
@@ -157,11 +159,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/invivo/api-transac/api/utils/response.ts" timestamp="1588944962587">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -277,8 +274,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUmVzcG9uc2VUb29sa2l0IH0gZnJvbSAnQGhhcGkvaGFwaScKCg==</text>
+      <register name="&quot;" type="4">
+        <text>plugin:vue/essential', '@vue/airbnb', '@vue/typescript', 'plugin:prettier/recommended'</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -299,7 +296,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text>plugin:vue/essential', '@vue/airbnb', '@vue/typescript', 'plugin:prettier/recommended'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdHJpY3RcPg==</text>
