@@ -87,20 +87,20 @@
         <mark key="]" line="9" column="11" />
         <mark key="." line="9" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/vue-md-route-generator/src/tree.ts" timestamp="1589217317815">
-        <mark key="'" line="74" column="18" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/dev/vue-md-route-generator/src/tree.ts" timestamp="1589220481288">
+        <mark key="'" line="97" column="2" />
+        <mark key="[" line="47" column="47" />
+        <mark key="]" line="47" column="47" />
+        <mark key="." line="47" column="46" />
+        <mark key="^" line="47" column="47" />
       </file>
       <file name="$USER_HOME$/dev/invivo/dev-portal/node_modules/vue-markdown-routing/index.js" timestamp="1589185168515">
         <mark key="'" line="39" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/vue-md-route-generator/src/resolve.ts" timestamp="1589207637349">
-        <mark key="[" line="65" column="24" />
-        <mark key="]" line="65" column="25" />
-        <mark key="." line="65" column="24" />
-        <mark key="^" line="65" column="25" />
+      <file name="$USER_HOME$/dev/vue-md-route-generator/src/resolve.ts" timestamp="1589220305101">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/dev/invivo/dev-portal/.eslintrc.js" timestamp="1589188354016" />
       <file name="$USER_HOME$/dev/invivo/dev-portal/src/assets/catalogue/liste-commande/api-explorer-reference.md" timestamp="1589187936651">
@@ -135,11 +135,11 @@
         <mark key="^" line="8" column="59" />
         <mark key="." line="8" column="58" />
       </file>
-      <file name="$USER_HOME$/dev/vue-md-route-generator/test/tree.spec.ts" timestamp="1589217122108">
-        <mark key="[" line="12" column="20" />
-        <mark key="]" line="12" column="23" />
-        <mark key="^" line="12" column="23" />
-        <mark key="." line="12" column="22" />
+      <file name="$USER_HOME$/dev/vue-md-route-generator/test/tree.spec.ts" timestamp="1589220246606">
+        <mark key="[" line="186" column="56" />
+        <mark key="]" line="186" column="57" />
+        <mark key="^" line="84" column="37" />
+        <mark key="." line="186" column="57" />
       </file>
       <file name="$USER_HOME$/dev/vue-md-route-generator/test/resolve.spec.ts" timestamp="1589205978910">
         <mark key="'" line="53" column="44" />
@@ -176,11 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="17" filename="$USER_HOME$/dev/vue-route-generator/src/resolve.ts" />
-      <jump line="24" column="14" filename="$USER_HOME$/dev/vue-route-generator/src/index.ts" />
-      <jump line="0" column="17" filename="$USER_HOME$/dev/vue-route-generator/src/path-tree.ts" />
-      <jump line="13" column="0" filename="$USER_HOME$/dev/vue-route-generator/src/path-tree.ts" />
-      <jump line="9" column="27" filename="$USER_HOME$/dev/vue-route-generator/src/path-tree.ts" />
       <jump line="35" column="0" filename="$USER_HOME$/dev/vue-route-generator/test/resolve.spec.ts" />
       <jump line="49" column="0" filename="$USER_HOME$/dev/vue-route-generator/test/resolve.spec.ts" />
       <jump line="35" column="0" filename="$USER_HOME$/dev/vue-route-generator/test/__snapshots__/resolve.spec.ts.snap" />
@@ -276,6 +271,11 @@
       <jump line="39" column="6" filename="$USER_HOME$/dev/vue-md-route-generator/src/resolve.ts" />
       <jump line="59" column="14" filename="$USER_HOME$/dev/vue-md-route-generator/src/resolve.ts" />
       <jump line="67" column="18" filename="$USER_HOME$/dev/vue-md-route-generator/src/tree.ts" />
+      <jump line="14" column="1" filename="$USER_HOME$/dev/vue-md-route-generator/src/tree.ts" />
+      <jump line="38" column="3" filename="$USER_HOME$/dev/vue-md-route-generator/src/tree.ts" />
+      <jump line="41" column="2" filename="$USER_HOME$/dev/vue-md-route-generator/src/tree.ts" />
+      <jump line="35" column="11" filename="$USER_HOME$/dev/vue-md-route-generator/src/tree.ts" />
+      <jump line="89" column="2" filename="$USER_HOME$/dev/vue-md-route-generator/src/tree.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -289,7 +289,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hpbGQgIT09IG51bGwgJiYK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -310,7 +310,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text encoding="base64">OiA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdHJpY3RcPg==</text>
@@ -323,37 +323,39 @@
       }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hpbGQgIT09IG51bGwgJiYK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpZiAoaXNFbXB0eSh0cmVlKSkgewogICAgcmV0dXJuIHRyZWUK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAogIH0K</text>
+        <text encoding="base64">ICAgIGlmIChmbih0cmVlLnZhbHVlKSkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmbihjaGlsZC52YWx1ZSwgdHJlZS5jaGlsZHJlbikK</text>
+        <text encoding="base64">ICAgIGlmICghZm4oKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHJldHVybiBudWxsIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="6" type="4">
+        <text encoding="base64">aWYgKCFpc0VtcHR5KHRyZWUpICYmIGZuKHRyZWUudmFsdWUpKSB7CiAgICBjb25zdCBub2RlOiBUcmVlPFQ+ID0geyB2YWx1ZTogdHJlZS52YWx1ZSB9CiAgICBpZiAodHJlZS5jaGlsZHJlbj8ubGVuZ3RoKSB7CiAgICAgIG5vZGUuY2hpbGRyZW4gPSB0cmVlLmNoaWxkcmVuLmZpbHRlcihjaGlsZCA9PiBmaWx0ZXIoY2hpbGQsIGZuKSkKICAgIH0KICAgIHJldHVybiBub2RlCiAgfQogIHJldHVybiBudWxs</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY2hpbGQpCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBpZiAoaXNFbXB0eSh0cmVlKSkgewogICAgcmV0dXJuIG51bGwK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>if (isEmpty(tree)) {
+    return null
+  }</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
