@@ -96,12 +96,6 @@
       <file name="$USER_HOME$/dev/invivo/dev-portal/node_modules/vue-markdown-routing/index.js" timestamp="1589185168515">
         <mark key="'" line="39" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/mix-it/mono-repo/packages/mix-it-client/tsconfig.json" timestamp="1589031184980">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="33" />
-        <mark key="^" line="1" column="33" />
-        <mark key="." line="1" column="32" />
-      </file>
       <file name="$USER_HOME$/dev/invivo/dev-portal/.eslintrc.js" timestamp="1589188354016" />
       <file name="$USER_HOME$/dev/invivo/dev-portal/src/assets/catalogue/liste-commande/api-explorer-reference.md" timestamp="1589187936651">
         <mark key="[" line="4" column="6" />
@@ -153,6 +147,13 @@
       <file name="/Dummy.txt" timestamp="1589185695717">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/invivo/dev-portal/src/views/VCatalog/VCatalog.spec.ts" timestamp="1589189947814">
+        <mark key="'" line="8" column="14" />
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="8" column="14" />
+        <mark key="." line="8" column="14" />
+        <mark key="^" line="19" column="3" />
+      </file>
       <file name="$USER_HOME$/dev/invivo/api-transac/api/shipping-rates/shipping-rates.controller.ts" timestamp="1589033613679">
         <mark key="'" line="62" column="49" />
         <mark key="[" line="4" column="20" />
@@ -162,7 +163,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="18" filename="$USER_HOME$/dev/vue-route-generator/test/__snapshots__/index.spec.ts.snap" />
       <jump line="85" column="0" filename="$USER_HOME$/dev/vue-route-generator/test/__snapshots__/index.spec.ts.snap" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/vue-route-generator/test/fixtures/meta.md" />
       <jump line="6" column="17" filename="$USER_HOME$/dev/vue-route-generator/test/fixtures/meta.md" />
@@ -262,6 +262,7 @@
       <jump line="7" column="25" filename="$USER_HOME$/dev/invivo/dev-portal/src/router/articles.ts" />
       <jump line="22" column="41" filename="$USER_HOME$/dev/invivo/dev-portal/src/router/articles.ts" />
       <jump line="13" column="41" filename="$USER_HOME$/dev/invivo/dev-portal/src/router/articles.ts" />
+      <jump line="8" column="14" filename="$USER_HOME$/dev/invivo/dev-portal/src/views/VCatalog/VCatalog.spec.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -275,7 +276,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">YW55IA==</text>
+        <text>mount</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -296,7 +297,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YW55IA==</text>
+        <text>mount</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdHJpY3RcPg==</text>
@@ -305,37 +306,37 @@
         <text encoding="base64">ICAgICAgIkBjbGllbnQvKiI6IFsibWl4LWl0LWNsaWVudC9zcmMvKiJdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ZGRqCiAgfSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IFZ1ZSBmcm9tICd2dWUnCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUm91dGVDb25maWcgfSBmcm9tICd2dWUtcm91dGVyJwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cocm91dGVzKQoK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CiAgZGVzY3JpYmUoJ2Rpc3BsYXknLCAoKSA9PiB7CiAgICBpdCgnc2hvdWxkIGRpc3BsYXkgYSBjYXJkIHdpdGggdGhlIEFQSSB0aGF0IGFyZSBpbiB0aGUgY2F0YWxvZycsICgpID0+IHsKICAgICAgY29uc3QgZXhhbXBsZUJsb2NrID0gd3JhcHBlci5maW5kKCdbZGF0YS10ZXN0PWNhdGFsb2ctYXBpLWNhcmRdJykKICAgICAgZXhwZWN0KGV4YW1wbGVCbG9jay5leGlzdHMoKSkudG9CZVRydWUoKQogICAgfSkKCiAgICBpdCgnc2hvdWxkIGRpc3BsYXkgYSB0aXRsZSBhbmQgc3VidGl0bGUnLCAoKSA9PiB7CiAgICAgIGV4cGVjdCh3cmFwcGVyLnRleHQoKSkudG9Db250YWluKCdDYXRhbG9ndWUgQVBJJykKICAgICAgZXhwZWN0KHdyYXBwZXIudGV4dCgpKS50b0NvbnRhaW4oIlJldHJvdXZleiBsZXMgQVBJIGRpc3BvbmlibGVzIGQnQWxhZGluIikKICAgIH0pCiAgfSk=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IFZ1ZSBmcm9tICd2dWUnCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IHsgUm91dGVDb25maWcgfSBmcm9tICd2dWUtcm91dGVyJwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CmZ1bmN0aW9uIFJlbmRlcmVyKCkgewogIHJldHVybiBWdWUuY29tcG9uZW50KCdyZW5kZXJlcicsIHsKICAgIHJlbmRlcjogY3JlYXRlRWxlbWVudCA9PiBjcmVhdGVFbGVtZW50KCdyb3V0ZXItdmlldycpCiAgfSk=</text>
+        <text encoding="base64">Y29uc29sZS5sb2cocm91dGVzKQoK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGAK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRlbXBsYXRlOiBgCiAgICA8cm91dGVyLXZpZXc+PC9yb3V0ZXItdmlldz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
