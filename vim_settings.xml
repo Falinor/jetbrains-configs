@@ -45,10 +45,10 @@
         <entry encoding="base64">JzwsJz5zL3BhZ2VzL2Fzc2V0cy9n</entry>
         <entry>e</entry>
         <entry encoding="base64">IHc=</entry>
-        <entry>q</entry>
-        <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL05vbkVtcHR5L1RyZWUvZw==</entry>
         <entry>w</entry>
+        <entry>wq</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -79,11 +79,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/dev/vue-md-route-generator/test/fixtures/foo/__meta__.md" timestamp="1589292555039">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="3" />
+        <mark key="^" line="2" column="3" />
+        <mark key="." line="2" column="2" />
+      </file>
       <file name="/fragment.js" timestamp="1589286588360">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/invivo/dev-portal/src/assets/catalogue/liste-commande/description.md" timestamp="1589187932528">
-        <mark key="[" line="4" column="6" />
       </file>
       <file name="$USER_HOME$/dev/vue-md-route-generator/src/tree.ts" timestamp="1589292206783">
         <mark key="'" line="78" column="0" />
@@ -100,9 +103,6 @@
         <mark key="." line="95" column="0" />
       </file>
       <file name="$USER_HOME$/dev/invivo/dev-portal/.eslintrc.js" timestamp="1589188354016" />
-      <file name="$USER_HOME$/dev/invivo/dev-portal/src/assets/catalogue/liste-commande/api-explorer-reference.md" timestamp="1589187936651">
-        <mark key="[" line="4" column="6" />
-      </file>
       <file name="$USER_HOME$/dev/vue-md-route-generator/test/__snapshots__/resolve.spec.ts.snap" timestamp="1589206050401">
         <mark key="[" line="26" column="22" />
         <mark key="]" line="26" column="34" />
@@ -345,7 +345,7 @@
         <text encoding="base64">ICBpZiAodHJlZT8uY2hpbGRyZW4/Lmxlbmd0aCkgewo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
   </component>
