@@ -105,12 +105,12 @@
         <mark key="." line="51" column="22" />
         <mark key="^" line="51" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/kata-potter/.eslintrc" timestamp="1589309157004">
+      <file name="$USER_HOME$/dev/invivo/kata-potter/.eslintrc" timestamp="1589310795672">
         <mark key="'" line="15" column="2" />
-        <mark key="[" line="9" column="34" />
-        <mark key="]" line="10" column="22" />
-        <mark key="." line="9" column="34" />
-        <mark key="^" line="9" column="34" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="22" />
       </file>
       <file name="$USER_HOME$/dev/vue-md-route-generator/package.json" timestamp="1589296408336">
         <mark key="'" line="13" column="18" />
@@ -154,11 +154,6 @@
         <mark key="[" line="12" column="25" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/invivo/kata-potter/src/test/kataPotter.test.ts" timestamp="1589307058716">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/dev/invivo/kata-potter/.eslintignore" timestamp="1589306416341">
         <mark key="[" line="0" column="8" />
@@ -301,9 +296,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>&quot;prettier/@typescript-eslint&quot;,
-    &quot;prettier/unicorn&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAicGx1Z2lucyI6IFsidW5pY29ybiJdLAo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -324,7 +318,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>NonEmpty</text>
@@ -332,39 +326,39 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFsdWU6IHsgcGF0aDogJ2d1aWRlcy8zLm1kJywgdHlwZTogJ2ZpbGUnIH0sCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>&quot;prettier/@typescript-eslint&quot;,
-    &quot;prettier/unicorn&quot;</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAicGx1Z2lucyI6IFsidW5pY29ybiJdLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text>&quot;prettier/@typescript-eslint&quot;,
+    &quot;prettier/unicorn&quot;</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICJwcmV0dGllci9iYWJlbCIsIiwK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CiAgICAicHJldHRpZXIvZmxvd3R5cGUiLAogICAgInByZXR0aWVyL3JlYWN0IiwKICAgICJwcmV0dGllci9zdGFuZGFyZA==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICBdLAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAicGx1Z2lucyI6IFsKICAgICJwcmV0dGllciIK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICJwcmV0dGllciIK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJwcmV0dGllci9wcmV0dGllciI6ICJlcnJvciIK</text>
+        <text encoding="base64">ICAgICJwcmV0dGllciIK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByZXR0aWVyCg==</text>
+        <text encoding="base64">ICAgICJwcmV0dGllci9wcmV0dGllciI6ICJlcnJvciIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJwcm9taXNlIiwK</text>
+        <text encoding="base64">ICAgIHByZXR0aWVyCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
