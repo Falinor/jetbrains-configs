@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>this.</entry>
         <entry>const</entry>
         <entry>require</entry>
         <entry>= require</entry>
@@ -27,9 +26,9 @@
         <entry>pages</entry>
         <entry encoding="base64">XDx2YWx1ZVw+</entry>
         <entry encoding="base64">XDxzdHJpY3RcPg==</entry>
+        <entry>NonEmpty</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL29iamVjdC9Kb2kub2JqZWN0L2c=</entry>
         <entry encoding="base64">JzwsJz5zL0pvaS4vL2c=</entry>
         <entry encoding="base64">JzwsJz5zL29wdHMucGFydHlJZC9wYXJ0eUlkL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2h0dHBzOi8vYXBpLmFsYWRpbi5mYXJtL2h0dHBzOi8vc2hvcC5tYXJrZXRwbGFjZS1xdWEuaW52aXZvZGlnaXRhbGZhY3RvcnkuY29tL2c=</entry>
@@ -49,6 +48,7 @@
         <entry>q</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL05vbkVtcHR5L1RyZWUvZw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -87,12 +87,11 @@
         <mark key="]" line="9" column="11" />
         <mark key="." line="9" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/vue-md-route-generator/src/tree.ts" timestamp="1589220481288">
-        <mark key="'" line="96" column="2" />
-        <mark key="[" line="47" column="47" />
-        <mark key="]" line="47" column="47" />
-        <mark key="." line="47" column="46" />
-        <mark key="^" line="47" column="47" />
+      <file name="$USER_HOME$/dev/vue-md-route-generator/src/tree.ts" timestamp="1589239144716">
+        <mark key="'" line="78" column="0" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/dev/invivo/dev-portal/node_modules/vue-markdown-routing/index.js" timestamp="1589185168515">
         <mark key="'" line="39" column="28" />
@@ -135,11 +134,10 @@
         <mark key="^" line="8" column="59" />
         <mark key="." line="8" column="58" />
       </file>
-      <file name="$USER_HOME$/dev/vue-md-route-generator/test/tree.spec.ts" timestamp="1589220246606">
-        <mark key="[" line="186" column="56" />
-        <mark key="]" line="186" column="57" />
-        <mark key="^" line="84" column="37" />
-        <mark key="." line="186" column="57" />
+      <file name="$USER_HOME$/dev/vue-md-route-generator/test/tree.spec.ts" timestamp="1589239185062">
+        <mark key="[" line="170" column="0" />
+        <mark key="]" line="170" column="0" />
+        <mark key="." line="170" column="0" />
       </file>
       <file name="$USER_HOME$/dev/vue-md-route-generator/test/resolve.spec.ts" timestamp="1589205978910">
         <mark key="'" line="53" column="44" />
@@ -176,9 +174,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="0" filename="$USER_HOME$/dev/vue-route-generator/test/resolve.spec.ts" />
-      <jump line="49" column="0" filename="$USER_HOME$/dev/vue-route-generator/test/resolve.spec.ts" />
-      <jump line="35" column="0" filename="$USER_HOME$/dev/vue-route-generator/test/__snapshots__/resolve.spec.ts.snap" />
       <jump line="28" column="2" filename="$USER_HOME$/dev/vue-route-generator/test/__snapshots__/resolve.spec.ts.snap" />
       <jump line="22" column="4" filename="$USER_HOME$/dev/vue-route-generator/test/__snapshots__/resolve.spec.ts.snap" />
       <jump line="43" column="6" filename="$USER_HOME$/dev/vue-route-generator/test/__snapshots__/resolve.spec.ts.snap" />
@@ -276,6 +271,9 @@
       <jump line="41" column="2" filename="$USER_HOME$/dev/vue-md-route-generator/src/tree.ts" />
       <jump line="35" column="11" filename="$USER_HOME$/dev/vue-md-route-generator/src/tree.ts" />
       <jump line="89" column="2" filename="$USER_HOME$/dev/vue-md-route-generator/src/tree.ts" />
+      <jump line="2" column="38" filename="$USER_HOME$/dev/vue-md-route-generator/src/tree.ts" />
+      <jump line="50" column="34" filename="$USER_HOME$/dev/vue-md-route-generator/src/tree.ts" />
+      <jump line="86" column="0" filename="$USER_HOME$/dev/vue-md-route-generator/src/tree.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -289,7 +287,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hpbGQgIT09IG51bGwgJiYK</text>
+        <text encoding="base64">ICAgICAgYWN0dWFsCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -313,7 +311,7 @@
         <text encoding="base64">OiA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdHJpY3RcPg==</text>
+        <text>NonEmpty</text>
       </register>
       <register name="0" type="4">
         <text>const content = readFile(file.path)
@@ -323,52 +321,50 @@
       }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hpbGQgIT09IG51bGwgJiYK</text>
+        <text encoding="base64">ICAgICAgYWN0dWFsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIChmbih0cmVlLnZhbHVlKSkgewo=</text>
+        <text encoding="base64">CiAgcmV0dXJuIGZpbHRlclJlYyh0cmVlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmICghZm4oKSkK</text>
+        <text encoding="base64">ICBmdW5jdGlvbiBmaWx0ZXJSZWModHJlZTogVHJlZTxUPik6IFRyZWU8VD4gfCBudWxsIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxsIAo=</text>
+        <text encoding="base64">ICAgIGlmICghZm4odHJlZS52YWx1ZSkpIHsKICAgICAgcmV0dXJuIG51bGwK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">aWYgKCFpc0VtcHR5KHRyZWUpICYmIGZuKHRyZWUudmFsdWUpKSB7CiAgICBjb25zdCBub2RlOiBUcmVlPFQ+ID0geyB2YWx1ZTogdHJlZS52YWx1ZSB9CiAgICBpZiAodHJlZS5jaGlsZHJlbj8ubGVuZ3RoKSB7CiAgICAgIG5vZGUuY2hpbGRyZW4gPSB0cmVlLmNoaWxkcmVuLmZpbHRlcihjaGlsZCA9PiBmaWx0ZXIoY2hpbGQsIGZuKSkKICAgIH0KICAgIHJldHVybiBub2RlCiAgfQogIHJldHVybiBudWxs</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICByZXR1cm4gc29ydFJlYyh0cmVlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICB9Cgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpZiAoaXNFbXB0eSh0cmVlKSkgewogICAgcmV0dXJuIG51bGwK</text>
+        <text encoding="base64">ICBmdW5jdGlvbiBzb3J0UmVjKHRyZWU6IFRyZWU8VD4pOiBUcmVlPFQ+IHsK</text>
       </register>
-      <register name="9" type="4">
-        <text>if (isEmpty(tree)) {
-    return null
-  }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zL05vbkVtcHR5L1RyZWUvZw==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxzdHJpY3RcPg==</last-search>
+      <last-search>NonEmpty</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdHJpY3RcPg==</last-pattern>
-      <last-replace>assets</last-replace>
-      <last-substitute>pages</last-substitute>
+      <last-pattern>NonEmpty</last-pattern>
+      <last-replace>Tree</last-replace>
+      <last-substitute>NonEmpty</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
