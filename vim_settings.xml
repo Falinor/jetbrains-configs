@@ -79,13 +79,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/invivo/dev-portal/vue.config.js" timestamp="1589375233901">
-        <mark key="[" line="17" column="124" />
-        <mark key="]" line="17" column="124" />
+      <file name="$USER_HOME$/dev/invivo/dev-portal/vue.config.js" timestamp="1589379159109">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="14" column="0" />
         <mark key="^" line="17" column="124" />
-        <mark key="." line="17" column="123" />
+        <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/api-transac/.sequelizerc" timestamp="1589373307308" />
       <file name="$USER_HOME$/dev/invivo/dev-portal/src/assets/catalogue/liste-commande/description.md" timestamp="1589364164847">
         <mark key="[" line="1" column="7" />
         <mark key="]" line="1" column="8" />
@@ -98,6 +97,19 @@
         <mark key="^" line="64" column="58" />
         <mark key="." line="64" column="57" />
       </file>
+      <file name="$USER_HOME$/dev/invivo/dev-portal/src/assets/catalogue/liste-commande/api-explorer-reference.md" timestamp="1589364161589">
+        <mark key="[" line="1" column="7" />
+        <mark key="]" line="1" column="8" />
+        <mark key="." line="1" column="8" />
+      </file>
+      <file name="$USER_HOME$/dev/invivo/dev-portal/src/assets/guides/authentification.md" timestamp="1589365521976" />
+      <file name="$USER_HOME$/dev/invivo/dev-portal/tsconfig.json" timestamp="1589372470513">
+        <mark key="[" line="18" column="21" />
+        <mark key="]" line="18" column="20" />
+        <mark key="." line="18" column="19" />
+        <mark key="^" line="18" column="20" />
+      </file>
+      <file name="$USER_HOME$/dev/invivo/api-transac/.sequelizerc" timestamp="1589373307308" />
       <file name="$USER_HOME$/dev/invivo/dev-portal/src/assets/guides/introduction.md" timestamp="1589365744696">
         <mark key="[" line="7" column="116" />
         <mark key="]" line="9" column="0" />
@@ -114,11 +126,6 @@
         <mark key="]" line="3" column="15" />
         <mark key="." line="3" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/dev-portal/src/assets/catalogue/order.md" timestamp="1589362205226">
-        <mark key="[" line="1" column="7" />
-        <mark key="]" line="1" column="8" />
-        <mark key="." line="1" column="8" />
-      </file>
       <file name="$USER_HOME$/dev/vue-md-route-generator/test/tree.spec.ts" timestamp="1589364437211">
         <mark key="'" line="159" column="0" />
         <mark key="[" line="190" column="41" />
@@ -134,35 +141,18 @@
         <mark key="." line="30" column="14" />
         <mark key="^" line="30" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/dev-portal/src/assets/catalogue/liste-commande/api-explorer-reference.md" timestamp="1589364161589">
-        <mark key="[" line="1" column="7" />
-        <mark key="]" line="1" column="8" />
-        <mark key="." line="1" column="8" />
-      </file>
-      <file name="$USER_HOME$/dev/invivo/dev-portal/src/assets/catalogue/liste-commande/__meta__.md" timestamp="1589362159474">
-        <mark key="[" line="0" column="3" />
-        <mark key="]" line="2" column="3" />
-        <mark key="^" line="2" column="3" />
-        <mark key="." line="2" column="2" />
-      </file>
       <file name="$USER_HOME$/dev/invivo/dev-portal/src/components/CSidebar/CSidebar.ts" timestamp="1589372354965">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="78" />
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="68" />
       </file>
+      <file name="/vue.config.js" timestamp="1589379152483" />
       <file name="$USER_HOME$/dev/invivo/dev-portal/package.json" timestamp="1589378441083">
         <mark key="[" line="23" column="35" />
         <mark key="]" line="23" column="35" />
         <mark key="^" line="23" column="35" />
         <mark key="." line="23" column="34" />
-      </file>
-      <file name="$USER_HOME$/dev/invivo/dev-portal/src/assets/guides/authentification.md" timestamp="1589365521976" />
-      <file name="$USER_HOME$/dev/invivo/dev-portal/tsconfig.json" timestamp="1589372470513">
-        <mark key="[" line="18" column="21" />
-        <mark key="]" line="18" column="20" />
-        <mark key="." line="18" column="19" />
-        <mark key="^" line="18" column="20" />
       </file>
     </filemarks>
     <jumps>
@@ -278,8 +268,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbmZpZy5wbHVnaW4K</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -309,7 +299,7 @@
         <text encoding="base64">Y29uc3QgbGFzdCA9IChwYXRoOiBzdHJpbmcpOiBzdHJpbmcgPT4gcGF0aC5tYXRjaCgvKFthLXotXSspJC8pPy5bMF0gYXMgc3RyaW5nCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbmZpZy5wbHVnaW4K</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -324,22 +314,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY3JlYXRlUm91dGVzLCBSb3V0ZVN0cmluZyB9IGZyb20gJy4vdGVtcGxhdGUvcm91dGVzJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGRpcmVjdG9yeVRyZWUsIHsgRGlyZWN0b3J5VHJlZSB9IGZyb20gJ2RpcmVjdG9yeS10cmVlJwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgY3JlYXRlUm91dGVzLCBSb3V0ZVN0cmluZyB9IGZyb20gJy4vdGVtcGxhdGUvcm91dGVzJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHByZXR0aWVyIGZyb20gJ3ByZXR0aWVyJwo=</text>
+        <text encoding="base64">aW1wb3J0IGRpcmVjdG9yeVRyZWUsIHsgRGlyZWN0b3J5VHJlZSB9IGZyb20gJ2RpcmVjdG9yeS10cmVlJwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvckVhY2goKQo=</text>
+        <text encoding="base64">aW1wb3J0IHByZXR0aWVyIGZyb20gJ3ByZXR0aWVyJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBjb25zb2xlLmxvZygKICAgICAgYCR7YS52YWx1ZS5uYW1lfTogJHtKU09OLnN0cmluZ2lmeShyb3V0ZU1ldGExKX0sICR7CiAgICAgICAgYi52YWx1ZS5uYW1lCiAgICAgIH06ICR7SlNPTi5zdHJpbmdpZnkocm91dGVNZXRhMil9LCBoYXNPcmRlcj8gJHtoYXNPcmRlcigKICAgICAgICByb3V0ZU1ldGExCiAgICAgICl9ICR7aGFzT3JkZXIocm91dGVNZXRhMil9YAogICAgKQ==</text>
+        <text encoding="base64">ICAgIGZvckVhY2goKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
