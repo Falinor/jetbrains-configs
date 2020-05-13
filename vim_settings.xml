@@ -84,12 +84,6 @@
         <mark key="]" line="1" column="8" />
         <mark key="." line="1" column="8" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/kata-potter/package.json" timestamp="1589322239528">
-        <mark key="[" line="21" column="40" />
-        <mark key="]" line="21" column="50" />
-        <mark key="^" line="21" column="50" />
-        <mark key="." line="21" column="49" />
-      </file>
       <file name="$USER_HOME$/dev/vue-md-route-generator/src/tree.ts" timestamp="1589364679380">
         <mark key="'" line="80" column="0" />
         <mark key="[" line="64" column="57" />
@@ -112,6 +106,11 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="61" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/vue-md-route-generator/tsconfig.json" timestamp="1589367654721">
+        <mark key="[" line="3" column="15" />
+        <mark key="]" line="3" column="15" />
+        <mark key="." line="3" column="15" />
       </file>
       <file name="$USER_HOME$/dev/invivo/dev-portal/src/assets/catalogue/order.md" timestamp="1589362205226">
         <mark key="[" line="1" column="7" />
@@ -136,6 +135,14 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/vue-md-route-generator/test/resolve.spec.ts" timestamp="1589368139945">
+        <mark key="b" line="92" column="36" />
+        <mark key="'" line="66" column="44" />
+        <mark key="[" line="30" column="23" />
+        <mark key="]" line="30" column="25" />
+        <mark key="." line="30" column="24" />
+        <mark key="^" line="30" column="25" />
       </file>
       <file name="$USER_HOME$/dev/vue-md-route-generator/src/resolve.ts" timestamp="1589365402035">
         <mark key="'" line="95" column="15" />
@@ -166,12 +173,6 @@
         <mark key="]" line="1" column="16" />
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="15" />
-      </file>
-      <file name="$USER_HOME$/dev/invivo/kata-potter/src/index.ts" timestamp="1589355266236">
-        <mark key="[" line="2" column="29" />
-        <mark key="]" line="2" column="35" />
-        <mark key="." line="2" column="34" />
-        <mark key="^" line="2" column="35" />
       </file>
       <file name="$USER_HOME$/dev/invivo/kata-potter/src/test/index.test.ts" timestamp="1589355555406">
         <mark key="[" line="0" column="26" />
@@ -297,8 +298,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>order</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -319,7 +320,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>order</text>
       </register>
       <register name="/" type="4">
         <text>Renderer</text>
