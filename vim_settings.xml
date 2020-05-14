@@ -103,19 +103,19 @@
         <mark key="^" line="21" column="1" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/kata-potter/src/index.ts" timestamp="1589467317030">
-        <mark key="'" line="10" column="48" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="19" column="43" />
+      <file name="$USER_HOME$/dev/invivo/kata-potter/src/index.ts" timestamp="1589473676158">
+        <mark key="'" line="22" column="48" />
+        <mark key="[" line="16" column="20" />
+        <mark key="]" line="16" column="71" />
+        <mark key="." line="16" column="70" />
+        <mark key="^" line="16" column="71" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/kata-potter/src/test/index.test.ts" timestamp="1589468514409">
-        <mark key="'" line="11" column="77" />
-        <mark key="[" line="19" column="56" />
-        <mark key="]" line="4" column="29" />
-        <mark key="." line="4" column="28" />
-        <mark key="^" line="4" column="29" />
+      <file name="$USER_HOME$/dev/invivo/kata-potter/src/test/index.test.ts" timestamp="1589472573930">
+        <mark key="'" line="3" column="17" />
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="0" column="33" />
+        <mark key="." line="0" column="32" />
+        <mark key="^" line="0" column="33" />
       </file>
       <file name="$USER_HOME$/dev/invivo/kata-potter/node_modules/eslint-config-xo/index.js" timestamp="1589399721031" />
       <file name="$USER_HOME$/dev/vue-markdown-routing/test/webpack-plugin.spec.ts" timestamp="1589383522521">
@@ -167,8 +167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/dev/invivo/dev-portal/src/router/guides.ts" />
-      <jump line="52" column="0" filename="$USER_HOME$/dev/invivo/dev-portal/src/router/guides.ts" />
       <jump line="31" column="40" filename="$USER_HOME$/dev/vue-auto-routing/test/webpack-plugin.spec.ts" />
       <jump line="18" column="47" filename="$USER_HOME$/dev/invivo/dev-portal/vue.config.js" />
       <jump line="82" column="0" filename="$USER_HOME$/dev/vue-route-generator/test/__snapshots__/index.spec.ts.snap" />
@@ -267,6 +265,8 @@
       <jump line="3" column="29" filename="$USER_HOME$/dev/invivo/kata-potter/src/test/index.test.js" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/invivo/kata-potter/src/index.js" />
       <jump line="3" column="0" filename="$USER_HOME$/dev/invivo/kata-potter/src/index.js" />
+      <jump line="23" column="6" filename="$USER_HOME$/dev/invivo/kata-potter/src/test/index.test.ts" />
+      <jump line="3" column="17" filename="$USER_HOME$/dev/invivo/kata-potter/src/test/index.test.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -279,8 +279,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICByZXR1cm4gYm9va1ByaWNlICogMgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CgpmdW5jdGlvbiBtYXAoZm4pIHsKICByZXR1cm4gYXJyID0+IGFyci5tYXAoZm4pCn0=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -301,7 +301,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW4g</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
         <text>Renderer</text>
@@ -309,38 +309,40 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgeyBib29rczogWzEsIDJdLCBleHBlY3RlZDogVU5JVF9QUklDRSAqIDIgKiAwLjk1IH0K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICByZXR1cm4gYm9va1ByaWNlICogMgo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CgpmdW5jdGlvbiBtYXAoZm4pIHsKICByZXR1cm4gYXJyID0+IGFyci5tYXAoZm4pCn0=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gY29tYnMubWFwKGFwcGx5RGlzY291bnQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpZiAoYm9va3MubGVuZ3RoID09PSAxKSB7CiAgICByZXR1cm4gYm9va1ByaWNlCiAgfQ==</text>
+        <text encoding="base64">ICAgICAgW1sxLCAxLCAyXSwgKFVOSVRfUFJJQ0UgKiAyICogMC45NSkgKyBVTklUX1BSSUNFXSwKICAgICAgW1syLCA0LCA1LCAyLCAxXSwgKFVOSVRfUFJJQ0UgKiA0ICogMC44KSArIFVOSVRfUFJJQ0VdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxldCBpIAo=</text>
+        <text encoding="base64">ICBib29rc1s2XSA9IDUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICByZXR1cm4gYm9va3NbMF0gKyBib29rc1sxXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IAoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICJ4by9lc25leHQiLAo=</text>
+      <register name="7" type="4">
+        <text>function min(...nums: readonly number[]): number {
+  
+}</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJwbHVnaW46aW1wb3J0L3R5cGVzY3JpcHQiLAo=</text>
+        <text encoding="base64">ICByZXR1cm4gYm9va1ByaWNlICogMgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCBkaXNjb3VudCA9IGRpc2NvdW50KG9uZXMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
