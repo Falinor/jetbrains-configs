@@ -103,12 +103,12 @@
         <mark key="^" line="21" column="1" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/kata-potter/src/index.ts" timestamp="1589478811118">
-        <mark key="'" line="24" column="48" />
-        <mark key="[" line="12" column="12" />
-        <mark key="]" line="12" column="19" />
-        <mark key="." line="12" column="18" />
-        <mark key="^" line="12" column="19" />
+      <file name="$USER_HOME$/dev/invivo/kata-potter/src/index.ts" timestamp="1589479934578">
+        <mark key="'" line="26" column="48" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="15" column="17" />
       </file>
       <file name="$USER_HOME$/dev/invivo/kata-potter/src/test/index.test.ts" timestamp="1589472573930">
         <mark key="'" line="3" column="17" />
@@ -279,8 +279,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>combination</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CmNvbnN0IHBpcGUgPSAoLi4uZm5zOiBGdW5jdGlvbltdKSA9PiAoZGF0YTogYW55KSA9PiBmbnMucmVkdWNlKChhY2MsIGZuKSA9PiBmbihhY2MpLCBkYXRhKQo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -301,7 +301,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>combination</text>
+        <text>combs</text>
       </register>
       <register name="/" type="4">
         <text>Renderer</text>
@@ -310,37 +310,37 @@
         <text encoding="base64">ICAgICAgeyBib29rczogWzEsIDJdLCBleHBlY3RlZDogVU5JVF9QUklDRSAqIDIgKiAwLjk1IH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcmljZShjb21iaW5hdGlvbikK</text>
+        <text encoding="base64">CmNvbnN0IHBpcGUgPSAoLi4uZm5zOiBGdW5jdGlvbltdKSA9PiAoZGF0YTogYW55KSA9PiBmbnMucmVkdWNlKChhY2MsIGZuKSA9PiBmbihhY2MpLCBkYXRhKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBtaW4obWFwKHByaWNlKGNvbWIpKSkK</text>
+        <text encoding="base64">ICByZXR1cm4gc3VtKG1hcChwcmljZShjb21iaW5hdGlvbnMob2NjdXJyZW5jZXMoYm9va3MpKSwgcHJpY2UpKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAKICBjb21iaW5hdGlvbnMoKQo=</text>
+        <text encoding="base64">ICBwcmljZShjb21iaW5hdGlvbikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBmdQo=</text>
+        <text encoding="base64">ICBtaW4obWFwKHByaWNlKGNvbWIpKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICByZXR1cm4gY29tYnMK</text>
+        <text encoding="base64">ICAKICBjb21iaW5hdGlvbnMoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICApKGJvb2tzKQo=</text>
+        <text encoding="base64">ICBmdQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICByZXR1cm4gcGlwZSgKICAgIG9jY3VycmVuY2VzLAo=</text>
+        <text encoding="base64">ICByZXR1cm4gY29tYnMK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbWJpbmF0aW9ucywKICAgIG1hcChhcHBseURpc2NvdW50KQo=</text>
+        <text encoding="base64">ICApKGJvb2tzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbWJpbmF0aW9ucywKICAgIG1hcChhcHBseURpc2NvdW50KQo=</text>
+        <text encoding="base64">ICByZXR1cm4gcGlwZSgKICAgIG9jY3VycmVuY2VzLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
