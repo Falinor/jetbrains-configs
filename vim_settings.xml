@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>require</entry>
         <entry>= require</entry>
         <entry>(</entry>
         <entry>)</entry>
@@ -27,17 +26,15 @@
         <entry encoding="base64">XDxzdHJpY3RcPg==</entry>
         <entry>NonEmpty</entry>
         <entry>Renderer</entry>
+        <entry>seller</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL29wdHMucGFydHlJZC9wYXJ0eUlkL2c=</entry>
-        <entry encoding="base64">JzwsJz5zL2h0dHBzOi8vYXBpLmFsYWRpbi5mYXJtL2h0dHBzOi8vc2hvcC5tYXJrZXRwbGFjZS1xdWEuaW52aXZvZGlnaXRhbGZhY3RvcnkuY29tL2c=</entry>
         <entry>s</entry>
         <entry encoding="base64">dyA=</entry>
         <entry>Wq</entry>
         <entry>qa</entry>
         <entry encoding="base64">JzwsJz5zL3Byb3BzL21ldGEvZw==</entry>
         <entry>W</entry>
-        <entry>x</entry>
         <entry>qw</entry>
         <entry>w:w</entry>
         <entry>&quot;&quot;</entry>
@@ -47,7 +44,10 @@
         <entry encoding="base64">JzwsJz5zL05vbkVtcHR5L1RyZWUvZw==</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL1JlbmRlcmVyL1ZBcnRpY2xlTGF5b3V0L2c=</entry>
+        <entry>w\</entry>
         <entry>wq</entry>
+        <entry>x</entry>
+        <entry encoding="base64">JzwsJz5zL3NlbGxlci9mYXJtZXIvZw==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -79,103 +79,79 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/invivo/dev-portal/vue.config.js" timestamp="1589531541916">
-        <mark key="[" line="20" column="22" />
-        <mark key="]" line="20" column="25" />
-        <mark key="^" line="14" column="18" />
-        <mark key="." line="20" column="25" />
+      <file name="$USER_HOME$/dev/invivo/front-agri/tests/e2e/support/commands/import-catalog.js" timestamp="1589552009955" />
+      <file name="$USER_HOME$/dev/invivo/front-vendeurs/tests/e2e/support/commands/login.js" timestamp="1589552681108" />
+      <file name="$USER_HOME$/dev/invivo/front-vendeurs/tests/e2e/support/commands/order.js" timestamp="1589555388196">
+        <mark key="'" line="14" column="1" />
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="1" column="15" />
+        <mark key="^" line="1" column="15" />
+        <mark key="." line="1" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/vue-markdown-routing/package.json" timestamp="1589383075799">
-        <mark key="[" line="78" column="35" />
-        <mark key="]" line="31" column="23" />
-        <mark key="." line="31" column="22" />
-        <mark key="^" line="31" column="23" />
+      <file name="$USER_HOME$/dev/invivo/front-vendeurs/tests/e2e/support/commands/create-line-item.js" timestamp="1589554026795" />
+      <file name="$USER_HOME$/dev/invivo/front-vendeurs/tests/e2e/specs/order/order-list.test.js" timestamp="1589555558817">
+        <mark key="[" line="53" column="11" />
+        <mark key="]" line="42" column="52" />
+        <mark key="^" line="42" column="52" />
+        <mark key="." line="42" column="51" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/kata-potter/package.json" timestamp="1589464250932">
-        <mark key="[" line="62" column="29" />
-        <mark key="]" line="21" column="50" />
-        <mark key="^" line="21" column="50" />
-        <mark key="." line="21" column="49" />
+      <file name="$USER_HOME$/dev/invivo/front-vendeurs/tests/e2e/support/commands/import-catalog.js" timestamp="1589552287293">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/kata-potter/.eslintrc" timestamp="1589465479423">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="21" column="1" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/dev/invivo/front-vendeurs/tests/e2e/support/commands/import-offers.js" timestamp="1589551975853" />
+      <file name="$USER_HOME$/dev/invivo/front-agri/src/services/user.service.js" timestamp="1589552796581">
+        <mark key="[" line="15" column="138" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/kata-potter/src/index.ts" timestamp="1589546036072">
-        <mark key="'" line="23" column="48" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="16" column="72" />
+      <file name="$USER_HOME$/dev/invivo/front-vendeurs/tests/e2e/support/index.js" timestamp="1589555232266">
+        <mark key="[" line="25" column="25" />
+        <mark key="]" line="17" column="28" />
+        <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/kata-potter/src/test/index.test.ts" timestamp="1589472573930">
-        <mark key="'" line="3" column="17" />
-        <mark key="[" line="0" column="26" />
-        <mark key="]" line="0" column="33" />
-        <mark key="." line="0" column="32" />
-        <mark key="^" line="0" column="33" />
+      <file name="$USER_HOME$/dev/invivo/front-agri/tests/e2e/specs/order/order-summary.test.js" timestamp="1589550847589" />
+      <file name="$USER_HOME$/dev/invivo/front-agri/tests/e2e/support/commands/login.js" timestamp="1589552753917" />
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/checkouts/checkouts.routes.js" timestamp="1589554663570">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="12" column="4" />
+        <mark key="^" line="12" column="4" />
+        <mark key="." line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/kata-potter/node_modules/eslint-config-xo/index.js" timestamp="1589399721031" />
-      <file name="$USER_HOME$/dev/vue-markdown-routing/test/webpack-plugin.spec.ts" timestamp="1589383522521">
-        <mark key="[" line="6" column="70" />
-        <mark key="]" line="6" column="86" />
-        <mark key="^" line="6" column="86" />
-        <mark key="." line="6" column="85" />
-      </file>
-      <file name="$USER_HOME$/dev/vue-md-route-generator/src/index.ts" timestamp="1589541012669">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/invivo/kata-potter/src/readonly-hash.ts" timestamp="1589455748545">
-        <mark key="[" line="1" column="5" />
-        <mark key="]" line="1" column="8" />
-        <mark key="^" line="1" column="8" />
-        <mark key="." line="1" column="7" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1589463288678">
+      <file name="/JavaScript Console" timestamp="1589555954805">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/dev-portal/jest.config.js" timestamp="1589382433993">
-        <mark key="[" line="1" column="57" />
+      <file name="$USER_HOME$/dev/invivo/front-vendeurs/tests/e2e/support/commands/get-user.js" timestamp="1589552394775">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/kata-potter/README.md" timestamp="1589463921385" />
-      <file name="/vue.config.js" timestamp="1589379152483" />
-      <file name="$USER_HOME$/dev/invivo/kata-potter/src/test/index.test.js" timestamp="1589467945429">
-        <mark key="'" line="3" column="29" />
-        <mark key="[" line="5" column="6" />
-        <mark key="]" line="6" column="27" />
-        <mark key="^" line="6" column="27" />
-        <mark key="." line="6" column="26" />
+      <file name="$USER_HOME$/dev/invivo/front-vendeurs/src/services/user.service.js" timestamp="1589552828386">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/kata-potter/tsconfig.json" timestamp="1589453577447">
-        <mark key="'" line="67" column="0" />
-        <mark key="[" line="66" column="19" />
-        <mark key="]" line="66" column="13" />
-        <mark key="." line="66" column="12" />
-        <mark key="^" line="66" column="13" />
+      <file name="$USER_HOME$/dev/invivo/front-vendeurs/tests/e2e/support/commands/get-offer.js" timestamp="1589551559306" />
+      <file name="$USER_HOME$/dev/invivo/front-vendeurs/tests/e2e/support/commands/checkout.js" timestamp="1589555539568">
+        <mark key="[" line="25" column="34" />
+        <mark key="]" line="25" column="34" />
+        <mark key="^" line="25" column="34" />
+        <mark key="." line="25" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/dev-portal/package.json" timestamp="1589378441083">
-        <mark key="[" line="23" column="35" />
-        <mark key="]" line="23" column="35" />
-        <mark key="^" line="23" column="35" />
-        <mark key="." line="23" column="34" />
+      <file name="$USER_HOME$/dev/invivo/front-vendeurs/tests/e2e/support/commands/cart.js" timestamp="1589555648910">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="^" line="87" column="8" />
+        <mark key="." line="77" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/kata-potter/src/index.js" timestamp="1589467955112">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="5" column="4" />
-        <mark key="]" line="6" column="14" />
-        <mark key="^" line="6" column="14" />
-        <mark key="." line="6" column="13" />
+      <file name="$USER_HOME$/dev/invivo/front-agri/tests/e2e/specs/cart/cart-page-price-details.test.js" timestamp="1589551907704" />
+      <file name="$USER_HOME$/dev/invivo/front-vendeurs/tests/e2e/fixtures/offers/order-list-offers.csv" timestamp="1589555038835">
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="2" column="30" />
+        <mark key="^" line="2" column="30" />
+        <mark key="." line="2" column="29" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="40" filename="$USER_HOME$/dev/vue-auto-routing/test/webpack-plugin.spec.ts" />
-      <jump line="18" column="47" filename="$USER_HOME$/dev/invivo/dev-portal/vue.config.js" />
-      <jump line="82" column="0" filename="$USER_HOME$/dev/vue-route-generator/test/__snapshots__/index.spec.ts.snap" />
-      <jump line="40" column="23" filename="$USER_HOME$/dev/vue-route-generator/src/index.ts" />
       <jump line="12" column="1" filename="$USER_HOME$/dev/invivo/dev-portal/src/router/guides.ts" />
       <jump line="35" column="0" filename="$USER_HOME$/dev/invivo/dev-portal/vue.config.js" />
       <jump line="4" column="9" filename="$USER_HOME$/dev/invivo/dev-portal/src/router/guides.ts" />
@@ -272,6 +248,10 @@
       <jump line="3" column="0" filename="$USER_HOME$/dev/invivo/kata-potter/src/index.js" />
       <jump line="23" column="6" filename="$USER_HOME$/dev/invivo/kata-potter/src/test/index.test.ts" />
       <jump line="3" column="17" filename="$USER_HOME$/dev/invivo/kata-potter/src/test/index.test.ts" />
+      <jump line="23" column="12" filename="$USER_HOME$/dev/invivo/front-vendeurs/tests/e2e/specs/order/order-list.test.js" />
+      <jump line="0" column="38" filename="$USER_HOME$/dev/invivo/front-vendeurs/tests/e2e/support/commands/checkout.js" />
+      <jump line="2" column="58" filename="$USER_HOME$/dev/invivo/front-vendeurs/tests/e2e/support/commands/checkout.js" />
+      <jump line="14" column="1" filename="$USER_HOME$/dev/invivo/front-vendeurs/tests/e2e/support/commands/order.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -285,7 +265,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBmdW5jdGlvbiBjb21iaW5hdGlvbnNSZWMoYm9va3NUdXBsZSwgKQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY29vcGVyYXRpdmVJZCwgbWVtYmVyc2hpcE51bWJlcikK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -306,50 +286,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>map</text>
+        <text>body</text>
       </register>
       <register name="/" type="4">
-        <text>Renderer</text>
+        <text>seller</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgeyBib29rczogWzEsIDJdLCBleHBlY3RlZDogVU5JVF9QUklDRSAqIDIgKiAwLjk1IH0K</text>
+        <text encoding="base64">aW1wb3J0ICcuL2NvbW1hbmRzL2dldC1vZmZlcicK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBmdW5jdGlvbiBjb21iaW5hdGlvbnNSZWMoYm9va3NUdXBsZSwgKQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY29vcGVyYXRpdmVJZCwgbWVtYmVyc2hpcE51bWJlcikK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb21iaW5hdGlvbnNSZWMoYm9va3M6IEJvb2tUdXBsZSkK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh1c2VyKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZmlsZSkKICAgICAgY29uc29sZS5sb2coam9pbihkaXJuYW1lKGZvbGRlciksIGZpbGUpKQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHdoaWxlICgpCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBbXQo=</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb21icy5tYXAoKQo=</text>
+        <text encoding="base64">Lwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgLyoKICAgICAgICAgICAgY29kZTogSm9pLnN0cmluZygpLAogICAgICAgICAgICAgICAgICBraW5kOiBKb2kuc3RyaW5nKCkudmFsaWQoLi4uT2JqZWN0LnZhbHVlcyhBdmFpbGFibGVTaGlwcGluZ01ldGhvZHMpKSwKICAgICAgICAgICAgICAgICAgY29udGFjdDogSm9pLnN0cmluZygpLmFsbG93KG51bGwpLAogICAgICAgICAgICAgICAgICBjb25zdHJhaW50OiBKb2kuc3RyaW5nKCkuYWxsb3cobnVsbCksCiAgICAgICAgICAgICAgICAgIGxpbmVfaXRlbV9pZHM6IEpvaS5hcnJheSgpLml0ZW1zKAogICAgICAgICAgICAgICAgICAgIEpvaS5udW1iZXIoKQogICAgICAgICAgICAgICAgICAgICAgLmludGVnZXIoKQogICAgICAgICAgICAgICAgICAgICAgLnBvc2l0aXZlKCkKICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgKg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text>return pipe(
-    occurrences,
-    combinations,
-    applyDiscount
-  )</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgIHBheW1lbnRfbWV0aG9kOiAnc2VwYScK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmNvbnN0IHBpcGUgPSAoLi4uZm5zOiBGdW5jdGlvbltdKSA9PiAoZGF0YTogYW55KSA9PiBmbnMucmVkdWNlKChhY2MsIGZuKSA9PiBmbihhY2MpLCBkYXRhKQo=</text>
+        <text encoding="base64">aW1wb3J0ICcuL2NvbW1hbmRzL2NoZWNrb3V0Jwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -358,11 +334,11 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Renderer</last-search>
+      <last-search>seller</last-search>
       <last-offset />
-      <last-pattern>Renderer</last-pattern>
-      <last-replace>VArticleLayout</last-replace>
-      <last-substitute>Renderer</last-substitute>
+      <last-pattern>seller</last-pattern>
+      <last-replace>farmer</last-replace>
+      <last-substitute>seller</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
