@@ -95,6 +95,13 @@
         <mark key="^" line="42" column="52" />
         <mark key="." line="42" column="51" />
       </file>
+      <file name="$USER_HOME$/dev/invivo/kata-potter/src/index.ts" timestamp="1589586156008">
+        <mark key="'" line="25" column="48" />
+        <mark key="[" line="17" column="19" />
+        <mark key="]" line="16" column="84" />
+        <mark key="." line="16" column="83" />
+        <mark key="^" line="16" column="84" />
+      </file>
       <file name="$USER_HOME$/dev/invivo/front-vendeurs/tests/e2e/support/commands/import-catalog.js" timestamp="1589552287293">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -109,7 +116,6 @@
         <mark key="]" line="17" column="28" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/front-agri/tests/e2e/specs/order/order-summary.test.js" timestamp="1589550847589" />
       <file name="$USER_HOME$/dev/invivo/front-agri/tests/e2e/support/commands/login.js" timestamp="1589552753917" />
       <file name="$USER_HOME$/dev/invivo/api-transac/api/checkouts/checkouts.routes.js" timestamp="1589554663570">
         <mark key="[" line="12" column="4" />
@@ -264,8 +270,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY29vcGVyYXRpdmVJZCwgbWVtYmVyc2hpcE51bWJlcikK</text>
+      <register name="&quot;" type="4">
+        <text>...book, ]</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -286,7 +292,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>body</text>
+        <text>...book, ]</text>
       </register>
       <register name="/" type="4">
         <text>seller</text>
