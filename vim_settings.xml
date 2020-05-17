@@ -95,12 +95,19 @@
         <mark key="^" line="42" column="52" />
         <mark key="." line="42" column="51" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/kata-potter/src/index.ts" timestamp="1589675855380">
-        <mark key="'" line="28" column="48" />
-        <mark key="[" line="17" column="15" />
-        <mark key="]" line="20" column="48" />
-        <mark key="^" line="20" column="48" />
-        <mark key="." line="20" column="47" />
+      <file name="$USER_HOME$/dev/invivo/kata-potter/src/index.ts" timestamp="1589677045627">
+        <mark key="'" line="30" column="48" />
+        <mark key="[" line="20" column="50" />
+        <mark key="]" line="21" column="24" />
+        <mark key="^" line="21" column="24" />
+        <mark key="." line="21" column="23" />
+      </file>
+      <file name="$USER_HOME$/dev/invivo/kata-potter/src/test/index.test.ts" timestamp="1589677090951">
+        <mark key="'" line="3" column="17" />
+        <mark key="[" line="28" column="60" />
+        <mark key="]" line="28" column="60" />
+        <mark key="." line="28" column="59" />
+        <mark key="^" line="28" column="60" />
       </file>
       <file name="$USER_HOME$/dev/invivo/front-vendeurs/tests/e2e/support/commands/import-catalog.js" timestamp="1589552287293">
         <mark key="[" line="29" column="0" />
@@ -123,7 +130,7 @@
         <mark key="^" line="12" column="4" />
         <mark key="." line="12" column="3" />
       </file>
-      <file name="/JavaScript Console" timestamp="1589675866624">
+      <file name="/JavaScript Console" timestamp="1589677235271">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/invivo/front-vendeurs/tests/e2e/support/commands/get-user.js" timestamp="1589552394775">
@@ -136,7 +143,6 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/front-vendeurs/tests/e2e/support/commands/get-offer.js" timestamp="1589551559306" />
       <file name="$USER_HOME$/dev/invivo/front-vendeurs/tests/e2e/support/commands/checkout.js" timestamp="1589555539568">
         <mark key="[" line="25" column="34" />
         <mark key="]" line="25" column="34" />
@@ -270,8 +276,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>BookTuple</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgb3RoZXJDb21iWwo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -301,37 +307,37 @@
         <text encoding="base64">aW1wb3J0ICcuL2NvbW1hbmRzL2dldC1vZmZlcicK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBmdW5jdGlvbiBwcmljZShjb21iaW5hdGlvbjogQm9va1R1cGxlKTogUHJpY2Ugewo=</text>
+        <text encoding="base64">ICAgICAgb3RoZXJDb21iWwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgfQo=</text>
+        <text encoding="base64">ICAgICAgbmV3Q29tYi5zcGxpY2UoaW5kZXgsIDEsIHZhbHVlIC0gMSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgY29uc3QgY29tYnM6IEJvb2tUdXBsZVtdID0gY29tYmluYXRpb25zKG9jY3VycmVuY2VzKGJvb2tzKSkK</text>
+        <text encoding="base64">ICBmdW5jdGlvbiBwcmljZShjb21iaW5hdGlvbjogQm9va1R1cGxlKTogUHJpY2Ugewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">CiAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9LCBbYm9va3NdKQo=</text>
+        <text encoding="base64">CiAgY29uc3QgY29tYnM6IEJvb2tUdXBsZVtdID0gY29tYmluYXRpb25zKG9jY3VycmVuY2VzKGJvb2tzKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0dXBsZXMK</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIFsuLi50dXBsZXMsIF0KICAgIH0K</text>
+        <text encoding="base64">ICB9LCBbYm9va3NdKQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICByZXR1cm4gYm9va3MucmVkdWNlPEJvb2tUdXBsZVtdPigodHVwbGVzOiBCb29rVHVwbGVbXSwgYm9vazogbnVtYmVyLCBpbmRleDogbnVtYmVyKSA9PiB7CiAgICBpZiAoYm9vayA+IDEpIHsK</text>
+        <text encoding="base64">ICAgIHJldHVybiB0dXBsZXMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdHVwbGVzW10K</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIFsuLi50dXBsZXMsIF0KICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
