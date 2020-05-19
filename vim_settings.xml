@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>= require</entry>
         <entry>(</entry>
         <entry>)</entry>
         <entry>object</entry>
@@ -27,6 +26,7 @@
         <entry>NonEmpty</entry>
         <entry>Renderer</entry>
         <entry>seller</entry>
+        <entry encoding="base64">XDw1WFhcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
@@ -79,11 +79,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/invivo/dev-portal/src/views/VArticleLayout/VArticleLayout.ts" timestamp="1589891146214">
-        <mark key="[" line="13" column="59" />
-        <mark key="]" line="13" column="59" />
-        <mark key="." line="13" column="59" />
-        <mark key="^" line="13" column="45" />
+      <file name="$USER_HOME$/dev/invivo/dev-portal/src/views/VArticleLayout/VArticleLayout.ts" timestamp="1589904764932">
+        <mark key="[" line="13" column="42" />
+        <mark key="]" line="13" column="46" />
+        <mark key="." line="13" column="45" />
+        <mark key="^" line="13" column="46" />
       </file>
       <file name="$USER_HOME$/dev/invivo/dev-portal/src/assets/catalogue/composition-commande.md" timestamp="1589899127028">
         <mark key="[" line="1" column="33" />
@@ -91,22 +91,25 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="2" />
       </file>
-      <file name="/Dummy.ts" timestamp="1589876976845">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/vue-markdown-routing/package.json" timestamp="1589883103936">
         <mark key="[" line="78" column="37" />
         <mark key="]" line="78" column="37" />
         <mark key="^" line="78" column="37" />
         <mark key="." line="78" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/dev-portal/src/views/VArticleLayout/VArticleLayout.vue" timestamp="1589891074350">
-        <mark key="[" line="3" column="24" />
-        <mark key="]" line="3" column="28" />
-        <mark key="^" line="3" column="28" />
-        <mark key="." line="3" column="27" />
+      <file name="$USER_HOME$/dev/invivo/dev-portal/src/views/VArticleLayout/VArticleLayout.vue" timestamp="1589905324217">
+        <mark key="'" line="13" column="7" />
+        <mark key="[" line="5" column="53" />
+        <mark key="]" line="5" column="62" />
+        <mark key="^" line="5" column="62" />
+        <mark key="." line="5" column="61" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/dev-portal/src/App.vue" timestamp="1589893494976" />
+      <file name="$USER_HOME$/dev/invivo/dev-portal/src/App.vue" timestamp="1589905189172">
+        <mark key="'" line="49" column="23" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/invivo/dev-portal/src/assets/catalogue/use-cases/metter-a-jour-une-commande.md" timestamp="1589896090770">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="33" />
@@ -125,30 +128,42 @@
         <mark key="^" line="2" column="8" />
         <mark key="." line="2" column="8" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/dev-portal/src/assets/catalogue/use-cases/recuperer-une-commande.md" timestamp="1589896066832">
-        <mark key="[" line="1" column="29" />
-        <mark key="]" line="1" column="29" />
-        <mark key="^" line="1" column="29" />
-        <mark key="." line="1" column="28" />
+      <file name="$USER_HOME$/dev/invivo/dev-portal/src/assets/catalogue/use-cases/recuperer-une-commande.md" timestamp="1589905555648">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="18" column="17" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/invivo/dev-portal/src/presenters/PTree/PNode.vue" timestamp="1589902889019">
+        <mark key="[" line="35" column="24" />
+        <mark key="]" line="48" column="0" />
+        <mark key="^" line="29" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/dev/invivo/dev-portal/node_modules/aladin-design-system/src/css/_variables.scss" timestamp="1589892228348">
         <mark key="[" line="14" column="16" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1589894850610" />
-      <file name="/" timestamp="1589876970021">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/dev/invivo/dev-portal/src/presenters/PMarkdown/PMarkdown.vue" timestamp="1589903918563" />
+      <file name="$USER_HOME$/dev/invivo/dev-portal/src/lib/_markdown.scss" timestamp="1589905617673">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="^" line="65" column="21" />
+        <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/vue-md-route-generator/src/index.ts" timestamp="1589882371805">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/vue-md-route-generator/package.json" timestamp="1589882739502" />
       <file name="$USER_HOME$/dev/invivo/dev-portal/src/router/articles.ts" timestamp="1589891313277">
         <mark key="[" line="7" column="15" />
         <mark key="]" line="7" column="15" />
         <mark key="^" line="7" column="15" />
         <mark key="." line="7" column="14" />
+      </file>
+      <file name="$USER_HOME$/dev/invivo/dev-portal/src/lib/_variables.scss" timestamp="1589903337262">
+        <mark key="[" line="0" column="49" />
+        <mark key="]" line="0" column="48" />
+        <mark key="^" line="0" column="48" />
+        <mark key="." line="0" column="47" />
       </file>
       <file name="$USER_HOME$/dev/invivo/dev-portal/src/components/CSidebar/CSidebar.vue" timestamp="1589894332884">
         <mark key="[" line="10" column="0" />
@@ -176,12 +191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="4" filename="$USER_HOME$/dev/invivo/api-transac/api/orders/v2/order.mailer.js" />
-      <jump line="56" column="5" filename="$USER_HOME$/dev/invivo/api-transac/api/carts/carts.controller.js" />
-      <jump line="25" column="0" filename="$USER_HOME$/dev/invivo/api-transac/package.json" />
-      <jump line="102" column="0" filename="$USER_HOME$/dev/invivo/api-transac/package.json" />
-      <jump line="15" column="25" filename="$USER_HOME$/dev/invivo/api-transac/.eslintrc.js" />
-      <jump line="9" column="38" filename="$USER_HOME$/dev/invivo/api-transac/.eslintrc.json" />
       <jump line="54" column="7" filename="$USER_HOME$/dev/invivo/api-transac/api/shipping-rates/domain/shipping-rate.js" />
       <jump line="15" column="59" filename="$USER_HOME$/dev/invivo/api-transac/api/shipping-rates/domain/create-shipping-rate.use-case.js" />
       <jump line="5" column="0" filename="$USER_HOME$/dev/invivo/api-transac/api/shipping-rates/domain/shipping-rate-interface.ts" />
@@ -276,6 +285,12 @@
       <jump line="29" column="12" filename="$USER_HOME$/dev/invivo/api-transac/api/shipping-rates/test/create-shipping-rate.use-case.test.ts" />
       <jump line="15" column="38" filename="$USER_HOME$/dev/invivo/api-transac/api/shipping-rates/test/replace-or-create-shipping-rate.use-case.test.ts" />
       <jump line="50" column="26" filename="$USER_HOME$/dev/invivo/api-transac/api/shipping-rates/domain/shipping-rate-interface.ts" />
+      <jump line="49" column="23" filename="$USER_HOME$/dev/invivo/dev-portal/src/App.vue" />
+      <jump line="13" column="7" filename="$USER_HOME$/dev/invivo/dev-portal/src/views/VArticleLayout/VArticleLayout.vue" />
+      <jump line="24" column="0" filename="$USER_HOME$/dev/invivo/dev-portal/src/assets/catalogue/use-cases/recuperer-une-commande.md" />
+      <jump line="45" column="2" filename="$USER_HOME$/dev/invivo/dev-portal/src/lib/_markdown.scss" />
+      <jump line="62" column="28" filename="$USER_HOME$/dev/invivo/dev-portal/src/lib/_markdown.scss" />
+      <jump line="5" column="0" filename="$USER_HOME$/dev/invivo/dev-portal/src/lib/_markdown.scss" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -289,7 +304,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxpbmUtaGVpZ2h0OiAkbGluZS1oZWlnaHQtZGVmYXVsdDsK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -310,46 +325,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>section</text>
       </register>
       <register name="/" type="4">
-        <text>seller</text>
+        <text encoding="base64">XDw1WFhcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBvbk5vdENvb3BlcmF0aXZlTWVtYmVyOiBFcnJvckZuPFQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxpbmUtaGVpZ2h0OiAkbGluZS1oZWlnaHQtZGVmYXVsdDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YSB7CiAgY29sb3I6ICRjb2xvci1ibGFjazsKCiAgJjpob3ZlciB7CiAgICBjb2xvcjogJGNvbG9yLXByaW1hcnk7CiAgfQoKICAmOmFjdGl2ZSwKICAmOnZpc2l0ZWQgewogICAgY29sb3I6ICRjb2xvci10ZXJ0aWFyeTsKICB9Cn0K</text>
+        <text encoding="base64">ICAgIGxpbmUtaGVpZ2h0OiAkbGluZS1oZWlnaHQtZGVmYXVsdDsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="3" type="4">
+        <text encoding="base64">CgogIHAgewoKICB9</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfSwKICAgICAgY2hpbGRyZW46IHRvTm9kZSh0aGlzLnJvdXRlcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aXRsZTogJ2d1aWRlcycsCiAgICAgICAgcGF0aDogJy9ndWlkZXMnCg==</text>
+        <text encoding="base64">QGltcG9ydCAnLi9saWIvdmFyaWFibGVzJzsKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB7CiAgICAgIHZhbHVlOiB7Cg==</text>
+        <text encoding="base64">QGltcG9ydCAnLi9saWIvdmFyaWFibGVzJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICByZXR1cm4gcm91dGUuY2hpbGRyZW4ubWFwKHJvdXRlID0+IHsKICAgIHJldHVybiB7Cg==</text>
+        <text encoding="base64">ICBwcmUsCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLi4uY3JlYXRlTm9kZShyb3V0ZSksCiAgICAgIGNoaWxkcmVuOiB0b05vZGUocm91dGUuY2hpbGRyZW4pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0KICB9KQo=</text>
+        <text encoding="base64">QGltcG9ydCB1cmwoJ2h0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vY3NzMj9mYW1pbHk9RmlyYStDb2RlJmRpc3BsYXk9c3dhcCcpOwpAaW1wb3J0ICd+cHJpc21qcy90aGVtZXMvcHJpc20tdG9tb3Jyb3cnOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -358,12 +373,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>seller</last-search>
+      <last-search encoding="base64">XDw1WFhcPg==</last-search>
       <last-offset />
-      <last-pattern>seller</last-pattern>
+      <last-pattern encoding="base64">XDw1WFhcPg==</last-pattern>
       <last-replace>farmer</last-replace>
       <last-substitute>seller</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
