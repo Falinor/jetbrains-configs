@@ -99,15 +99,17 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/mix-it/mono-repo/packages/mix-it-front/src/views/Host/Host.vue" timestamp="1590074158927">
-        <mark key="[" line="91" column="38" />
-        <mark key="]" line="91" column="38" />
-        <mark key="." line="91" column="38" />
+      <file name="$USER_HOME$/dev/mix-it/mono-repo/packages/mix-it-front/src/views/Host/Host.vue" timestamp="1590082627683">
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
+        <mark key="^" line="40" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/mix-it/api/src/party/ws/party-router.ts" timestamp="1590073987040">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
+      <file name="$USER_HOME$/dev/mix-it/api/src/party/ws/party-router.ts" timestamp="1590083810584">
+        <mark key="'" line="71" column="33" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/dev/mix-it/mono-repo/packages/mix-it-front/src/models/index.ts" timestamp="1590070731427">
         <mark key="[" line="0" column="0" />
@@ -123,12 +125,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="^" line="4" column="27" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/invivo/dev-portal/.eslintrc.js" timestamp="1589984175451">
-        <mark key="[" line="21" column="81" />
-        <mark key="]" line="22" column="45" />
-        <mark key="^" line="22" column="45" />
-        <mark key="." line="22" column="44" />
       </file>
       <file name="$USER_HOME$/dev/mix-it/api/src/party/ws/test/party-router.test.ts" timestamp="1590070483773">
         <mark key="'" line="0" column="7" />
@@ -151,6 +147,10 @@
         <mark key="]" line="86" column="25" />
         <mark key="^" line="86" column="25" />
         <mark key="." line="86" column="51" />
+      </file>
+      <file name="$USER_HOME$/dev/mix-it/api/src/party/party-repository.ts" timestamp="1590084401922">
+        <mark key="'" line="95" column="4" />
+        <mark key="[" line="94" column="2" />
       </file>
       <file name="$USER_HOME$/dev/mix-it/mono-repo/packages/mix-it-front/src/views/Host/host.feature.ts" timestamp="1590074902843">
         <mark key="'" line="52" column="9" />
@@ -189,9 +189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="25" filename="$USER_HOME$/dev/invivo/dev-portal/src/router/articles.ts" />
-      <jump line="22" column="41" filename="$USER_HOME$/dev/invivo/dev-portal/src/router/articles.ts" />
-      <jump line="13" column="41" filename="$USER_HOME$/dev/invivo/dev-portal/src/router/articles.ts" />
       <jump line="8" column="14" filename="$USER_HOME$/dev/invivo/dev-portal/src/views/VCatalog/VCatalog.spec.ts" />
       <jump line="53" column="44" filename="$USER_HOME$/dev/vue-md-route-generator/test/resolve.spec.ts" />
       <jump line="29" column="41" filename="$USER_HOME$/dev/vue-md-route-generator/src/resolve.ts" />
@@ -289,6 +286,9 @@
       <jump line="299" column="0" filename="$USER_HOME$/dev/mix-it/mono-repo/packages/mix-it-front/src/components/Clients.vue" />
       <jump line="79" column="0" filename="$USER_HOME$/dev/mix-it/mono-repo/packages/mix-it-front/src/components/Clients.vue" />
       <jump line="52" column="9" filename="$USER_HOME$/dev/mix-it/mono-repo/packages/mix-it-front/src/views/Host/host.feature.ts" />
+      <jump line="71" column="33" filename="$USER_HOME$/dev/mix-it/api/src/party/ws/party-router.ts" />
+      <jump line="16" column="2" filename="$USER_HOME$/dev/mix-it/api/src/party/party-repository.ts" />
+      <jump line="95" column="4" filename="$USER_HOME$/dev/mix-it/api/src/party/party-repository.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -302,7 +302,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zb2NrZXQucmVtb3ZlQWxsTGlzdGVuZXJzKCkK</text>
+        <text encoding="base64">ICAgIHNvY2tldC5yZW1vdmVBbGxMaXN0ZW5lcnMoKQo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -332,37 +332,37 @@
         <text encoding="base64">ICAgICAgICAgICAgPHNwYW4gY2xhc3M9InVzZXJzX19saXN0X19pbWciPjwvc3Bhbj4KICAgICAgICAgICAgPHNwYW4+QXJ0dXIgQ2FybWU8L3NwYW4+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zb2NrZXQucmVtb3ZlQWxsTGlzdGVuZXJzKCkK</text>
+        <text encoding="base64">ICAgIHNvY2tldC5yZW1vdmVBbGxMaXN0ZW5lcnMoKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zb2NrZXQuCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgZmxvdyB9IGZyb20gJ2ZwLXRzL2VzNi9mdW5jdGlvbicK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlbW92ZUxpc3RlbmVycygpCg==</text>
+        <text encoding="base64">KQo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CgogIGZ1bmN0aW9uIHJlbW92ZUxpc3RlbmVycygpOiB2b2lkIHsKICAgIHBhcnR5U2VydmljZS5jbGVhblVwKCkKICB9</text>
+      <register name="4" type="2">
+        <text encoding="base64">ZmxvdygKICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdvbkNsaWVudEpvaW5lZCcpCg==</text>
+        <text encoding="base64">cmVhZG9ubHlBcnJheS4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc29ja2V0LnJlbW92ZUFsbExpc3RlbmVycygpdgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAKICB0aGlzLnNjbwo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zb2NrZXQucmVtb3ZlQWxsTGlzdGVuZXJzKCkK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRlYXJEb3duKCkK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zb2NrZXQuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IGpvaW4oKQo=</text>
+        <text encoding="base64">ICAgIHJlbW92ZUxpc3RlbmVycygpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
