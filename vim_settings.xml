@@ -85,7 +85,12 @@
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/mix-it/api/src/party/ws/party-router.ts" timestamp="1590251658685" />
+      <file name="$USER_HOME$/dev/mix-it/api/src/party/ws/party-router.ts" timestamp="1590256354474">
+        <mark key="[" line="18" column="6" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/invivo/api-transac/api/utils/factories/factory.ts" timestamp="1590161737323">
         <mark key="[" line="4" column="79" />
         <mark key="]" line="4" column="72" />
@@ -108,12 +113,12 @@
       <file name="$USER_HOME$/dev/invivo/dev-portal/src/views/VApiExplorer/VApiExplorer.spec.ts" timestamp="1590136437246">
         <mark key="[" line="11" column="62" />
       </file>
-      <file name="$USER_HOME$/dev/mix-it/api/src/party/ws/host.ts" timestamp="1590251677855">
-        <mark key="'" line="8" column="13" />
-        <mark key="[" line="18" column="29" />
-        <mark key="]" line="18" column="29" />
-        <mark key="." line="18" column="29" />
-        <mark key="^" line="22" column="1" />
+      <file name="$USER_HOME$/dev/mix-it/api/src/party/ws/host.ts" timestamp="1590255842749">
+        <mark key="'" line="48" column="4" />
+        <mark key="[" line="47" column="18" />
+        <mark key="]" line="47" column="18" />
+        <mark key="." line="47" column="17" />
+        <mark key="^" line="47" column="18" />
       </file>
       <file name="$USER_HOME$/dev/invivo/api-transac/api/utils/factories/shipping-rate.ts" timestamp="1590161901053">
         <mark key="'" line="7" column="30" />
@@ -184,7 +189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="$USER_HOME$/dev/invivo/kata-potter/.eslintrc" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/invivo/kata-potter/.eslintrc" />
       <jump line="12" column="2" filename="$USER_HOME$/dev/invivo/kata-potter/.eslintrc" />
       <jump line="51" column="0" filename="$USER_HOME$/dev/invivo/kata-potter/tsconfig.json" />
@@ -284,6 +288,7 @@
       <jump line="12" column="1" filename="$USER_HOME$/dev/mix-it/api/src/party/ws/playlist.ts" />
       <jump line="28" column="0" filename="$USER_HOME$/dev/mix-it/api/src/party/ws/playlist.ts" />
       <jump line="5" column="0" filename="$USER_HOME$/dev/mix-it/api/src/party/ws/playlist.ts" />
+      <jump line="45" column="4" filename="$USER_HOME$/dev/mix-it/api/src/party/ws/host.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -296,8 +301,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHNldFVwKHNvY2tldCkK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -318,7 +323,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
         <text>~</text>
@@ -327,37 +332,37 @@
         <text encoding="base64">ICAgIHJvb20oKS5lbWl0KCdwbGF5bGlzdCcsIHBhcnR5LnBsYXlsaXN0KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzb2NrZXQuZGlzCg==</text>
+        <text encoding="base64">ICAgIHNldFVwKHNvY2tldCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNvY2tldC5sZWF2ZShwYXJ0eUlkKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">c29ja2V0Lm9uY2UoJ2hvc3Q6bGVhdmUnLCAoKSA9PiB7CgogICAgfSk=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgc29ja2V0Lm9uKCcnKQo=</text>
+        <text encoding="base64">ICBmdW5jdGlvbiBzZXRVcChzb2NrZXQ6IFNvY2tldCk6IHZvaWQgewogICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgfSA9IG9wdHMK</text>
+        <text encoding="base64">ICAKCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAoK</text>
+      <register name="6" type="4">
+        <text encoding="base64">ZnVuY3Rpb24gY2xlYW5VcChzb2NrZXQ6IFNvY2tldCk6IHZvaWQgewogICAgc29ja2V0LmxlYXZlQWxsKCkKICAgIGNvbnN0IGV2ZW50czogc3RyaW5nW10gPSBbJ3BsYXlsaXN0JywgJ3Nvbmc6c3VibWl0J10KICAgIGV2ZW50cy5mb3JFYWNoKGV2ZW50ID0+IHsKICAgICAgc29ja2V0LnJlbW92ZUFsbExpc3RlbmVycyhldmVudCkKICAgIH0pCiAgfQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCBwYXJ0eTogUGFydHkgfCBudWxsID0gYXdhaXQgCg==</text>
+        <text encoding="base64">ICAgIAogICAgfSkK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzb2NrZXQuCg==</text>
+        <text encoding="base64">ICAgIHNvY2tldC5vbigncm9vbTpqb2luJywgYXN5bmMgKG9wdHM6IFBhcnR5Sm9pbk9wdGlvbnMsIG9uUm9vbUpvaW5lZDogRnVuY3Rpb24pID0+IHsKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCB7IHBhfSA9IG9wdHMK</text>
+        <text encoding="base64">ICAgICAgLy8gVE9ETzogdmFsaWRhdGUgZXZlcnkgaW5wdXQKICAgICAgY29uc3QgeyBwYXJ0eUlkIH0gPSBvcHRzCiAgICAgIGNvbnN0IHBhcnR5OiBQYXJ0eSB8IG51bGwgPSBhd2FpdCBwYXJ0eVJlcG9zaXRvcnkuZ2V0KHBhcnR5SWQpCiAgICAgIGlmICghcGFydHkpIHsKICAgICAgICBjb25zdCBlcnJvciA9IG5ldyBNaXNzaW5nUGFydHlFcnJvcihwYXJ0eUlkKQogICAgICAgIHJldHVybiBvblJvb21Kb2luZWQoZXJyb3IpCiAgICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
