@@ -157,8 +157,11 @@
         <mark key="^" line="45" column="24" />
         <mark key="." line="45" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/mix-it/api/src/party/party-repository.ts" timestamp="1590311322805">
+      <file name="$USER_HOME$/dev/mix-it/api/src/party/party-repository.ts" timestamp="1590311324037">
         <mark key="[" line="94" column="2" />
+        <mark key="]" line="94" column="8" />
+        <mark key="^" line="94" column="8" />
+        <mark key="." line="94" column="7" />
       </file>
       <file name="$USER_HOME$/dev/mix-it/mono-repo/packages/mix-it-front/src/views/Host/host.feature.ts" timestamp="1590311223596">
         <mark key="[" line="33" column="49" />
@@ -184,15 +187,18 @@
         <mark key="." line="3" column="14" />
         <mark key="^" line="3" column="15" />
       </file>
-      <file name="file://$USER_HOME$/dev/invivo/dev-portal/src/presenters/PTabs/PTabs.vue" timestamp="1590142726612">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/dev/mix-it/api/src/party/ws/test/song.test.ts" timestamp="1590312583399">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="1" column="10" />
+        <mark key="^" line="1" column="10" />
+        <mark key="." line="1" column="9" />
       </file>
-      <file name="$USER_HOME$/dev/mix-it/api/src/party/ws/song.ts" timestamp="1590274646273">
+      <file name="$USER_HOME$/dev/mix-it/api/src/party/ws/song.ts" timestamp="1590312543870">
         <mark key="'" line="47" column="13" />
-        <mark key="[" line="50" column="16" />
-        <mark key="]" line="50" column="26" />
-        <mark key="." line="50" column="25" />
-        <mark key="^" line="50" column="26" />
+        <mark key="[" line="37" column="23" />
+        <mark key="]" line="39" column="47" />
+        <mark key="." line="39" column="46" />
+        <mark key="^" line="39" column="47" />
       </file>
     </filemarks>
     <jumps>
@@ -309,7 +315,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>playlist</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -330,46 +336,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>playlist</text>
       </register>
       <register name="/" type="4">
         <text>~</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgc29ja2V0LmVtaXQoVXNlckV2ZW50cy5VU0VSX0pPSU5FRCwgQXJyYXkuZnJvbSh1c2Vycy52YWx1ZXMoKSkpCg==</text>
+        <text encoding="base64">ICAgIHJvb20oKS5lbWl0KCdwbGF5bGlzdCcsIHBhcnR5LnBsYXlsaXN0KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgc29ja2V0LnRvKCkK</text>
+        <text encoding="base64">aW1wb3J0IHsgZmxvdyB9IGZyb20gJ2ZwLXRzL2xpYi9mdW5jdGlvbicK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBQTEFZTElTVCA9ICdwbGF5bGlzdDpyZWZyZXNoJywKICBTT05HX1NVQk1JVCA9ICdzb25nOnN1Ym1pdCcK</text>
+        <text encoding="base64">ICAgICAgc29ja2V0LnRvKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBDTElFTlRfSk9JTkVEID0gJ2NsaWVudDpqb2luZWQnLAogIENMSUVOVF9MRUZUID0gJ2NsaWVudDpsZWZ0JywK</text>
+        <text encoding="base64">ICBQTEFZTElTVCA9ICdwbGF5bGlzdDpyZWZyZXNoJywKICBTT05HX1NVQk1JVCA9ICdzb25nOnN1Ym1pdCcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBIT1NUX0pPSU5FRCA9ICdob3N0OmpvaW5lZCcsCiAgSE9TVF9MRUZUID0gJ2hvc3Q6bGVmdCcsCg==</text>
+        <text encoding="base64">ICBDTElFTlRfSk9JTkVEID0gJ2NsaWVudDpqb2luZWQnLAogIENMSUVOVF9MRUZUID0gJ2NsaWVudDpsZWZ0JywK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICBIT1NUX0pPSU5FRCA9ICdob3N0OmpvaW5lZCcsCiAgSE9TVF9MRUZUID0gJ2hvc3Q6bGVmdCcsCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgICAgICAgPHVsPgogICAgICAgICAgPGxpPgogICAgICAgICAgICA8c3BhbiBjbGFzcz0idXNlcnNfX2xpc3RfX2ltZyI+PC9zcGFuPgogICAgICAgICAgICA8c3Bhbj5BcnR1ciBDYXJtZTwvc3Bhbj4KICAgICAgICAgIDwvbGk+CiAgICAgICAgICA8bGk+CiAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJ1c2Vyc19fbGlzdF9faW1nIj48L3NwYW4+CiAgICAgICAgICAgIDxzcGFuPkxvcmVtIElwc3VtPC9zcGFuPgogICAgICAgICAgPC9saT4KICAgICAgICAgIDxsaT4KICAgICAgICAgICAgPHNwYW4gY2xhc3M9InVzZXJzX19saXN0X19pbWciPjwvc3Bhbj4KICAgICAgICAgICAgPHNwYW4+w4hyaWMgUm9jPC9zcGFuPgogICAgICAgICAgPC9saT4KICAgICAgICAgIDxsaT4KICAgICAgICAgICAgPHNwYW4gY2xhc3M9InVzZXJzX19saXN0X19pbWciPjwvc3Bhbj4KICAgICAgICAgICAgPHNwYW4+TWFyaWEgTWFyY2VsPC9zcGFuPgogICAgICAgICAgPC9saT4KICAgICAgICAgIDxsaT4KICAgICAgICAgICAgPHNwYW4gY2xhc3M9InVzZXJzX19saXN0X19pbWciPjwvc3Bhbj4KICAgICAgICAgICAgPHNwYW4+RGlhbmEgUmFtb248L3NwYW4+CiAgICAgICAgICA8L2xpPgogICAgICAgIDwvdWw+</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdvbkNsaWVudEpvaW5lZCcpCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY2xpZW50cykK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdvbkNsaWVudEpvaW5lZCcpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0JJVEUnKQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY2xpZW50cykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
