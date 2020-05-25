@@ -111,7 +111,7 @@
         <mark key="^" line="78" column="16" />
         <mark key="." line="78" column="13" />
       </file>
-      <file name="/JavaScript Console" timestamp="1590417974892">
+      <file name="/JavaScript Console" timestamp="1590425736452">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/mix-it/api/src/party/ws/playlist.ts" timestamp="1590310386234">
@@ -144,12 +144,6 @@
         <mark key="^" line="34" column="27" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/mix-it/mono-repo/packages/mix-it-front/src/services/party.service.ts" timestamp="1590309187303">
-        <mark key="[" line="63" column="20" />
-        <mark key="]" line="63" column="20" />
-        <mark key="." line="63" column="20" />
-        <mark key="^" line="59" column="24" />
-      </file>
       <file name="$USER_HOME$/dev/invivo/api-transac/api/offers/product-kinds.enum.js" timestamp="1590419230642" />
       <file name="$USER_HOME$/dev/mix-it/api/src/party/ws/party-events.ts" timestamp="1590310335925">
         <mark key="[" line="0" column="25" />
@@ -157,26 +151,23 @@
         <mark key="." line="3" column="14" />
         <mark key="^" line="3" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/mix-it/api/src/party/ws/test/song.test.ts" timestamp="1590423275502">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="23" column="39" />
-        <mark key="]" line="23" column="48" />
-        <mark key="." line="23" column="47" />
-        <mark key="^" line="23" column="48" />
+      <file name="$USER_HOME$/dev/mix-it/api/src/party/ws/test/song.test.ts" timestamp="1590426059618">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="10" column="67" />
+        <mark key="]" line="9" column="29" />
+        <mark key="." line="9" column="28" />
+        <mark key="^" line="9" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/mix-it/api/src/party/ws/song.ts" timestamp="1590312543870">
+      <file name="$USER_HOME$/dev/mix-it/api/node_modules/@types/socket.io-client/index.d.ts" timestamp="1590423498944" />
+      <file name="$USER_HOME$/dev/mix-it/api/src/party/ws/song.ts" timestamp="1590425825165">
         <mark key="'" line="47" column="13" />
-        <mark key="[" line="37" column="23" />
-        <mark key="]" line="39" column="47" />
-        <mark key="." line="39" column="46" />
-        <mark key="^" line="39" column="47" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/dev/invivo/api-transac/api/shipping-rates/shipping-rates.controller.ts" timestamp="1590418197881" />
     </filemarks>
     <jumps>
-      <jump line="67" column="0" filename="$USER_HOME$/dev/invivo/kata-potter/tsconfig.json" />
-      <jump line="11" column="0" filename="$USER_HOME$/dev/invivo/kata-potter/src/index.ts" />
-      <jump line="14" column="48" filename="$USER_HOME$/dev/invivo/kata-potter/src/index.ts" />
       <jump line="3" column="0" filename="$USER_HOME$/dev/invivo/kata-potter/src/index.js" />
       <jump line="23" column="6" filename="$USER_HOME$/dev/invivo/kata-potter/src/test/index.test.ts" />
       <jump line="3" column="17" filename="$USER_HOME$/dev/invivo/kata-potter/src/test/index.test.ts" />
@@ -258,7 +249,6 @@
       <jump line="43" column="13" filename="$USER_HOME$/dev/mix-it/api/src/party/ws/song.ts" />
       <jump line="44" column="38" filename="$USER_HOME$/dev/mix-it/api/src/party/ws/user.ts" />
       <jump line="28" column="22" filename="$USER_HOME$/dev/mix-it/api/src/party/ws/user.ts" />
-      <jump line="5" column="12" filename="$USER_HOME$/dev/mix-it/api/src/party/ws/test/song.test.ts" />
       <jump line="3" column="34" filename="$USER_HOME$/dev/mix-it/api/src/party/ws/test/song.test.ts" />
       <jump line="9" column="19" filename="$USER_HOME$/dev/mix-it/api/src/party/ws/test/song.test.ts" />
       <jump line="44" column="20" filename="$USER_HOME$/dev/invivo/api-transac/api/shipping-rates/test/replace-or-create-shipping-rate.use-case.test.ts" />
@@ -274,6 +264,10 @@
       <jump line="8" column="0" filename="$USER_HOME$/dev/invivo/api-transac/api/shipping-rates/test/replace-or-create-shipping-rate.use-case.test.ts" />
       <jump line="125" column="17" filename="$USER_HOME$/dev/invivo/api-transac/api/shipping-rates/test/replace-or-create-shipping-rate.use-case.test.ts" />
       <jump line="10" column="0" filename="$USER_HOME$/dev/mix-it/api/src/party/ws/test/song.test.ts" />
+      <jump line="17" column="29" filename="$USER_HOME$/dev/mix-it/api/src/party/ws/test/song.test.ts" />
+      <jump line="5" column="0" filename="$USER_HOME$/dev/mix-it/api/src/party/ws/test/song.test.ts" />
+      <jump line="16" column="37" filename="$USER_HOME$/dev/mix-it/api/src/party/ws/test/song.test.ts" />
+      <jump line="6" column="0" filename="$USER_HOME$/dev/mix-it/api/src/party/ws/test/song.test.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -286,8 +280,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Party</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -308,7 +302,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">RW1pdHRlciA=</text>
+        <text>Party</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaGlwcGluZ1JhdGVzUmVwb3NpdG9yeVw+</text>
@@ -317,37 +311,37 @@
         <text encoding="base64">ICAgIG9uTm90Q29vcGVyYXRpdmVNZW1iZXIgPSBzcHkoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzb2NrZXQub24uY2FsbGVkKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzb2NrZXQubGlzdGVuZXJDb3VudCgpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgb25jZShldmVudDogc3RyaW5nLCBmbjogRnVuY3Rpb24pOiBTb2NrZXRJT0NsaWVudC5FbWl0dGVyIHsKICAgICAgb246IGV2ZW50RW1pdHRlci5vbgo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNvY2tldCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzb2NrZXQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBldmVudEVtaXR0ZXIub25jZShldmVudCwgZm4pCiAgICAgICAgcmV0dXJuIGV2ZW50RW1pdHRlcgo=</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KG9uU29uZ1N1Ym1pdHRlZCkudG9IYXZlQmVlbkNhbGxlZCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IEVtaXR0ZXIgPSBTb2NrZXRJT0NsaWVudC5FbWl0dGVyCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3Qgb25Tb25nU3VibWl0dGVkID0gamVzdC5mbigpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IEVtaXR0ZXIgPSBTb2NrZXRJT0NsaWVudC5FbWl0dGVyCg==</text>
+        <text encoding="base64">ICAgICAgc29ja2V0LmVtaXQoU29uZ0V2ZW50cy5TT05HX1NVQk1JVCwgJycsIG9uU29uZ1N1Ym1pdHRlZCkK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgc29ja2V0LmVtaXQoU29uZ0V2ZW50cy5TT05HX1NVQk1JVCwgJzEyMycsIG9uU29uZ1N1Ym1pdHRlZCkK</text>
+        <text encoding="base64">ICAgICAgb246IGVtaXR0ZXIub24sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgc29ja2V0LmVtaXQoU29uZ0V2ZW50cy5TT05HX1NVQk1JVCwgJzEyMycsIG9uU29uZ1N1Ym1pdHRlZCkK</text>
+        <text encoding="base64">ICAgICAgZW1pdAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
