@@ -163,12 +163,11 @@
         <mark key="." line="3" column="14" />
         <mark key="^" line="3" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/mix-it/api/src/party/ws/test/song.test.ts" timestamp="1590361370223">
-        <mark key="'" line="9" column="19" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="^" line="35" column="19" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/dev/mix-it/api/src/party/ws/test/song.test.ts" timestamp="1590408256952">
+        <mark key="'" line="35" column="69" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/dev/mix-it/api/src/party/ws/playlist.ts" timestamp="1590310386234">
         <mark key="'" line="6" column="0" />
@@ -187,7 +186,6 @@
       <file name="$USER_HOME$/dev/invivo/api-transac/api/shipping-rates/domain/create-shipping-rate.use-case.ts" timestamp="1590394103541" />
     </filemarks>
     <jumps>
-      <jump line="12" column="26" filename="$USER_HOME$/dev/invivo/kata-potter/src/test/index.test.ts" />
       <jump line="3" column="0" filename="$USER_HOME$/dev/invivo/kata-potter/src/index.ts" />
       <jump line="20" column="3" filename="$USER_HOME$/dev/invivo/kata-potter/src/test/index.test.ts" />
       <jump line="16" column="77" filename="$USER_HOME$/dev/invivo/kata-potter/src/test/index.test.ts" />
@@ -287,6 +285,7 @@
       <jump line="71" column="41" filename="$USER_HOME$/dev/invivo/api-transac/api/shipping-rates/test/replace-or-create-shipping-rate.use-case.test.ts" />
       <jump line="46" column="0" filename="$USER_HOME$/dev/invivo/api-transac/api/shipping-rates/test/replace-or-create-shipping-rate.use-case.test.ts" />
       <jump line="49" column="24" filename="$USER_HOME$/dev/invivo/api-transac/api/shipping-rates/test/replace-or-create-shipping-rate.use-case.test.ts" />
+      <jump line="35" column="69" filename="$USER_HOME$/dev/mix-it/api/src/party/ws/test/song.test.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -299,8 +298,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZXhwZWN0ZWRTaGlwcGluZ1JhdGUg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGFwcC53cy4K</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -321,7 +320,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZXhwZWN0ZWRTaGlwcGluZ1JhdGUg</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="/" type="4">
         <text>spy()</text>
@@ -330,37 +329,37 @@
         <text encoding="base64">ICAgIG9uTm90Q29vcGVyYXRpdmVNZW1iZXIgPSBzcHkoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnN0IG9uUmVwbGFjZWQgPSBzcHkoKQo=</text>
+        <text encoding="base64">ICAgIGFwcC53cy4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb25SZXBsYWNlZAo=</text>
+        <text encoding="base64">ICBsZXQgcGFydHlSZXBvc2l0b3J5OiBNb2NrUHJveHk8UGFydHlSZXBvc2l0b3J5PiAmIFBhcnR5UmVwb3NpdG9yeQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2hpcHBpbmdSYXRlLAogICAgICAgICAgICB1c2VyLAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzaGlwcGluZ1JhdGUuc29ydFJhbmdlcyAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBlc2xpbnQtZGlzYWJsZS1uZXh0LWxpbmUgQHR5cGVzY3JpcHQtZXNsaW50L25vLWVtcHR5LWZ1bmN0aW9uCg==</text>
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBvbkNyZWF0ZWQgPSAoKSA9PiB7fQo=</text>
+        <text encoding="base64">ICAgIGJlZm9yZUVhY2goKCkgPT4gewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzaGlwcGluZ1JhdGVzUmVwb3NpdG9yeS5nZXQgPSBzdHViKCkucmVzb2x2ZXMoKQo=</text>
+        <text encoding="base64">ICAgIGxldCBwYXJ0eTogTW9ja1Byb3h5PFBhcnR5PiAmIFBhcnR5CiAgICBsZXQgcGFydHlSZXBvc2l0b3J5OiBNb2NrUHJveHk8UGFydHlSZXBvc2l0b3J5PiAmIFBhcnR5UmVwb3NpdG9yeQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnN0IG9uQ3JlYXRlZCA9IHNweSgpCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">bGV0IHBhcnR5OiBNb2NrUHJveHk8UGFydHk+ICYgUGFydHkKICAgIGxldCBwYXJ0eVJlcG9zaXRvcnk6IE1vY2tQcm94eTxQYXJ0eVJlcG9zaXRvcnk+ICYgUGFydHlSZXBvc2l0b3J5CgogICAgYmVmb3JlRWFjaCgoKSA9PiB7CiAgICAgIHBhcnR5ID0gbW9jazxQYXJ0eT4oKQogICAgICBwYXJ0eVJlcG9zaXRvcnkgPSBtb2NrPFBhcnR5UmVwb3NpdG9yeT4oKQogICAgfSk=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2hpcHBpbmdSYXRlLAo=</text>
+        <text encoding="base64">ICAgICAgcGFydHlSZXBvc2l0b3J5LmFkZFNvbmcuY2FsbGVkCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
