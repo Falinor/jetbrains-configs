@@ -100,11 +100,11 @@
         <mark key="^" line="0" column="31" />
         <mark key="." line="0" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/api-transac/api/shipping-rates/test/replace-or-create-shipping-rate.use-case.test.ts" timestamp="1590411507201">
-        <mark key="[" line="189" column="40" />
-        <mark key="]" line="159" column="70" />
-        <mark key="^" line="159" column="70" />
-        <mark key="." line="159" column="69" />
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/shipping-rates/test/replace-or-create-shipping-rate.use-case.test.ts" timestamp="1590414943618">
+        <mark key="[" line="172" column="47" />
+        <mark key="]" line="172" column="47" />
+        <mark key="^" line="164" column="36" />
+        <mark key="." line="172" column="47" />
       </file>
       <file name="$USER_HOME$/dev/mix-it/api/src/party/party-repository.ts" timestamp="1590311324037">
         <mark key="[" line="94" column="2" />
@@ -119,19 +119,18 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="7" />
       </file>
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/shipping-rates/domain/shipping-rate-interface.ts" timestamp="1590414629196">
+        <mark key="[" line="3" column="5" />
+        <mark key="]" line="3" column="6" />
+        <mark key="^" line="3" column="6" />
+        <mark key="." line="3" column="5" />
+      </file>
       <file name="$USER_HOME$/dev/mix-it/api/src/party/ws/host.ts" timestamp="1590310497789">
         <mark key="'" line="54" column="4" />
         <mark key="[" line="39" column="0" />
         <mark key="]" line="40" column="42" />
         <mark key="^" line="40" column="42" />
         <mark key="." line="40" column="41" />
-      </file>
-      <file name="$USER_HOME$/dev/invivo/api-transac/api/utils/factories/shipping-rate.ts" timestamp="1590161901053">
-        <mark key="'" line="7" column="30" />
-        <mark key="[" line="44" column="2" />
-        <mark key="]" line="44" column="14" />
-        <mark key="." line="44" column="13" />
-        <mark key="^" line="44" column="14" />
       </file>
       <file name="$USER_HOME$/dev/mix-it/mono-repo/packages/mix-it-front/src/views/Host/host.feature.ts" timestamp="1590311223596">
         <mark key="[" line="33" column="49" />
@@ -298,8 +297,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIEdpdmVuCg==</text>
+      <register name="&quot;" type="4">
+        <text>expectedShippingRate</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -320,7 +319,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>undefined</text>
+        <text>expectedShippingRate</text>
       </register>
       <register name="/" type="4">
         <text>spy()</text>
@@ -329,37 +328,37 @@
         <text encoding="base64">ICAgIG9uTm90Q29vcGVyYXRpdmVNZW1iZXIgPSBzcHkoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIEdpdmVuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFwcC53cy4K</text>
+        <text encoding="base64">ICAgICAgICAgICkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBsZXQgcGFydHlSZXBvc2l0b3J5OiBNb2NrUHJveHk8UGFydHlSZXBvc2l0b3J5PiAmIFBhcnR5UmVwb3NpdG9yeQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2VuZXJhdGVFbnRpdHkoJ3NoaXBwaW5nUmF0ZScsIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvb3BlcmF0aXZlSWQ6IDEsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBvdmVycmlkZXM6IHsKICAgICAgICAgICAgICAgIGlkOiA0MiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3JlYXRlZEF0OiBuZXcgRGF0ZSgpLAogICAgICAgICAgICB1cGRhdGVkQXQ6IG5ldyBEYXRlKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJlZm9yZUVhY2goKCkgPT4gewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWQ6IDQyLAogICAgICAgICAgICBjb29wZXJhdGl2ZUlkOiAxLAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxldCBwYXJ0eTogTW9ja1Byb3h5PFBhcnR5PiAmIFBhcnR5CiAgICBsZXQgcGFydHlSZXBvc2l0b3J5OiBNb2NrUHJveHk8UGFydHlSZXBvc2l0b3J5PiAmIFBhcnR5UmVwb3NpdG9yeQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">bGV0IHBhcnR5OiBNb2NrUHJveHk8UGFydHk+ICYgUGFydHkKICAgIGxldCBwYXJ0eVJlcG9zaXRvcnk6IE1vY2tQcm94eTxQYXJ0eVJlcG9zaXRvcnk+ICYgUGFydHlSZXBvc2l0b3J5CgogICAgYmVmb3JlRWFjaCgoKSA9PiB7CiAgICAgIHBhcnR5ID0gbW9jazxQYXJ0eT4oKQogICAgICBwYXJ0eVJlcG9zaXRvcnkgPSBtb2NrPFBhcnR5UmVwb3NpdG9yeT4oKQogICAgfSk=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBvdmVycmlkZXM6IHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
