@@ -157,11 +157,12 @@
         <mark key="." line="3" column="14" />
         <mark key="^" line="3" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/mix-it/api/src/party/ws/test/song.test.ts" timestamp="1590408256952">
-        <mark key="'" line="35" column="69" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/dev/mix-it/api/src/party/ws/test/song.test.ts" timestamp="1590423275502">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="23" column="39" />
+        <mark key="]" line="23" column="48" />
+        <mark key="." line="23" column="47" />
+        <mark key="^" line="23" column="48" />
       </file>
       <file name="$USER_HOME$/dev/mix-it/api/src/party/ws/song.ts" timestamp="1590312543870">
         <mark key="'" line="47" column="13" />
@@ -173,7 +174,6 @@
       <file name="$USER_HOME$/dev/invivo/api-transac/api/shipping-rates/shipping-rates.controller.ts" timestamp="1590418197881" />
     </filemarks>
     <jumps>
-      <jump line="8" column="58" filename="$USER_HOME$/dev/invivo/kata-potter/src/index.ts" />
       <jump line="67" column="0" filename="$USER_HOME$/dev/invivo/kata-potter/tsconfig.json" />
       <jump line="11" column="0" filename="$USER_HOME$/dev/invivo/kata-potter/src/index.ts" />
       <jump line="14" column="48" filename="$USER_HOME$/dev/invivo/kata-potter/src/index.ts" />
@@ -273,6 +273,7 @@
       <jump line="16" column="26" filename="$USER_HOME$/dev/invivo/api-transac/api/shipping-rates/test/replace-or-create-shipping-rate.use-case.test.ts" />
       <jump line="8" column="0" filename="$USER_HOME$/dev/invivo/api-transac/api/shipping-rates/test/replace-or-create-shipping-rate.use-case.test.ts" />
       <jump line="125" column="17" filename="$USER_HOME$/dev/invivo/api-transac/api/shipping-rates/test/replace-or-create-shipping-rate.use-case.test.ts" />
+      <jump line="10" column="0" filename="$USER_HOME$/dev/mix-it/api/src/party/ws/test/song.test.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -285,8 +286,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">KiA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -307,7 +308,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KiA=</text>
+        <text encoding="base64">RW1pdHRlciA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaGlwcGluZ1JhdGVzUmVwb3NpdG9yeVw+</text>
@@ -316,37 +317,37 @@
         <text encoding="base64">ICAgIG9uTm90Q29vcGVyYXRpdmVNZW1iZXIgPSBzcHkoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogYGBgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogYGBganNvbgo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgb25jZShldmVudDogc3RyaW5nLCBmbjogRnVuY3Rpb24pOiBTb2NrZXRJT0NsaWVudC5FbWl0dGVyIHsKICAgICAgb246IGV2ZW50RW1pdHRlci5vbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CnR5cGUgRXJyb3JGbjxUPiA9IChtZXNzYWdlOiBzdHJpbmcpID0+IFQK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogCg==</text>
+        <text encoding="base64">ICAgICAgICBldmVudEVtaXR0ZXIub25jZShldmVudCwgZm4pCiAgICAgICAgcmV0dXJuIGV2ZW50RW1pdHRlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IEVtaXR0ZXIgPSBTb2NrZXRJT0NsaWVudC5FbWl0dGVyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgIGNvbnRleHQoJ1doZW4gYSByZXBvc2l0b3J5IG1ldGhvZCB0aHJvd3MgYW4gZXJyb3InLCAoKSA9PiB7CiAgICAgICAgaXQoJ3Nob3VsZCByZWplY3QnLCBhc3luYyAoKSA9PiB7CiAgICAgICAgICAvLyBHaXZlbgogICAgICAgICAgc2hpcHBpbmdSYXRlc1JlcG9zaXRvcnkuZ2V0LnJlc29sdmVzKG9wdGlvbnMuc2hpcHBpbmdSYXRlKQogICAgICAgICAgc2hpcHBpbmdSYXRlc1JlcG9zaXRvcnkudXBkYXRlLnJlamVjdHMoJ0FuIHVuZXhwZWN0ZWQgZXJyb3Igb2NjdXJlZCcpCiAgICAgICAgICAvLyBXaGVuCiAgICAgICAgICBjb25zdCBwcm9taXNlID0gdXNlQ2FzZS5leGVjdXRlKG9wdGlvbnMpCiAgICAgICAgICAvLyBUaGVuCiAgICAgICAgICBhd2FpdCBleHBlY3QocHJvbWlzZSkudG8uaGF2ZS5iZWVuLnJlamVjdGVkV2l0aCgnQW4gdW5leHBlY3RlZCBlcnJvciBvY2N1cmVkJykKICAgICAgICB9KQogICAgICB9KQ==</text>
+        <text encoding="base64">aW1wb3J0IEVtaXR0ZXIgPSBTb2NrZXRJT0NsaWVudC5FbWl0dGVyCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7ICwgbWluOiAwLCBtYXg6IDUsIHByaWNlOiAwIH0sCiAgICAgICAgICAgICAgeyBpZDogMiwgbWluOiA1LCBtYXg6IDI1LCBwcmljZTogMTUgfSwK</text>
+        <text encoding="base64">ICAgICAgc29ja2V0LmVtaXQoU29uZ0V2ZW50cy5TT05HX1NVQk1JVCwgJzEyMycsIG9uU29uZ1N1Ym1pdHRlZCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9ucwo=</text>
+        <text encoding="base64">ICAgICAgc29ja2V0LmVtaXQoU29uZ0V2ZW50cy5TT05HX1NVQk1JVCwgJzEyMycsIG9uU29uZ1N1Ym1pdHRlZCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
