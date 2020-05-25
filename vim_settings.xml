@@ -100,11 +100,11 @@
         <mark key="^" line="0" column="31" />
         <mark key="." line="0" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/api-transac/api/shipping-rates/test/replace-or-create-shipping-rate.use-case.test.ts" timestamp="1590402212177">
-        <mark key="[" line="141" column="10" />
-        <mark key="]" line="141" column="10" />
-        <mark key="^" line="188" column="25" />
-        <mark key="." line="141" column="10" />
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/shipping-rates/test/replace-or-create-shipping-rate.use-case.test.ts" timestamp="1590409292874">
+        <mark key="[" line="182" column="14" />
+        <mark key="]" line="182" column="13" />
+        <mark key="^" line="182" column="13" />
+        <mark key="." line="182" column="12" />
       </file>
       <file name="$USER_HOME$/dev/mix-it/api/src/party/party-repository.ts" timestamp="1590311324037">
         <mark key="[" line="94" column="2" />
@@ -298,8 +298,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFwcC53cy4K</text>
+      <register name="&quot;" type="4">
+        <text>expectedShippingRate</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -320,7 +320,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>expectedShippingRate</text>
       </register>
       <register name="/" type="4">
         <text>spy()</text>
