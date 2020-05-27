@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>DEFAULT</entry>
         <entry encoding="base64">XDwsXD4=</entry>
         <entry>.navigation--left</entry>
         <entry>opts.partyId</entry>
@@ -27,9 +26,9 @@
         <entry>spy()</entry>
         <entry encoding="base64">XDxzaGlwcGluZ1JhdGVzUmVwb3NpdG9yeVw+</entry>
         <entry>tsc</entry>
+        <entry>T</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3Byb3BzL21ldGEvZw==</entry>
         <entry>W</entry>
         <entry>qw</entry>
         <entry>w:w</entry>
@@ -48,6 +47,7 @@
         <entry encoding="base64">JzwsJz5zLz0vOi9n</entry>
         <entry encoding="base64">JzwsJz5zL3NweSgpL3NweSgpLC9n</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JzwsJz5zL1QvVS9n</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -85,26 +85,20 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="1" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/api-transac/api/payment-methods/payment-methods.enum.js" timestamp="1590487866067">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="24" column="15" />
-        <mark key="^" line="24" column="15" />
-        <mark key="." line="24" column="14" />
-      </file>
-      <file name="$USER_HOME$/dev/invivo/api-transac/api/utils/use-case.ts" timestamp="1590570851805">
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/utils/use-case.ts" timestamp="1590589664459">
         <mark key="'" line="12" column="22" />
         <mark key="[" line="13" column="22" />
-        <mark key="]" line="12" column="30" />
+        <mark key="]" line="13" column="19" />
         <mark key="^" line="12" column="30" />
-        <mark key="." line="12" column="29" />
+        <mark key="." line="13" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/api-transac/api/utils/factories/status-event.ts" timestamp="1590496968021">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="6" column="36" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/shipping-rates/test/shipping-rates.controller.test.ts" timestamp="1590589311677">
+        <mark key="[" line="108" column="21" />
+        <mark key="]" line="108" column="21" />
+        <mark key="." line="108" column="21" />
+        <mark key="^" line="25" column="47" />
       </file>
+      <file name="$USER_HOME$/dev/invivo/api-transac/node_modules/@types/hapi__hapi/index.d.ts" timestamp="1590589024582" />
       <file name="$USER_HOME$/dev/invivo/api-transac/api/shipping-rates/domain/replace-or-create-shipping-rate.use-case.ts" timestamp="1590571930745">
         <mark key="'" line="15" column="7" />
         <mark key="[" line="30" column="30" />
@@ -145,11 +139,15 @@
         <mark key="." line="11" column="2" />
         <mark key="^" line="61" column="78" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/api-transac/api/shipping-rates/shipping-rates.repository.ts" timestamp="1590497742453">
-        <mark key="[" line="13" column="27" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/utils/auth0.scheme.js" timestamp="1590589049713" />
+      <file name="/JavaScript Console" timestamp="1590589291394">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/utils/extended-request.ts" timestamp="1590589204648">
+        <mark key="[" line="7" column="34" />
+        <mark key="]" line="11" column="1" />
+        <mark key="^" line="11" column="1" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/dev/invivo/api-transac/api/shipping-rates/shipping-rates.routes.js" timestamp="1590501350290">
         <mark key="[" line="28" column="5" />
@@ -157,10 +155,12 @@
         <mark key="^" line="28" column="4" />
         <mark key="." line="28" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/api-transac/api/shipping-rates/domain/create-shipping-rate.use-case.ts" timestamp="1590508181219">
-        <mark key="[" line="8" column="11" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/shipping-rates/domain/create-shipping-rate.use-case.ts" timestamp="1590589874200">
+        <mark key="'" line="11" column="29" />
+        <mark key="[" line="29" column="34" />
+        <mark key="]" line="29" column="38" />
+        <mark key="^" line="29" column="38" />
+        <mark key="." line="29" column="37" />
       </file>
       <file name="$USER_HOME$/dev/invivo/api-transac/api/shipping-rates/domain/index.ts" timestamp="1590568211755">
         <mark key="'" line="3" column="0" />
@@ -170,11 +170,11 @@
         <mark key="^" line="1" column="36" />
       </file>
       <file name="$USER_HOME$/dev/invivo/api-transac/api/utils/http-responses.ts" timestamp="1590571753811">
-        <mark key="'" line="30" column="6" />
-        <mark key="[" line="16" column="47" />
-        <mark key="]" line="16" column="56" />
-        <mark key="." line="16" column="55" />
-        <mark key="^" line="16" column="56" />
+        <mark key="'" line="28" column="6" />
+        <mark key="[" line="14" column="47" />
+        <mark key="]" line="14" column="56" />
+        <mark key="." line="14" column="55" />
+        <mark key="^" line="14" column="56" />
       </file>
       <file name="$USER_HOME$/dev/invivo/api-transac/package.json" timestamp="1590500181064">
         <mark key="'" line="0" column="0" />
@@ -183,15 +183,14 @@
         <mark key="^" line="15" column="58" />
         <mark key="." line="15" column="57" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/api-transac/api/shipping-rates/shipping-rates.controller.ts" timestamp="1590583388247">
-        <mark key="'" line="39" column="46" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/shipping-rates/shipping-rates.controller.ts" timestamp="1590589884024">
+        <mark key="[" line="50" column="48" />
+        <mark key="]" line="39" column="67" />
+        <mark key="^" line="39" column="67" />
+        <mark key="." line="39" column="66" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="29" filename="$USER_HOME$/dev/invivo/dev-portal/package.json" />
       <jump line="8" column="19" filename="$USER_HOME$/dev/invivo/dev-portal/src/presenters/PTabs/PTab.spec.ts" />
       <jump line="10" column="4" filename="$USER_HOME$/dev/invivo/dev-portal/src/presenters/PTabs/PTabs.spec.ts" />
       <jump line="68" column="0" filename="$USER_HOME$/dev/invivo/dev-portal/src/presenters/PTabs/PTabs.spec.ts" />
@@ -291,6 +290,7 @@
       <jump line="17" column="0" filename="$USER_HOME$/dev/invivo/api-transac/api/shipping-rates/domain/index.ts" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/invivo/api-transac/api/shipping-rates/domain/index.ts" />
       <jump line="15" column="7" filename="$USER_HOME$/dev/invivo/api-transac/api/shipping-rates/domain/replace-or-create-shipping-rate.use-case.ts" />
+      <jump line="13" column="29" filename="$USER_HOME$/dev/invivo/api-transac/api/shipping-rates/domain/create-shipping-rate.use-case.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -304,7 +304,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgdDogUGljazxhbnksIGFueT4K</text>
+        <text encoding="base64">ICAgICAgb25Ob3RDb29wZXJhdGl2ZU1lbWJlcjogZm9yYmlkZGVuLAo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -325,46 +325,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KHNoaXBwaW5nUmF0ZTogU2hpcHBpbmdSYXRlKTogSHR0cFJlc3BvbnNlPHVua25vd24+</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>tsc</text>
+        <text>T</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZXhwb3J0IHR5cGUgSHR0cFN1Y2Nlc3NGbiA9IDxUPihkYXRhOiBUKSA9PiBIdHRwUmVzcG9uc2U8VD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgdDogUGljazxhbnksIGFueT4K</text>
+        <text encoding="base64">ICAgICAgb25Ob3RDb29wZXJhdGl2ZU1lbWJlcjogZm9yYmlkZGVuLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgb25Ob3QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gb2soc2VyaWFsaXplKHNoaXBwaW5nUmF0ZSkpCiAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgb25Ob3RDb29wZXJhdGl2ZU1lbWJlcjogZm9yYmlkZGVuLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgb25SZXBsYWNlZDogc2hpcHBpbmdSYXRlID0+IHsKICAgICAgICByZXF1ZXN0LmxvZyhgUmVwbGFjZWQgc2hpcHBpbmcgcmF0ZSB3aXRoIGlkICR7c2hpcHBpbmdSYXRlLmlkfWApCg==</text>
+        <text encoding="base64">ICAgICAgSHR0cFJlc3BvbnNlPEh0dHBFcnJvcj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">b2soJ2JpdGUnKQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBvayhzZXJpYWxpemUoc2hpcHBpbmdSYXRlKSkuYm9keQo=</text>
+        <text encoding="base64">dHlwZSBFcnJvckZuPFQ+ID0gKG1lc3NhZ2U6IHN0cmluZykgPT4gVAp0eXBlIFN1Y2Nlc3NGbjxUPiA9IChzaGlwcGluZ1JhdGU6IFNoaXBwaW5nUmF0ZSkgPT4gVAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cm9rKCdiaXRlJykuYm9keQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0IHR5cGUgSHR0cFN1Y2Nlc3NGbiA9IDxUPihkYXRhOiBUKSA9PiBIdHRwUmVzcG9uc2U8VD4K</text>
+        <text encoding="base64">CmludGVyZmFjZSBBdXRoIGV4dGVuZHMgUmVxdWVzdEF1dGggewogIGFydGlmYWN0czogeyB1c2VyOiBVc2VyIH0KfQoKaW50ZXJmYWNlIFNoaXBwaW5nUmF0ZVJlcXVlc3QgZXh0ZW5kcyBSZXF1ZXN0IHsKICBwYXlsb2FkOiBTaGlwcGluZ1JhdGVQYXlsb2FkCiAgcGFyYW1zOiBEaWN0aW9uYXJ5PHN0cmluZz4KICBhdXRoOiBBdXRoCn0=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0IHR5cGUgSHR0cFN1Y2Nlc3NGbiA9IDxUPihkYXRhOiBUKSA9PiBIdHRwUmVzcG9uc2U8VD4K</text>
+        <text encoding="base64">ICBhdXRoOiBBdXRoCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -373,11 +373,11 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>tsc</last-search>
+      <last-search>T</last-search>
       <last-offset />
-      <last-pattern>tsc</last-pattern>
-      <last-replace>spy(),</last-replace>
-      <last-substitute>spy()</last-substitute>
+      <last-pattern>T</last-pattern>
+      <last-replace>U</last-replace>
+      <last-substitute>T</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
