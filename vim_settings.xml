@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDwsXD4=</entry>
         <entry>.navigation--left</entry>
         <entry>opts.partyId</entry>
         <entry>props</entry>
@@ -27,9 +26,9 @@
         <entry encoding="base64">XDxzaGlwcGluZ1JhdGVzUmVwb3NpdG9yeVw+</entry>
         <entry>tsc</entry>
         <entry>T</entry>
+        <entry>\$dp==</entry>
       </history-search>
       <history-cmd>
-        <entry>W</entry>
         <entry>qw</entry>
         <entry>w:w</entry>
         <entry>&quot;&quot;</entry>
@@ -48,6 +47,7 @@
         <entry encoding="base64">JzwsJz5zL3NweSgpL3NweSgpLC9n</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL1QvVS9n</entry>
+        <entry encoding="base64">JzwsJz5zL1wkZHA9PS9cJGRwID09IC9n</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -81,6 +81,12 @@
     <filemarks>
       <file name="/Dummy.txt" timestamp="1590652760647">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/invivo/dev-portal/src/lib/_mixins.scss" timestamp="1590676975176">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="23" column="3" />
       </file>
       <file name="$USER_HOME$/dev/invivo/dev-portal/src/views/VMainLayout/VMainLayout.vue" timestamp="1590674802317">
         <mark key="[" line="6" column="15" />
@@ -135,17 +141,11 @@
         <mark key="." line="37" column="62" />
         <mark key="^" line="37" column="63" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/api-transac/api/shipping-rates/mock-shipping-rates.repository.ts" timestamp="1590501775653">
-        <mark key="[" line="11" column="2" />
-        <mark key="]" line="11" column="2" />
-        <mark key="." line="11" column="2" />
-        <mark key="^" line="61" column="78" />
-      </file>
-      <file name="$USER_HOME$/dev/invivo/dev-portal/src/components/CFeedback/CFeedback.vue" timestamp="1590675181634">
-        <mark key="[" line="16" column="22" />
-        <mark key="]" line="15" column="17" />
-        <mark key="^" line="15" column="17" />
-        <mark key="." line="15" column="16" />
+      <file name="$USER_HOME$/dev/invivo/dev-portal/src/components/CFeedback/CFeedback.vue" timestamp="1590677406058">
+        <mark key="[" line="25" column="13" />
+        <mark key="]" line="1" column="22" />
+        <mark key="^" line="1" column="22" />
+        <mark key="." line="1" column="21" />
       </file>
       <file name="/JavaScript Console" timestamp="1590589291394">
         <mark key="[" line="0" column="0" />
@@ -191,10 +191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="19" filename="$USER_HOME$/dev/invivo/dev-portal/src/presenters/PTabs/PTab.spec.ts" />
-      <jump line="10" column="4" filename="$USER_HOME$/dev/invivo/dev-portal/src/presenters/PTabs/PTabs.spec.ts" />
-      <jump line="68" column="0" filename="$USER_HOME$/dev/invivo/dev-portal/src/presenters/PTabs/PTabs.spec.ts" />
-      <jump line="72" column="11" filename="$USER_HOME$/dev/invivo/dev-portal/src/presenters/PTabs/PTabs.spec.ts" />
       <jump line="61" column="39" filename="$USER_HOME$/dev/invivo/dev-portal/src/presenters/PTabs/PTabs.spec.ts" />
       <jump line="65" column="0" filename="$USER_HOME$/dev/invivo/dev-portal/src/presenters/PTabs/PTabs.spec.ts" />
       <jump line="5" column="0" filename="$USER_HOME$/dev/invivo/dev-portal/src/presenters/PTabs/PTabs.spec.ts" />
@@ -291,6 +287,10 @@
       <jump line="2" column="0" filename="$USER_HOME$/dev/invivo/api-transac/api/shipping-rates/domain/index.ts" />
       <jump line="15" column="7" filename="$USER_HOME$/dev/invivo/api-transac/api/shipping-rates/domain/replace-or-create-shipping-rate.use-case.ts" />
       <jump line="13" column="29" filename="$USER_HOME$/dev/invivo/api-transac/api/shipping-rates/domain/create-shipping-rate.use-case.ts" />
+      <jump line="33" column="0" filename="$USER_HOME$/dev/invivo/dev-portal/src/lib/_mixins.scss" />
+      <jump line="26" column="3" filename="$USER_HOME$/dev/invivo/dev-portal/src/lib/_mixins.scss" />
+      <jump line="23" column="2" filename="$USER_HOME$/dev/invivo/dev-portal/src/lib/_mixins.scss" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/invivo/dev-portal/src/lib/_mixins.scss" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -304,7 +304,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBwb3NpdGlvbjogZml4ZWQ7Cg==</text>
+        <text encoding="base64">ICAgIDwvYWRuLWJ1dHRvbj4K</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -325,46 +325,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>64px</text>
+        <text>BoxShadow</text>
       </register>
       <register name="/" type="4">
-        <text>T</text>
+        <text>\$dp==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZXhwb3J0IHR5cGUgSHR0cFN1Y2Nlc3NGbiA9IDxUPihkYXRhOiBUKSA9PiBIdHRwUmVzcG9uc2U8VD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwb3NpdGlvbjogZml4ZWQ7Cg==</text>
+        <text encoding="base64">ICAgIDwvYWRuLWJ1dHRvbj4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgb25Ob3RDb29wZXJhdGl2ZU1lbWJlcjogZm9yYmlkZGVuLAo=</text>
+        <text encoding="base64">ICAgIAogIDwvc3Bhbj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgb25Ob3QK</text>
+        <text encoding="base64">ICAgICAgMCA3cHggOHB4IC00cHggcmdiYSgwLCAwLCAwLCAwLjIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgb25Ob3RDb29wZXJhdGl2ZU1lbWJlcjogZm9yYmlkZGVuLAo=</text>
+        <text encoding="base64">ICAgIGJveC1zaGFkb3c6IDAgMTJweCAxN3B4IDJweCByZ2JhKDAsIDAsIDAsIDAuMTQpLCAwIDVweCAyMnB4IDRweCByZ2JhKDAsIDAsIDAsIDAuMTIpLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgSHR0cFJlc3BvbnNlPEh0dHBFcnJvcj4K</text>
+        <text encoding="base64">ICBib3gtc2hhZG93OiAwIDZweCAxMHB4IDAgcmdiYSgwLCAwLCAwLCAwLjE0KSwgMCAxcHggMThweCAwIHJnYmEoMCwgMCwgMCwgMC4xMiksIDAgM3B4IDVweCAtMXB4IHJnYmEoMCwgMCwgMCwgMC4yKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QGltcG9ydCAiIjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dHlwZSBFcnJvckZuPFQ+ID0gKG1lc3NhZ2U6IHN0cmluZykgPT4gVAp0eXBlIFN1Y2Nlc3NGbjxUPiA9IChzaGlwcGluZ1JhdGU6IFNoaXBwaW5nUmF0ZSkgPT4gVAo=</text>
+        <text encoding="base64">ICA8L3NwYW4+Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8c3Bhbj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmludGVyZmFjZSBBdXRoIGV4dGVuZHMgUmVxdWVzdEF1dGggewogIGFydGlmYWN0czogeyB1c2VyOiBVc2VyIH0KfQoKaW50ZXJmYWNlIFNoaXBwaW5nUmF0ZVJlcXVlc3QgZXh0ZW5kcyBSZXF1ZXN0IHsKICBwYXlsb2FkOiBTaGlwcGluZ1JhdGVQYXlsb2FkCiAgcGFyYW1zOiBEaWN0aW9uYXJ5PHN0cmluZz4KICBhdXRoOiBBdXRoCn0=</text>
+        <text encoding="base64">ICAgIDxzcGFuIGNsYXNzPSJmZWVkYmFja19fbGluayI+RmVlZGJhY2s8L3NwYW4+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -373,11 +373,11 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>T</last-search>
+      <last-search>\$dp==</last-search>
       <last-offset />
-      <last-pattern>T</last-pattern>
-      <last-replace>U</last-replace>
-      <last-substitute>T</last-substitute>
+      <last-pattern>\$dp==</last-pattern>
+      <last-replace encoding="base64">XCRkcCA9PSA=</last-replace>
+      <last-substitute>\$dp==</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
