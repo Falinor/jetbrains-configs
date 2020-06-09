@@ -100,24 +100,17 @@
         <mark key="^" line="3" column="61" />
         <mark key="." line="3" column="60" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/stripe-account-cli/src/config.ts" timestamp="1591695263153">
+      <file name="$USER_HOME$/dev/invivo/stripe-account-cli/src/config.ts" timestamp="1591697865290">
         <mark key="'" line="3" column="14" />
-        <mark key="[" line="10" column="20" />
-        <mark key="]" line="10" column="20" />
-        <mark key="^" line="10" column="20" />
-        <mark key="." line="10" column="19" />
+        <mark key="[" line="24" column="16" />
+        <mark key="]" line="24" column="16" />
+        <mark key="^" line="19" column="21" />
+        <mark key="." line="24" column="16" />
       </file>
       <file name="$USER_HOME$/dev/invivo/stripe-account-cli/tsconfig.build.json" timestamp="1591695351465">
         <mark key="[" line="1" column="31" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/mix-it/api/src/types/index.d.ts" timestamp="1591646495393">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="6" column="54" />
-        <mark key="]" line="6" column="55" />
-        <mark key="^" line="6" column="55" />
-        <mark key="." line="6" column="54" />
       </file>
       <file name="$USER_HOME$/dev/invivo/stripe-account-cli/bin/index.js" timestamp="1591693705024">
         <mark key="[" line="4" column="3" />
@@ -127,14 +120,23 @@
       <file name="$USER_HOME$/dev/mix-it/api/node_modules/mock-socket/index.d.ts" timestamp="1591651558050" />
       <file name="$USER_HOME$/dev/invivo/stripe-account-cli/node_modules/stripe/types/2020-03-02/Accounts.d.ts" timestamp="1591694198286" />
       <file name="$USER_HOME$/dev/mix-it/api/node_modules/@types/jest/index.d.ts" timestamp="1591648013430" />
-      <file name="$USER_HOME$/dev/invivo/stripe-account-cli/.env" timestamp="1591695209351">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="18" />
-        <mark key="^" line="0" column="18" />
-        <mark key="." line="0" column="17" />
+      <file name="$USER_HOME$/dev/invivo/stripe-account-cli/TODO.md" timestamp="1591697323526">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="45" />
+        <mark key="^" line="5" column="45" />
+        <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/mix-it/api/node_modules/socket.io-mock/src/index.js" timestamp="1591646694233">
-        <mark key="[" line="1" column="42" />
+      <file name="$USER_HOME$/dev/invivo/stripe-account-cli/src/types/index.d.ts" timestamp="1591697614335">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="16" />
+        <mark key="^" line="0" column="16" />
+        <mark key="." line="0" column="15" />
+      </file>
+      <file name="$USER_HOME$/dev/invivo/stripe-account-cli/.env" timestamp="1591697781586">
+        <mark key="[" line="1" column="7" />
+        <mark key="]" line="1" column="18" />
+        <mark key="^" line="1" column="18" />
+        <mark key="." line="1" column="17" />
       </file>
       <file name="$USER_HOME$/dev/invivo/stripe-account-cli/tsconfig.json" timestamp="1591695380657">
         <mark key="[" line="67" column="4" />
@@ -148,11 +150,11 @@
         <mark key="." line="70" column="13" />
         <mark key="^" line="70" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/stripe-account-cli/src/index.ts" timestamp="1591696379088">
-        <mark key="[" line="9" column="47" />
-        <mark key="]" line="23" column="12" />
-        <mark key="." line="23" column="11" />
-        <mark key="^" line="23" column="12" />
+      <file name="$USER_HOME$/dev/invivo/stripe-account-cli/src/index.ts" timestamp="1591697226089">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="14" column="8" />
       </file>
       <file name="$USER_HOME$/dev/invivo/stripe-account-cli/package.json" timestamp="1591695175391">
         <mark key="[" line="6" column="32" />
@@ -166,7 +168,7 @@
         <mark key="." line="32" column="10" />
         <mark key="^" line="32" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/stripe-account-cli/node_modules/@types/convict/index.d.ts" timestamp="1591694997807" />
+      <file name="$USER_HOME$/dev/invivo/stripe-account-cli/node_modules/@types/convict/index.d.ts" timestamp="1591697667765" />
       <file name="$USER_HOME$/dev/mix-it/api/src/types/socket.io-mock/index.d.ts" timestamp="1591650934323">
         <mark key="'" line="7" column="27" />
         <mark key="[" line="7" column="51" />
@@ -289,7 +291,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Account</text>
+        <text>fail</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -310,46 +312,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Account</text>
+        <text>fail</text>
       </register>
       <register name="/" type="4">
         <text>\$dp==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2JpdGUnKQo=</text>
+        <text encoding="base64">U1RSSVBFX1NVQ0NFU1NfVVJMPQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICByZXR1cm4gYWNjb3VudAo=</text>
+        <text encoding="base64">LSBbIF0gQWRkIGEgcGFnZSB0byBjYWxsIHRoZSBhY2NvdW50IGNyZWF0aW9uCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text>- [ ] Add a page to call the account creation</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB0b2tlbi4K</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3RlZF9jYXBhYmlsaXRpZXM6IFsnY2FyZF9wYXltZW50cyddCg==</text>
+        <text encoding="base64">ICAgICAgY29tcGFueTogewogICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHR5cGU6ICdjdXN0b20nLAo=</text>
+        <text encoding="base64">ICAgICAgLy8gVE9ETzogZmlsbCBjb21wYW55IGluZm8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBUT0RPOiBpbXBsZW1lbnQgdW5kbwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CmNvbnNvbGUubG9nKGNvbmZpZy5zdHJpcGUuc2VjcmV0S2V5Cg==</text>
+        <text encoding="base64">ICBzdHJpcGUuYWNjb3VudExpbmtzLgo=</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAiaW5jbHVkZSI6IFsiIiwgInNyYyJdCg==</text>
+        <text encoding="base64">ICBzdHJpcGUuYWNjb3VudHMuZGVsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAiaW5jbHVkZSI6IFsiYmluL2luZGV4LnRzIl0sCg==</text>
+        <text encoding="base64">ICAvLyBUT0RPOiBpbXBsZW1lbnQgdW5kbwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
