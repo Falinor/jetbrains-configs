@@ -79,26 +79,39 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/invivo/stripe-account-cli/dist/index.js" timestamp="1591695188794" />
-      <file name="$USER_HOME$/dev/mix-it/api/tsconfig.json" timestamp="1591648142682">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="17" column="46" />
-        <mark key="]" line="17" column="51" />
-        <mark key="^" line="17" column="51" />
-        <mark key="." line="17" column="50" />
+      <file name="$USER_HOME$/dev/invivo/api-transac/node_modules/stripe/types/2020-03-02/BillingPortal/Sessions.d.ts" timestamp="1591719422379" />
+      <file name="$USER_HOME$/dev/invivo/stripe-account-cli/.env" timestamp="1591713828430">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="1" column="13" />
+        <mark key="^" line="1" column="13" />
+        <mark key="." line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/stripe-account-cli/bin/index.ts" timestamp="1591695230981">
-        <mark key="[" line="0" column="27" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/stripe-accounts/stripe-accounts.routes.js" timestamp="1591718497843">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/mix-it/api/src/types/socket.io-mock/socket-client.d.ts" timestamp="1591648742975">
-        <mark key="'" line="2" column="48" />
-        <mark key="[" line="3" column="61" />
-        <mark key="]" line="3" column="61" />
-        <mark key="^" line="3" column="61" />
-        <mark key="." line="3" column="60" />
+      <file name="$USER_HOME$/dev/invivo/api-transac/node_modules/stripe/types/2020-03-02/Transfers.d.ts" timestamp="1591719487373" />
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/stripe-accounts/stripe-accounts.routes.ts" timestamp="1591718605128">
+        <mark key="'" line="0" column="50" />
+        <mark key="[" line="3" column="11" />
+        <mark key="]" line="3" column="10" />
+        <mark key="^" line="3" column="10" />
+        <mark key="." line="3" column="9" />
+      </file>
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/stripe-accounts/stripe.ts" timestamp="1591719284760">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/invivo/api-transac/config.ts" timestamp="1591719181135">
+        <mark key="[" line="240" column="31" />
+        <mark key="]" line="241" column="21" />
+        <mark key="." line="241" column="20" />
+        <mark key="^" line="241" column="21" />
+      </file>
+      <file name="$USER_HOME$/dev/invivo/stripe-account-cli/node_modules/@types/convict/index.d.ts" timestamp="1591697667765" />
+      <file name="$USER_HOME$/dev/invivo/api-transac/package.json" timestamp="1591720325649">
+        <mark key="[" line="19" column="27" />
+        <mark key="]" line="20" column="23" />
+        <mark key="." line="20" column="22" />
+        <mark key="^" line="20" column="23" />
       </file>
       <file name="$USER_HOME$/dev/invivo/stripe-account-cli/src/config.ts" timestamp="1591711963493">
         <mark key="'" line="3" column="14" />
@@ -107,19 +120,7 @@
         <mark key="^" line="17" column="31" />
         <mark key="." line="17" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/stripe-account-cli/tsconfig.build.json" timestamp="1591695351465">
-        <mark key="[" line="1" column="31" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/invivo/stripe-account-cli/bin/index.js" timestamp="1591693705024">
-        <mark key="[" line="4" column="3" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/mix-it/api/node_modules/mock-socket/index.d.ts" timestamp="1591651558050" />
-      <file name="$USER_HOME$/dev/invivo/stripe-account-cli/node_modules/stripe/types/2020-03-02/Accounts.d.ts" timestamp="1591694198286" />
-      <file name="$USER_HOME$/dev/mix-it/api/node_modules/@types/jest/index.d.ts" timestamp="1591648013430" />
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/utils/stripe-adapter.ts" timestamp="1591719104792" />
       <file name="$USER_HOME$/dev/invivo/stripe-account-cli/TODO.md" timestamp="1591697323526">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="45" />
@@ -132,59 +133,46 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/stripe-account-cli/.env" timestamp="1591713828430">
-        <mark key="[" line="0" column="17" />
-        <mark key="]" line="1" column="13" />
-        <mark key="^" line="1" column="13" />
-        <mark key="." line="1" column="12" />
+      <file name="$USER_HOME$/dev/invivo/api-transac/cli/index.ts" timestamp="1591720377779">
+        <mark key="'" line="10" column="9" />
+        <mark key="[" line="8" column="37" />
+        <mark key="]" line="2" column="5" />
+        <mark key="^" line="2" column="5" />
+        <mark key="." line="2" column="4" />
+      </file>
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/stripe-accounts/domain/stripe-link.ts" timestamp="1591719377352">
+        <mark key="'" line="11" column="31" />
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="14" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="13" />
+      </file>
+      <file name="$USER_HOME$/dev/invivo/api-transac/tsconfig.json" timestamp="1591718657562">
+        <mark key="[" line="15" column="81" />
+        <mark key="]" line="15" column="81" />
+        <mark key="^" line="15" column="81" />
+        <mark key="." line="15" column="80" />
+      </file>
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/stripe-accounts/domain/generate-stripe-link.use-case.ts" timestamp="1591719835560">
+        <mark key="[" line="34" column="41" />
+        <mark key="]" line="34" column="42" />
+        <mark key="." line="34" column="41" />
+        <mark key="^" line="34" column="42" />
       </file>
       <file name="$USER_HOME$/dev/invivo/stripe-account-cli/tsconfig.json" timestamp="1591695380657">
         <mark key="[" line="67" column="4" />
         <mark key="]" line="68" column="0" />
         <mark key="." line="68" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/mix-it/api/src/party/ws/test/song.test.ts" timestamp="1591690754383">
-        <mark key="'" line="28" column="22" />
-        <mark key="[" line="63" column="16" />
-        <mark key="]" line="70" column="14" />
-        <mark key="." line="70" column="13" />
-        <mark key="^" line="70" column="14" />
-      </file>
-      <file name="$USER_HOME$/dev/invivo/stripe-account-cli/src/index.ts" timestamp="1591716669447">
+      <file name="$USER_HOME$/dev/invivo/stripe-account-cli/src/index.ts" timestamp="1591720006539">
         <mark key="'" line="24" column="12" />
         <mark key="[" line="29" column="2" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
         <mark key="^" line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/stripe-account-cli/package.json" timestamp="1591695175391">
-        <mark key="[" line="6" column="32" />
-        <mark key="]" line="6" column="33" />
-        <mark key="." line="6" column="32" />
-        <mark key="^" line="6" column="33" />
-      </file>
-      <file name="$USER_HOME$/dev/mix-it/api/src/party/ws/song.ts" timestamp="1591660195149">
-        <mark key="[" line="32" column="11" />
-        <mark key="]" line="32" column="11" />
-        <mark key="." line="32" column="10" />
-        <mark key="^" line="32" column="11" />
-      </file>
-      <file name="$USER_HOME$/dev/invivo/stripe-account-cli/node_modules/@types/convict/index.d.ts" timestamp="1591697667765" />
-      <file name="$USER_HOME$/dev/mix-it/api/src/types/socket.io-mock/index.d.ts" timestamp="1591650934323">
-        <mark key="'" line="7" column="27" />
-        <mark key="[" line="7" column="51" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="7" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="1" filename="$USER_HOME$/dev/mix-it/api/src/party/ws/playlist.ts" />
-      <jump line="28" column="0" filename="$USER_HOME$/dev/mix-it/api/src/party/ws/playlist.ts" />
-      <jump line="5" column="0" filename="$USER_HOME$/dev/mix-it/api/src/party/ws/playlist.ts" />
-      <jump line="45" column="4" filename="$USER_HOME$/dev/mix-it/api/src/party/ws/host.ts" />
-      <jump line="5" column="0" filename="$USER_HOME$/dev/mix-it/api/src/party/ws/party-router.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/mix-it/api/src/party/ws/party-router.ts" />
       <jump line="43" column="13" filename="$USER_HOME$/dev/mix-it/api/src/party/ws/song.ts" />
       <jump line="44" column="38" filename="$USER_HOME$/dev/mix-it/api/src/party/ws/user.ts" />
       <jump line="28" column="22" filename="$USER_HOME$/dev/mix-it/api/src/party/ws/user.ts" />
@@ -279,6 +267,12 @@
       <jump line="40" column="147" filename="$USER_HOME$/dev/invivo/stripe-account-cli/src/index.ts" />
       <jump line="3" column="0" filename="$USER_HOME$/dev/invivo/stripe-account-cli/src/index.ts" />
       <jump line="24" column="12" filename="$USER_HOME$/dev/invivo/stripe-account-cli/src/index.ts" />
+      <jump line="0" column="50" filename="$USER_HOME$/dev/invivo/api-transac/api/stripe-accounts/stripe-accounts.routes.ts" />
+      <jump line="6" column="3" filename="$USER_HOME$/dev/invivo/api-transac/api/stripe-accounts/domain/generate-stripe-link.use-case.ts" />
+      <jump line="19" column="0" filename="$USER_HOME$/dev/invivo/api-transac/api/stripe-accounts/domain/stripe-link.ts" />
+      <jump line="9" column="31" filename="$USER_HOME$/dev/invivo/api-transac/api/stripe-accounts/domain/stripe-link.ts" />
+      <jump line="9" column="23" filename="$USER_HOME$/dev/invivo/api-transac/cli/index.ts" />
+      <jump line="10" column="9" filename="$USER_HOME$/dev/invivo/api-transac/cli/index.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -292,7 +286,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -313,46 +307,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">YXJndiA=</text>
       </register>
       <register name="/" type="4">
         <text>options</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">U1RSSVBFX1NVQ0NFU1NfVVJMPQo=</text>
+      <register name="0" type="4">
+        <text>generate a link to create a cooperative stripe account'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmRiLmZpbmQoJ21vbiBjb2RlCg==</text>
+        <text encoding="base64">Y29uc3QgYXJndiA9IHJlcXVpcmUoJ3lhcmdzJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCBwYXJhbXM6IFF1ZXJ5Cg==</text>
+        <text encoding="base64">ICB0aGlzLnN0cnBlIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHNob3J0aWQgZnJvbSAnc2hvcnRpZCc7Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbnY6ICdTVFJJUEVfQVBJX1ZFUlNJT04nLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYXBpVmVyc2lvbjogewo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">Cgphc3luYyBmdW5jdGlvbiBjcmVhdGVBY2NvdW50KCk6IFByb21pc2U8U3RyaXBlLkFjY291bnRMaW5rPiB7CiAgY29uc3QgdG9rZW4gPSBhd2FpdCBzdHJpcGUudG9rZW5zLmNyZWF0ZSggIHsKICAgIGFjY291bnQ6IHsKICAgICAgYnVzaW5lc3NfdHlwZTogJ2NvbXBhbnknLAogICAgICB0b3Nfc2hvd25fYW5kX2FjY2VwdGVkOiB0cnVlCiAgICB9CiAgfSkKICAvLyBUT0RPOiBpbXBsZW1lbnQgdW5kbwogIGNvbnN0IGFjY291bnQgPSBhd2FpdCBzdHJpcGUuYWNjb3VudHMuY3JlYXRlKHsKICAgIHR5cGU6ICdjdXN0b20nLAogICAgY291bnRyeTogJ0ZSJywKICAgIGFjY291bnRfdG9rZW46IHRva2VuLmlkLAogICAgcmVxdWVzdGVkX2NhcGFiaWxpdGllczogWydjYXJkX3BheW1lbnRzJywgJ3RyYW5zZmVycyddLAogIH0pCiAgY29uc3QgbGluayA9IGF3YWl0IHN0cmlwZS5hY2NvdW50TGlua3MuY3JlYXRlKHsKICAgIGFjY291bnQ6IGFjY291bnQuaWQsCiAgICBmYWlsdXJlX3VybDogY29uZmlnLnN0cmlwZS5mYWlsdXJlVVJMLAogICAgc3VjY2Vzc191cmw6IGNvbmZpZy5zdHJpcGUuc3VjY2Vzc1VSTCwKICAgIHR5cGU6ICdjdXN0b21fYWNjb3VudF92ZXJpZmljYXRpb24nLAogICAgY29sbGVjdDogJ2V2ZW50dWFsbHlfZHVlJywKICB9KTsKICByZXR1cm4gbGluawp9</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmNyZWF0ZUFjY291bnQoKS50aGVuKGNvbnNvbGUubG9nKS5jYXRjaChjb25zb2xlLmVycm9yKQo=</text>
+        <text encoding="base64">ICAgIHsKICAgICAgbWV0aG9kOiAnJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmNyZWF0ZUFjY291bnQoKS50aGVuKGNvbnNvbGUubG9nKS5jYXRjaChjb25zb2xlLmVycm9yKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
