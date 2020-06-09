@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>.navigation--left</entry>
         <entry>opts.partyId</entry>
         <entry>props</entry>
         <entry encoding="base64">XDwiXD4=</entry>
@@ -27,9 +26,9 @@
         <entry>tsc</entry>
         <entry>T</entry>
         <entry>\$dp==</entry>
+        <entry>options</entry>
       </history-search>
       <history-cmd>
-        <entry>qw</entry>
         <entry>w:w</entry>
         <entry>&quot;&quot;</entry>
         <entry encoding="base64">JzwsJz5zL3BhZ2VzL2Fzc2V0cy9n</entry>
@@ -48,6 +47,7 @@
         <entry encoding="base64">JzwsJz5zL1QvVS9n</entry>
         <entry encoding="base64">JzwsJz5zL1wkZHA9PS9cJGRwID09IC9n</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JzwsJz5zL29wdGlvbnMvb3B0cy9n</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -100,12 +100,12 @@
         <mark key="^" line="3" column="61" />
         <mark key="." line="3" column="60" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/stripe-account-cli/src/config.ts" timestamp="1591706610235">
+      <file name="$USER_HOME$/dev/invivo/stripe-account-cli/src/config.ts" timestamp="1591711963493">
         <mark key="'" line="3" column="14" />
-        <mark key="[" line="24" column="16" />
-        <mark key="]" line="24" column="16" />
-        <mark key="^" line="19" column="21" />
-        <mark key="." line="24" column="16" />
+        <mark key="[" line="17" column="12" />
+        <mark key="]" line="17" column="31" />
+        <mark key="^" line="17" column="31" />
+        <mark key="." line="17" column="30" />
       </file>
       <file name="$USER_HOME$/dev/invivo/stripe-account-cli/tsconfig.build.json" timestamp="1591695351465">
         <mark key="[" line="1" column="31" />
@@ -132,11 +132,11 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/stripe-account-cli/.env" timestamp="1591706607725">
-        <mark key="[" line="0" column="19" />
-        <mark key="]" line="0" column="38" />
-        <mark key="^" line="0" column="38" />
-        <mark key="." line="0" column="37" />
+      <file name="$USER_HOME$/dev/invivo/stripe-account-cli/.env" timestamp="1591711989499">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="1" column="73" />
+        <mark key="^" line="1" column="73" />
+        <mark key="." line="1" column="72" />
       </file>
       <file name="$USER_HOME$/dev/invivo/stripe-account-cli/tsconfig.json" timestamp="1591695380657">
         <mark key="[" line="67" column="4" />
@@ -150,12 +150,12 @@
         <mark key="." line="70" column="13" />
         <mark key="^" line="70" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/stripe-account-cli/src/index.ts" timestamp="1591711125798">
-        <mark key="'" line="9" column="14" />
-        <mark key="[" line="33" column="30" />
-        <mark key="]" line="34" column="15" />
-        <mark key="." line="34" column="14" />
-        <mark key="^" line="34" column="15" />
+      <file name="$USER_HOME$/dev/invivo/stripe-account-cli/src/index.ts" timestamp="1591712117208">
+        <mark key="'" line="40" column="147" />
+        <mark key="[" line="37" column="1" />
+        <mark key="]" line="41" column="1" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="41" column="1" />
       </file>
       <file name="$USER_HOME$/dev/invivo/stripe-account-cli/package.json" timestamp="1591695175391">
         <mark key="[" line="6" column="32" />
@@ -179,7 +179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/dev/mix-it/api/src/party/ws/song.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/mix-it/api/src/party/ws/song.ts" />
       <jump line="21" column="0" filename="$USER_HOME$/dev/mix-it/api/src/party/ws/user.ts" />
       <jump line="12" column="1" filename="$USER_HOME$/dev/mix-it/api/src/party/ws/playlist.ts" />
@@ -279,6 +278,7 @@
       <jump line="3" column="14" filename="$USER_HOME$/dev/invivo/stripe-account-cli/src/config.ts" />
       <jump line="68" column="25" filename="$USER_HOME$/dev/invivo/stripe-account-cli/tsconfig.json" />
       <jump line="9" column="14" filename="$USER_HOME$/dev/invivo/stripe-account-cli/src/index.ts" />
+      <jump line="40" column="147" filename="$USER_HOME$/dev/invivo/stripe-account-cli/src/index.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -291,8 +291,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjbGllbnRJZD86IHN0cmluZwo=</text>
+      <register name="&quot;" type="4">
+        <text>opts</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -313,46 +313,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>createAccount</text>
+        <text>opts</text>
       </register>
       <register name="/" type="4">
-        <text>\$dp==</text>
+        <text>options</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">U1RSSVBFX1NVQ0NFU1NfVVJMPQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjbGllbnRJZD86IHN0cmluZwo=</text>
+        <text encoding="base64">CmNyZWF0ZUFjY291bnQoKS50aGVuKGNvbnNvbGUubG9nKS5jYXRjaChjb25zb2xlLmVycm9yKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LSBbIF0gQWRkIGEgcGFnZSB0byBjYWxsIHRoZSBhY2NvdW50IGNyZWF0aW9uCg==</text>
+        <text encoding="base64">CmNyZWF0ZUFjY291bnQoKS50aGVuKGNvbnNvbGUubG9nKS5jYXRjaChjb25zb2xlLmVycm9yKQo=</text>
       </register>
       <register name="3" type="2">
-        <text>- [ ] Add a page to call the account creation</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICBjb25zdCBvcHRpb25zOiBSZXF1aXJlZDxMaW5rT3B0aW9ucz4gPSB7CiAgICAuLi5vcHRzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29tcGFueTogewogICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGNsaWVudElkOiBjb25maWcuc3RyaXBlLmNsaWVudElkLAogICAgcmVkaXJlY3RVcmk6IGNvbmZpZy5zdHJpcGUucmVkaXJlY3RVcmksCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8gVE9ETzogZmlsbCBjb21wYW55IGluZm8K</text>
+        <text encoding="base64">ICBjbGllbnRJZD86IHN0cmluZwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyBUT0RPOiBpbXBsZW1lbnQgdW5kbwo=</text>
+        <text encoding="base64">LSBbIF0gQWRkIGEgcGFnZSB0byBjYWxsIHRoZSBhY2NvdW50IGNyZWF0aW9uCg==</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzdHJpcGUuYWNjb3VudExpbmtzLgo=</text>
+        <text>- [ ] Add a page to call the account creation</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzdHJpcGUuYWNjb3VudHMuZGVsCg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -361,11 +361,11 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>\$dp==</last-search>
+      <last-search>options</last-search>
       <last-offset />
-      <last-pattern>\$dp==</last-pattern>
-      <last-replace encoding="base64">XCRkcCA9PSA=</last-replace>
-      <last-substitute>\$dp==</last-substitute>
+      <last-pattern>options</last-pattern>
+      <last-replace>opts</last-replace>
+      <last-substitute>options</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
