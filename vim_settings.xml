@@ -150,11 +150,12 @@
         <mark key="." line="70" column="13" />
         <mark key="^" line="70" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/stripe-account-cli/src/index.ts" timestamp="1591697226089">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="14" column="8" />
+      <file name="$USER_HOME$/dev/invivo/stripe-account-cli/src/index.ts" timestamp="1591709820579">
+        <mark key="'" line="9" column="14" />
+        <mark key="[" line="31" column="1" />
+        <mark key="]" line="9" column="15" />
+        <mark key="." line="9" column="14" />
+        <mark key="^" line="9" column="15" />
       </file>
       <file name="$USER_HOME$/dev/invivo/stripe-account-cli/package.json" timestamp="1591695175391">
         <mark key="[" line="6" column="32" />
@@ -178,7 +179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="13" filename="$USER_HOME$/dev/mix-it/api/src/party/ws/song.ts" />
       <jump line="5" column="0" filename="$USER_HOME$/dev/mix-it/api/src/party/ws/song.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/mix-it/api/src/party/ws/song.ts" />
       <jump line="21" column="0" filename="$USER_HOME$/dev/mix-it/api/src/party/ws/user.ts" />
@@ -278,6 +278,7 @@
       <jump line="16" column="35" filename="$USER_HOME$/dev/invivo/stripe-account-cli/tsconfig.json" />
       <jump line="3" column="14" filename="$USER_HOME$/dev/invivo/stripe-account-cli/src/config.ts" />
       <jump line="68" column="25" filename="$USER_HOME$/dev/invivo/stripe-account-cli/tsconfig.json" />
+      <jump line="9" column="14" filename="$USER_HOME$/dev/invivo/stripe-account-cli/src/index.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -291,7 +292,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>fail</text>
+        <text>createAccount</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -312,7 +313,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>fail</text>
+        <text>createAccount</text>
       </register>
       <register name="/" type="4">
         <text>\$dp==</text>
