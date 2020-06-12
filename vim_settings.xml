@@ -97,11 +97,12 @@
         <mark key="." line="0" column="45" />
         <mark key="^" line="0" column="46" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/api-transac/api/factory.js" timestamp="1591975554109">
-        <mark key="[" line="41" column="20" />
-        <mark key="]" line="50" column="35" />
-        <mark key="^" line="50" column="35" />
-        <mark key="." line="50" column="34" />
+      <file name="$USER_HOME$/dev/invivo/api-transac/node_modules/stripe/lib/stripe.js" timestamp="1591980143534" />
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/factory.js" timestamp="1591981135501">
+        <mark key="[" line="48" column="28" />
+        <mark key="]" line="48" column="48" />
+        <mark key="." line="48" column="47" />
+        <mark key="^" line="48" column="48" />
       </file>
       <file name="$USER_HOME$/dev/invivo/api-transac/api/stripe-accounts/domain/obtain-cooperative-token.use-case.ts" timestamp="1591974028119">
         <mark key="'" line="50" column="28" />
@@ -130,14 +131,11 @@
         <mark key="." line="47" column="55" />
         <mark key="^" line="47" column="56" />
       </file>
+      <file name="$USER_HOME$/dev/invivo/api-transac/.env.test" timestamp="1591979271843">
+        <mark key="[" line="39" column="31" />
+      </file>
       <file name="/Dummy.txt" timestamp="1591976225641">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/invivo/api-transac/api/stripe-accounts/domain/index.ts" timestamp="1591972650121">
-        <mark key="[" line="4" column="8" />
-        <mark key="]" line="4" column="31" />
-        <mark key="^" line="4" column="31" />
-        <mark key="." line="4" column="30" />
       </file>
       <file name="$USER_HOME$/dev/invivo/api-transac/ansible/group_vars/env_coop/vars.yml" timestamp="1591975272329">
         <mark key="[" line="47" column="23" />
@@ -161,10 +159,16 @@
       <file name="$USER_HOME$/dev/invivo/api-transac/ansible/group_vars/env_qua/vars.yml" timestamp="1591975277937">
         <mark key="[" line="46" column="55" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/api-transac/config.ts" timestamp="1591975502093">
-        <mark key="[" line="227" column="11" />
-        <mark key="]" line="228" column="32" />
-        <mark key="." line="228" column="31" />
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/test/test-wrapper.ts" timestamp="1591980805594">
+        <mark key="[" line="25" column="15" />
+        <mark key="]" line="30" column="13" />
+        <mark key="." line="30" column="12" />
+        <mark key="^" line="30" column="13" />
+      </file>
+      <file name="$USER_HOME$/dev/invivo/api-transac/config.ts" timestamp="1591981159114">
+        <mark key="[" line="232" column="21" />
+        <mark key="]" line="232" column="21" />
+        <mark key="." line="232" column="21" />
         <mark key="^" line="228" column="32" />
       </file>
       <file name="$USER_HOME$/dev/invivo/api-transac/.gitlab-ci.yml" timestamp="1591975919459">
@@ -293,7 +297,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>only</text>
+        <text>,</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -314,7 +318,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>only</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>options</text>
@@ -323,37 +327,37 @@
         <text encoding="base64">ICAgIGV4cGVjdChyZXBvc2l0b3J5LnNhdmUpLnRvLmhhdmUuYmVlbi5jYWxsZWRPbmNlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgc2Vuc2l0aXZlOiB0cnVlCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICBzZWNyZXRLZXk6IHsKICAgICAgZW52OiAnU1RSSVBFX1NFQ1JFVF9LRVknLAogICAgICBhcmc6ICdzdHJpcGUtc2VjcmV0LWtleScsCiAgICAgIGZvcm1hdDogU3RyaW5nLAogICAgICBkZWZhdWx0OiAnRklYTUUnLAogICAgICBzZW5zaXRpdmU6IHRydWUKICAgIH0s</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBjb25maWcuc3RyaXBlLmFwaUtleQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBUT0RPIHJlcGxhY2Uga2V5IHdpdGggYWN0dWFsIFByb2R1Y3Rpb24ga2V5Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IFN0cmlwZSBmcm9tICdzdHJpcGUnCgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbmZpZyBmcm9tICcuLi9jb25maWcnCmltcG9ydCB7IEdlbmVyYXRlU3RyaXBlTGlua1VzZUNhc2UgfSBmcm9tICcuLi9hcGkvc3RyaXBlLWFjY291bnRzJwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">Cgpjb25zdCBzdHJpcGUgPSBuZXcgU3RyaXBlKGNvbmZpZy5zdHJpcGUuc2VjcmV0S2V5LCB7CiAgYXBpVmVyc2lvbjogJzIwMjAtMDMtMDInLAogIHR5cGVzY3JpcHQ6IHRydWUKfSk=</text>
+      <register name="4" type="2">
+        <text encoding="base64">CiAgbm9jayhjb25maWcuc3RyaXBlLmhvc3QpCiAgICAuZ2V0KCcqJykKICAgIC5vcHRpb25hbGx5KCkKICAgIC5yZXBseSgyMDAp</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICBzZWNyZXRLZXk6IHsKICAgICAgZW52OiAnU1RSSVBFX1NFQ1JFVF9LRVknLAogICAgICBhcmc6ICdzdHJpcGUtc2VjcmV0LWtleScsCiAgICAgIGZvcm1hdDogU3RyaW5nLAogICAgICBkZWZhdWx0OiAnRklYTUUnLAogICAgICBzZW5zaXRpdmU6IHRydWUKICAgIH0s</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">IyBUT0RPIHJlcGxhY2Uga2V5IHdpdGggYWN0dWFsIFByb2R1Y3Rpb24ga2V5Cg==</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgZmFjdG9yeSA9IGNyZWF0ZUZhY3RvcnkoKQo=</text>
+        <text encoding="base64">aW1wb3J0IFN0cmlwZSBmcm9tICdzdHJpcGUnCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhhcmdzKQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbmZpZyBmcm9tICcuLi9jb25maWcnCmltcG9ydCB7IEdlbmVyYXRlU3RyaXBlTGlua1VzZUNhc2UgfSBmcm9tICcuLi9hcGkvc3RyaXBlLWFjY291bnRzJwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
