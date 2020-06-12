@@ -86,8 +86,8 @@
         <mark key="." line="10" column="1" />
         <mark key="^" line="10" column="2" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/api-transac/api/stripe-accounts/domain/test/obtain-cooperative-token.use-case.test.ts" timestamp="1591783181125">
-        <mark key="'" line="25" column="53" />
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/stripe-accounts/domain/test/obtain-cooperative-token.use-case.test.ts" timestamp="1591966072683">
+        <mark key="'" line="86" column="44" />
         <mark key="[" line="18" column="25" />
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
@@ -121,12 +121,12 @@
         <mark key="^" line="3" column="23" />
         <mark key="." line="3" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/api-transac/api/stripe-accounts/domain/obtain-cooperative-token.use-case.ts" timestamp="1591790773103">
-        <mark key="'" line="16" column="12" />
-        <mark key="[" line="23" column="4" />
-        <mark key="]" line="23" column="4" />
-        <mark key="." line="23" column="4" />
-        <mark key="^" line="27" column="52" />
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/stripe-accounts/domain/obtain-cooperative-token.use-case.ts" timestamp="1591966091082">
+        <mark key="'" line="50" column="28" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="26" column="52" />
       </file>
       <file name="$USER_HOME$/dev/invivo/api-transac/api/stripe-accounts/stripe-accounts.routes.ts" timestamp="1591781658000">
         <mark key="'" line="23" column="0" />
@@ -162,7 +162,7 @@
         <mark key="." line="14" column="67" />
         <mark key="^" line="14" column="68" />
       </file>
-      <file name="/JavaScript Console" timestamp="1591868529572">
+      <file name="/JavaScript Console" timestamp="1591965644965">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/invivo/api-transac/config.ts" timestamp="1591779888860">
@@ -189,16 +189,11 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="6" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/api-transac/api/test/stripe-accounts.integ.test.ts" timestamp="1591952675385">
-        <mark key="[" line="56" column="28" />
-        <mark key="]" line="53" column="20" />
-        <mark key="^" line="53" column="20" />
-        <mark key="." line="53" column="19" />
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/test/stripe-accounts.integ.test.ts" timestamp="1591965994561">
+        <mark key="[" line="52" column="36" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="7" filename="$USER_HOME$/dev/invivo/api-transac/api/shipping-rates/domain/replace-or-create-shipping-rate.use-case.ts" />
-      <jump line="13" column="29" filename="$USER_HOME$/dev/invivo/api-transac/api/shipping-rates/domain/create-shipping-rate.use-case.ts" />
       <jump line="33" column="0" filename="$USER_HOME$/dev/invivo/dev-portal/src/lib/_mixins.scss" />
       <jump line="26" column="3" filename="$USER_HOME$/dev/invivo/dev-portal/src/lib/_mixins.scss" />
       <jump line="23" column="2" filename="$USER_HOME$/dev/invivo/dev-portal/src/lib/_mixins.scss" />
@@ -275,7 +270,6 @@
       <jump line="16" column="0" filename="$USER_HOME$/dev/invivo/api-transac/api/stripe-accounts/stripe-accounts.routes.ts" />
       <jump line="9" column="2" filename="$USER_HOME$/dev/invivo/api-transac/api/stripe-accounts/stripe-accounts.controller.ts" />
       <jump line="0" column="27" filename="$USER_HOME$/dev/invivo/api-transac/api/stripe-accounts/domain/obtain-cooperative-token.use-case.ts" />
-      <jump line="13" column="32" filename="$USER_HOME$/dev/invivo/api-transac/api/stripe-accounts/domain/obtain-cooperative-token.use-case.ts" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/invivo/api-transac/api/stripe-accounts/domain/obtain-cooperative-token.use-case.ts" />
       <jump line="16" column="36" filename="$USER_HOME$/dev/invivo/api-transac/api/stripe-accounts/domain/obtain-cooperative-token.use-case.ts" />
       <jump line="20" column="12" filename="$USER_HOME$/dev/invivo/api-transac/api/stripe-accounts/domain/obtain-cooperative-token.use-case.ts" />
@@ -297,6 +291,9 @@
       <jump line="54" column="72" filename="$USER_HOME$/dev/invivo/api-transac/api/test/stripe-accounts.repository.integ.test.ts" />
       <jump line="7" column="0" filename="$USER_HOME$/dev/invivo/api-transac/api/stripe-accounts/test/stripe-accounts.controller.test.ts" />
       <jump line="48" column="36" filename="$USER_HOME$/dev/invivo/api-transac/api/test/stripe-accounts.integ.test.ts" />
+      <jump line="13" column="13" filename="$USER_HOME$/dev/invivo/api-transac/api/stripe-accounts/domain/obtain-cooperative-token.use-case.ts" />
+      <jump line="86" column="44" filename="$USER_HOME$/dev/invivo/api-transac/api/stripe-accounts/domain/test/obtain-cooperative-token.use-case.test.ts" />
+      <jump line="51" column="28" filename="$USER_HOME$/dev/invivo/api-transac/api/stripe-accounts/domain/obtain-cooperative-token.use-case.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -310,7 +307,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IFN0cmlwZUFjY291bnQgZnJvbSAnLi9zdHJpcGUtYWNjb3VudHMnCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -331,7 +328,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">RXh0ZW5kZWRSZXF1ZXN0IA==</text>
+        <text>code</text>
       </register>
       <register name="/" type="4">
         <text>options</text>
@@ -340,37 +337,37 @@
         <text encoding="base64">ICAgICAgICBnZW5lcmF0ZUVudGl0eSgnc3RyaXBlQWNjb3VudCcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IFN0cmlwZUFjY291bnQgZnJvbSAnLi9zdHJpcGUtYWNjb3VudHMnCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYm9keSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAucXVlcnkoeyBzdGF0ZTogJ3Rva2VuU3RhdGUnLCBjb2RlOiAnY29kZScgfSkKICAgICAgY29uc29sZS5sb2coYm9keSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CnR5cGUgSW5kZXhSZXF1ZXN0ID0gRXh0ZW5kZWRSZXF1ZXN0PHsgc3RhdGU6IHN0cmluZzsgY29kZTogbnVtYmVyIH0+Cg==</text>
+        <text encoding="base64">ICAgICAgY3JlYXRlRmFjdG9yeSgpLnN0cmlwZUFjY291bnRzUmVwb3NpdG9yeSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3QucGF5bG9hZC5zdGF0ZSA9ICdzdGF0ZScKICAgIHJlcXVlc3QucGF5bG9hZC5jb29wZXJhdGl2ZUlkID0gMTMK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc3RhdHVzQ29kZSwgYm9keSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3QucGF5bG9hZC5zdGF0ZSA9ICdzdGF0ZScKICAgIHJlcXVlc3QucGF5bG9hZC5jb29wZXJhdGl2ZUlkID0gMTMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUmVxdWVzdCB9IGZyb20gJ0BoYXBpL2hhcGknCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgY29kZTogc3RyaW5nIH0gPSByZXF1ZXN0LnF1ZXJ5Cg==</text>
+        <text encoding="base64">CnR5cGUgSW5kZXhSZXF1ZXN0ID0gRXh0ZW5kZWRSZXF1ZXN0PHsgc3RhdGU6IHN0cmluZzsgY29kZTogbnVtYmVyIH0+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
