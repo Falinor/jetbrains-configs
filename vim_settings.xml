@@ -85,12 +85,32 @@
         <mark key="^" line="30" column="25" />
         <mark key="." line="30" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/api-transac/api/factory.js" timestamp="1592232147737">
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/stripe-accounts/stripe-states.repository.ts" timestamp="1592233770544">
+        <mark key="[" line="12" column="76" />
+        <mark key="]" line="12" column="76" />
+        <mark key="." line="12" column="75" />
+        <mark key="^" line="12" column="76" />
+      </file>
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/factory.js" timestamp="1592234061588">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="43" column="34" />
-        <mark key="]" line="43" column="34" />
-        <mark key="^" line="43" column="34" />
-        <mark key="." line="43" column="34" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="39" column="36" />
+        <mark key="^" line="39" column="36" />
+        <mark key="." line="39" column="35" />
+      </file>
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/stripe-accounts/domain/obtain-cooperative-token.use-case.ts" timestamp="1592234080756">
+        <mark key="'" line="54" column="28" />
+        <mark key="[" line="27" column="24" />
+        <mark key="]" line="63" column="14" />
+        <mark key="." line="63" column="13" />
+        <mark key="^" line="63" column="14" />
+      </file>
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/test/stripe-accounts.repository.integ.test.ts" timestamp="1592233607082">
+        <mark key="'" line="61" column="47" />
+        <mark key="[" line="23" column="10" />
+        <mark key="]" line="8" column="24" />
+        <mark key="^" line="5" column="68" />
+        <mark key="." line="8" column="24" />
       </file>
       <file name="$USER_HOME$/dev/invivo/api-transac/api/utils/sequelize-adapter.js" timestamp="1592232319059">
         <mark key="'" line="70" column="6" />
@@ -112,6 +132,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/utils/generator.js" timestamp="1592233716070" />
       <file name="$USER_HOME$/dev/invivo/api-transac/api/test/shipping-rates.repository.integ.test.ts" timestamp="1592232960835" />
       <file name="/Dummy.txt" timestamp="1592232649751">
         <mark key="[" line="0" column="0" />
@@ -123,6 +144,12 @@
         <mark key="]" line="24" column="14" />
         <mark key="." line="24" column="13" />
         <mark key="^" line="24" column="14" />
+      </file>
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/stripe-accounts/domain/generate-stripe-link.use-case.ts" timestamp="1592234080526">
+        <mark key="[" line="25" column="35" />
+        <mark key="]" line="25" column="51" />
+        <mark key="^" line="25" column="51" />
+        <mark key="." line="25" column="50" />
       </file>
       <file name="$USER_HOME$/dev/invivo/api-transac/api/checkouts/test/checkouts.model.integ.test.js" timestamp="1592232077842">
         <mark key="[" line="3" column="31" />
@@ -244,7 +271,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">QVBJIA==</text>
+        <text>stripeApiKey</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -265,7 +292,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">QVBJIA==</text>
+        <text>stripeApiKey</text>
       </register>
       <register name="/" type="4">
         <text>options</text>
