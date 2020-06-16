@@ -79,12 +79,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/mix-it/api/src/party/ws/test/playlist.test.ts" timestamp="1592341971890">
+      <file name="$USER_HOME$/dev/mix-it/api/src/party/ws/test/playlist.test.ts" timestamp="1592343235576">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="46" column="6" />
-        <mark key="]" line="46" column="19" />
-        <mark key="." line="46" column="18" />
-        <mark key="^" line="46" column="19" />
+        <mark key="[" line="65" column="66" />
+        <mark key="]" line="65" column="66" />
+        <mark key="." line="65" column="66" />
+        <mark key="^" line="67" column="28" />
       </file>
       <file name="$USER_HOME$/dev/mix-it/api/src/core/index.ts" timestamp="1592338699624">
         <mark key="'" line="0" column="0" />
@@ -293,7 +293,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>onPlaylistUnshift</text>
+        <text>string</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -314,7 +314,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>onPlaylistUnshift</text>
+        <text>string</text>
       </register>
       <register name="/" type="4">
         <text>options</text>
