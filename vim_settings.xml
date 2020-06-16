@@ -90,10 +90,11 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/api-transac/.mocharc.js" timestamp="1592235905788">
-        <mark key="[" line="7" column="34" />
-        <mark key="]" line="7" column="35" />
-        <mark key="." line="7" column="35" />
+      <file name="33ee987c-4c2d-4271-bcbf-fea18a57ed1b/dataset_filters/schemas/marketplacetransacdbtest/tables/stripe_accounts" timestamp="1592322116708">
+        <mark key="[" line="0" column="55" />
+        <mark key="]" line="0" column="55" />
+        <mark key="^" line="0" column="55" />
+        <mark key="." line="0" column="54" />
       </file>
       <file name="$USER_HOME$/dev/invivo/api-transac/api/test/carts.integ.test.js" timestamp="1592237326337">
         <mark key="[" line="53" column="12" />
@@ -107,6 +108,9 @@
         <mark key="^" line="32" column="26" />
         <mark key="." line="32" column="25" />
       </file>
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/stripe-accounts/test/stripe-accounts.controller.test.ts" timestamp="1592322782166">
+        <mark key="[" line="37" column="100" />
+      </file>
       <file name="$USER_HOME$/dev/invivo/api-transac/.env.test" timestamp="1592295313571">
         <mark key="'" line="23" column="0" />
         <mark key="k" line="16" column="0" />
@@ -118,8 +122,11 @@
       <file name="/Dummy.txt" timestamp="1592319799498">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/api-transac/api/users/users.repository.js" timestamp="1592235625747">
-        <mark key="[" line="19" column="41" />
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/stripe-accounts/domain/stripe-link.ts" timestamp="1592322829497">
+        <mark key="[" line="13" column="290" />
+        <mark key="]" line="13" column="290" />
+        <mark key="^" line="13" column="290" />
+        <mark key="." line="13" column="289" />
       </file>
       <file name="$USER_HOME$/dev/invivo/api-transac/ansible/group_vars/env_qua/vars.yml" timestamp="1592319639502">
         <mark key="[" line="49" column="0" />
@@ -143,6 +150,12 @@
         <mark key="[" line="128" column="0" />
         <mark key="]" line="128" column="0" />
         <mark key="." line="128" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/stripe-accounts/stripe-accounts.controller.ts" timestamp="1592322776423">
+        <mark key="[" line="24" column="119" />
+        <mark key="]" line="25" column="142" />
+        <mark key="^" line="25" column="142" />
+        <mark key="." line="25" column="141" />
       </file>
     </filemarks>
     <jumps>
@@ -258,8 +271,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IFN0cmlwZUFkYXB0ZXIgZnJvbSAnLi91dGlscy9zdHJpcGUtYWRhcHRlcicK</text>
+      <register name="&quot;" type="4">
+        <text>where</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -280,7 +293,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>example</text>
+        <text>where</text>
       </register>
       <register name="/" type="4">
         <text>options</text>
