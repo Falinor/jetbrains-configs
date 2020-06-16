@@ -79,28 +79,23 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/dev/mix-it/api/src/party/ws/test/playlist.test.ts" timestamp="1592341971890">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="46" column="6" />
+        <mark key="]" line="46" column="19" />
+        <mark key="." line="46" column="18" />
+        <mark key="^" line="46" column="19" />
+      </file>
       <file name="$USER_HOME$/dev/mix-it/api/src/core/index.ts" timestamp="1592338699624">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="2" column="24" />
-      </file>
-      <file name="$USER_HOME$/dev/invivo/api-transac/api/factory.js" timestamp="1592319899963">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-      </file>
-      <file name="33ee987c-4c2d-4271-bcbf-fea18a57ed1b/dataset_filters/schemas/marketplacetransacdbtest/tables/stripe_accounts" timestamp="1592322116708">
-        <mark key="[" line="0" column="55" />
-        <mark key="]" line="0" column="55" />
-        <mark key="^" line="0" column="55" />
-        <mark key="." line="0" column="54" />
       </file>
       <file name="$USER_HOME$/dev/invivo/api-transac/ansible/roles/deploy-marketplace-api-transac/tasks/deploy-api.yml" timestamp="1592325320010">
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="46" />
         <mark key="." line="74" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/mix-it/api/src/party/ws/host.ts" timestamp="1592339159594">
+      <file name="$USER_HOME$/dev/mix-it/api/src/party/ws/host.ts" timestamp="1592340190961">
         <mark key="'" line="39" column="14" />
         <mark key="[" line="39" column="15" />
         <mark key="]" line="39" column="15" />
@@ -112,6 +107,13 @@
         <mark key="]" line="7" column="35" />
         <mark key="." line="7" column="34" />
         <mark key="^" line="7" column="35" />
+      </file>
+      <file name="$USER_HOME$/dev/mix-it/api/src/party/ws/test/host.test.ts" timestamp="1592340209463">
+        <mark key="'" line="87" column="0" />
+        <mark key="[" line="12" column="33" />
+        <mark key="]" line="12" column="37" />
+        <mark key="." line="12" column="36" />
+        <mark key="^" line="12" column="37" />
       </file>
       <file name="$USER_HOME$/dev/invivo/api-transac/api/orders/v2/domain/create-orders.use-case.js" timestamp="1592337153901">
         <mark key="[" line="25" column="0" />
@@ -143,7 +145,7 @@
       <file name="$USER_HOME$/dev/mix-it/api/src/core/errors/index.ts" timestamp="1592339166230">
         <mark key="[" line="0" column="37" />
       </file>
-      <file name="$USER_HOME$/dev/mix-it/api/src/party/ws/test/song.test.ts" timestamp="1592338939748">
+      <file name="$USER_HOME$/dev/mix-it/api/src/party/ws/test/song.test.ts" timestamp="1592340202786">
         <mark key="[" line="55" column="4" />
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
@@ -178,9 +180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/dev/mix-it/api/src/party/ws/test/song.test.ts" />
-      <jump line="11" column="0" filename="$USER_HOME$/dev/mix-it/api/src/party/ws/test/song.test.ts" />
-      <jump line="28" column="22" filename="$USER_HOME$/dev/mix-it/api/src/party/ws/test/song.test.ts" />
       <jump line="3" column="26" filename="$USER_HOME$/dev/invivo/stripe-account-cli/bin/index.ts" />
       <jump line="8" column="0" filename="$USER_HOME$/dev/invivo/stripe-account-cli/bin/index.ts" />
       <jump line="12" column="26" filename="$USER_HOME$/dev/invivo/stripe-account-cli/src/config.ts" />
@@ -278,6 +277,9 @@
       <jump line="47" column="15" filename="$USER_HOME$/dev/mix-it/api/src/party/ws/host.ts" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/mix-it/api/src/party/ws/host.ts" />
       <jump line="39" column="14" filename="$USER_HOME$/dev/mix-it/api/src/party/ws/host.ts" />
+      <jump line="87" column="0" filename="$USER_HOME$/dev/mix-it/api/src/party/ws/test/host.test.ts" />
+      <jump line="46" column="18" filename="$USER_HOME$/dev/mix-it/api/src/party/ws/test/playlist.test.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/mix-it/api/src/party/ws/test/playlist.test.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -290,8 +292,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>onPlaylistUnshift</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -312,7 +314,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PT4g</text>
+        <text>onPlaylistUnshift</text>
       </register>
       <register name="/" type="4">
         <text>options</text>
