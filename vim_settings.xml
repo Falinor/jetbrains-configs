@@ -133,7 +133,7 @@
       <file name="$USER_HOME$/dev/invivo/api-transac/.gitlab-ci.yml" timestamp="1592381118835">
         <mark key="[" line="48" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/api-transac/.env.local" timestamp="1592402294724">
+      <file name="$USER_HOME$/dev/invivo/api-transac/.env.local" timestamp="1592407692603">
         <mark key="[" line="25" column="11" />
         <mark key="]" line="28" column="10" />
         <mark key="^" line="23" column="0" />
@@ -164,11 +164,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/api-transac/api/stripe-accounts/domain/stripe-link.ts" timestamp="1592401880227">
-        <mark key="[" line="13" column="280" />
-        <mark key="]" line="13" column="280" />
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/stripe-accounts/domain/stripe-link.ts" timestamp="1592406564259">
+        <mark key="[" line="13" column="314" />
+        <mark key="]" line="13" column="290" />
         <mark key="^" line="13" column="290" />
-        <mark key="." line="13" column="280" />
+        <mark key="." line="13" column="289" />
       </file>
       <file name="$USER_HOME$/dev/invivo/api-transac/ansible/group_vars/env_qua/vars.yml" timestamp="1592387281273">
         <mark key="[" line="57" column="37" />
@@ -294,7 +294,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>read_write</text>
+        <text>register</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -315,7 +315,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>read_write</text>
+        <text>register</text>
       </register>
       <register name="/" type="4">
         <text>options</text>
