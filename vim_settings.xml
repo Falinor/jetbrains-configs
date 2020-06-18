@@ -79,15 +79,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/dev/mix-it/mono-repo/packages/mix-it-front/src/views/Host/Host.vue" timestamp="1592521874302">
+        <mark key="[" line="138" column="0" />
+        <mark key="]" line="138" column="0" />
+        <mark key="." line="138" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/invivo/api-transac/api/factory.js" timestamp="1592485649776">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="48" column="4" />
-      </file>
-      <file name="$USER_HOME$/dev/invivo/api-transac/api/orders/v2/orders.repository.js" timestamp="1592400928516">
-        <mark key="[" line="58" column="45" />
-        <mark key="]" line="58" column="43" />
-        <mark key="." line="58" column="42" />
-        <mark key="^" line="58" column="43" />
       </file>
       <file name="$USER_HOME$/dev/invivo/api-transac/api/test/container.test.ts" timestamp="1592484976648">
         <mark key="[" line="25" column="28" />
@@ -115,11 +114,10 @@
         <mark key="^" line="6" column="42" />
         <mark key="." line="6" column="41" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/api-transac/package.json" timestamp="1592409486344">
-        <mark key="'" line="111" column="31" />
-        <mark key="[" line="128" column="0" />
-        <mark key="]" line="128" column="0" />
-        <mark key="." line="128" column="0" />
+      <file name="$USER_HOME$/dev/mix-it/mono-repo/packages/mix-it-front/package.json" timestamp="1592521851485">
+        <mark key="[" line="31" column="27" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/dev/mix-it/api/tsconfig.json" timestamp="1592518891217">
         <mark key="'" line="17" column="50" />
@@ -173,16 +171,13 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/api-transac/api/test/orders/v2/orders.repository.integ.test.js" timestamp="1592400896339">
-        <mark key="[" line="96" column="6" />
-        <mark key="]" line="85" column="23" />
-        <mark key="." line="85" column="22" />
-        <mark key="^" line="85" column="23" />
+      <file name="$USER_HOME$/dev/mix-it/mono-repo/packages/mix-it-front/src/main.ts" timestamp="1592522151867">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="16" />
+        <mark key="." line="14" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/dev/invivo/api-transac/cli/commands/link-generate.ts" />
-      <jump line="5" column="27" filename="$USER_HOME$/dev/invivo/api-transac/cli/index.ts" />
       <jump line="13" column="25" filename="$USER_HOME$/dev/invivo/api-transac/cli/index.ts" />
       <jump line="6" column="3" filename="$USER_HOME$/dev/invivo/api-transac/cli/index.ts" />
       <jump line="4" column="40" filename="$USER_HOME$/dev/invivo/api-transac/cli/index.ts" />
@@ -281,6 +276,8 @@
       <jump line="51" column="0" filename="$USER_HOME$/dev/mix-it/api/src/party/test/party-repository.test.ts" />
       <jump line="52" column="31" filename="$USER_HOME$/dev/mix-it/api/src/party/test/party-repository.test.ts" />
       <jump line="17" column="50" filename="$USER_HOME$/dev/mix-it/api/tsconfig.json" />
+      <jump line="3" column="0" filename="$USER_HOME$/dev/mix-it/mono-repo/packages/mix-it-front/src/main.ts" />
+      <jump line="4" column="0" filename="$USER_HOME$/dev/mix-it/mono-repo/packages/mix-it-front/src/main.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -294,7 +291,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB9KQo=</text>
+        <text encoding="base64">VnVlLnVzZShTbm90aWZ5KQo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -315,7 +312,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>playlist</text>
+        <text>VueIziToast</text>
       </register>
       <register name="/" type="4">
         <text>options</text>
@@ -324,7 +321,7 @@
         <text encoding="base64">ICAgIGV4cGVjdChyZXBvc2l0b3J5LnNhdmUpLnRvLmhhdmUuYmVlbi5jYWxsZWRPbmNlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9KQo=</text>
+        <text encoding="base64">VnVlLnVzZShTbm90aWZ5KQo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -333,28 +330,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgZGVzY3JpYmUoJ3Jvb206am9pbicsICgpID0+IHsKICAgIGxldCBzb2NrZXQ6IFNvY2tldElPQ2xpZW50LlNvY2tldAogICAgbGV0IHBhcnR5OiBQYXJ0eQoKICAgIGJlZm9yZUVhY2goYXN5bmMgZG9uZSA9PiB7CiAgICAgIHNvY2tldCA9IGNsaWVudC5jb25uZWN0KGBodHRwOi8vbG9jYWxob3N0OiR7cG9ydH0vcGFydGllc2ApCiAgICAgIHBhcnR5ID0gYXdhaXQgY3JlYXRlUGFydHlSZXBvc2l0b3J5KCkuY3JlYXRlKHsKICAgICAgICBwbGF5bGlzdDogW10KICAgICAgfSkKICAgICAgc29ja2V0Lm9uKCdjb25uZWN0JywgZG9uZSkKICAgIH0pCgogICAgaXQoJ2Fja25vd2xlZGdlcyB0aGUgcm9vbSB3YXMgam9pbmVkJywgZG9uZSA9PiB7CiAgICAgIHNvY2tldC5lbWl0KCdyb29tOmpvaW4nLCB7IGNsaWVudFR5cGU6ICdob3N0JywgcGFydHlJZDogcGFydHkuaWQgfSwgZG9uZSkKICAgIH0pCgogICAgaXQoJ2VtaXRzIGFuIGVycm9yIGlmIHRoZSBwYXJ0eSBkb2VzIG5vdCBleGlzdCcsIGRvbmUgPT4gewogICAgICBleHBlY3QuYXNzZXJ0aW9ucygxKQogICAgICBzb2NrZXQuZW1pdCgncm9vbTpqb2luJywgeyBjbGllbnRUeXBlOiAnaG9zdCcsIHBhcnR5SWQ6ICdub24gZXhpc3RpbmcgcGFydHknIH0sIChlcnI6IE1pc3NpbmdQYXJ0eUVycm9yKSA9PiB7CiAgICAgICAgZXhwZWN0KGVycikudG9NYXRjaE9iamVjdCh7CiAgICAgICAgICBuYW1lOiAnTWlzc2luZ1BhcnR5RXJyb3InLAogICAgICAgICAgbWVzc2FnZTogZXhwZWN0LmFueShTdHJpbmcpCiAgICAgICAgfSkKICAgICAgICBkb25lKCkKICAgICAgfSkKICAgIH0pCiAgfSkKCiAgZGVzY3JpYmUoJ3Nvbmc6c3VibWl0JywgKCkgPT4gewogICAgbGV0IHNvY2tldDogU29ja2V0SU9DbGllbnQuU29ja2V0CiAgICBsZXQgcGFydHk6IFBhcnR5CgogICAgYmVmb3JlRWFjaChhc3luYyBkb25lID0+IHsKICAgICAgc29ja2V0ID0gY2xpZW50LmNvbm5lY3QoYGh0dHA6Ly9sb2NhbGhvc3Q6JHtwb3J0fS9wYXJ0aWVzYCkKICAgICAgcGFydHkgPSBhd2FpdCBjcmVhdGVQYXJ0eVJlcG9zaXRvcnkoKS5jcmVhdGUoewogICAgICAgIHBsYXlsaXN0OiBbXQogICAgICB9KQogICAgICBzb2NrZXQub24oJ2Nvbm5lY3QnLCAoKSA9PiB7CiAgICAgICAgc29ja2V0LmVtaXQoJ3Jvb206am9pbicsIHsgY2xpZW50VHlwZTogJ2hvc3QnLCBwYXJ0eUlkOiBwYXJ0eS5pZCB9LCBkb25lKQogICAgICB9KQogICAgfSkKCiAgICBpdCgnZW1pdHMgYSAicGxheWxpc3QiIGV2ZW50JywgZG9uZSA9PiB7CiAgICAgIGV4cGVjdC5hc3NlcnRpb25zKDEpCiAgICAgIHNvY2tldC5vbigncGxheWxpc3QnLCAocGxheWxpc3Q6IHN0cmluZ1tdKSA9PiB7CiAgICAgICAgZXhwZWN0KHBsYXlsaXN0KS50b1N0cmljdEVxdWFsKFsnYWJjJ10pCiAgICAgICAgZG9uZSgpCiAgICAgIH0pCiAgICAgIHNvY2tldC5lbWl0KCdzb25nOnN1Ym1pdCcsICdhYmMnKQogICAgfSkKCiAgICBkZXNjcmliZSgnV2l0aCBtb2JpbGUgVVJMJywgKCkgPT4gewogICAgICBpdCgnZW1pdHMgYSAicGxheWxpc3QiIGV2ZW50JywgZG9uZSA9PiB7CiAgICAgICAgZXhwZWN0LmFzc2VydGlvbnMoMSkKICAgICAgICBzb2NrZXQub24oJ3BsYXlsaXN0JywgKHBsYXlsaXN0OiBzdHJpbmdbXSkgPT4gewogICAgICAgICAgZXhwZWN0KHBsYXlsaXN0KS50b1N0cmljdEVxdWFsKFsnYWJjJ10pCiAgICAgICAgICBkb25lKCkKICAgICAgICB9KQogICAgICAgIHNvY2tldC5lbWl0KCdzb25nOnN1Ym1pdCcsICdodHRwczovL3lvdXR1LmJlL2FiYycpCiAgICAgIH0pCiAgICB9KQogICAgZGVzY3JpYmUoJ1dpdGggZGVza3RvcCBVUkwnLCAoKSA9PiB7CiAgICAgIGl0KCdlbWl0cyBhICJwbGF5bGlzdCIgZXZlbnQnLCBkb25lID0+IHsKICAgICAgICBleHBlY3QuYXNzZXJ0aW9ucygxKQogICAgICAgIHNvY2tldC5vbigncGxheWxpc3QnLCAocGxheWxpc3Q6IHN0cmluZ1tdKSA9PiB7CiAgICAgICAgICBleHBlY3QocGxheWxpc3QpLnRvU3RyaWN0RXF1YWwoWydhYmMnXSkKICAgICAgICAgIGRvbmUoKQogICAgICAgIH0pCiAgICAgICAgc29ja2V0LmVtaXQoJ3Nvbmc6c3VibWl0JywgJ2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9YWJjJykKICAgICAgfSkKICAgIH0pCiAgICBkZXNjcmliZSgnV2l0aCBkZXNrdG9wIFVSTCBhbmQgcGFyYW1zJywgKCkgPT4gewogICAgICBpdCgnZW1pdHMgYSAicGxheWxpc3QiIGV2ZW50JywgZG9uZSA9PiB7CiAgICAgICAgZXhwZWN0LmFzc2VydGlvbnMoMSkKICAgICAgICBzb2NrZXQub24oJ3BsYXlsaXN0JywgKHBsYXlsaXN0OiBzdHJpbmdbXSkgPT4gewogICAgICAgICAgZXhwZWN0KHBsYXlsaXN0KS50b1N0cmljdEVxdWFsKFsnYWJjJ10pCiAgICAgICAgICBkb25lKCkKICAgICAgICB9KQogICAgICAgIHNvY2tldC5lbWl0KCdzb25nOnN1Ym1pdCcsICdodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PWFiYyZzPTInKQogICAgICB9KQogICAgfSkKICB9KQoKICBkZXNjcmliZSgncGxheWxpc3Q6dW5zaGlmdCcsICgpID0+IHsKICAgIGxldCBzb2NrZXQ6IFNvY2tldElPQ2xpZW50LlNvY2tldAogICAgbGV0IHBhcnR5OiBQYXJ0eQoKICAgIGJlZm9yZUVhY2goYXN5bmMgZG9uZSA9PiB7CiAgICAgIHNvY2tldCA9IGNsaWVudC5jb25uZWN0KGBodHRwOi8vbG9jYWxob3N0OiR7cG9ydH0vcGFydGllc2ApCiAgICAgIHBhcnR5ID0gYXdhaXQgY3JlYXRlUGFydHlSZXBvc2l0b3J5KCkuY3JlYXRlKHsKICAgICAgICBwbGF5bGlzdDogWydhYmMnLCAnZGVmJ10KICAgICAgfSkKICAgICAgc29ja2V0Lm9uKCdjb25uZWN0JywgKCkgPT4gewogICAgICAgIHNvY2tldC5lbWl0KCdyb29tOmpvaW4nLCB7IGNsaWVudFR5cGU6ICdob3N0JywgcGFydHlJZDogcGFydHkuaWQgfSwgZG9uZSkKICAgICAgfSkKICAgIH0pCgogICAgaXQoJ2VtaXRzIGEgInBsYXlsaXN0IiBldmVudCcsIGRvbmUgPT4gewogICAgICBleHBlY3QuYXNzZXJ0aW9ucygxKQogICAgICBzb2NrZXQub24oJ3BsYXlsaXN0JywgKHBsYXlsaXN0OiBzdHJpbmdbXSkgPT4gewogICAgICAgIGV4cGVjdChwbGF5bGlzdCkudG9TdHJpY3RFcXVhbChbJ2RlZiddKQogICAgICAgIGRvbmUoKQogICAgICB9KQogICAgICBzb2NrZXQuZW1pdCgncGxheWxpc3Q6dW5zaGlmdCcpCiAgICB9KQ==</text>
+        <text encoding="base64">VnVlLnVzZShWdWVJemlUb2FzdCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJzcmMvdHlwZXMvZ2xvYmFsLmQudHMiCg==</text>
+        <text encoding="base64">VnVlLnVzZShTbm90aWZ5KTsKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBpdCgndGhyb3dzIGFuIGVycm9yIGlmIHRoZSBwYXJ0eSBjb3VsZCBub3QgYmUgZm91bmQnLCBhc3luYyAoKSA9PiB7Cg==</text>
+        <text encoding="base64">Ly8gWW91IGFsc28gbmVlZCB0byBpbXBvcnQgdGhlIHN0eWxlcy4gSWYgeW91J3JlIHVzaW5nIHdlYnBhY2sncyBjc3MtbG9hZGVyLCB5b3UgY2FuIGRvIHNvIGhlcmU6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgcHJvbWlzZSA9IHBhcnR5UmVwb3NpdG9yeS5hZGRTb25nKCdwYXJ0eSBub3QgZm91bmQnLCAnc29uZycpCiAgICB9KQo=</text>
+        <text encoding="base64">aW1wb3J0ICd2dWUtc25vdGlmeS9zdHlsZXMvbWF0ZXJpYWwuY3NzJzsgLy8gb3IgZGFyay5jc3Mgb3Igc2ltcGxlLmNzcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYXdhaXQgZXhwZWN0KHByb21pc2UpLnRvUmVqZWN0KCkK</text>
+        <text encoding="base64">aW1wb3J0IFNub3RpZnkgZnJvbSAndnVlLXNub3RpZnknOwo=</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJzcmMvdHlwZXMvZ2xvYmFsLmQudHMiCg==</text>
+        <text encoding="base64">aW1wb3J0IFZ1ZUl6aVRvYXN0IGZyb20gJ3Z1ZS1peml0b2FzdCcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJzcmMvdHlwZXMiCg==</text>
+        <text encoding="base64">aW1wb3J0ICdpeml0b2FzdC9kaXN0L2Nzcy9pemlUb2FzdC5taW4uY3NzJzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
