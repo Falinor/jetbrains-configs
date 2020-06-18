@@ -149,13 +149,6 @@
         <mark key="^" line="1" column="39" />
         <mark key="." line="1" column="38" />
       </file>
-      <file name="$USER_HOME$/dev/mix-it/api/src/party/ws/test/host.test.ts" timestamp="1592380319703">
-        <mark key="'" line="84" column="0" />
-        <mark key="[" line="4" column="33" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
-        <mark key="^" line="83" column="11" />
-      </file>
       <file name="/Dummy.txt" timestamp="1592467363988">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -166,6 +159,11 @@
         <mark key="]" line="13" column="290" />
         <mark key="^" line="13" column="290" />
         <mark key="." line="13" column="289" />
+      </file>
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/test/checkouts.integ.test.js" timestamp="1592470235044">
+        <mark key="[" line="400" column="0" />
+        <mark key="]" line="400" column="0" />
+        <mark key="." line="400" column="0" />
       </file>
       <file name="$USER_HOME$/dev/invivo/api-transac/ansible/group_vars/env_qua/vars.yml" timestamp="1592387281273">
         <mark key="[" line="57" column="37" />
@@ -290,8 +288,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>m</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhvcmRlcikK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -312,7 +310,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>body</text>
       </register>
       <register name="/" type="4">
         <text>options</text>
@@ -321,45 +319,37 @@
         <text encoding="base64">ICAgIGV4cGVjdChyZXBvc2l0b3J5LnNhdmUpLnRvLmhhdmUuYmVlbi5jYWxsZWRPbmNlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhvcmRlcikK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">b3JkZXJzVjIuT3JkZXJzRG9tYWluCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0dXMsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBzaGlwcGluZ3M6IFsKICAgICAgICAgICAgICAgIGdlbmVyYXRlRW50aXR5KCdzaGlwcGluZycsIHsKICAgICAgICAgICAgICAgICAgb3ZlcnJpZGVzOiB7IGtpbmQ6IEF2YWlsYWJsZVNoaXBwaW5nTWV0aG9kcy5GQVJNIH0KICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgICAgXQ==</text>
       </register>
-      <register name="4" type="4">
-        <text>const order = generateEntity('order', {
-        overrides: {
-          checkout,
-          status,
-          statusEvents: null
-        }
-      })
-      const actual = await ordersRepository.create(order)
-      expect(actual).to.have.property('status', OrderStatuses.AWAITING_PAYMENT)</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBlbmFibGVNdWx0aVNoaXBwaW5nOiB0cnVlLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3QoYm9keVswXS5jYXJ0LmxpbmVfaXRlbXMpLnRvLmhhdmUubGVuZ3RoT2YoY2hlY2tvdXQuY2FydC5saW5lSXRlbXMubGVuZ3RoKSAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzaGlwcGluZwo=</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3QoYm9keS5sZW5ndGgpLnRvLmVxbCgxKQogICAgICAgIGV4cGVjdChib2R5WzBdLmNhcnQubGluZV9pdGVtcykudG8uYmUuYW4oJ2FycmF5JykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGV4cGVjdChib2R5KS50by5hbGwuaGF2ZS5wcm9wZXJ0eShwcm9wKQogICAgICAgIH0pCg==</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaXQoJ3Nob3VsZCBoYXZlIGEgc3RhdHVzIG9mICJhd2FpdGluZy1wYXltZW50IicsICgpID0+IHsKICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBwcm9wcyA9IFsnaWQnLCAnY2FydCcsICdzaGlwcGluZycsICdwYXltZW50X21ldGhvZCcsICdjcmVhdGVkX2F0JywgJ3VwZGF0ZWRfYXQnXQogICAgICAgIHByb3BzLmZvckVhY2gocHJvcCA9PiB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
