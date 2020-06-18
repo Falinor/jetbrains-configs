@@ -79,18 +79,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/factory.js" timestamp="1592466487042">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/invivo/api-transac/ansible/roles/deploy-marketplace-api-transac/tasks/deploy-api.yml" timestamp="1592398044798">
         <mark key="[" line="332" column="0" />
         <mark key="]" line="274" column="45" />
         <mark key="." line="274" column="44" />
         <mark key="^" line="274" column="45" />
-      </file>
-      <file name="$USER_HOME$/dev/mix-it/api/src/party/ws/host.ts" timestamp="1592349584557">
-        <mark key="'" line="39" column="14" />
-        <mark key="[" line="27" column="25" />
-        <mark key="]" line="27" column="27" />
-        <mark key="." line="27" column="26" />
-        <mark key="^" line="27" column="27" />
       </file>
       <file name="$USER_HOME$/dev/invivo/api-transac/api/orders/v2/orders.repository.js" timestamp="1592400928516">
         <mark key="[" line="58" column="45" />
@@ -292,8 +291,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>register</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">b3JkZXJzVjIuT3JkZXJzRG9tYWluCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -323,12 +322,15 @@
         <text encoding="base64">ICAgIGV4cGVjdChyZXBvc2l0b3J5LnNhdmUpLnRvLmhhdmUuYmVlbi5jYWxsZWRPbmNlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0dXMsCg==</text>
+        <text encoding="base64">b3JkZXJzVjIuT3JkZXJzRG9tYWluCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBzdGF0dXMsCg==</text>
+      </register>
+      <register name="3" type="4">
         <text>const order = generateEntity('order', {
         overrides: {
           checkout,
@@ -339,29 +341,26 @@
       const actual = await ordersRepository.create(order)
       expect(actual).to.have.property('status', OrderStatuses.AWAITING_PAYMENT)</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBzaGlwcGluZwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CiAgICAgIH0pCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaXQoJ3Nob3VsZCBoYXZlIGEgc3RhdHVzIG9mICJhd2FpdGluZy1wYXltZW50IicsICgpID0+IHsKICAgICAgICAK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICAgICAgaXQoJ3Nob3VsZCBoYXZlIGEgc3RhdHVzIG9mICJhd2FpdGluZy1wYXltZW50IicsICgpID0+IHsKICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvcmRlcnMucHVzaChvcmRlcikK</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG9yZGVycyA9IFtdCg==</text>
+        <text encoding="base64">ICAgICAgICBvcmRlcnMucHVzaChvcmRlcikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
