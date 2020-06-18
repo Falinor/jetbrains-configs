@@ -97,11 +97,11 @@
         <mark key="." line="58" column="42" />
         <mark key="^" line="58" column="43" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/api-transac/api/orders/v2/domain/create-orders.use-case.js" timestamp="1592400643503">
-        <mark key="[" line="29" column="36" />
-        <mark key="]" line="27" column="17" />
-        <mark key="." line="27" column="16" />
-        <mark key="^" line="27" column="17" />
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/orders/v2/domain/create-orders.use-case.js" timestamp="1592467630357">
+        <mark key="[" line="0" column="32" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/dev/invivo/api-transac/api/orders/v2/test/create-orders.use-case.test.js" timestamp="1592400623847">
         <mark key="'" line="120" column="16" />
@@ -157,7 +157,7 @@
         <mark key="." line="76" column="0" />
         <mark key="^" line="83" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592380437787">
+      <file name="/Dummy.txt" timestamp="1592467363988">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -292,7 +292,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">b3JkZXJzVjIuT3JkZXJzRG9tYWluCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -313,7 +313,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>register</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>options</text>
@@ -322,15 +322,18 @@
         <text encoding="base64">ICAgIGV4cGVjdChyZXBvc2l0b3J5LnNhdmUpLnRvLmhhdmUuYmVlbi5jYWxsZWRPbmNlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">b3JkZXJzVjIuT3JkZXJzRG9tYWluCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">b3JkZXJzVjIuT3JkZXJzRG9tYWluCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBzdGF0dXMsCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>const order = generateEntity('order', {
         overrides: {
           checkout,
@@ -341,26 +344,23 @@
       const actual = await ordersRepository.create(order)
       expect(actual).to.have.property('status', OrderStatuses.AWAITING_PAYMENT)</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBzaGlwcGluZwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiAgICAgIH0pCg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaXQoJ3Nob3VsZCBoYXZlIGEgc3RhdHVzIG9mICJhd2FpdGluZy1wYXltZW50IicsICgpID0+IHsKICAgICAgICAK</text>
+        <text encoding="base64">CiAgICAgIH0pCg==</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICAgICAgaXQoJ3Nob3VsZCBoYXZlIGEgc3RhdHVzIG9mICJhd2FpdGluZy1wYXltZW50IicsICgpID0+IHsKICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBvcmRlcnMucHVzaChvcmRlcikK</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
