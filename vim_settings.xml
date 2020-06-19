@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>opts.partyId</entry>
         <entry>props</entry>
         <entry encoding="base64">XDwiXD4=</entry>
         <entry>pages</entry>
@@ -27,9 +26,9 @@
         <entry>T</entry>
         <entry>\$dp==</entry>
         <entry>options</entry>
+        <entry>name</entry>
       </history-search>
       <history-cmd>
-        <entry>w:w</entry>
         <entry>&quot;&quot;</entry>
         <entry encoding="base64">JzwsJz5zL3BhZ2VzL2Fzc2V0cy9n</entry>
         <entry>e</entry>
@@ -48,6 +47,7 @@
         <entry encoding="base64">JzwsJz5zL29wdGlvbnMvb3B0cy9n</entry>
         <entry>q</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JzwsJz5zL25hbWUvcHJvZHVjdE5hbWUvZw==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -79,11 +79,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/mix-it/mono-repo/packages/mix-it-front/src/views/Host/Host.vue" timestamp="1592521874302">
-        <mark key="[" line="138" column="0" />
-        <mark key="]" line="138" column="0" />
-        <mark key="." line="138" column="0" />
+      <file name="$USER_HOME$/dev/invivo/front-vendeurs/src/views/VOrderList/VOrderList.vue" timestamp="1592577398199">
+        <mark key="[" line="220" column="99" />
+        <mark key="]" line="220" column="93" />
+        <mark key="." line="220" column="92" />
+        <mark key="^" line="220" column="93" />
       </file>
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/orders/v2/orders.repository.js" timestamp="1592576448237">
+        <mark key="[" line="275" column="79" />
+        <mark key="]" line="257" column="0" />
+        <mark key="." line="257" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/orders/v2/domain/order.js" timestamp="1592572817958" />
       <file name="$USER_HOME$/dev/invivo/api-transac/api/test/container.test.ts" timestamp="1592552053377">
         <mark key="[" line="25" column="28" />
         <mark key="]" line="26" column="13" />
@@ -98,22 +105,22 @@
         <mark key="." line="7" column="22" />
         <mark key="^" line="7" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/mix-it/api/jest.config.js" timestamp="1592518714023">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="12" column="25" />
-        <mark key="]" line="6" column="42" />
-        <mark key="^" line="6" column="42" />
-        <mark key="." line="6" column="41" />
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/orders/v2/test/create-orders.use-case.test.js" timestamp="1592573191615">
+        <mark key="'" line="120" column="16" />
+        <mark key="[" line="136" column="16" />
+        <mark key="]" line="141" column="25" />
+        <mark key="." line="141" column="24" />
+        <mark key="^" line="141" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/mix-it/mono-repo/packages/mix-it-front/package.json" timestamp="1592550632296">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/utils/sequelize/seeds/20190618162401-orders.js" timestamp="1592577265310">
+        <mark key="[" line="3" column="30" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/mix-it/mono-repo/packages/mix-it-front/src/views/Host/host.feature.ts" timestamp="1592522716729">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/carts/models/line-items.model.js" timestamp="1592576464169">
+        <mark key="[" line="117" column="0" />
+        <mark key="]" line="117" column="0" />
+        <mark key="." line="117" column="0" />
       </file>
       <file name="$USER_HOME$/dev/mix-it/mono-repo/packages/mix-it-client/src/notification.ts" timestamp="1592551803523">
         <mark key="'" line="38" column="33" />
@@ -122,23 +129,16 @@
         <mark key="^" line="38" column="34" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/mix-it/api/tsconfig.json" timestamp="1592518891217">
-        <mark key="'" line="17" column="50" />
-        <mark key="[" line="19" column="15" />
-        <mark key="]" line="19" column="14" />
-        <mark key="." line="19" column="13" />
-        <mark key="^" line="19" column="14" />
-      </file>
+      <file name="$USER_HOME$/dev/invivo/api-transac/.env.docker" timestamp="1592577039580" />
       <file name="$USER_HOME$/dev/mix-it/mono-repo/packages/mix-it-client/package.json" timestamp="1592550645249">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/api-transac/.env.local" timestamp="1592553727162">
-        <mark key="[" line="25" column="11" />
-        <mark key="]" line="28" column="10" />
-        <mark key="^" line="23" column="0" />
-        <mark key="." line="28" column="10" />
+      <file name="$USER_HOME$/dev/invivo/api-transac/.env.local" timestamp="1592577159951">
+        <mark key="[" line="29" column="10" />
+        <mark key="]" line="29" column="10" />
+        <mark key="." line="29" column="10" />
       </file>
       <file name="$USER_HOME$/dev/mix-it/mono-repo/packages/mix-it-client/src/views/Room/Room.vue" timestamp="1592551749699">
         <mark key="'" line="42" column="2" />
@@ -147,45 +147,23 @@
         <mark key="^" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/mix-it/api/src/types/global.d.ts" timestamp="1592518429539">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="23" />
-        <mark key="^" line="0" column="23" />
-        <mark key="." line="0" column="22" />
-      </file>
-      <file name="$USER_HOME$/dev/mix-it/api/src/party/ws/test/party-router.test.ts" timestamp="1592520073558">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/utils/generator.js" timestamp="1592575290485" />
       <file name="$USER_HOME$/dev/invivo/api-transac/api/stripe-accounts/test/stripe-accounts.controller.test.ts" timestamp="1592569923028">
         <mark key="[" line="39" column="9" />
       </file>
-      <file name="$USER_HOME$/dev/mix-it/api/src/party/party-repository.ts" timestamp="1592517708560">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/mix-it/mono-repo/packages/mix-it-front/src/main.ts" timestamp="1592522813720">
-        <mark key="[" line="6" column="40" />
-        <mark key="]" line="6" column="40" />
-        <mark key="." line="6" column="40" />
-      </file>
-      <file name="$USER_HOME$/dev/mix-it/mono-repo/packages/mix-it-client/src/views/Room/room.feature.ts" timestamp="1592523122808">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="19" column="18" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/test/orders/v2/orders.repository.integ.test.js" timestamp="1592575447919">
+        <mark key="'" line="676" column="82" />
+        <mark key="[" line="695" column="37" />
+        <mark key="]" line="696" column="0" />
+        <mark key="." line="696" column="0" />
+        <mark key="^" line="695" column="20" />
       </file>
       <file name="$USER_HOME$/dev/invivo/api-transac/api/stripe-accounts/stripe-accounts.controller.ts" timestamp="1592569915814">
         <mark key="[" line="24" column="10" />
       </file>
+      <file name="/VOrderList.js" timestamp="1592572217016" />
     </filemarks>
     <jumps>
-      <jump line="4" column="40" filename="$USER_HOME$/dev/invivo/api-transac/cli/index.ts" />
-      <jump line="10" column="16" filename="$USER_HOME$/dev/invivo/api-transac/api/stripe-accounts/domain/test/generate-stripe-link.use-case.test.ts" />
-      <jump line="3" column="0" filename="$USER_HOME$/dev/invivo/api-transac/api/stripe-accounts/domain/test/generate-stripe-link.use-case.test.ts" />
-      <jump line="12" column="37" filename="$USER_HOME$/dev/invivo/api-transac/api/stripe-accounts/domain/test/generate-stripe-link.use-case.test.ts" />
       <jump line="4" column="0" filename="$USER_HOME$/dev/invivo/api-transac/api/stripe-accounts/domain/test/generate-stripe-link.use-case.test.ts" />
       <jump line="5" column="41" filename="$USER_HOME$/dev/invivo/api-transac/api/stripe-accounts/domain/test/generate-stripe-link.use-case.test.ts" />
       <jump line="21" column="42" filename="$USER_HOME$/dev/invivo/api-transac/api/stripe-accounts/domain/test/generate-stripe-link.use-case.test.ts" />
@@ -282,6 +260,10 @@
       <jump line="4" column="0" filename="$USER_HOME$/dev/mix-it/mono-repo/packages/mix-it-front/src/main.ts" />
       <jump line="42" column="2" filename="$USER_HOME$/dev/mix-it/mono-repo/packages/mix-it-client/src/views/Room/Room.vue" />
       <jump line="37" column="33" filename="$USER_HOME$/dev/mix-it/mono-repo/packages/mix-it-client/src/notification.ts" />
+      <jump line="598" column="21" filename="$USER_HOME$/dev/invivo/api-transac/api/test/orders/v2/orders.repository.integ.test.js" />
+      <jump line="987" column="2" filename="$USER_HOME$/dev/invivo/api-transac/api/test/orders/v2/orders.repository.integ.test.js" />
+      <jump line="671" column="18" filename="$USER_HOME$/dev/invivo/api-transac/api/test/orders/v2/orders.repository.integ.test.js" />
+      <jump line="676" column="82" filename="$USER_HOME$/dev/invivo/api-transac/api/test/orders/v2/orders.repository.integ.test.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -295,7 +277,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Vous pourrez trouver votre compte Stripe à l'adresse https://dashboard.stripe.com/dashboard</text>
+        <text>,</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -316,46 +298,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Vous pourrez trouver votre compte Stripe à l'adresse https://dashboard.stripe.com/dashboard</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>options</text>
+        <text>name</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdChyZXBvc2l0b3J5LnNhdmUpLnRvLmhhdmUuYmVlbi5jYWxsZWRPbmNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHsgc3RhdHVzOiBPcmRlclN0YXR1c2VzLlBFTkRJTkcsIGNyZWF0ZWRBdDogJzIwMjAtMDEtMDFUMDA6MDA6MDBaJyB9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG1pbmlUb2FzdHIgZnJvbSAnbWluaS10b2FzdHInCg==</text>
+        <text encoding="base64">ICAgICAgY2FydHM6IHsgYW1vdW50OiBPUkRFUlNfVE9fR0VORVJBVEUgfSwKICAgICAgY2hlY2tvdXRzOiB7IGFtb3VudDogT1JERVJTX1RPX0dFTkVSQVRFIH0sCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IFNub3RpZnkgZnJvbSAndnVlLXNub3RpZnknCg==</text>
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGF3YWl0IHNlZWQoe30K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICJ2dWUtc25vdGlmeSI6ICJeMy4yLjEiLAo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgIG9yZGVyczogewogICAgICAgIGFtb3VudDogMTAsCiAgICAgICAgb3ZlcnJpZGVzOiB7CiAgICAgICAgICBjaGVja291dDogewogICAgICAgICAgICBjYXJ0OiB7CiAgICAgICAgICAgICAgdXNlcjogewogICAgICAgICAgICAgICAgcmVnaW9uOiAnJywKICAgICAgICAgICAgICAgIGNvb3BlcmF0aXZlSWQ6IDUKICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgIH0KICAgICAgICA=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">TVlTUUxfVVNFUj1yb290Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgIH0gZnJvbSAndnVlLScK</text>
+        <text encoding="base64">ICAgICAgICAgIHJkZXJzKG9yZGVyKQo=</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnRleHQuY29uc29sZS5sb2codGhpcykK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zb3J0T3JkZXJzKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnRleHQuYXR0cnMuCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNvcnRPcmRlcnMoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -364,11 +346,11 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>options</last-search>
+      <last-search>name</last-search>
       <last-offset />
-      <last-pattern>options</last-pattern>
-      <last-replace>opts</last-replace>
-      <last-substitute>options</last-substitute>
+      <last-pattern>name</last-pattern>
+      <last-replace>productName</last-replace>
+      <last-substitute>name</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
