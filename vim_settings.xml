@@ -87,11 +87,6 @@
         <mark key="." line="7" column="22" />
         <mark key="^" line="7" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/mix-it/mono-repo/packages/mix-it-client/package.json" timestamp="1592550645249">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/invivo/api-transac/api/orders/v2/test/create-orders.use-case.test.js" timestamp="1592573191615">
         <mark key="'" line="120" column="16" />
         <mark key="[" line="136" column="16" />
@@ -114,13 +109,6 @@
         <mark key="]" line="117" column="0" />
         <mark key="." line="117" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/mix-it/mono-repo/packages/mix-it-client/src/views/Room/Room.vue" timestamp="1592551749699">
-        <mark key="'" line="42" column="2" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/invivo/front-vendeurs/src/views/VOrderList/VOrderList.vue" timestamp="1592577398199">
         <mark key="[" line="220" column="99" />
         <mark key="]" line="220" column="93" />
@@ -131,6 +119,12 @@
         <mark key="[" line="274" column="79" />
         <mark key="]" line="257" column="0" />
         <mark key="." line="257" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/mix-it/mono-repo/jest.config.js" timestamp="1592590508469">
+        <mark key="[" line="15" column="30" />
+        <mark key="]" line="14" column="40" />
+        <mark key="." line="14" column="39" />
+        <mark key="^" line="14" column="40" />
       </file>
       <file name="$USER_HOME$/dev/mix-it/mono-repo/packages/mix-it-client/src/notification.ts" timestamp="1592551803523">
         <mark key="'" line="38" column="33" />
@@ -266,7 +260,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>/</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -287,7 +281,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
