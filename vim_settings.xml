@@ -98,13 +98,6 @@
         <mark key="." line="7" column="22" />
         <mark key="^" line="7" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/api-transac/api/container.ts" timestamp="1592486742219">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="49" column="33" />
-        <mark key="]" line="50" column="6" />
-        <mark key="." line="50" column="5" />
-        <mark key="^" line="50" column="6" />
-      </file>
       <file name="$USER_HOME$/dev/mix-it/api/jest.config.js" timestamp="1592518714023">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="12" column="25" />
@@ -160,17 +153,13 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/mix-it/api/src/party/ws/test/host.test.ts" timestamp="1592517093797">
-        <mark key="'" line="84" column="0" />
-        <mark key="[" line="4" column="33" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
-        <mark key="^" line="83" column="11" />
-      </file>
       <file name="$USER_HOME$/dev/mix-it/api/src/party/ws/test/party-router.test.ts" timestamp="1592520073558">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/stripe-accounts/test/stripe-accounts.controller.test.ts" timestamp="1592569923028">
+        <mark key="[" line="39" column="9" />
       </file>
       <file name="$USER_HOME$/dev/mix-it/api/src/party/party-repository.ts" timestamp="1592517708560">
         <mark key="[" line="54" column="0" />
@@ -187,6 +176,9 @@
         <mark key="]" line="19" column="0" />
         <mark key="^" line="19" column="18" />
         <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/stripe-accounts/stripe-accounts.controller.ts" timestamp="1592569915814">
+        <mark key="[" line="24" column="10" />
       </file>
     </filemarks>
     <jumps>
@@ -302,8 +294,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG1pbmlUb2FzdHIgZnJvbSAnbWluaS10b2FzdHInCg==</text>
+      <register name="&quot;" type="4">
+        <text>Vous pourrez trouver votre compte Stripe à l'adresse https://dashboard.stripe.com/dashboard</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -324,7 +316,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>snotify</text>
+        <text>Vous pourrez trouver votre compte Stripe à l'adresse https://dashboard.stripe.com/dashboard</text>
       </register>
       <register name="/" type="4">
         <text>options</text>
