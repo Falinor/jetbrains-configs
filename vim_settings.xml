@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>props</entry>
         <entry encoding="base64">XDwiXD4=</entry>
         <entry>pages</entry>
         <entry encoding="base64">XDx2YWx1ZVw+</entry>
@@ -27,6 +26,7 @@
         <entry>\$dp==</entry>
         <entry>options</entry>
         <entry>name</entry>
+        <entry encoding="base64">XDwwXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>&quot;&quot;</entry>
@@ -85,12 +85,12 @@
         <mark key="]" line="29" column="10" />
         <mark key="." line="29" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/katas/game-of-life/node/src/index.js" timestamp="1592683795367">
-        <mark key="'" line="0" column="17" />
-        <mark key="[" line="3" column="18" />
-        <mark key="]" line="2" column="20" />
-        <mark key="^" line="2" column="20" />
-        <mark key="." line="2" column="19" />
+      <file name="$USER_HOME$/dev/katas/game-of-life/node/src/index.js" timestamp="1592692964261">
+        <mark key="'" line="7" column="8" />
+        <mark key="[" line="37" column="33" />
+        <mark key="]" line="26" column="24" />
+        <mark key="^" line="32" column="3" />
+        <mark key="." line="26" column="24" />
       </file>
       <file name="$USER_HOME$/dev/invivo/front-vendeurs/src/views/VOrderList/VOrderList.vue" timestamp="1592577398199">
         <mark key="[" line="220" column="99" />
@@ -140,20 +140,23 @@
         <mark key="^" line="1" column="13" />
         <mark key="." line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/katas/game-of-life/node/src/test/index.test.js" timestamp="1592683816317">
+      <file name="$USER_HOME$/dev/katas/game-of-life/node/src/test/index.test.js" timestamp="1592692438838">
+        <mark key="a" line="42" column="8" />
+        <mark key="'" line="29" column="8" />
         <mark key="i" line="15" column="16" />
-        <mark key="[" line="22" column="14" />
-        <mark key="]" line="22" column="15" />
-        <mark key="^" line="25" column="9" />
-        <mark key="." line="22" column="15" />
+        <mark key="[" line="155" column="18" />
+        <mark key="]" line="155" column="19" />
+        <mark key="^" line="149" column="24" />
+        <mark key="." line="155" column="19" />
+      </file>
+      <file name="$USER_HOME$/dev/katas/game-of-life/node/bin/index.js" timestamp="1592692139942">
+        <mark key="'" line="22" column="26" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="41" filename="$USER_HOME$/dev/invivo/api-transac/api/stripe-accounts/domain/test/generate-stripe-link.use-case.test.ts" />
-      <jump line="21" column="42" filename="$USER_HOME$/dev/invivo/api-transac/api/stripe-accounts/domain/test/generate-stripe-link.use-case.test.ts" />
-      <jump line="1" column="0" filename="$USER_HOME$/dev/invivo/api-transac/api/stripe-accounts/domain/test/generate-stripe-link.use-case.test.ts" />
-      <jump line="22" column="42" filename="$USER_HOME$/dev/invivo/api-transac/api/stripe-accounts/domain/test/generate-stripe-link.use-case.test.ts" />
-      <jump line="20" column="20" filename="$USER_HOME$/dev/invivo/api-transac/api/stripe-accounts/domain/test/generate-stripe-link.use-case.test.ts" />
       <jump line="0" column="7" filename="$USER_HOME$/dev/invivo/api-transac/api/stripe-accounts/domain/test/generate-stripe-link.use-case.test.ts" />
       <jump line="4" column="4" filename="$USER_HOME$/dev/invivo/api-transac/cli/generate-link.ts" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/invivo/api-transac/cli/generate-link.ts" />
@@ -249,6 +252,11 @@
       <jump line="671" column="18" filename="$USER_HOME$/dev/invivo/api-transac/api/test/orders/v2/orders.repository.integ.test.js" />
       <jump line="676" column="82" filename="$USER_HOME$/dev/invivo/api-transac/api/test/orders/v2/orders.repository.integ.test.js" />
       <jump line="0" column="17" filename="$USER_HOME$/dev/katas/game-of-life/node/src/index.js" />
+      <jump line="66" column="37" filename="$USER_HOME$/dev/katas/game-of-life/node/src/test/index.test.js" />
+      <jump line="3" column="8" filename="$USER_HOME$/dev/katas/game-of-life/node/src/index.js" />
+      <jump line="29" column="8" filename="$USER_HOME$/dev/katas/game-of-life/node/src/test/index.test.js" />
+      <jump line="1" column="1" filename="$USER_HOME$/dev/katas/game-of-life/node/bin/index.js" />
+      <jump line="3" column="26" filename="$USER_HOME$/dev/katas/game-of-life/node/bin/index.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -261,8 +269,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -283,46 +291,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>name</text>
+        <text encoding="base64">XDwwXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsgc3RhdHVzOiBPcmRlclN0YXR1c2VzLlBFTkRJTkcsIGNyZWF0ZWRBdDogJzIwMjAtMDEtMDFUMDA6MDA6MDBaJyB9LAo=</text>
+        <text encoding="base64">ICAgICAgICBbMCwgMCwgMCwgMCwgMF0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICBjb25zdCBuZXdHcmlkID0gWy4uLmdyaWRdOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ZnVuY3Rpb24gaQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgc3VtICs9IGdyaWRbeF1beV0K</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhncmlkKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY2FydHM6IHsgYW1vdW50OiBPUkRFUlNfVE9fR0VORVJBVEUgfSwKICAgICAgY2hlY2tvdXRzOiB7IGFtb3VudDogT1JERVJTX1RPX0dFTkVSQVRFIH0sCg==</text>
+        <text encoding="base64">ICBwcmludEdyaWQoZ3JpZCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
+        <text encoding="base64">CmZ1bmN0aW9uIHByaW50Rwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhncmlkKTsK</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IHNlZWQoe30K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgIG9yZGVyczogewogICAgICAgIGFtb3VudDogMTAsCiAgICAgICAgb3ZlcnJpZGVzOiB7CiAgICAgICAgICBjaGVja291dDogewogICAgICAgICAgICBjYXJ0OiB7CiAgICAgICAgICAgICAgdXNlcjogewogICAgICAgICAgICAgICAgcmVnaW9uOiAnJywKICAgICAgICAgICAgICAgIGNvb3BlcmF0aXZlSWQ6IDUKICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgIH0KICAgICAgICA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Y29uc3QgZ3JpZCA9IFtdCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -331,12 +339,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>name</last-search>
+      <last-search encoding="base64">XDwwXD4=</last-search>
       <last-offset />
-      <last-pattern>name</last-pattern>
+      <last-pattern encoding="base64">XDwwXD4=</last-pattern>
       <last-replace>productName</last-replace>
       <last-substitute>name</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
