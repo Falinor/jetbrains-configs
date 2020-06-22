@@ -79,15 +79,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/invivo/api-transac/api/orders/v2/test/confirm-order-payment.use-case.test.js" timestamp="1592834244881">
-        <mark key="'" line="82" column="78" />
-        <mark key="[" line="84" column="30" />
-        <mark key="]" line="14" column="49" />
-        <mark key="^" line="14" column="49" />
-        <mark key="." line="14" column="48" />
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/orders/v2/test/confirm-order-payment.use-case.test.js" timestamp="1592835697262">
+        <mark key="'" line="100" column="75" />
+        <mark key="[" line="100" column="77" />
+        <mark key="]" line="101" column="11" />
+        <mark key="^" line="101" column="11" />
+        <mark key="." line="101" column="10" />
       </file>
       <file name="$USER_HOME$/dev/invivo/api-transac/api/orders/v2/templates/farmer.validation.mail.html" timestamp="1592834083734" />
-      <file name="$USER_HOME$/dev/invivo/api-transac/api/users/user.js" timestamp="1592831387263" />
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/users/user.js" timestamp="1592835202260">
+        <mark key="'" line="57" column="41" />
+      </file>
       <file name="$USER_HOME$/dev/katas/game-of-life/node/src/index.js" timestamp="1592692964261">
         <mark key="'" line="7" column="8" />
         <mark key="[" line="37" column="33" />
@@ -110,17 +112,12 @@
         <mark key="^" line="94" column="8" />
         <mark key="." line="87" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1592683638872">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/carts/domain/cart.js" timestamp="1592834871594" />
       <file name="$USER_HOME$/dev/invivo/api-transac/api/shipping-methods/index.js" timestamp="1592770485100">
         <mark key="[" line="4" column="8" />
         <mark key="]" line="4" column="8" />
         <mark key="^" line="4" column="8" />
         <mark key="." line="4" column="7" />
-      </file>
-      <file name="$USER_HOME$/dev/katas/game-of-life/node/.prettierrc" timestamp="1592683201451">
-        <mark key="[" line="2" column="15" />
       </file>
       <file name="$USER_HOME$/dev/invivo/api-transac/api/test/container.test.ts" timestamp="1592770377859">
         <mark key="[" line="20" column="31" />
@@ -132,6 +129,7 @@
       <file name="/Dummy.txt" timestamp="1592770230509">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/orders/common/order.domain.js" timestamp="1592834864612" />
       <file name="$USER_HOME$/dev/invivo/api-transac/api/container.ts" timestamp="1592773516232">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="50" column="54" />
@@ -146,11 +144,11 @@
         <mark key="^" line="1" column="23" />
         <mark key="." line="1" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/api-transac/api/orders/v2/domain/confirm-order-payment.use-case.js" timestamp="1592834015530">
-        <mark key="[" line="25" column="49" />
-        <mark key="]" line="25" column="69" />
-        <mark key="^" line="25" column="69" />
-        <mark key="." line="25" column="68" />
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/orders/v2/domain/confirm-order-payment.use-case.js" timestamp="1592835288835">
+        <mark key="[" line="23" column="67" />
+        <mark key="]" line="22" column="10" />
+        <mark key="^" line="22" column="10" />
+        <mark key="." line="22" column="9" />
       </file>
       <file name="$USER_HOME$/dev/katas/game-of-life/node/src/test/index.test.js" timestamp="1592692438838">
         <mark key="a" line="42" column="8" />
@@ -170,9 +168,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/dev/invivo/api-transac/api/stripe-accounts/domain/test/obtain-cooperative-token.use-case.test.ts" />
-      <jump line="2" column="0" filename="$USER_HOME$/dev/invivo/api-transac/api/stripe-accounts/domain/test/obtain-cooperative-token.use-case.test.ts" />
-      <jump line="18" column="52" filename="$USER_HOME$/dev/invivo/api-transac/api/stripe-accounts/domain/test/obtain-cooperative-token.use-case.test.ts" />
       <jump line="3" column="0" filename="$USER_HOME$/dev/invivo/api-transac/api/stripe-accounts/domain/test/obtain-cooperative-token.use-case.test.ts" />
       <jump line="9" column="52" filename="$USER_HOME$/dev/invivo/api-transac/api/stripe-accounts/domain/test/obtain-cooperative-token.use-case.test.ts" />
       <jump line="27" column="53" filename="$USER_HOME$/dev/invivo/api-transac/api/stripe-accounts/domain/test/obtain-cooperative-token.use-case.test.ts" />
@@ -270,6 +265,9 @@
       <jump line="83" column="0" filename="$USER_HOME$/dev/invivo/api-transac/api/orders/v2/test/confirm-order-payment.use-case.test.js" />
       <jump line="70" column="8" filename="$USER_HOME$/dev/invivo/api-transac/api/orders/v2/test/confirm-order-payment.use-case.test.js" />
       <jump line="82" column="78" filename="$USER_HOME$/dev/invivo/api-transac/api/orders/v2/test/confirm-order-payment.use-case.test.js" />
+      <jump line="57" column="41" filename="$USER_HOME$/dev/invivo/api-transac/api/users/user.js" />
+      <jump line="88" column="41" filename="$USER_HOME$/dev/invivo/api-transac/api/orders/v2/test/confirm-order-payment.use-case.test.js" />
+      <jump line="100" column="75" filename="$USER_HOME$/dev/invivo/api-transac/api/orders/v2/test/confirm-order-payment.use-case.test.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -282,8 +280,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgc2VuZFNlbGxlclZhbGlkYXRpb246IHN0dWIoKS5uYW1lZCgnc2VuZFNlbGxlclZhbGlkYXRpb24nKS5yZXNvbHZlcygpLAogICAgICBzZW5kRmFybWVyVmFsaWRhdGlvbjogc3R1YigpLm5hbWVkKCdzZW5kRmFybWVyVmFsaWRhdGlvbicpCg==</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -304,13 +302,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>INVALID_STATUS</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>onInvalidStatus</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2JlZm9yZUVhY2ggMScpCg==</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3Qob3JkZXJzUmVwb3NpdG9yeS51cGRhdGUpLnRvLmhhdmUuYmVlbi5jYWxsZWRPbmNlCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgc2VuZFNlbGxlclZhbGlkYXRpb246IHN0dWIoKS5uYW1lZCgnc2VuZFNlbGxlclZhbGlkYXRpb24nKS5yZXNvbHZlcygpLAogICAgICBzZW5kRmFybWVyVmFsaWRhdGlvbjogc3R1YigpLm5hbWVkKCdzZW5kRmFybWVyVmFsaWRhdGlvbicpCg==</text>
