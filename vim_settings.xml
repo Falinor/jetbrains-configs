@@ -79,11 +79,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/woapi/formation-anode/baby-foot/src/infra/match/arango-repository.js" timestamp="1592901377678">
+      <file name="$USER_HOME$/dev/woapi/formation-anode/baby-foot/src/infra/match/arango-repository.js" timestamp="1592906647556">
         <mark key="'" line="0" column="47" />
-        <mark key="]" line="2" column="35" />
-        <mark key="^" line="2" column="35" />
-        <mark key="." line="2" column="34" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1592866002490">
         <mark key="[" line="0" column="0" />
@@ -113,11 +113,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/woapi/formation-anode/baby-foot/src/utils/factory.js" timestamp="1592903809959">
-        <mark key="[" line="9" column="25" />
-        <mark key="]" line="9" column="25" />
-        <mark key="^" line="10" column="31" />
-        <mark key="." line="9" column="25" />
+      <file name="$USER_HOME$/dev/woapi/formation-anode/baby-foot/src/utils/factory.js" timestamp="1592904858255">
+        <mark key="[" line="1" column="36" />
+        <mark key="]" line="5" column="42" />
+        <mark key="^" line="5" column="42" />
+        <mark key="." line="5" column="41" />
       </file>
       <file name="$USER_HOME$/dev/woapi/formation-anode/baby-foot/src/types/match.d.ts" timestamp="1592862156736">
         <mark key="[" line="12" column="0" />
@@ -147,12 +147,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/woapi/formation-anode/baby-foot/src/infra/match/test/arango-repository.test.js" timestamp="1592901981072">
+      <file name="$USER_HOME$/dev/woapi/formation-anode/baby-foot/src/infra/match/test/arango-repository.test.js" timestamp="1592905193359">
         <mark key="'" line="1" column="25" />
-        <mark key="[" line="13" column="6" />
-        <mark key="]" line="13" column="6" />
-        <mark key="." line="13" column="5" />
-        <mark key="^" line="13" column="6" />
+        <mark key="[" line="27" column="21" />
+        <mark key="]" line="27" column="21" />
+        <mark key="." line="27" column="21" />
+        <mark key="^" line="29" column="30" />
       </file>
       <file name="$USER_HOME$/dev/woapi/formation-anode/baby-foot/src/interfaces/http/match/controller.js" timestamp="1592863502482">
         <mark key="[" line="18" column="0" />
@@ -311,8 +311,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNyZWF0ZWRBdDogbmV3IERhdGUoKSwKICAgIHVwZGF0ZWRBdDogbmV3IERhdGUoKQo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -333,7 +333,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>toMatchObject</text>
       </register>
       <register name="/" type="4">
         <text>onInvalidStatus</text>
@@ -342,25 +342,25 @@
         <text encoding="base64">ICAgICAgICBwbGF5ZXJzOiBleHBlY3QuYW55KEFycmF5KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYmx1ZTogCg==</text>
+        <text encoding="base64">ICAgIGNyZWF0ZWRBdDogbmV3IERhdGUoKSwKICAgIHVwZGF0ZWRBdDogbmV3IERhdGUoKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CmV4cG9ydCBjb25zdCB0ZWFtRmFjdG9yeSA9IG5ldyBGYWN0b3J5KCkuYXR0cnMoewogIAp9KQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICB9KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGF0YWJhc2UuCg==</text>
+        <text encoding="base64">ICAgICAgYmx1ZTogCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBsZXQgbWF0Y2gK</text>
+      <register name="4" type="4">
+        <text encoding="base64">CmV4cG9ydCBjb25zdCB0ZWFtRmFjdG9yeSA9IG5ldyBGYWN0b3J5KCkuYXR0cnMoewogIAp9KQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGF0YWJhc2UuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBsZXQgZGIK</text>
+        <text encoding="base64">ICBsZXQgbWF0Y2gK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -369,10 +369,10 @@
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCBkYiA9IG5ldyBEYXRhYmFzZSgpCg==</text>
+        <text encoding="base64">ICBsZXQgZGIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
