@@ -91,11 +91,11 @@
         <mark key="." line="16" column="5" />
         <mark key="^" line="16" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/api-transac/api/shipping-rates/domain/replace-or-create-shipping-rate.use-case.ts" timestamp="1593612504874">
-        <mark key="[" line="18" column="58" />
-        <mark key="]" line="18" column="46" />
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/shipping-rates/domain/replace-or-create-shipping-rate.use-case.ts" timestamp="1593613647545">
+        <mark key="[" line="16" column="19" />
+        <mark key="]" line="16" column="19" />
         <mark key="^" line="18" column="46" />
-        <mark key="." line="18" column="45" />
+        <mark key="." line="16" column="19" />
       </file>
       <file name="$USER_HOME$/dev/invivo/front-agri/src/components/CHomeHeaderCarousel/CHomeHeaderCarousel.vue" timestamp="1592990948523">
         <mark key="[" line="64" column="0" />
@@ -296,7 +296,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>replaceOrCreateShippingRateUseCase</text>
+        <text>number</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -317,7 +317,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>replaceOrCreateShippingRateUseCase</text>
+        <text>number</text>
       </register>
       <register name="/" type="4">
         <text>onInvalidStatus</text>
