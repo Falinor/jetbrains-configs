@@ -90,7 +90,8 @@
       <file name="/JavaScript Console" timestamp="1593612146848">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/api-transac/api/shipping-rates/domain/create-shipping-rate.use-case.ts" timestamp="1593611100344">
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/carts/carts.repository.js" timestamp="1593697215793" />
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/shipping-rates/domain/create-shipping-rate.use-case.ts" timestamp="1593698005430">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
@@ -102,10 +103,11 @@
         <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/dev/invivo/api-transac/api/carts/carts.domain.js" timestamp="1593696456429" />
-      <file name="$USER_HOME$/dev/invivo/api-transac/api/carts/domain/list-carts.use-case.js" timestamp="1593696891365">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/carts/domain/list-carts.use-case.js" timestamp="1593697864498">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/invivo/api-transac/api/container.ts" timestamp="1593610103629">
         <mark key="[" line="51" column="6" />
@@ -123,23 +125,15 @@
       <file name="/" timestamp="1593695871580">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/api-transac/api/carts/carts.routes.js" timestamp="1593696047951" />
-      <file name="$USER_HOME$/dev/invivo/front-agri/ansible/group_vars/env_prd/vars.yml" timestamp="1592991306173">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
-        <mark key="^" line="60" column="50" />
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/carts/domain/cart.ts" timestamp="1593697699409">
+        <mark key="[" line="285" column="0" />
+        <mark key="]" line="286" column="29" />
+        <mark key="." line="286" column="28" />
+        <mark key="^" line="286" column="29" />
       </file>
+      <file name="$USER_HOME$/dev/invivo/api-transac/api/carts/carts.routes.js" timestamp="1593696047951" />
     </filemarks>
     <jumps>
-      <jump line="134" column="8" filename="$USER_HOME$/dev/invivo/api-transac/api/test/checkouts.integ.test.js" />
-      <jump line="59" column="2" filename="$USER_HOME$/dev/invivo/api-transac/api/factory.js" />
-      <jump line="188" column="0" filename="$USER_HOME$/dev/invivo/api-transac/api/factory.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/invivo/api-transac/api/factory.js" />
-      <jump line="13" column="0" filename="$USER_HOME$/dev/invivo/api-transac/.env.test" />
-      <jump line="70" column="6" filename="$USER_HOME$/dev/invivo/api-transac/api/utils/sequelize-adapter.js" />
-      <jump line="111" column="31" filename="$USER_HOME$/dev/invivo/api-transac/package.json" />
-      <jump line="104" column="7" filename="$USER_HOME$/dev/invivo/api-transac/config.ts" />
       <jump line="271" column="0" filename="$USER_HOME$/dev/invivo/api-transac/config.ts" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/invivo/api-transac/config.ts" />
       <jump line="261" column="0" filename="$USER_HOME$/dev/invivo/api-transac/config.ts" />
@@ -232,6 +226,14 @@
       <jump line="36" column="0" filename="$USER_HOME$/dev/woapi/formation-anode/baby-foot/src/interfaces/http/server.js" />
       <jump line="1" column="19" filename="$USER_HOME$/dev/woapi/formation-anode/baby-foot/src/interfaces/http/router.js" />
       <jump line="11" column="57" filename="$USER_HOME$/dev/woapi/formation-anode/baby-foot/src/interfaces/http/match/index.js" />
+      <jump line="34" column="24" filename="$USER_HOME$/dev/invivo/api-transac/api/carts/domain/cart.ts" />
+      <jump line="284" column="3" filename="$USER_HOME$/dev/invivo/api-transac/api/carts/domain/cart.ts" />
+      <jump line="273" column="0" filename="$USER_HOME$/dev/invivo/api-transac/api/carts/domain/cart.ts" />
+      <jump line="294" column="0" filename="$USER_HOME$/dev/invivo/api-transac/api/carts/domain/cart.ts" />
+      <jump line="272" column="0" filename="$USER_HOME$/dev/invivo/api-transac/api/carts/domain/cart.ts" />
+      <jump line="281" column="1" filename="$USER_HOME$/dev/invivo/api-transac/api/carts/domain/cart.ts" />
+      <jump line="14" column="0" filename="$USER_HOME$/dev/invivo/api-transac/api/carts/domain/list-carts.use-case.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/invivo/api-transac/api/carts/domain/list-carts.use-case.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -244,8 +246,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIGlmICghaXNDb21wYW55TWVtYmVyKG1lbWJlcnNoaXBOdW1iZXIsIGNvb3BlcmF0aXZlSWQpKHVzZXIpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>x</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -266,7 +268,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text>onInvalidStatus</text>
@@ -275,37 +277,37 @@
         <text encoding="base64">ICAtICJodHRwczovL2pzLnN0cmlwZS5jb20iICMgbmVlZGVkIGZvciBTdHJpcGUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIGlmICghaXNDb21wYW55TWVtYmVyKG1lbWJlcnNoaXBOdW1iZXIsIGNvb3BlcmF0aXZlSWQpKHVzZXIpKQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgY3JlYXRlQ2FydERvbWFpbiB9IGZyb20gJy4vY2FydCcKCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnRhaW5lci5yZXNvbHZlKCdNb25Hcm9zVXNlQ2FzZScpCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGNhcnREb21haW5zID0gY2FydHMubWFwKGNhcnQgPT4gY3JlYXRlQ2FydERvbWFpbihjYXJ0KSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgc2hpcHBpbmdSYXRlc0RvbWFpbjogeyBnZXQ6ICgpID0+IHVzZUNhc2UgfQo=</text>
+        <text encoding="base64">ICAgIGNyZWF0ZUNhcnREb21haW4oKQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICkK</text>
+      <register name="4" type="4">
+        <text encoding="base64">CmZ1bmN0aW9uIGNyZWF0ZUNhcnREb21haW4oY2FydDogQ2FydCkgewogIHJldHVybiB7CiAgICB0b3RhbFRheGVzKCk6IG51bWJlciB7CiAgICAgIAogICAgfQogIH0KfQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJlcGxhY2VPckNyZWF0ZVNoaXBwaW5nUmF0ZVVzZUNhc2U6IFJlcGxhY2VPckNyZWF0ZVNoaXBwaW5nUmF0ZVVzZUNhc2UgPSB0aGlzLnNoaXBwaW5nUmF0ZXNEb21haW4uZ2V0KAogICAgICAnUmVwbGFjZU9yQ3JlYXRlU2hpcHBpbmdSYXRlJwo=</text>
+        <text encoding="base64">CmludGVyZmFjZSBDYXJ0IHsKICBpZD86IG51bWJlcgogIGxpbmVJdGVtczogTGluZUl0ZW1bXQogIC8vIC4uLgp9CgpjbGFzcyBDYXJ0RG9tYWluIHsKICBjb25zdHJ1Y3RvcihjYXJ0OiBDYXJ0KSB7CiAgfQogIAogIHRvdGFsVGF4ZXMoKTogbnVtYmVyIHsKICAgIAogIH0KfQoKZnVuY3Rpb24gY3JlYXRlQ2FydERvbWFpbihjYXJ0OiBDYXJ0KSB7CiAgcmV0dXJuIHsKICAgIHRvdGFsVGF4ZXMoKTogbnVtYmVyIHsKICAgICAgCiAgICB9CiAgfQp9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAogICAgY29uc3QgY3JlYXRlU2hpcHBpbmdSYXRlVXNlQ2FzZSA9IHRoaXMuc2hpcHBpbmdSYXRlc0RvbWFpbi5nZXQoJ0NyZWF0ZVNoaXBwaW5nUmF0ZScpCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHNoaXBwaW5nUmF0ZXNEb21haW46IFNoaXBwaW5nUmF0ZXNEb21haW4K</text>
+      <register name="7" type="4">
+        <text encoding="base64">CgpmdW5jdGlvbiB0b3RhbFRheGVzKGNhcnQ6IENhcnQpOiBudW1iZXIgewogIAp9</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2hpcHBpbmdSYXRlc1JlcG9zaXRvcnkuY3JlYXRlKCkK</text>
+        <text encoding="base64">ICAgIC8vIGlmICghaXNDb21wYW55TWVtYmVyKG1lbWJlcnNoaXBOdW1iZXIsIGNvb3BlcmF0aXZlSWQpKHVzZXIpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IFNoaXBwaW5nUmF0ZXNSZXBvc2l0b3J5IGZyb20gJy4uL3NoaXBwaW5nLXJhdGVzLnJlcG9zaXRvcnknCg==</text>
+        <text encoding="base64">ICAgIGNvbnRhaW5lci5yZXNvbHZlKCdNb25Hcm9zVXNlQ2FzZScpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
