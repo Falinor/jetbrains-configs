@@ -91,18 +91,11 @@
         <mark key="^" line="1" column="37" />
         <mark key="." line="1" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/front-agri/src/views/VOrders/VOrders.spec.js" timestamp="1594305451550">
-        <mark key="[" line="235" column="71" />
-        <mark key="]" line="235" column="69" />
-        <mark key="^" line="235" column="69" />
-        <mark key="." line="235" column="68" />
-      </file>
-      <file name="$USER_HOME$/dev/invivo/api-transac/api/payment-methods/domain/list-payment-methods.use-case.ts" timestamp="1594197013318">
-        <mark key="'" line="54" column="0" />
-        <mark key="[" line="33" column="76" />
-        <mark key="]" line="33" column="76" />
-        <mark key="^" line="33" column="79" />
-        <mark key="." line="33" column="76" />
+      <file name="$USER_HOME$/dev/invivo/front-agri/src/views/VOrders/VOrders.spec.js" timestamp="1594307067636">
+        <mark key="[" line="20" column="46" />
+        <mark key="]" line="20" column="64" />
+        <mark key="^" line="20" column="64" />
+        <mark key="." line="20" column="63" />
       </file>
       <file name="$USER_HOME$/dev/invivo/api-transac/api/payment-methods/test/list-payment-methods.use-case.test.ts" timestamp="1594197074408">
         <mark key="'" line="48" column="0" />
@@ -110,6 +103,10 @@
         <mark key="]" line="644" column="73" />
         <mark key="^" line="644" column="70" />
         <mark key="." line="644" column="73" />
+      </file>
+      <file name="$USER_HOME$/dev/invivo/front-agri/src/services/order.service.js" timestamp="1594307062353" />
+      <file name="/JavaScript Console" timestamp="1594305468925">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/invivo/front-vendeurs/tests/e2e/specs/authentication/login.test.js" timestamp="1594284783461">
         <mark key="[" line="17" column="17" />
@@ -237,7 +234,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>commandes</text>
+        <text>listWithPagination</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -258,7 +255,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>commandes</text>
+        <text>listWithPagination</text>
       </register>
       <register name="/" type="4">
         <text>onInvalidStatus</text>
