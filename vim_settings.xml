@@ -80,6 +80,8 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/dev/invivo/front-vendeurs/tests/e2e/support/commands/login.js" timestamp="1594283596660" />
+      <file name="$USER_HOME$/dev/invivo/front-vendeurs/tests/e2e/support/commands/create-order.js" timestamp="1594285344256" />
+      <file name="$USER_HOME$/dev/invivo/front-vendeurs/tests/e2e/support/commands/local-storage.js" timestamp="1594284837434" />
       <file name="$USER_HOME$/dev/invivo/front-agri/tests/e2e/specs/authentication/login.test.js" timestamp="1594282268364" />
       <file name="$USER_HOME$/dev/invivo/front-vendeurs/tests/e2e/support/index.js" timestamp="1594283465224" />
       <file name="$USER_HOME$/dev/invivo/api-transac/api/payment-methods/test/list-payment-methods.use-case.test.ts" timestamp="1594197074408">
@@ -93,6 +95,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/invivo/front-vendeurs/tests/e2e/support/commands/create-cart.js" timestamp="1594284415365" />
+      <file name="$USER_HOME$/dev/invivo/front-vendeurs/tests/e2e/specs/order/order-list.test.js" timestamp="1594285916927">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/invivo/api-transac/api/test/payment-methods.integ.test.ts" timestamp="1594196493177">
         <mark key="[" line="264" column="78" />
         <mark key="]" line="264" column="35" />
@@ -105,6 +112,7 @@
         <mark key="^" line="1" column="37" />
         <mark key="." line="1" column="36" />
       </file>
+      <file name="$USER_HOME$/dev/invivo/front-vendeurs/tests/e2e/fixtures/offers/order_list_offers.csv" timestamp="1594285010721" />
       <file name="$USER_HOME$/dev/invivo/api-transac/api/payment-methods/domain/list-payment-methods.use-case.ts" timestamp="1594197013318">
         <mark key="'" line="54" column="0" />
         <mark key="[" line="33" column="76" />
@@ -112,24 +120,14 @@
         <mark key="^" line="33" column="79" />
         <mark key="." line="33" column="76" />
       </file>
-      <file name="/" timestamp="1594131126852">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/dev/invivo/front-vendeurs/tests/e2e/fixtures/catalogs/order_list_catalog.csv" timestamp="1594284996165" />
+      <file name="$USER_HOME$/dev/invivo/front-vendeurs/cypress.json" timestamp="1594284638906" />
+      <file name="$USER_HOME$/dev/invivo/front-vendeurs/tests/e2e/specs/authentication/login.test.js" timestamp="1594284783461">
+        <mark key="[" line="17" column="17" />
+        <mark key="]" line="17" column="23" />
+        <mark key="." line="17" column="22" />
+        <mark key="^" line="17" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/api-transac/api/test/orders/v2/orders.repository.integ.test.js" timestamp="1594116122429">
-        <mark key="[" line="112" column="40" />
-        <mark key="]" line="112" column="42" />
-        <mark key="^" line="112" column="42" />
-        <mark key="." line="112" column="41" />
-      </file>
-      <file name="$USER_HOME$/dev/invivo/api-transac/api/payment-methods/domain/payment-method.ts" timestamp="1594135604134">
-        <mark key="[" line="5" column="28" />
-        <mark key="]" line="5" column="35" />
-        <mark key="^" line="5" column="35" />
-        <mark key="." line="5" column="34" />
-      </file>
-      <file name="$USER_HOME$/dev/invivo/front-vendeurs/tests/e2e/fixtures/catalogs/order_list_catalog.csv" timestamp="1594283262038" />
-      <file name="$USER_HOME$/dev/invivo/front-vendeurs/cypress.json" timestamp="1594283634626" />
-      <file name="$USER_HOME$/dev/invivo/front-vendeurs/tests/e2e/specs/authentication/login.test.js" timestamp="1594284505021" />
       <file name="$USER_HOME$/dev/invivo/front-vendeurs/tests/e2e/plugins/index.js" timestamp="1594283341626" />
     </filemarks>
     <jumps>
@@ -245,8 +243,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>cooperative_account</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIH0pCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -267,7 +265,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>cooperative_account</text>
+        <text>eq</text>
       </register>
       <register name="/" type="4">
         <text>onInvalidStatus</text>
@@ -276,34 +274,34 @@
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2JpdGUnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBtYWlzIHF1ZSBsZSBjb21wdGUgc3RyaXBlIG4nZXN0IHBhcyBzZXR1cCwgYWxvcnMgdW5lIGVycmV1ciBzZXJhIHJlbW9udMOpZS4K</text>
+        <text encoding="base64">ICAgICAgICAgIH0pCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyBERVZOT1RFIChNQUdSIC8gTE9CSSkgMjUvMDYvMjAyMDogTG9ycyBkdSBsaXN0aW5nIGRlcyBtb3llbnMgZGUgcGFpZW1lbnQsCiAgLy8gc2kgbCd1dGlsaXNhdGV1ciBhIGxlIGRyb2l0IGQndXRpbGlzZXIgbGEgY2FydGUgYmFuY2FpcmUK</text>
+        <text encoding="base64">ICAgICAgICAgIC50aGVuKGNoZWNrb3V0ID0+IHsKICAgICAgICAgICAgY3kuY3JlYXRlT3JkZXJzKGNoZWNrb3V0LCBhY2Nlc3NUb2tlbikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KGJvZHkuY29kZSkudG8uZXF1YWwoJ09LJykK</text>
+        <text encoding="base64">ICAgICAgLmZpbmQoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KGJvZHkuY29kZSkudG8uZXF1YWwoJ09LJykK</text>
+        <text encoding="base64">ICAgICAgY29kZTogMjAwLAogICAgICBkYXRhOiBbXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2JpdGVmb3JlJykK</text>
+        <text encoding="base64">ICAvLyBtYWlzIHF1ZSBsZSBjb21wdGUgc3RyaXBlIG4nZXN0IHBhcyBzZXR1cCwgYWxvcnMgdW5lIGVycmV1ciBzZXJhIHJlbW9udMOpZS4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy52ZXJpZnlDYXJkUGF5bWVudEFjY291bnQodXNlciwgY29vcGVyYXRpdmVJZCwgY2hlY2tvdXQpLAo=</text>
+        <text encoding="base64">ICAvLyBERVZOT1RFIChNQUdSIC8gTE9CSSkgMjUvMDYvMjAyMDogTG9ycyBkdSBsaXN0aW5nIGRlcyBtb3llbnMgZGUgcGFpZW1lbnQsCiAgLy8gc2kgbCd1dGlsaXNhdGV1ciBhIGxlIGRyb2l0IGQndXRpbGlzZXIgbGEgY2FydGUgYmFuY2FpcmUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy52ZXJpZnlNYXhpbXVtQXV0aG9yaXplZEFtb3VudChtZW1iZXJzaGlwTnVtYmVyLCBjb29wZXJhdGl2ZUlkLCBjaGVja291dCksCg==</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KGJvZHkuY29kZSkudG8uZXF1YWwoJ09LJykK</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdiaXRlZm9yZScpCg==</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KGJvZHkuY29kZSkudG8uZXF1YWwoJ09LJykK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2JpdGVmb3JlJykK</text>
