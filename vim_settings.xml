@@ -81,6 +81,8 @@
     <filemarks>
       <file name="$USER_HOME$/dev/invivo/front-vendeurs/tests/e2e/support/commands/login.js" timestamp="1594283596660" />
       <file name="$USER_HOME$/dev/invivo/front-vendeurs/tests/e2e/support/commands/create-order.js" timestamp="1594285344256" />
+      <file name="$USER_HOME$/dev/invivo/front-vendeurs/cypress.env.json" timestamp="1594287300997" />
+      <file name="$USER_HOME$/dev/invivo/front-vendeurs/src/config.js" timestamp="1594287224473" />
       <file name="$USER_HOME$/dev/invivo/front-vendeurs/tests/e2e/support/commands/local-storage.js" timestamp="1594284837434" />
       <file name="$USER_HOME$/dev/invivo/front-agri/tests/e2e/specs/authentication/login.test.js" timestamp="1594282268364" />
       <file name="$USER_HOME$/dev/invivo/front-vendeurs/tests/e2e/support/index.js" timestamp="1594283465224" />
@@ -91,22 +93,13 @@
         <mark key="^" line="644" column="70" />
         <mark key="." line="644" column="73" />
       </file>
-      <file name="/JavaScript Console" timestamp="1594137503631">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/dev/invivo/front-vendeurs/tests/e2e/support/commands/create-cart.js" timestamp="1594287272987" />
+      <file name="$USER_HOME$/dev/invivo/front-vendeurs/tests/e2e/specs/order/order-list.test.js" timestamp="1594287161920">
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/front-vendeurs/tests/e2e/support/commands/create-cart.js" timestamp="1594284415365" />
-      <file name="$USER_HOME$/dev/invivo/front-vendeurs/tests/e2e/specs/order/order-list.test.js" timestamp="1594285916927">
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/invivo/api-transac/api/test/payment-methods.integ.test.ts" timestamp="1594196493177">
-        <mark key="[" line="264" column="78" />
-        <mark key="]" line="264" column="35" />
-        <mark key="." line="264" column="35" />
-        <mark key="^" line="264" column="35" />
-      </file>
-      <file name="$USER_HOME$/dev/invivo/front-vendeurs/cypress.env.example.json" timestamp="1594283705106">
+      <file name="$USER_HOME$/dev/invivo/front-vendeurs/cypress.env.example.json" timestamp="1594286953576">
         <mark key="[" line="1" column="21" />
         <mark key="]" line="1" column="37" />
         <mark key="^" line="1" column="37" />
@@ -244,7 +237,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgY3kubG9nKCdUZXN0JykuZ2V0KCcnKQo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -274,37 +267,37 @@
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2JpdGUnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgY3kubG9nKCdUZXN0JykuZ2V0KCcnKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIC50aGVuKGNoZWNrb3V0ID0+IHsKICAgICAgICAgICAgY3kuY3JlYXRlT3JkZXJzKGNoZWNrb3V0LCBhY2Nlc3NUb2tlbikK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3Rlc3QnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLmZpbmQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIH0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29kZTogMjAwLAogICAgICBkYXRhOiBbXQo=</text>
+        <text encoding="base64">ICAgICAgICAgIC50aGVuKGNoZWNrb3V0ID0+IHsKICAgICAgICAgICAgY3kuY3JlYXRlT3JkZXJzKGNoZWNrb3V0LCBhY2Nlc3NUb2tlbikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyBtYWlzIHF1ZSBsZSBjb21wdGUgc3RyaXBlIG4nZXN0IHBhcyBzZXR1cCwgYWxvcnMgdW5lIGVycmV1ciBzZXJhIHJlbW9udMOpZS4K</text>
+        <text encoding="base64">ICAgICAgLmZpbmQoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyBERVZOT1RFIChNQUdSIC8gTE9CSSkgMjUvMDYvMjAyMDogTG9ycyBkdSBsaXN0aW5nIGRlcyBtb3llbnMgZGUgcGFpZW1lbnQsCiAgLy8gc2kgbCd1dGlsaXNhdGV1ciBhIGxlIGRyb2l0IGQndXRpbGlzZXIgbGEgY2FydGUgYmFuY2FpcmUK</text>
+        <text encoding="base64">ICAgICAgY29kZTogMjAwLAogICAgICBkYXRhOiBbXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KGJvZHkuY29kZSkudG8uZXF1YWwoJ09LJykK</text>
+        <text encoding="base64">ICAvLyBtYWlzIHF1ZSBsZSBjb21wdGUgc3RyaXBlIG4nZXN0IHBhcyBzZXR1cCwgYWxvcnMgdW5lIGVycmV1ciBzZXJhIHJlbW9udMOpZS4K</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KGJvZHkuY29kZSkudG8uZXF1YWwoJ09LJykK</text>
+        <text encoding="base64">ICAvLyBERVZOT1RFIChNQUdSIC8gTE9CSSkgMjUvMDYvMjAyMDogTG9ycyBkdSBsaXN0aW5nIGRlcyBtb3llbnMgZGUgcGFpZW1lbnQsCiAgLy8gc2kgbCd1dGlsaXNhdGV1ciBhIGxlIGRyb2l0IGQndXRpbGlzZXIgbGEgY2FydGUgYmFuY2FpcmUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2JpdGVmb3JlJykK</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KGJvZHkuY29kZSkudG8uZXF1YWwoJ09LJykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
