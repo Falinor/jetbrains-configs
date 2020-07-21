@@ -91,13 +91,10 @@
         <mark key="^" line="109" column="52" />
         <mark key="." line="110" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/api-transac/ansible/group_vars/env_new_coop/vars.yml" timestamp="1595324822255">
+      <file name="$USER_HOME$/dev/invivo/api-transac/ansible/group_vars/env_new_coop/vars.yml" timestamp="1595325952095">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/invivo/api-transac/node_modules/ts-sinon/dist/index.d.ts" timestamp="1594908780327">
-        <mark key="[" line="7" column="3" />
       </file>
       <file name="$USER_HOME$/dev/mix-it/api/src/party/ws/party-router.ts" timestamp="1595280904182">
         <mark key="[" line="14" column="0" />
@@ -110,12 +107,6 @@
         <mark key="]" line="8" column="33" />
         <mark key="^" line="8" column="33" />
         <mark key="." line="8" column="32" />
-      </file>
-      <file name="$USER_HOME$/dev/invivo/api-transac/api/payment-methods/payment-methods.controller.ts" timestamp="1594908315737">
-        <mark key="[" line="12" column="1" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="21" column="56" />
       </file>
       <file name="$USER_HOME$/dev/invivo/api-transac/api/payment-methods/use-cases/list-payment-methods.ts" timestamp="1594911776793">
         <mark key="'" line="36" column="56" />
@@ -131,16 +122,12 @@
         <mark key="^" line="41" column="25" />
         <mark key="." line="41" column="24" />
       </file>
+      <file name="$USER_HOME$/dev/invivo/front-agri/ansible/group_vars/env_coop/vars.yml" timestamp="1595325588136" />
       <file name="$USER_HOME$/dev/invivo/api-transac/api/shipping-methods/domain/list-shipping-methods.use-case.js" timestamp="1595324477679" />
-      <file name="$USER_HOME$/dev/invivo/api-transac/ansible/group_vars/env_coop/vars.yml" timestamp="1595324819676">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/invivo/api-transac/api/payment-methods/domain/list-payment-methods.use-case.ts" timestamp="1594908176865">
-        <mark key="[" line="120" column="0" />
-        <mark key="]" line="120" column="0" />
-        <mark key="." line="120" column="0" />
+      <file name="$USER_HOME$/dev/invivo/api-transac/ansible/group_vars/env_coop/vars.yml" timestamp="1595325950117">
+        <mark key="[" line="47" column="24" />
+        <mark key="]" line="47" column="24" />
+        <mark key="." line="47" column="24" />
       </file>
       <file name="$USER_HOME$/dev/mix-it/mono-repo/tsconfig.json" timestamp="1595319624264">
         <mark key="[" line="2" column="21" />
@@ -153,24 +140,19 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/api-transac/ansible/group_vars/env_ops/vars.yml" timestamp="1595324824353">
+      <file name="$USER_HOME$/dev/invivo/api-transac/ansible/group_vars/env_ops/vars.yml" timestamp="1595325955179">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/invivo/api-transac/api/payment-methods/test/payment-methods.controller.test.ts" timestamp="1594907605496">
-        <mark key="'" line="47" column="30" />
-        <mark key="[" line="47" column="7" />
-        <mark key="]" line="47" column="7" />
-        <mark key="." line="47" column="6" />
-        <mark key="^" line="47" column="7" />
       </file>
       <file name="$USER_HOME$/dev/invivo/api-transac/ansible/group_vars/env_qua/vars.yml" timestamp="1595324790747">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/invivo/api-transac/ansible/group_vars/env_prd/vars.yml" timestamp="1595324826390">
+      <file name="$USER_HOME$/dev/invivo/front-agri/ansible/group_vars/env_ops/vars.yml" timestamp="1595325575805" />
+      <file name="$USER_HOME$/dev/invivo/front-agri/ansible/group_vars/all/vars.yml" timestamp="1595325580382" />
+      <file name="$USER_HOME$/dev/invivo/api-transac/ansible/group_vars/env_prd/vars.yml" timestamp="1595325958352">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
@@ -295,8 +277,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c3RyaXBlX3JlZGlyZWN0X3VyaTogImh0dHBzOi8ve3sgaG9zdG5hbWUgfX0vb2F1dGgvc3RyaXBlIgo=</text>
+      <register name="&quot;" type="4">
+        <text>FIXME</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -317,7 +299,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>hop-api.{{ dns_zone_name }</text>
+        <text>FIXME</text>
       </register>
       <register name="/" type="4">
         <text>typescript</text>
