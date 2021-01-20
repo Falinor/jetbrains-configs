@@ -40,6 +40,17 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="dz" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdns-files.dzcdn.net_js_min_dz.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdns-files.dzcdn.net_js_min_dz.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="spotify-player" type="javaScript">
       <properties>
         <sourceFilesUrls>
