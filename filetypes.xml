@@ -20,7 +20,6 @@
       <mapping pattern=".nycrc" type="PLAIN_TEXT" />
       <mapping pattern="floor" type="PLAIN_TEXT" />
       <mapping pattern="OperationControllerIntegrationTest" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".releaserc" type="PLAIN_TEXT" />
       <mapping pattern="v2" type="PLAIN_TEXT" />
@@ -42,6 +41,7 @@
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping pattern=".env" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
