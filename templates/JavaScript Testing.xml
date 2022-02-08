@@ -19,4 +19,10 @@
   <template name="bf" value="before(() =&gt; {&#10;  $END$&#10;});" description="Inserts before() block" toReformat="true" toShortenFQNames="true">
     <context />
   </template>
+  <template name="cont" value="context('$NAME$', () =&gt; {&#10;  $END$&#10;});" description="Insert context() block" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
