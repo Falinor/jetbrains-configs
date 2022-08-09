@@ -1,8 +1,5 @@
 <application>
   <component name="NodeJsLocalInterpreterManager">
-    <local-interpreter path="$USER_HOME$/dev/sideralys-api/node_modules/.bin/ts-node">
-      <version-cache version="10.8.1" last-modified="1654949484532" />
-    </local-interpreter>
     <local-interpreter path="/opt/homebrew/bin/node">
       <version-cache version="18.6.0" last-modified="1658760477727" />
     </local-interpreter>
@@ -17,6 +14,9 @@
     </local-interpreter>
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v15.14.0/bin/node">
       <version-cache version="15.14.0" last-modified="1619213826659" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/dev/sideralys-api/node_modules/.bin/ts-node">
+      <version-cache version="10.8.1" last-modified="1654949484532" />
     </local-interpreter>
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v14.16.1/bin/node" excluded="true" />
   </component>
